@@ -1,0 +1,67 @@
+name: Fetch and Update Web3 News
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 0:00 触发
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - master  # 如果有推送到 master 分支，也会触发
+
+permissions:
+  contents: write  # 允许修改内容
+
+jobs:
+  fetch_and_update_web3_news:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1  # 只拉取最新的提交
+
+      # Step 2: Fetch Web3 news from public RSS feed
+      - name: Fetch Web3 News from CryptoPanic
+        run: |
+          curl "https://cryptopanic.com/news/rss/?categories=web3" -o web3_news.xml
+
+      # Step 3: Convert RSS feed to JSON
+      - name: Convert RSS to JSON
+        run: |
+          curl -X POST -d "url=https://cryptopanic.com/news/rss/?categories=web3" https://rss2json.com/api.json > web3_news.json
+
+      # Step 4: Extract and format Web3 news list as Markdown
+      - name: Format Web3 News List
+        run: |
+          jq -r '.items[] | "- [\(.title)](\(.link)) - 📰 \(.pubDate) - \(.description)"' web3_news.json > readme.md
+
+      # Step 5: Set up Git configuration
+      - name: Setup Git Configuration
+        run: |
+          git config user.email "xixiguo888@gmail.com"
+          git config user.name "xixiguo888"
+
+      # Step 6: Prepare Commit
+      - name: Prepare Commit
+        run: |
+          commit_messages=("Update Web3 News: 🔥" "Refresh Web3 News List: 🌐" "Web3 News Update: 📰")
+          random_msg=${commit_messages[$RANDOM % ${#commit_messages[@]}]}
+
+          git add readme.md
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git commit -m "$random_msg"
+          fi
+
+      # Step 7: Push Changes to the master branch
+      - name: Push Changes
+        if: success()  # 仅在 commit 成功时推送
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
