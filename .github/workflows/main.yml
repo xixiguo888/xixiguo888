@@ -20,23 +20,18 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          persist-credentials: true 
           fetch-depth: 1  # 只拉取最新的提交
 
-      # Step 2: Fetch Web3 news from public RSS feed
-      - name: Fetch Web3 News from CryptoPanic
+      # Step 2: Fetch Web3 news from Jinse API
+      - name: Fetch Web3 News
         run: |
-          curl "https://cryptopanic.com/news/rss/?categories=web3" -o web3_news.xml
+          curl "https://api.jinse.cn/noah/v2/lives?limit=20&reading=false&source=web&flag=down&id=0&category=0" -o web3_news.json
 
-      # Step 3: Convert RSS feed to JSON
-      - name: Convert RSS to JSON
-        run: |
-          curl -X POST -d "url=https://cryptopanic.com/news/rss/?categories=web3" https://rss2json.com/api.json > web3_news.json
-
-      # Step 4: Extract and format Web3 news list as Markdown
+      # Step 3: Format and extract Web3 news
       - name: Format Web3 News List
         run: |
-          jq -r '.items[] | "- [\(.title)](\(.link)) - 📰 \(.pubDate) - \(.description)"' web3_news.json > readme.md
+          jq -r '.list[].lives[] | "- [\(.content_prefix)](\(.link)) - 📰 \(.date) - \(.content)"' web3_news.json > readme.md
 
       # Step 5: Set up Git configuration
       - name: Setup Git Configuration
