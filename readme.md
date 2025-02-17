@@ -1,31 +1,33 @@
-- [Jane Street已在加密公司Coinbase、Strategy和Iris Energy中持有股份](https://news.bitcoin.com/zh/jane-street-qiaoran-huode-jiami-gongsi-coinbase-strategy-he-iris-energy-de-5-gufen/?ref=onepagecrypto.com&ref=onepagecrypto.com) - 📰 null - 【Jane Street已在加密公司Coinbase、Strategy和Iris Energy中持有股份】金色财经报道，据Bitcoin.com报道，今年，众多金融巨头和投资基金纷纷抢购加密交易所ETF和与加密企业相关的股票。2025年2月14日，金融巨头Jane Street向美国证券交易委员会（SEC）提交了多份13G表格备案，披露其持有超过5%的某类权益证券的实益所有权。SEC备案显示，Jane Street已持有Coinbase、Strategy（原Microstrategy）以及Iris Energy的股份。 
-此外，Iris Energy的股东名单中包括Susquehanna（持股2.14%）和Marshall Wace（持股2%），这反映了机构对挖矿基础设施布局的日益增长的兴趣。
-- [Dragonfly管理合伙人：Meme币市场或将随宏观经济好转重现活跃](https://x.com/hosseeb/status/1891319014493733253) - 📰 null - 【Dragonfly管理合伙人：Meme币市场或将随宏观经济好转重现活跃】2月17日消息，Dragonfly管理合伙人Haseeb Qureshi在社交媒体X发文表示，当前Meme币市场的低波动可能只是暂时现象。他认为，一旦宏观经济形势好转，迷因币交易周期将重新活跃。不过，Haseeb也指出，目前Meme币市场已进入后期阶段，市场参与者似乎出现疲态。
-- [某新建钱包从币安提取超568枚比特币，价值约5504万美元]() - 📰 null - 【某新建钱包从币安提取超568枚比特币，价值约5504万美元】金色财经报道，据Spot On Chain监测，某新建钱包从币安提取超568枚比特币，价值约5504万美元。
-- [Starknet：Cairo v2.10.0已发布](https://x.com/gaetbout/status/1891185165625339909) - 📰 null - 【Starknet：Cairo v2.10.0已发布】金色财经报道，据以太坊L2网络Starknet披露，Cairo v2.10.0已发布，该版本与Starknet 0.13.4关联，新版本优化点包括更改输出诊断的优先级、在快照不匹配上使用正确的类型、为Starknet类型添加const等。
-- [博雅互动：因持有加密货币获得增值收益，2024年收益预期将增长15-20%](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0216/2025021600008_c.pdf) - 📰 null - 【博雅互动：因持有加密货币获得增值收益，2024年收益预期将增长15-20%】金色财经报道，港股上市公司博雅互动发布正面盈利公告，其中披露因持有的加密货币获得数字资产增值收益，以及对网络游戏运营收益增加，根据对未经审核综合管理账目及董事会目前所得资料的初步评估，截至2024年12月31日年度收益预期会较前一年增长约15%至20%左右。
-- [美国比特币持有者的数量已超过美国背负学生贷款者的数量](https://x.com/Cointelegraph/status/1890672554987098543) - 📰 null - 【美国比特币持有者的数量已超过美国背负学生贷款者的数量】金色财经报道，据Cointelegraph数据，美国比特币持有者的数量（约5000万）已经超过了背负学生贷款的美国人的数量（约4300万）。
-- [Bubblemaps：确信Libra与Melania代币为同一团队运营](https://x.com/bubblemaps/status/1891289507338580028) - 📰 null - 【Bubblemaps：确信Libra与Melania代币为同一团队运营】金色财经报道，据区块链数据分析公司Bubblemaps报道，通过分析跨链转账记录和时间模式，确信近期争议项目Libra与此前的Melania代币由同一团队运营。 
-链上数据显示，地址0xcEA不仅参与了Melania代币的创建，还为Libra代币的创建者DEfcyK提供资金支持。该地址通过多个关联钱包对Libra代币进行"抢跑"交易，仅此一项就获利600万美元。而Libra项目方已从流动性池中撤出8,700万美元的USDC和SOL。 
-Bubblemaps进一步披露，该团队还与多个疑似"抽水砸盘"项目有关，包括TRUST、KACY、VIBES和HOOD等代币。目前，相关调查仍在进行中。
-- [Shaw：仍不清楚X账户为何被黑，向所有损失资金的人致歉](https://x.com/shawmakesmagic/status/1891223290233897315) - 📰 null - 【Shaw：仍不清楚X账户为何被黑，向所有损失资金的人致歉】金色财经报道， ai16z创始人Shaw于X平台发文表示：“我仍不知道X账户是因为什么原因被黑，我有 2FA、密码管理器、强密码等，显然是经过精心设计并有针对性的一次攻击，向所有损失资金的人致歉，说实话这个行业太累了。”
-- [因美国联邦政府提出欺诈指控，SEC对比特币矿商Geosyn的诉讼被暂时搁置](https://cointelegraph.com/news/sec-suit-crypto-miner-geosyn-paused-feds-parallel-charges) - 📰 null - 【因美国联邦政府提出欺诈指控，SEC对比特币矿商Geosyn的诉讼被暂时搁置】金色财经报道，美国证券交易委员会（SEC）已暂停对加密挖矿公司Geosyn Mining及其高管提起的欺诈诉讼，此前美国联邦检察官已对该公司的首席执行官及两名前高管提出了类似指控。在2月14日向德克萨斯州联邦法院提交的文件中，该机构同意暂缓执行其于2024年4月提起的案件，此前Geosyn首席执行官Caleb Joseph Ward和该公司前运营主管Jeremy George McNutt已向当局自首并在前一天出庭。 
-特朗普已承诺放宽对加密行业的监管执法，而SEC上月成立了一个加密特别工作组来与该行业接触，并暂停了一些与加密相关的诉讼。不过，SEC在同一天提交的文件中表示，“SEC的加密特别工作组或当前政府对加密行业的立场都不应对本案产生任何影响”，因为本案与加密监管无关，且没有指控两人出售加密货币。 
- 
-此前2024年4月消息，美SEC起诉比特币矿商Geosyn，指控其创始人欺诈560万美元。
-- [比特币鲸鱼过去一周没有显著的买入或卖出活动](https://x.com/ali_charts/status/1891309089105338514) - 📰 null - 【比特币鲸鱼过去一周没有显著的买入或卖出活动】金色财经报道，链上分析师Ali于X发文表示，比特币鲸鱼过去一周异常安静，没有显著的买入或卖出活动。
-- [某巨鲸近1小时花费275万枚USDC购买624万枚FARTCOIN](https://x.com/OnchainLens/status/1891307266491761134) - 📰 null - 【某巨鲸近1小时花费275万枚USDC购买624万枚FARTCOIN】金色财经报道，据Onchain Lens监测，链上标记为“Koruna”的巨鲸（@0xKoruu4) 在过去一小时内花费275万枚USDC购买了624万枚FARTCOIN，平均价格为0.44美元。
-- [samczsun：若大型账户被盗并推广明显骗局建议前端手动删除](https://x.com/samczsun/status/1891297474318397611) - 📰 null - 【samczsun：若大型账户被盗并推广明显骗局建议前端手动删除】金色财经报道，Paradigm 研究员 samczsun 于 X 谈及社媒上的 Meme 币推广骗局时表示：“这是一个非常简单的想法：下一次一个大型账户被黑客入侵并推广一个明显的骗局时，也许前端应该手动删除该骗局？当然没有人会反对这一点，除非目标是让人们能够在赌场赌博？”
-- [MELANIA团队代币将于19日开始解锁：占总量的3%，价值3900万美元](https://x.com/EmberCN/status/1891302119267004507) - 📰 null - 【MELANIA团队代币将于19日开始解锁：占总量的3%，价值3900万美元】金色财经报道，据余烬监测，MELANIA团队的代币1/19至20日将开始解锁：会解锁总量3%（3000万枚）的MELANIA，价值3900万美元。 
-根据MELANIA的解锁规则，团队的代币只有30天的锁定期，满30天的时候解锁3%、然后接下来12个月里每个月解锁2.25%。
-- [某鲸鱼近2日累计从Binance提取7347枚ETH](https://x.com/lookonchain/status/1891301683143094765) - 📰 null - 【某鲸鱼近2日累计从Binance提取7347枚ETH】金色财经报道，据Lookonchain监测，一名鲸鱼在2天前创建了一个新钱包，并累计从Binance中提取了7,347枚ETH（1995万美元）。
-- [萨尔瓦多国家图书馆将设立比特币专区](https://x.com/bitcoinofficesv/status/1891238240944103734) - 📰 null - 【萨尔瓦多国家图书馆将设立比特币专区】金色财经报道，萨尔瓦多总统领导下的比特币国家办公室The Bitcoin Office在X表示，萨尔瓦多国家图书馆将设立比特币专区。图书馆访客不仅可以找到有关比特币的所有最佳书籍，还将有机会看到运行中的完整节点，以及有关其在比特币网络中使用的重大信息。
-- [Vitalik将于19日在Tako上接受快闪文字访谈，现面向社区征集问题](https://x.com/mable_jiang/status/1891117459706626490?s=46&t=hR1kECF6wDAnXzjTzo8xQg) - 📰 null - 【Vitalik将于19日在Tako上接受快闪文字访谈，现面向社区征集问题】金色财经报道，2月17日，FSL首席营收官Mable Jiang在其社交平台表示，将于2月19日12pm UTC -2月20日的12 pm UTC之间邀请Vitalik进行快闪文字访谈。 
-具体形式为：AMA前，Mable Jiang会在Tako App内新建一个AMA圈子「快闪访谈圈」，用于收集大家提交的问题。其中Mable Jiang的每个问题会是该圈子内一个单独的帖子，Vitalik将会在该圈子内引用我的问题帖进行回复。观众可以在每条他的回答下评论。
-- [中纪委再谈姚前利用虚拟货币权钱交易案，强调金融领域科技监管重要性](https://www.ccdi.gov.cn/toutiaon/202502/t20250216_405539.html) - 📰 null - 【中纪委再谈姚前利用虚拟货币权钱交易案，强调金融领域科技监管重要性】2月17日消息，中国中央纪委国家监委网站近日刊文指出，金融信息系统建设中的廉洁风险日益突出，特别是专业技术壁垒高导致的“管理难、监督难、问责难”问题。 
-中央纪委国家监委驻证监会纪检监察组在查处证监会科技监管司原司长姚前腐败案时，发现其利用虚拟货币进行权钱交易，隐蔽性强，取证难度大。姚前通过职务便利收受巨额贿赂，在信息系统采购中为他人提供帮助，涉及项目承揽、资金拨付等环节。 
-针对案件暴露的问题，纪检监察组向证监会党委提出监督意见，督促加强信息系统采购的廉洁风险防控，强化制度建设和执行。同时，强调要加强对专业技术干部，尤其是“一把手”的教育管理监督，纠正部分干部认为自身廉洁风险小的错误思想，增强其政治意识和纪律规矩意识。 
-去年 11 月，姚前因严重违纪违法被中央纪委国家监委驻证监会纪检监察组与广东省汕尾市监委纪律审查和监察调查。此案进一步凸显了金融科技监管领域廉洁风险防控的重要性。
-- [Michael Saylor：除比特币外不持有任何其他加密货币，个人持有量超过17,732枚BTC]() - 📰 null - 【Michael Saylor：除比特币外不持有任何其他加密货币，个人持有量超过17,732枚BTC】金色财经报道，据Strategy（原MicroStrategy）创始人Michael Saylor在接受吴说采访时透露，除比特币外没有持有任何其他加密货币，大约四年前层公开披露自己持有 17,732 枚比特币，当时的买入价格略低于1万美元每枚，这条信息可以在我的公开推文里找到，自那以后又买了一些，但从未卖出过。因此现在持有的比特币比当时更多，但具体增加了多少没有公开披露。
-- [华尔街贸易公司Jane Street收购比特币矿企Iris Energy 6%的股份](https://theminermag.com/news/2025-02-14/jane-street-bitcoin-iris-energy/) - 📰 null - 【华尔街贸易公司Jane Street收购比特币矿企Iris Energy 6%的股份】金色财经报道，华尔街贸易公司Jane Street及其子公司已收购比特币挖矿巨头Iris Energy 6%的股份。周五提交的13G表文件显示，截至12月31日，Jane Street Group共持有Iris Energy 11,797,987股股份，占6%的股份。Iris Energy1月份开采了521个BTC，实际哈希率为28.93EH/s，占比特币矿业生产市场份额的3.71%。
-- [美政府效率部呼吁公众提供关于减少浪费、欺诈和滥用的想法](https://x.com/DOGE/status/1891288881674240070) - 📰 null - 【美政府效率部呼吁公众提供关于减少浪费、欺诈和滥用的想法】金色财经报道，美国政府效率部（DOGE）于X发文表示：“我们正在寻求公众的帮助。请将减少浪费、欺诈和滥用的见解以及任何有用的见解或绝妙的想法发送给相关的DOGE关联方（可在关联方选项卡中找到）。例如，@DOGE_USDA、@DOGE_SSA 等。我们会随着时间的推移添加更多关联方。”
+- [CZ：试用过很多钱包，但没买过Meme](https://www.theblockbeats.info/inclusionid/?target=https%3A%2F%2Fx.com%2Fcz_binance%2Fstatus%2F1891376140448669896) - 📰 null - 【CZ：试用过很多钱包，但没买过Meme】金色财经报道，Binance创始人在社交媒体发文表示，试用过很多钱包，但没买过Meme。
+- [澳大利亚反洗钱监管机构对13家汇款服务商和加密货币交易所采取监管行动](https://cointelegraph.com/news/australian-regulator-cracks-down-digital-currency-exchanges) - 📰 null - 【澳大利亚反洗钱监管机构对13家汇款服务商和加密货币交易所采取监管行动】金色财经报道，据Cointelegraph报道，澳大利亚交易报告和分析中心（AUSTRAC）对13家汇款服务提供商和加密货币交易所采取监管行动，同时对超过50家机构发出合规警告。 
+AUSTRAC首席执行官Brendan Thomas表示，该机构拒绝了6家提供商的注册续期申请，原因是这些机构的关键人员存在影响其诚信的严重违法行为。另有2家提供商因未能在期限内满足要求而被施加条件限制。 
+目前，澳大利亚在AUSTRAC注册的数字货币交易所有417家，汇款注册机构有5,112家。值得注意的是，FTX澳大利亚子公司FTX Express和Zipmex Australia两家已倒闭的加密货币交易所已被从该国数字货币交易所注册名单中移除。 
+AUSTRAC表示，此次行动源于该机构发现汇款和数字货币交易所行业存在系统性的可疑交易未报告和报告不足问题。该机构计划在2025年加强对加密货币行业的监管。
+- [分析师：目前SOL、HBAR和ENA是根据资金费率计算的最被超卖的资产](https://x.com/ali_charts/status/1891368732053876864) - 📰 null - 【分析师：目前SOL、HBAR和ENA是根据资金费率计算的最被超卖的资产】金色财经报道，据Ali监测，根据资金利率，SOL、HBAR和ENA是目前最被超卖的资产。
+- [许正宇：香港将放宽新投资移民计划资产评估](http://www.aastocks.com/tc/stocks/news/infocast-news/IC4438529/1) - 📰 null - 【许正宇：香港将放宽新投资移民计划资产评估】金色财经报道，香港财经事务及库务局局长许正宇出席亚洲证券业与金融市场协会年度会议致辞时表示，香港将进一步放宽资产评估要求，并接受通过合资格私人公司进行的投资。还将优化基金和单一家族办公室的税务制度，并推出新的公司迁册制度，以吸引更多国际企业在香港设立办公室或迁册。此外香港还将继续扩大绿色和可持续债券的发行规模，推动与内地金融市场的互联互通计划。
+- [某巨鲸在Compound上面临被清算的风险，涉及488.49枚WBTC](https://x.com/OnchainLens/status/1891365223468310953) - 📰 null - 【某巨鲸在Compound上面临被清算的风险，涉及488.49枚WBTC】金色财经报道，据Onchain Lens监测，一位巨鲸Compound平台上面临被清算的风险，涉及488.49枚WBTC（价值4699万美元）。当前健康率为1.02，清算价格为91,785美元。 
+在2022年价格下跌期间，这位巨鲸曾3次面临清算，累计损失了74,426枚cWBTC（价值3282万美元）。
+- [Michael Saylor上周未发布比特币Tracker相关信息，疑似未增持BTC]() - 📰 null - 【Michael Saylor上周未发布比特币Tracker相关信息，疑似未增持BTC】金色财经报道，Strategy（原MicroStrategy）创始人Michael Saylor上周未发布比特币Tracker相关信息，疑似未增持BTC。根据此前规律，Strategy总是会在Michael Saylor发布比特币Tracker相关信息之后的第二天披露比特币增持数据。
+- [LIBRA项目顾问Hayden Davis承认该项目团队暗中破坏了LIBRA的发布](https://www.youtube.com/watch?v=EqizJTbxAEM) - 📰 null - 【LIBRA项目顾问Hayden Davis承认该项目团队暗中破坏了LIBRA的发布】YouTube博主Coffeezilla发布一段针对LIBRA代币的四大创作者之一“Hayden Davis”的采访，在采访过程中，他承认LIBRA团队暗中破坏了LIBRA的发布，而MELANIA团队也暗中破坏了MELANIA的发布。Coffeezilla还提及，LIBRA其他三位分别是Julian Peh（Kip Protocol）、Mauricio Novelli（阿根廷科技论坛）和Manuel Godoy（阿根廷科技论坛）。2025年2月14日，该项目获得了Javier Milei的支持。
+- [特朗普媒体科技集团公布2024全年业绩：资产负债表包括7.768亿美元的现金和短期投资](https://www.globenewswire.com/news-release/2025/02/14/3026874/0/en/TMTG-Reports-Full-Year-2024-Results.html) - 📰 null - 【特朗普媒体科技集团公布2024全年业绩：资产负债表包括7.768亿美元的现金和短期投资】金色财经报道，特朗普媒体科技集团（TMTG）公布2024全年业绩，截至2024年12月31日资产负债表包括7.768亿美元的现金和短期投资，截至2024年10月15日吸引了约65万名股东，其中大部分是散户。TMTG还宣布推出金融服务和金融技术战略，包括推出涵盖金融服务和金融科技的Truth.Fi品牌，以及申请Truth.Fi Bitcoin Plus ETF、Truth.Fi Bitcoin Plus SMA等商标，预计2025年将开辟新的创收途径。
+- [YouTube记者：LIBRA团队在采访中承认狙击了该代币](https://x.com/coffeebreak_YT/status/1891356313545802032) - 📰 null - 【YouTube记者：LIBRA团队在采访中承认狙击了该代币】金色财经报道，YouTube记者Coffeezilla（@coffeebreak_YT）于X发文表示：“在这次LIBRA采访中，其团队承认狙击了自己的代币。”
+- [MAP Protocol基金会将集成DeepSeek](https://x.com/MapProtocol/status/1891354033455026179) - 📰 null - 【MAP Protocol基金会将集成DeepSeek】金色财经报道，全链互操作性协议MAP Protocol在X平台表示，MAP Protocol基金会将集成DeepSeek，探索AI Agent创新应用。
+- [CryptoQuant分析师：比特币跨所流动相关指标转向看跌](https://x.com/Cointelegraph/status/1891351875045220857) - 📰 null - 【CryptoQuant分析师：比特币跨所流动相关指标转向看跌】金色财经报道，据Cointelegraph报道，加密货币数据分析平台CryptoQuant的贡献者J. A. Maartunn表示，“Bitcoin Inter-exchange Flow Pulse” 指标正在转为看跌，这表明市场风险偏好正在下降，可能标志着看跌阶段的开始。
+- [pump.fun今日出现MEME币部署30分钟内盘未“打满”情况](https://x.com/TMB_Agent/status/1891309348283953589) - 📰 null - 【pump.fun今日出现MEME币部署30分钟内盘未“打满”情况】2月17日消息，据TMB_Agent监测，pump.fun今日出现MEME币部署30分钟内盘未“打满”情况，或为历史首次。
+- [Meteora联创：曾向MELANIA背后团队推荐过Kelsier，但从未购买、接收或管理LIBRA等代币](https://x.com/hellochow/status/1891341548115149190) - 📰 null - 【Meteora联创：曾向MELANIA背后团队推荐过Kelsier，但从未购买、接收或管理LIBRA等代币】2月17日消息，Meteora联合创始人Ben Chow再次于X发文回应LIBRA相关质疑。Ben Chow表示：“Meteora和我个人从未私下接收或管理任何代币，也未参与任何链下交易，我们对平台上任何代币启动都保持最高级别的保密性。出于保密考虑，Meteora内部只有极少数人能够接触到启动信息。通常情况下，启动时间只有我知道，而代币/池地址仅在启动前几分钟才会提供给我和一两名值班工程师（如果有的话）。” 
+“DLMM的复杂性使得非加密原生用户（例如名人、政治家等）想要启动代币时通常需要雇佣部署者和/或做市商，我们并不提供这些服务，但发行方通常会向我寻求关于部署者和/或做市商的推荐。Kelsier Ventures的Hayden Davis是我在过去几个月中推荐给项目的部署者/做市商之一，我们与Kelsier并没有特殊的关系，只是在当年M3M3启动时有过合作。在那次合作中，他们显得值得信赖，因此我曾向一些项目推荐了他们，其中包括MELANIA背后的团队。 
+与其他项目一样，我们的角色仅限于技术支持，我们没有购买、接收或管理任何与MELANIA相关的代币。”“对于LIBRA，虽然我们在几周前通过Hayden得知了其可能性，但我们除了提供IT支持外，并未参与该项目。我和Meteora团队都没有通过泄露信息破坏LIBRA的启动，也没有购买、接收或管理任何代币。”
+- [BTC跌破96000美元]() - 📰 null - 【BTC跌破96000美元】金色财经报道，行情显示，BTC跌破96000美元，现报95957.07美元，24小时跌幅达到1.61%，行情波动较大，请做好风险控制。
+- [Zhu Su：Libra团队的主要错误在于撤出流动性池并进行短期套利操作](https://x.com/zhusu/status/1891346730643595504) - 📰 null - 【Zhu Su：Libra团队的主要错误在于撤出流动性池并进行短期套利操作】金色财经报道，据三箭资本联合创始人Zhu Su发文称，“将Libra事件归咎于索拉纳Solana或Jupiter平台，就如同将去中心化金融DeFi黑客事件或NFT问题归咎于以太坊或Uniswap一样不合理。”Zhu Su指出，Libra团队的主要错误在于撤出Meteora流动性池并进行短期套利操作，否则它类似于特朗普代币运行。
+- [律师确认美国已撤销对前BTC-e运营者Alexander Vinnik的所有指控](https://tass.ru/obschestvo/23149107) - 📰 null - 【律师确认美国已撤销对前BTC-e运营者Alexander Vinnik的所有指控】金色财经报道，前BTC-e运营者Alexander Vinnik的律师Arkady Bukh证实，在其上周获释后，美国已放弃（dropped）针对Vinnik的案件，加州北区法院已确认将撤销对Vinnik的所有指控。 
+Bukh说：“法官批准了我们的请求，案件已被撤销。我们设法与检察官办公室达成协议。在听证会上，检察官办公室同意撤销指控。我们的客户现在在美国有了清白的记录。”律师还称，该判决是“一种独特且罕见的情况”，并补充道：“我们认为这是一次伟大的胜利。”
+- [亿万富翁Paul Tudor Jones旗下投资公司持有4.269亿美元贝莱德IBIT](https://x.com/Cointelegraph/status/1891344321674170534) - 📰 null - 【亿万富翁Paul Tudor Jones旗下投资公司持有4.269亿美元贝莱德IBIT】金色财经报道，据 Cointelegraph 报道，亿万富翁 Paul Tudor Jones 的投资公司在最新的 SEC 备案文件中披露，持有价值 4.269 亿美元的贝莱德现货比特币 ETF（IBIT），较之前报告的持仓翻了一番。
+- [疑似Barstool创始人买入LIBRA亏损534万美元，后收到500万美元补偿]() - 📰 null - 【疑似Barstool创始人买入LIBRA亏损534万美元，后收到500万美元补偿】金色财经报道，据Lookonchain监测，在LIBRA上线前一天，一个名为「3apupK...Z1LF」的钱包被创建，并收到了29,000枚SOL（约576万美元）。该钱包在LIBRA上线约9分钟后开始买入，此时价格已经飙升至1.75美元。 
+钱包共花费28,740枚SOL（约577万美元）购买230万枚LIBRA。当LIBRA价格涨至4.56美元后开始下跌，该钱包在LIBRA上的亏损超过500万美元。 
+之后，该钱包收到450万枚USDC，并卖出了所有LIBRA，换回2,163枚SOL（约43万美元）。出售完LIBRA后，又收到50万枚USDC。 
+值得注意的是，该钱包还从Libra团队收到了65万枚LIBRA，但很快就退还了。根据@chooserich的分析，该钱包可能属于Dave Portnoy（@stoolpresidente）。 
+Dave Portnoy作为KOL参与LIBRA代言，并提前准备资金买入LIBRA。但由于买入过晚，他亏损了534万美元。Dave Portnoy向Hayden要求赔偿损失，并归还了他收到的LIBRA。
+- [数据：上周加密交易所流入约9555枚比特币](https://www.coinglass.com/zh/Balance) - 📰 null - 【数据：上周加密交易所流入约9555枚比特币】金色财经报道，据Coinglass数据显示，过去一周，各大加密货币交易所累计流入约9555枚比特币。其中，CoinbasePro流入186.29枚，Binance流出1030.92枚，Bitfinex流入6340.19枚。 
+目前，加密交易所比特币累计余额约为223万枚。
+- [美SEC正为其投资者咨询委员会征集新成员](https://news.bitcoin.com/zh/sec-zai-jiamihuobi-zhuanxiang-zhong-xunzhao-xin-shengyin-jiaru-zixun-weiyuanhui/) - 📰 null - 【美SEC正为其投资者咨询委员会征集新成员】金色财经报道，据Bitcoin News报道，美国证券交易委员会（SEC）正在为其投资者咨询委员会公开征集新成员。该委员会基于《多德-弗兰克华尔街改革和消费者保护法》第911条设立，主要负责就监管优先事项、证券产品、交易策略等方面向SEC提供建议。 
+SEC代理主席Mark T.Uyeda表示，多样化的投资者观点将有助于SEC更好地完成使命。申请者需在2025年3月15日前通过电子邮件提交申请。值得注意的是，在Uyeda接任Gary Gensler成为代理主席后，SEC对加密货币的监管立场出现转变，目前由委员Hester Peirce正在领导一个致力于修订数字资产法规的新工作组。
