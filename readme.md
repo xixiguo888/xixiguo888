@@ -1,26 +1,40 @@
-- [​Dave Portnoy将LIBRA团队提供的500万枚USDC兑换为27,688枚SOL]() - 📰 null - 【​Dave Portnoy将LIBRA团队提供的500万枚USDC兑换为27,688枚SOL】金色财经报道，据Lookonchain监测数据显示，Barstool Sports 创始人 Dave Portnoy 刚刚将 LIBRA 团队提供的 500 万美元 USDC 补偿兑换为 27,688 枚 SOL，并向 Kraken 存入了 29,657 枚 SOL（529 万美元）。 
-此前Lookonchain监测数据显示，疑似 Dave Portnoy 的地址买入LIBRA亏损534万美元，后收到500万美元补偿。
-- [Redstone首席运营官：Libra等meme币对整个加密行业来说是极大的损害]() - 📰 null - 【Redstone首席运营官：Libra等meme币对整个加密行业来说是极大的损害】金色财经报道，Redstone 首席运营官 Marcin Kazmierczak 在接受The Block采访时表示：“Libra 等 meme 币对整个加密货币行业来说都是极大的损害。有数百个团队投入资源来构建具有真实应用的独特项目，但他们的工作却被这些短期的、骗局驱动的游戏所掩盖。研究表明，在赌博上花费的每一美元都是从长期投资中拿走的一美元。” 
-他还表示：“我认为市场对这些事件越来越感到疲惫——讽刺的是，这可能是一件好事，随着人们厌倦了不断的 Rug，我们可能会看到更多的注意力转向 DeFi、Crypto x AI 和 SocialFi 等基本面良好的发展。我实际上将 memecoin 视为我们正在构建的基础设施的压力测试。”
-- [Fox记者：马斯克领导的政府效率部DOGE将关注美SEC]() - 📰 null - 【Fox记者：马斯克领导的政府效率部DOGE将关注美SEC】金色财经报道，据 Fox Business 记者 Eleanor Terrett 在 X 平台发文称，马斯克领导的政府效率部 DOGE 将关注美 SEC，据其转发相关推文称，DOGE 正在向公众寻求帮助，希望提供有关发现和解决与美国证券交易委员会有关浪费、欺诈和滥用行为的相关信息。
-- [goofyahh.sol已抛售全部1040万枚$LIBRA，40分钟获利约49.6万美元]() - 📰 null - 【goofyahh.sol已抛售全部1040万枚$LIBRA，40分钟获利约49.6万美元】金色财经报道，据 Onchain Lens 监测，goofyahh.sol 已抛售持仓的 1040 万枚 LIBRA，在 40 分钟内赚取 49.6 万美元利润。据悉，该鲸鱼在阿根廷总统米莱今日于 X 转发 LIBRA 代币购买教程后地址 goofyahh.sol 立即花费 500 万枚 USDC 购买了 1040 万枚 LIBRA。
-- [BTC跌破95500美元]() - 📰 null - 【BTC跌破95500美元】金色财经报道，行情显示，BTC跌破95500美元，现报95388.93美元，24小时跌幅达到1.7%，行情波动较大，请做好风险控制。
-- [某鲸鱼花费500万枚USDC买入1040万枚$LIBRA](https://x.com/OnchainLens/status/1891525172961890780) - 📰 null - 【某鲸鱼花费500万枚USDC买入1040万枚$LIBRA】金色财经报道，据 Onchain Lens 监测，某鲸鱼“goofyahh.sol”花费 500 万枚 USDC 买入 1040 万枚$LIBRA ，均价 0.48 美元。此前该鲸鱼花费 570 万枚 USDC 买入 502 万枚$LIBRA，并在 3 天前以 735 万枚 USDC 的价格卖出，获利 165 万美元。 
-此前消息，阿根廷总统 Javier Milei 的 X 账户转发“如何购买$LIBRA”相关推文，但不清楚此举原因。
-- [TRUMP网站显示2月15日前购买官方产品的用户可获得代币奖励](https://claim.gettrumpmemes.com/#who-is-eligible) - 📰 null - 【TRUMP网站显示2月15日前购买官方产品的用户可获得代币奖励】金色财经报道， TRUMP 代币网站显示，2025 年 2 月 15 日前购买官方产品的用户可获得 3 枚代币奖励，目前已经开放申领，用户需要有用于购买官方特朗普产品的每封电子邮件，无论该电子邮件购买了多少产品，均可获得相关代币。
-- [阿根廷总统Javier Milei的X账户转发“如何购买$LIBRA”相关推文](https://x.com/DarioEpstein/status/1891444794515165198) - 📰 null - 【阿根廷总统Javier Milei的X账户转发“如何购买$LIBRA”相关推文】金色财经报道，据 X 平台显示，阿根廷总统 Javier Milei 的 X 账户转发“如何购买$LIBRA”相关推文，目前尚不清楚此举原因。
-- [Upbit：因内部钱包系统检查，将暂停Enjin Coin（ENJ）充提业务](https://upbit.com/service_center/notice?id=4882) - 📰 null - 【Upbit：因内部钱包系统检查，将暂停Enjin Coin（ENJ）充提业务】金色财经报道，据官方公告，Upbit 宣布由于 Enjin Coin（ENJ）进行内部钱包系统检查，将暂停 Enjin Coin（ENJ）的充提业务，以提供稳定的充提服务，确认充提稳定后恢复充提支持。
-- [美银：预计到9月份欧洲央行利率将降至1.5%](https://flash.jin10.com/detail/20250217234307132800) - 📰 null - 【美银：预计到9月份欧洲央行利率将降至1.5%】金色财经报道，美国银行信贷投资者调查显示，投资级信贷投资者预期欧洲央行降息幅度略低于高收益信贷投资者。调查显示，多达41%的投资级信贷投资者预计欧洲央行的存款利率终值将为2%，37%的高收益信贷投资者预计终值将为1.75%。美国银行分析师预计，到9月份，存款利率将降至1.5%的低点。欧洲央行的存款利率目前为2.75%。
-- [BNB跌破670美元]() - 📰 null - 【BNB跌破670美元】金色财经报道，行情显示，BNB跌破670美元，现报669.46美元，24小时跌幅达到1.72%，行情波动较大，请做好风险控制。
-- [BTC跌破96000美元]() - 📰 null - 【BTC跌破96000美元】金色财经报道，行情显示，BTC跌破96000美元，现报95667.59美元，24小时跌幅达到1.35%，行情波动较大，请做好风险控制。
-- [SOL跌破180美元]() - 📰 null - 【SOL跌破180美元】金色财经报道，行情显示，SOL跌破180美元，现报179.95美元，24小时跌幅达到5.49%，行情波动较大，请做好风险控制。
-- [美联储理事鲍曼：美联储针对核心银行问题的相关规章“已成熟待审”](https://www.cls.cn/detail/1945485) - 📰 null - 【美联储理事鲍曼：美联储针对核心银行问题的相关规章“已成熟待审”】金色财经报道，美联储理事鲍曼表示，美联储针对核心银行问题的相关规章“已成熟待审”，新的银行成立已陷入停滞，银行监管出现不作为的令人不安的趋势。
-- [美联储理事鲍曼：预计通胀将下降 但上行风险仍然存在](https://www.cls.cn/detail/1945483) - 📰 null - 【美联储理事鲍曼：预计通胀将下降 但上行风险仍然存在】金色财经报道，美联储理事鲍曼表示，预计通胀将下降，但上行风险仍然存在；在再次降息之前，需要对通胀下降有更强的信心；耐心等待降息将有助于更清晰地了解政府政策的影响。
-- [某鲸鱼地址将约7964枚AAVE转入币安，价值219.1万美元](https://etherscan.io/tx/0xe94c508e453f557537ef750ecf8cd2d14101ca351dae2e0f71ce2f51f91f291a) - 📰 null - 【某鲸鱼地址将约7964枚AAVE转入币安，价值219.1万美元】金色财经报道，链上数据显示，大约 3 分钟前，某鲸鱼地址将 7,964.376339861306431281 枚 AAVE 转入币安，价值 2,191,637.08 美元。 
-历史数据显示，大约三个月前，该鲸鱼收到了约 8000 枚 AAVE，当时价值 160 万美元，若出售，该鲸鱼将获利 57.87 万美元，回报率+36%。
-- [Linea完成女巫申诉审核，移除3500个误判地址](https://x.com/LineaBuild/status/1891500501315047754) - 📰 null - 【Linea完成女巫申诉审核，移除3500个误判地址】金色财经报道， Linea 官方宣布，已完成针对生态系统的女巫攻击（Sybil Attack）申诉审核，并更新女巫名单。此次审核共确认 3,500 个误判地址，并将其从名单中移除。用户可通过官方链接查询账户状态。
-- [Binance将上线GPS与SHELL U本位永续合约](https://www.binance.com/en/support/announcement/11ee45a06d054e698f18fe1ed964b401) - 📰 null - 【Binance将上线GPS与SHELL U本位永续合约】金色财经报道，Binance 将上线 GPS 与 SHELL U 本位永续合约： 
-GPSUSDT 永续合约：2025 年 2 月 18 日 1:00（UTC+8） 
-SHELLUSDT 永续合约：2025 年 2 月 18 日 1:15（UTC+8）
-- [美联储哈克：预计银行储备将很快加速收缩](https://www.cls.cn/detail/1945466) - 📰 null - 【美联储哈克：预计银行储备将很快加速收缩】金色财经报道，美联储哈克表示，美联储应将资产负债表调整至全部或主要为国债，预计银行储备将很快加速收缩，关于资产负债表缩减的终点仍然缺乏清晰性。
-- [币安发起“PI是否应在币安上线”投票]() - 📰 null - 【币安发起“PI是否应在币安上线”投票】金色财经报道，据官方消息，币安发起“PI 是否应在币安上线”投票，用户必须登录已认证的币安账户，并在其交易账户中持有至少 5 美元等值资产，投票才有效。每个用户在投票期间可以投票一次。投票时间为：2025-02-17 14:45 （UTC）至 2025-02-27 23:59 （UTC）。
+- [DefiTuna揭露M3M3平台2亿美元市场操纵计划，涉及LIBRA、MELANIA等多个项目](https://solanafloor.com/news/defi-tuna-blows-whistle-on-m3-m3s-200-m-market-manipulation-scheme) - 📰 null - 【DefiTuna揭露M3M3平台2亿美元市场操纵计划，涉及LIBRA、MELANIA等多个项目】2月18日消息，2025年2月17日，DefiTuna的创始人Moty通过X平台公开宣布，DefiTuna已向2025年1月16日向该项目投资了3万美元的投资者Kelsier退款，并断绝了与其的一切联系。这一决定是在Kelsier涉嫌参与市场操纵，特别是与LIBRA、MELANIA和meme币launchpad平台M3M3的关联被曝光后作出的。Moty披露了一系列涉嫌精心策划的代币操纵行为，这些行为导致社区成员遭受了大规模的资金提取。 
+Moty写道：“在发现Kelsier的活动后，我们已向Kelsier退款并切断了一切联系。”在宣布这一决定后，Moty在一系列帖子中详细阐述了他的担忧，并声称：Kelsier参与了一个从meme币launchpad平台M3M3上提取大量资金的精心策划的计划。包括Ben在内的Meteora领导层为一大批影响者提供了便利，这些影响者以社区为代价获得了巨大利益。尽管直接联系了Meteora的核心贡献者，但他们几乎没有表现出任何责任感。Meteora的联合创始人Ben在被质询后表示将辞职，但只发表了含糊其辞的公开回应。Moty表示：“我个人已经竭尽全力，冒着自己和我们在DefiTuna所建立的一切的风险，试图让关键人物发声，开始指认这些坏人，并将他们清除出去。” 
+SolanaFloor联系了Moty，希望详细了解DefiTuna与Kelsier的互动情况，并深入了解由Meteora支持的M3M3平台的运作方式。Moty详细描述了DefiTuna与Kelsier的互动，透露Kelsier通过黎巴嫩员工Thomas与他们接触，请求协助为M3M3提供流动性。最初，M3M3被宣传为一个独立平台，但后来透露Ben已成为其所有者。Kelsier的参与要求在M3M3上启动的项目向他们分配一定比例的代币供应。DefiTuna的联合创始人Vlad在相信合作合法的情况下被动地参与了进来。Moty透露，Kelsier亲自要求他们为M3M3提供流动性，而Meteora的联合创始人Ben禁止在Meteora之外进行任何交易。当DefiTuna提出一个中立的流动性分配策略时，他们被忽视了。 
+ 
+Moty表示，在包括AIAI、MATES、ENRON、Melania和Libra在内的多个项目中，超过2亿美元被窃取。截图显示，Hayden在官方launchpad前与一群影响者分享了这些代币的铸造地址，使他们能够提前购买并大幅
+- [THENA提议与Venus Protocol进行软合并，在BNB链上创建“DeFAI超级应用”](https://chainwire.org/2025/02/17/thena-proposes-soft-merger-with-venus-protocol-to-create-defai-superapp-on-bnb-chain/) - 📰 null - 【THENA提议与Venus Protocol进行软合并，在BNB链上创建“DeFAI超级应用”】2月18日消息，THENA提议与借贷平台Venus Protocol进行软合并。该计划正在等待Venus DAO的批准，将创建一个集成的DeFi生态系统，简化交易、借贷流程，合并后的实体定位为BNB链上首屈一指的“DeFAI超级应用”。此次合并将THENA的深度流动性基础设施与Venus的借贷能力相结合，打造一个一体化的DeFi中心。
+- [博雅互动宣布对Web3赛道项目MTT ESports投资4,180,749枚USDT](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0217/2025021700996_c.pdf) - 📰 null - 【博雅互动宣布对Web3赛道项目MTT ESports投资4,180,749枚USDT】金色财经报道，港股上市公司博雅互动发布自愿性公告，披露已与MTT ESports Limited签署认购代币权证，将以4,180,749枚泰达币（USDT）作为对价对MTT ESports进行进一步投资（第二次投资），第二次投资完成后博雅互动将获取MTT 代币（「MTT代币」）之发行总量的10%，即2.1亿枚的MTT代币，预期所获MTT代币将从2026年1月开始线性解锁，约48个月内解锁完毕。第二次投资完成后，博雅互动对MTT ESports的投资总价值相当于约1000万美元。
+- [Arkham Exchange将上线ENA现货和永续合约交易](https://x.com/arkham/status/1891584216749703670) - 📰 null - 【Arkham Exchange将上线ENA现货和永续合约交易】2月18日消息，据官方公告，Arkham Exchange宣布将上线ENA现货和永续合约交易，交易将于美国东部时间明天下午1点开启。
+- [DWF Labs合伙人：稳定币项目Falcon Finance测试版现已上线](https://x.com/ag_dwf/status/1891665352875995177) - 📰 null - 【DWF Labs合伙人：稳定币项目Falcon Finance测试版现已上线】2月18日消息，DWF Labs合伙人Andrei Grachev在社交媒体发文表示，稳定币项目Falcon Finance测试版现已上线。据介绍，Falcon Finance由多个资产做担保，采用对冲和Farming系统，旨在提升回报和稳定性。
+- [数据：比特币和以太坊资金流入量过去一个月下降超30%]() - 📰 null - 【数据：比特币和以太坊资金流入量过去一个月下降超30%】金色财经报道，据加密分析师Ali监测，过去一个月比特币和以太坊的资金流入量显著下降，从450亿美元降至300亿美元，降幅超过30%。
+- [澳大利亚四大行一致预期澳洲联储今日将降息]() - 📰 null - 【澳大利亚四大行一致预期澳洲联储今日将降息】金色财经报道，澳大利亚四大银行均预测，澳洲联储今日将降息25个基点，但它们对该行降息后的举措看法不一。澳大利亚最大的两家银行澳洲联邦银行和西太平洋银行认为，到今年年底澳洲联储总共会有四次降息，这将使现金利率在12月之前降至3.35%。在四大银行中，澳大利亚国民银行是最后一个加入今天将降息这一共识的，但实际上对今年货币政策的放松程度更为乐观：该行经济学家预计2025年总共会降息五次。另一个预测极端是澳新银行，该机构预计全年只会有两次降息，到12月官方现金利率将降至3.85%。(金十)
+- [Jupiter创始人：Meteora联创Ben辞职，已聘请独立第三方律所出具LIBRA调查报告]() - 📰 null - 【Jupiter创始人：Meteora联创Ben辞职，已聘请独立第三方律所出具LIBRA调查报告】金色财经报道，Jupiter创始人Meow在社交媒体发文表示，我同时也是Meteora的联合创始人。首先，我要重申我的信心，Jupiter和Meteora没有人参与任何内幕交易或金融不法行为，或不恰当地收到任何代币。 
+其次，我们聘请了一家独立的第三方（Fenwick&West，世界上最著名的律师事务所之一）进行调查并出具一份他们将独立发布的报告。 
+第三，我支持Ben和他的声明。我相信他说的与合作伙伴打交道时不存在任何财务不当行为。 
+Meteora已经作为独立于Jupiter的实体运营了一年多，Ben一直在运营，而我并没有过多参与。他出色地建立了团队，打造了过去一年最具创新性的DEX和世界上最活跃的LP社区。 
+虽然我对Ben的性格有100%的信心，但作为项目负责人，在过去的几个月里他也表现出缺乏判断力，并且不关心项目的一些核心方面（考虑到项目目前的规模和声誉）。 
+不幸的是，这是不可接受的。Ben明白这一点，并选择辞职。展望未来，我们将为Meteora寻找新的领导者。
+- [伯恩斯坦：随着机构投资者纷纷入场，比特币牛市将持续](https://decrypt.co/306408/bitcoin-bull-run-just-getting-started-bernstein) - 📰 null - 【伯恩斯坦：随着机构投资者纷纷入场，比特币牛市将持续】金色财经报道，据Decrypt报道，根据全球投资机构伯恩斯坦（Bernstein）最近的一份报告，投资者应为比特币相关资产和股票的进一步上涨做好准备。分析师指出，随着机构资金继续流入该领域，比特币牛市将持续。 
+报告称：“银行、机构投资者、企业以及主权国家（直接或通过主权基金）的共同采用，使比特币成为黄金的明显挑战者。”分析师补充道，阿布扎比主权财富基金通过ETF购买比特币利好其未来走势。 
+其披露的数据显示，包括Jane Street Group、Citadel Advisors和摩根士丹利在内的顶级机构均已购买了数亿美元的比特币ETF。伯恩斯坦分析师此前曾预测，到2025年底，比特币将达到20万美元。
+- [Monad宣布测试网将于2月19日启动](https://x.com/monad_xyz/status/1891549662336676009) - 📰 null - 【Monad宣布测试网将于2月19日启动】金色财经报道，以太坊兼容的Layer 1公链Monad在社交媒体发文表示，测试网将于2025年2月19日启动。
+- [pump.fun 联创：希望LIBRA事件责任方得到惩罚，用户对无需许可链上创建/投机的需求不会消失](https://x.com/a1lon9/status/1891593201284235726) - 📰 null - 【pump.fun 联创：希望LIBRA事件责任方得到惩罚，用户对无需许可链上创建/投机的需求不会消失】金色财经报道，pump.fun联合创始人Alon Cohen于X发文表示：“我对过去几天围绕 LIBRA 发生的事件感到厌恶。这个项目背后的人以牺牲许多用户、生态系统甚至整个国家为代价获得了可观的个人利益。我希望责任方得到应有的惩罚。 
+我知道情况仍在发展，所以如果你知道生态系统中任何参与者的不当行为，无论大小，你都应该站出来。我也知道有些人可能处境艰难，所以我的DM 是开放的，以便我能提供帮助。 
+由于这些事件造成的破坏，许多人表示这可能是‘Meme币的终结’。虽然我同情那些希望看到 Meme 币终结的人，因为他们厌倦了此类事件的发生，但事实是，用户对无需许可的链上创建/投机的需求不会消失。”
+- [Core基金会和Maple Finance以及多家托管机构合作拓展比特币质押市场](https://www.coindesk.com/business/2025/02/17/bitcoin-staking-platform-core-joins-crypto-lender-maple-and-custodians-bitgo-copper-hex-trust?utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic) - 📰 null - 【Core基金会和Maple Finance以及多家托管机构合作拓展比特币质押市场】金色财经报道，Core基金会已与机构借贷协议Maple Finance以及托管公司BitGo、Copper和Hex Trust合作，深入拓展比特币质押领域。Core的IstBTC代币能让机构参与者在不承担智能合约的风险或运营负担的情况下，安全地留在受信任的托管合作伙伴内部，同时从比特币持有中获得收益。Maple将在未来几个月发行一种流动质押代币，这将允许交易公司和资产管理公司将质押的比特币用作DeFi领域或交易对手方借款的抵押品。
+- [某用户因钓鱼交易损失价值30.85万美元TEL代币](https://x.com/realScamSniffer/status/1891657644940890383) - 📰 null - 【某用户因钓鱼交易损失价值30.85万美元TEL代币】金色财经报道，据Scam Sniffer监测，约8小时前，一名用户在签署钓鱼交易后损失了价值30.85万美元的TEL代币。
+- [澳大利亚警方破获加密货币ATM盗窃案，缴获多台比特币ATM机](https://cointelegraph.com/news/police-uncover-stolen-bitcoin-atms-collector-cards-melbourne) - 📰 null - 【澳大利亚警方破获加密货币ATM盗窃案，缴获多台比特币ATM机】金色财经报道，澳大利亚警方近日破获一起针对加密货币ATM机和收藏卡牌商店的盗窃案。警方逮捕了4名嫌疑人，缴获了6台加密货币ATM机、价值约5万美元的收藏卡牌、枪支、100把汽车钥匙等赃物。 
+根据Coin ATM Radar数据显示，澳大利亚目前运营着1,462台加密货币ATM机，是全球第三大加密货币ATM机市场。
+- [Meme币风波影响下期货市场上SOL多空头寸比从4降至2.5，表明市场转向看跌](https://cointelegraph.com/news/solana-shorts-spike-on-memecoin-scandals) - 📰 null - 【Meme币风波影响下期货市场上SOL多空头寸比从4降至2.5，表明市场转向看跌】金色财经报道，随着Meme币丑闻不断增加，市场情绪回落，交易员越来越多地为SOL下跌做准备。根据数据服务Coinalyze的数据，2月17日，加密货币期货交易所的SOL多头与空头头寸比从4降至2.5，这意味着整个市场倾向于看跌SOL。 
+匿名加密KOL Tyler Durden于X发文表示：“市场已经决定对Solana发泄怒火。”Durden引用币安永续期货交易平台的数据表示，币安的SOL空头与多头头寸比率已升至4:1，表明看跌押注过多。
+- [策略师：ETH/BTC汇率或已触底，若突破本月高点将推动趋势反转](https://www.coindesk.com/markets/2025/02/17/ether-rally-turns-into-crypto-market-slide-with-bitcoin-slipping-below-usd96k?utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic) - 📰 null - 【策略师：ETH/BTC汇率或已触底，若突破本月高点将推动趋势反转】金色财经报道，LMAX Group 市场策略师Joel Kruger表示，当前的以太坊价格走势呈现出可能是结束相较于比特币多年来下滑的迹象。 
+Kruger在周一的市场报告中表示：“有迹象表明，以太坊可能终于要在较比特币的长期下行趋势之后触底。我们认为，密切关注当前ETH/BTC汇率的月度高点非常重要，如果突破并高于目前的月度最高点，将有助于推动趋势反转的前景。”
+- [香港投资公司HK Asia购买1枚比特币后股价上涨93%](https://cointelegraph.com/news/hong-kong-firms-buys-single-bitcoin-shares-double) - 📰 null - 【香港投资公司HK Asia购买1枚比特币后股价上涨93%】2月18日消息，香港投资公司HK Asia Holdings Limited披露其购买了一枚比特币后，其股价在2月17日的交易中上涨了近一倍。HK Asia在2月16日的公告中表示，其于2月13日“以约96,150美元的价格购买了总计1单位的比特币”，“资金来自集团内部资源”。 
+据谷歌财经显示，该公司股票在香港证​​券交易所周一收盘上涨近93%，至5.50港元（71美分），接近2019年6月的最高点6.50港元（84美分）。
+- [香港证监会：虚拟资产发展路线图将在本月内公布](https://news.rthk.hk/rthk/ch/component/k2/1792002-20250217.htm) - 📰 null - 【香港证监会：虚拟资产发展路线图将在本月内公布】金色财经报道，香港证监会中介机构部执行董事叶志衡预计本月内将公布虚拟资产发展路线图，路线图除了交代发展原则，也会提及证监会短期内期望与市场研究的范畴，以及平台参与者希望优化的地方。此外虚拟资产路线图重点并非在于内容本身，而是证监会勇于向市场展示原则，以及供市场考虑的取态。
+- [加密货币用户销毁700万美元以太坊，警告通过大脑芯片进行“心灵控制”]() - 📰 null - 【加密货币用户销毁700万美元以太坊，警告通过大脑芯片进行“心灵控制”】金色财经报道，一名自称为“普通程序员和企业家”的男子销毁并捐赠了大约700万美元的以太坊，作为一种抗议和个人声明，反对他所描述的长期被一个“大脑控制组织”监视和操纵的经历。现在，加密推特用户正试图获取他剩余的资金。 
+该用户自称为胡乐之（Hu Lezhi），在过去一周内通过多次交易发送了大约2553枚ETH（价值约700万美元）。
+- [市场消息：LIBRA团队正与尼日利亚政府洽谈推出Meme币](https://beincrypto.com/libra-meme-coin-team-had-similar-plan-in-nigeria/?ref=onepagecrypto.com) - 📰 null - 【市场消息：LIBRA团队正与尼日利亚政府洽谈推出Meme币】2月18日消息，据Beincrypto引援未经证实的报道，LIBRA团队还与尼日利亚官员就发行另一种不稳定的meme币进行了谈判。截至目前，尚无证据表明尼日利亚总统Bola Tinubu与LIBRA有直接关联，但据报道，他的团队正在进行密切谈判。LIBRA做市商的首席执行官Hayden Davis声称，他收到了大量协助进行更多“rug pull”骗局的邀约。 
+由阿根廷总统Javier Milei背书的争议meme币LIBRA，已成为大规模诈骗指控的核心。在市值暴跌后，Milei总统否认了与LIBRA的联系，面临调查和弹劾威胁。更令人震惊的是，LIBRA团队计划联手尼日利亚政府推出新meme币。连接LIBRA和尼日利亚官员的关键人物是Kelsier Ventures首席执行官Hayden Davis。他是美国公民，因此可能使美国联邦调查局和司法部获得调查LIBRA事件的管辖权。此前，Davis在一次长篇采访中随意承认了多项重大金融犯罪。他表示，这些犯罪为他带来了新的机会。 
+社区侦探推测Davis是Meme币MELANIA及相关骗局的幕后黑手，而他在采访中证实了这些指控。换句话说，MELANIA可能让Davis在LIBRA之前就获得了与尼日利亚官员接触的影响力。报道无法确认尼日利亚总统是否参与了这一计划。然而，Davis称“该项目已经进展顺利”，他的团队中有几名成员积极参与其中。尼日利亚最近对加密货币领域表现出热情，这为这些说法增添了可信度。
