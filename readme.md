@@ -1,34 +1,46 @@
-- [越南新法案提议允许自2026年7月1日起在金融中心进行加密货币交易](https://www.coindesk.com/markets/2025/02/19/tdx-strategies-announces-structured-products-linked-to-coindesk-20-index) - 📰 null - 【越南新法案提议允许自2026年7月1日起在金融中心进行加密货币交易】金色财经报道，据VNEconomy于上个月的报道，越南计划投资部正在就国会关于在该国建设区域和国际金融中心的决议草案征求意见。草案提议，自2026年7月1日起，金融中心内的加密资产和加密货币交易将正式实施。根据该草案，区域金融中心将设在岘港市，国际金融中心则设在胡志明市。草案第12条涉及金融中心的货币政策、银行业和外汇管理政策。 
-根据草案，商业银行将从2026年1月1日起开始实施数字银行模式。
-- [TDX Strategies宣布推出与CoinDesk 20指数挂钩的结构性产品](https://www.coindesk.com/markets/2025/02/19/tdx-strategies-announces-structured-products-linked-to-coindesk-20-index) - 📰 null - 【TDX Strategies宣布推出与CoinDesk 20指数挂钩的结构性产品】金色财经报道，量化驱动型数字资产交易公司TDX Strategies在香港共识会议上宣布，该公司已与CoinDesk Indices合作推出最新产品：与CoinDesk 20指数（CD20）挂钩的结构性产品。 
-TDX首席执行官迪克-罗（DickLo）表示，此次合作将为投资者提供一个复杂的解决方案，在驾驭新兴数字资产市场的同时，优先考虑增长和风险管理。
-- [CoinShares公布2024 Q4财报：实物质押以太坊ETP流入达7500万美元](https://www.globenewswire.com/news-release/2025/02/18/3027477/0/en/CoinShares-Announces-Q4-2024-Results.html) - 📰 null - 【CoinShares公布2024 Q4财报：实物质押以太坊ETP流入达7500万美元】金色财经报道，数字资产投资公司CoinShares公布2024 Q4财报，其中披露上一季度是该公司有史以来业绩表现最强劲的一个季度，包括： 
-1、实物质押以太坊ETP流入量达7500万美元； 
-2、实物XRP ETP吸引3100万美元的新投资； 
-3、实物比特币ETP已成为欧洲市场规模最大的ETP； 
-4、美国市场加密货币现货、期货和股票ETP的资金整体流入达160亿美元。
-- [慢雾：检测到与 BOLT 代币相关的潜在可疑活动]() - 📰 null - 【慢雾：检测到与 BOLT 代币相关的潜在可疑活动】金色财经报道，据慢雾科技（SlowMist）报告，安全团队检测到与 BOLT 代币相关的潜在可疑活动，慢雾提醒用户保持警惕。
-- [Space ID将成为Story Protocol的数字身份提供商](https://cryptonews.com/news/space-id-story-protocol-digital-identity/) - 📰 null - 【Space ID将成为Story Protocol的数字身份提供商】金色财经报道，据Cryptonews报道，周二，Web3域名服务提供商Space ID宣布与区块链初创公司Story Protocol合作，提供身份管理解决方案。Space ID将把其域名基础设施集成到Story Protocol中。像“jane.ip”这样的人类可读域名将作为区块链验证的创作证明，允许IP所有者在Story Protocol上对其作品进行身份验证、许可和货币化。
-- [Grayscale Pyth Trust管理费率为2.5%，截至2月18日资管规模已超1000万美元](https://www.grayscale.com/crypto-products/grayscale-pyth-trust) - 📰 null - 【Grayscale Pyth Trust管理费率为2.5%，截至2月18日资管规模已超1000万美元】金色财经报道，灰度官方数据显示其最新推出的Grayscale Pyth Trust管理费率为2.5%，并将使用CoinDesk Pyth 价格指数提供以美元计价的参考汇率。此外，截至2月18日，Grayscale Pyth Trust的资管规模触及10,288,675.76美元，每股净值为10.29美元。
-- [币安钱包联合Bitlayer上线BTCFI第6周任务，周奖池总额14万美金Token](https://www.bitlayer.org/btcfi) - 📰 null - 【币安钱包联合Bitlayer上线BTCFI第6周任务，周奖池总额14万美金Token】2月19日消息，首个基于BitVM范式构建的比特币二层解决方案Bitlayer推出的BTCFI狂欢节活动已进入第6周活动，本周将在币安钱包上线去中心化交易平台BitZap的交互任务，完成本周任务的用户有机会瓜分总价值14万美金的Token奖励。 
-本次Bitlayer与币安钱包联合发起的活动将持续至2月28日，目前，用户可登录币安钱包页面完成Bitlayer及生态项目上线的所有任务，完成本周任务的用户将有机会瓜分价值12万美元的BTR，及BitZap提供的价值2万美金的ZAP代币奖励。除在币安钱包完成活动外，用户可登录Bitlayer BTCFI页面完成签到等任务，获得相应BTR奖励。
-- [某鲸鱼抵押1444枚cbBTC，做空价值7760万美元ETH](https://x.com/EmberCN/status/1892035755792298225) - 📰 null - 【某鲸鱼抵押1444枚cbBTC，做空价值7760万美元ETH】金色财经报道，据链上分析师余烬监测，虽然ETH/BTC汇率已经跌到了0.028，但仍有巨鲸在看低ETH/BTC汇率：一个巨鲸在过去两周里从Coinbase累计提取了1,444枚cbBTC(1.3814亿美元)，然后存入Aave作为抵押品借款29,025枚ETH(7760万美元)再转进Coinbase。
-- [Sui宣布与Talus建立合作，旨在推出下一代AI Agent](https://x.com/SuiNetwork/status/1891852432868769896) - 📰 null - 【Sui宣布与Talus建立合作，旨在推出下一代AI Agent】2月19日消息，Sui宣布与链上AI代理平台Talus建立合作，旨在推出下一代AI代理。此外，Talus还将首次推出其AI消费者平台Idol.fun，旨在将娱乐与AI自动化融为一体，重新定义链上互动。 
-Talus还选择Walrus作为其默认的去中心化存储平台，带来大型AI模型的存储、数据检索以决策、AI Agent的可信链上历史记录等支持。 
-据悉，Talus使开发人员能够推出代币化AI代理、自动化交易策略并设计全天候运营的自主经济。Walrus是一个基于Sui构建的去中心化的存储网络，可以存储和传输来自任何基于Web2或Web3的大型数据文件，包括富媒体内容、音频文件、视频、图像和PDF等。
-- [Coinbase CEO：Coinbase正在多个方面使用人工智能](https://x.com/brian_armstrong/status/1891921255290503545) - 📰 null - 【Coinbase CEO：Coinbase正在多个方面使用人工智能】金色财经报道，Coinbase首席执行官Brian Armstrong在X平台发文称：“Coinbase正在多个方面使用人工智能，包括欺诈预防、客户支持、风险评分、设计，而且100%的工程师都已开始使用Cursor。但下一步是，Jira/Linear中的每张工单都应附带一个根据描述和截图由人工智能自动生成的草稿PR。我们将从较低难度的“修复”类工单开始，未来将扩展至所有工单。”
-- [Base拟于今日将Gas Target提高到26 Mgas/s](https://x.com/wbnns/status/1891922116519350424) - 📰 null - 【Base拟于今日将Gas Target提高到26 Mgas/s】金色财经报道，Base开发者@wbnns在X平台透露，Base计划于今日（周三）将Gas Target提高到26 Mgas/s。其表示：“随着越来越多的人使用Base，这有助于保持较低的费用。”
-- [Abstract：Cardex黑客事件起因是该团队意外暴露了会话签名者的私钥，造成约40万美元的损失](https://x.com/AbstractChain/status/1891928658341753039) - 📰 null - 【Abstract：Cardex黑客事件起因是该团队意外暴露了会话签名者的私钥，造成约40万美元的损失】金色财经报道，据二层网络Abstract的官方报告，其生态应用Cardex遭遇安全漏洞攻击。事故起因是Cardex团队在完成初步安全审计后，意外在其网站前端暴露了会话签名者的私钥。该漏洞导致攻击者能够对任何已授权会话密钥的钱包发起交易，造成约40万美元的代币损失。 
-Abstract方面表示，此次漏洞仅限于第三方应用Cardex，并未影响Abstract全球钱包（AGW）或Abstract网络本身。官方建议用户定期撤销钱包中应用程序和代币的授权，以防范潜在风险。
-- [某鲸鱼近9小时买入价值153万美元BERA，均价6美元](https://x.com/OnchainLens/status/1892028967013765602) - 📰 null - 【某鲸鱼近9小时买入价值153万美元BERA，均价6美元】金色财经报道，据Onchain Lens监测，某鲸鱼近9小时买入价值153万美元BERA，买入均价6美元。
-- [BNB突破640美元]() - 📰 null - 【BNB突破640美元】金色财经报道，行情显示，BNB突破640美元，现报640.1美元，24小时跌幅达到3.72%，行情波动较大，请做好风险控制。
-- [特朗普与马斯克的Fox News访谈视频将于北京时间10时放送](https://x.com/WhiteHouse/status/1892023798540664865) - 📰 null - 【特朗普与马斯克的Fox News访谈视频将于北京时间10时放送】金色财经报道，据官方消息，特朗普和马斯克将在Fox News进行一场独家联合访谈，该节目预计于2月19日北京时间10时播出。此次访谈将在FoxNews频道独家播放。
-- [比特币链上DeFi基础设施服务提供商Maestro完成300万美元种子轮融资](https://www.globenewswire.com/news-release/2025/02/18/3027685/0/en/Maestro-Raises-3M-in-Seed-Funding-to-Propel-the-Bitcoin-DeFi-Revolution.html) - 📰 null - 【比特币链上DeFi基础设施服务提供商Maestro完成300万美元种子轮融资】金色财经报道，比特币链上企业级DeFi基础设施服务提供商Maestro宣布完成300万美元种子轮融资，Wave Digital Assets和Draper Associates共同领投，UTXO Management、Bitcoin Frontier Fund、Draper Dragon和Necto Labs参投，新资金拟用于构建基于比特币区块链的去中心化金融生态系统，包括高性能API、内存池元协议索引等开发人员工具和创新解决方案。
-- [纳斯达克上市公司Semler Scientific财报披露目前持有3192枚BTC](https://www.prnewswire.com/news-releases/semler-scientific-reports-fourth-quarter-and-full-year-2024-financial-results-with-a-btc-yield-of-107-since-july-1--2024-now-holds-3-192-btc-302379320.html) - 📰 null - 【纳斯达克上市公司Semler Scientific财报披露目前持有3192枚BTC】金色财经报道，采用比特币储备策略的纳斯达克上市公司Semler Scientific公布2024年度财务业绩报告，其中披露截至2024年12月31日持有2,298枚BTC，BTC收益率为107%；随后在去年底至今年2月14日又增持894枚BTC，截至目前的比特币总持仓达到3192枚BTC，总购买金额为2.804亿美元。
-- [数据：过去11小时内新增大量稳定币铸造](https://x.com/spotonchain/status/1892020008475296217) - 📰 null - 【数据：过去11小时内新增大量稳定币铸造】金色财经报道，据Spot On Chain监测，过去11小时内，稳定币USDT和USDC的铸造量大幅增加，其中Tron铸造了10亿USDT，Solana铸造了2.5亿USDC。 
-自2025年以来，Tether已在Tron铸造了30亿USDT，而Circle在Solana铸造了77.5亿USDC。
-- [谷歌正探索使用“谷歌登录”功能来登录比特币钱包](https://cryptobriefing.com/bridging-bitcoin-and-web2/?ref=onepagecrypto.com) - 📰 null - 【谷歌正探索使用“谷歌登录”功能来登录比特币钱包】2月19日消息，谷歌云亚太区Web3专家Kyle Song在香港比特币技术嘉年华上的讲话透露，谷歌正致力于让比特币钱包像Web2应用一样用户友好，谷歌的愿景是让用户能够使用现有的谷歌账户登录比特币钱包，这一目标的宗旨是让比特币更加贴近主流用户。 
-Song表示，2024年现货比特币ETF的推出，为谷歌等大型Web2公司进入比特币行业开辟了更便捷的路径。自去年以来，这家科技巨头一直在与比特币领域的公司和开发者进行合作。Song说：“我们正在探索降低入门门槛的方法，以便Web2用户能够轻松使用比特币。”在谈到弥合传统金融与基于区块链的金融之间的技术差距时，Song指出，谷歌正专注于安全性的提升。Song表示：“我们还在研究解决方案，以解决链上系统与链下系统之间的信任问题。谷歌正在特别考虑如何使用零知识证明（ZKP）等高级加密技术来提高可靠性。” 
- 
-原文链接
-- [数据：2025年至今Tether与Circle总共增发107.5亿美元的稳定币](https://x.com/spotonchain/status/1892020008475296217) - 📰 null - 【数据：2025年至今Tether与Circle总共增发107.5亿美元的稳定币】金色财经报道，据Spot On Chain监测，自2025年初以来，Tether已在Tron上铸造30亿枚USDT，而Circle已在Solana上铸造77.5亿枚USDC。
+- [某巨鲸 7,511 枚CWBTC 被强平，约合 1443 万美元]() - 📰 null - 【某巨鲸 7,511 枚CWBTC 被强平，约合 1443 万美元】金色财经报道，据 Lookonchain 监测，随着市场下跌，一名大型持仓者再次遭遇清算，涉及 7,511 个 CWBTC（约合 1443 万美元）。 
+据悉，该持仓者在 2022 年市场暴跌期间曾三次遭遇清算，累计被清算 74,426 个 CWBTC（约合 3282 万美元）。
+- [区块链游戏代币LOKA将更名为A2Z，以1:20比例置换](https://medium.com/league-of-kingdoms-eng/loka-a2z-game-to-gaming-platform-6c8291a9ed0b) - 📰 null - 【区块链游戏代币LOKA将更名为A2Z，以1:20比例置换】2月19日消息，区块链游戏代币LOKA将更名为A2Z，每1枚LOKA可置换为20枚A2Z。
+- [香港财政司司长：香港数码港已有超过 270 家区块链企业，在过去 17 个月新增逾 120 家](https://cointelegraph.com/news/hong-kong-remains-open-vibrant-market-crypto-financial-secretary) - 📰 null - 【香港财政司司长：香港数码港已有超过 270 家区块链企业，在过去 17 个月新增逾 120 家】金色财经报道，据 Cointelegraph 报道，香港财政司司长陈茂波在"Consensus Hong Kong 2025"大会上发表主题演讲时表示，随着 Web3 生态系统的持续发展，香港将保持稳定、开放和充满活力的数字资产市场。 
+陈茂波指出，香港正大力投资相关基础设施和人才培养。目前，香港数码港已汇聚超过 270 家区块链企业，在过去 17 个月新增逾 120 家。
+- [CryptoQuant CEO：ETF或托管钱包中BTC的成本基础为89,000美元](https://x.com/ki_young_ju/status/1892083802496958777) - 📰 null - 【CryptoQuant CEO：ETF或托管钱包中BTC的成本基础为89,000美元】金色财经报道，据Crypto Quant创始人兼首席执行官KiYoungJu发布的数据显示，目前比特币不同持有群体的持仓成本基础如下： 
+ETF及托管钱包的持仓成本为8.9万美元， 
+币安交易员的持仓成本为5.9万美元， 
+矿业公司的持仓成本为5.7万美元， 
+早期巨鲸的持仓成本为2.5万美元。 
+当比特币价格跌破矿业公司持仓成本（如2022年5月、2020年3月、2018年11月）通常标志着熊市的到来。
+- [Banana Gun：已支持BNB Chain上交易、挂单等功能]() - 📰 null - 【Banana Gun：已支持BNB Chain上交易、挂单等功能】2月19日消息，据官方消息，Telegram Bot项目Banana Gun现在已在BNB Chain上线。支持Swap、限价单和桥接功能，适用于Pancakeswap v2/v3和four.meme。
+- [WLFI联创否认项目“获VC支持”以及“代币互换”传闻]() - 📰 null - 【WLFI联创否认项目“获VC支持”以及“代币互换”传闻】2月19日消息，据Consensus HongKong2025大会现场消息，World Liberty Financial联创Zak Folkman表示，该项目从创立之初就未获得任何风险投资支持，但仍然逐步完成了既定里程碑。据官方网站数据显示，WLFI已售出243亿枚，以单价0.05美元计算，募资额超12亿美元。 
+关于代币互换传闻，Folkman澄清表示，项目从未进行过任何代币互换。其所持有的代币，包括TRX、ETH、LINK和AAVE在内，均通过去中心化交易所在链上购买，所有交易记录可查。
+- [pump.fun近24小时毕业代币仅4个市值现超100万美元]() - 📰 null - 【pump.fun近24小时毕业代币仅4个市值现超100万美元】2月19日消息，据GMGN行情数据，pump.fun过去24小时毕业代币仅4个市值现超100万美元，链上投机热潮极度冷却。
+- [AAVE突破250美元]() - 📰 null - 【AAVE突破250美元】金色财经报道，行情显示，AAVE突破250美元，现报250.06美元，24小时跌幅达到1.56%，行情波动较大，请做好风险控制。
+- [国家互联网信息办公室发布第十八批共48个境内区块链信息服务名称及备案编号，含科大讯飞](https://www.cac.gov.cn/2025-02/17/c_1741491981121565.htm) - 📰 null - 【国家互联网信息办公室发布第十八批共48个境内区块链信息服务名称及备案编号，含科大讯飞】金色财经报道，根据《区块链信息服务管理规定》，国家互联网信息办公室发布第十八批境内区块链信息服务名称及备案编号，其中包括科大讯飞股份有限公司（讯飞区块链BaaS平台）、无锡市区块链高等研究中心、威海市大数据中心（威海链）等，共48个。
+- [香港证监会：虚拟资产发展路线图中包含12项倡议](https://finance.now.com/news/post.php?id=906578&type=news) - 📰 null - 【香港证监会：虚拟资产发展路线图中包含12项倡议】金色财经报道，据NOW财经报道，香港证监会今午将公布虚拟资产发展路线图，证监会中介机构部执行董事叶志衡在Consensus论坛中表示，制定路线图并不困难，重点在如何执行路线图。他透露，当中并不只一条路，而是包括有12项倡议。 
+叶志衡指出，在路线图中特意没有制定时间表，因需要让业界及持份者重新思考，需要多快达至这12项倡议。但他称，无论如何都不会需时很长时间，因市场变化快速，身为监管机构也需要跟上变化，寻找垂手可得的果实，让市场看到成果。 
+虚拟资产咨询小组早前召开会议，担任小组主席的叶志衡称，小组包括所有本港持牌虚拟资产交易平台的管理层，都为证监会提供意见，尤其这些倡议是否正确的路线，而下一步重点则是希望多快达至这些愿景。
+- [彭博分析师：与黄金ETF相比，比特币ETF的机构持仓比例仍有10-15%的增长空间](https://x.com/EricBalchunas/status/1891949263468269770) - 📰 null - 【彭博分析师：与黄金ETF相比，比特币ETF的机构持仓比例仍有10-15%的增长空间】金色财经报道，彭博ETF分析师Eric Balchunas在X发文分析，目前大多数比特币ETF中13F申报机构的资产持仓比例已达到25-30%，预计最终将达到与黄金ETF（GLD）相似的40%水平，即仍有10-15%的增长空间。
+- [某交易者花费22.7万美元购入的GREED目前已浮亏90%](https://x.com/OnchainLens/status/1892082164319256941) - 📰 null - 【某交易者花费22.7万美元购入的GREED目前已浮亏90%】金色财经报道，据Onchain Lens监测，交易者“scouter.sol”花费1,344枚SOL购买了812万枚GREED，当时价值227,000美元。目前，这些GREED的价值为21,700美元，面临205,000美元的浮动亏损。
+- [马斯克的X据悉在洽谈融资，估值达440亿美元]() - 📰 null - 【马斯克的X据悉在洽谈融资，估值达440亿美元】金色财经报道，据知情人士透露，埃隆·马斯克的社交媒体公司X正在与投资者谈判，计划以440亿美元的估值筹集资金，这与马斯克在2022年收购该公司的价格相同。在马斯克的收购和改革导致许多用户和广告商逃离之后，这轮融资将是这家社交媒体巨头的一次重大转机。上述人士称，新一轮X轮融资的谈判仍在进行中，细节可能会发生变化。由于涉及私人信息，这些人士要求不具名。该公司还可能放弃融资谈判。这是马斯克将这家社交媒体公司私有化以来的第一轮已知投资。(金十)
+- [Arbitrum DAO关于“向RWA投资分配3500万枚ARB”提案已获通过](https://www.tally.xyz/gov/arbitrum/proposal/13323456481927947871314500108227684550647495448005726995657704713229313956489?govId=eip155:42161:0x789fC99093B09aD01C34DC7251D0C89ce743e5a4) - 📰 null - 【Arbitrum DAO关于“向RWA投资分配3500万枚ARB”提案已获通过】金色财经报道，Arbitrum DAO宣布社区已批准将3500万枚ARB分配到各种稳定资产中，总投资价值约为1550万美元。这些资金来自该项目的稳定财库捐赠计划（STEP），该计划此前已于2024年6月将3500万枚ARB分配给六种产品的投资。 
+据了解，STEP是一项旨在将Arbitrum DAO资金的1%投资于代币化的RWA的计划，旨在实现DAO资金的多元化，同时利用行业增长来产生收益。最新分配是Arbitrum DAO STEP 2.0计划的一部分。加上STEP 1.0的3500万枚ARB和财库管理的1500万枚ARB，RWA总投资额达到8500万枚ARB。Arbitrum DAO称，这笔投资目前是DAO最大的投资之一。
+- [Ripple亚太区总经理Fiona Murray：全球范围内，Ripple有50%的支付量发生在新加坡]() - 📰 null - 【Ripple亚太区总经理Fiona Murray：全球范围内，Ripple有50%的支付量发生在新加坡】金色财经现场报道，2月19日，在Consensus HK的会议现场，Ripple 的亚太区总经理Fiona Muray 表示，全球来看，目前Ripple 超50%的交易量发生在新加坡的公司实体上，Ripple在亚洲受益良多。 
+但随着美国对于加密的友好，其将成为加密领域非常大的玩家，新的浪潮来临，竞争变得激烈，未来这一格局也将会发生变化。
+- [Barstool Sports创始人于5小时前用31万美元换取1952万枚jailstool](https://x.com/OnchainDataNerd/status/1892074598830838088) - 📰 null - 【Barstool Sports创始人于5小时前用31万美元换取1952万枚jailstool】金色财经报道，据The Data Nerd监测，5小时前Barstool Sports创始人Dave Portnoy用31万美元换取了1952万枚jailstool。在10天内，他以平均0.0157美元的价格累积了5,008万枚jailstool。
+- [SBF约10亿美元金融资产及两架私人飞机已被美国纽约南区地方法院没收](https://www.coindesk.com/policy/2025/02/18/private-jets-political-cash-among-usd1b-in-sam-bankman-fried-s-forfeited-assets-court) - 📰 null - 【SBF约10亿美元金融资产及两架私人飞机已被美国纽约南区地方法院没收】金色财经报道，据CoinDesk报道，美国联邦法院详细列出了SBF因欺诈被审判并入狱前拥有的资产规模，以及美国政府如何迅速介入，没收了约10亿美元的金融资产和两架飞机。 
+美国纽约南区地方法院于周二发布的最终没收令正式剥夺了SBF在一个长达数十页的财产清单中的所有权。法院文件揭示了这位曾经的亿万富翁所宣称拥有的广泛资产，包括他共同创办的交易公司Alameda Research的大量加密资产。 
+在这些涉及加密货币的众多页面中，Alameda在Binance的资产包括：5600万美元XRP，360万美元TRX，340万美元ADA，230万美元BTC以及其他数十种代币，按照会计记录显示。 
+其中最重要的资产是Robinhood股票的出售收益——由SBF的Emergent Fidelity Technologies持有的6.06亿美元。其他金融资产包括： 
+Alameda Research在 Binance持有的1.19亿枚USDT； 
+Emergent Fidelity Technologies在Marex持有的2100万美元； 
+FTX Digital Markets在Moonstone Bank持有的5000万美元； 
+FTX Digital Markets在Silvergate持有的1.01亿美元； 
+SBF 和另一位个人在Flagstar Bank持有的700万美元。 
+被没收的资产清单还包括两架私人飞机：一架2009年款Bombardier Global 5000和一架2006年款Embraer Legacy。 
+法院文件还详细列出了超过250笔政治捐款，这些捐款已经从接受方的竞选活动和组织中撤回，其中包括FTX高管在SBF指示下所捐赠的金额。在过去一届美国国会中，三分之一的议员曾收到SBF或其他FTX高管的捐款，并且他们还捐赠给了广泛的州级政治组织。
+- [Definalist：今明两天最大的事件可能是MELANIA代币迎来两次解锁](https://x.com/definalist/status/1892069023048925221) - 📰 null - 【Definalist：今明两天最大的事件可能是MELANIA代币迎来两次解锁】金色财经报道，韩国交易员Definalist在社交媒体发文表示，“我认为今天和明天最大的事件可能是MELANIA代币解锁，分两天进行： 
+今天（北京时间19日17:26），距离现在还有5小时，价值3700万美元MELANIA解锁； 
+明天（北京时间20日17:47）价值2780万美元MELANIA解锁。”
+- [美国财政部长贝森特：马斯克的DOGE已节省了约500亿美元](https://xnews.jin10.com/details/163893) - 📰 null - 【美国财政部长贝森特：马斯克的DOGE已节省了约500亿美元】金色财经报道，美国财政部长贝森特表示，马斯克的政府效率部（DOGE）致力于使联邦政府更加高效，美国纳税人不必担心其个人数据的安全性。 
+贝森特在周二接受福克斯新闻采访时说，到目前为止，DOGE团队已经确定节省了约500亿美元。“所以这是一个很好的开始。”他补充说，削减成本的努力最终可能让“我们节省几个百分点的GDP”。 
+然而，DOGE团队试图访问包括个人在内的广泛纳税人的数据，这一举动引发了民主党议员对隐私问题的担忧。贝森特表示，美国纳税人“不需要对这些事情感到担忧”。
+- [陈茂波：去中心化AI和区块链可以解锁许多新应用和机会](https://www.wenweipo.com/a/202502/19/AP67b54634e4b0e2377f0e290e.html) - 📰 null - 【陈茂波：去中心化AI和区块链可以解锁许多新应用和机会】金色财经报道，香港财政司司长陈茂波在2025 Consensus大会上表示，人工智能(AI)与区块链的融合发展令人兴奋，去中心化AI可以解锁许多新应用和机会，区块链技术不只降低交易成本，亦提高市场透明度、效率和金融服务的可及性。陈茂波警告，快速技术创新并非没有挑战，当创新的速度超过监管的反应，或会创造出导致重大风险的漏洞，近年来多家加密货币交易所失败的后果，提醒了必须要注意市场完整性、投资者保护、洗钱和网络安全风险。
