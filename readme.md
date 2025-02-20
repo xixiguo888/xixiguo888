@@ -1,33 +1,30 @@
-- [Bithumb将上线KAITO韩元交易对]() - 📰 null - 【Bithumb将上线KAITO韩元交易对】2 月 20 日消息，Bithumb 将上线 KAITO 韩元交易对。交易将于当地时间 2025 年 2 月 20 日星期四晚上 9 点开放。
-- [BTC突破97000美元]() - 📰 null - 【BTC突破97000美元】金色财经报道，行情显示，BTC突破97000美元，现报97015.76美元，24小时涨幅达到1.29%，行情波动较大，请做好风险控制。
-- [Tether推出创新融资解决方案TradeFi](https://cryptoslate.com/tether-unveils-tradefi-to-transform-global-trade-with-blockchain-solutions/) - 📰 null - 【Tether推出创新融资解决方案TradeFi】金色财经报道，Tether首席执行官Paolo Ardoino于X宣布推出TradeFi，这是一项旨在通过创新融资解决方案促进全球贸易的新服务。 
-TradeFi扩大了Tether不断增长的产品组合，该组合已经包括稳定币、资产代币化和钱包开发工具。这项最新服务旨在通过提供降低成本和提高效率的融资解决方案来简化国际贸易。该平台将促进原油和铜等主要大宗商品的交易，同时利用USDT实现无缝结算。 
-Tether网站显示："在区块链技术的支持下，我们正在简化贸易流程、降低成本并推动跨行业和跨境的金融包容性。"TradeFi的推出是在Tether去年11月首次进行原油交易之后推出的。该公司为中东的一笔4500万美元的交易提供了资金，涉及67万桶石油。
-- [PAIN团队关联地址在过去7小时内已抛售价值253万美元代币](https://x.com/ai_9684xtpa/status/1892405022740423024) - 📰 null - 【PAIN团队关联地址在过去7小时内已抛售价值253万美元代币】金色财经报道，据 @ai_9684xtpa 监测，地址 DjTrV...1a24a 以均价 $23.66 抛售 107,212 枚 PAIN，追溯其资金来源为团队预售关联地址，而非发放空投的 20% 持币地址，代币转移三次后进行出货。
-- [Meme币PAIN经济模型：PAIN总供应量为1000万枚，50%分配给Harold本人](https://x.com/pain/status/1892309441317576892) - 📰 null - 【Meme币PAIN经济模型：PAIN总供应量为1000万枚，50%分配给Harold本人】2月20日消息，Solana链Meme币PAIN于X发文表示，正如之前承诺的，所筹集的185,976枚SOL中的80%已经退款，在区块318346069（即PAINSALE结束）之后发送的所有资金也已退还。Meme币原型人物Harold本人代币份额将锁定20年，直至2045年解锁。 
-其代币经济模型显示，PAIN总供应量为1000万枚，其中50%分配给Harold本人、20%用于预售、15%用于流动性、10%分配给社区、5%分配给合作伙伴。
-- [昨日美国现货比特币ETF净流出6410万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日美国现货比特币ETF净流出6410万美元】金色财经报道，结合Farside Investors与Trader T数据，昨日美国现货比特币ETF净流出6410万美元，连续两日净流出。其中，IBIT无资金流入/流出，交易量达16亿美元。
-- [英国警方逮捕两名涉及六位数加密货币诈骗案嫌疑人](https://decrypt.co/306690/uk-police-charge-two-in-connection-with-six-figure-crypto-scam) - 📰 null - 【英国警方逮捕两名涉及六位数加密货币诈骗案嫌疑人】金色财经报道，据Decrypt报道，英国警方已逮捕并起诉两名男子，他们涉嫌对一名75岁的阿伯丁郡退休人士实施加密货币诈骗，造成受害人损失六位数金额。 
-据悉，该案件于2024年7月被举报。苏格兰警方东北部分局与西米德兰兹警方和南约克郡警方合作，分别在考文垂逮捕了一名54岁男子，在梅克斯伯勒逮捕了一名36岁男子，两人已于当天被提起诉讼。
-- [Aptos研究主管质疑Monad涉嫌抄袭，Monad联创予以反驳](https://x.com/_jhunsaker/status/1892326107594313774) - 📰 null - 【Aptos研究主管质疑Monad涉嫌抄袭，Monad联创予以反驳】金色财经报道，Aptos研究主管Alexander Spiegelman在社交媒体发文质疑 Monad 抄袭其技术，称不理解Monad为何要花费大量时间抄袭Aptos的技术，并表示这些技术都是开源的且有经同行评审的论文。 
-对此，Monad联合创始人James Hunsaker予以反驳，称其早年就在Haskell环境中研究软件事务内存（STM），BlockSTM只是这些技术的简单扩展，并强调从未查看过任何Aptos的代码。
-- [PAIN：用户退款已完成，Harold本人代币份额将锁定20年](https://x.com/pain/status/1892309441317576892) - 📰 null - 【PAIN：用户退款已完成，Harold本人代币份额将锁定20年】金色财经报道，Solana链meme币PAIN发推表示，正如该项目之前承诺的，所筹集的185,976枚SOL中的80%已经顺利退款，在区块318346069（即PAINSALE结束）之后发送的所有资金也已退还。Harold本人代币份额将锁定20年，直至2045年解锁。 
-据代币经济学显示，PAIN总供应量为1000万枚，其中50%分配给Harold本人、20%用于预售、15%用于流动性、10%将分配给社区、5%分配给合作者。
-- [美SEC自愿撤销对DeFi规则制定案的上诉](https://decrypt.co/306849/sec-reverses-course-dismisses-rulemaking-appeal) - 📰 null - 【美SEC自愿撤销对DeFi规则制定案的上诉】金色财经报道，美国SEC周三自愿撤销了对一项裁决的上诉，该裁决阻止该机构扩大现有证券法的范围，以涵盖DeFi用户和项目。 
-SEC在向美国第五巡回上诉法院提交的一份长达四页的动议中表示希望“自愿撤销这一上诉”，此举没有遭到反对。
-- [Solana新费用分配机制实施一周，年化通胀率增长30.5%](https://cryptoslate.com/sol-inflation-leaps-30-one-week-after-changes-in-fee-distribution-model/) - 📰 null - 【Solana新费用分配机制实施一周，年化通胀率增长30.5%】金色财经报道，据CryptoSlate报道，自2月12日实施新的优先费用分配机制后，Solana的年化通胀率上涨30.5%。每天烧毁的SOL数量从近18,000SOL减少到1,000 SOL。 
-Blockworks研究员Carlos Gonzalez Campo表示，Solana改进提案96（SIMD96）将网络的全部优先费用分配给验证者，不再用于代币销毁，导致年化通胀率从3.6%升至4.7%。
-- [LIBRA事件以来，pump.fun单日交易量、新注册钱包数等指标均下降](https://decrypt.co/306807/pump-fun-activity-cools-milei-solana-meme-coin) - 📰 null - 【LIBRA事件以来，pump.fun单日交易量、新注册钱包数等指标均下降】金色财经报道，Dune数据显示，自LIBRA代币推出以来，截至2月19日，pump.fun每日交易量（包括购买和交易新发行代币）已从1.84亿美元下降27%至1.34亿美元。 
-pump.fun的增长除了在交易量方面，在其他方面也出现了停滞。周二，该平台仅注册了59,000个新钱包，为2024年11月17日以来低点。上个月特朗普总统就职典礼当天，该平台活跃钱包数达到约110,000个。 
-自特朗普入主白宫以来，pump.fun上推出的新Meme币数量也急剧下降，从1月20日的61,800个下降到周二的仅27,800个。
-- [纽交所上市公司Eason Technology收购香港区块链安防公司Starlux Intelligent](https://www.prnewswire.com/news-releases/eason-technology-limited-announces-acquisition-of-blockchain-technology-company-302380568.html) - 📰 null - 【纽交所上市公司Eason Technology收购香港区块链安防公司Starlux Intelligent】金色财经报道，纽交所上市公司Eason Technology宣布收购香港区块链安防及技术公司Starlux Intelligent，目前收购金额和交易条款暂未披露，收购完成后Eason Technology将探索在数字科技和基于区块链的房地产运营相关业务，并计划在2025年第二季度完成第一款区块链产品的开发和发布。
-- [昨日富达FBTC净流出4840万美元，FETH净流入2450万美元]() - 📰 null - 【昨日富达FBTC净流出4840万美元，FETH净流入2450万美元】金色财经报道，据Farside Investors数据显示，昨日富达FBTC净流出4840万美元，FETH净流入2450万美元。
-- [某用户因复制受污染CEX存款地址损失近7万美元](https://x.com/realScamSniffer/status/1892386199391920237) - 📰 null - 【某用户因复制受污染CEX存款地址损失近7万美元】金色财经报道，据Scam Sniffer监测，约半小时前，一名受害者因从受污染的转账记录中复制错误的CEX存款地址而损失了68,194美元。
-- [嘉楠科技：1月挖矿产出88枚比特币，资产负债表持仓1319枚比特币](https://www.prnewswire.com/news-releases/canaan-inc-announces-january-2025-bitcoin-production-and-mining-operation-updates-302380069.html) - 📰 null - 【嘉楠科技：1月挖矿产出88枚比特币，资产负债表持仓1319枚比特币】金色财经报道，嘉楠科技发布截至2025年1月31日未经审计的比特币挖矿业务月度更新信息，其中披露2025年1月挖矿产出88枚比特币，月末嘉楠科技资产负债表上持有的比特币数量为1,319枚，月末部署算力~6.43 EH/s，月末运营算力~5.53 EH/s。
-- [区块链协会敦促国会废除国税局的DeFi经纪人规则](https://www.coindesk.com/policy/2025/02/19/crypto-industry-asks-congress-to-scrap-irs-s-defi-broker-rule) - 📰 null - 【区块链协会敦促国会废除国税局的DeFi经纪人规则】金色财经报道，区块链协会联合75位加密货币行业参与者，包括Coinbase、a16z、Kraken等，致信美国国会，呼吁废除国税局（IRS）针对DeFi经纪人的新规。该规则在特朗普政府即将离任前紧急推出，要求DeFi经纪人提供类似证券经纪商的信息报告。 
-参议员 Ted Cruz 已提出决议，要求根据《国会审查法案》废除此规则。行业信函指出，该规则误解了DeFi技术，超越了国会意图，并建议利用国会权力在规则生效前撤销，以避免对行业的负面影响。
-- [荷兰公司Quantoz Payments、NPEX和Dusk联手推出稳定币EURQ](https://cryptonews.com/news/dutch-firms-quantoz-payments-npex-and-dusk-team-up-to-launch-digital-euro/) - 📰 null - 【荷兰公司Quantoz Payments、NPEX和Dusk联手推出稳定币EURQ】2月20日消息，三家荷兰公司Quantoz Payments、NPEX和Dusk宣布联手推出稳定币EURQ。据该公司称，EURQ的建立符合加密资产市场监管局 (MiCA) 的规定。 
-此次合作涉及一家持牌证券交易所、一家EMT提供商和一个区块链基金会。这三家荷兰公司表示，他们正在共同在传统金融系统和区块链驱动的去中心化应用程序（dApps）之间架起一座桥梁。
-- [SecondSwap在以太坊上推出主网，并计划扩展至Solana](https://www.coindesk.com/markets/2025/02/20/dex-secondswap-launches-mainnet-on-ethereum-with-plans-for-solana-expansion) - 📰 null - 【SecondSwap在以太坊上推出主网，并计划扩展至Solana】金色财经报道，二级代币市场SecondSwap周四在以太坊上推出了主网，旨在通过消除中介和在公开市场上建立公平的代币价值，为非流动资产提供一个更有效的市场。SecondSwap采用流动性路由算法，可优化交易执行并最大限度地减少价格滑点，从而确保买卖双方获得安全、可扩展的交易体验。
-- [CoinDesk指数推出CoinDesk 100、Memecoin指数]() - 📰 null - 【CoinDesk指数推出CoinDesk 100、Memecoin指数】金色财经报道，CoinDesk Indices在香港共识会议（Consensus Hong Kong）上宣布，该公司推出了两个指数产品，追踪市值最大的50个memecoins和前100个代币的价格波动，以满足机构和专业投资者在不同加密货币领域寻求上涨空间的需求。 
-CoinDesk Memecoin指数将追踪市值最大的50个memecoin，其中包括dogecoin（DOGE）、shiba inu（SHIB）、floki（FLOKI）等，而CoinDesk 100指数则是市值前一百的代币的单一基准。
+- [调查：约200万澳大利亚加密货币投资者或将影响下届联邦选举](https://cointelegraph.com/news/crypto-voters-tip-australian-federal-election-yougov-poll) - 📰 null - 【调查：约200万澳大利亚加密货币投资者或将影响下届联邦选举】金色财经报道，据Cointelegraph援引Swyftx最新民意调查显示，加密货币投资者可能成为澳大利亚下届联邦选举的重要选民群体。 
+据澳大利亚加密货币交易所Swyftx发布的调查数据显示，在2,031名受访选民中，约22%的人表示投资过加密货币。其中59%的加密货币投资者更倾向于投票支持亲加密货币的候选人，放在全国范围内预计将形成约200万人的支持区块链的投票群体。
+- [某新建钱包地址从Binance提取20,000枚SOL以参与PAIN预售](https://x.com/lookonchain/status/1892462848829174083) - 📰 null - 【某新建钱包地址从Binance提取20,000枚SOL以参与PAIN预售】金色财经报道，据Lookonchain监测，有人创建了一个新钱包，并从Binance提取了20,000枚SOL（430万美元），以参与PAIN预售。他收到了215,328枚PAIN（385万美元）和16,000枚SOL（275万美元）的退款。目前，他从预售中获得了230万美元的未实现利润。
+- [某个参与PAIN预售的鲸鱼地址已浮盈230万美元](https://x.com/lookonchain/status/1892462848829174083) - 📰 null - 【某个参与PAIN预售的鲸鱼地址已浮盈230万美元】金色财经报道，据Lookonchain监测，某新建地址此前从Binance提币2万枚SOL（约合430万美元）以参与PAIN预售。收到215,328枚PAIN（约合385万美元）和16,000枚SOL（约合275万美元）的退款。从预售中获得230万美元的未实现利润。
+- [zkLend公布补偿计划：经过团队捐助后总资金缺口减少至约901.3万美元](https://medium.com/zklend/zklend-compensation-plan-5682dcf91f57) - 📰 null - 【zkLend公布补偿计划：经过团队捐助后总资金缺口减少至约901.3万美元】金色财经报道，zkLend公布补偿计划，未受影响池中的存款预计将获得全额资金返还，受影响池中的存款将获得部分资金返还以及 zkLend 恢复池的索赔头寸，预计将在恢复索赔门户审核后的2周时间内开始提款流程。偿还将由每个未受影响池中的可用流动性全额支付，如果某个未受影响池出现短缺（由于使用率相对较高），将由其他未受影响池中的剩余流动性补充以弥补短缺。未受影响资金池的所有累计盈余将被清算并按比例分配给每个受影响资金池，部分偿还将根据每个资金池的剩余流动性加上此类重新分配（社会化）盈余按比例进行。 
+zkLend表示，经过团队捐助后，总资金缺口减少至约9,013,101.72323417美元。
+- [因盗取420万美元的前Bybit发薪负责人拒不执行法院命令，被判入狱六周](https://www.straitstimes.com/singapore/courts-crime/woman-who-stole-5-7m-worth-of-crypto-gets-6-weeks-jail-for-disobeying-civil-court-order) - 📰 null - 【因盗取420万美元的前Bybit发薪负责人拒不执行法院命令，被判入狱六周】2月20日消息，因盗取420万美元公款的前Bybit发薪负责人Ho Kai Xin拒不执行法院命令，于法院判决后花费近84万美元购买永久产权顶层公寓和路易威登奢侈品。由于违反高等法院的命令，这名32岁的女子于1月27日因藐视法庭而被判入狱六周。 
+此前消息，2023年7月，加密交易平台Bybit起诉负责公司内支付工资的Ho女士滥用职权，将大量USDT转移到她秘密拥有和控制的地址。新加坡高等法院普通庭7月25日维持判决称，普遍承认加密货币为财产，加密资产的持有者原则上拥有普通法承认的无形财产权，作为诉讼中的物品，因此可以在法庭上强制执行。法院判决Ho女士立即向Bybit支付所有转移的款项与利息。
+- [币安CEO：2024年币安通过主动安全措施阻止42亿美元的潜在损失](https://x.com/_RichardTeng/status/1892457152486527187) - 📰 null - 【币安CEO：2024年币安通过主动安全措施阻止42亿美元的潜在损失】金色财经报道，币安首席执行官Richard Teng在X平台发文称，在行业整体努力的推动下，2024年非法加密交易仅加密总交易量的0.14%，币安通过主动安全措施阻止了42亿美元的潜在损失。
+- [某鲸鱼从Binance提取47,154枚SOL并质押](https://x.com/lookonchain/status/1892457697301156207) - 📰 null - 【某鲸鱼从Binance提取47,154枚SOL并质押】金色财经报道，据Lookonchain监测，某鲸鱼10小时前从Binance再次提取47,154枚SOL（798万美元）并将其质押。在过去3天中，这位鲸鱼从Binance中总共提取了134,482枚SOL（2285万美元）并将其质押。
+- [泰国计划10月前发行1.48亿美元的代币化政府债券](https://www.ledgerinsights.com/thailand-tokenized-government-bond-issuance/) - 📰 null - 【泰国计划10月前发行1.48亿美元的代币化政府债券】金色财经报道，据ledgerinsights报道，泰国财政部长Pichai Chunhavajira表示，政府计划在本财年结束前（9月30日）直接向公众发行50亿泰铢（1.48亿美元）政府债券。首次发行将被视为沙盒项目，可在数字债券平台上交易。 
+部长表示：“我们将让散户投资者参与进来，无论他们的财务状况如何。他们可以投资任意金额，直接在平台上买卖，绕过传统的银行柜台。目前有许多平台可供选择，随着私营部门的参与，我们预计管理成本会降低，投资额最低可达1,000泰铢。” 
+此外，部长表示，政府正在考虑将《证券法》与《数字资产法》合并。
+- [xAI：Grok 3 API将在未来几周内推出](https://x.ai/blog/grok-3) - 📰 null - 【xAI：Grok 3 API将在未来几周内推出】金色财经报道，据xAI今日发布的官方文档，未来几周内。API平台将发布Grok 3和Grok 3 mini，提供标准和推理模型的访问。DeepSearch也将通过其API发布给企业合作伙伴。 
+此外，官方文档表示，Grok3的训练正在进行中，计划在未来几个月内频繁更新。
+- [Coinbase发布美国立法愿望清单](https://www.semafor.com/article/02/18/2025/crypto-heavyweight-coinbase-releases-us-legislative-wishlist) - 📰 null - 【Coinbase发布美国立法愿望清单】金色财经报道，Coinbase是美国最大的加密货币交易所，也是该行业的主要政治捐赠者之一，周三在花费数亿美元帮助共和党在2024年赢得华盛顿控制权后，概述了其立法优先事项。 
+这一蓝图最初由Semafor报道，可能会成为华盛顿的影响力路线图，因为该行业正从在拜登政府下成为监管目标转变为在特朗普总统下被拥抱的领域。 
+Coinbase提出的一个重大变化是将加密货币现货交易的监管权移交给商品期货交易委员会（CFTC），因为该公司认为比特币、以太坊和其他类似的数字资产是商品而非证券，这一观点受到了民主党领导下的美国证券交易委员会（SEC）的挑战。这将彻底改变机构监管近3.3万亿美元市场的现行方式。
+- [阿根廷监管机构称无权解决Libra事件争议](https://cryptonews.com/reports/argentinian-regulator-pushes-ahead-with-crypto-regulation-in-wake-of-milei-libra-scandal/) - 📰 null - 【阿根廷监管机构称无权解决Libra事件争议】金色财经报道，阿根廷监管机构称无权介入解决争议，因为Libra的销售超出了他们的管辖范围。阿根廷国家证券委员会（CNV）“迄今为止选择不干预”LIBRA事件，“因为当前的监管框架并不涵盖去中心化平台上的代币广告”。
+- [Metaplanet CEO：当前持有2100枚BTC，2025年迄今BTC收益率为18%](https://x.com/gerovich/status/1892410756282425616) - 📰 null - 【Metaplanet CEO：当前持有2100枚BTC，2025年迄今BTC收益率为18%】金色财经报道，日本上市公司Metaplanet首席执行官Simon Gerovich于X发文表示，公司斥资约660万美元增持68.59枚BTC，均价约96,335美元，并实现了2025年迄今18%的BTC收益率（BTCYield）。 
+截至2025年2月20日，Metaplanet持有2100枚BTC，收购价格约为1.699亿美元，均价约80,905美元。对此，Strategy（原MicroStrategy）创始人Michael Saylor评论道：“比特币的一个基点（One Basis Point of Bitcoin）。”
+- [Bitwise CIO：解决加密货币的证券与商品定义之争或将为市场发展打开闸门](https://www.ft.com/content/0e039fbc-a19d-4c51-9c4d-f3df956f6447) - 📰 null - 【Bitwise CIO：解决加密货币的证券与商品定义之争或将为市场发展打开闸门】金色财经报道，Bitwise Asset Management首席投资官Matt Hougan表示，如果展望未来10年，肯定还会有规模更大的数字资产ETP推出，而这个ETP可能是一个基于指数的产品。 
+自2024年11月以来，美国出现了大量加密货币ETF申请，这些产品基于Solana、XRP、以及莱特币等加密货币，Matt Hougan补充称，解决加密货币的证券与商品定义之争或将为市场发展打开闸门：“除非我们得到明确的定义，否则它将阻碍市场发展。但一旦我们得到这些定义，我相信美国的产品将会出现爆炸式增长。”
+- [MANTRA在谷歌云支持下推出初创企业加速器计划](https://www.coindesk.com/tech/2025/02/20/mantra-launches-program-for-real-world-asset-startups-with-google-cloud-support) - 📰 null - 【MANTRA在谷歌云支持下推出初创企业加速器计划】金色财经报道，在谷歌云（Google Cloud）的支持下，第一层区块链MANTRA启动了一项初创企业加速器计划，旨在推进真实世界资产（RWA）的代币化。这两家公司在香港共识会议上宣布，这项名为“RWAccelerator”的计划将为初创企业提供资金、专家指导、人工智能驱动的资源和技术支持，帮助他们在房地产、金融产品和另类资产等领域构建解决方案。
+- [Upbit：已开始向XLM持有者发放第36期AQUA空投，预计24小时内支付完毕](https://upbit.com/service_center/notice?id=4892) - 📰 null - 【Upbit：已开始向XLM持有者发放第36期AQUA空投，预计24小时内支付完毕】金色财经报道，据官方公告，加密货币交易所Upbit宣布已开始向XLM持有者发放第36期AQUA空投，预计24小时内支付完毕，据悉此次空投将按照快照时接收者的XLM持有量比例按月分期支付，为期36个月，并以本次空投结束。
+- [港股上市公司马克数字科技与华通证券拟成立合营企业，将开发数字货币金融证券交易柜台](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0219/2025021900750_c.pdf) - 📰 null - 【港股上市公司马克数字科技与华通证券拟成立合营企业，将开发数字货币金融证券交易柜台】金色财经报道，据港交所公告，港股上市公司马克数字科技宣布与华通证券签订谅解备忘录，双方已申请成立一家合营企业MW Technology Development Limited，旨在合作开发数字货币金融证券交易柜台。随着合规港元稳定币推出势在必行，该柜台交易系统将将以未来Web3的互动体验呈现“AI数字机器人”应用人工智慧方式辅助下单、交易及结算。华通证券此前已获得VA升级许可，意味着在满足特定条件下可在香港合法合规地提供与虚拟资产相关的交易服务。
+- [昨日美国现货以太坊ETF净流入1900万美元](https://farside.co.uk/eth/) - 📰 null - 【昨日美国现货以太坊ETF净流入1900万美元】金色财经报道，据Farside Investors监测数据，昨日美国现货以太坊ETF净流入1900万美元，ETHA无资金流入/流出。
+- [usdx.money进入稳定币TVL前10行列](https://x.com/usdx_money/status/1892394155952800130) - 📰 null - 【usdx.money进入稳定币TVL前10行列】2月20日消息，据DefiLlama数据，按TVL排名，usdx.money进入稳定币前10行列。其中，在BNB Chain和Arbitrum上，usdx.money均位列前3。
+- [链上交易平台Mintify将于下周公布协议代币经济学](https://x.com/mintify_fnd/status/1892257514630099234) - 📰 null - 【链上交易平台Mintify将于下周公布协议代币经济学】2月20日消息，链上交易平台Mintify将于下周公布协议代币经济学。去年7月，NFT初创公司Mintify完成新一轮340万美元融资，ARCA、Cumberland、Psalion、Master Ventures、Zeneca、GM Capital、Spencer VC和超过50名天使投资人参与了此次融资。今年1月，Mintify宣布转型为链上交易平台。
+- [StarkWare联创：Vitalik已经带领以太坊度过多次危机，以太坊会活下去]() - 📰 null - 【StarkWare联创：Vitalik已经带领以太坊度过多次危机，以太坊会活下去】金色财经报道，StarkWare联合创始人兼首席执行官Eli Ben-Sasson在X平台发文称，Vitalik Buterin已经带领以太坊度过多次危机，一切都会好起来的，以太坊会活下去，解决问题，虽然不知道将如何发生，也没有参与其中，但人们需要强大的以太坊。
