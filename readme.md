@@ -1,30 +1,33 @@
-- [特朗普将加强对独立联邦机构的控制，包括SEC及美联储的监管职能](https://flash.jin10.com/detail/20250220023424698800) - 📰 null - 【特朗普将加强对独立联邦机构的控制，包括SEC及美联储的监管职能】金色财经报道，据英国金融时报，美国总统特朗普将加强对独立联邦机构的控制，这是特朗普加强对政府机构控制的最新举措。美国白宫在一份声明中表示，周二晚些时候，特朗普总统签署了一项“约束独立机构”的行政令，命令各机构提交法规草案以供审查。特朗普还将为各机构制定“绩效标准”，这些机构必须就“优先事项和战略计划”与白宫“协商”。该行政令针对的机构包括美国证交会（SEC）、美国联邦贸易委员会（FTC）、美国联邦通信委员会（FCC）。白宫表示，美联储的货币政策职能不受该行政令限制，但其监管职能受到了限制。
-- [欧盟MiCA批准10家稳定币发行商，Tether未在列](https://cointelegraph.com/news/10-stablecoin-issuers-approved-under-eu-mica) - 📰 null - 【欧盟MiCA批准10家稳定币发行商，Tether未在列】金色财经报道，欧盟《加密资产市场监管法案》（MiCA）合规稳定币发行商名单公布，Circle、Crypto.com、法国兴业银行等 10 家机构获准发行欧元及美元稳定币，共涉及 10 种欧元稳定币与 5 种美元稳定币。而全球最大稳定币发行商 Tether（USDT，市值超 1410 亿美元）未出现在名单上。
-- [机构2024年Q4比特币现货ETF持仓量相比Q3增长超200%](https://www.coindesk.com/markets/2025/02/19/tradfi-investors-piled-usd38-7b-into-bitcoin-etfs-three-times-more-than-previous-quarter) - 📰 null - 【机构2024年Q4比特币现货ETF持仓量相比Q3增长超200%】金色财经报道，据机构提交给美国证券交易委员会 (SEC) 的 13F 文件数据显示，养老金或对冲基金等大型机构在 2024 年第四季度持有的现货比特币 ETF 规模增加了两倍。 
-截至 2024 年 Q4，机构投资者持有价值 387 亿美元的现货比特币 ETF。这一数字是 Q3 的三倍多，Q3 报告的持股量仅为 124 亿美元。 
-其中，威斯康星州投资委员会将其持有的贝莱德 iShares 比特币信托 (IBIT) 股票增至略高于 600 万股。亿万富翁对冲基金投资者保罗·图多 (Paul Tudor) 也将其在 IBIT 的持股量从 4,428,230 股增至 8,048,552 股，增幅近一倍。 
-彭博情报高级 ETF 分析师 Eric Balchunas 称，IBIT 目前有 1,100 家机构持有者通过 13F 文件申报了其持股情况。而大多数新推出的 ETF 通常只有不到 10 名机构持有者。
-- [Tether向Binance充币地址存入8亿枚USDT]() - 📰 null - 【Tether向Binance充币地址存入8亿枚USDT】金色财经报道，据链上数据，Tether 于 3 小时前在以太坊网络通过两笔交易向 Binance 充币地址（Binance: Deposit Funder 1）存入 8 亿枚 USDT。交易哈希分别为： 
-0x0c4d6256b9d33bb1ac9d41d6526acfa637f5a490b3ab81e0c7726efc43cf3935； 
-0x1c6411706d0e2654f37bcb7217c9b40121600c3a00f3ad9289cd4318e405edf3。
-- [Monad：已向超880万个活跃以太坊地址发送测试币](https://x.com/monad_xyz/status/1892256678428492096) - 📰 null - 【Monad：已向超880万个活跃以太坊地址发送测试币】金色财经报道，Monad 官方在社交媒体上发文表示，其已向超 880 万个活跃以太坊地址发送测试币，以大约 5,000 TPS 的速度处理的话困难需要 30 分钟的时间，参与者可以注意查看自己的钱包。
-- [Coinbase将上线Bittensor（TAO）](https://twitter.com/CoinbaseAssets/status/1892256329592369224) - 📰 null - 【Coinbase将上线Bittensor（TAO）】金色财经报道， Coinbase 宣布将在 Bittensor 网络上增加对 Bittensor （TAO）的支持，请勿通过其他网络发送此资产，否则资金可能会丢失。
-- [纳斯达克提议允许基于数字资产的投资权益上市交易](https://www.theblock.co/post/342028/nasdaq-proposes-new-rule-to-allow-trading-and-listing-of-digital-asset-based-investment-interests) - 📰 null - 【纳斯达克提议允许基于数字资产的投资权益上市交易】金色财经报道，纳斯达克于周二提交 19b-4 文件，提议新增规则 5712，允许基于数字资产的投资权益（如证券和商品相关产品）上市交易，该提案还将调整 Hashdex 纳斯达克加密货币指数美国 ETF 的上市规则。
-- [Vitalik Buterin：以太坊不是一个商业化公司，如果以太坊变成公司将失去存在意义](https://app.tako.so/cast?id=0xa323f66a96718e1d00a35c023b85469a24370f7e&isShowFull=true) - 📰 null - 【Vitalik Buterin：以太坊不是一个商业化公司，如果以太坊变成公司将失去存在意义】金色财经报道，以太坊联合创始人 Vitalik Buterin 于在 Tako 平台举办的文字 AMA 中针对“是否认为以太坊需要更商业化的管理？”问题时回答称：“我觉得以太坊是去中心化生态，不是公司，如果以太坊变成公司，我们会失去大部分以太坊的存在意义。其实以太坊生态有好多大的公司：consensys、各个客户端团队（nethermind、nimbus 等等）、Coinbase、L2 团队（包括比如 aztec 和 intmax，他们的隐私技术非常有意思，被很多人低估的）。最好的方法是，找办法给这些公司更多机会去实现公司的优点，基金会作为协调的角色。”
-- [Vitalik Buterin：企图蹭政治家热度的人是误入歧途，以太坊需要更明确清晰的定位](https://app.tako.so/cast?id=0x12730460b6aef669b69192cc1c25c1c1accd0f8e&isShowFull=true) - 📰 null - 【Vitalik Buterin：企图蹭政治家热度的人是误入歧途，以太坊需要更明确清晰的定位】金色财经报道，以太坊联合创始人 Vitalik Buterin 于在 Tako 平台举办的文字 AMA 中针对“如何看待部分以太坊 OG 离开以太坊社区？”问题时回答称：有很多不同的人有不同的故事。比如，有很多区块链圈子的人 10 年前会说，区块链的目标是做一个全球中立的体系，保护个人自由，制衡中心化，现在，如果一个总统发了 Meme 币，他们会说这是真实世界采用。但是为什么这些事在其他的链上发生，如果我们能对那些政治家更友好一些，下次就会来以太坊上发币了。我个人觉得，这种人是走上歧途了。当然他们会说，我太纯粹理想主义了，不现实等等。每一方都有自己的故事。 
-也有一些人会说，以太坊的生态是被 OG 控制的，没有足够的空间给新的人进来。但是这类批评是另外一个方向，有不同的群发出这些论点。 
-我觉得只有一个合适的路能让我们从这些困境出来：我们需要有一些更新的故事说明，以太坊是为什么，ETH 这个币是做什么的，L1 和 L2 是做什么的，等等？现在已经不是 infra 的时代，是应用的时代，所以这些故事不能是抽象的‘自由，开放，抗审查’等，需要一些清晰的应用链答案。我打算近期多支持：info finance (这个也作为 AI + crypto 的方向）、保护隐私、高质量的公共物品融资方式，还有继续做好世界开放金融平台这个部分，这个也当然必须包括 RWA。这里存在很多对用户有价值，也符合我们一直有的价值观的事情，我们需要重新支持这种方向，这里也能给新的人更多机会进来。
-- [伯恩斯坦：政治和监管环境正为推进稳定币立法创造理想条件](https://www.theblock.co/post/342060/bernstein-analysts-see-perfect-storm-that-could-propel-us-stablecoin-regulation-in-2025) - 📰 null - 【伯恩斯坦：政治和监管环境正为推进稳定币立法创造理想条件】金色财经报道，伯恩斯坦周三发布的一份报告显示，其认为政治和监管力量的‘完美风暴’正在为今年美国稳定币立法创造理想条件。 
-分析师们补充说，美国可能出台的立法可能会促使主要金融机构评估如何将稳定币发行或结算整合到其商业模式中。此外，预计监管部门将加强对过去‘去银行化’做法的审查，进一步将稳定币发行人、交易所和中介机构纳入传统金融体系。
-- [FOX记者：美SEC正优先处理截止日期更近的加密诉讼案](https://x.com/EleanorTerrett/status/1892245874832711753) - 📰 null - 【FOX记者：美SEC正优先处理截止日期更近的加密诉讼案】金色财经报道，FOX Business 记者 Eleanor Terrett 表示，据多位法律界消息人士透露，SEC 一直在优先处理那些有法庭截止日期的案件，这解释了为什么我们尚未在 Ripple 和 Kraken 的案件中看到暂停请求。 
-Ripple 的下一个法庭截止日期是 4 月 16 日，而 Kraken 的截止日期似乎是 3 月 31 日。Binance 的案件已被搁置至 4 月 14 日，Lejilex 的案件至 4 月 11 日，而 Coinbase 与 SEC 已同意延长截止日期，允许 SEC 在 3 月 14 日前回应 Coinbase 提出的中间上诉申请。 
-SEC 领导层可能预计特朗普提名的 Paul Atkins 主席将在那时获得确认。在此期间，加密货币特别工作组、国会以及总统数字资产工作组（Presidential Working Group on Digital Assets）可能正在努力填补导致这些诉讼最初被提起的监管空白。
-- [BNB跌破650美元]() - 📰 null - 【BNB跌破650美元】金色财经报道，行情显示，BNB跌破650美元，现报649.33美元，24小时跌幅达到0.16%，行情波动较大，请做好风险控制。
-- [Hashdex获批在巴西推出全球首支XRP现货ETF](https://portaldobitcoin.uol.com.br/1o-etf-a-vista-de-xrp-do-mundo-vai-estrear-em-breve-no-brasil/) - 📰 null - 【Hashdex获批在巴西推出全球首支XRP现货ETF】金色财经报道，巴西证券委员会（CVM）已批准 Hashdex 在巴西推出全球首支以 XRP 为基础的现货交易所交易基金 HASHDEX NASDAQ XRP FUNDO DE ÍNDICE。目前，该基金处于预运营阶段，由 Genial Investimentos 负责管理，正式上市时间尚未公布。
-- [Wormhole已上线Monad测试网](https://x.com/WormholeEco/status/1892238037515436433) - 📰 null - 【Wormhole已上线Monad测试网】金色财经报道， Wormhole 在 X 平台发文宣布已上线 Monad 测试网。
-- [分析：过去72小时鲸鱼买入约43万枚ETH](https://x.com/ali_charts/status/1892237205063741841) - 📰 null - 【分析：过去72小时鲸鱼买入约43万枚ETH】金色财经报道， 据加密分析师 Ali Martinez 在 X 平台披露数据，过去 72 小时鲸鱼买入约 43 万枚 ETH。
-- [21Shares策略主管：LIBRA丑闻标志Meme币热潮达到巅峰](https://x.com/elindinga/status/1892227201094807855) - 📰 null - 【21Shares策略主管：LIBRA丑闻标志Meme币热潮达到巅峰】金色财经报道，21Shares 策略主管 Eliézer Ndinga 在 X 平台上发文表示，LIBRA 代币丑闻标志着 Meme 币热潮的巅峰，促使需要在 Launchpad 平台上采取更强大的风险管理措施。与此同时，全球监管的明确性至关重要——尤其是关于政府官员推出自己的 Meme 币。虽然无需许可的创新应该向所有人开放，但必须建立护栏来保护消费者并防止诈骗。例如，自动化系统可以标记以前涉及 Rug 的合约地址，帮助投资者避免欺诈活动。
-- [Monad测试网已上线](https://x.com/monad_xyz/status/1892227817149997212) - 📰 null - 【Monad测试网已上线】金色财经报道， Monad 在 X 平台发文宣布，Monad Testnet 测试网现已正式上线。
-- [Polymarket：将与UMA和EigenLayer合作，利用下一代预言机升级平台](https://x.com/Polymarket/status/1892231713805238604) - 📰 null - 【Polymarket：将与UMA和EigenLayer合作，利用下一代预言机升级平台】金色财经报道，Polymarket 在 X 平台发文称，目前已进入新闻新时代，接下来将通过下一代预言机进行升级，即将与 UMA 和 EigenLayer 合作推出。
-- [吉尔吉斯斯坦拒绝CBDC转向黄金支持的稳定币](https://x.com/Cointelegraph/status/1892230087195410766) - 📰 null - 【吉尔吉斯斯坦拒绝CBDC转向黄金支持的稳定币】金色财经报道，吉尔吉斯斯坦拒绝央行数字货币（CBDC），转向支持黄金支持的稳定币。
-- [美SEC确认收到CoinShares提交的现货莱特币ETF申请](https://x.com/Cointelegraph/status/1892233430022398099) - 📰 null - 【美SEC确认收到CoinShares提交的现货莱特币ETF申请】金色财经报道，据市场消息，美国证券交易委员会（SEC）已正式确认接受 CoinShares 提交的现货莱特币 ETF（LITE）申请。
+- [Bithumb将上线KAITO韩元交易对]() - 📰 null - 【Bithumb将上线KAITO韩元交易对】2 月 20 日消息，Bithumb 将上线 KAITO 韩元交易对。交易将于当地时间 2025 年 2 月 20 日星期四晚上 9 点开放。
+- [BTC突破97000美元]() - 📰 null - 【BTC突破97000美元】金色财经报道，行情显示，BTC突破97000美元，现报97015.76美元，24小时涨幅达到1.29%，行情波动较大，请做好风险控制。
+- [Tether推出创新融资解决方案TradeFi](https://cryptoslate.com/tether-unveils-tradefi-to-transform-global-trade-with-blockchain-solutions/) - 📰 null - 【Tether推出创新融资解决方案TradeFi】金色财经报道，Tether首席执行官Paolo Ardoino于X宣布推出TradeFi，这是一项旨在通过创新融资解决方案促进全球贸易的新服务。 
+TradeFi扩大了Tether不断增长的产品组合，该组合已经包括稳定币、资产代币化和钱包开发工具。这项最新服务旨在通过提供降低成本和提高效率的融资解决方案来简化国际贸易。该平台将促进原油和铜等主要大宗商品的交易，同时利用USDT实现无缝结算。 
+Tether网站显示："在区块链技术的支持下，我们正在简化贸易流程、降低成本并推动跨行业和跨境的金融包容性。"TradeFi的推出是在Tether去年11月首次进行原油交易之后推出的。该公司为中东的一笔4500万美元的交易提供了资金，涉及67万桶石油。
+- [PAIN团队关联地址在过去7小时内已抛售价值253万美元代币](https://x.com/ai_9684xtpa/status/1892405022740423024) - 📰 null - 【PAIN团队关联地址在过去7小时内已抛售价值253万美元代币】金色财经报道，据 @ai_9684xtpa 监测，地址 DjTrV...1a24a 以均价 $23.66 抛售 107,212 枚 PAIN，追溯其资金来源为团队预售关联地址，而非发放空投的 20% 持币地址，代币转移三次后进行出货。
+- [Meme币PAIN经济模型：PAIN总供应量为1000万枚，50%分配给Harold本人](https://x.com/pain/status/1892309441317576892) - 📰 null - 【Meme币PAIN经济模型：PAIN总供应量为1000万枚，50%分配给Harold本人】2月20日消息，Solana链Meme币PAIN于X发文表示，正如之前承诺的，所筹集的185,976枚SOL中的80%已经退款，在区块318346069（即PAINSALE结束）之后发送的所有资金也已退还。Meme币原型人物Harold本人代币份额将锁定20年，直至2045年解锁。 
+其代币经济模型显示，PAIN总供应量为1000万枚，其中50%分配给Harold本人、20%用于预售、15%用于流动性、10%分配给社区、5%分配给合作伙伴。
+- [昨日美国现货比特币ETF净流出6410万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日美国现货比特币ETF净流出6410万美元】金色财经报道，结合Farside Investors与Trader T数据，昨日美国现货比特币ETF净流出6410万美元，连续两日净流出。其中，IBIT无资金流入/流出，交易量达16亿美元。
+- [英国警方逮捕两名涉及六位数加密货币诈骗案嫌疑人](https://decrypt.co/306690/uk-police-charge-two-in-connection-with-six-figure-crypto-scam) - 📰 null - 【英国警方逮捕两名涉及六位数加密货币诈骗案嫌疑人】金色财经报道，据Decrypt报道，英国警方已逮捕并起诉两名男子，他们涉嫌对一名75岁的阿伯丁郡退休人士实施加密货币诈骗，造成受害人损失六位数金额。 
+据悉，该案件于2024年7月被举报。苏格兰警方东北部分局与西米德兰兹警方和南约克郡警方合作，分别在考文垂逮捕了一名54岁男子，在梅克斯伯勒逮捕了一名36岁男子，两人已于当天被提起诉讼。
+- [Aptos研究主管质疑Monad涉嫌抄袭，Monad联创予以反驳](https://x.com/_jhunsaker/status/1892326107594313774) - 📰 null - 【Aptos研究主管质疑Monad涉嫌抄袭，Monad联创予以反驳】金色财经报道，Aptos研究主管Alexander Spiegelman在社交媒体发文质疑 Monad 抄袭其技术，称不理解Monad为何要花费大量时间抄袭Aptos的技术，并表示这些技术都是开源的且有经同行评审的论文。 
+对此，Monad联合创始人James Hunsaker予以反驳，称其早年就在Haskell环境中研究软件事务内存（STM），BlockSTM只是这些技术的简单扩展，并强调从未查看过任何Aptos的代码。
+- [PAIN：用户退款已完成，Harold本人代币份额将锁定20年](https://x.com/pain/status/1892309441317576892) - 📰 null - 【PAIN：用户退款已完成，Harold本人代币份额将锁定20年】金色财经报道，Solana链meme币PAIN发推表示，正如该项目之前承诺的，所筹集的185,976枚SOL中的80%已经顺利退款，在区块318346069（即PAINSALE结束）之后发送的所有资金也已退还。Harold本人代币份额将锁定20年，直至2045年解锁。 
+据代币经济学显示，PAIN总供应量为1000万枚，其中50%分配给Harold本人、20%用于预售、15%用于流动性、10%将分配给社区、5%分配给合作者。
+- [美SEC自愿撤销对DeFi规则制定案的上诉](https://decrypt.co/306849/sec-reverses-course-dismisses-rulemaking-appeal) - 📰 null - 【美SEC自愿撤销对DeFi规则制定案的上诉】金色财经报道，美国SEC周三自愿撤销了对一项裁决的上诉，该裁决阻止该机构扩大现有证券法的范围，以涵盖DeFi用户和项目。 
+SEC在向美国第五巡回上诉法院提交的一份长达四页的动议中表示希望“自愿撤销这一上诉”，此举没有遭到反对。
+- [Solana新费用分配机制实施一周，年化通胀率增长30.5%](https://cryptoslate.com/sol-inflation-leaps-30-one-week-after-changes-in-fee-distribution-model/) - 📰 null - 【Solana新费用分配机制实施一周，年化通胀率增长30.5%】金色财经报道，据CryptoSlate报道，自2月12日实施新的优先费用分配机制后，Solana的年化通胀率上涨30.5%。每天烧毁的SOL数量从近18,000SOL减少到1,000 SOL。 
+Blockworks研究员Carlos Gonzalez Campo表示，Solana改进提案96（SIMD96）将网络的全部优先费用分配给验证者，不再用于代币销毁，导致年化通胀率从3.6%升至4.7%。
+- [LIBRA事件以来，pump.fun单日交易量、新注册钱包数等指标均下降](https://decrypt.co/306807/pump-fun-activity-cools-milei-solana-meme-coin) - 📰 null - 【LIBRA事件以来，pump.fun单日交易量、新注册钱包数等指标均下降】金色财经报道，Dune数据显示，自LIBRA代币推出以来，截至2月19日，pump.fun每日交易量（包括购买和交易新发行代币）已从1.84亿美元下降27%至1.34亿美元。 
+pump.fun的增长除了在交易量方面，在其他方面也出现了停滞。周二，该平台仅注册了59,000个新钱包，为2024年11月17日以来低点。上个月特朗普总统就职典礼当天，该平台活跃钱包数达到约110,000个。 
+自特朗普入主白宫以来，pump.fun上推出的新Meme币数量也急剧下降，从1月20日的61,800个下降到周二的仅27,800个。
+- [纽交所上市公司Eason Technology收购香港区块链安防公司Starlux Intelligent](https://www.prnewswire.com/news-releases/eason-technology-limited-announces-acquisition-of-blockchain-technology-company-302380568.html) - 📰 null - 【纽交所上市公司Eason Technology收购香港区块链安防公司Starlux Intelligent】金色财经报道，纽交所上市公司Eason Technology宣布收购香港区块链安防及技术公司Starlux Intelligent，目前收购金额和交易条款暂未披露，收购完成后Eason Technology将探索在数字科技和基于区块链的房地产运营相关业务，并计划在2025年第二季度完成第一款区块链产品的开发和发布。
+- [昨日富达FBTC净流出4840万美元，FETH净流入2450万美元]() - 📰 null - 【昨日富达FBTC净流出4840万美元，FETH净流入2450万美元】金色财经报道，据Farside Investors数据显示，昨日富达FBTC净流出4840万美元，FETH净流入2450万美元。
+- [某用户因复制受污染CEX存款地址损失近7万美元](https://x.com/realScamSniffer/status/1892386199391920237) - 📰 null - 【某用户因复制受污染CEX存款地址损失近7万美元】金色财经报道，据Scam Sniffer监测，约半小时前，一名受害者因从受污染的转账记录中复制错误的CEX存款地址而损失了68,194美元。
+- [嘉楠科技：1月挖矿产出88枚比特币，资产负债表持仓1319枚比特币](https://www.prnewswire.com/news-releases/canaan-inc-announces-january-2025-bitcoin-production-and-mining-operation-updates-302380069.html) - 📰 null - 【嘉楠科技：1月挖矿产出88枚比特币，资产负债表持仓1319枚比特币】金色财经报道，嘉楠科技发布截至2025年1月31日未经审计的比特币挖矿业务月度更新信息，其中披露2025年1月挖矿产出88枚比特币，月末嘉楠科技资产负债表上持有的比特币数量为1,319枚，月末部署算力~6.43 EH/s，月末运营算力~5.53 EH/s。
+- [区块链协会敦促国会废除国税局的DeFi经纪人规则](https://www.coindesk.com/policy/2025/02/19/crypto-industry-asks-congress-to-scrap-irs-s-defi-broker-rule) - 📰 null - 【区块链协会敦促国会废除国税局的DeFi经纪人规则】金色财经报道，区块链协会联合75位加密货币行业参与者，包括Coinbase、a16z、Kraken等，致信美国国会，呼吁废除国税局（IRS）针对DeFi经纪人的新规。该规则在特朗普政府即将离任前紧急推出，要求DeFi经纪人提供类似证券经纪商的信息报告。 
+参议员 Ted Cruz 已提出决议，要求根据《国会审查法案》废除此规则。行业信函指出，该规则误解了DeFi技术，超越了国会意图，并建议利用国会权力在规则生效前撤销，以避免对行业的负面影响。
+- [荷兰公司Quantoz Payments、NPEX和Dusk联手推出稳定币EURQ](https://cryptonews.com/news/dutch-firms-quantoz-payments-npex-and-dusk-team-up-to-launch-digital-euro/) - 📰 null - 【荷兰公司Quantoz Payments、NPEX和Dusk联手推出稳定币EURQ】2月20日消息，三家荷兰公司Quantoz Payments、NPEX和Dusk宣布联手推出稳定币EURQ。据该公司称，EURQ的建立符合加密资产市场监管局 (MiCA) 的规定。 
+此次合作涉及一家持牌证券交易所、一家EMT提供商和一个区块链基金会。这三家荷兰公司表示，他们正在共同在传统金融系统和区块链驱动的去中心化应用程序（dApps）之间架起一座桥梁。
+- [SecondSwap在以太坊上推出主网，并计划扩展至Solana](https://www.coindesk.com/markets/2025/02/20/dex-secondswap-launches-mainnet-on-ethereum-with-plans-for-solana-expansion) - 📰 null - 【SecondSwap在以太坊上推出主网，并计划扩展至Solana】金色财经报道，二级代币市场SecondSwap周四在以太坊上推出了主网，旨在通过消除中介和在公开市场上建立公平的代币价值，为非流动资产提供一个更有效的市场。SecondSwap采用流动性路由算法，可优化交易执行并最大限度地减少价格滑点，从而确保买卖双方获得安全、可扩展的交易体验。
+- [CoinDesk指数推出CoinDesk 100、Memecoin指数]() - 📰 null - 【CoinDesk指数推出CoinDesk 100、Memecoin指数】金色财经报道，CoinDesk Indices在香港共识会议（Consensus Hong Kong）上宣布，该公司推出了两个指数产品，追踪市值最大的50个memecoins和前100个代币的价格波动，以满足机构和专业投资者在不同加密货币领域寻求上涨空间的需求。 
+CoinDesk Memecoin指数将追踪市值最大的50个memecoin，其中包括dogecoin（DOGE）、shiba inu（SHIB）、floki（FLOKI）等，而CoinDesk 100指数则是市值前一百的代币的单一基准。
