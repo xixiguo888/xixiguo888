@@ -1,29 +1,26 @@
-- [KAITO开盘触及1.733美元，现报价1.4658美元]() - 📰 null - 【KAITO开盘触及1.733美元，现报价1.4658美元】金色财经报道，币安行情显示，KAITO开盘触及1.733美元，现报价1.4658美元，行情波动较大，请做好风险控制。
-- [金色晚报 | 2月20日晚间重要动态一览]() - 📰 null - 【金色晚报 | 2月20日晚间重要动态一览】12:00-21:00关键词：Deribit、Vitalik、摩根大通、Metaplanet 
-1.Kaito AI：KAITO 代币申领已开放； 
-2.消息人士：Deribit仍在与Kraken洽谈收购事宜； 
-3.Vitalik：以太坊优先事项应该是改进L2之间的互操作性； 
-4.Stacks联创：超三分之二的比特币L2项目将在三年内不复存在； 
-5.摩根大通：BTC及ETH期货需求减弱，加密市场面临短期下行风险； 
-6.Metaplanet CEO：当前持有2100枚BTC，2025年迄今BTC收益率为18%。
-- [标准普尔：美国稳定币采用因缺乏监管而受到阻碍]() - 📰 null - 【标准普尔：美国稳定币采用因缺乏监管而受到阻碍】金色财经报道，据Coindesk报道，标准普尔全球评级在周三的一份报告中表示，美国缺乏稳定币监管是采用该货币的主要障碍之一。以Mohamed Damak为首的分析师指出，缺乏监管是美国采用稳定币的主要障碍之一，并阻碍了稳定币在更广泛的机构范围内采用，稳定币将在链上交易中发挥越来越重要的作用，预计一旦监管到位，采用率将会增加。
-- [慢雾余弦：Kaito发射后DEX Screener上搜索出现Scam代币]() - 📰 null - 【慢雾余弦：Kaito发射后DEX Screener上搜索出现Scam代币】金色财经报道，慢雾余弦在X平台发文称：“Kaito刚发射，DEX Screener上搜出来的全是Scam。” 
-据悉DEX Screener似乎暂未对此情况进行治理，提醒用户谨慎交互。
-- [阿里即将推出基于Qwen2.5-MAX的深度推理模型]() - 📰 null - 【阿里即将推出基于Qwen2.5-MAX的深度推理模型】金色财经报道， 阿里巴巴集团CEO吴泳铭在财报会上表示，阿里将于近期发布基于千问Qwen2.5-MAX的深度推理模型。1月底，阿里发布了AI基础大模型千问旗舰版Qwen2.5-Max，在多项权威基准评测中，处于业界领先水平。目前，Qwen的全球衍生模型已突破9万个，全球排名第一。（36氪）
-- [Sonic Labs联创Andre Cronje：Coinbase拒绝上线代币S已长达8年时间]() - 📰 null - 【Sonic Labs联创Andre Cronje：Coinbase拒绝上线代币S已长达8年时间】2月20日消息，Sonic Labs联创Andre Cronje在X平台发文称，Coinbase拒绝上线代币S已长达8年时间，原因完全无法理解，而在Base上启动代币其实非常有“加密”特色。
-- [Binance将上线KAITO 1-75倍U本位永续合约]() - 📰 null - 【Binance将上线KAITO 1-75倍U本位永续合约】金色财经报道，据官方公告，Binance 将上线 KAITO 1-75 倍 U 本位永续合约。
-- [数据：昨日价值超9.2亿美元的USDT净存款流入币安]() - 📰 null - 【数据：昨日价值超9.2亿美元的USDT净存款流入币安】金色财经报道，IntoTheBlock在X平台披露数据显示，昨日价值超9.2亿美元的USDT净存款流入币安，其中约8亿美元的USDT来自于Tether金库。
-- [Kaito AI：KAITO 代币申领已开放]() - 📰 null - 【Kaito AI：KAITO 代币申领已开放】金色财经报道，Kaito AI 官方在社交平台表示，KAITO 代币申领现已开放。
-- [某鲸鱼向币安存入860万枚OM，价值6300万美元](https://x.com/OnchainLens/status/1892548406637482337) - 📰 null - 【某鲸鱼向币安存入860万枚OM，价值6300万美元】金色财经报道，据Onchain Lens监测，某鲸鱼向币安存入860万枚OM，价值6300万美元，在沉寂 10 个月后，获得了 5685 万美元的巨额利润，该鲸鱼钱包中仍持有 69,681枚OM。
-- [美国财长贝森特重申美联储去年9月的降息幅度过大]() - 📰 null - 【美国财长贝森特重申美联储去年9月的降息幅度过大】金色财经报道，美国财长贝森特重申去年美联储9月份的降息幅度过大，他透露每周都和美联储主席鲍威尔吃早餐，“昨天看见他了”，但不会评论美联储现在的政策，只会评论过去的。
-- [Bybit现已开始推送所有清算数据]() - 📰 null - 【Bybit现已开始推送所有清算数据】2月20日消息，Bybit首席执行官BenZhou在社交媒体发文表示，正如承诺的那样，Bybit现已开始推送所有清算数据。BenZhou此前于2月3日表示，Bybit将开始像推送其他数据一样，推送所有的清算数据。我们相信透明度非常重要。
-- [百度首页上线 DeepSeek 入口，开放仅 1 小时超千万人使用]() - 📰 null - 【百度首页上线 DeepSeek 入口，开放仅 1 小时超千万人使用】金色财经报道，百度搜索目前已全量上线 DeepSeek 满血版并提供联网服务，其中 PC 端开放仅 1 小时就有超千万人使用。 
-对比其它接入 DeepSeek 产品，百度搜索在首页搜索框下方点击“AI 搜索 DeepSeek 满血版”即可体验。值得注意的是，百度搜索此次接入的是 DeepSeek 满血版，并融合了百度联网搜索功能，具备检索增强 RAG 等技术能力，便于用户获取更新、更低幻觉的信息。
-- [Wintermute 3小时前从项目方收到 120 万枚 KAITO](https://x.com/ai_9684xtpa/status/1892540862648955318) - 📰 null - 【Wintermute 3小时前从项目方收到 120 万枚 KAITO】金色财经报道，据 @ai_9684xtpa 监测，Wintermute 为新币 KAITO 做市商之一。3 小时前，Wintermute 从项目方多签地址处收到 120 万枚 KAITO（占初始流通量的 0.5%），目前已有 40 万枚充值进 CEX。
-- [区块链协会支持参议员Ted Cruz废除DeFi经纪规则](https://cointelegraph.com/news/blockchain-association-irs-defi-broker-rule-repeal) - 📰 null - 【区块链协会支持参议员Ted Cruz废除DeFi经纪规则】金色财经报道，代表76家加密货币组织的区块链协会呼吁国会领导人支持参议员Ted Cruz废除美国国税局（IRS）的去中心化金融（DeFi）经纪商规则。 
-这封信由主要加密组织签署，包括 0x Labs、a16z Crypto、Aptos Labs、Crypto.com、Grayscale、Dapper Labs 和 Ava Labs。
-- [香港执法部门与币安CEO会面讨论推进双边合作，以打击与虚拟资产相关的金融和网络犯罪]() - 📰 null - 【香港执法部门与币安CEO会面讨论推进双边合作，以打击与虚拟资产相关的金融和网络犯罪】2月20日消息，据港媒东网报道，虚拟资产交易平台币安首席执行官Richard Teng在香港与执法部门见面，并讨论推进双边合作，以打击与虚拟资产相关的金融和网络犯罪。双方讨论议题包括扩大和加强区块链生态系统中公私部门间的网络防御合作，以及在面对日益复杂的威胁和精进技术犯罪分子下，持续增强执法机构的能力。
-- [Memeland CEO：比特币是地球上最大的Meme币]() - 📰 null - 【Memeland CEO：比特币是地球上最大的Meme币】金色财经报道，据CoinDesk报道，Memeland首席执行官陈展程表示，比特币是地球上最大的Meme币。
-- [某鲸鱼花费9794枚SOL买入PAIN，均价18.81美元]() - 📰 null - 【某鲸鱼花费9794枚SOL买入PAIN，均价18.81美元】金色财经报道，据OnchainLens监测，过去14小时内，某鲸鱼花费9794枚SOL（价值165万美元）以平均价格18.81美元购买了88,150枚PAIN。
-- [欧洲央行管委西姆库斯：赞成2025年再降息3次的预期]() - 📰 null - 【欧洲央行管委西姆库斯：赞成2025年再降息3次的预期】金色财经报道，欧洲央行管委西姆库斯表示赞成2025年再降息3次的预期，利率前进方向是清晰的，下一步行动也是清晰的，看不到3月不降息的好原因。
-- [S上涨突破0.78美元，24小时涨幅16.81%]() - 📰 null - 【S上涨突破0.78美元，24小时涨幅16.81%】2月20日消息，S上涨突破0.78美元，现报价0.781美元，24小时涨幅16.81%。
+- [Coinbase已上线TAO、KAITO](https://x.com/CoinbaseAssets/status/1892628191132447193) - 📰 null - 【Coinbase已上线TAO、KAITO】金色财经报道，Coinbase 已上线 Bittensor (TAO)、Kaito (KAITO)，客户可以购买、出售、转换、发送、接收或存储以上代币。
+- [特朗普首席经济顾问哈塞特：预计美国10年期国债收益率将下滑](https://flash.jin10.com/detail/20250221022159998800) - 📰 null - 【特朗普首席经济顾问哈塞特：预计美国10年期国债收益率将下滑】金色财经报道，特朗普首席经济顾问哈塞特表示，预计美国10年期国债收益率将下滑。
+- [美联储穆萨莱姆：美联储正评估特朗普政府针对金融监管部门的行政命令](https://www.cls.cn/detail/1949488) - 📰 null - 【美联储穆萨莱姆：美联储正评估特朗普政府针对金融监管部门的行政命令】金色财经报道，美国圣路易联储主席穆萨莱姆（2025年FOMC票委）表示，美联储正评估特朗普政府针对金融监管部门的行政命令。美国银行系统形势强劲，资本头寸不错。
+- [比特币质押平台Acre完成400万美元战略融资](https://www.theblock.co/post/342442/bitcoin-staking-platform-acre-funding-token-valuation) - 📰 null - 【比特币质押平台Acre完成400万美元战略融资】金色财经报道，比特币质押平台 Acre 完成 400 万美元战略融资，Draper Dragon、Big Brain Holdings 和 Orange DAO 等参投。 
+Acre 联合创始人兼首席执行官 Laura Wallendal 表示，该轮融资是以未来股权简单协议和代币认购权的形式进行的，Wallendal 表示，9000 万美元的估值代表了尚未推出的 ACRE 代币的完全稀释估值。
+- [观点：比特币波动性及未平仓合约头寸下降表明交易员正持观望态度](https://www.coindesk.com/daybook-us/2025/02/20/crypto-daybook-americas-bitcoin-traders-deleverage-on-steady-fed-rate-outlook?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic) - 📰 null - 【观点：比特币波动性及未平仓合约头寸下降表明交易员正持观望态度】金色财经报道，比特币交易员正在采取观望态度，因为需求减弱、区块链活动缺乏以及流动性流入放缓。他们的态度不仅体现在波动性下降，还体现在持仓量的大幅下降。 
+“现在市场正处于一个冷却阶段”，dYdX 基金会战略与运营副总裁 David Gogel 表示。“比特币一直保持坚挺，但在 1 月未能突破 105,000 美元后，我们看到资金流入放缓，而像 Meme 币这样的投机性资产遭遇了打击。”
+- [FOX记者：美国共和党参议员提交的稳定币监管框架法案获得更多跨党派支持](https://x.com/EleanorTerrett/status/1892613590701498717) - 📰 null - 【FOX记者：美国共和党参议员提交的稳定币监管框架法案获得更多跨党派支持】金色财经报道，FOX Business 记者 Eleanor Terrett 在社交媒体发文表示，“美国共和党参议员 Bill Hagerty 提交的稳定币监管框架法案获得更多的跨党派支持。马里兰州民主党参议员 Angela Alsobrooks 刚刚签署协议成为了该法案的共同发起人，另外一位民主党共同发起人是 Kirsten Gillibrand。”
+- [Wormhole现已支持Unichain](https://wormhole.com/blog/wormhole-now-supports-unichain) - 📰 null - 【Wormhole现已支持Unichain】金色财经报道，Wormhole 现已支持以太坊 L2 网络 Unichain，此次集成使 Wormhole 成为 Unichain 的互操作性提供者，能够实现跨区块链网络的无缝资产转移。
+- [丝绸之路创始人：“比特币耶稣”Roger Ver不应因纳税问题在监狱中度过余生](https://x.com/RealRossU/status/1892619346293231741) - 📰 null - 【丝绸之路创始人：“比特币耶稣”Roger Ver不应因纳税问题在监狱中度过余生】金色财经报道，被特朗普赦免的暗网丝绸之路创始人 Ross Ulbricht 在社交媒体发文表示，“比特币耶稣”Roger Ver 在我低谷时给予了我帮助，现在他需要我们的支持。没有人应该因税务问题而被判终身监禁。让他缴纳税款（如果有的话），然后了结这件事。
+- [VISA首席执行官：过去两年稳定币交易量增长40%](https://flash.jin10.com/detail/20250221003432474800) - 📰 null - 【VISA首席执行官：过去两年稳定币交易量增长40%】金色财经报道，VISA首席执行官表示，过去两年稳定币交易量增长40%。
+- [区块链创新工作室Knidos Labs宣布获得Avalanche基金会资助](https://decrypt.co/306998/knidos-labs-secures-funding-to-launch-node-fi-yield-trading-protocol) - 📰 null - 【区块链创新工作室Knidos Labs宣布获得Avalanche基金会资助】金色财经报道，区块链创新工作室Knidos Labs宣布获得Avalanche基金会资助，具体金额暂未披露，新资金将用于开发和推出其去中心化增强层和构建创新且有影响力的金融工具，同时引入无需信任且透明的部分节点所有权平台Knidos Node-Fi。
+- [美联储博斯蒂克：预计美联储今年将降息两次](https://www.cls.cn/detail/1949461) - 📰 null - 【美联储博斯蒂克：预计美联储今年将降息两次】金色财经报道，美联储博斯蒂克表示，预计美联储今年将降息两次。未来可能发生很多事情，从而导致降息幅度增多或减少。目前的基准利率处于适度紧缩状态，相较于3%-3.5%的中性利率。由于即将到来的政策变化，经济放缓是一个重大关注点，但企业预期2025年将是一个稳健的年份，截至目前，经济依然表现出韧性。
+- [Laser Digital资产管理公司面向机构投资者推出NEAR采用基金](https://laserdigital.com/company-news/laser-digital-launches-near-adoption-fund/) - 📰 null - 【Laser Digital资产管理公司面向机构投资者推出NEAR采用基金】金色财经报道，日本野村控股（Nomura Holdings）子公司 Laser Digital 宣布推出 Laser Digital NEAR Adoption Fund。该基金的策略旨在为机构投资者提供 NEAR 代币的长期敞口，并结合质押机制，使投资者能够参与区块链共识机制。
+- [某巨鲸从币安提取47154枚SOL并质押，价值798万美元](https://x.com/SolanaFloor/status/1892589090555806205) - 📰 null - 【某巨鲸从币安提取47154枚SOL并质押，价值798万美元】金色财经报道，据 SolanaFloor 监测，某巨鲸从币安提取 47154 枚 SOL 并质押，价值 798 万美元。在过去 3 天里，这位鲸鱼总共质押了 134,482 枚 SOL （约合 2358 万美元）。
+- [Coinbase将上线KAITO](https://x.com/CoinbaseAssets/status/1892596976933339279) - 📰 null - 【Coinbase将上线KAITO】金色财经报道， Coinbase 在 X 平台发文表示，将在 Base 网络上增加对 Kaito （KAITO）的支持。如果满足流动性条件，交易将于今天晚些时候开始。一旦建立足够的资产供应，KAITO-USD 交易对将分阶段启动。在某些受支持的司法管辖区，对 KAITO 的支持可能会受到限制。
+- [阿根廷总统米莱将在美国发表演讲并与马斯克会面](https://www.bloomberg.com/news/articles/2025-02-20/milei-seeks-rebound-from-libra-crypto-scandal-on-visit-to-trump-world) - 📰 null - 【阿根廷总统米莱将在美国发表演讲并与马斯克会面】金色财经报道，阿根廷总统米莱于周四抵达美国首都，寻求从加密货币风波中获得喘息之机，而这场风波至今仍在持续，距他在 X 平台上推广一款 Meme 币并引发其价格飙升后迅速崩盘已近一周。此次访美早已计划好，其时机恰到好处，帮助米莱将焦点重新转向他在政治朋友圈中的经济成就。 
+他计划与马斯克会面，将在保守派政治行动会议上发表演讲，他还将与国际货币基金组织（IMF）总裁 Kristalina Georgieva 见面，寻求巩固一项帮助提振阿根廷经济的协议。
+- [Vitalik Buterin：依然对阿根廷在加密货币领域的贡献和角色持非常乐观的态度](https://x.com/VitalikButerin/status/1892598319752355970) - 📰 null - 【Vitalik Buterin：依然对阿根廷在加密货币领域的贡献和角色持非常乐观的态度】金色财经报道，以太坊联合创始人 Vitalik Buterin 在社交媒体发文表示，“阿根廷的以太坊社区充满了出色的开发者，他们已经为以太坊生态系统做出了许多重要的软件贡献。 
+阿根廷当前的动力、建设能量以及利用加密货币和其他新兴技术打造繁荣的 21 世纪社会的决心是真实存在的。最近的新闻不应被视为放弃的理由，而应当作为一个教育为何如此重要的例子。 
+我依然对阿根廷和拉丁美洲在这一领域的贡献和角色保持非常乐观的态度。”
+- [美联储古尔斯比：如果关税导致通胀走高，美联储将对此进行考虑](https://www.cls.cn/detail/1949441) - 📰 null - 【美联储古尔斯比：如果关税导致通胀走高，美联储将对此进行考虑】金色财经报道，美联储古尔斯比表示，PCE数据不太可能像CPI数据那样令人警惕，在新的不确定性出现之前，通往2%通胀率的道路看起来良好；如果关税导致通胀走高，美联储将对此进行考虑。
+- [美SEC批准区块链金融公司Figure发行首个计息稳定币](https://fortune.com/crypto/2025/02/20/figure-markets-sec-approved-stablecoin-ylds-mike-cagney/) - 📰 null - 【美SEC批准区块链金融公司Figure发行首个计息稳定币】金色财经报道，美国证券交易委员会（SEC）首次批准了一种带有利息的稳定币申请。这款稳定币名为 YLDS，由数字资产公司 Figure Markets 开发，将与美元挂钩，类似于储蓄账户中的现金。尽管其他主要稳定币如 USDC 和 USDT 仍处于监管灰色地带，YLDS 将作为证券正式注册于 SEC，Figure 首席执行官 Mike Cagney 在接受《财富》采访时表示，这使得 YLDS 与股票或债券处于同一金融类别。 
+SEC 网站上的文件显示，周二 Figure 的申请已获得批准。该机构的发言人未立即回应评论请求。
+- [BTC跌破97000美元]() - 📰 null - 【BTC跌破97000美元】金色财经报道，行情显示，BTC跌破97000美元，现报96986.01美元，24小时涨幅达到1.13%，行情波动较大，请做好风险控制。
+- [国家金融监管总局：允许港澳银行内地分行开办外币银行卡业务](https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1199273&itemId=915) - 📰 null - 【国家金融监管总局：允许港澳银行内地分行开办外币银行卡业务】金色财经报道，为落实国务院批准的相关协定，金融监管总局近日印发《关于港澳银行内地分行开办银行卡业务有关事项的通知》(以下简称《通知》)，自 2025 年 3 月 1 日起实施。《通知》对港澳银行内地分行开办银行卡业务涉及的相关事项进行明确。一是允许港澳银行内地分行开办外币银行卡业务以及对除中国境内公民以外客户的人民币银行卡业务。二是明确港澳银行内地分行开办借记卡业务适用报告制，开办信用卡业务适用审批制。三是明确港澳银行内地分行开办借记卡业务的报告程序及材料要求。
