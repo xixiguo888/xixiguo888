@@ -1,26 +1,31 @@
-- [Story更新技术路线图：预计Q2推出IP门户和认证服务，Q3进行主网升级](https://x.com/StoryProtocol/status/1892619749961380338) - 📰 null - 【Story更新技术路线图：预计Q2推出IP门户和认证服务，Q3进行主网升级】金色财经报道，可编程IP公链Story发布最新路线图，预计Q2推出IP门户和认证服务，简化IP上链；Q3进行主网升级，发布IPKit，支持开发者集成IP功能。同时，Story正在和斯坦福FDCI合作，探索性能优化、链上存储等前沿技术，推动知识产权区块链化。
-- [美国现货比特币ETF昨日净流出3.6477亿美元](https://x.com/thepfund/status/1892768312964370738) - 📰 null - 【美国现货比特币ETF昨日净流出3.6477亿美元】金色财经报道，据Trader T监测，美国现货比特币ETF昨日净流出3.6477亿美元。
-- [IBIT昨日净流出1.1188亿](https://x.com/thepfund/status/1892765986735956352) - 📰 null - 【IBIT昨日净流出1.1188亿】金色财经报道，据Trader T监测，IBIT昨日净流出1.1188亿。
-- [Solayer联创：Solayer构建的InfiniSVM TPS可达100万](https://x.com/solayer_labs/status/1892188492240699793) - 📰 null - 【Solayer联创：Solayer构建的InfiniSVM TPS可达100万】金色财经报道，Solayer联合创始人Jason Li在Consensus香港2025大会上表示，Solayer作为第一个硬件SVM L1，其支持无限扩展，Solayer构建的InfiniSVM TPS可达100万，超过Monad、Solana、Ethereum等网络。
-- [第151次以太坊ACDC会议：开发人员同意最终确定EIP 7872和EIP 7870两个EIP]() - 📰 null - 【第151次以太坊ACDC会议：开发人员同意最终确定EIP 7872和EIP 7870两个EIP】金色财经报道，Galaxy研究副总裁ChristineKim发文总结第151次以太坊核心开发者共识（ACDC）电话会议。在会议上，开发人员讨论了客户端团队对Holesky测试网上的Pectra升级的准备情况以及PeerDAS Devnet 5的后续工作。开发人员还同意最终确定EIP 7872、本地构建器的最大blob标志以及EIP 7870、验证器和完整节点的硬件和带宽建议。
-- [观点：Meme币和名人币实际上构成了一个抽取散户价值的渠道](https://x.com/ChainLinkGod/status/1892761853648130395) - 📰 null - 【观点：Meme币和名人币实际上构成了一个抽取散户价值的渠道】2月21日消息，Chainlink知名社区贡献者ZachRynes发文指出，Meme币和名人币作为普通用户进入加密货币领域的入口这一观点已被事实证明是错误的。他表示，这些代币实际上构成了一个面向散户的价值抽取渠道，而金融虚无主义已成为加密货币文化中的消极因素。
-- [Infinity Ground完成200万美元种子轮融资](https://x.com/infinityg_ai/status/1892762239758979551) - 📰 null - 【Infinity Ground完成200万美元种子轮融资】金色财经报道，据官方消息，Infinity Ground宣布完成200万美元种子轮融资。本轮投资方包括Animoca Brands、MARBLEX、MH Ventures、Fracht Ventures、KuCoin Ventures、Knightfury404、Presto Labs和PAKA Fund。 
-Infinity Ground正在开发基于人工智能的开发环境(Agentic IDE)和开发工具包(IDK)，旨在帮助Web3开发者提升10倍开发效率。平台将支持Base、BNB Chain、Kaia Chain等多条公链，并基于Initia的技术栈构建自有的ING Network。 
-据悉，Infinity Ground的完整版Agentic IDE平台将于近期上线。该平台致力于打造开放、可互操作的AI驱动开发环境，助力每位Web3开发者成为"超级个体"（Super Individual）。
-- [某沉寂500天鲸鱼地址从CEX提币4700枚ETH]() - 📰 null - 【某沉寂500天鲸鱼地址从CEX提币4700枚ETH】金色财经报道，据Lookonchain监测，某沉寂约500天的鲸鱼地址于7小时前苏醒，从Coinbase以及Binance累计提币4700枚ETH（约合1298万美元）。
-- [两Lido早期投资者24小时内共减持超290万枚LDO](https://x.com/spotonchain/status/1892757463247831116) - 📰 null - 【两Lido早期投资者24小时内共减持超290万枚LDO】金色财经报道，据Spot On Chain监测，Lido早期投资者出现大规模减持行为。数据显示，投资者Chun Wang在过去10小时内出售了30万枚LDO，交易金额约为51.8万USDT。自2025年初以来，Chun Wang已累计出售580万枚LDO，套现约1,027万USDT，平均售价为1.771美元，目前仍持有220万枚LDO。 
-另一位投资者Wolfgang Albrecht在16小时前将260万枚LDO（约合451万美元）转入币安交易所。该投资者于两年前获得333万枚LDO解锁额度，目前已售出328万枚LDO，平均售价约为1.895美元，剩余持仓为5万枚LDO。
-- [曾亏损502万美元VIRTUAL鲸鱼再次购入约104.9万枚VIRTUAL](https://x.com/EmberCN/status/1892756383839428681%E2%80%98%E2%80%99) - 📰 null - 【曾亏损502万美元VIRTUAL鲸鱼再次购入约104.9万枚VIRTUAL】金色财经报道，据链上分析师EmberCN监测，一个鲸鱼地址向VIRTUAL代币投入419枚ETH（约合114万美元），以均价1.09美元购入104.9万枚VIRTUAL代币。 
-该地址此前曾于近期以2.76美元均价买入503.8万枚VIRTUAL代币，并在1.76美元价位退出，产生约502万美元亏损。
-- [Ansem“卖飞”21.5万枚TAIKO空投，错失11.5万美元利润](https://x.com/lookonchain/status/1892755656135827544) - 📰 null - 【Ansem“卖飞”21.5万枚TAIKO空投，错失11.5万美元利润】金色财经报道，据Lookonchain监测，加密KOL Ansem获得了215,113枚KAITO的空投，并以76枚ETH（约20.6万美元）的价格出售。目前其出售的215,113枚KAITO现价值约32万美元。
-- [Lido孵化的Drop Money为Initia推出deINIT LST]() - 📰 null - 【Lido孵化的Drop Money为Initia推出deINIT LST】金色财经报道，Lido孵化的流动性质押协议Drop Money为Initia推出deINIT LST。该LST代表INIT-USDCLP头寸，并质押于Enshrined Liquidity。用户可从INIT质押、INIT-USDC交易费用和Drop中获得回报，同时保持完整的流动性，以便在Interwoven生态系统中的其他地方使用。
-- [AAVE突破260美元]() - 📰 null - 【AAVE突破260美元】金色财经报道，行情显示，AAVE突破260美元，现报260.02美元，24小时涨幅达到3.27%，行情波动较大，请做好风险控制。
-- [彭博分析师：LTC ETF在DTCC列出并不意味着该产品已获批准或即将开始交易](https://x.com/EricBalchunas/status/1892744560071065689) - 📰 null - 【彭博分析师：LTC ETF在DTCC列出并不意味着该产品已获批准或即将开始交易】金色财经报道，据彭博社ETF分析师Eric Balchunas发文称，虽然LTCETF在DTCC列出并不意味着该产品已获批准或即将开始交易，但显示发行方正在为未来获批后的交易做准备，目前获批可能性仍保持在90%。
-- [特朗普终止美联邦政府内所有平权政策]() - 📰 null - 【特朗普终止美联邦政府内所有平权政策】金色财经报道，记者获悉，美国总统助理斯蒂芬·米勒表示，总统特朗普终止了联邦政府内的所有多样性、公平性和包容性（DEI）的政策，并解雇了所有参与颁布这些政策的联邦工作人员，还恢复了死刑。(金十)
-- [BRETT突破0.049美元，24小时涨幅达22.0%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/brett-2) - 📰 null - 【BRETT突破0.049美元，24小时涨幅达22.0%】金色财经报道，行情显示，BRETT突破0.049美元，现报价0.04795美元，24小时涨幅达22.0%，行情波动较大，请做好风险控制。
-- [CoinList将于2月25日开启Obol代币销售](https://x.com/CoinList/status/1892605988231913966) - 📰 null - 【CoinList将于2月25日开启Obol代币销售】金色财经报道，CoinList将于北京时间2月25日1:00开启Obol代币销售，且相比之前VC轮投资优惠30%。对于一般用户：FDV为1.25亿美元、代币价格为0.25美元、TGE后6个月解锁33%，随后12个月线性解锁。 
-对于wstETH或weETH持有者：FDV为1.15亿美元、代币价格为0.23美元、TGE后6个月解锁33%，随后12个月线性解锁。同时用户需要在2025年3月4日1:00至3月11日1:00期间在CoinList上持有价值至少20美元的wstETH或weETH，才能享受较低的价格和FDV。两种选项购买限额都为最低100美元，最高25万美元。未被选中获得分配的用户将于2025年3月13日1:00前在其CoinList钱包中收到资金。
-- [某鲸鱼在过去4天内已从币安提取约17.5万枚SOL并进行质押，约合2,987万美元](https://x.com/OnchainLens/status/1892741043822723526) - 📰 null - 【某鲸鱼在过去4天内已从币安提取约17.5万枚SOL并进行质押，约合2,987万美元】金色财经报道，据链上分析师Onchain Lens监测，过去4天内，一个大额地址从币安交易所提取了174,767枚SOL（约合2,987万美元），并将其中174,705枚SOL用于质押。
-- [VanEck：2029年100万美元的美国比特币战略储备可以抵消约21万亿美元的国债](https://x.com/Cointelegraph/status/1892741028823679094) - 📰 null - 【VanEck：2029年100万美元的美国比特币战略储备可以抵消约21万亿美元的国债】2月21日消息，VanEck的最新研究表明，到2029年，拥有100万美元BTC的美国比特币战略储备可以抵消约21万亿美元的国债。
-- [欧洲央行正加快批发CBDC平台开发](https://cointelegraph.com/news/european-central-bank-calls-wholesale-cbdc-payments) - 📰 null - 【欧洲央行正加快批发CBDC平台开发】金色财经报道，根据2月20日的公告，欧洲中央银行 (ECB) 正在扩大批发中央银行数字货币 (CBDC) 支付系统的开发，以结算机构之间的交易。 
-新系统的建立将分两个阶段进行。首先，将开发CBDC结算平台，而第二阶段则涉及与现有ECB系统的更深入整合，例如外汇交易市场。欧洲央行执行委员会委员、负责监管批发式CBDC计划的央行官员Piero Cipollone表示，该计划将有助于实现“更加协调和一体化的欧洲金融生态系统”。
+- [Kaito AI创始人：KAITO质押奖励已上线](https://x.com/Punk9277/status/1892823531731505412) - 📰 null - 【Kaito AI创始人：KAITO质押奖励已上线】2月21日消息，基于AI的加密搜索引擎Kaito AI创始人Yu Hu在社交媒体发文表示，“KAITO质押奖励已上线，目前约10%的代币已被质押，年化收益率为70%。预计在接下来的几天内，这一收益率将逐步回归正常。投资者/基金会/团队的锁仓代币不能进行质押。目前奖励的来源是流动性激励，但从下周开始，随着网络费用的增加，这将转变为净消耗。关于质押的更多用途将在稍后公布。”
+- [慢雾：已检测到与NFT项目StepHeroNFTs相关的重入攻击漏洞，请警惕安全](https://x.com/SlowMist_Team/status/1892822286715277344) - 📰 null - 【慢雾：已检测到与NFT项目StepHeroNFTs相关的重入攻击漏洞，请警惕安全】金色财经报道，慢雾发布安全警报称，已检测到与NFT项目StepHeroNFTs相关的重入攻击漏洞，请警惕安全。
+- [Upbit：NFT服务拟于2月27日暂停2小时](https://upbit.com/service_center/notice?id=4897) - 📰 null - 【Upbit：NFT服务拟于2月27日暂停2小时】金色财经报道，据官方公告，韩国加密货币交易所Upbit宣布，因计划进行数据库维护任务，NFT服务拟于2月27日06:00～08:00暂停2小时，期间Upbit的NFT 服务内以太坊和基于Polygon的NFT的存入和提取将无法进行，根据市场情况本次检查可能延期或取消。
+- [多位加密KOL已抛售其获得的KAITO空投代币](https://x.com/arkham/status/1892626578015768863) - 📰 null - 【多位加密KOL已抛售其获得的KAITO空投代币】金色财经报道，据加密研究机构Arkham披露，多位加密KOL已抛售其获得的KAITO空投代币: 
+ANSEM获得价值23万美元的KAITO代币并已全部售出； 
+MERT获得价值34万美元的代币并已售出80%； 
+AnthonySassano获得价值18.5万美元的代币并已全部售出。
+- [Bithumb宣布拟于三月下旬终止VALOR 代币交易支持](https://feed.bithumb.com/notice/1647100) - 📰 null - 【Bithumb宣布拟于三月下旬终止VALOR 代币交易支持】金色财经报道，据官方公告，Bithumb宣布拟终止VALOR 代币交易支持，交易（买入/卖出）终止时间计划于2025年3月24日星期一15:00，提款支持终止时间计划于2025年4月23日星期三15:00。据悉当交易支持结束时，该虚拟资产的API交易支持将停止，所有未完成的订单（买入/卖出）将被取消。
+- [DeepSeek App下载量突破1亿](https://flash.jin10.com/detail/20250221134951964800) - 📰 null - 【DeepSeek App下载量突破1亿】金色财经报道，从数据分析平台Quest Mobile获得的最新数据显示，从上线以来至2月9日，DeepSeekApp的累计下载量已超1.1亿次，周活跃用户规模最高近9700万。更为重要的是，DeepSeek几乎没在营销上投入。在DeepSeek的强劲势头下，曾一度突出重围的Kimi和豆包却似乎正在沦为“配角”。Kimi近一年来预估已累计投流高达9亿元，但用户增长效果不佳。
+- [WisdomTree策略师称中国“十大科技股”能与美股“七巨头”比肩]() - 📰 null - 【WisdomTree策略师称中国“十大科技股”能与美股“七巨头”比肩】金色财经报道，据彭博社消息，WisdomTree Investments证券策略主管Jeff  Weniger表示，有些圈子认为中国可以在AI领域估据领先地位。中国的“十大科技股”(Teriffic 10)对“科技七巨头”(Magnificent 7)形成竞争态势，例如比亚迪和吉利挑战特斯拉，阿里巴巴和京东挑战亚马逊。Weniger本月早些时候在X的贴文提出Terrific 10 词，其中包括阿里巴巴、腾讯、美团、小米、比亚迪、京东、网易百度、吉利和中芯国际。
+- [Binance Wallet与Astherus合作推出Yield+ BNB Astherus Kernel策略](https://x.com/binancewallet/status/1892559837328019573?s=46&t=ZpZBL91T8aSkWnDX_AfDVw) - 📰 null - 【Binance Wallet与Astherus合作推出Yield+ BNB Astherus Kernel策略】金色财经报道，Binance Wallet与Astherus合作推出Yield+ BNB Astherus Kernel策略，用户将BNB质押在该策略上，可获得独家19%年化收益率奖励。 
+活动时间为2025年2月20日00:00（UTC）至2025年3月8日23:59（UTC）。总奖励池为价值250,000美元的Astherus未来代币。
+- [DeepSeek：下周为DeepSeek来源周，将陆续开源5个代码库](https://x.com/deepseek_ai/status/1892786555494019098) - 📰 null - 【DeepSeek：下周为DeepSeek来源周，将陆续开源5个代码库】金色财经报道，DeepSeek今日发文为下周DeepSeek来源周预热。DeepSeek表示，DeepSeek一支探索AGI的小团队，从下周开始会陆续开源5个代码库，以完全透明的方式分享DeepSeek微小但真诚的进展。我们在线服务中的这些不起眼的构建块已在生产中记录、部署和实战测试。作为开源社区的一部分，我们相信分享的每一行都会成为加速旅程的集体动力。每日解锁即将到来。没有象牙塔——只有纯粹的车库能量和社区驱动的创新。
+- [马斯克更换X头像为手持“金色电锯”图片](https://x.com/elonmusk) - 📰 null - 【马斯克更换X头像为手持“金色电锯”图片】金色财经报道，埃隆·马斯克更换X头像，换成手持阿根廷总统哈维尔·米莱送与他的“金色电锯”图片。 
+马斯克在接受米莱电锯礼物时表示，这是一把“面向官僚主义的电锯”。
+- [Polymarket上预测“莱特币ETF于今年获批”的概率现报85%](https://polymarket.com/event/litecoin-etf-approved-in-2025?tid=1740115493603) - 📰 null - 【Polymarket上预测“莱特币ETF于今年获批”的概率现报85%】金色财经报道，据官网数据，Polymarket上预测“莱特币ETF于今年获批”的概率现报85%。据CoinGecko数据，LTC市值暂报101.8亿美元，位列加密货币排行第18位，24小时涨幅2.4%。 
+2月21日7时，据DTCC官网显示，Canary莱特币现货ETF已在DTCC官网列出，代码为LTCC，创建/赎回一栏显示为D。虽然此举并不表示该ETF获得任何监管批准或任何明确审批程序结果，但在DTCC网站列出系推出新ETF的标准流程。
+- [SBF：我被定罪是错误的，若由自己继续处理流动性问题，资金将是安全的](https://www.youtube.com/watch?v=T17Ug09w4eE&t=216s) - 📰 null - 【SBF：我被定罪是错误的，若由自己继续处理流动性问题，资金将是安全的】金色财经报道，FTX前首席执行官兼联合创始人SBF在布鲁克林监狱接受《纽约太阳报》采访时表示，他认为自己被错误定罪了。 
+SBF称他最大的错误是在2022年11月允许Sullivan&Cromwell律师事务所接管FTX。他表示，自己本应继续处理流动性问题，而不是让该律所接手并误导客户。 
+由于这个决定，数百万客户被告知资金已耗尽，不得不等待两年才开始收到付款，而SBF认为这些资金从一开始就应该是安全的。
+- [Upbit将上线ARKM]() - 📰 null - 【Upbit将上线ARKM】金色财经报道，据官方公告，Upbit将上线ARKM BTC和USDT交易对。
+- [诈骗Bybit 570万美元的女子被判10年监禁]() - 📰 null - 【诈骗Bybit 570万美元的女子被判10年监禁】金色财经报道，一名虚假修改工资单并从加密货币交易所Bybit诈骗570万美元的妇女被新加坡法院判处近10年监禁。何凯欣（Ho Kai Xin）在承认了44项指控后，被判处9年11个月的刑期，其中包括5项作弊指控和8项处理犯罪行为利益的指控。何凯欣在加密网络平台WeChain工作时犯下了这些罪行，WeChain负责为Bybit发放工资。 
+Ho领导着薪资团队。上月底，她因藐视法庭罪被判处六周监禁，因为她不顾法庭命令，花掉了不义之财。Ho的刑期将近10年，她将在1月27日服刑期满后开始服刑。
+- [经济学家：特朗普可能想搞清比特币大户分布，过分关注加密货币不是好事](https://mp.weixin.qq.com/s/WTSxGfSV0CoxWbRJ4pVRxw) - 📰 null - 【经济学家：特朗普可能想搞清比特币大户分布，过分关注加密货币不是好事】金色财经报道，经济学家王福重撰文称：特朗普对加密货币的兴趣似乎颇大，不仅一家子吃相难看地发币，最近又表示，希望美国成为加密货币世界之都。不过，特朗普的关心，不是什么好事。特朗普控制欲很强，又不愿意遵守任何规则。完全从自己的利益和偏好出发行事。如果他按照一些人的鼓噪，把比特币纳入战略货币储备，是对去中心化的讽刺。
+- [Upbit将上线JTO韩元交易对]() - 📰 null - 【Upbit将上线JTO韩元交易对】金色财经报道，据官方消息，Upbit将上线JTO韩元交易对。
+- [昨日美国现货以太坊ETF净流出1310万美元](https://x.com/FarsideUK/status/1892797809985777858) - 📰 null - 【昨日美国现货以太坊ETF净流出1310万美元】金色财经报道，据Farside Investors监测，昨日美国现货以太坊ETF净流出1310万美元。
+- [数据：千余LIBRA持有者仍未退出流动性]() - 📰 null - 【数据：千余LIBRA持有者仍未退出流动性】2月21日消息，据Decrypt援引Nansen报告指出，尽管Solana生态系统中备受争议的LIBRA已对投资者造成总计2.51亿美元的已实现损失，目前仍有1,001名持有者面临约1,100万美元的浮亏而未退出流动性。
+- [法国兴业银行子公司将欧元稳定币EURCV扩展至Stellar](https://cryptoslate.com/french-banking-giant-socgens-unit-to-expand-its-euro-backed-stablecoin-to-stellar/) - 📰 null - 【法国兴业银行子公司将欧元稳定币EURCV扩展至Stellar】2月21日消息，法国兴业银行的子公司SG-FORGE宣布将其欧元支持的稳定币EUR CoinVertible（EURCV）部署至Stellar网络。 
+值得注意的是，EURCV是首批完全符合欧盟MiCA法案的稳定币之一。此次扩展是该行在区块链领域的最新布局，此前法国兴业银行已在公共区块链上发行绿色债券，并与法国央行合作开展回购交易。
+- [香港证监会行政总裁梁凤仪：全球加密格局呈现两极分化，对流动性和合规性构成严峻挑战](https://apps.sfc.hk/edistributionWeb/gateway/TC/news-and-announcements/news/doc?refNo=25PR21) - 📰 null - 【香港证监会行政总裁梁凤仪：全球加密格局呈现两极分化，对流动性和合规性构成严峻挑战】金色财经报道，香港证监会行政总裁梁凤仪在越南国家证券委员会研讨会上发表主题演说，她表示全球监管方法的差异对加密资产流动性和合规性构成严峻挑战，香港证券及期货事务监察委员会刚刚发布了名为“ASPIRe”的虚拟资产路线图，其中指出全球加密格局呈现出两极分化，监管强度各不相同，从轻度监管到严格审查和禁止。欧洲司法管辖区正在实施统一的标准，尽管美国在虚拟资产交易所交易产品和衍生品方面处于领先地位，但仍面临着监管分散的问题，这也是国际证监会组织在制定标准方面发挥的作用所在。 
+梁凤仪强调，监管是创新的朋友，而不是敌人，有助于创造一个培育环境，使创新者能够负责任地成长，这种方法支持技术生态系统的可持续发展。
