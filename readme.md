@@ -1,3 +1,42 @@
+- [加密货币总市值跌破3.3万亿美元](https://www.coingecko.com/zh/global-charts) - 📰 null - 【加密货币总市值跌破3.3万亿美元】金色财经报道，数据显示，目前加密货币总市值已跌破3.3万亿美元，目前为3.2906万亿美元，24小时跌幅为2.3%，24小时交易额为812.922亿美元。目前BTC市占率为57.55%，ETH市占率为10.3%。
+- [VanEck顾问反思Bybit黑客事件：不可更改合约优于可升级合约](https://x.com/gaborgurbacs/status/1893719832257826929) - 📰 null - 【VanEck顾问反思Bybit黑客事件：不可更改合约优于可升级合约】金色财经报道，Tether策略及VanEck顾问Gabor Gurbacs于X平台发布关于Bybit黑客事件的三点思考： 
+不可变合约优于可升级合约； 
+需要更好的用户体验和设备来签署多签合约； 
+大额交易和管理员权限应当需要时间锁，并且与中等额度交易采用不同的操作安全步骤。
+- [HNT突破3.95美元](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/helium) - 📰 null - 【HNT突破3.95美元】金色财经报道，行情显示，HNT突破3.95美元，现报价3.87美元，24小时涨幅达8.0%，行情波动较大，请做好风险控制。
+- [1亿枚USDT从HTX转至Aave](https://x.com/whale_alert/status/1893707522936078553) - 📰 null - 【1亿枚USDT从HTX转至Aave】金色财经报道，据链上数据追踪服务WhaleAlert监测，北京时间上午1:00左右，100,000,000枚USDT从HTX转至Aave。
+- [过去一周鲸鱼已售出超7800万枚OM](https://x.com/ali_charts/status/1893697578794942667) - 📰 null - 【过去一周鲸鱼已售出超7800万枚OM】金色财经报道，链上分析师Ali于X发文表示，过去一周鲸鱼们已售出超过7800万枚OM。
+- [美联储的古尔斯比淡看通胀预期跃升]() - 📰 null - 【美联储的古尔斯比淡看通胀预期跃升】金色财经报道，芝加哥联邦储备银行行长奥斯坦·古尔斯比淡化了上周发布的一份显示消费者对未来通胀预期上升的报告。古尔斯比在周日接受采访时说：“这个数字‘并不理想’。但这只是一个月的数据。至少需要两到三个月的数据才能算数。”
+- [Bybit：通过协调努力，仅一天时间已冻结4289万美元](https://x.com/FixedFloat/status/1893687916385198085) - 📰 null - 【Bybit：通过协调努力，仅一天时间已冻结4289万美元】金色财经报道，Bybit在X平台发文表示，“通过协调努力，仅一天时间就冻结了4289万美元。感谢以下团队的迅速行动： 
+Tether:标记地址并冻结18.1万枚USDT 
+THORChain:封锁了黑名单 
+ChangeNOW:冻结34枚ETH 
+FixedFloat:冻结12万USDC+USDT 
+Avalanche:冻结0.38755枚BTC 
+CoinEx Global:封锁黑名单并提供关键见解 
+Bitget:阻止了黑名单并冻结了84枚USDT 
+Circle:协助连接并提供重要线索 
+感谢他们团队的及时响应。他们帮助我们监控并阻止了黑名单上的地址。”
+- [港亚控股披露花费593.69万港元增持7.88枚比特币](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0223/2025022300004_c.pdf) - 📰 null - 【港亚控股披露花费593.69万港元增持7.88枚比特币】2月23日消息，据港交所公告，港亚控股宣布其董事会已批准公司进一步增加其于比特币的投资，并于本月20日于公开市场上的加密货币交易平台就购买约7.88个单位的比特币进行了一系列交易，总代价约593.69万港元，以集团内部资源所得款项拨付。目前该集团持有约8.88个单位的比特币，平均成本为75.62万港元。
+- [pump.fun已在前端移除Lazarus Group相关Meme币]() - 📰 null - 【pump.fun已在前端移除Lazarus Group相关Meme币】金色财经报道，pump.fun 已在前端移除与 Bybit 事件黑客、朝鲜黑客组织 Lazarus Group 相关的 Meme 币。
+- [Bybit已在黑客攻击后48小时筹集254,830枚ETH](https://x.com/spotonchain/status/1893663252044984451) - 📰 null - 【Bybit已在黑客攻击后48小时筹集254,830枚ETH】金色财经报道，据 Spotonchain 发布最新数据更新，Bybit 在黑客攻击后的 48 小时内筹集了 254,830 枚 ETH（6.93 亿美元）。
+- [BeosinTrace：Bybit黑客地址资金转移涉及115个沉淀地址及多家交易所]() - 📰 null - 【BeosinTrace：Bybit黑客地址资金转移涉及115个沉淀地址及多家交易所】金色财经报道，2025年2月23日21:37:23，BeosinTrace追踪到bybit黑客地址0xfc9于2025.02.23 21:37:23开始转移，资金流向沉淀地址以及Thorchain:Router。 
+此次转移涉及115个沉淀地址，余额总计11,693.48023045 ETH。相关机构包括：   
+1. 合约地址0xf3de（去中心化交易所:Okx Dex. Aggregation Router），于2025年2月22日19:29:11至2025年2月23日16:35:23接收6,624.25 ETH；   
+2. 合约地址0xd37（去中心化交易所:Thorchain:Router），于2025年2月22日19:32:35至2025年2月23日21:02:11接收7,662.8 ETH；   
+3. 地址0xf1da（Exch交易所），于2025年2月22日17:32:11至2025年2月22日20:37:35接收3,570.62 ETH；   
+4. 合约地址0xfc9（去中心化交易所:Okx Dex. Xbridge），于2025年2月23日13:02:23至2025年2月23日17:57:35接收2,541.56 ETH。   
+BeosinTrace将持续监控资金流向，协助Bybit进行调查。
+- [Michael Saylor再次发布比特币Tracker相关信息，疑似将披露增持信息](https://x.com/saylor/status/1893660529131974865) - 📰 null - 【Michael Saylor再次发布比特币Tracker相关信息，疑似将披露增持信息】2月23日消息，MicroStrategy创始人Michael Saylor再次发布比特币Tracker相关信息，他表示：“我认为这并不能反映我上周所做的事情”。根据此前规律，MicroStrategy总是在相关消息发布之后的第二天披露增持比特币信息。
+- [Bybit攻击者疑似通过在pump fun上发行Meme代币洗钱](https://solscan.io/account/9Gu8v6VZ2YvRngGo35TVyK9CBvbCp4q5ybCSGfaAdqWS?exclude_amount_zero=true#transfers) - 📰 null - 【Bybit攻击者疑似通过在pump fun上发行Meme代币洗钱】金色财经报道，据 Solscan 监测，Bybit Exploiter 疑似正通过在 pump fun 上发行 Meme 代币进行洗钱。Bybit攻击者地址向 9Gu8v6...aAdqWS 转移了 60 SOL，随后 9Gu8v6...aAdqWS 发行了名为 QinShihuang (500000) 的 Meme 币，该币成交额已超过 2,600 万美元，市值约 220 万美元，但流动性仅有 20 万美元。
+- [Bybit：有欺诈者冒充Bybit员工，提醒社区保持警惕]() - 📰 null - 【Bybit：有欺诈者冒充Bybit员工，提醒社区保持警惕】金色财经报道，Bybit 在 X 平台发文提醒，有欺诈者会冒充 Bybit 员工，提醒社区保持警惕，Bybit 绝不会索要个人信息、存款或密码。务必仔细核对官方消息来源，并报告任何可疑情况。如果感觉有问题，很可能就是有问题，注意安全。
+- [金色晚报 | 2月23日晚间重要动态一览]() - 📰 null - 【金色晚报 | 2月23日晚间重要动态一览】12:00-21:00关键词：Bybit、Kanye West、eXch 
+1.eXch拒绝为Bybit拦截被盗的资金； 
+2.Bybit：存款和取款已完全恢复到正常水平； 
+3.CZ：倾向于将捐款地址中的资金用于提供流动性； 
+4.Kanye West X账号已删除此前发布的加密货币相关推文； 
+5.慢雾余弦：建议所有平台针对来自eXch的资金提升风控等级； 
+6.Bybit黑客通过跨链兑换平台已将3.79万枚ETH兑换成其它资产。
 - [Mirana Ventures于31分钟前向Bybit Deposit转移1万枚ETH](https://intel.arkm.com/explorer/address/0x8593AC027a36e7647a586bF9B09a744Ed35cE3DA) - 📰 null - 【Mirana Ventures于31分钟前向Bybit Deposit转移1万枚ETH】金色财经报道，据 Arkham 监测，大约 31 分钟前，Mirana Ventures 向 Bybit Deposit 转移了 1 万枚 ETH，价值约 2,797 万美元，随后这笔资金被转移到 Bybit 热钱包地址。
 - [Bybit黑客通过跨链兑换平台已将3.79万枚ETH兑换成其它资产](https://x.com/EmberCN/status/1893637654325203273) - 📰 null - 【Bybit黑客通过跨链兑换平台已将3.79万枚ETH兑换成其它资产】金色财经报道，据链上分析师余烬监测，Bybit 黑客从昨天下午开始洗ETH以来到现在差不多 30 个小时，已经使用大量地址利用 Chainflip、THORChain、LiFi、DLN、eXch 等跨链兑换平台将 3.79 万枚 ETH (1.06 亿美元) 跨链兑换成了其它资产 (BTC 等)。 
 Bybit 黑客地址目前还有 461,491 枚 ETH (12.9 亿美元)，他们从 Bybit 盗取的 ETH 总数是 499,395 枚 (14 亿美元)。
@@ -5,20 +44,3 @@ Bybit 黑客地址目前还有 461,491 枚 ETH (12.9 亿美元)，他们从 Bybi
 - [BTC跌破96000美元]() - 📰 null - 【BTC跌破96000美元】金色财经报道，行情显示，BTC跌破96000美元，现报95981.05美元，24小时跌幅达到0.69%，行情波动较大，请做好风险控制。
 - [Abraxas Capital Mgmt 标记地址从币安热钱包提出 2 万枚 ETH](https://intel.arkm.com/explorer/address/0xb99a2c4C1C4F1fc27150681B740396F6CE1cBcF5) - 📰 null - 【Abraxas Capital Mgmt 标记地址从币安热钱包提出 2 万枚 ETH】金色财经报道，据 Arkham 监测，大约 15 分钟前，Abraxas Capital Mgmt 标记地址从币安热钱包提出 2 万枚 ETH，价值 5603 万美元。 
 此外，大约11分钟前，该地址还从同一个币安热钱包提出 4000 万枚 USDT。
-- [BNB跌破660美元]() - 📰 null - 【BNB跌破660美元】金色财经报道，行情显示，BNB跌破660美元，现报659.94美元，24小时涨幅达到0.62%，行情波动较大，请做好风险控制。
-- [SOL跌破170美元]() - 📰 null - 【SOL跌破170美元】金色财经报道，行情显示，SOL跌破170美元，现报169.98美元，24小时跌幅达到1.96%，行情波动较大，请做好风险控制。
-- [BNB Chain：TVL激励计划延长1个月](https://x.com/BNBCHAIN/status/1893620062118129736) - 📰 null - 【BNB Chain：TVL激励计划延长1个月】金色财经报道，BNB Chain 在 X 平台发文宣布，TVL 激励计划（TVL Incentive Program）延长 1 个月，新的截止日期是 2025 年 3 月 21 日。
-- [某鲸鱼地址从币安提取22万枚Auction，价值297.4万美元](https://etherscan.io/tx/0x79d0206c0758a9ecbde397e3d7fa2016696654a51cee23017e99bde19a473c8e) - 📰 null - 【某鲸鱼地址从币安提取22万枚Auction，价值297.4万美元】金色财经报道，链上数据显示，大约13分钟前，某鲸鱼地址从币安提取22万枚Auction，价值2,974,400美元。
-- [某沉睡1.3年的鲸鱼从Binance提取107.13枚BTC](https://x.com/OnchainLens/status/1893616245955760172) - 📰 null - 【某沉睡1.3年的鲸鱼从Binance提取107.13枚BTC】金色财经报道，据 OnchainLens 监测，3 小时前某沉睡 1.3 年的鲸鱼钱包从 Binance 提取 107.13 枚 BTC，价值 1034 万美元。1.3 年前该鲸鱼从 Binance 提取了 66.17 枚 BTC，当时价值 241 万美元，后又存入 Binance。
-- [CZ：大多数银行没有14亿美元现金可被窃取](https://x.com/cz_binance/status/1893583084869603769) - 📰 null - 【CZ：大多数银行没有14亿美元现金可被窃取】2月23日消息，Bitinning 创始人 Kashif Raza 在 X 平台发文称，如果一家银行遭黑客入侵窃取了 14 亿美元，后续的流程将会是：冻结提款、通知政府、成立调查委员会、多年调查、关闭分行、输给竞争对手。相较之，Bybit 交易所遭黑客攻击后的流程则是：CEO 现场直播、行业联合、竞争对手提供支持、1 小时后一切恢复正常、行业内启动追踪和冻结操作。对此，币安联创 CZ 回应称：“别担心，大多数银行其实并没有 14 亿美元的现金可被窃取。”
-- [某巨鲸减仓1881亿枚PEPE，亏损263万美元](https://x.com/ai_9684xtpa/status/1893609104104636701) - 📰 null - 【某巨鲸减仓1881亿枚PEPE，亏损263万美元】金色财经报道，据 ai_9684xtpa 监测，ETH 高胜率波段巨鲸过去 1 小时减仓了 1881 亿枚三个月前建仓的 PEPE，亏损 263 万美元。 
-其 PEPE 持仓在去年 12 月以均价 0.00002357 美元买入，本次卖出价格为 0.000009593 美元，亏损 59.3%。
-- [BNB Chain 发射平台 Burve 公布社区代币 BURVE 经济模型：85% 分配给社区](https://x.com/burveprotocol/status/1893595302307000593) - 📰 null - 【BNB Chain 发射平台 Burve 公布社区代币 BURVE 经济模型：85% 分配给社区】金色财经报道，BNB Chain 发射平台 Burve 社区代币 $BURVE 已发行，当前公布经济模型。 $BURVE 总发行量为 1亿枚，无预售，无锁仓，100% 流通。代币分配中85%给到社区，其中10% 用于空投，剩余5%和10%将分别用于市场营销和流动性提供。
-- [泰宁法院审结一起USDT作为理财对象的合同纠纷，涉案金额约15.7万枚USDT](https://mp.weixin.qq.com/s/LPFjuncPKY6qxve3qJr4gA) - 📰 null - 【泰宁法院审结一起USDT作为理财对象的合同纠纷，涉案金额约15.7万枚USDT】金色财经报道，泰宁法院审结一起以“USDT币”作为理财对象的合同纠纷，2021年江某与林某通过他人介绍相识通过建立微信群来交易“USDT币”，2021年至2022年间江某先后向林某微信转账、银行转账约10万元人民币，由林某为其购买了约76000U币，江某还通过林某指定购买81000 U币，江某按照林某的指示将其持有的U币分多次向平台转入，由林某进行操作经验，但所有资金被林某操作殆尽，遂向法院提起诉讼，最终法院审理认为U币的委托交易、管理等问题在我国并不受法律调整和保护，判决驳回原告诉讼请求。
-- [AAVE突破250美元]() - 📰 null - 【AAVE突破250美元】金色财经报道，行情显示，AAVE突破250美元，现报250.02美元，24小时涨幅达到2.57%，行情波动较大，请做好风险控制。
-- [CryptoQuant研究主管：Bybit的ETH储备回升至约16万枚](https://x.com/jjcmoreno/status/1893480897443147969) - 📰 null - 【CryptoQuant研究主管：Bybit的ETH储备回升至约16万枚】金色财经报道，CryptoQuant 研究主管 Julio Moreno 在 X 平台发文披露数据称，Bybit 的 ETH 储备已回升至约 16 万枚。
-- [Bybit：存款和取款已完全恢复到正常水平](https://x.com/Bybit_Official/status/1893585578706227545) - 📰 null - 【Bybit：存款和取款已完全恢复到正常水平】金色财经报道，Bybit 在 X 平台发布更新称，Bybit 上的存款和取款已完全恢复到正常水平，链上数据已确认这一情况。
-- [币安合约将更新 IPUSDT、BANUSDT 和 OMUSDT U 本位永续合约杠杆及保证金阶梯](https://www.binance.com/zh-CN/support/announcement/detail/cf9b0026af1a4684ab95dda69e0d935d) - 📰 null - 【币安合约将更新 IPUSDT、BANUSDT 和 OMUSDT U 本位永续合约杠杆及保证金阶梯】金色财经报道，币安合约将于 2025 年 02 月 23 日 15:30（东八区时间）更新 IPUSDT、BANUSDT 和 OMUSDT U 本位永续合约杠杆及保证金阶梯。由于杠杆和保证金阶梯的更新，合约网格策略可能会受到影响而终止，建议用户在变更前及时进行相应调整。
-- [CryptoQuant：Bybit上ETH储备正在逐渐恢复](https://x.com/jjcmoreno/status/1893478601892270121) - 📰 null - 【CryptoQuant：Bybit上ETH储备正在逐渐恢复】金色财经报道，据 CryptoQuant 研究院负责人 Julio Moreno 表示，Bybit 的 ETH 储备正在缓慢恢复。自遭受黑客攻击以来，该交易平台的净流入量已达到 13.9 万枚 ETH。
-- [分析：Bybit或通过做市商累计购买 106,498 枚ETH](https://x.com/EmberCN/status/1893570849028161886) - 📰 null - 【分析：Bybit或通过做市商累计购买 106,498 枚ETH】金色财经报道，据链上分析师余烬监测，可能是 Bybit 或其关联方的地址在 20 分钟前又从 Wintermute  收到 34,743 枚 ETH (9775万美元)。他们很可能在最近一天多的时间里累计购买了 106,498 枚的 ETH (2.9493亿美元)：通过 Galaxy Digital、FalconX、Wintermute 进行。 
-这个地址最早是从 Bybit 的冷钱包处收到 1 亿 USDT 并转到 FalconX 和 Galaxy Digital 后开始收到 ETH。
