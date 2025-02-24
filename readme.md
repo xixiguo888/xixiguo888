@@ -1,31 +1,32 @@
-- [Bybit：1.5万枚cmETH已由mETH Protocol团队成功追回]() - 📰 null - 【Bybit：1.5万枚cmETH已由mETH Protocol团队成功追回】2月24日消息，Bybit官方表示，mETH Protocol团队在最近的安全事件中发挥了关键作用。通过迅速的行动和有效的协调，mETH Protocol团队成功追回了15,000枚cmETH代币，价值约4300万美元。
-- [Binance调整BANUSDT永续合约资金费率结算频率](https://www.binance.com/en/support/announcement/detail/cf74febfa6e54838a8f4570c58be4334) - 📰 null - 【Binance调整BANUSDT永续合约资金费率结算频率】金色财经报道，据Binance官方公告，自2025年2月24日16:00（北京时间）起，Binance将USDⓈ-MBANUSDT永续合约的资金费率结算频率从每四小时一次调整为每两小时一次。最大资金费率区间维持在+3.00%至-3.00%之间不变。 
-公告指出，为防范极端市场波动风险，Binance可能会在不另行通知的情况下采取额外保护措施，包括调整最大杠杆倍数、持仓价值、维持保证金比例、更新资金费率组成、调整价格指数构成等。
-- [SOL突破160美元]() - 📰 null - 【SOL突破160美元】金色财经报道，行情显示，SOL突破160美元，现报160.02美元，24小时跌幅达到6.51%，行情波动较大，请做好风险控制。
-- [Berachain TVL过去7天上涨16.52%，超越Base排名第六](https://defillama.com/chains) - 📰 null - 【Berachain TVL过去7天上涨16.52%，超越Base排名第六】金色财经报道，据DeFiLlama数据，Berachain总锁仓价值（TVL）过去7天上涨16.52%，达32.71亿美元，超越Base的32.7亿美元，跃居所有公链第六位。
-- [数据：2025年迄今Circle已在Solana链上铸造80亿枚USDC]() - 📰 null - 【数据：2025年迄今Circle已在Solana链上铸造80亿枚USDC】2月24日消息，据Spot On Chain监测，Circle在最近7天的铸造总量达到10亿枚USDC。2025年迄今，Circle已在Solana铸造了80亿枚USDC，其中在1月份铸造了60亿枚，在2月份铸造了20亿枚。 
-此前消息，USDC Treasury在Solana链上新增铸造2.5亿枚USDC。
-- [Bitrace：未来若干个月内预计将出现针对 OTC 群体与加密支付公司的大规模冻结潮]() - 📰 null - 【Bitrace：未来若干个月内预计将出现针对 OTC 群体与加密支付公司的大规模冻结潮】2月24日消息，加密数据分析公司 Bitrace 发文警示，继 Bybit 遭遇 15 亿美元黑客攻击后，未来若干个月内即将出现针对 OTC 群体与加密支付公司的大规模冻结潮。 
-Bitrace 研究显示，该黑客组织除了使用无许可的行业基础设施进行资金清洗外，还会大量使用中心化平台进行倾销，这直接导致大量故意或非故意收取赃款的交易所用户账户被风控，OTC 商与支付机构的业务地址被泰达冻结。 
-2024 年日本 DMM 交易所遭黑客攻击后，攻击者将 6 亿美元资金转移至支付机构 HuionePay，致使其热钱包中 2900 万美元被冻结。2023 年 Poloniex 遭攻击损失超 1 亿美元，黑客通过场外交易清洗资金导致大量 OTC 商户业务受阻。
-- [观点：探索建立虚拟货币阶梯式犯罪数额判断规则](https://news.jcrb.com/jsxw/2025/202502/t20250220_6836661.html) - 📰 null - 【观点：探索建立虚拟货币阶梯式犯罪数额判断规则】金色财经报道，西南政法大学教授朱建华等刊文《探索建立阶梯式犯罪数额判断规则》，其中指出对于国家工作人员利用职务上的便利非法收受他人虚拟货币并为他人谋取利益的行为，根据法律规定,将其定性为受贿罪并无太大争议。然而由于我国目前明确禁止与虚拟货币相关的金融活动，在确定受贿金额时存在较大的分歧，建议按照购入价格、销赃价格、市场价格的先后顺序构建一个阶梯式的犯罪数额认定规则,从而准确地认定犯罪数额，确保法律的公正性。
-- [USDC Treasury在Solana链上新增铸造2.5亿枚USDC]() - 📰 null - 【USDC Treasury在Solana链上新增铸造2.5亿枚USDC】2月24日消息，据 Whale Alert 监测，USDC Treasury 在 Solana 链上新增铸造 2.5 亿枚 USDC。
-- [Infini创始人：目前提现正常，先拿个人资金垫付]() - 📰 null - 【Infini创始人：目前提现正常，先拿个人资金垫付】2月24日消息，Infini 创始人 Christian 在社群中表示，目前提现正常，先拿个人资金垫付。
-- [Bybit对EthicHub投资100万美元](https://www.marketwatch.com/press-release/bybit-invests-1m-in-ethichub-through-blockchain-for-good-alliance-to-drive-agricultural-finance-for-global-farming-communities-205bded5) - 📰 null - 【Bybit对EthicHub投资100万美元】金色财经报道，加密货币交易所Bybit宣布向EthicHub进行100万美元投资，据悉这笔投资由区块链善意联盟 (BGA) 促成，EthicHub主要利用区块链推动金融包容性并赋予小农户权力，通过整合生产性贷款、混合融资和市场准入来改变农业金融。
-- [Infini创始人：个人私钥没有泄漏，是之前转交权限的时候有疏忽](https://x.com/Christianeth/status/1893885666557411712) - 📰 null - 【Infini创始人：个人私钥没有泄漏，是之前转交权限的时候有疏忽】金色财经报道，Infini创始人Christian发推表示：“之前有朋友开玩笑说我这一路也太顺风顺水了，我说已经时刻做好了迎接第一个劫的准备，没想到在bybit之后紧接出事的是自己。个人私钥没有泄漏，是之前转交权限的时候有疏忽，归根结底是自己的责任，这次敲醒了警钟。目前流动性没什么问题，能够全额赔付，正在追查资金。”
-- [慢雾余弦：Infini黑客分两次盗取近5000万美元的USDC](https://x.com/evilcos/status/1893881317307150375) - 📰 null - 【慢雾余弦：Infini黑客分两次盗取近5000万美元的USDC】金色财经报道，慢雾余弦表示，已第一时间对接跟进Infini黑客事件，攻击者挺懂技术，懂智能合约操作，才可能以一把私钥盗走其 Vault 及相关策略里的资金，盗了两次：11,455,666 USDC和38,060,996 USDC。
-- [SOL跌破160美元]() - 📰 null - 【SOL跌破160美元】金色财经报道，行情显示，SOL跌破160美元，现报159.87美元，24小时跌幅达到5.99%，行情波动较大，请做好风险控制。
-- [Infini联创：绝对会赔付，并且赔得起，后续会同步进展]() - 📰 null - 【Infini联创：绝对会赔付，并且赔得起，后续会同步进展】2月24日消息，Infini 联创 @0xsexybanana 发推表示：绝对赔付，并且赔得起。但是现在有很多事要做，就不多花时间安抚大家的情绪了。后续会第一时间同步进展。
-- [ETH跌破2700美元]() - 📰 null - 【ETH跌破2700美元】金色财经报道，行情显示，ETH跌破2700美元，现报2699.77美元，24小时跌幅达到1.82%，行情波动较大，请做好风险控制。
-- [Bybit CEO：POR报告由第三方Hacken审计]() - 📰 null - 【Bybit CEO：POR报告由第三方Hacken审计】2月24日消息，Bybit CEO 表示，POR 报告由第三方 Hacken 审计。审计 POR 的全部目的是证明用户资金以 1:1 的比例支持。此外，还拥有完整、合并、审计的财务数据，包括链下银行资产等，这确保了内部治理和运营的健康，目前已将其提交给全球监管机构。
-- [阿里巴巴 CEO宣布将投入超3800亿元，以用于建设云和 AI 硬件基础设施]() - 📰 null - 【阿里巴巴 CEO宣布将投入超3800亿元，以用于建设云和 AI 硬件基础设施】金色财经报道，据环球网报道，阿里巴巴首席执行官吴泳铭近日表示，阿里巴巴未来三年将投入超 3800 亿元，以用于建设云和 AI 硬件基础设施，总额超过去 10 年总和（约 3000 亿人民币）。"总体来说，未来三年是阿里巴巴集团历史上云建设周期最大、最集中的阶段，因此，这个集中的建设周期的资本支出会对硬件摊销等方面产生一定影响，但鉴于当前用户需求的强劲以及对行业未来的预判，集团相信这些投入的基础设施将很快被内外部客户的所需求消化。"
-- [Infini创始人：在梳理和追踪详细情况，提现正常，最差情况全额赔付](https://x.com/Christianeth/status/1893875013469491241) - 📰 null - 【Infini创始人：在梳理和追踪详细情况，提现正常，最差情况全额赔付】金色财经报道，Infini创始人@Christianeth疑似回应被攻击事件，表示还在梳理和追踪详细情况，提现正常，最差情况全额赔付，可以放心。
-- [CertiK预警：以太坊上可疑合约转移约4950万美元资金并兑换为DAI](https://x.com/certikalert/status/1893863045861879928?s=46&t=MHigno3Eeeo7hfB1BD_tlQ) - 📰 null - 【CertiK预警：以太坊上可疑合约转移约4950万美元资金并兑换为DAI】金色财经报道，据CertiKAlert预警，监测到以太坊网络上一个未经验证的智能合约（地址：0x9A7...E1DC）出现可疑资金转移。接收方钱包（地址：0x3ac...5ed0）收到约4950万美元资金，并正在将这些资金兑换为DAI稳定币。
-- [金色午报 | 2月24日午间重要动态一览]() - 📰 null - 【金色午报 | 2月24日午间重要动态一览】7:00-12:00关键词：DeepSeek 、CZ、Coinbase、Bybit 
-1.DeepSeek启动开源周； 
-2.蒙大拿州众议院否决比特币储备法案； 
-3.佐治亚州提出新法案，拟允许州财政无限额投资比特币； 
-4.CZ：将鼓励建设者消除MEV问题，这有利于大多数用户； 
-5.Coinbase主管：Zhu Su旗下OX.FUN可能存在流动性危机； 
-6.Bybit CEO：已补足以太坊储备缺口，新审计证明即将发布； 
-7.CZ回应首次TST购买交易通过隐私RPC发送：没有使用，只是在Pancake上进行测试。
+- [阿里巴巴：未来三年投入3800亿元用于AI和云计算基础设施]() - 📰 null - 【阿里巴巴：未来三年投入3800亿元用于AI和云计算基础设施】金色财经报道，阿里巴巴在港交所发布公告称，计划未来三年将投入至少3800亿元（530亿美元），用于建设云计算和AI基础设施，进一步致力于长期技术创新，突显公司对AI驱动增长的聚焦及作为全球领先云计算供货商的定位。
+- [Strategy已以约19.9亿美元收购20,356个BTC](https://x.com/saylor/status/1894010574494687441) - 📰 null - 【Strategy已以约19.9亿美元收购20,356个BTC】金色财经报道，Strategy已以约19.9亿美元收购了20,356个BTC，价格约为每比特币97,514美元，并实现了2025年迄今6.9%的BTC收益率。 
+截至2025年2月23日，Strategy持有499,096个BTC，价格约为每比特币66,357美元，收购成本约为331亿美元。
+- [Rezolve Ai推出开创性的10亿美元比特币宝库]() - 📰 null - 【Rezolve Ai推出开创性的10亿美元比特币宝库】金色财经报道，市场消息：Rezolve Ai推出开创性的10亿美元比特币宝库，以推动人工智能驱动的加密货币商业的未来。
+- [美国证券交易委员会结束对Robinhood Crypto的调查]() - 📰 null - 【美国证券交易委员会结束对Robinhood Crypto的调查】金色财经报道，美国证券交易委员会结束对Robinhood Crypto的调查，未采取任何行动。
+- [金色晚报 | 2月24日晚间重要动态一览]() - 📰 null - 【金色晚报 | 2月24日晚间重要动态一览】12:00-21:00关键词：Strategy、Pectra、Bybit、Babylon 
+1.CANARY 向纳斯达克提交 HBAR ETF 申请； 
+2.Strategy完成20亿美元可转换优先票据发行； 
+3.以太坊开发者将在 Holesky 上启动 Pectra 测试； 
+4.知情人士：Ethena此前于12月完成1亿美元融资； 
+5.Bybit：ETH 储备已接近 100%，存取款恢复正常； 
+6.CoinShares：上周数字资产投资产品净流出5.08亿美元； 
+7.Babylon Foundation X 账号发文“Hello World“，或暗示即将 TGE。
+- [马斯克已撤换背景包含“The Doge Father”字样的X账号头像](https://x.com/elonmusk) - 📰 null - 【马斯克已撤换背景包含“The Doge Father”字样的X账号头像】金色财经报道，马斯克已撤换背景包含“The Doge Father”字样的X账号头像，更换为一张疑似风格化的黑洞图片。马斯克上周更换X头像为手持“金色电锯”图片，该工具为阿根廷总统米莱赠与，其头像背景图中有“The Doge Father”字样。
+- [ZachXBT：Bybit等四起黑客攻击事件与同一实体有关](https://x.com/zachxbt/status/1894004267553304723) - 📰 null - 【ZachXBT：Bybit等四起黑客攻击事件与同一实体有关】金色财经报道，链上侦探 ZachXBT 发文表示，今日发现 Bybit 黑客与 Poloniex 黑客的链上地址出现关联。分析诸多链上数据可以表明 Bybit、Poloniex、Phemex、BingX 四起黑客攻击事件与同一实体有关。
+- [Strategy完成20亿美元可转换优先票据发行](https://www.strategy.com/press/strategy-completes-2-billion-offering-of-convertible-senior-notes-due-2030_02-24-2025) - 📰 null - 【Strategy完成20亿美元可转换优先票据发行】金色财经报道，Strategy今天宣布已完成之前宣布的2030年到期0%可转换优先票据（“票据”）的发行。此次发行中出售的票据总本金为20亿美元。扣除费用和估计开支后，此次发行的净收益约为19.9亿美元。Strategy打算将此次发行的净收益用于一般公司用途，包括收购比特币和作为营运资金。
+- [Uniswap基金会：gRHO平台已在Uniswap v4上启动](https://uniswapfoundation.mirror.xyz/alMmyYk2xm-Nv6GRO0eDkK--ZJY9_Rd-W-JVe6pM0wk) - 📰 null - 【Uniswap基金会：gRHO平台已在Uniswap v4上启动】金色财经报道，据官方公告，Uniswap基金会宣布Panoptic的gRHO平台已在Uniswap v4上启动，该项目此前获得了Uniswap基金会 提供的379,000美元创新资助，以支持该平台开发，gRHO是Uniswap v4被动流动性配置的流动性接口，预计该接口将于2025年第二季度开源并可分叉。
+- [以太坊开发者将在 Holesky 上启动 Pectra 测试](https://cointelegraph.com/news/ethereum-pectra-upgrade-holesky-testnet) - 📰 null - 【以太坊开发者将在 Holesky 上启动 Pectra 测试】金色财经报道，以太坊的 Pectra 升级将于今天（UTC 时间）晚上 9 点 55 分在 Holesky 测试网上上线，让开发人员能够在新改进进入以太坊主网之前对其进行测试。Pectra 推出了增强以太坊账户、支持第 2 层扩展和改善验证者用户体验的功能。  
+据以太坊基金会称，Pectra 代表着迈向账户抽象的重要一步。其中一项重大变化包括 EIP-3074，它通过允许外部拥有账户 (EOA) 执行批量交易和赞助 gas 支付来增强以太坊账户抽象。此外，Pectra 升级将使以太坊的 blob 容量增加 50%。主网目前平均支持每个区块 3 个 blob，Pectra 部署后将增加到 6 个。
+- [南达科他州的比特币储备法案将于今日进行听证](https://x.com/BitcoinMagazine/status/1893994885713109247) - 📰 null - 【南达科他州的比特币储备法案将于今日进行听证】金色财经报道，据 Bitcoin Magazine 披露，南达科他州的比特币储备法案今日将在州商业和能源委员会进行听证。
+- [CANARY 向纳斯达克提交 HBAR ETF 申请](https://listingcenter.nasdaq.com/assets/rulebook/nasdaq/filings/SR-NASDAQ-2025-018.pdf) - 📰 null - 【CANARY 向纳斯达克提交 HBAR ETF 申请】金色财经报道，据市场消息，据加拿大投资公司 CANARY 已向纳斯达克提交了 HBAR ETF 的申请。
+- [pump.fun过去7日收入超越Tron，排名第三]() - 📰 null - 【pump.fun过去7日收入超越Tron，排名第三】金色财经报道，据DeFiLlama数据，pump.fun过去7日收入达1476万美元，Tron过去7日收入达1142万美元，pump.fun过去7日收入已超越Tron，排名第三。
+- [知情人士：Ethena此前于12月完成1亿美元融资](https://news.bloomberglaw.com/crypto/ethena-crypto-project-raises-100-million-to-fund-finance-foray) - 📰 null - 【知情人士：Ethena此前于12月完成1亿美元融资】金色财经报道，加密货币项目Ethena 目前已筹集 1 亿美元，用于资助推出针对传统金融机构的新稳定币产品。据一位知情人士透露，此次融资此前尚未报道，已于 12 月完成，吸引了包括富兰克林邓普顿和富达投资旗下风险投资公司 F-Prime Capital 在内的投资者。
+- [UNI跌破8.5美元]() - 📰 null - 【UNI跌破8.5美元】金色财经报道，行情显示，UNI跌破8.5美元，现报8.49美元，24小时跌幅达到7.52%，行情波动较大，请做好风险控制。
+- [Babylon Foundation X 账号发文“Hello World“，或暗示即将 TGE](https://x.com/bbn_foundation/status/1893971653966590146) - 📰 null - 【Babylon Foundation X 账号发文“Hello World“，或暗示即将 TGE】2月24日消息，Babylon Foundation X 账号建立并首次发文“Hello World“，或暗示即将 TGE。
+- [CoinShares：上周数字资产投资产品净流出5.08亿美元](https://coinshares.com/corp/resources/market-activity/fund-flows-24-02-25/) - 📰 null - 【CoinShares：上周数字资产投资产品净流出5.08亿美元】金色财经报道，据CoinShares最新周报数据，上周数字资产投资产品流出总额达 5.08 亿美元，过去两周流出总额达 9.24 亿美元，此前 18 周的流出总额达 290 亿美元。山寨币继续出现流入，XRP 再次领先，流入量为 3830 万美元。自 2025 年 11 月中旬以来，XRP 的流入量已达 8.19 亿美元，反映出投资者希望 SEC 放弃诉讼。紧随其后的是 Solana、以太坊和 Sui，流入量分别为 890 万美元、370 万美元和 147 万美元。
+- [Infini：团队正全天候调查并保护所有系统，存取款等均可正常使用](https://x.com/0xinfini/status/1893973307596435871) - 📰 null - 【Infini：团队正全天候调查并保护所有系统，存取款等均可正常使用】金色财经报道，稳定币数字银行 Infini 发布公告表示，我们了解到有关影响 Infini 的安全漏洞的报告。我们对由此引起的担忧深感抱歉，团队目前正在全天候调查并保护所有系统。 
+所有转账、存款、取款和付款均保持正常使用和工作状态。
+- [Bybit 黑客通过 DEX 将价值约 364 万美元的 ETH 兑换为 DAI](https://x.com/lmkfun/status/1893967131038961891) - 📰 null - 【Bybit 黑客通过 DEX 将价值约 364 万美元的 ETH 兑换为 DAI】金色财经报道，据链上分析师 lmkfun 监测，Bybit 攻击者正通过包括 OKX 去中心化交易所在内的多个去中心化交易所将 ETH 兑换为 DAI。 
+数据显示，攻击者已将价值约 364 万美元的以太坊转移至另一地址，并在该地址上进行 DAI 代币的双向交易及转出操作。
+- [Web3 基金会提出 1000 万 DOT 计划，助力 ZK 创新和网络主权](https://medium.com/web3foundation/a-new-chapter-for-kusama-web3-foundation-proposes-10m-dot-initiative-to-fuel-zk-innovation-and-bd63298fbd3b) - 📰 null - 【Web3 基金会提出 1000 万 DOT 计划，助力 ZK 创新和网络主权】金色财经报道，Polkadot社区正在通过第498号 Web3 基金会提案，旨在从国库中拨出 1000 万个 DOT，以巩固 Kusama 作为 Web3 先进技术的首要枢纽，包括零知识 (zk) 创新、艺术和人格证明实验。 
+这履行了发布前的承诺，即投入 1% 的原始 DOT 供应量（1000 万 DOT）来增加 Kusama 的价值主张。
