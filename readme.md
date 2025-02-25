@@ -1,35 +1,45 @@
-- [美SEC或将重新考虑针对ConsenSys MetaMask质押服务的诉讼](https://x.com/EleanorTerrett/status/1894080927904444778) - 📰 null - 【美SEC或将重新考虑针对ConsenSys MetaMask质押服务的诉讼】金色财经报道，据 Fox Business 记者 Eleanor Terrett 透露，鉴于美国证券交易委员会（SEC）近期对质押业务的关注，该机构可能会重新审视去年针对 ConsenSys 就其 MetaMask 质押服务提起的诉讼。此外，SEC 此前曾指控 ConsenSys 从事未注册经纪业务，但这一指控现已撤销，与 Coinbase 诉讼中被驳回的指控类似。
-- [USDC Treasury销毁超1.5亿枚USDC](https://x.com/whale_alert/status/1894072930805440651) - 📰 null - 【USDC Treasury销毁超1.5亿枚USDC】金色财经报道，据Whale Alert监测，北京时间今日01:12左右，USDC Treasury销毁154,650,766枚USDC。
-- [特朗普：与普京就结束俄乌冲突及双边问题谈判进展顺利](https://www.cls.cn/detail/1952667) - 📰 null - 【特朗普：与普京就结束俄乌冲突及双边问题谈判进展顺利】金色财经报道，美国总统特朗普通过社交媒体表示，正在与俄罗斯总统普京就结束俄乌冲突以及美国和俄罗斯之间将进行的重大经济发展交易进行认真讨论，谈判进展顺利。他还表示，他当日与法国总统马克龙一同向七国集团峰会发表讲话。他表示，各方都表达了希望冲突结束的目标。他强调美国和乌克兰之间“关键矿产和稀土协议”的重要性，并表示希望该协议能尽快签署。
-- [传统金融巨头Citadel Securities计划成为加密货币做市商](https://www.bloomberg.com/news/articles/2025-02-24/crypto-citadel-securities-plans-to-trade-digital-coins-on-exchanges?utm_campaign=socialflow-organic&utm_medium=social&utm_source=twitter&utm_content=crypto) - 📰 null - 【传统金融巨头Citadel Securities计划成为加密货币做市商】金色财经报道，传统金融业巨头，市值达 650 亿美元的纽交所最大做市商 Citadel Securities 计划进军加密货币做市领域，押注特朗普总统对加密行业的支持将带来市场繁荣。 
-Citadel Securities 计划加入 Coinbase Global、Binance 和 Crypto. com 等多家交易平台的做市商名单，并可能最初在美国以外设立做市团队。
-- [Bybit遭黑客攻击成史上最大金融盗窃案](https://x.com/arkham/status/1894073867389321364) - 📰 null - 【Bybit遭黑客攻击成史上最大金融盗窃案】金色财经报道，据Arkham披露，Bybit遭黑客攻击成史上最大金融盗窃案。 
-2025年2月21日，加密货币交易平台Bybit遭黑客攻击损失14亿美元，此前的最大金融盗窃案是2003年3月18日伊拉克中央银行被盗10亿美元。
-- [BTC突破95000美元]() - 📰 null - 【BTC突破95000美元】金色财经报道，行情显示，BTC突破95000美元，现报95013.5美元，24小时跌幅收窄至0.38%，行情波动较大，请做好风险控制。
-- [MITRE代表会见SEC加密小组，提及揭示DeFi协议背后的隐性中心化](https://www.sec.gov/files/memo-mitre-corporation-022125.pdf) - 📰 null - 【MITRE代表会见SEC加密小组，提及揭示DeFi协议背后的隐性中心化】金色财经报道，据美国 SEC 今日披露会议备忘录文件，2 月 21 日美国证券交易委员会（SEC）加密特别行动小组会见了麻省理工学院附属机构 MITRE 公司代表，MITRE 为由美国财政部资助的研发中心运营方。MITRE 代表提交了附件文件，并在会议期间讨论相关内容： 
-MITRE 将推动多机构协同监管稳定币的框架设计，开发工具优化监管意见收集与分析流程； 
-揭示 DeFi 协议背后实际控制权的集中化风险，发掘去中心化金融市场中的隐性中心化； 
-评估 DeFi 与传统金融系统联动时的系统性风险； 
-智能合约层级熔断机制的必要性，MITRE 提议在智能合约中嵌入风险阻断机制以抑制风险传导。
-- [美元指数DXY短线下挫10点，现报106.56]() - 📰 null - 【美元指数DXY短线下挫10点，现报106.56】金色财经报道，美元指数DXY短线下挫10点，现报106.56。
-- [富达代表上周会见SEC加密小组，提及流动性挖矿等链上激励的监管认定](https://www.sec.gov/files/memo-fidelity-management-research-llc-022025.pdf) - 📰 null - 【富达代表上周会见SEC加密小组，提及流动性挖矿等链上激励的监管认定】金色财经报道，据美国 SEC 今日披露会议备忘录文件，2 月 20 日美国证券交易委员会（SEC）加密特别行动小组会见了富达投资的代表，富达代表提交了附件文件，并在会议期间讨论相关内容： 
-客户保护规则对经纪商与数字资产证券交互的适用性，讨论经纪商在数字资产证券交易中的客户资产隔离与托管要求； 
-数字资产交易所交易产品（ETP）的上市标准化规则，以推动数字资产 ETP 发行与上市的规范化框架； 
-明确基金发起人对资产质押的选择机制，界定基金在质押加密资产时的合规路径与操作规范； 
-基于区块链的代币及金融工具相关奖励的会计处理，探讨质押收益、流动性挖矿奖励等链上激励的监管认定方式。
-- [FOX记者：Michael Saylor于上周五会见SEC加密特别行动小组](https://x.com/EleanorTerrett/status/1894057658568552925) - 📰 null - 【FOX记者：Michael Saylor于上周五会见SEC加密特别行动小组】金色财经报道，据 FOX Business 记者 Eleanor Terrett 披露，Strategy（原 MicroStrategy）创始人 Michael Saylor 在上周五会见了 SEC 加密特别行动小组。
-- [Bernstein：流动性将从无用meme回流至DeFi、GameFi与NFT，看好稳定币与RWA](https://www.theblock.co/post/343044/bernstein-memecoins-defi-gaming-nfts) - 📰 null - 【Bernstein：流动性将从无用meme回流至DeFi、GameFi与NFT，看好稳定币与RWA】金色财经报道，Bernstein发布分析报告指出，“此前加密市场为规避针对实用型代币与 NFT 项目的监管打击，被迫转向无用的 meme 币，但随着特朗普政府放宽监管，分析师预计流动性将回归 DeFi（去中心化金融）、GameFi 与 NFT 等实用驱动型赛道。” 
-“特朗普提名的加密友好监管者 Paul Atkins 将执掌 SEC（待参议院确认），并成立由共和党委员 Hester Peirce 领导的加密工作组。SEC 原则上同意撤销对 Coinbase 的证券违规指控并终止对 OpenSea 的调查均显示政策转向。ETF 资金持续流入及 Strategy 引领的企业囤币潮，将推动比特币未来数月上涨，即使近期市场低迷，仍维持年底目标价 20 万美元的观点。” 
-“稳定币与现实资产代币化（RWA）是另一焦点，尤其伴随稳定币与数字资产证券监管框架的预期落地。稳定币将率先影响跨境 B2B 支付、银行间结算与汇款。随着加密资产证券监管明晰，股权与债务代币化将为企业融资开辟新路径，稳定币作为结算货币的需求也将增长。预计稳定币将扩大交易平台与经纪商的潜在市场——代币化股权上市推动交易量增长，稳定币需求增加平台浮存金收益。”
-- [BTC跌破94000美元]() - 📰 null - 【BTC跌破94000美元】金色财经报道，行情显示，BTC跌破94000美元，现报93996.01美元，24小时跌幅达到1.56%，行情波动较大，请做好风险控制。
-- [Usual：所有$USUAL流通代币的50%现已被质押](https://x.com/usualmoney/status/1894040342355398987) - 📰 null - 【Usual：所有$USUAL流通代币的50%现已被质押】金色财经报道，基于法币支持的去中心化RWA稳定币项目Usual在X平台披露数据称，目前所有$USUAL流通代币的50%现已被质押。
-- [德国金融巨头DekaBank宣布为机构客户提供加密货币交易和托管服务](https://www.coindesk.com/markets/2025/02/24/dekabank-rolls-out-crypto-trading-custody-services-for-institutions-bloomberg?utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic) - 📰 null - 【德国金融巨头DekaBank宣布为机构客户提供加密货币交易和托管服务】金色财经报道，德国金融巨头 DekaBank 宣布为机构客户提供加密货币交易和托管服务，同时在欧洲中央银行（ECB）的监管下运营。该公司在推出该服务之前，已从德国联邦金融监管局（BaFin）获得加密货币托管牌照。
-- [泽连斯基：希望在2025年结束俄乌冲突](https://flash.jin10.com/detail/20250224234336738800) - 📰 null - 【泽连斯基：希望在2025年结束俄乌冲突】金色财经报道，当地时间2月24日，乌克兰总统泽连斯基在基辅召开的 “支持乌克兰”国际会议全会会议结束后的新闻发布会上发表声明。泽连斯基表示，希望在2025年结束俄乌冲突，而不是3年后。
-- [SOL史上最大规模解锁将近，多家VC持有数十亿美元未实现利润](https://cointelegraph.com/news/wintermute-withdraws-38-m-sol-binance-ahead-2-b-solana-unlock) - 📰 null - 【SOL史上最大规模解锁将近，多家VC持有数十亿美元未实现利润】金色财经报道，加密做市商 Wintermute 过去 24 小时从 Binance 提取价值 3820 万美元的 SOL，目前距离 Solana 史上最大规模的代币解锁（价值 20 亿美元）还有一周时间，3 月 1 日将有 1120 万枚 SOL 解锁流通。SOL 价格近期承压，在过去 24 小时下跌超 7.5%，跌至 155 美元的近三个月低点。 
-加密分析师 Artchick.eth 表示，“未来三个月将有超 1500 万枚 SOL（约 25 亿美元）进入流通，其中大部分由 Galaxy Digital、Pantera Capital 及 Figure 等机构通过 FTX 拍卖以 64 美元每枚 SOL 购入，多家 VC 仍有丰厚利润。” 
-交易员 RunnerXBT 指出，“Galaxy Digital、Pantera 与 Figure 在 SOL 上分别持有 30 亿、10 亿及 1.5 亿美元未实现利润。市场推测这些机构可能抛售持仓，近期阿根廷总统米莱背书的 LIBRA meme 币骗局加剧了市场恐慌。”
-- [美股加密货币股盘中全线下跌]() - 📰 null - 【美股加密货币股盘中全线下跌】金色财经报道，据行情信息，美股加密货币股票盘中全线下跌，矿企领跌，其中：Coinbase(COIN) 跌 2.7%；MicroStrategy (MSTR) 跌 4.73%；MARA Holdings(MARA) 跌 5.12%；Riot Platforms (RIOT) 跌 4.67%；Hut 8 Corp. (HUT) 跌 8.48%。
-- [今日美国比特币ETF净流出1393枚BTC，以太坊ETF净流出7616枚ETH](https://x.com/lookonchain/status/1894044084538577094) - 📰 null - 【今日美国比特币ETF净流出1393枚BTC，以太坊ETF净流出7616枚ETH】金色财经报道，据Lookonchain监测，今日10只美国比特币ETF净流出1393枚BTC（1.318亿美元），其中灰度比特币迷你信托基金流出621枚BTC（1.1226亿美元），目前灰度比特币迷你信托基持有41545枚BTC（39.3亿美元）； 
-9只以太坊ETF净流出7616枚ETH（2022万美元），其中灰度ETHE流出3849枚ETH（1022万美元），目前灰度ETHE持有1,296,868枚ETH（34.4亿美元）。
-- [BTC跌破94500美元]() - 📰 null - 【BTC跌破94500美元】金色财经报道，行情显示，BTC跌破94500美元，现报94492.56美元，24小时跌幅达到1.23%，行情波动较大，请做好风险控制。
-- [YZi Labs投资加密人工智能初创公司Vana](https://www.theblock.co/post/342999/yzi-labs-crypto-ai-vana-cz-joins-advisor) - 📰 null - 【YZi Labs投资加密人工智能初创公司Vana】金色财经报道，YZi Labs宣布投资加密人工智能初创公司Vana，具体金额暂未披露。
+- [俄亥俄州提出区块链基础法案，拟禁止对数字资产支付征税](https://x.com/Cointelegraph/status/1894218258351624681) - 📰 null - 【俄亥俄州提出区块链基础法案，拟禁止对数字资产支付征税】金色财经报道，据最新立法文件显示，俄亥俄州众议院于近日提出第 116 号法案（HB 116），即《俄亥俄区块链基础法案》。该法案由众议员 Demetriou 提出，旨在规范数字资产挖矿、征税及州退休系统的数字资产投资管理。 
+法案核心内容包括：禁止对使用数字资产进行商品和服务支付征收任何费用、税收或其他费用；保护数字资产挖矿和托管权利；并研究州退休基金投资数字资产 ETF 的可能性。该法案已进入第 136 届州议会（2025-2026）常规会议审议阶段。
+- [Raydium 回应 Pump.Fun 自建 AMM 传闻，称其为“战略误判”](https://www.coindesk.com/web3/2025/02/24/pump-fun-s-rumored-amm-pivot-a-strategic-miscalculation-says-raydium) - 📰 null - 【Raydium 回应 Pump.Fun 自建 AMM 传闻，称其为“战略误判”】金色财经报道，据 CoinDesk 报道，Raydium 核心贡献者 InfraRAY 回应了 Pump.Fun 可能推出自有 AMM 的传闻。 
+InfraRAY 在 X 平台发文表示，Pump.Fun 若完全抛弃 Raydium 将是一个“战略误判”，并质疑其能否复制现有的成功。他指出，Pump.Fun 若转向新的 AMM 可能面临基础设施不足、迁移代币需求低迷、上线初期交易量不足等多重风险。 
+对于是否将推出自有 AMM，Pump.Fun 联合创始人 Alon Cohen 拒绝置评。
+- [萨尔瓦多今日增持7枚比特币](https://bitcoin.gob.sv/zh/) - 📰 null - 【萨尔瓦多今日增持7枚比特币】金色财经报道，链上数据显示，萨尔瓦多于约7小时前增持7枚BTC，总持仓达到6088.18枚BTC，目前价值约5.72亿美元。
+- [DeepSeek开源周第二天，开源 EP通信库DeepEP](https://x.com/deepseek_ai/status/1894211757604049133) - 📰 null - 【DeepSeek开源周第二天，开源 EP通信库DeepEP】金色财经报道，DeepSeek开源周第二天，很高兴介绍 DeepEP - 第一个用于 MoE 模型训练和推理的开源 EP 通信库。 
+高效且优化的全对全通信 
+通过 NVLink 和 RDMA 支持节点内和节点间 
+用于训练和推理预填充的高吞吐量内核 
+用于推理解码的低延迟内核 
+原生 FP8 调度支持 
+灵活的 GPU 资源控制，用于计算通信重叠
+- [数个多头巨鲸做多主流代币共损失超2500万美元](https://x.com/lookonchain/status/1894214019361509548) - 📰 null - 【数个多头巨鲸做多主流代币共损失超2500万美元】金色财经报道，据 Lookonchain 监测，随着市场下跌，数个多头巨鲸损失惨重，其中： 
+「0x153C...319A」因做多 BTC、SOL、HYPE、ONDO、HBAR、SUI 和 TRUMP 而损失 1540 万美元。 
+「0xeadc...9D55」因做多 BTC、ETH 和 SOL 而损失 980 万美元。
+- [余弦：Safe多签钱包，智能合约安全部分久经考验，但链下部分正面临重大挑战](https://x.com/evilcos/status/1894037562274312240) - 📰 null - 【余弦：Safe多签钱包，智能合约安全部分久经考验，但链下部分正面临重大挑战】金色财经报道，Cos(余弦)在X发文表示，安全事故总发生在视野盲区里。比如 Safe 多签钱包，智能合约安全部分久经考验（但愿），但链下部分正面临重大挑战，从 WazirX、Radiant Capital 到 Bybit，那个最好不提名字的黑客组织掌握了针对 Safe 的攻击技巧，可能是组合拳利用。也许真相很简单，但我们不好做不负责任推测。
+- [沉寂三年的巨鲸地址向币安转入200枚比特币，持仓总收益达1820万美元](https://x.com/spotonchain/status/1894212191563456889) - 📰 null - 【沉寂三年的巨鲸地址向币安转入200枚比特币，持仓总收益达1820万美元】金色财经报道，据Spot On Chain监测，某休眠3年鲸鱼地址于2小时前向Binance存入200枚BTC（约1840万美元）。
+- [SOL跌破140美元]() - 📰 null - 【SOL跌破140美元】金色财经报道，行情显示，SOL跌破140美元，现报139.95美元，24小时跌幅达到14.79%，行情波动较大，请做好风险控制。
+- [数据：Meme币SBF过去1小时上涨3440%]() - 📰 null - 【数据：Meme币SBF过去1小时上涨3440%】金色财经报道，据GMGN行情显示，Meme币SBF短时上涨触及0.0022 USDT，现报0.0011 USDT，过去1小时上涨2409%。
+- [BTC跌破92000美元]() - 📰 null - 【BTC跌破92000美元】金色财经报道，行情显示，BTC跌破92000美元，现报91988美元，24小时跌幅达到4.3%，行情波动较大，请做好风险控制。
+- [Aave 协议完成 v3.3 升级，优化了坏账处理和清算机制](https://x.com/aave/status/1894064655326163107) - 📰 null - 【Aave 协议完成 v3.3 升级，优化了坏账处理和清算机制】金色财经报道，据 Aave 官方消息，由 BGD Labs 开发的 Aave v3.3 版本升级已正式上线。此次升级主要优化了坏账处理和清算机制，为即将推出的 Umbrella 安全系统铺路。 
+Umbrella 系统将取代现有的 Safety Module，引入自动化机制，允许用户质押 aToken 以赚取奖励，同时用于吸收协议坏账，无需治理投票干预。该系统仅面向无借贷头寸的用户开放，旨在提升协议安全性，特别是在市场波动期间能更好地保护用户资产免受坏账影响。
+- [ETH突破2500美元]() - 📰 null - 【ETH突破2500美元】金色财经报道，行情显示，ETH突破2500美元，现报2500.1美元，24小时跌幅达到10.39%，行情波动较大，请做好风险控制。
+- [美国执法部门查获 Uranium Finance 被盗资产，价值约 3100 万美元](https://x.com/PeckShieldAlert/status/1894203067563741482) - 📰 null - 【美国执法部门查获 Uranium Finance 被盗资产，价值约 3100 万美元】金色财经报道，据美国纽约南区检察官办公室（SDNY）公告，SDNY 与美国国土安全调查局圣地亚哥分部（HSI San Diego）已成功查获与 2021 年 4 月 Uranium Finance 黑客事件相关的加密资产，总价值约 3100 万美元。 
+Uranium Finance 是部署在 BNB Chain 上的 DeFi 协议，在 2021 年遭遇黑客攻击，损失约 5000 万美元。SDNY 表示，如有用户认为自己是该黑客事件的受害者，可通过邮箱与相关部门联系。
+- [SBF 时隔两年首次发推，谈及公司裁员及管理问题](https://x.com/SBF_FTX/status/1894204086754709951) - 📰 null - 【SBF 时隔两年首次发推，谈及公司裁员及管理问题】金色财经报道，FTX 前 CEO Sam Bankman-Fried（SBF）在沉默两年后首次发布推文。在这组推文中，SBF 主要讨论了公司裁员和管理方面的问题： 
+1) 我对政府雇员很有同理心：我也有好几（百）天没查看电子邮件了。而且我可以确认，失业一点也不像看起来那么轻松。 
+2) 解雇员工是世界上最难做的事情之一。这对所有相关人员来说都很糟糕。我的经验是： 
+a) 员工被解雇通常不是他们的错 
+b) 但解雇他们通常是正确的决定 
+3) 更多时候，问题在于公司就是没有适合他们的工作岗位。 
+4) 我会对每个被解雇的人说：这同样是我们的错，因为我们没有为他们提供合适的岗位，或合适的管理者，或合适的工作环境。 
+5) 可能我们当时就是没有人有空来管理他们。可能他们更适合远程工作，但我们公司采用面对面沟通。可能他们想做某个特定项目，但这并不是公司当时所需要的。 
+6) 或者可能他们所在的部门本身就存在问题。 
+7) 这种情况时有发生。我们看到竞争对手多雇了 30,000 名员工，然后不知道该让他们做什么 —— 结果整个团队整天无所事事。 
+8) 我们内部也出现过这种情况，当一个管理者变得忙碌或注意力分散时，半个部门会同时失去方向。 
+9) 这种情况发生时，并不是员工的错。如果雇主不知道该如何安排他们，或没有人能有效管理他们，这都不是他们的错。如果内部政治导致他们的部门偏离方向，这也不是他们的错。 
+10) 但让他们留在那里无所事事也没有意义。
+- [Riot Platforms：截至2024年底比特币持有量17,722枚，较上一年增长141%](https://s3.amazonaws.com/sec.irpass.cc/2865/0001415889-25-005300.htm) - 📰 null - 【Riot Platforms：截至2024年底比特币持有量17,722枚，较上一年增长141%】金色财经报道，纳斯达克上市比特币矿企Riot Platforms向美国监管机构发布2024全年业绩报告，其中披露去年收入达到3.767亿美元（其中净收入1.094亿美元），此外通过首次可转换优先票据发行募资5.79亿美元并增持了5784枚比特币，自挖矿产出4828枚比特币，截至2024年底的比特币总持有量达到17.722枚，较上一年增长141%，去年比特币收益率达到39%。
+- [比特币挖矿难度昨日下调3.15%至110.57 T](https://explorer.cloverpool.com/zh-CN/btc/insights-difficulty) - 📰 null - 【比特币挖矿难度昨日下调3.15%至110.57 T】金色财经报道，据 CloverPool 数据，比特币挖矿难度在区块高度 885,024 处（北京时间昨日 4:29:38）迎来挖矿难度调整，挖矿难度下调 3.15% 至 110.57 T。
+- [Bountycaster 创始人 Linda Xie 加入 Farcaster 团队]() - 📰 null - 【Bountycaster 创始人 Linda Xie 加入 Farcaster 团队】2月25日消息，Bountycaster 创始人 Linda Xie 宣布与其联合创始人 Daniel Pyrathon 加入 Farcaster 团队，未来将关注开发 Warpcast 钱包、Frame V2、Coinbase 钱包分发等。Linda Xie 还表示仍将利用个人时间开发 Bountycaster。此前，Linda Xie 曾担任 Scalar Capital 联合创始人和 Coinbase 产品经理。
+- [某50倍做空ETH的鲸鱼已浮盈超4800万美元]() - 📰 null - 【某50倍做空ETH的鲸鱼已浮盈超4800万美元】2月25日消息，据HypurrScan监测，某鲸鱼于1月在Hyperliquid上以50倍杠杆开设了一个以太坊空头头寸，现已浮盈约4820万美元，若以太坊涨至4056.8美元，其相应头寸才会被清算。
+- [L1区块链项目Imua完成500万美元种子轮融资，Paramita Capital等领投]() - 📰 null - 【L1区块链项目Imua完成500万美元种子轮融资，Paramita Capital等领投】金色财经报道，L1区块链项目Imua宣布完成500万美元种子轮融资，Draper Dragon、No Limit Holdings、Paramita Capital领投，Reforge Capital、Caladan Capital、Tané Labs、Syntax Capital、MH Ventures、57 Blocks、Lecca Ventures等参投，新资金将用于开发新技术将比特币、以太坊、XRP和Solana等区块链的去中心化安全性和信任捆绑在一起并将其扩展为一种服务，以保护AI代理等链下网络的安全交易，据悉目前Imua公共测试网已上线。
+- [再质押协议 Byzantine 完成 300 万美元 Pre-Seed 轮融资]() - 📰 null - 【再质押协议 Byzantine 完成 300 万美元 Pre-Seed 轮融资】金色财经报道，再质押协议 Byzantine Finance 完成 300 万美元 Pre-Seed 轮融资，由 Node Capital 和 Blockwall Ventures 领投， Lightshift、Masterkey 和 Kiln Ventures，以及来自 EigenLayer、LayerZero 和 Ledger 等的天使投资人参投。这笔资金将用于开发其拜占庭的无需许可的“聚合层”，这是一种协议，旨在使多个区块链能够在不牺牲主权的情况下共享流动性、状态和用户。
