@@ -1,29 +1,25 @@
-- [特朗普次子 Eric Trump：逢低买入](https://x.com/EricTrump/status/1894371171736408116) - 📰 null - 【特朗普次子 Eric Trump：逢低买入】金色财经报道，特朗普次子 Eric Trump 在 X 平台发文“₿uy the dips!!!”，其中“B”以比特币符号代替，或意为逢低买入比特币。
-- [金色晚报 | 2月25日晚间重要动态一览]() - 📰 null - 【金色晚报 | 2月25日晚间重要动态一览】12:00-21:00关键词：Bybit、灰度、RedStone 
-1.7 Siblings以均价2382美元买入12,070枚ETH； 
-2.纳斯达克已为灰度DOT ETF提交19b-4申请文件； 
-3.Bybit于3小时前通过OTC再次买入36,893枚ETH； 
-4.加密货币总市值跌破3万亿美元，24小时跌幅达10.5%； 
-5.币安Launchpool和Pre-Market交易上线RedStone (RED)； 
-6.比特币市值被白银和沙特阿美超越，跌至全球资产排名第十位。
-- [7 Siblings以均价2382美元买入12,070枚ETH](https://x.com/lookonchain/status/1894365936595165616) - 📰 null - 【7 Siblings以均价2382美元买入12,070枚ETH】金色财经报道，据 Lookonchain 监测，在市场下跌后，7 Siblings 花费 2875 万枚 DAI 买入 12,070 枚 ETH，均价 2382 美元。目前，7 Siblings 在两个钱包中总计持有 115 万枚 ETH（28 亿美元）。
-- [何一回应“黑客通过发红包盗币”：用户自己知道币安账号被入侵](https://x.com/heyibinance/status/1894336553658294770) - 📰 null - 【何一回应“黑客通过发红包盗币”：用户自己知道币安账号被入侵】2月25日消息，针对此前社区称有币安用户账户被入侵、黑客通过发红包盗币，币安联合创始人何一在 X 平台回应称：该用户邮箱，币安账号、谷歌验证全部被入侵，且用户知道自己账号均被入侵。
-- [纳斯达克已为灰度DOT ETF提交19b-4申请文件](https://x.com/solidintel_x/status/1894358552656932962) - 📰 null - 【纳斯达克已为灰度DOT ETF提交19b-4申请文件】金色财经报道，据市场消息，纳斯达克已为灰度 DOT ETF（Grayscale Polkadot Trust）提交 19b-4 申请文件。
-- [Bybit于3小时前通过OTC再次买入36,893枚ETH](https://x.com/lookonchain/status/1894356303981809725) - 📰 null - 【Bybit于3小时前通过OTC再次买入36,893枚ETH】金色财经报道，据 Lookonchain 监测，Bybit 在 3 小时前通过 OTC 再次购买了 36,893 枚 ETH（8750 万美元）。Bybit 在过去 3 天内通过 OTC 总计购买了 212,101 枚 ETH（5.74 亿美元）。
-- [BTC回升突破89000美元]() - 📰 null - 【BTC回升突破89000美元】金色财经报道，行情显示，BTC突破89000美元，现报89011.22美元，24小时跌幅达到7.04%，行情波动较大，请做好风险控制。
-- [CryptoQuant：26,430枚BTC在市场下跌期间流入鲸鱼积累地址](https://x.com/cryptoquant_com/status/1894351621393461479) - 📰 null - 【CryptoQuant：26,430枚BTC在市场下跌期间流入鲸鱼积累地址】金色财经报道，CryptoQuant 披露数据显示，鲸鱼正在市场下跌期间购买，26,430 枚 BTC 流入鲸鱼积累地址，通常与场外交易和长期托管相关。
-- [香港推出首个人工智能大模型]() - 📰 null - 【香港推出首个人工智能大模型】金色财经报道，由香港特区政府重点创科项目“InnoHK创新香港研发平台”资助的香港生成式人工智能研发中心（HKGAI）25日正式发布HKGAIV1大模型。这是香港首个人工智能大模型，揭开了香港人工智能发展的新篇章。香港生成式人工智能研发中心负责人介绍，这是业界首个基于DeepSeek全参数微调、并持续训练产生的大模型。这一创新成果标志着HKGAI成功完成了DeepSeek的首次香港本地化，为香港人工智能生态发展注入了新的活力，亦充分展现了香港与内地在人工智能领域的强大协同创新能力。（新华社）
-- [Immutable 联创：明天将宣布第三个入驻 Immutable的数十亿美元投资规模游戏项目](https://x.com/0xferg/status/1894341582620701116) - 📰 null - 【Immutable 联创：明天将宣布第三个入驻 Immutable的数十亿美元投资规模游戏项目】金色财经报道，据 Immutable 联合创始人 Robbie Ferguson 在 X 发文透露，Immutable 将于明日宣布第三个获得数十亿美元投资支持的游戏项目入驻其平台。
-- [消息人士：DeepSeek正在加速推出其R2人工智能模型]() - 📰 null - 【消息人士：DeepSeek正在加速推出其R2人工智能模型】金色财经报道，消息人士称，DeepSeek正在加速推出其R2人工智能模型，其最初计划在五月推出，但目前正在努力尽快推出。 (路透社)
-- [比特币市值被白银和沙特阿美超越，跌至全球资产排名第十位](https://8marketcap.com/) - 📰 null - 【比特币市值被白银和沙特阿美超越，跌至全球资产排名第十位】金色财经报道，据8MarketCap数据显示，比特币市值跌至1.749万亿美元，24小时跌幅7.74%，目前已下滑三位，被Vanguard Total Stock Market ETF（1.837万亿美元）、白银（1.83万亿美元）和沙特阿美（1.771万美元）超越降至全球资产排名第十位。
-- [Sophon 通过节点销售筹集超过 6000 万美元项目资金](https://blog.availproject.org/sophon-raises-60-million-with-avail-light-client/) - 📰 null - 【Sophon 通过节点销售筹集超过 6000 万美元项目资金】金色财经报道，2024年模块化区块链Sophon 通过节点销售筹集了超过 6000 万美元的项目资金。Sophon 自两个月前推出以来，已经处理了超过 5000 万笔交易。Sophon 团队调整并扩展了 Avail Light Client (LC)，以在其 Guardian 计划中发挥关键作用，奖励节点运营商独立检查和验证 Sophon 网络。
-- [自2月7日达峰值以来，比特币ETF净流出量已达16.49亿美元](https://x.com/FarsideUK/status/1894339316433744147) - 📰 null - 【自2月7日达峰值以来，比特币ETF净流出量已达16.49亿美元】金色财经报道，据Farside Investors，自2025年2月7日达到峰值以来，比特币ETF净流出量已达16.49亿美元。
-- [慢雾：Bybit黑客已通过THORChain把超7万枚ETH转移至Bitcoin网络](https://x.com/MistTrack_io/status/1894330680072704328) - 📰 null - 【慢雾：Bybit黑客已通过THORChain把超7万枚ETH转移至Bitcoin网络】金色财经报道，据慢雾监测，Bybit黑客目前已通过THORChain将超过70,000枚ETH转移至Bitcoin网络。
-- [某地址 12.61 个 cbBTC 遭清算，价值约 111 万美元](https://x.com/PeckShieldAlert/status/1894336506854347107) - 📰 null - 【某地址 12.61 个 cbBTC 遭清算，价值约 111 万美元】金色财经报道，据链上分析师 PeckShieldAlert 监测，约 16分钟前，一个地址持有的 12.61 个 cbBTC 遭到清算，价值约 111 万美元。
-- [华夏基金(香港)将于2月28日推出“华夏港元数字货币基金”](https://edm.firmstudio.com/h/r/BCAC075C8E4F046D2540EF23F30FEDED) - 📰 null - 【华夏基金(香港)将于2月28日推出“华夏港元数字货币基金”】金色财经报道，华夏基金(香港)将举行“华夏港元数字货币基金”发布新闻简报会。该基金将于2025年2月28日（星期五）强势推出。此次简报会，华夏基金(香港)将携手合作伙伴—渣打银行、OSL和华赢的代表共同探讨该基金的创新亮点、其重要意义，以及香港金融创新的发展前景和代币化基金的市场观点。
-- [VOD手机预装InfiblueChat与Abcoin交易所，开启Web3智能社交新时代](https://x.com/InfiblueNFT/status/1894239563696279791) - 📰 null - 【VOD手机预装InfiblueChat与Abcoin交易所，开启Web3智能社交新时代】2月25日消息，VOD手机已与Infiblue达成战略合作，将在VOD手机上预装InfiblueChat社交App及Abcoin交易所应用，为用户提供全面的Web3社交、数字资产交易和游戏体验。 
-通过此次合作，用户不仅可以无缝接入Web3世界，还能直接体验到InfiblueChat内置的创新社交和游戏功能及Abcoin的数字资产交易功能。此外，用户还能通过游戏互动获得代币奖励，享受与全球玩家的实时对战与合作。 
-InfiblueChat和Abcoin的预装为用户带来了极致的便捷体验，社交、游戏、交易一应俱全。同时，平台强大的隐私保护机制确保用户数据的安全，使得每一位用户都可以安心享受Web3体验。 
-VOD手机致力于为用户提供智能、便捷的手机体验，而InfiblueChat和Abcoin的预装则标志着双方在Web3领域的强强联手，共同推动Web3技术的普及和应用。
-- [加密货币总市值跌破3万亿美元，24小时跌幅达10.5%]() - 📰 null - 【加密货币总市值跌破3万亿美元，24小时跌幅达10.5%】金色财经报道，据CoinGecko数据，加密货币总市值跌破3万亿美元，现报2.95万亿美元，24小时跌幅达10.5%。
-- [BTC跌破87000美元]() - 📰 null - 【BTC跌破87000美元】金色财经报道，行情显示，BTC跌破87000美元，现报86978.46美元，24小时跌幅达到9.06%，行情波动较大，请做好风险控制。
+- [UNI短时涨近10%，现报8.18美元]() - 📰 null - 【UNI短时涨近10%，现报8.18美元】金色财经报道，或受“美SEC放弃对Uniswap Labs的调查”消息影响，UNI短时涨近10%，现报8.18美元。行情波动较大，请做好风险控制。
+- [美SEC放弃对Uniswap Labs的调查]() - 📰 null - 【美SEC放弃对Uniswap Labs的调查】金色财经报道，美 SEC 放弃对 DeFi 公司 Uniswap Labs 的调查。
+- [美国10年期国债收益率触及2025年低点，交易员提高降息押注](https://www.cls.cn/detail/1953929) - 📰 null - 【美国10年期国债收益率触及2025年低点，交易员提高降息押注】金色财经报道，美国国债上涨，10年期国债收益率下跌10个基点，因交易员增加对美联储降息的押注，唐纳德·特朗普关税计划打压风险偏好。10年期美债收益率跌破4.30%，为两个多月来最低水平。货币市场暗示美联储将进一步放松货币政策，四周来首次充分消化了今年美联储两次25个基点降息的预期。10年期美债收益率过去一周创下今年以来新低，因投资者对美国经济正在走弱、降息将重启的信心增强。
+- [Pump.fun再次向Kraken存入87,787枚SOL，约合1258万美元](https://x.com/OnchainLens/status/1894439778294317191) - 📰 null - 【Pump.fun再次向Kraken存入87,787枚SOL，约合1258万美元】金色财经报道，Pump.fun 于 28 分钟前再次向 Kraken 存入 87,787 枚 SOL，价值 1258 万美元。 
+2025 年，Pump.fun 累计转出 1,322,830 枚 SOL，价值 2.601 亿美元。 
+总体而言，Pump.fun 已获利 2,990,563  枚 SOL，目前价值 4.3108 亿美元。
+- [IntoTheBlock：上周日比特币矿工占链上总交易量份额降至2.4%，创2023年5月以来新低](https://x.com/intotheblock/status/1894402251864555931) - 📰 null - 【IntoTheBlock：上周日比特币矿工占链上总交易量份额降至2.4%，创2023年5月以来新低】金色财经报道，据 IntoTheBlock 在 X 平台发文表示，上周日比特币矿工占链上总交易量的份额降至 2.4%，是自 2023 年 5 月以来的最低水平。
+- [美联储巴尔：现在是审视金融稳定风险的时候了](https://www.cls.cn/detail/1953952) - 📰 null - 【美联储巴尔：现在是审视金融稳定风险的时候了】金色财经报道，美联储巴尔表示，现在是审视金融稳定风险的时候了，货币政策与稳定密不可分。
+- [Galaxy研究主管：比特币或将重新测试75000美元至85000美元区间，支撑位在81600美元](https://x.com/intangiblecoins/status/1894418257160880413) - 📰 null - 【Galaxy研究主管：比特币或将重新测试75000美元至85000美元区间，支撑位在81600美元】金色财经报道，Galaxy 研究主管 Alex Thorn 发文表示，“根据从比特币按价格上次转移的供应（URPD）分析，75,000 美元到 85,000 美元区间几乎没有交易，因为在 11 月时价格迅速突破该区间，市场可能会想要测试这一区间。200 日移动平均线（MA）为 81,600 美元，如果价格回测该区间，可能会提供支撑。”
+- [美国“政府效率部”21名工作人员辞职，称不愿帮助削减政府规模](https://flash.jin10.com/detail/20250226004134516800) - 📰 null - 【美国“政府效率部”21名工作人员辞职，称不愿帮助削减政府规模】金色财经报道，当地时间2月25日，21名工作人员从埃隆·马斯克率领的“政府效率部”辞职，称拒绝利用自己的技术专长“拆解关键公共服务”。据悉，这些工作人员在一封联合辞职信中表示，马斯克招募的帮助他削减联邦政府规模的许多人都是“政治空想家”，且没有完成工作任务所需的技能或经验。
+- [Bitcoin Depot增持11.1枚比特币使其储备量达到82.6枚](https://www.manilatimes.net/2025/02/26/tmt-newswire/globenewswire/bitcoin-depot-adds-another-11-btc-to-its-treasury/2062389) - 📰 null - 【Bitcoin Depot增持11.1枚比特币使其储备量达到82.6枚】金色财经报道，美国比特币 ATM 运营商和金融科技公司Bitcoin Depot (NASDAQ: BTM)宣布购买11.1 枚比特币作为其储备。此次收购是继本月早些时候该公司购买51 比特币之后进行的，使其总储备量达到82.6 BTC。此次购买符合 Bitcoin Depot 于 2024 年 6 月首次宣布的储备战略。
+- [Vitalik Buterin：将继续研究新的以太坊基金会领导层结构，即将公布更多信息](https://x.com/VitalikButerin/status/1894421753465643265) - 📰 null - 【Vitalik Buterin：将继续研究新的以太坊基金会领导层结构，即将公布更多信息】金色财经报道，Vitalik Buterin 在 X 平台发文称，Aya Miyaguchi 在一年前就提出从执行董事转任以太坊基金会主席的想法，在担任以太坊基金会执行董事的七年间，她取得了许多成就，也将在新的职位上继续以许多相同的方式支持以太坊基金会。 
+同时，Vitalik Buterin 表示正在继续研究新的以太坊基金会领导层结构，很快将会公布更多消息。
+- [纳指跌幅扩大至2%，特斯拉跌超9%]() - 📰 null - 【纳指跌幅扩大至2%，特斯拉跌超9%】金色财经报道，美股快速下挫，标普500指数跌超1%，纳指跌幅扩大至2%。特斯拉跌超9%，股价创去年11月8日以来新低。
+- [模块化区块链网络Hemi拟于3月12日上线主网](https://hemi.xyz/blog/hemi-to-launch-mainnet-on-march-12/) - 📰 null - 【模块化区块链网络Hemi拟于3月12日上线主网】金色财经报道，模块化区块链网络 Hemi 宣布拟于 2025 年 3 月 12 日上线主网，Hemi 曾于 2024 年 9 月完成 1500 万美元种子轮融资， Binance Labs、Breyer Capital 和 Big Brain Holdings 等机构参投。
+- [伯恩斯坦重申继续看涨比特币，并维持其20万美元的目标价格](https://www.theblock.co/post/343275/bernstein-reiterates-200000-bitcoin-target-sees-buying-opportunity-amid-market-correction) - 📰 null - 【伯恩斯坦重申继续看涨比特币，并维持其20万美元的目标价格】金色财经报道，伯恩斯坦重申继续维持其 20 万美元的比特币价格目标，认为当前价格调整中存在潜在的买入机会，其研究报告将当前的价格回调描述为“参与这一周期的另一个机会”，并重申了他们对比特币市场结构的看涨立场。伯恩斯坦还指出，比特币尚未达到周期高点，预计未来 12 个月内可能会接近 20 万美元大关。他们对比特币的长期预测基于一个简单的论点：“受机构和主权需求加速推动，比特币将成为蓬勃发展的‘数字黄金’资产类别。”
+- [现货黄金失守2900美元/盎司]() - 📰 null - 【现货黄金失守2900美元/盎司】金色财经报道，现货黄金失守2900美元/盎司，为2月18日以来首次，日内跌近2%；现货白银大跌3%，报31.36美元/盎司。
+- [Strive Asset CEO致信GameStop董事长敦促其采用比特币作为储备资产](https://www.coindesk.com/markets/2025/02/25/do-not-publish-strive-ceo-matt-cole-urges-gamestop-s-ceo-to-convert-cash-reserves-into-bitcoin) - 📰 null - 【Strive Asset CEO致信GameStop董事长敦促其采用比特币作为储备资产】金色财经报道，Strive Asset Management 首席执行官致信 GameStop 董事长兼首席执行官 Ryan Cohen，敦促其采用比特币作为储备资产，信中他表示：“我们相信 GameStop 有一个难以置信的机会，可以通过成为游戏领域里的比特币金库公司来改变其财务未来。” 
+投资公司 Strive Asset Management 由 Vivek Ramaswamy 共同创立，他曾被提名与 Elon Musk 共同领导政府效率部门（DOGE），但于今年 1 月确认离开。
+- [Aya Miyaguchi担任以太坊基金会新主席](https://blog.ethereum.org/en/2025/02/25/aya-announcement) - 📰 null - 【Aya Miyaguchi担任以太坊基金会新主席】金色财经报道，Aya Miyaguchi 担任以太坊基金会新主席，他表示继续培育以太坊的独特文化，并作为弥合以太坊与更广泛的全球社区之间差距的声音。
+- [“七巨头”指数进入调整区间，特斯拉拖累指数市值蒸发1.4万亿美元](https://flash.jin10.com/detail/20250225232439382800) - 📰 null - 【“七巨头”指数进入调整区间，特斯拉拖累指数市值蒸发1.4万亿美元】金色财经报道，在过去两年里，标普500指数的大部分涨幅都是由七家最大公司（苹果、英伟达、微软、Alphabet、亚马逊、Meta和特斯拉）推动的，而这七家公司在2025年的开局并不顺利，陷入了调整区间，抹去了约1.4万亿美元的市值。彭博“七巨头”指数已从去年12月高点下跌了约 10%。特斯拉以年内逾25%跌幅领跌，其次是微软和Alphabet。在特朗普赢得选举胜利后，特斯拉的股价一度大涨，但此后又遭大幅抛售。特斯拉的股价因一连串糟糕的销售报告和竞争加剧而陷入困境。然而，随着投资者对Meta人工智能战略的认可，该公司股价今年却逆势上涨。Meta在2月创下了有史以来最长的连涨记录，连续20个交易日上涨，市值增加了3200多亿美元。
+- [若比特币跌破8.6万美元，主流CEX累计多单清算强度将达2.69亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币跌破8.6万美元，主流CEX累计多单清算强度将达2.69亿】金色财经报道，据 Coinglass 数据，若比特币跌破 8.6 万美元，主流 CEX 累计多单清算强度将达 2.69 亿。反之，若比特币突破 8.9 万美元，主流 CEX 累计空单清算强度将达 5.23 亿。
+- [2月25日美国比特币ETF净流出5474枚BTC，以太坊ETF净流出4109枚ETH](https://x.com/lookonchain/status/1894398216646660428) - 📰 null - 【2月25日美国比特币ETF净流出5474枚BTC，以太坊ETF净流出4109枚ETH】金色财经报道，据Lookonchain监测，2月25日10只美国比特币ETF净流出5474枚BTC（4.8598亿美元），其中富达流出2620枚BTC（2.3258亿美元），目前富达持有204180枚BTC（181.3亿美元）； 
+9只以太坊ETF净流出4109枚ETH（991万美元），其中Bitwise流出3658枚ETH（883万美元），目前Bitwise持有98642枚ETH（2.38亿美元）。
+- [Multicoin从Geodnet基金会完成800万美元GEOD代币收购](https://www.coindesk.com/business/2025/02/25/multicoin-leads-usd8m-investment-in-gps-alternative-geodnet?utm_source=twitter&utm_content=editorial&utm_term=organic&utm_campaign=coindesk_main&utm_medium=social) - 📰 null - 【Multicoin从Geodnet基金会完成800万美元GEOD代币收购】金色财经报道，Multicoin牵头从Geodnet基金会完成了对其GEOD代币800万美元的战略收购，GEOD是Geodnet网络的原生代币。Geodnet是一个利用DePIN经济学的精确定位网络，为无人机、自动驾驶汽车和可能在未来几年内大量增加的数千万机器人提供关键任务定位服务。
