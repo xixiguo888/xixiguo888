@@ -1,25 +1,46 @@
-- [Jupiter创始人：仍有两项已完成的收购尚未公布]() - 📰 null - 【Jupiter创始人：仍有两项已完成的收购尚未公布】金色财经报道，Jupiter 创始人 meow 今日发文透露，Jupiter 在过去一年中进行了一系列招聘和收购活动，其中包括两项尚未公布的收购。
-- [PayPal计划将PYUSD集成至Hyperwallet进行全球支付](https://t.me/news_crypto/15597) - 📰 null - 【PayPal计划将PYUSD集成至Hyperwallet进行全球支付】金色财经报道，PayPal将在旗下支付平台Hyperwallet集成PYUSD作为全球支付选项，预计今年上半年开始实施。Hyperwallet由PayPal收购，主要用于跨境支付和企业结算。
-- [2月迄今美国现货比特币ETF已累计流出24.15亿美元，或创月度净流出纪录](https://sosovalue.com/zh/assets/etf/us-btc-spot?__cf_chl_tk=VDZBsU6GnouxGQ1w.qczzMJhWHRZIqZVMPmPbCqG0gA-1740538520-1.0.1.1-s_vqbRcZChBZRh_NctZhny5QSvD1QHnsvJ3eAmpHzRs) - 📰 null - 【2月迄今美国现货比特币ETF已累计流出24.15亿美元，或创月度净流出纪录】金色财经报道，据SoSoValue数据，2月迄今美国现货比特币ETF累计流出24.15亿美元，按此趋势预计，本月比特币ETF净流出量或创推出以来月度流出量纪录。
-- [Meteora：将改进现有积分系统，对洗单交易者实施黑名单制度](https://x.com/MeteoraAG/status/1894419794210033925) - 📰 null - 【Meteora：将改进现有积分系统，对洗单交易者实施黑名单制度】2月26日消息，Solana生态流动性协议Meteora发文表示，将继续改进现有积分系统，并对不良行为者及洗单交易者进行全面审查。公告指出，Meteora将采取三项具体措施：对试图滥用系统的不良行为者和洗单交易者实施黑名单制度；启动与流动性提供者（LP）的讨论，收集反馈；与第三方分析公司合作，优化积分系统的链上数据分析与验证。 
-Meteora强调，LP是协议的核心，将增加额外沟通渠道，支持更多社区主导的倡议，确保社区在协议未来发展中拥有发言权。此外，Meteora还将改进核心流动性技术，包括升级DLMM和Dynamic AMM，引入Dynamic Positions功能，并计划支持Token2022标准，以吸引更多LP、代币团队和集成商。
-- [Ethena Labs在Aptos生态部署，sENA获Echelon 5%代币奖励](https://x.com/ethena_labs/status/1894425684061425895) - 📰 null - 【Ethena Labs在Aptos生态部署，sENA获Echelon 5%代币奖励】金色财经报道，据Ethena Labs公告，其已部署至Aptos生态，并与Echelon Market合作，sENA将获得5% Echelon代币供应量，奖励从2月26日起开始累积。同时，USDe和sUSDe也将集成至Aptos，其中sUSDe作为核心储蓄资产，将与Echelon和AptosDEXThalaLabs结合使用。用户可通过Stargate Finance桥接USDe和sUSDe，并在Ethena App绑定Aptos和以太坊地址以获取奖励。
-- [Hyperliquid上SOL多头鲸鱼存入200万枚USDC以增加保证金](https://x.com/lookonchain/status/1894576836220522767) - 📰 null - 【Hyperliquid上SOL多头鲸鱼存入200万枚USDC以增加保证金】金色财经报道，据Lookonchain监测，Hyperliquid上SOL多头鲸鱼存入200万枚USDC以增加保证金，其清算价格目前降至69.42美元。
-- [特朗普加密项目WLFI近5日未增持任何代币](https://intel.arkm.com/explorer/entity/worldlibertyfi) - 📰 null - 【特朗普加密项目WLFI近5日未增持任何代币】金色财经报道，据Arkham数据，特朗普加密项目WLFI近5日未增持任何代币，目前其地址内稳定币包括2560万枚USDC、1137万枚USDT以及501万枚AETHUSDC。
-- [美国现货比特币ETF昨日净流出9.3538亿美元，创自推出以来最高流出纪录](https://x.com/thepfund/status/1894575640294424718) - 📰 null - 【美国现货比特币ETF昨日净流出9.3538亿美元，创自推出以来最高流出纪录】金色财经报道，据Trader T监测，美国现货比特币ETF昨日净流出9.3538亿美元，创自推出以来最高流出纪录。
-- [Rezolve Ai澄清：拟发行10亿美元可转换票据，最初将用1亿美元收购比特币](https://www.globenewswire.com/news-release/2025/02/25/3032055/0/en/Rezolve-Ai-Clarifies-Strategic-Intent-Behind-1-Billion-Bitcoin-Treasury-Initiative.html) - 📰 null - 【Rezolve Ai澄清：拟发行10亿美元可转换票据，最初将用1亿美元收购比特币】金色财经报道，针对此前“Rezolve Ai推出10亿美元比特币财库”消息，Rezolve Ai澄清其战略意图表示，将通过可转换票据发行募资10亿美元，其中最初的1 亿美元将通过新成立的全资子公司用于收购比特币，未来三年内可能还会额外发行价值达9 亿美元的债券。此外，Rezolve Ai的比特币财库计划将与其人工智能加密支付平台直接挂钩，该平台预计会在今年晚些时候推出，将支持BTC、Tether等数字资产。
-- [昨日IBIT净流出1.6199亿美元](https://x.com/thepfund/status/1894573094624518464) - 📰 null - 【昨日IBIT净流出1.6199亿美元】金色财经报道，据Trader T监测，昨日IBIT净流出1.6199亿美元。
-- [安全公司：黑客在创建数百个虚假的GitHub项目以窃取加密货币](https://cointelegraph.com/news/hackers-fake-github-projects-steal-crypto-kaspersky) - 📰 null - 【安全公司：黑客在创建数百个虚假的GitHub项目以窃取加密货币】金色财经报道，网络安全公司Kaspersky表示，黑客们正在创建数百个虚假的GitHub项目，目的是诱骗用户下载加密和窃取凭证的恶意软件。 
-Kaspersky分析师乔治-库切林（Georgy Kucherin）在2月24日的一份报告中说，黑客在GitHub上创建了数百个软件源，托管包含远程访问木马（RAT）、信息窃取程序和剪贴板劫持程序的虚假项目。其中一些伪造项目包括一个管理比特币钱包的Telegram机器人和一个自动进行Instagram账户交互的工具。 
-库切林补充说，恶意软件制作者“不遗余力”地使这些项目看起来合法，包括“精心设计”的信息和指令文件，这些文件“可能是用人工智能工具生成的”。恶意项目的幕后黑手还人为夸大了“提交”（即对项目的修改）的数量，同时添加了多个对具体修改的引用，让人以为该项目正在积极改进。
-- [Binance将支持BinaryX(BNX)代币置换及品牌升级为Four(FORM)](https://www.binance.com/en/support/announcement/detail/2f963977c7274e0583f16f2e26987b61) - 📰 null - 【Binance将支持BinaryX(BNX)代币置换及品牌升级为Four(FORM)】金色财经报道，据官方公告，Binance将支持BinaryX(BNX)代币更名为Four(FORM)并进行代币互换。Binance将于2025年3月18日03:00(UTC)移除所有现有的BNX现货交易对，包括BNX/USDC、BNX/USDT和BNX/TRY，并取消所有未完成的BNX现货交易订单。 
-此次代币互换比例为1BNX=1FORM。Binance将于2025年3月18日03:30(UTC)暂停BNX代币的充值和提款，用户需确保在此之前完成BNX代币的充值处理。FORM代币的充值将于2025年3月21日12:00(UTC)开放，同日13:00(UTC)，Binance将开放FORM/USDC、FORM/USDT和FORM/TRY交易对。代币互换完成后，Binance将不再支持BNX代币的充值和提款。
-- [Berachain基金会启动治理第一阶段，流动性激励提案开放提交](https://x.com/berachain/status/1894441515159884093) - 📰 null - 【Berachain基金会启动治理第一阶段，流动性激励提案开放提交】金色财经报道，据Berachain基金会公告，治理第一阶段（Governance Phase 1）现已正式上线，项目方可提交 BEX 或非BEX/通用智能合约池的流动性激励提案（RFRV）。
-- [Bybit黑客已洗走总计13.5万枚ETH，占被盗资金总量近三分之一](https://x.com/EmberCN/status/1894561919010574773) - 📰 null - 【Bybit黑客已洗走总计13.5万枚ETH，占被盗资金总量近三分之一】金色财经报道，据余烬监测，Bybit黑客在过去24小时内已洗走4.59万枚ETH（约1.13亿美元），目前黑客已洗走总计13.5万枚ETH（约3.35亿美元），占被盗资金总量的近三分之一。 
-黑客地址中仍持有36.39万枚ETH（约9亿美元），按照当前速率将在接下来的8至10天内洗完。
-- [Lens Protocol已迁移至Lens Chain](https://x.com/LC/status/1894429913866027300) - 📰 null - 【Lens Protocol已迁移至Lens Chain】金色财经报道，Lens Protocol宣布已迁移至Lens Chain，通过与ZKSync合作，Lens团队开发了迁移解决方案以保持最大的数据完整性。迁移成功传输了65万个用户帐户及其数字身份、2800万个关注者连接、社交图谱和360个应用程序。
-- [特朗普开售移民“金卡”（gold card），售价500万美元]() - 📰 null - 【特朗普开售移民“金卡”（gold card），售价500万美元】金色财经报道，美国总统特朗普表示，他正在启动一项计划，为支付500万美元的投资者提供居留权和入籍途径，这为合法移民提供了一条新途径，同时他正在对无证移民进行全面打击。特朗普说，这项被称为“金卡”（gold card）的计划将在两周内启动，并补充说，他认为他的政府不需要获得国会的批准。目前尚不清楚该计划的全部范围以及如何实施。他补充说：“我们将为这张卡标价约 500 万美元，它将给你绿卡特权。”他指的是目前发给美国永久居民的绿卡。（金十）
-- [昨日FBTC净流出3.447亿美元，创单日最大净流出纪录](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流出3.447亿美元，创单日最大净流出纪录】金色财经报道，据 farside 监测，昨日 FBTC 净流出 3.447 亿美元，创单日最大净流出纪录。
-- [稳定币USDG宣布现已在Solana区块链上可用](https://x.com/global_dollar/status/1894388120466170082) - 📰 null - 【稳定币USDG宣布现已在Solana区块链上可用】金色财经报道，稳定币USDG宣布现已在Solana区块链上可用，以扩大可访问性和实用性，同时USDG还披露了alfred、Caliza、Noah、Rain和Sling Money等新合作伙伴。
-- [年内所有加密板块表现均不及比特币，AI框架跌幅最大达84%](https://x.com/Delphi_Digital/status/1894173941863723067) - 📰 null - 【年内所有加密板块表现均不及比特币，AI框架跌幅最大达84%】2月26日消息，据Delphi Digital披露数据，今年所有加密货币板块表现均不及比特币，各细分赛道平均最大跌幅排名为：AI框架下跌84.05%、Agent类项目下跌70.27%、Meme币下跌51.74%、游戏基础设施下跌51.54%、模块化解决方案下跌47.48%。
-- [DeepSeek宣布开源DeepGEMM]() - 📰 null - 【DeepSeek宣布开源DeepGEMM】金色财经报道，Deepseek于开源周第三天宣布开源DeepGEMM。DeepGEMM是一个专为简洁高效的 FP8 通用矩阵乘法（GEMM）设计的库，具有细粒度缩放功能，如DeepSeek-V3中所提出。它支持普通和混合专家（MoE）分组的GEMM。该库采用CUDA编写，在安装过程中无需编译，通过使用轻量级的即时编译（JIT）模块在运行时编译所有内核。FP8GEMM库，为V3/R1训练和推理提供支持。(金十)
+- [观点：全球M2货币供应量不断增长或引发比特币大幅上涨](https://cointelegraph.com/news/m2-money-supply-parabolic-bitcoin-price-rally) - 📰 null - 【观点：全球M2货币供应量不断增长或引发比特币大幅上涨】2月26日消息，全球M2货币供应量的不断增长可能引发比特币大幅上涨，但分析师警告称，不要将一切都押注于这一新出现的信号。 
+加密货币交易平台Swyftx的首席分析师Pav Hundal表示，“这不是一个将全部资金押注于快速调整的市场，但我们的核心预测仍然是3月及以后市场将保持强劲。” 
+此外，Bravo Research表示，美国货币供应量在短短10年内翻了一番，“这种流动性激增可能助长比特币的抛物线式上涨”。
+- [由Jack Dorsey领导的支付公司Block Inc.寻求与纽约就洗钱指控达成和解](https://cointelegraph.com/news/jack-dorsey-block-mulls-settlement-with-new-york-over-money-laundering-claims) - 📰 null - 【由Jack Dorsey领导的支付公司Block Inc.寻求与纽约就洗钱指控达成和解】金色财经报道，由Jack Dorsey领导的支付公司Block Inc.正在与纽约州监管机构进行谈判，以解决其反洗钱（AML）和比特币项目相关的指控。根据2月24日向美国证券交易委员会（SEC）提交的文件，Block正在与纽约州金融服务部（NYDFS）进行“持续谈判”，内容涉及“银行保密法/反洗钱和比特币项目”等多个方面。 
+公司表示，正在与NYDFS进行对话，以确定是否可以在可接受的条款上达成和解。此外，文件还提到，Block目前正面临多项法律、监管和税务相关事务，包括和解、持续谈判和调查。
+- [伊利诺伊州参议员提出在全国范围内监管加密货币自动取款机的法案](https://decrypt.co/307787/illinois-senator-proposes-bill-to-regulate-crypto-atms-nationwide) - 📰 null - 【伊利诺伊州参议员提出在全国范围内监管加密货币自动取款机的法案】金色财经报道，加密货币自动取款机曾一度被吹捧为方便爱好者的工具，但现在却被骗子利用，使受害者（其中许多是老年人）蒙受巨大经济损失，对此，伊利诺伊州参议员迪克-德宾（Dick Durbin）提出了《加密自动取款机欺诈预防法案》（Crypto ATM Fraud Prevention Act），试图通过实施新的法规来遏制与这些机器相关的欺诈浪潮。 
+周二宣布的这项立法将对加密货币ATM设置严格的交易限制，并要求公司向在交易后30天内报告欺诈行为的受害者提供全额退款。“这些措施是常识性的警戒线，将防止无数美国人，尤其是老年人，因为犯罪诈骗而损失数千美元的血汗钱，"都柏林在参议院敦促他的同事们通过该法案，使之成为法律。
+- [Binance CEO：当前市场调整是战术性回撤而非趋势逆转](https://x.com/_RichardTeng/status/1894392184172073101) - 📰 null - 【Binance CEO：当前市场调整是战术性回撤而非趋势逆转】金色财经报道，Binance CEO Richard Teng发文表示，近期市场波动应被视为“战术性回撤”，而非加密市场的结构性衰退。他强调，加密市场历史上多次经历宏观经济冲击并强势反弹，例如2022年比特币因美联储加息短暂跌破2万美元，但随着市场稳定迅速回升。 
+Teng指出，机构投资者兴趣仍在上升，ETF资金持续流入，Binance也在稳步增长。他认为，美联储暂缓降息是近期市场调整的关键因素，尽管3月降息可能性降低，但未来政策仍将取决于通胀和就业数据。 
+他表示，市场回调往往是资深投资者布局下一个上涨周期的机会，加密市场已成为全球金融体系的一部分，并已证明其应对宏观经济波动的韧性。
+- [美国CFTC委员Goldsmith Romero将在新主席上任后辞职](https://cointelegraph.com/news/cftc-christy-goldsmith-romero-to-exit-trump-chair-pick-confirmed-reuters) - 📰 null - 【美国CFTC委员Goldsmith Romero将在新主席上任后辞职】金色财经报道，据Cointelegraph报道，美国CFTC（商品期货交易委员会）委员Goldsmith Romero表示，她将在特朗普总统挑选的新人上任后辞去该委员会的职务。 
+报道指出，Romero辞职后，克里斯汀·约翰逊将成为CFTC五人委员会中唯一的民主党人。Goldsmith Romero曾在CFTC帮助重建了技术咨询委员会，该委员会旨在指导该机构如何最好地应对加密货币行业。 
+此前消息，特朗普选择a16z加密政策负责人BrianQuintenz担任CFTC主席。
+- [币安新增Sonic(S)和Test(TST)为可借贷资产](https://www.binance.com/en/support/announcement/detail/de3bc0b6ab0a4ccfae18ded3f407de4c) - 📰 null - 【币安新增Sonic(S)和Test(TST)为可借贷资产】金色财经报道，据官方公告，币安已于2025年2月26日将Sonic(S)和Test(TST)添加为平台上的可借贷资产。其中，Sonic(S)被添加至币安贷款（灵活利率）产品，而Test(TST)则被添加至VIP贷款服务。
+- [新加坡美罗百货商店宣布接受USDT、USDC等稳定币支付](https://www.zaobao.com.sg/realtime/singapore/story20250225-5930279) - 📰 null - 【新加坡美罗百货商店宣布接受USDT、USDC等稳定币支付】金色财经报道，据《联合早报》报道，新加坡美罗百货商店（Metro Departmental Store）宣布接受稳定币支付，成为当地首家支持此支付方式的百货商店。顾客可在实体店及线上购物时使用泰达币（USDT）、美元稳定币（USDC）和全球美元稳定币（WUSD）支付，未来还将支持第一数码美元稳定币（FDUSD）。 
+美罗与加密支付公司 dtcpay 合作，推动零售业创新，以迎合科技型消费者。根据 Chainalysis 数据，2024 年第二季度新加坡稳定币支付总额达近 10 亿美元，反映市场对稳定数字支付方式的需求增长。
+- [由阿根廷总统支持的Libra项目正在接受美国司法部的调查](https://x.com/BTCTN/status/1894621787020726583) - 📰 null - 【由阿根廷总统支持的Libra项目正在接受美国司法部的调查】金色财经报道，由阿根廷总统哈维尔·迈莱（Javier Milei）支持的Libra加密货币项目，目前正在接受美国司法部（DOJ）的调查。 
+据报道，DOJ的欺诈部门正在调查迈莱以及海登·亚当斯（Hayden Adams）和朱利安·佩赫（Julian Peh）等关键人物可能涉及的经济犯罪。此次调查可能会扩大到涉及多个美国机构，包括联邦调查局（FBI）和证券交易委员会（SEC）。Libra最初被宣传为阿根廷公司的融资解决方案，吸引了大量投资者，但随后其价值暴跌，导致许多投资者遭受重大损失。 
+尽管迈莱已经下令进行内部调查，但他否认有任何不当行为，声称他只是分享了这个项目，并表示投资者应该意识到其中的风险。“如果你去赌场输钱，那是你自己的问题。”他说
+- [香港金管局将发行第三批代币化债券，并与证监会设立专组制订路线图](https://hk.on.cc/hk/bkn/cnt/finance/20250226/bkn-20250226115929861-0226_00842_001.html) - 📰 null - 【香港金管局将发行第三批代币化债券，并与证监会设立专组制订路线图】金色财经报道，香港金管局宣布将发行第三批代币化债券并继续通过“数码债券资助计划”鼓励发行数码证券，同时积极探讨将已发行的传统债券代币化。此外，香港政府透露香港证监会和金管局已成立专组制订路线图发展一级及二级债券和货币市场，探讨优化措施推动香港债券市场采用代币化技术。
+- [英伟达财报今晚公布，华尔街关注Blackwell芯片需求与DeepSeek影响](https://xnews.jin10.com/details/164873) - 📰 null - 【英伟达财报今晚公布，华尔街关注Blackwell芯片需求与DeepSeek影响】金色财经报道，英伟达将于美股周三收盘后公布第四季度财报，作为全球第二大公司，英伟达需向投资者证明其下一代Blackwell芯片需求依然强劲，且不会受到DeepSeek AI模型的冲击。分析师平均预期英伟达本季度营收将增长73%，达到382亿美元，而去年同期营收约为200亿美元。以下是华尔街对英伟达即将发布的财报的解读： 
+瑞穗证券分析师预计英伟达将发布“符合预期”的财报，但可能会出现“成长的烦恼”，4月季度数据中心营收可能趋于平稳。 
+韦德布什证券则认为英伟达将再次表现强劲并“明确超预期并上调预期”，其调查显示单个AI企业部署并未因DeepSeek而放缓。 
+美国银行预计英伟达2025年数据中心营收将同比增长60%，并指出3月份的GTC大会是下一个重要催化剂。 
+彭博情报表示，英伟达很可能达到第四季度营收预期，并在Blackwell GPU大幅增长背景下上调第一季度预期。
+- [香港将发表第二份虚拟资产政策宣言](https://inews.hket.com/article/3906561/%E8%B2%A1%E6%94%BF%E9%A0%90%E7%AE%97%E6%A1%882025%EF%BD%9C%E6%B8%AF%E5%BA%9C%E5%B0%87%E7%99%BC%E8%A1%A8%E7%AC%AC%E4%BA%8C%E4%BB%BD%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E6%94%BF%E7%AD%96%E5%AE%A3%E8%A8%80%E3%80%80%E5%B) - 📰 null - 【香港将发表第二份虚拟资产政策宣言】金色财经报道，香港财政司司长陈茂波在2025至26年《财政预算案》中宣布，即将发表第二份发展虚拟资产政策宣言，探讨如何结合传统金融服务优势与虚拟资产领域的技术创新，并提高实体经济活动的安全性和灵活性，亦会鼓励本地和国际企业探索虚拟资产技术的创新及应用。陈茂波重申，政府会在年内就虚拟资产场外交易及托管服务的发牌制度进行咨询。在稳定币监管方面，港府已向立法会提交条例草案，待条例通过后，金管局会尽早审批牌照申请。
+- [Binance将于2月28日下架BNB/UAH、ETH/UAH交易对]() - 📰 null - 【Binance将于2月28日下架BNB/UAH、ETH/UAH交易对】金色财经报道，据官方公告，Binance将于2025年2月28日03:00（UTC）下架并停止BNB/UAH和ETH/UAH两个现货交易对。Binance表示，此次下架决定基于对所有上市现货交易对的定期审查，主要考虑因素包括流动性不足和交易量低迷等。
+- [昨日美国现货以太坊ETF净流出5010万美元](https://x.com/FarsideUK/status/1894609663104057796) - 📰 null - 【昨日美国现货以太坊ETF净流出5010万美元】金色财经报道，据Farside Investors数据，昨日美国现货以太坊ETF净流出5010万美元。
+- [前Coinbase CTO：关税或不利于美国经济，但利好加密货币](https://x.com/balajis/status/1894484180102414626) - 📰 null - 【前Coinbase CTO：关税或不利于美国经济，但利好加密货币】金色财经报道，前Coinbase CTOBalaji发推表示，关税对美国经济可能是不利的，但对加密货币则是利好的。他解释称： 
+生产无法在短时间内提升，但价格却能快速上涨。比起重新建立生产，美国更依赖货币发行的收益，而非制造业利润。 
+全球资本将转向链上，即便线下民族主义和社会主义正在抬头。未来唯一真正可执行的跨境合同将是智能合约。虽然国家的经济承诺可能不可靠，但密码学的数学保证是可信的。
+- [Bitwise研究主管：53%财富管理人计划配置加密资产](https://x.com/Cointelegraph/status/1894605812187759080) - 📰 null - 【Bitwise研究主管：53%财富管理人计划配置加密资产】金色财经报道，据Cointelegraph报道，Bitwise研究主管Ryan Rasmussen在向350位财富管理人介绍比特币投资案例时表示，53%的财富管理人计划在客户账户中配置加密资产。
+- [分析师：Strategy股价周二早盘下跌超11%，但强制清算可能性较低](https://decrypt.co/307777/strategys-bitcoin-bet-under-pressure-could-a-forced-liquidation-happen) - 📰 null - 【分析师：Strategy股价周二早盘下跌超11%，但强制清算可能性较低】金色财经报道，据Decrpt报道，根据The Kobeissi Letter分析，尽管Strategy股价周二早盘下跌超11%，市场对其可能面临的比特币强制清算产生担忧，但由于结构性保障，该情境发生的可能性较低。 
+Strategy主要通过可转换债券筹集资金，例如2030年到期的20亿美元零息债券，初始转股价为433.43美元/股，使其能够在不立即稀释股东权益的情况下获取资本。截至目前，Strategy持有约499,096枚BTC，价值约444亿美元，同时其82亿美元债务高度依赖比特币表现。
+- [1confirmation对Meebits背后公司MeebCo投资300万美元并透露该NFT项目未来考虑发币](https://x.com/NTmoney/status/1894037626874994877) - 📰 null - 【1confirmation对Meebits背后公司MeebCo投资300万美元并透露该NFT项目未来考虑发币】金色财经报道，NFT项目Meebits背后公司MeebCo宣布完成300万美元新一轮融资，1confirmation参投，具体估值信息暂未披露。根据相关公告披露的信息称，现阶段NFT项目Meebits暂时还没有发行代币，未来会有潜在发币可能。1confirmation补充称虽然目前该项目还没有明确的产品方向，但将支持NFT回归并构建长期社区。
+- [金色午报 | 2月26日午间重要动态一览]() - 📰 null - 【金色午报 | 2月26日午间重要动态一览】7:00-12:00关键词：WLFI 、香港、Uniswap、PayPal 
+1.特朗普加密项目WLFI近5日未增持任何代币； 
+2.Uniswap联创回应SEC放弃对Uniswap调查； 
+3.经济学家：美国政府大规模裁员的经济影响可能有限； 
+4.香港立法会昨日召开《稳定币条例草案》委员会会议； 
+5.PayPal计划将PYUSD集成至Hyperwallet进行全球支付； 
+6.美国证交会将美国国债现金和回购交易清算规则的期限延长一年； 
+7.Base协议负责人：计划今年在Base上为每种全球货币推出稳定币。
+- [Scam Sniffer：某用户因交易记录污染误导损失76.36万美元](https://x.com/realScamSniffer/status/1894590726669045851) - 📰 null - 【Scam Sniffer：某用户因交易记录污染误导损失76.36万美元】金色财经报道，据Scam Sniffer监测，一名用户因交易记录污染攻击损失76.36万美元。攻击者利用伪造地址，其前4位与后6位字符与真实地址匹配，导致受害者误复制错误地址并转账资金。
+- [某鲸鱼6小时前向Hyperliquid存入500万枚USDC，买入HYPE](https://x.com/lookonchain/status/1894595722298962035) - 📰 null - 【某鲸鱼6小时前向Hyperliquid存入500万枚USDC，买入HYPE】金色财经报道，据Lookonchain监测，某鲸鱼6小时前向Hyperliquid存入500万枚USDC，市价买入73,959枚HYPE，并下达限价订单，以19.04美元和19.05美元的价格买入183,768枚HYPE（350万美元）。 
+目前，这名鲸鱼持有999,255枚HYPE（2084万美元）。
