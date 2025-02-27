@@ -1,35 +1,25 @@
-- [CryptoQuant CEO：比特币链上指标显示目前已处于牛熊分界线]() - 📰 null - 【CryptoQuant CEO：比特币链上指标显示目前已处于牛熊分界线】2月27日消息，CryptoQuant首席执行官KiYoungJu在社交媒体发文表示，比特币链上指标显示目前正处于牛市与熊市的临界点。我预计这将是历史上最长的牛市，但我也可能错了。我们需要至少再等待一个月的数据，以确认是否进入熊市。如果需求没有恢复，指标可能会完全显示出下行趋势。根据典型的周期，牛市应该会持续到2025年4月——我在2024年5月时就提到过这一点。接下来的一个月或两个月将是比特币市场的关键转折点。 
-如果每个指标都确认下行趋势，我会承认我错了并发布相关内容。但正如我之前所说，我认为比特币跌破7.7万美元的概率较低。即使是最坏的情况，我也认为比特币会在7.7万美元左右进行几个月的盘整，然后再回升。我认为现在重仓做杠杆方向性投注——无论是做多还是做空——都不是一个好选择。
-- [金色晚报 | 2月27日晚间重要动态一览]() - 📰 null - 【金色晚报 | 2月27日晚间重要动态一览】12:00-21:00关键词：贝莱德、Mask Network、MyShell、Mint 
-1.Bitwise在特拉华州注册Aptos ETF； 
-2.英国将出台扩大针对加密货币扣押权力的新法案； 
-3.贝莱德将5100枚BTC和30,280枚ETH存入Coinbase Prime； 
-4.Cyvers：Mask Network创始人疑似被盗，损失近400万美元； 
-5.币安理财、一键买币、闪兑、杠杆将上线 MyShell（SHELL）； 
-6.Mint Blockchain 发布 MINT 代币经济模型详情，12％由于空投； 
-7.彭博推出数字资产敞口分析工具Digital Asset Exposure Analytics。
-- [美国民主党代表将提出法案，拟禁止公职人员发行 Meme 币]() - 📰 null - 【美国民主党代表将提出法案，拟禁止公职人员发行 Meme 币】2月27日消息，据 Cointelegraph 援引 ABC News 报道，美国加利福尼亚州民主党代表 Sam Liccardo 正准备提出"现代利益冲突与渎职执法法案"（MEME Act），该法案将禁止公职人员从数字资产中获利。 
-该法案禁止广泛的公职人员及其相关人士发行、赞助和背书任何证券、商品或数字资产，适用对象包括总统、副总统、国会议员、高级行政部门官员及其配偶和受抚养子女。Liccardo 表示，该法案已有十几名民主党议员支持，他们正努力争取两党支持。 
-Liccardo 指出："Trump 家族发行模因币在经济上利用公众谋取个人利益，并引发内幕交易和外国对行政部门施加影响的隐忧。"该法案预计将于 2 月 27 日正式提出。
-- [美国国家经济委员会主任：4月1日将发布关税研究报告]() - 📰 null - 【美国国家经济委员会主任：4月1日将发布关税研究报告】金色财经报道，美国国家经济委员会主任Hassett表示，4月1日将发布关税研究报告，在那之后特朗普将就关税做出决定。
-- [Cyvers：Mask Network创始人疑似被盗，损失近400万美元](https://x.com/CyversAlerts/status/1895089374582218823) - 📰 null - 【Cyvers：Mask Network创始人疑似被盗，损失近400万美元】金色财经报道，Cyvers Alerts 官方表示，监测到与去中心化社交协议 Mask Network 创始人 Suji Yan 相关的可疑交易，一个可疑地址收到了近 400 万美元的数字资产，被盗的资产立即被兑换成 ETH，并转移到六个不同的地址。
-- [币安理财、一键买币、闪兑、杠杆将上线 MyShell（SHELL）]() - 📰 null - 【币安理财、一键买币、闪兑、杠杆将上线 MyShell（SHELL）】金色财经报道，据官方公告，币安理财、一键买币、闪兑、杠杆将上线 MyShell（SHELL）。 
-SHELL保本赚币活期产品将于2025年02月27日21:00（东八区时间）上线币安保本赚币平台并开放申购；币安全仓、逐仓杠杆将于2月27日21:30（东八区时间）新增SHELL可借资产，以及SHELL/USDT、SHELL/USDC全仓、逐仓杠杆交易对。
-- [英国将出台扩大针对加密货币扣押权力的新法案](https://decrypt.co/308019/uk-introduces-new-crime-bill-expanding-powers-for-crypto-seizures) - 📰 null - 【英国将出台扩大针对加密货币扣押权力的新法案】金色财经报道，英国政府提出了一项新法案，扩大了其查封和销毁与犯罪活动有关的加密货币的权力。继《犯罪和警务法案》在下议院一读之后，该法案目前正在进行二读，并将很快进入委员会审议阶段。 
-新立法旨在提高执法部门没收非法加密资产并将其返还给受害者的能力，同时加强该国打击经济犯罪的整体手段。该法案的一项关键条款赋予皇家法院扩大处理涉及加密货币的没收令的权力。
-- [比特币鲸鱼“Spoofy”在市场下跌期间增持价值约3.4亿美元的BTC](http://cointelegraph.com/news/bitcoin-whale-spoofy-trades-bitfinex-344-million) - 📰 null - 【比特币鲸鱼“Spoofy”在市场下跌期间增持价值约3.4亿美元的BTC】金色财经报道，比特币鲸鱼“Spoofy”市场下跌期间在 Bitfinex 上增持价值 3.44 亿美元的比特币，据悉他是在比特币价格跌至 8.2-8.5 万美元区间时买入 4000 枚比特币。Spoofy 曾多次影响比特币市场。2017 年，该交易员被指控从事非法市场操纵。
-- [某鲸鱼使用2个钱包做多BTC、ETH、SOL和TRUMP等代币已损失2760万美元]() - 📰 null - 【某鲸鱼使用2个钱包做多BTC、ETH、SOL和TRUMP等代币已损失2760万美元】金色财经报道，据 Lookonchain 监测，某鲸鱼使用 2 个钱包做多$BTC、$SOL 、$ETH 、$HYPE、$ONDO、$HBAR、$SUI 和$TRUMP 等代币已损失 2760 万美元。6 小时前，该鲸鱼创建了一个新钱包，并存入 500 万枚 USDC 到 Hyperliquid ，再次做多$ETH 、 $LTC 、 $SOL 和$HYPE 。
-- [加密初创公司Orochi Network完成1200万美元融资](https://cointelegraph.com/press-releases/orochi-network-secures-12m-to-build-worlds-first-verifiable-data-infrastructure-poised-to-disrupt-the-oracle-market) - 📰 null - 【加密初创公司Orochi Network完成1200万美元融资】金色财经报道，加密技术初创公司 Orochi Network 完成 1200 万美元融资，Presto Labs、Smape Capital、Anti Capital、Maxx Capital、Bolts Capital、AZA Ventures 和 Connectico 参投，还得到了以太坊基金会、Mina Protocol、Web3 Foundation 和 BNB Chain 的资助。
-- [Bybit黑客洗钱已为THORChain带来300万美元的手续费收入]() - 📰 null - 【Bybit黑客洗钱已为THORChain带来300万美元的手续费收入】金色财经报道，据链上分析师余烬监测，Bybit被盗事件的黑客通过THORChain将ETH 兑换成 BTC 进行洗钱，为 THORChain 带来了 29.1 亿美元的交易量和 300 万美元的手续费收入。
-- [2新建钱包从 Binance 提取1,178.5枚BTC](https://x.com/lookonchain/status/1895079271582048583) - 📰 null - 【2新建钱包从 Binance 提取1,178.5枚BTC】金色财经报道，据Lookonchain监测，今天有 2 个新创建的钱包从 Binance 提取了1,178.5枚BTC（1.02 亿美元）。
-- [Robinhood首席执行官：代币化是“释放加密革命真正力量”的一种手段](https://x.com/TheBlock__/status/1895078306984120707) - 📰 null - 【Robinhood首席执行官：代币化是“释放加密革命真正力量”的一种手段】金色财经报道，Robinhood 首席执行官 Vlad Tenev 发推表示“加密货币是未来”，并概述了该交易公司打算加速其行业产品的四种方式。其认为代币化是一种“释放加密革命的真正力量”的手段，可以让现实世界的资产（如股票和私人投资）进入区块链技术。Tenev 认为，Robinhood 在传统金融和 DeFi 的交汇处具有独特的优势，这使其能够通过提供额外的流动性和区块链技术的其他优势来弥合两者之间的差距。
-- [21Shares分析师：积极的PCE数据、英伟达盈利以及监管明确性等因素或为比特币提供上涨动力]() - 📰 null - 【21Shares分析师：积极的PCE数据、英伟达盈利以及监管明确性等因素或为比特币提供上涨动力】2月27日消息，据 Theblock 报道，比特币经历了动荡的一周，较 110,000 美元的历史高点下跌了 21%。21Shares 加密货币研究策略师 Matt Mena 认为，未来可能会出现一些积极的催化剂。他指出，英伟达周三发布的强劲财报以及周五核心 PCE 数据中可能出现的进一步通胀降温迹象，都是可能推高比特币价格的关键事件。 
-Matt Mena 表示：“积极的监管顺风，加上英伟达强劲的盈利（这表明人工智能驱动的需求持续增加并提振了整体风险情绪），再加上本周五的个人消费支出（PCE）通胀数据呈正增长，可能为比特币创造完美的宏观环境，使其不仅可以收复之前的高点，而且随着机构和零售信心的飙升，比特币价格有可能突破 15 万美元。” 
-Matt Mena 还强调，监管的明确性可能会改变比特币的游戏规则，特别是在吸引机构资本方面。他补充道：“如果美国就稳定币和更广泛的数字资产监管提供明确的指导，我们可能会看到大量机构资金进入该领域。”
-- [贝莱德将5100枚BTC和30,280枚ETH存入Coinbase Prime]() - 📰 null - 【贝莱德将5100枚BTC和30,280枚ETH存入Coinbase Prime】金色财经报道，据 Onchain Lens 监测，在过去 30 分钟内，贝莱德向 Coinbase Prime 存入了 5,100 BTC（价值 4.4188 亿美元 ）和 30,280 ETH（价值 7185 万美元）。
-- [巴基斯坦将设立委员会监督加密政策](https://www.coindesk.com/policy/2025/02/27/pakistan-to-set-up-council-to-oversee-crypto-policy-report?utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main) - 📰 null - 【巴基斯坦将设立委员会监督加密政策】金色财经报道，巴基斯坦表示，在与总统唐纳德·特朗普的数字资产顾问会面后，将成立国家加密委员会来制定该领域的立法。该委员会将是一个专门的咨询机构，由政府代表、监管机构和行业专家组成。报道援引财政部的一份声明补充说，该委员会将监督政策制定并与各国合作制定标准化框架。
-- [目前美国已有 5 个州的比特币储备相关提案被否决或受阻](https://decrypt.co/308009/u-s-state-bitcoin-reserve-plans-hit-roadblock-as-multiple-bills-rejected) - 📰 null - 【目前美国已有 5 个州的比特币储备相关提案被否决或受阻】金色财经报道，在全美 50 个州中，已有超过 20 个州提出或正在考虑与比特币储备或数字资产投资相关的立法，目前蒙大拿州、南达科他州、北达科他州、宾夕法尼亚州和怀俄明州 5 个州提案已被否决或受阻。
-- [BTC突破87000美元]() - 📰 null - 【BTC突破87000美元】金色财经报道，行情显示，BTC突破87000美元，现报87000美元，24小时跌幅达到2.55%，行情波动较大，请做好风险控制。
-- [分析师：市场情绪低迷压制比特币反弹，政策支持缺席加剧紧张情绪]() - 📰 null - 【分析师：市场情绪低迷压制比特币反弹，政策支持缺席加剧紧张情绪】金色财经报道，Hargreaves Lansdown分析师Susannah Streeter在报告中表示，由于加密货币市场仍然受到负面情绪的打击，押注比特币大幅反弹的投机者感到失望。特朗普关税威胁使投资者远离风险资产。Bybit加密货币交易所遭黑客攻击也令投资者情绪动荡。 
-虽然比特币已略有回升，但鉴于贬值速度过快，比特币还有很长的上升空间。“如果特朗普没有任何坚定的举动来表明他对加密货币行业的支持，紧张情绪看来还会持续下去。”
-- [数据：949枚BTC从钱包转移到OKX]() - 📰 null - 【数据：949枚BTC从钱包转移到OKX】金色财经报道，据 Whale Alert 监测，949 枚 BTC （82,041,906 美元）从未知钱包转移到 OKX。
+- [BitMEX正寻求出售，并已联系投行Broadhaven Capital协助](https://x.com/coindesk/status/1895178295202787640?s=46&t=C99FI4Hm9YFZrc41IlEaog) - 📰 null - 【BitMEX正寻求出售，并已联系投行Broadhaven Capital协助】金色财经报道，交易平台 BitMEX 正在寻找买家，并已联系精品投行 Broadhaven Capital 寻求协助。
+- [特朗普：我们将实施对等关税措施](https://flash.jin10.com/detail/20250228020235317800) - 📰 null - 【特朗普：我们将实施对等关税措施】金色财经报道，美国总统特朗普表示，我们将实施对等关税措施。
+- [Consensys创始人：美SEC已原则上同意驳回针对MetaMask的证券执法案件](https://x.com/ethereumJoseph/status/1895156943972639243) - 📰 null - 【Consensys创始人：美SEC已原则上同意驳回针对MetaMask的证券执法案件】金色财经报道，ConsenSys 创始人 Joseph Lubin 在 X 平台发文宣布，Consensys 已和美 SEC 原则上同意驳回有关 MetaMask 的证券执法案件，美 SEC 将向法院提交一项有效结案的约定。Joseph Lubin 补充称，ConsenSys 现在将可以 100%投入恢复建设，2025 年将是以太坊和 Consensys 迄今为止最好的一年，向更加去中心化的世界范式转变正在加速。
+- [Sixth Street对区块链借贷公司Figure Technology Solutions投资2亿美元](https://cointelegraph.com/news/sixth-street-backs-blockchain-lender-figure-investment) - 📰 null - 【Sixth Street对区块链借贷公司Figure Technology Solutions投资2亿美元】金色财经报道，全球投资公司 Sixth Street 对美国区块链借贷公司 Figure Technology Solutions 投资了 2 亿美元，旨在推动区块链技术提升借贷市场的效率并降低成本，这笔投资将使 Figure 能够发行最多 20 亿美元的新贷款，并帮助公司扩展到其他借贷市场。
+- [Bitwise宣布赞助比特币联合办公项目Presidio Bitcoin](https://x.com/BitwiseInvest/status/1895150942468591996) - 📰 null - 【Bitwise宣布赞助比特币联合办公项目Presidio Bitcoin】金色财经报道，Bitwise 在 X 平台发文宣布赞助比特币联合办公项目 Presidio Bitcoin，具体赞助金额暂未披露，据悉该联合办公和活动空间位于美国旧金山著名的 Presidio 街区，可以进行工作站、每月聚会、技术讲座、社交机会、黑客松等工作和活动。
+- [Glassnode：9.6万美元至9.8万美元或是现阶段比特币的强阻力位](https://x.com/glassnode/status/1895143855353405947) - 📰 null - 【Glassnode：9.6万美元至9.8万美元或是现阶段比特币的强阻力位】金色财经报道， Glassnode 在 X 平台发文表示，“2024 年 12 月底至 2025 年 2 月期间，96,000 美元至 98,000 美元区域出现了强劲的积累。虽然这些价格区间内的一些地址正在重新分配其 BTC，但这个供应集群仍然非常密集，如果再次回到这个水平，可能会成为强有力的阻力位。”
+- [天桥资本创始人预测比特币年底前将达到18万美元](https://x.com/BitcoinMagazine/status/1895147155356090416) - 📰 null - 【天桥资本创始人预测比特币年底前将达到18万美元】金色财经报道，天桥资本创始人 Anthony Scaramucci 在直播时预测比特币年底前将达到 18 万美元。
+- [俄罗斯央行无限期推迟启动数字卢布项目](https://cryptoslate.com/russia-delays-digital-ruble-cbdc-launch-extends-pilot-phase-indefinitely/) - 📰 null - 【俄罗斯央行无限期推迟启动数字卢布项目】金色财经报道，俄罗斯央行无限期推迟全面启动数字卢布项目且没有新的时间表，据悉俄罗斯央行于 2023 年 8 月开始通过有限的试点计划测试其数字货币，该计划涉及 12 家银行和约 600 名员工，已经测试了钱包功能、转账和自动支付。企业还探索使用数字卢布进行交易，初步计划到 2025 年 7 月实现更广泛采用。俄罗斯央行行长 Elvira Nabiullina 据称确认了这一延期，强调额外的时间将有助于金融机构采用适合其客户的模型。她还强调，推迟启动是为了确保数字卢布能惠及所有利益相关者。
+- [分析师：牛市周期25%的回调很常见，将继续保持看涨立场](https://www.theblock.co/post/343758/extreme-fear-crypto-fear-greed-index-hits-multi-year-low-as-bitcoin-sinks-below-86000?utm_source=twitter&utm_medium=social) - 📰 null - 【分析师：牛市周期25%的回调很常见，将继续保持看涨立场】金色财经报道，BRN 分析师 Valentin Fournier 表示，“朗普宣布可能对欧洲商品征收 25%的关税，这再次引发了投资者的担忧，导致加密货币恐惧与贪婪指数跌至 10，处于极度恐惧区域。尽管有些人担心熊市的开始，但历史表明，在牛市周期中，25%的回调很常见。美国建立国家加密货币储备的努力仍然是一个主要的长期催化剂，将积蓄保持看涨立场，预计本周结束前市场将反弹，对 BTC 和 ETH 保持中立。”
+- [Immunefi：2月份加密行业发生9起黑客事件，损失高达15.3亿美元](https://www.theblock.co/post/343750/crypto-losses-explode-to-1-53-billion-usd-february-following-record-bybit-hack-immunefi) - 📰 null - 【Immunefi：2月份加密行业发生9起黑客事件，损失高达15.3亿美元】金色财经报道，根据安全服务平台 Immunefi 的最新报告，受创纪录的 Bybit 黑客攻击影响，2 月份加密货币行业被盗资金激增，9 起黑客事件共造成 15.3 亿美元的损失，环比增长 20 倍。该数字比 2024 年 2 月增加了 18 倍，当时登记的损失为 8160 万美元；今年迄今的损失达到 16 亿美元，比去年同期增加了 8 倍。
+- [蒙大拿州一男子利用加密货币洗钱超240万美元被裁定有罪](https://www.justice.gov/usao-edtx/pr/montana-man-convicted-cryptocurrency-money-laundering-conspiracy) - 📰 null - 【蒙大拿州一男子利用加密货币洗钱超240万美元被裁定有罪】金色财经报道，一名蒙大拿州男子被判犯有加密货币洗钱罪。经过三天的审判，现年 73 岁的 Randall V. Rule （原蒙大拿州卡利斯佩尔居民）被陪审团裁定所有罪名成立。 
+2022 年 11 月 16 日，联邦大陪审团发出的起诉书指控 Randall V. Rule 和前南卡罗来纳州伊尔莫居民 Gregory C. Nysewander 涉嫌洗钱阴谋、洗钱以及违反《银行保密法》的阴谋。根据起诉书，Rule 和 Nysewander 涉嫌与他人合谋通过加密货币洗钱电信诈骗和邮件诈骗的收益。被告将资金转换为加密货币，并将加密货币发送到由国内外同谋控制的账户。被告及其同谋做出虚假陈述并隐瞒重要事实，以避免发现存款、电汇和转账的欺诈性质。被告在填写开户文件以及与金融机构和加密货币交易所沟通时也做出虚假陈述并隐瞒重要事实。
+- [Michael Saylor与美国众议院金融服务委员会主席会面并讨论数字资产](https://x.com/saylor/status/1895134008675311626) - 📰 null - 【Michael Saylor与美国众议院金融服务委员会主席会面并讨论数字资产】金色财经报道，Strategy（原 MicroStrategy）创始人 Michael Saylor 在社交媒体发文表示，“周二，我有机会与美国众议院金融服务委员会成员及其主席 French Hill 会面，讨论数字资产以及如何让美国成为比特币和加密货币的全球领导者。”
+- [观点：交易员将82,000美元视为比特币关键支撑位](https://x.com/GreeksLive/status/1895128089958429084) - 📰 null - 【观点：交易员将82,000美元视为比特币关键支撑位】金色财经报道，据 Greeks.live 发文表示，交易员将 82,000 美元视为比特币关键支撑位，必须守住该支撑位才能维持高时间框架下的趋势。 
+社区成员对持续下跌非常担忧，许多成员讨论了三天内 17% 的快速下跌，并争论最近的抛售是否受到控制或预示着更广泛的市场转变。 
+几位交易员认为比特币在此次回调后，价格走势可能会变得震荡，并可能会重新测试 88,000 美元，然后再决定进一步的方向。
+- [今日美国比特币ETF净流出10391枚BTC，以太坊ETF净流出51813枚ETH](https://x.com/lookonchain/status/1895132078297235793) - 📰 null - 【今日美国比特币ETF净流出10391枚BTC，以太坊ETF净流出51813枚ETH】金色财经报道，据Lookonchain监测，今日10只美国比特币ETF净流出10391枚BTC（8.8661亿美元），其中贝莱德流出5002枚BTC（4.2678亿美元），目前贝莱德持有578320枚BTC（493.4亿美元）； 
+9只以太坊ETF净流出51813枚ETH（1.201亿美元），其中贝莱德流出30280枚ETH（7019万美元），目前贝莱德持有1317621枚ETH（30.5亿美元）。
+- [德克萨斯州战略比特币储备法案已通过委员会审议阶段](https://x.com/BitcoinMagazine/status/1895129423512265135) - 📰 null - 【德克萨斯州战略比特币储备法案已通过委员会审议阶段】金色财经报道，据市场消息，德克萨斯州的战略比特币储备法案已通过商业和商务委员会审议阶段，将提交参议院审议。
+- [若比特币跌破8.3万美元，主流CEX累计多单清算强度将达3.49亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币跌破8.3万美元，主流CEX累计多单清算强度将达3.49亿】金色财经报道，据 Coinglass 数据，若比特币跌破 8.3 万美元，主流 CEX 累计多单清算强度将达 3.49 亿。反之，若比特币突破 8.7 万美元，主流 CEX 累计空单清算强度将达 1.71 亿。
+- [德国电信成为Injective节点验证者](https://www.theblock.co/post/343612/t-mobile-deutsche-telekom-binance-incubated-injective-validator) - 📰 null - 【德国电信成为Injective节点验证者】金色财经报道，德国电信成为 Injective 节点验证者，与其他质押协议类似，Injective 会根据网络状况向验证节点支付一部分网络的质押奖励和交易费用。
+- [BTC跌破85000美元]() - 📰 null - 【BTC跌破85000美元】金色财经报道，行情显示，BTC跌破85000美元，现报84980.57美元，24小时跌幅达到2.83%，行情波动较大，请做好风险控制。
+- [SHELL 个人持仓 TOP1 地址 1 小时前将所有代币转入币安](https://x.com/ai_9684xtpa/status/1895124679796629691) - 📰 null - 【SHELL 个人持仓 TOP1 地址 1 小时前将所有代币转入币安】金色财经报道，据链上分析师@ai_9684xtpa监测，SHELL 代币个人持仓 TOP1 巨鲸于 2 月 14 日至 21 日期间通过两个地址建仓 339 万枚 SHELL 代币，共投入 128.6 万美元，均价 0.3985 美元。 
+该巨鲸已于近期将全部代币充值至币安交易所，预计获利 102.7 万美元，13 天回报率达 80%。此次操作恰逢 SHELL 代币在币安现货上线。
+- [Litecoin 基金会推出官方“.LTC”ENS 域名](https://x.com/solidintel_x/status/1895121708257771856) - 📰 null - 【Litecoin 基金会推出官方“.LTC”ENS 域名】金色财经报道，据市场消息，Litecoin 基金会和 Unstoppable Domains 合作，推出官方“.LTC”ENS 域名。
