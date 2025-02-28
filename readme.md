@@ -1,31 +1,33 @@
-- [4小时内多个鲸鱼地址向Binance存入或OTC出售大量ETH，总值超4200万美元](https://x.com/OnchainDataNerd/status/1895305618577334511) - 📰 null - 【4小时内多个鲸鱼地址向Binance存入或OTC出售大量ETH，总值超4200万美元】金色财经报道，据The Data Nerd监测，4小时内多个鲸鱼地址向Binance存入或通过场外交易(OTC)出售了大量以太坊。具体交易包括： 
-地址0x702向Binance存入2,500枚ETH，价值约552万美元； 
-地址0x97D向Binance存入1,960枚ETH，价值约451万美元； 
-地址0xEFA向场外交易商WintermuteOTC转移了15,000枚ETH，价值约3,200万美元。
-- [Founders Fund合伙人：SEC曾迫使DeFi创始人“永不从事加密行业”](https://cointelegraph.com/news/sec-pressured-defi-execs-never-work-crypto-again-vc-partner) - 📰 null - 【Founders Fund合伙人：SEC曾迫使DeFi创始人“永不从事加密行业”】金色财经报道，风险投资公司Founders Fund合伙人Joey Krug在ETHDenver会议上透露，美国证券交易委员会（SEC）在前主席Gary Gensler领导下，曾通过和解协议迫使去中心化金融（DeFi）平台创始人承诺永远不再从事加密货币行业。 
-Krug表示：“政府在许多案例中找到DeFi协议的创始人，基本上告诉他们必须与我们达成和解。在许多情况下，他们要求签署一份文件，承诺永远不再从事加密行业。而且，由于有不贬损条款，这些协议不能公开讨论。”他还声称这些监管机构会威胁创始人：“如果不同意这些条款，你就会坐牢。” 
-Krug称他最初不相信这些和解协议的存在，直到一些未具名的创始人向他展示了协议内容，确实包含“永不从事加密行业”和“不得对外讨论”的条款。
-- [IBIT昨日净流出1.9232亿美元](https://x.com/thepfund/status/1895305622142492774) - 📰 null - 【IBIT昨日净流出1.9232亿美元】金色财经报道，据Trader T监测，IBIT昨日净流出1.9232亿美元。
-- [BTC跌破80000美元]() - 📰 null - 【BTC跌破80000美元】金色财经报道，行情显示，BTC跌破80000美元，现报79945.13美元，24小时跌幅达到5.48%，行情波动较大，请做好风险控制。
-- [Tim Beiko：Holesky将通过slash解决升级故障，Sepolia测试网升级时间不变](https://x.com/TimBeiko/status/1895219970356949418) - 📰 null - 【Tim Beiko：Holesky将通过slash解决升级故障，Sepolia测试网升级时间不变】2月28日消息，以太坊基金会协议支持负责人Tim Beiko于X更新了关于Holesky测试网Pectra升级故障的信息。 
-Beiko表示，今晚将在Holesky测试网上执行大规模slash（罚没），以最终确定正确链上的区块，整个时长可能持续2-3周，直到遭受slash的验证者权重降至全网33%以下。 
-Beiko还提到Sepolia测试网的升级时间不会改变，以为主网升级提供更长的测试周期。下周的ACDC会议上将讨论主网升级相关问题，但不太可能得出具体日期。
-- [BNB跌破580美元]() - 📰 null - 【BNB跌破580美元】金色财经报道，行情显示，BNB跌破580美元，现报579.72美元，24小时跌幅达到5.34%，行情波动较大，请做好风险控制。
-- [Finisterra Labs完成375万美元种子轮融资，Haun Ventures领投](https://finisterra.ai/hello-world/) - 📰 null - 【Finisterra Labs完成375万美元种子轮融资，Haun Ventures领投】金色财经报道，据Finisterra Labs公告，公司完成375万美元种子轮融资，由Haun Ventures领投，Lightshift Capital参投，用于开发去中心化数据市场Baselight。
-- [AAVE跌破190美元]() - 📰 null - 【AAVE跌破190美元】金色财经报道，行情显示，AAVE跌破190美元，现报189.92美元，24小时跌幅达到8.13%，行情波动较大，请做好风险控制。
-- [BTC跌破81000美元]() - 📰 null - 【BTC跌破81000美元】金色财经报道，行情显示，BTC跌破81000美元，现报80975.44美元，24小时跌幅达到4.6%，行情波动较大，请做好风险控制。
-- [ETH突破2200美元]() - 📰 null - 【ETH突破2200美元】金色财经报道，行情显示，ETH突破2200美元，现报2200.63美元，24小时跌幅达到6.92%，行情波动较大，请做好风险控制。
-- [Base：Flashblocks技术已在Base Sepolia测试网上线](https://base.mirror.xyz/HwG1GQ5hoxz0OTOF_nQhNcVTk4Ae9cRIrcqVQ14N4-c) - 📰 null - 【Base：Flashblocks技术已在Base Sepolia测试网上线】金色财经报道，据Base官方公告，Base推出多项新技术，旨在提升链上交易速度、扩展性和用户体验。其中，Flashblocks技术已在Base Sepolia测试网上线，使区块确认时间从2秒缩短至200毫秒，成为最快的EVM链。 
-此外，Base还推出Base Appchains（L3链），为高流量应用提供专属区块空间，提高扩展性。同时，Base引入Smart Wallet Sub Accounts，优化用户体验，减少交易签名次数，并提供更安全的账户管理方式。Base计划在Q2将Flashblocks和Sub Accounts推向主网。
-- [某地址遭清算844.23枚WETH，约合196万美元](https://x.com/PeckShieldAlert/status/1895298072982495436) - 📰 null - 【某地址遭清算844.23枚WETH，约合196万美元】金色财经报道，据PeckShield监测，某地址在WETH跌破约2300美元时遭清算844.23枚WETH（约合196万美元）。
-- [某地址遭清算13.59枚WBTC，约合113万美元](https://x.com/PeckShieldAlert/status/1895296203597980075) - 📰 null - 【某地址遭清算13.59枚WBTC，约合113万美元】金色财经报道，据PeckShield监测，某地址在WBTC价格跌破84,000美元时遭清算13.59枚WBTC（约合113万美元）。
-- [去中心化交易平台Bluefin已收购InsideX](https://x.com/bluefinapp/status/1895081482026164385) - 📰 null - 【去中心化交易平台Bluefin已收购InsideX】2月28日消息，据Bluefin公告，其已收购Sui链上交易终端InsideX的多数股权。InsideX是Sui Network上的一体化交易终端，提供多功能交易工具。
-- [Bithumb将上线SHELL](https://feed.bithumb.com/notice/1647199) - 📰 null - 【Bithumb将上线SHELL】金色财经报道，据官方消息，韩国加密交易平台Bithumb将上线SHELL。
-- [某50倍杠杆做空ETH的鲸鱼地址已浮盈7200万美元](https://x.com/lookonchain/status/1895294650782732480) - 📰 null - 【某50倍杠杆做空ETH的鲸鱼地址已浮盈7200万美元】金色财经报道，据Lookonchain监测，随着ETH跌破2200美元，某个在HyperLiquid上以50倍杠杆做空ETH的鲸鱼目前未实现利润超过7200万美元，该空单的开仓均价为3218美元。
-- [CKB突破0.0075美元]() - 📰 null - 【CKB突破0.0075美元】金色财经报道，行情显示，模块化区块链网络Nervos Network（CKB）突破0.0075美元，现报价0.007523美元，24小时涨幅达到26.2%，行情波动较大，请做好风险控制。
-- [美国法官阻止了特朗普政府要求机构大规模解雇的呼吁]() - 📰 null - 【美国法官阻止了特朗普政府要求机构大规模解雇的呼吁】金色财经报道，当地时间周四，美国加州一名联邦法官暂时阻止了特朗普政府下令美国国防部和其他联邦机构大规模解雇数千名新聘用的雇员。美国旧金山地区法官William Alsup在听证会上表示，美国人事管理办公室无权命令联邦机构解雇任何员工，包括通常工作经验不足一年的试用员工。(金十)
-- [MetaMask发布全新路线图：推出智能合约账户、批量交易功能及MetaMask借记卡](https://www.coindesk.com/tech/2025/02/27/popular-crypto-wallet-metamask-unveils-new-roadmap?utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_medium=social&utm_content=editorial) - 📰 null - 【MetaMask发布全新路线图：推出智能合约账户、批量交易功能及MetaMask借记卡】金色财经报道，以太坊生态热门钱包MetaMask公布全新发展路线图，重点优化用户体验，并计划推出智能合约账户（CA）、ERC-5792批量交易功能以及MetaMask借记卡。 
-新功能包括引入智能合约钱包，相较于当前依赖私钥的外部账户（EOA），智能合约账户支持交易恢复机制，提高资产安全性。此外，MetaMask将支持ERC-5792批量交易，允许用户一键完成批准+交易，减少Gas费和操作步骤。 
-MetaMask团队还宣布，其MetaMask借记卡将于3月中旬在美国部分州推出，此前已在英国和欧盟地区试行。该卡支持用户直接使用钱包内的加密资产支付，并兼容Mastercard网络。 
-此外，MetaMask将新增比特币（BTC）和Solana（SOL）支持，使用户能够在同一钱包内管理多个区块链资产。团队表示，未来将持续优化多链集成，提升整体用户体验。
-- [Arthur Hayes：比特币或在周末跌破 8 万美元](https://x.com/CryptoHayes/status/1895289783792079143) - 📰 null - 【Arthur Hayes：比特币或在周末跌破 8 万美元】金色财经报道，BitMEX 联合创始人 Arthur Hayes 在社交媒体发文表示，“当前比特币正在创下更低的低点，今早我曾想增加风险敞口，但观察价格走势后，我认为我们可能还会迎来一波剧烈下跌，价格将跌破 8 万美元，这很可能发生在周末，之后市场将平静一段时间。做好准备吧！”
+- [Babylon：对于BABY地址可以链接的BTC地址和Polygon地址数量没有限制](https://x.com/bbn_foundation/status/1894843154043674651) - 📰 null - 【Babylon：对于BABY地址可以链接的BTC地址和Polygon地址数量没有限制】金色财经报道，Babylon在解答社区问题时表示，只要参与了主网第一阶段的质押，无论质押是溢出还是被接受。都可以注册空投并绑定NFT。对于BABY地址可以链接的BTC地址和Polygon地址数量没有限制。此外，Babylon还表示空投注册页面上采取临时快照数据来决定资格，积分在不断累积，因此在质押页面看到的积分应该略高于空投注册页面中的积分。
+- [Bitdeer以均价81,475美元增持50枚BTC](https://x.com/BitdeerOfficial/status/1895360291862651361) - 📰 null - 【Bitdeer以均价81,475美元增持50枚BTC】金色财经报道，Bitdeer于X平台发文表示，今日以均价81,475美元增持50枚BTC，总持有量已达1011枚。
+- [Vitalik：很多人因为丢失而不是被盗而损失大量加密货币，构建数字钱包安全解决方案应考虑这种情况](https://x.com/VitalikButerin/status/1895358841568506053) - 📰 null - 【Vitalik：很多人因为丢失而不是被盗而损失大量加密货币，构建数字钱包安全解决方案应考虑这种情况】金色财经报道，以太坊联合创始人Vitalik Buterin提醒称，还有很多人因为丢失而不是被盗而损失了大量的加密货币。软件漏洞、忘记密码、丢失设备、在洛杉矶大火中烧毁的纸质钱包、升级设备时未备份数据……这些情况都有可能导致损失。 
+因为没有攻击者可以追究，受害者没有强烈的理由去谈论这些事情。而且很多时候，他们觉得只能怪自己，所以会因为羞愧而不愿提及。但这种情况确实经常发生。我们这个生态系统需要构建真正可靠的数字钱包安全解决方案，也应该考虑这种情况。（这也是我为什么经常谈论社交恢复机制的一个重要原因）
+- [Nesa已上线主网候选版本，正进行测试网快照](https://x.com/nesaorg/status/1895099887814844431) - 📰 null - 【Nesa已上线主网候选版本，正进行测试网快照】2月28日消息，AI L1网络Nesa已上线主网候选版本（Mainnet Candidate），下周将全面公开。目前团队正在对测试网上迄今为止的所有形式的参与、AI推理活动和链上交易进行快照。 
+此前消息，Nesa曾入选BinanceLabs第7季MVB加速器计划。
+- [f2pool：当前价格下，功耗30 W/T矿机接近盈亏平衡点](https://x.com/f2pool_official/status/1895323141863547366) - 📰 null - 【f2pool：当前价格下，功耗30 W/T矿机接近盈亏平衡点】金色财经报道，据f2pool数据，在比特币价格为$80,000时，不同矿机的电力成本比率呈现显著差异。功耗30 W/T的矿机接近盈亏平衡点，而低功耗、高算力机型则更具竞争力。
+- [OpenAI视频生成模型Sora正式登陆欧盟及英国](https://x.com/OpenAI/status/1895353527880556935) - 📰 null - 【OpenAI视频生成模型Sora正式登陆欧盟及英国】2月28日消息，据OpenAI公告，Sora现已向欧盟、英国、瑞士、挪威、列支敦士登及冰岛的Plus和Pro用户开放，用户可在这些地区体验该视频生成模型的功能。
+- [Polymarket上预测Solana ETF年底前获批的概率达84%](https://polymarket.com/event/solana-etf-approved-in-2025?tid=1740721892800) - 📰 null - 【Polymarket上预测Solana ETF年底前获批的概率达84%】金色财经报道，预测市场Polymarket数据显示，预测Solana ETF在2025年底前获得批准的概率达84%。该预测合约交易量达87,205美元，截止日期为2025年12月31日。 
+此前消息，DTCC列出首批Solana期货ETF产品SOLZ和SOLT。
+- [某地址遭清算1930WETH，约合406万美元](https://x.com/PeckShieldAlert/status/1895346082806407185) - 📰 null - 【某地址遭清算1930WETH，约合406万美元】金色财经报道，据PeckShield监测，地址0x98e7…ea76在市场下跌期间遭清算1,930枚WETH，价值约406万美元。
+- [数据：ETH于1919.49美元处或面临约1.273亿美元大额链上清算](https://play.sportsteam356.com/play/kbs.html?id=10022400849&id2=) - 📰 null - 【数据：ETH于1919.49美元处或面临约1.273亿美元大额链上清算】金色财经报道，据DefiLlama数据显示，ETH于1919.49美元处，或面临约1.273亿美元大额链上清算。
+- [波卡旗下Web3基金会宣布资助链上跨境支付项目Satoshipay](https://x.com/Web3foundation/status/1891834425438085355) - 📰 null - 【波卡旗下Web3基金会宣布资助链上跨境支付项目Satoshipay】金色财经报道，波卡旗下Web3基金会宣布资助链上跨境支付项目Satoshipay，以支持其开发基于Polkadot链上的法币/加密货币网关服务Vortex，Web3基金会暂未披露资助金额，但Satoshipay透露其已募资约85万美元，涉及投资方还包括Blue Star Capital和Alexander Wilke等天使投资人。
+- [某地址遭清算874.94枚WETH，约合184万美元](https://x.com/PeckShieldAlert/status/1895345198798118981) - 📰 null - 【某地址遭清算874.94枚WETH，约合184万美元】金色财经报道，据PeckShield监测，某地址（0x2a00...c30e）在WETH跌破2,100美元时遭清算874.94枚WETH（价值184万美元 ）。
+- [Santiment：加密货币“抄底热情”升至7个月高位，但市场可能反向运行](https://cointelegraph.com/news/traders-confident-dip-isone-to-buy-santiment) - 📰 null - 【Santiment：加密货币“抄底热情”升至7个月高位，但市场可能反向运行】金色财经报道，据Cointelegraph报道，在比特币跌破8万美元的市场调整中，社交媒体上关于加密货币“抄底”的讨论热度已攀升至去年7月以来最高水平。链上分析平台Santiment在报告中指出，交易者在X、Reddit和Telegram等社交平台上展现出“极高的信心”，认为当前下跌是“值得买入的时机”。 
+然而，Santiment警告称，市场对抄底的高度热情并不一定是入场信号，因为市场往往会朝着与大众预期相反的方向发展。“理想情况下，我们应等待这种群体热情消退，作为散户交易者已经承受足够痛苦的信号，才能证明反弹合理。”GoogleTrends数据显示类似趋势，“buythedip”(抄底)搜索兴趣在2月26日达到峰值100分，但随后已降至49分。
+- [福布斯：比特币下跌或因交易员在特朗普当选后逆转押注](https://www.forbes.com/sites/beccabratcher/2025/02/27/bitcoin-price-plunges-despite-pro-crypto-us-government/) - 📰 null - 【福布斯：比特币下跌或因交易员在特朗普当选后逆转押注】金色财经报道，本周比特币跌势加剧，从不到六周前创下的历史高点下跌了25%，原因是交易员在美国总统特朗普当选后逆转了押注。比特币亚盘时段下跌2.8%，创下11月11日以来的最低水平。这是加密货币普遍下跌的一部分，以太坊、Solana和XRP最近几天也大幅下跌。抛售凸显了数字资产命运的迅速变化，比特币在1月20日特朗普就职当天创下了109241美元的历史新高，但此后由于对特朗普好斗立场的担忧和对美国经济的广泛担忧，比特币价格大幅下跌，加密货币也面临着投资者风险偏好更广泛转变的压力。
+- [Strategy比特币持仓浮盈降至69.23亿美元，购买均价约66,357美元]() - 📰 null - 【Strategy比特币持仓浮盈降至69.23亿美元，购买均价约66,357美元】金色财经报道，比特币今日跌破80,000美元，现报价80,227美元。据mstr-tracker数据，Strategy（原MicroStrategy）目前总计持有499,096枚比特币，总购买成本约为331亿美元，购买均价约为66,357美元，当前比特币持仓总价值400.4亿美元，其比特币持仓浮盈降至69.23亿美元。
+- [分析师：由于市场对美国关税的担忧再度升温推动美元需求增加，比特币跌破8万美元](https://www.coindesk.com/markets/2025/02/28/bitcoin-tumbles-to-usd80k-xrp-loses-key-support-as-trump-tariffs-regain-centrality-dollar-index-rises?utm_content=editorial&utm_term=organic&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main) - 📰 null - 【分析师：由于市场对美国关税的担忧再度升温推动美元需求增加，比特币跌破8万美元】金色财经报道，Coindesk分析师Omkar Godbole表示，比特币(BTC)周五跌破了SMA200移动平均线，周跌幅达16％。由于对美国关税的担忧再度升温，美元需求增加，比特币价格自11月10日以来首次短暂跌破8万美元大关。 
+特朗普周四表示，他计划从3月4日开始对加拿大和墨西哥征收关税，同时将对中国进口商品征收的10%普遍关税提高一倍。荷兰国际集团(ING)周四在给客户的报告中表示：“我们预计美国关税将重新成为焦点，并推动美元持续走高。”美元指数上涨至107.30，延续了从周三接近106.15的低点反弹的趋势。
+- [链上合规解决方案提供商Forte收购Sealance Corp](https://chainwire.org/2025/02/28/forte-acquires-sealance-corp-to-revolutionize-web3-identity-and-privacy/) - 📰 null - 【链上合规解决方案提供商Forte收购Sealance Corp】2月28日消息，链上合规解决方案提供商Forte已收购加密货币信任平台Sealance Corp.，通过此次收购，Web3开发人员可以利用ZK策略引擎和Forte的规则引擎进行合规的KYC验证，并管理跨现实世界资产(RWA)、稳定币、DeFi和机构用例的链上身份，同时通过Sealance的ZK技术进行隐私管理。 
+据悉，Sealance Corp是首个零知识(ZK)策略引擎的创建者，旨在促进去中心化区块链的监管合规。
+- [Michael Saylor：如果必要的话卖掉一个肾，但要保住比特币]() - 📰 null - 【Michael Saylor：如果必要的话卖掉一个肾，但要保住比特币】金色财经报道，Strategy创始人Michael Saylor发推表示，“如果必要的话，卖掉一个肾，但要保住比特币。”（Sell a kidney if you must, but keep the Bitcoin.）
+- [ETH跌破2100美元]() - 📰 null - 【ETH跌破2100美元】金色财经报道，行情显示，ETH跌破2100美元，现报2099.69美元，24小时跌幅达到10.1%，行情波动较大，请做好风险控制。
+- [Binance将支持Ethernity Chain（ERN）代币置换及品牌升级为Epic Chain（EPIC）]() - 📰 null - 【Binance将支持Ethernity Chain（ERN）代币置换及品牌升级为Epic Chain（EPIC）】金色财经报道，据官方公告，Binance将支持Ethernity Chain（ERN）代币置换及品牌升级为Epic Chain（EPIC）的计划。
+- [金色午报 | 2月28日午间重要动态一览]() - 📰 null - 【金色午报 | 2月28日午间重要动态一览】7:00-12:00关键词：Grok、DeepSeek、比特币 
+1.全球主流金融市场股指期货均出现下跌； 
+2.马斯克：刚刚发布了新版本的Grok应用程序； 
+3.Arthur Hayes：比特币或在周末跌破 8 万美元； 
+4.美联储鹰派：利率未具显著限制性，没人希望很快降息； 
+5.美国法官阻止了特朗普政府要求机构大规模解雇的呼吁； 
+6.SAF联创：美国七个州的比特币储备立法已通过委员会审议； 
+7.DeepSeek开源并发布3FS，高速并行文件系统优化AI数据访问。
