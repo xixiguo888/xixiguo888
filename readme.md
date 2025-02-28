@@ -1,25 +1,31 @@
-- [BitMEX正寻求出售，并已联系投行Broadhaven Capital协助](https://x.com/coindesk/status/1895178295202787640?s=46&t=C99FI4Hm9YFZrc41IlEaog) - 📰 null - 【BitMEX正寻求出售，并已联系投行Broadhaven Capital协助】金色财经报道，交易平台 BitMEX 正在寻找买家，并已联系精品投行 Broadhaven Capital 寻求协助。
-- [特朗普：我们将实施对等关税措施](https://flash.jin10.com/detail/20250228020235317800) - 📰 null - 【特朗普：我们将实施对等关税措施】金色财经报道，美国总统特朗普表示，我们将实施对等关税措施。
-- [Consensys创始人：美SEC已原则上同意驳回针对MetaMask的证券执法案件](https://x.com/ethereumJoseph/status/1895156943972639243) - 📰 null - 【Consensys创始人：美SEC已原则上同意驳回针对MetaMask的证券执法案件】金色财经报道，ConsenSys 创始人 Joseph Lubin 在 X 平台发文宣布，Consensys 已和美 SEC 原则上同意驳回有关 MetaMask 的证券执法案件，美 SEC 将向法院提交一项有效结案的约定。Joseph Lubin 补充称，ConsenSys 现在将可以 100%投入恢复建设，2025 年将是以太坊和 Consensys 迄今为止最好的一年，向更加去中心化的世界范式转变正在加速。
-- [Sixth Street对区块链借贷公司Figure Technology Solutions投资2亿美元](https://cointelegraph.com/news/sixth-street-backs-blockchain-lender-figure-investment) - 📰 null - 【Sixth Street对区块链借贷公司Figure Technology Solutions投资2亿美元】金色财经报道，全球投资公司 Sixth Street 对美国区块链借贷公司 Figure Technology Solutions 投资了 2 亿美元，旨在推动区块链技术提升借贷市场的效率并降低成本，这笔投资将使 Figure 能够发行最多 20 亿美元的新贷款，并帮助公司扩展到其他借贷市场。
-- [Bitwise宣布赞助比特币联合办公项目Presidio Bitcoin](https://x.com/BitwiseInvest/status/1895150942468591996) - 📰 null - 【Bitwise宣布赞助比特币联合办公项目Presidio Bitcoin】金色财经报道，Bitwise 在 X 平台发文宣布赞助比特币联合办公项目 Presidio Bitcoin，具体赞助金额暂未披露，据悉该联合办公和活动空间位于美国旧金山著名的 Presidio 街区，可以进行工作站、每月聚会、技术讲座、社交机会、黑客松等工作和活动。
-- [Glassnode：9.6万美元至9.8万美元或是现阶段比特币的强阻力位](https://x.com/glassnode/status/1895143855353405947) - 📰 null - 【Glassnode：9.6万美元至9.8万美元或是现阶段比特币的强阻力位】金色财经报道， Glassnode 在 X 平台发文表示，“2024 年 12 月底至 2025 年 2 月期间，96,000 美元至 98,000 美元区域出现了强劲的积累。虽然这些价格区间内的一些地址正在重新分配其 BTC，但这个供应集群仍然非常密集，如果再次回到这个水平，可能会成为强有力的阻力位。”
-- [天桥资本创始人预测比特币年底前将达到18万美元](https://x.com/BitcoinMagazine/status/1895147155356090416) - 📰 null - 【天桥资本创始人预测比特币年底前将达到18万美元】金色财经报道，天桥资本创始人 Anthony Scaramucci 在直播时预测比特币年底前将达到 18 万美元。
-- [俄罗斯央行无限期推迟启动数字卢布项目](https://cryptoslate.com/russia-delays-digital-ruble-cbdc-launch-extends-pilot-phase-indefinitely/) - 📰 null - 【俄罗斯央行无限期推迟启动数字卢布项目】金色财经报道，俄罗斯央行无限期推迟全面启动数字卢布项目且没有新的时间表，据悉俄罗斯央行于 2023 年 8 月开始通过有限的试点计划测试其数字货币，该计划涉及 12 家银行和约 600 名员工，已经测试了钱包功能、转账和自动支付。企业还探索使用数字卢布进行交易，初步计划到 2025 年 7 月实现更广泛采用。俄罗斯央行行长 Elvira Nabiullina 据称确认了这一延期，强调额外的时间将有助于金融机构采用适合其客户的模型。她还强调，推迟启动是为了确保数字卢布能惠及所有利益相关者。
-- [分析师：牛市周期25%的回调很常见，将继续保持看涨立场](https://www.theblock.co/post/343758/extreme-fear-crypto-fear-greed-index-hits-multi-year-low-as-bitcoin-sinks-below-86000?utm_source=twitter&utm_medium=social) - 📰 null - 【分析师：牛市周期25%的回调很常见，将继续保持看涨立场】金色财经报道，BRN 分析师 Valentin Fournier 表示，“朗普宣布可能对欧洲商品征收 25%的关税，这再次引发了投资者的担忧，导致加密货币恐惧与贪婪指数跌至 10，处于极度恐惧区域。尽管有些人担心熊市的开始，但历史表明，在牛市周期中，25%的回调很常见。美国建立国家加密货币储备的努力仍然是一个主要的长期催化剂，将积蓄保持看涨立场，预计本周结束前市场将反弹，对 BTC 和 ETH 保持中立。”
-- [Immunefi：2月份加密行业发生9起黑客事件，损失高达15.3亿美元](https://www.theblock.co/post/343750/crypto-losses-explode-to-1-53-billion-usd-february-following-record-bybit-hack-immunefi) - 📰 null - 【Immunefi：2月份加密行业发生9起黑客事件，损失高达15.3亿美元】金色财经报道，根据安全服务平台 Immunefi 的最新报告，受创纪录的 Bybit 黑客攻击影响，2 月份加密货币行业被盗资金激增，9 起黑客事件共造成 15.3 亿美元的损失，环比增长 20 倍。该数字比 2024 年 2 月增加了 18 倍，当时登记的损失为 8160 万美元；今年迄今的损失达到 16 亿美元，比去年同期增加了 8 倍。
-- [蒙大拿州一男子利用加密货币洗钱超240万美元被裁定有罪](https://www.justice.gov/usao-edtx/pr/montana-man-convicted-cryptocurrency-money-laundering-conspiracy) - 📰 null - 【蒙大拿州一男子利用加密货币洗钱超240万美元被裁定有罪】金色财经报道，一名蒙大拿州男子被判犯有加密货币洗钱罪。经过三天的审判，现年 73 岁的 Randall V. Rule （原蒙大拿州卡利斯佩尔居民）被陪审团裁定所有罪名成立。 
-2022 年 11 月 16 日，联邦大陪审团发出的起诉书指控 Randall V. Rule 和前南卡罗来纳州伊尔莫居民 Gregory C. Nysewander 涉嫌洗钱阴谋、洗钱以及违反《银行保密法》的阴谋。根据起诉书，Rule 和 Nysewander 涉嫌与他人合谋通过加密货币洗钱电信诈骗和邮件诈骗的收益。被告将资金转换为加密货币，并将加密货币发送到由国内外同谋控制的账户。被告及其同谋做出虚假陈述并隐瞒重要事实，以避免发现存款、电汇和转账的欺诈性质。被告在填写开户文件以及与金融机构和加密货币交易所沟通时也做出虚假陈述并隐瞒重要事实。
-- [Michael Saylor与美国众议院金融服务委员会主席会面并讨论数字资产](https://x.com/saylor/status/1895134008675311626) - 📰 null - 【Michael Saylor与美国众议院金融服务委员会主席会面并讨论数字资产】金色财经报道，Strategy（原 MicroStrategy）创始人 Michael Saylor 在社交媒体发文表示，“周二，我有机会与美国众议院金融服务委员会成员及其主席 French Hill 会面，讨论数字资产以及如何让美国成为比特币和加密货币的全球领导者。”
-- [观点：交易员将82,000美元视为比特币关键支撑位](https://x.com/GreeksLive/status/1895128089958429084) - 📰 null - 【观点：交易员将82,000美元视为比特币关键支撑位】金色财经报道，据 Greeks.live 发文表示，交易员将 82,000 美元视为比特币关键支撑位，必须守住该支撑位才能维持高时间框架下的趋势。 
-社区成员对持续下跌非常担忧，许多成员讨论了三天内 17% 的快速下跌，并争论最近的抛售是否受到控制或预示着更广泛的市场转变。 
-几位交易员认为比特币在此次回调后，价格走势可能会变得震荡，并可能会重新测试 88,000 美元，然后再决定进一步的方向。
-- [今日美国比特币ETF净流出10391枚BTC，以太坊ETF净流出51813枚ETH](https://x.com/lookonchain/status/1895132078297235793) - 📰 null - 【今日美国比特币ETF净流出10391枚BTC，以太坊ETF净流出51813枚ETH】金色财经报道，据Lookonchain监测，今日10只美国比特币ETF净流出10391枚BTC（8.8661亿美元），其中贝莱德流出5002枚BTC（4.2678亿美元），目前贝莱德持有578320枚BTC（493.4亿美元）； 
-9只以太坊ETF净流出51813枚ETH（1.201亿美元），其中贝莱德流出30280枚ETH（7019万美元），目前贝莱德持有1317621枚ETH（30.5亿美元）。
-- [德克萨斯州战略比特币储备法案已通过委员会审议阶段](https://x.com/BitcoinMagazine/status/1895129423512265135) - 📰 null - 【德克萨斯州战略比特币储备法案已通过委员会审议阶段】金色财经报道，据市场消息，德克萨斯州的战略比特币储备法案已通过商业和商务委员会审议阶段，将提交参议院审议。
-- [若比特币跌破8.3万美元，主流CEX累计多单清算强度将达3.49亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币跌破8.3万美元，主流CEX累计多单清算强度将达3.49亿】金色财经报道，据 Coinglass 数据，若比特币跌破 8.3 万美元，主流 CEX 累计多单清算强度将达 3.49 亿。反之，若比特币突破 8.7 万美元，主流 CEX 累计空单清算强度将达 1.71 亿。
-- [德国电信成为Injective节点验证者](https://www.theblock.co/post/343612/t-mobile-deutsche-telekom-binance-incubated-injective-validator) - 📰 null - 【德国电信成为Injective节点验证者】金色财经报道，德国电信成为 Injective 节点验证者，与其他质押协议类似，Injective 会根据网络状况向验证节点支付一部分网络的质押奖励和交易费用。
-- [BTC跌破85000美元]() - 📰 null - 【BTC跌破85000美元】金色财经报道，行情显示，BTC跌破85000美元，现报84980.57美元，24小时跌幅达到2.83%，行情波动较大，请做好风险控制。
-- [SHELL 个人持仓 TOP1 地址 1 小时前将所有代币转入币安](https://x.com/ai_9684xtpa/status/1895124679796629691) - 📰 null - 【SHELL 个人持仓 TOP1 地址 1 小时前将所有代币转入币安】金色财经报道，据链上分析师@ai_9684xtpa监测，SHELL 代币个人持仓 TOP1 巨鲸于 2 月 14 日至 21 日期间通过两个地址建仓 339 万枚 SHELL 代币，共投入 128.6 万美元，均价 0.3985 美元。 
-该巨鲸已于近期将全部代币充值至币安交易所，预计获利 102.7 万美元，13 天回报率达 80%。此次操作恰逢 SHELL 代币在币安现货上线。
-- [Litecoin 基金会推出官方“.LTC”ENS 域名](https://x.com/solidintel_x/status/1895121708257771856) - 📰 null - 【Litecoin 基金会推出官方“.LTC”ENS 域名】金色财经报道，据市场消息，Litecoin 基金会和 Unstoppable Domains 合作，推出官方“.LTC”ENS 域名。
+- [4小时内多个鲸鱼地址向Binance存入或OTC出售大量ETH，总值超4200万美元](https://x.com/OnchainDataNerd/status/1895305618577334511) - 📰 null - 【4小时内多个鲸鱼地址向Binance存入或OTC出售大量ETH，总值超4200万美元】金色财经报道，据The Data Nerd监测，4小时内多个鲸鱼地址向Binance存入或通过场外交易(OTC)出售了大量以太坊。具体交易包括： 
+地址0x702向Binance存入2,500枚ETH，价值约552万美元； 
+地址0x97D向Binance存入1,960枚ETH，价值约451万美元； 
+地址0xEFA向场外交易商WintermuteOTC转移了15,000枚ETH，价值约3,200万美元。
+- [Founders Fund合伙人：SEC曾迫使DeFi创始人“永不从事加密行业”](https://cointelegraph.com/news/sec-pressured-defi-execs-never-work-crypto-again-vc-partner) - 📰 null - 【Founders Fund合伙人：SEC曾迫使DeFi创始人“永不从事加密行业”】金色财经报道，风险投资公司Founders Fund合伙人Joey Krug在ETHDenver会议上透露，美国证券交易委员会（SEC）在前主席Gary Gensler领导下，曾通过和解协议迫使去中心化金融（DeFi）平台创始人承诺永远不再从事加密货币行业。 
+Krug表示：“政府在许多案例中找到DeFi协议的创始人，基本上告诉他们必须与我们达成和解。在许多情况下，他们要求签署一份文件，承诺永远不再从事加密行业。而且，由于有不贬损条款，这些协议不能公开讨论。”他还声称这些监管机构会威胁创始人：“如果不同意这些条款，你就会坐牢。” 
+Krug称他最初不相信这些和解协议的存在，直到一些未具名的创始人向他展示了协议内容，确实包含“永不从事加密行业”和“不得对外讨论”的条款。
+- [IBIT昨日净流出1.9232亿美元](https://x.com/thepfund/status/1895305622142492774) - 📰 null - 【IBIT昨日净流出1.9232亿美元】金色财经报道，据Trader T监测，IBIT昨日净流出1.9232亿美元。
+- [BTC跌破80000美元]() - 📰 null - 【BTC跌破80000美元】金色财经报道，行情显示，BTC跌破80000美元，现报79945.13美元，24小时跌幅达到5.48%，行情波动较大，请做好风险控制。
+- [Tim Beiko：Holesky将通过slash解决升级故障，Sepolia测试网升级时间不变](https://x.com/TimBeiko/status/1895219970356949418) - 📰 null - 【Tim Beiko：Holesky将通过slash解决升级故障，Sepolia测试网升级时间不变】2月28日消息，以太坊基金会协议支持负责人Tim Beiko于X更新了关于Holesky测试网Pectra升级故障的信息。 
+Beiko表示，今晚将在Holesky测试网上执行大规模slash（罚没），以最终确定正确链上的区块，整个时长可能持续2-3周，直到遭受slash的验证者权重降至全网33%以下。 
+Beiko还提到Sepolia测试网的升级时间不会改变，以为主网升级提供更长的测试周期。下周的ACDC会议上将讨论主网升级相关问题，但不太可能得出具体日期。
+- [BNB跌破580美元]() - 📰 null - 【BNB跌破580美元】金色财经报道，行情显示，BNB跌破580美元，现报579.72美元，24小时跌幅达到5.34%，行情波动较大，请做好风险控制。
+- [Finisterra Labs完成375万美元种子轮融资，Haun Ventures领投](https://finisterra.ai/hello-world/) - 📰 null - 【Finisterra Labs完成375万美元种子轮融资，Haun Ventures领投】金色财经报道，据Finisterra Labs公告，公司完成375万美元种子轮融资，由Haun Ventures领投，Lightshift Capital参投，用于开发去中心化数据市场Baselight。
+- [AAVE跌破190美元]() - 📰 null - 【AAVE跌破190美元】金色财经报道，行情显示，AAVE跌破190美元，现报189.92美元，24小时跌幅达到8.13%，行情波动较大，请做好风险控制。
+- [BTC跌破81000美元]() - 📰 null - 【BTC跌破81000美元】金色财经报道，行情显示，BTC跌破81000美元，现报80975.44美元，24小时跌幅达到4.6%，行情波动较大，请做好风险控制。
+- [ETH突破2200美元]() - 📰 null - 【ETH突破2200美元】金色财经报道，行情显示，ETH突破2200美元，现报2200.63美元，24小时跌幅达到6.92%，行情波动较大，请做好风险控制。
+- [Base：Flashblocks技术已在Base Sepolia测试网上线](https://base.mirror.xyz/HwG1GQ5hoxz0OTOF_nQhNcVTk4Ae9cRIrcqVQ14N4-c) - 📰 null - 【Base：Flashblocks技术已在Base Sepolia测试网上线】金色财经报道，据Base官方公告，Base推出多项新技术，旨在提升链上交易速度、扩展性和用户体验。其中，Flashblocks技术已在Base Sepolia测试网上线，使区块确认时间从2秒缩短至200毫秒，成为最快的EVM链。 
+此外，Base还推出Base Appchains（L3链），为高流量应用提供专属区块空间，提高扩展性。同时，Base引入Smart Wallet Sub Accounts，优化用户体验，减少交易签名次数，并提供更安全的账户管理方式。Base计划在Q2将Flashblocks和Sub Accounts推向主网。
+- [某地址遭清算844.23枚WETH，约合196万美元](https://x.com/PeckShieldAlert/status/1895298072982495436) - 📰 null - 【某地址遭清算844.23枚WETH，约合196万美元】金色财经报道，据PeckShield监测，某地址在WETH跌破约2300美元时遭清算844.23枚WETH（约合196万美元）。
+- [某地址遭清算13.59枚WBTC，约合113万美元](https://x.com/PeckShieldAlert/status/1895296203597980075) - 📰 null - 【某地址遭清算13.59枚WBTC，约合113万美元】金色财经报道，据PeckShield监测，某地址在WBTC价格跌破84,000美元时遭清算13.59枚WBTC（约合113万美元）。
+- [去中心化交易平台Bluefin已收购InsideX](https://x.com/bluefinapp/status/1895081482026164385) - 📰 null - 【去中心化交易平台Bluefin已收购InsideX】2月28日消息，据Bluefin公告，其已收购Sui链上交易终端InsideX的多数股权。InsideX是Sui Network上的一体化交易终端，提供多功能交易工具。
+- [Bithumb将上线SHELL](https://feed.bithumb.com/notice/1647199) - 📰 null - 【Bithumb将上线SHELL】金色财经报道，据官方消息，韩国加密交易平台Bithumb将上线SHELL。
+- [某50倍杠杆做空ETH的鲸鱼地址已浮盈7200万美元](https://x.com/lookonchain/status/1895294650782732480) - 📰 null - 【某50倍杠杆做空ETH的鲸鱼地址已浮盈7200万美元】金色财经报道，据Lookonchain监测，随着ETH跌破2200美元，某个在HyperLiquid上以50倍杠杆做空ETH的鲸鱼目前未实现利润超过7200万美元，该空单的开仓均价为3218美元。
+- [CKB突破0.0075美元]() - 📰 null - 【CKB突破0.0075美元】金色财经报道，行情显示，模块化区块链网络Nervos Network（CKB）突破0.0075美元，现报价0.007523美元，24小时涨幅达到26.2%，行情波动较大，请做好风险控制。
+- [美国法官阻止了特朗普政府要求机构大规模解雇的呼吁]() - 📰 null - 【美国法官阻止了特朗普政府要求机构大规模解雇的呼吁】金色财经报道，当地时间周四，美国加州一名联邦法官暂时阻止了特朗普政府下令美国国防部和其他联邦机构大规模解雇数千名新聘用的雇员。美国旧金山地区法官William Alsup在听证会上表示，美国人事管理办公室无权命令联邦机构解雇任何员工，包括通常工作经验不足一年的试用员工。(金十)
+- [MetaMask发布全新路线图：推出智能合约账户、批量交易功能及MetaMask借记卡](https://www.coindesk.com/tech/2025/02/27/popular-crypto-wallet-metamask-unveils-new-roadmap?utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_medium=social&utm_content=editorial) - 📰 null - 【MetaMask发布全新路线图：推出智能合约账户、批量交易功能及MetaMask借记卡】金色财经报道，以太坊生态热门钱包MetaMask公布全新发展路线图，重点优化用户体验，并计划推出智能合约账户（CA）、ERC-5792批量交易功能以及MetaMask借记卡。 
+新功能包括引入智能合约钱包，相较于当前依赖私钥的外部账户（EOA），智能合约账户支持交易恢复机制，提高资产安全性。此外，MetaMask将支持ERC-5792批量交易，允许用户一键完成批准+交易，减少Gas费和操作步骤。 
+MetaMask团队还宣布，其MetaMask借记卡将于3月中旬在美国部分州推出，此前已在英国和欧盟地区试行。该卡支持用户直接使用钱包内的加密资产支付，并兼容Mastercard网络。 
+此外，MetaMask将新增比特币（BTC）和Solana（SOL）支持，使用户能够在同一钱包内管理多个区块链资产。团队表示，未来将持续优化多链集成，提升整体用户体验。
+- [Arthur Hayes：比特币或在周末跌破 8 万美元](https://x.com/CryptoHayes/status/1895289783792079143) - 📰 null - 【Arthur Hayes：比特币或在周末跌破 8 万美元】金色财经报道，BitMEX 联合创始人 Arthur Hayes 在社交媒体发文表示，“当前比特币正在创下更低的低点，今早我曾想增加风险敞口，但观察价格走势后，我认为我们可能还会迎来一波剧烈下跌，价格将跌破 8 万美元，这很可能发生在周末，之后市场将平静一段时间。做好准备吧！”
