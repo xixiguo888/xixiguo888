@@ -1,24 +1,38 @@
+- [亚特兰大联储预测显示第一季度经济将萎缩，可能会扰乱股市和比特币]() - 📰 null - 【亚特兰大联储预测显示第一季度经济将萎缩，可能会扰乱股市和比特币】金色财经报道，亚特兰大联储的 GDPNow 预测显示 2025 年第一季度经济将萎缩 -1.5%，这可能会扰乱股市和比特币。市场现在正在等待美联储对经济逆风的回应。  
+- 净出口大幅下降和消费支出减弱导致 GDPNow 模型的大幅修正为 -1.5%。 
+- 股票面临盈利风险；比特币和加密资产可能因美联储降息预期而波动。 
+- 美联储在通胀担忧（1 月份为 3%）和刺激增长的压力之间取得平衡，推迟了降息的明确性。
+- [以太坊Layer2网络总锁仓量345.1亿美元，7日下跌7.51%](https://l2beat.com/scaling/tvs) - 📰 null - 【以太坊Layer2网络总锁仓量345.1亿美元，7日下跌7.51%】金色财经报道，据L2BEAT数据显示，以太坊Layer2网络当前总锁仓量为345.1亿美元，7日下跌7.51%。锁仓量前五分别为：  
+Arbitrum One（131.5亿美元，7日下跌6.55%）； 
+ Base（118.8亿美元，7日下跌7.77%）； 
+OP Mainnet（46.5亿美元，7日下跌7.66%）； 
+ZKsync Era（8.49亿美元，7日下跌7.29%）； 
+Starkent（6.04亿美元，7日下跌8.21%）。
+- [印度突袭Gainbitcoin诈骗案中的60多个地点，缴获价值275万美元的加密货币](https://news.bitcoin.com/india-seizes-2-75m-in-crypto-after-raiding-60-locations-in-gainbitcoin-scam/) - 📰 null - 【印度突袭Gainbitcoin诈骗案中的60多个地点，缴获价值275万美元的加密货币】金色财经报道，据 News.bitcoin 报道，印度中央调查局 (CBI) 本周宣布，在针对 Gainbitcoin 诈骗案的全国性突袭行动中，其已缴获价值 2.394 亿印度卢比（约合 275 万美元）的加密货币及其他关键证据。 
+该机构于 2025 年 2 月 25 日至 26 日在印度 60 多个地点进行了搜查，目标是涉嫌洗钱欺诈行为的个人和实体。参与此次行动的主要城市包括德里、浦那、纳德德、科尔哈普尔、孟买、班加罗尔、昌迪加尔、莫哈里、詹西和胡布利。
+- [CZ：你可以在下跌期间减少仓位，心理稳定胜过一切市场波动](https://x.com/cz_binance/status/1895711850060456371) - 📰 null - 【CZ：你可以在下跌期间减少仓位，心理稳定胜过一切市场波动】金色财经报道，据 Binance 联合创始人赵长鹏（CZ）在 X 平台表示，“如果你在下跌期间受到冲击，请将仓位缩小到可以承受的水平。心理稳定胜过一切市场波动。”
+- [Lantern Finance完成100万美元Pre-Seed融资，Orange DAO等参投]() - 📰 null - 【Lantern Finance完成100万美元Pre-Seed融资，Orange DAO等参投】金色财经报道，加密借贷平台Lantern Finance宣布完成100万美元Pre-Seed融资，Orange DAO、Supermoon Ventures、Andover Ventures等参投，新资金将支持其开发下一代加密货币借贷平台，允许用户以数字资产为抵押借贷并将资金直接存入银行账户。
+- [马斯克批评Meme币并称其类似于“赌场”，警告勿将毕生积蓄投入其中](https://x.com/DegenerateNews/status/1895565070362689897) - 📰 null - 【马斯克批评Meme币并称其类似于“赌场”，警告勿将毕生积蓄投入其中】金色财经报道，据Degen News披露，马斯克在Joe Rogan Experience最新播客节目中严厉批评了Meme币，并将其称为类似于“赌场”的东西，他警告市场参与者不要将毕生积蓄投入到Meme币中。 与此同时，马斯克还谈到了狗狗币，他补充表示狗狗币起初也是作为一种Meme币，但更像是一种玩笑加密货币（joke cryptocurrency）涉及Meme和狗狗。Joe Rogan则认为Meme币热潮过于疯狂，尤其是人们将真金白银投入其中。
+- [昨日美国比特币现货ETF净流入9430万美元]() - 📰 null - 【昨日美国比特币现货ETF净流入9430万美元】金色财经报道，据Farside Investors监测，昨日美国比特币现货ETF净流入9430万美元。
+- [美国以太坊现货ETF昨日净流出4190万美元]() - 📰 null - 【美国以太坊现货ETF昨日净流出4190万美元】据 Farside Investors 监测，美国以太坊现货ETF昨日净流出 4190 万美元，其中贝莱德 ETHA 净流出 3020 万美元，灰度 ETHE 净流出 1170 万美元。
+- [BTC突破86000美元]() - 📰 null - 【BTC突破86000美元】金色财经报道，行情显示，BTC突破86000美元，现报86081.74美元，24小时涨幅达到7.23%，行情波动较大，请做好风险控制。
+- [过去12小时爆仓超1.25亿美元，主爆空单](https://www.coinglass.com/zh/LiquidationData) - 📰 null - 【过去12小时爆仓超1.25亿美元，主爆空单】金色财经报道，数据显示，过去12小时，全网爆仓金额达到1.25亿美元，其中多单爆仓金额约为4393.21万美元，空单爆仓金额约为8080.12万美元。
+- [Solana联创：比特币是一种保险，不是投资，能尽可能保证自身资产不会归零](https://x.com/aeyakovenko/status/1895470499242836271) - 📰 null - 【Solana联创：比特币是一种保险，不是投资，能尽可能保证自身资产不会归零】金色财经报道，Solana 联合创始人 Toly 在回复社区人士时表示，“比特币没有价值。往好了说，这是保险。根据我一生的经验，一个超级大国每年都有 1% 的可能性崩溃。对我来说，花 1% 的财富购买一些在那种环境下可能不会归零的资产是值得的。这不是一项投资，而是一种成本，而且不能保证它会奏效。比特币在 10 万美元和 1 万美元的情况下都能做到这一点。如果它有效，了 15 年前最初的创新之外，它与技术几乎没有关系。”
+- [金色午报 | 3月1日午间重要动态一览]() - 📰 null - 【金色午报 | 3月1日午间重要动态一览】7:00-12:00关键词：灰度、乌克兰、微软、白宫 
+1.过去7天USDC流通量约减少6亿枚； 
+2.灰度今晨通过多笔交易转出总计约2730枚比特币； 
+3.乌克兰正探索将加密货币税率定在5%至10%之间； 
+4.微软将于今年5月退出Skype，Skype将运营到5月5日； 
+5.法官驳回美国SEC针对Hex代币创始人Richard Heart的诉讼； 
+6.白宫：将于3月7日举行首届加密货币峰会 特朗普将出席并发表讲话。
+- [某鲸鱼地址过去1小时向Hyperliquid存入338万美元买入HYPE](https://twitter.com/lookonchain/status/1895684074100179069) - 📰 null - 【某鲸鱼地址过去1小时向Hyperliquid存入338万美元买入HYPE】金色财经报道，据 Lookonchain 监测，某鲸鱼地址在过去一小时内向 Hyperliquid 存入了 338 万美元的 USDC 以购买 HYPE，迄今为止已购买了 116,147 枚 HYPE（约合 236 万美元）。
+- [5个巨鲸地址过去12小时内取消质押552万枚SOL](https://x.com/lookonchain/status/1895680591796093389) - 📰 null - 【5个巨鲸地址过去12小时内取消质押552万枚SOL】据Lookonchain监测，5个巨鲸地址在过去12小时内取消质押552万枚SOL（约合8.1亿美元），其中354万枚（5.16亿美元）被转入CoinbasePrime。
+- [Sahara AI启动Sahara SIWA测试网，推进AI资产链上管理与执行](https://x.com/SaharaLabsAI/status/1895608051430015472) - 📰 null - 【Sahara AI启动Sahara SIWA测试网，推进AI资产链上管理与执行】金色财经报道，据官方公告，Sahara AI 启动 Sahara SIWA 测试网，全面推进 AI 资产的链上管理、许可、归属与执行。Sahara SIWA 采用 AI 资产注册协议、AI 许可协议、AI 所有权协议、AI 归属协议等核心机制，实现数据集、模型及 AI 流水线的不可篡改登记，并通过 NFT 确保资产溯源与所有权明确。
+- [灰度今晨通过多笔交易转出总计约2730枚比特币，价值高达2.25亿美元](https://intel.arkm.com/explorer/address/15oSzPcMRZtZ6mKS1ttTksYAm3HFknWomS) - 📰 null - 【灰度今晨通过多笔交易转出总计约2730枚比特币，价值高达2.25亿美元】金色财经报道，据Arkham监测数据显示，灰度今晨通过多笔交易转出总计2,730.846枚BTC，包括： 
+1、灰度比特币交易所交易基金GBTC向Coinbase Prime和2个未知地址转移1,319.671枚BTC，价值约合1.1亿美元； 
+2、灰度比特币迷你信托基金向2个未知地址转移1400枚BTC，价值约合1.15亿美元； 
+3、灰度数字大市值基金向Coinbase Prime转移11.175枚BTC，价值约合94万美元。
+- [数据：过去7天USDC流通量约减少6亿枚](https://www.circle.com/transparency) - 📰 null - 【数据：过去7天USDC流通量约减少6亿枚】金色财经报道，据官方数据，截至2月27日的7天内，Circle发行约37亿USDC，赎回约43亿USDC，流通量约减少6亿枚。USDC总流通量为555亿枚，储备量约为557亿美元，其中现金约59亿美元，Circle Reserve Fund约持有498亿美元。
 - [BTC突破85000美元]() - 📰 null - 【BTC突破85000美元】金色财经报道，行情显示，BTC突破85000美元，现报85009.67美元，24小时涨幅达到3.72%，行情波动较大，请做好风险控制。
 - [某鲸鱼以均价83,568.65美元做多1698枚BTC ，价值1.42亿美元](https://x.com/ai_9684xtpa/status/1895660918937444459) - 📰 null - 【某鲸鱼以均价83,568.65美元做多1698枚BTC ，价值1.42亿美元】金色财经报道，据链上分析师 @ai_9684xtpa 监测，鲸鱼 jasonleo 以均价 83,568.65 美元做多 1698 枚 BTC ，价值 1.42 亿美元。
 - [白宫：将于3月7日举行首届加密货币峰会 特朗普将出席并发表讲话](https://x.com/EleanorTerrett/status/1895652998774456737) - 📰 null - 【白宫：将于3月7日举行首届加密货币峰会 特朗普将出席并发表讲话】金色财经报道，据官方消息，特朗普总统将于 3 月 7 日出席首届白宫加密货币峰会并发表讲话。与会者将包括加密货币行业的知名创始人、首席执行官和投资者，以及总统数字资产工作组的成员。峰会将由白宫人工智能和加密沙皇大卫·塞克斯主持，并由工作组执行主任博·海恩斯管理。
-- [Story将为Odyssey验证者空投2000枚代币](https://x.com/StoryProtocol/status/1895579950528544801) - 📰 null - 【Story将为Odyssey验证者空投2000枚代币】金色财经报道，L1知识产权区块链Story发推表示将为200位Odyssey验证者空投2000枚代币。分发时间已于2月28日开始，验证者可立即解锁976枚代币，剩余1024枚代币将代表验证者进行为期90天的质押，之后可以选择继续质押或解押（预计下周分发）。
-- [Movement联创：已内部上线公共主网，安全流程走完后将正式上线](https://x.com/rushimanche/status/1895558167951786311) - 📰 null - 【Movement联创：已内部上线公共主网，安全流程走完后将正式上线】金色财经报道，据Movement Labs联合创始人Rushi Manche发推表示，已内部上线公共主网，等与桥接伙伴之间的Gnosis Safe安全流程走完，然后就可以正式发布上线。
-- [BIT Mining：截至去年底持有19.06枚BTC、1,246枚ETH、760万枚DOGE等加密资产](https://www.btcm.group/news-detail?id=144051) - 📰 null - 【BIT Mining：截至去年底持有19.06枚BTC、1,246枚ETH、760万枚DOGE等加密资产】金色财经报道，美国上市加密矿企BIT Mining公布2024全年财报，其中披露去年四季度挖矿产出为3.16枚BTC、1610万枚DOGE和4578枚LTC，来自其他加密货币（如ETC、BEL、JKC、PEP和LKY）的挖矿收入约20万美元；除去业务运营成本，截至2024年12月31日，拥有加密货币资产价值约960万美元，其中包括19.06枚BTC、1,246枚ETH、760万枚DOGE、90万枚USDT及其他各种加密货币，这些资产均来挖矿业务。
-- [微软将于今年5月退出Skype，Skype将运营到5月5日](https://mp.weixin.qq.com/s/kUfVF0K0rSzBl6MgJyWYrQ) - 📰 null - 【微软将于今年5月退出Skype，Skype将运营到5月5日】金色财经报道，据界面新闻报道，微软当地时间2月28日宣布，为了简化免费通信产品，适应客户需求，将于2025年5月退出Skype，专注于Microsoft Teams。 
-微软称，在过渡期内，用户可以免费迁移到Microsoft Teams，Teams用户可以与Skype用户通话和聊天，Skype用户也可以与Teams用户通话和聊天。此外，Skype用户还可以在过渡期内导出Skype数据。Skype将持续运营到2025年5月5日。
-- [去中心化AI协议Prime Intellect完成1500万美元融资，Founders Fund领投](https://www.primeintellect.ai/blog/fundraise) - 📰 null - 【去中心化AI协议Prime Intellect完成1500万美元融资，Founders Fund领投】金色财经报道，去中心化AI协议Prime Intellect发文宣布已完成1500万美元融资，Founders Fund领投，参投方包括Menlo Ventures、Andrej Karpathy（EurekaAI、Tesla、OpenAI）、Clem Delangue（Hugging Face）、Dylan Patel（SemiAnalysis）、Tri Dao（Together.AI）、Balaji Srinivasan（Network School）和Emad Mostaque（Stability AI）、Jake Medwell（8VC联合创始人）、Brendan McCord（Cosmos Institute）、Sandeep Nailwal（Polygon）等，该轮融资完成后使其募资总额超2000万美元。Prime Intellect正在构建面向计算和智能的点对点协议，致力于实现主权开源AI的集体共创、共建与共享。
-- [AAVE突破190美元]() - 📰 null - 【AAVE突破190美元】金色财经报道，行情显示，AAVE突破190美元，现报190.01美元，24小时跌幅达到2.39%，行情波动较大，请做好风险控制。
-- [乌克兰正探索将加密货币税率定在5%至10%之间](https://cryptoslate.com/ukraine-eyes-up-at-10-tax-on-crypto-as-legalization-gains-steam/) - 📰 null - 【乌克兰正探索将加密货币税率定在5%至10%之间】金色财经报道，据 Cryptoslate 援引当地媒体报道，乌克兰正在推进加密货币合法化进程，预计立法者将在未来几个月对法案进行投票。然而，数字资产如何征税仍存在不确定性。乌克兰正在探索将加密货币税率定在 5% 至 10% 之间。不过，官员们也在考虑采用标准税收框架，即征收 18% 的所得税加上 5% 的军事税，使加密收入的总税负达到 23%。最终决定仍在讨论中，预计立法将于 2025 年中期完成。
-- [昨日富达FBTC净流入1.76亿美元]() - 📰 null - 【昨日富达FBTC净流入1.76亿美元】金色财经报道，据FarsideInvestors监测，富达FBTC昨日净流入1.76亿美元。
-- [某用户因385天前签署的网络钓鱼损失超60万美元](https://x.com/realScamSniffer/status/1895647691696456153) - 📰 null - 【某用户因385天前签署的网络钓鱼损失超60万美元】金色财经报道，据 Scam Sniffer 监测，一用户因 385 天前签署的网络钓鱼批准损失了 607,202 美元。
-- [Solana上的memecoin每日发行量消退至2024年12月的水平](https://x.com/Cointelegraph/status/1895614685392596994) - 📰 null - 【Solana上的memecoin每日发行量消退至2024年12月的水平】金色财经报道，Solana上的memecoin每日发行量下降至40,000个，为2024年12月25日以来的最低水平。
-- [Bitlayer宣布与Base、Starknet、Arbitrum、Sonic和Plume Network达成战略合作](https://x.com/BitlayerLabs/status/1895632067381354654) - 📰 null - 【Bitlayer宣布与Base、Starknet、Arbitrum、Sonic和Plume Network达成战略合作】3月1日消息，引领BitVM落地实现的比特币二层生态团队Bitlayer宣布与包括Base、Starknet、Arbitrum、Sonic和Plume Network在内的五家领先公链和协议达成战略合作，推动BitVM Bridge的集成部署与生态协议整合，为用户提供安全且高度可扩展的BTC资产多链体验，并为Base、Starknet、Arbitrum、Sonic和Plume Network生态解锁来自比特币生态的万亿美元流动性。 
-BitVM Bridge是由Bitlayer开发的信任最小化BTC桥，具有安全性高、支持原生收益及可编程性等特点。目前，Bitlayer BitVM Bridge已上线测试网，支持用户登录测试体验Mint、Unmint和Reclaim等功能。未来，Bitlayer BitVM Bridge将开放与更多公链与DeFi协议的合作，携手释放比特币作为动态金融工具的潜力。
-- [Bybit黑客从昨日15时暂停了ETH的转出和清洗](https://x.com/EmberCN/status/1895641028272799939) - 📰 null - 【Bybit黑客从昨日15时暂停了ETH的转出和清洗】金色财经报道，Bybit黑客从昨天下午3点以来暂停了ETH的转出和清洗，所以他们在过去24小时只洗走了1.43万枚的ETH。 
-现在黑客地址里还有21.8万枚ETH。
-- [因运营未注册的加密货币ATM，伦敦一居民被判处4年监禁](https://www.fca.org.uk/news/press-releases/olumide-osunkoya-sentenced-4-years-illegally-operating-crypto-atm-network) - 📰 null - 【因运营未注册的加密货币ATM，伦敦一居民被判处4年监禁】金色财经报道，根据英国金融监管局（FCA）公告，2021年12月30日至2022年3月12日期间，伦敦居民Osunkoya通过其公司Gidi PlusLtd在28个不同地点运营未注册的加密货币ATM，涉案价值超250万英镑。最终被判处4年监禁。此次判决是英国首次因未注册的加密资产活动而被判刑。 
-此前，FCA与执法机构合作，在全国范围内打击非法加密ATM。2023年，FCA访问了38个地点并破坏了30台机器。英国CoinATMRadar上宣传的加密ATM数量已从2022年的80多台下降到2024年的零台。
-- [CZ：将为BNB Chain的“Meme流动性支持计划”每周获胜项目添加BNB流动性](https://x.com/cz_binance/status/1895548252587770057) - 📰 null - 【CZ：将为BNB Chain的“Meme流动性支持计划”每周获胜项目添加BNB流动性】金色财经报道，CZ 发推表示，将以个人身份向 BNB Chain 上 “Meme 流动性支持计划”的每周获胜项目添加上百 BNB 的流动性。
-- [过去12小时全网爆仓1.92亿美元，主爆空单]() - 📰 null - 【过去12小时全网爆仓1.92亿美元，主爆空单】金色财经报道，据 Coinglass 数据显示，随着比特币回升一度突破 85,000 美元，加密市场迎来回调行情，过去 12 小时全网爆仓 1.92 亿美元，其中多单爆仓 5466 万美元，空单爆仓 1.37 亿美元。
-- [昨日ARKB净流入1.937亿美元]() - 📰 null - 【昨日ARKB净流入1.937亿美元】金色财经报道，据FarsideInvestors监测，昨日ARK旗下比特币现货ETFARKB净流入1.937亿美元。
-- [法官驳回美国SEC针对Hex代币创始人Richard Heart的诉讼](https://www.bloomberg.com/news/articles/2025-02-28/judge-dismisses-sec-case-against-hex-crypto-founder-who-bought-555-carat-diamond?utm_campaign=socialflow-organic&utm_content=crypto&utm_medium=social&utm_source=twitter) - 📰 null - 【法官驳回美国SEC针对Hex代币创始人Richard Heart的诉讼】金色财经报道，据彭博社报道，美国纽约布鲁克林的一名联邦法官驳回了美国 SEC 对加密货币创始人 Richard Heart 提起的诉讼。该创始人被指控非法使用数百万美元的投资者资金购买 555 克拉黑钻石。SEC 指控 Heart 通通过出售未注册的证券筹集了超过 10 亿美元，其中包括 Hex 代币以及与其 PulseChain 区块链网络和 PulseX 去中心化金融平台相关的其他数字资产。该机构在最初的诉讼中表示， Heart 和 PulseChain 使用了至少 1210 万美元的投资者资金用于个人奢侈品购买，包括钻石、昂贵的手表和高端汽车。法官 Carol Amon 认为 SEC 未能提供足够的事实证明这些行为发生在美国，允许美国证券交易委员会修改其投诉，以“纠正发现的缺陷”。
