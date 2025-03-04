@@ -1,46 +1,34 @@
-- [中国对美部分进口商品加征关税]() - 📰 null - 【中国对美部分进口商品加征关税】金色财经报道，国务院关税税则委员会表示，自2025年3月10日起，对原产于美国的部分进口商品加征关税，对鸡肉、小麦、玉米、棉花加征15%关税，对高粱、大豆、猪肉、牛肉、水产品、水果、蔬菜、乳制品加征10%关税。(金十)
-- [澳大利亚政府暂无建立加密货币战略储备的计划](https://cointelegraph.com/news/australia-government-no-plans-crypto-reserve) - 📰 null - 【澳大利亚政府暂无建立加密货币战略储备的计划】金色财经报道，据 Cointelegraph 报道，澳大利亚现任政府表示目前没有计划建立加密货币战略储备。 
-澳大利亚助理财政部长兼金融服务部长史蒂芬·琼斯的发言人向 Cointelegraph 表示，阿尔巴尼斯政府正专注于监管数字资产平台，并正在制定适合数字资产的监管框架。 
-澳大利亚交易所 Swyftx 企业事务主管汤姆·马修斯认为，虽然加密储备的想法很受欢迎，但可能"充满复杂性"，并可能导致某些代币的集中风险。Kraken 澳大利亚董事总经理乔纳森·米勒则表示，加密货币已经确立了投资级资产的地位。
-- [Trust Wallet正式集成Sonic公链，拓展DeFi生态](https://x.com/trustwallet/status/1896535921455202750?s=46&t=BlLlVLynZhI8fpN2dHf5EA) - 📰 null - 【Trust Wallet正式集成Sonic公链，拓展DeFi生态】3月4日消息，Trust Wallet全面集成Sonic(S)公链，用户现可在钱包内便捷管理Sonic链上的资产，包括发送、接收和存储原生S代币及基于Sonic发行的代币。这一集成不仅优化了Trust Wallet的用户体验，也增强了Sonic生态的互操作性，拓展了其在DeFi领域的应用场景。 
-Sonic是新一代Layer-1区块链，由DeFi教父Andre Cronje及其团队打造，继承了Fantom生态的技术优势，具备高吞吐量、低交易成本，兼容EVM，并支持不到一秒的最终确认，TPS高达10,000，专为DeFi、链游及创新金融应用设计。 
-Trust Wallet作为全球领先的非托管钱包，支持140条公链，拥有2亿次下载量，此次集成不仅加速了Sonic生态的扩展，也巩固了Trust Wallet在加密市场的领先地位。通过这一合作，Trust Wallet用户将能够无缝体验Sonic生态中的DeFi协议及新型数字资产，进一步拓宽去中心化金融的应用边界。
-- [TON生态DEX Torch Finance完成150万美元Pre-Seed轮融资，TVM Ventures领投](https://x.com/TorchTon/status/1893918791521960372) - 📰 null - 【TON生态DEX Torch Finance完成150万美元Pre-Seed轮融资，TVM Ventures领投】金色财经报道，TON生态去中心化交易所Torch Finance宣布完成150万美元Pre-Seed轮融资，TVM Ventures领投，Curve Finance创始人Michael Egorov和一批战略投资人参投，新资金拟支持其在TON生态提供机构级稳定币流动性和PayFi服务Torch Pay。
-- [ETH跌破2100美元]() - 📰 null - 【ETH跌破2100美元】金色财经报道，行情显示，ETH跌破2100美元，现报2099.51美元，24小时跌幅达到14.12%，行情波动较大，请做好风险控制。
-- [Bybit CEO：黑客盗取的资金，77%仍可追踪，20%已无法追踪，3%已被冻结](https://x.com/benbybit/status/1896798476945744010) - 📰 null - 【Bybit CEO：黑客盗取的资金，77%仍可追踪，20%已无法追踪，3%已被冻结】金色财经报道，据BybitC EO Ben Zhou披露，黑客盗取的资金总额14亿美元（约50万枚ETH），其中77%仍可追踪，20%已无法追踪，3%已被冻结。 
-具体分析显示，83%（417,348枚ETH，约10亿美元）已被转换为比特币，分散在6,954个钱包中。黑客主要通过THORChain将ETH转为BTC，约占72%（361,255枚ETH）。另有16%的资金（79,655枚ETH）通过ExCH平台流失，8%的资金（40,233枚ETH）通过OKXWeb3代理转移，其中约5%无法追踪。 
-目前已有11方协助冻结资金，其中Mantle、Paraswap和ZachXBT贡献最大，共支付217.9万USDT赏金。
-- [FTX/Alameda今日解除质押303万枚SOL，其中24,799枚SOL已转入Binance](https://x.com/lookonchain/status/1896795294819549250) - 📰 null - 【FTX/Alameda今日解除质押303万枚SOL，其中24,799枚SOL已转入Binance】金色财经报道，据Lookonchain监测，FTX/Alameda今日解除质押的303万枚SOL（约4.313亿美元），其中的24799枚SOL（338万美元）已转入Binance。
-- [Binance HODLer空投上线GoPlus Security (GPS)]() - 📰 null - 【Binance HODLer空投上线GoPlus Security (GPS)】金色财经报道，据官方公告，Binance HODLer空投现已上线第11期项目-GoPlus Security(GPS)。2025年02月19日08:00至2025年02月25日07:59（东八区时间）期间，使用BNB申购保本赚币(定期和/或活期)或链上赚币产品的用户，将获得空投分配。 
-Binance将于2025年03月04日21:00（东八区时间）上市GPS，并开通对USDT、USDC、BNB、FDUSD和TRY的交易对，适用种子标签交易规则。GPS充值通道将于2小时后开放。
-- [Cardano创始人喊话马斯克：想让狗狗币成为X的标准代币，我有Bitcoin 2路线图](https://x.com/IOHK_Charles/status/1896788956618125787) - 📰 null - 【Cardano创始人喊话马斯克：想让狗狗币成为X的标准代币，我有Bitcoin 2路线图】金色财经报道，Cardano创始人Charles Hoskinson在X平台发文喊话马斯克，他表示：“马斯克，你想修复狗狗币，并让其成为X平台上的标准货币吗？我有几年前写的Bitcoin 2路线图。” 
-此前消息，特朗普宣布拟将包括Cardano（ADA）在内的五种加密货币纳入美国加密战略储备。
-- [疑似Longling Capital钱包地址从币安提取2000枚ETH并存入Aave](https://x.com/OnchainDataNerd/status/1896788455382008269) - 📰 null - 【疑似Longling Capital钱包地址从币安提取2000枚ETH并存入Aave】金色财经报道，据链上分析师The Data Nerd监测，一个疑似为Longling Capital的钱包在3小时前从币安交易所提取了2,000枚ETH（约410万美元），并将其存入Aave协议。该钱包目前在Aave上总共存入了73,302枚以太坊（约1.51亿美元），同时借出了4,740万USDT和1,622万USDC。
-- [过去90天内市值前100加密货币中涨幅超越BTC的仅15种](https://coinmarketcap.com/zh/charts/altcoin-season-index/) - 📰 null - 【过去90天内市值前100加密货币中涨幅超越BTC的仅15种】3月4日消息，Coinmarketcap数据显示，山寨币季节指数（Altcoin Season Index）现报15，较昨日下跌1点。该指数显示在过去90天内，市值前100加密货币中仅15个项目涨幅超越比特币。
-- [Mike Alfred：华尔街正试图压低比特币以对Strategy和其他杠杆代理施压](https://x.com/mikealfred/status/1896770785500708919) - 📰 null - 【Mike Alfred：华尔街正试图压低比特币以对Strategy和其他杠杆代理施压】金色财经报道，Alpine Fox LP创始人兼管理合伙人Mike Alfred发推称，一些迹象表明，华尔街的大型参与者正试图压低比特币，以对Strategy和其他杠杆代理施加压力，这似乎很有效。如果他们能够将比特币价格压低到足够低的程度，将摧毁这些公司用来增加比特币的简单资本市场机制。在这种环境下，以远低于市场价格的方式有机地生成新比特币要比使用债务或股权在公开市场上购买比特币来获得“收益”要好得多，市场似乎正在慢慢意识到这种趋势。
-- [昨日现货以太坊ETF净流出1210万美元]() - 📰 null - 【昨日现货以太坊ETF净流出1210万美元】金色财经报道，据Farside Investors监测数据，昨日现货以太坊ETF净流出1210万美元。
-- [数据：在PEPE、BEAM等代币上损失千万美元的巨鲸转向购买BTC和MKR](https://x.com/OnchainLens/status/1896779398776512797) - 📰 null - 【数据：在PEPE、BEAM等代币上损失千万美元的巨鲸转向购买BTC和MKR】金色财经报道，据OnchainLens监测，在PEPE和BEAM中损失了1414万美元后，某鲸鱼在ONDO上再次损失了85.3万美元。 
-此后其花费533万枚DAI以84,150美元的价格购买63.42枚WBTC，使用价值153万美元的wstETH以1,416美元的价格购买1,087.32枚MKR。
-- [Adam Cochran 求证“特朗普零资本利得税”被拉黑，实则无法执行](https://x.com/adamscochran/status/1896774720093290877) - 📰 null - 【Adam Cochran 求证“特朗普零资本利得税”被拉黑，实则无法执行】金色财经报道，Mike Alfred 在 X 平台发文表示：“特朗普政府准备在周五的加密峰会上宣布对加密货币交易实行零资本利得税。” 
-对此 Cinneamhain Ventures 合伙人 Adam Cochran 表示：“ Mike 因为我反复核实他的事实而拉黑了我，但这并不能阻止我。总统不能单方面修改税法。只有国会才可以。这是宪法明确规定的少数国会权力之一。即使总统宣布该决定，或试图为其签署行政令，也不会使其成为法律。这并不比我宣称自己是一块纸杯蛋糕更有效。”
-- [Gemini联创：比特币是唯一符合价值储备资产标准的资产](https://x.com/cameron/status/1896595317291708598) - 📰 null - 【Gemini联创：比特币是唯一符合价值储备资产标准的资产】金色财经报道，Gemini 联合创始人 Cameron Winklevoss 在社交媒体发文表示，对加密货币战略储备计划感到兴奋，但对正在考虑的数字资产感到惊讶。比特币是唯一符合价值储备资产标准的资产，也许以太坊也符合。数字黄金和数字石油。这与美国的实物储备金（如肯塔基州的金库、纽约联邦储备银行等）和石油（战略石油储备）相似。未来其他资产可能也能达到这一标准，但这是一个非常高的门槛。 
-话虽如此，如果政府通过扣押、没收等方式获得其他数字资产（例如，XRP、ADA 或 SOL），我认为这种类型的储存是可以接受的，这与在公开市场上主动收购这些资产是截然不同的。
-- [某以太坊ICO时期巨鲸2小时前转移6022枚ETH至以太坊基金会地址](https://x.com/ai_9684xtpa/status/1896772696849195320) - 📰 null - 【某以太坊ICO时期巨鲸2小时前转移6022枚ETH至以太坊基金会地址】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，以太坊ICO巨鲸地址在两小时前向与以太坊基金会相关的地址（0x22d...01246）转移6022枚ETH，价值约1234万美元。 
-该巨鲸在以太坊ICO阶段以0.31美元成本获得56万枚ETH，并曾将资金分散至4个地址。过去两年，该巨鲸累计向当前地址转移105,522枚ETH，主要用于LRT协议质押。 
-目前，该巨鲸仍持有28万枚ETH，分布于三个地址： 
-多签地址0x207...6a7f7：持有139,678枚ETH 
-多签地址0xe08...5ca18：持有55,000枚ETH 
-地址0x22d...01246（以太坊基金会相关地址）：持有85,622枚ETH 
-链上数据显示，该地址曾于2022年5月收到以太坊基金会转账的400万枚DAI。
-- [Binance将移除ATA/BTC、CATI/FDUSD等杠杆交易对](https://www.binance.com/zh-CN/support/announcement/487e8345ab8146bba30ce251e2f9f974) - 📰 null - 【Binance将移除ATA/BTC、CATI/FDUSD等杠杆交易对】金色财经报道，据官方公告，Binance将于2025年03月11日14:00（东八区时间）移除以下杠杆交易对： 
-·全仓杠杆：CATI/FDUSD 
-·逐仓杠杆：ATA/BTC、CATI/FDUSD、XAI/FDUSD
-- [金色午报 | 3月4日午间重要动态一览]() - 📰 null - 【金色午报 | 3月4日午间重要动态一览】7:00-12:00关键词：Bybit、Hedera ETF、FTX/Alameda 
-1.CME 将于 3 月 17 日推出 SOL 期货； 
-2.市场预计2025年美国将进一步降息76个基点； 
-3.Bybit被盗49.9万枚ETH已全部清洗完毕，全程历时10天； 
-4.FTX/Alameda解除质押4.313亿美元SOL并转至多个地址； 
-5.萨尔瓦多14亿美元国际货币基金组织贷款协议包含比特币监管条件； 
-6.市场消息：特朗普或将在加密货币峰会上宣布取消加密货币销售资本利得税； 
-7.纳斯达克已向美国SEC提交19b-4申请文件，以寻求批准上市和交易灰度Hedera ETF。
-- [Argo Blockchain签署4000万美元融资协议，拟支持其进行并购交易](https://x.com/ArgoBlockchain/status/1896458496587313283) - 📰 null - 【Argo Blockchain签署4000万美元融资协议，拟支持其进行并购交易】金色财经报道，纳斯达克上市比特币矿企Argo Blockchain宣布已签署了一份融资规模达4000万美元的优先担保可转换贷款协议，初始融资额为1500万美元，剩余的2500万美元资金则将在未来18个月完成，三家跨国机构参投（目前未披露具体机构名称信息）并将加入Argo董事会，新资金将用于扩大其Baie Comeau的挖矿设施，增强资产负债表并进行一系列潜在的并购交易。
+- [金色晚报 | 3月4日晚间重要动态一览]() - 📰 null - 【金色晚报 | 3月4日晚间重要动态一览】12:00-21:00关键词：Flowdesk、Metaplanet、Aave、Infrared 
+1.美国财长贝森特：我们决心降低利率； 
+2.越南计划在 3 月底前推出数字资产法律框架； 
+3.加密做市商 Flowdesk 完成 1.02 亿美元融资； 
+4.Metaplanet完成约8700万美元融资以增持比特币； 
+5.Aave 新提案拟更新代币经济模型并启动回购计划； 
+6.Infrared完成1600万美元A轮融资，Framework Ventures领投； 
+7.Ark Invest周一购买38,865股Coinbase股票并抛售价值820万美元ARKB； 
+8.FTX/Alameda今日解除质押303万枚SOL，其中24,799枚SOL已转入Binance。
+- [Infrared完成1600万美元A轮融资，Framework Ventures领投](https://www.coindesk.com/business/2025/03/04/infrared-raises-usd16m-to-roll-out-first-liquidity-staking-protocol-on-berachain) - 📰 null - 【Infrared完成1600万美元A轮融资，Framework Ventures领投】金色财经报道，Berachain 链上流动性证明（PoL）质押协议 Infrared 宣布完成 1600 万美元 A 轮融资，Framework Ventures 领投，截至目前其融资总额达到 1875 万美元。
+- [AAVE突破190美元]() - 📰 null - 【AAVE突破190美元】金色财经报道，行情显示，AAVE突破190美元，现报190.08美元，24小时跌幅达到9.4%，行情波动较大，请做好风险控制。
+- [Aave 新提案拟更新代币经济模型并启动回购计划](https://governance.aave.com/t/arfc-aavenomics-implementation-part-one/21248) - 📰 null - 【Aave 新提案拟更新代币经济模型并启动回购计划】金色财经报道，据 Aave 治理提案， Aave 社区提出最新代币经济学更新，旨在优化 AAVE 代币经济，包括启动 AAVE 回购、重新分配协议超额收入、终止 LEND 代币迁移，并升级二级流动性管理。该提案若通过，将进入 Snapshot 投票阶段，并由 Aave Finance Committee 负责执行。 
+提案建议将 GHO 收入的 50% 用于生成 Anti-GHO ，按照 80% 分配给 StkAAVE 持有者，20% 分配给 StkBPT 持有者的比例进行分配。目前 GHO 供应量为 1.86 亿，年化收益率为 6.45%，年收入约 1200 万美元，因此每年将为 Aave 质押者生成 600 万 Anti-GHO。
+- [美国财长贝森特：我们决心降低利率]() - 📰 null - 【美国财长贝森特：我们决心降低利率】金色财经报道，美国财长贝森特周二在接受福克斯采访时表示，特朗普政府“决心降低利率”。在谈及关税和股市时，贝森特提到，美国政府关注的是中期情况。他强调，“华尔街做得很好，华尔街可以继续表现得很好……我们将重新平衡经济”。他还表示，美国正在就加拿大和墨西哥的关税进行“过渡”。
+- [币安理财、一键买币、闪兑、杠杆上线 GoPlus Security（GPS）]() - 📰 null - 【币安理财、一键买币、闪兑、杠杆上线 GoPlus Security（GPS）】金色财经报道，据币安官方公告，GoPlus Security（GPS）将于 3 月 4 日起陆续上线币安多个交易服务。根据公告，GPS 保本赚币活期产品将于 3 月 4 日 21:00（北京时间）在币安保本赚币平台开放申购；币安杠杆将于同日 21:20 新增 GPS 可借资产，以及 GPS/USDT、GPS/USDC、GPS/FDUSD 全仓、逐仓杠杆交易对。
+- [永续合约KiloEx将于3月17日进行TGE](https://x.com/KiloEx_perp/status/1896573827993460797) - 📰 null - 【永续合约KiloEx将于3月17日进行TGE】3月4日消息，由 YZi Labs 投资的永续合约 DEX KiloEx 官方发布推文，称其 TGE 将于 3 月 17 日进行。
+- [交易员增加美联储降息的押注，市场现在完全定价2025年将降息三次]() - 📰 null - 【交易员增加美联储降息的押注，市场现在完全定价2025年将降息三次】金色财经报道，交易员增加美联储降息的押注，市场现在完全定价2025年将降息三次。
+- [消息人士：普京同意助特朗普斡旋伊朗核谈判](https://xnews.jin10.com/details/165697) - 📰 null - 【消息人士：普京同意助特朗普斡旋伊朗核谈判】金色财经报道，克宫表示：“俄方认为美伊应通过谈判解决所有问题”，莫斯科“愿尽一切努力促成此事”。据知情人士透露，俄罗斯同意协助特朗普政府就伊朗核计划及伊朗支持地区反美武装等问题进行沟通。
+- [过去两周已有超2.5万枚比特币从交易平台被提出](https://x.com/ali_charts/status/1896893638036115701) - 📰 null - 【过去两周已有超2.5万枚比特币从交易平台被提出】金色财经报道，据链上分析师 @ali_charts 监测，过去两周已有超 2.5 万枚比特币从交易平台被提出。
+- [Du Jun：近一年加仓以太坊浮亏超 2000 万美元，继续看好以太坊生态](https://x.com/DujunX/status/1896890894630179134) - 📰 null - 【Du Jun：近一年加仓以太坊浮亏超 2000 万美元，继续看好以太坊生态】金色财经报道，ABCDE 创始人 Du Jun 发文表示，“今天，以太坊又回到了 2000 美元，算了下账，最近一年加仓以太坊，账面亏损已经超过 2000 万美元了。实在买不动了，钱还是拿来孵化项目吧，就算失败还可以收获经验和团队。不会割肉卖，继续看好以太坊生态以及对行业的价值，考虑卖点其他资产加仓降低以太坊持仓成本。”
+- [美元指数DXY失守106关口，为去年12月9日以来首次]() - 📰 null - 【美元指数DXY失守106关口，为去年12月9日以来首次】金色财经报道，美元指数DXY失守106关口，为去年12月9日以来首次，日内跌幅0.51%。
+- [越南计划在 3 月底前推出数字资产法律框架](https://decrypt.co/308582/vietnam-to-establish-legal-framework-for-digital-assets) - 📰 null - 【越南计划在 3 月底前推出数字资产法律框架】金色财经报道，越南计划在 3 月底前推出数字资产的法律框架，作为促进经济增长的更广泛努力的一部分。根据当地媒体的报道，此举是在总理范明政签署了第 05 号指令后提出的，该指令设定了一个到 2025 年实现 8% 或更高国家增长目标。 
+财政部（MOF）和越南国家银行（SBV）已被指定在本月底前完成并提交关于监管加密货币的提案。预计拟议的法律框架将为加密业务提供更大的清晰度，使其能够在安全的监管环境中获得资金并开展运营。 
+目前，越南的加密交易处于法律灰色地带，因为该国尚未正式承认这一资产类别。尽管如此，加密交易仍然普遍存在，许多企业选择在新加坡和美国等海外地区注册，以规避本地法规。
+- [Infini 创始人：有人冒充本人实施诈骗，提醒社区警惕](https://x.com/Christianeth/status/1896884713576599857) - 📰 null - 【Infini 创始人：有人冒充本人实施诈骗，提醒社区警惕】3月4日消息，Infini 创始人 @Christianeth 在 X 平台发文称：“最近有很多人冒充我诈骗，请大家千万不要相信任何需要给钱的事情。” 
+此前消息，Infini 创始人向黑客链上留言称，希望达成白帽协议，可保留 20% 盗取资产作为赏金。
+- [OKX将上线 GPSUSDT永续合约](https://www.okx.com/zh-hans/help/okx-to-list-perpetual-futures-for-gps-crypto) - 📰 null - 【OKX将上线 GPSUSDT永续合约】据官方公告，OKX将于 2025 年 3 月 4 日下午 8:00 (UTC+8) 在网页端、App 端及 API 正式上线 GPSUSDT永续合约。据悉，GoPlus正在构建一个开放、无需许可、用户驱动的模块化Web3用户安全层，旨在与任何区块链网络集成。
+- [THORChain 因 Bybit 黑客事件产生约 550 万美元费用收入](https://cointelegraph.com/news/thorchain-5m-fees-5-4-b-volume-bybit-hack) - 📰 null - 【THORChain 因 Bybit 黑客事件产生约 550 万美元费用收入】金色财经报道，跨链资产交换协议 THORChain 自 Bybit 遭遇 14 亿美元黑客攻击以来，已处理超过 54 亿美元的交易量，为平台带来约 550 万美元的收入。据 THORChain 浏览器数据显示，在 Bybit 被黑后的单日内，THORChain 处理的交换交易量就超过了 10 亿美元，仅当天就产生了超过 55.4 万美元的总收入。
+- [Tether 旗下资产代币化平台 Hadron 现已支持比特币 L2 网络 Liquid](https://x.com/paoloardoino/status/1896876964843278362) - 📰 null - 【Tether 旗下资产代币化平台 Hadron 现已支持比特币 L2 网络 Liquid】金色财经报道，据 Tether 首席执行官 Paolo Ardoino 披露，Tether 旗下的数字资产代币化平台 Hadron 现已支持在 Liquid 比特币二层网络上进行资产通证化。
+- [Mintoak以350万美元收购CBDC初创公司Digiledge](https://www.reuters.com/markets/deals/paypal-backed-mintoak-strikes-indias-first-e-rupee-related-deal-worth-35-million-2025-03-03/) - 📰 null - 【Mintoak以350万美元收购CBDC初创公司Digiledge】金色财经报道，印度金融科技公司Mintoak近日以约350万美元收购了专注于央行数字货币领域的初创公司Digiledge。这是印度CBDC领域首个并购案例，Mintoak此前获得了PayPal和HDFC银行的投资支持。 
+通过此次收购，Mintoak将整合Digiledge在CBDC和账单支付方面的专业技术，为其合作银行（包括HDFC银行、Axis银行和印度国家银行）提供更全面的数字卢比支付解决方案。
+- [Ark Invest周一购买38,865股Coinbase股票并抛售价值820万美元ARKB](https://www.theblock.co/post/344423/ark-invest-buys-8-million-of-coinbase-shares-again-sells-similar-amount-of-own-bitcoin-etf-amid-trump-slump?utm_source=twitter&utm_medium=social) - 📰 null - 【Ark Invest周一购买38,865股Coinbase股票并抛售价值820万美元ARKB】金色财经报道，Ark Invest周一购买了38,865股Coinbase股票，价值800万美元，并抛售了价值820万美元现货比特币ETF(ARKB)。该公司自10月份以来首次购买了价值870万美元的COIN，并自9月份以来首次出售了价值860万美元的ARKB。 
+根据该公司的披露，截至3月3日，COIN目前是其ARKW基金中第六大持股，权重为6%，价值约为9910万美元。根据The Block的数据仪表板，Coinbase目前的估值为383亿美元。
+- [QCP：特朗普关税计划加剧了市场焦虑情绪和加密资产下跌]() - 📰 null - 【QCP：特朗普关税计划加剧了市场焦虑情绪和加密资产下跌】金色财经报道，QCP Capital 于其官方频道发文表示，特朗普重新推动对加拿大、墨西哥和中国加征关税的举措加剧了加密资产的下跌，强化了投资者对贸易紧张局势升级的担忧。XRP、SOL 和 ADA 代币意外被纳入储备计划引发加密社区分歧，市场对该项目优势的初期乐观情绪已转向更深入的审视。目前质疑主要集中在该计划可能与 DOGE 成本削减措施存在矛盾，以及储备资金来源不透明等问题。
