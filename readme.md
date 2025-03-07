@@ -1,24 +1,34 @@
-- [标普500指数短暂跌破200日移动平均线，为2023年11月1日以来首次]() - 📰 null - 【标普500指数短暂跌破200日移动平均线，为2023年11月1日以来首次】金色财经报道，标普500指数短暂跌破200日移动平均线，为2023年11月1日以来首次，现跌1.8%。
-- [BNB跌破590美元]() - 📰 null - 【BNB跌破590美元】金色财经报道，行情显示，BNB跌破590美元，现报589.92美元，24小时跌幅达到0.42%，行情波动较大，请做好风险控制。
-- [美国股市延续下跌，标普500指数跌幅扩大至2%]() - 📰 null - 【美国股市延续下跌，标普500指数跌幅扩大至2%】金色财经报道，美国股市延续下跌，标普500指数跌幅扩大至2%，纳指跌2.5%，道指跌1.3%。
-- [知情人士：特朗普已准备好有条件敲定乌美矿产协议](https://flash.jin10.com/detail/20250307013409955800) - 📰 null - 【知情人士：特朗普已准备好有条件敲定乌美矿产协议】金色财经报道，当地时间3月6日，知情人士表示，美国总统特朗普已准备好敲定乌美矿产协议，条件是乌克兰领导人同意切实可行的停火途径并与俄罗斯进行会谈。
-- [ETH跌破2200美元]() - 📰 null - 【ETH跌破2200美元】金色财经报道，行情显示，ETH跌破2200美元，现报2197.94美元，24小时跌幅达到0.86%，行情波动较大，请做好风险控制。
-- [国际货币基金组织发言人：贸易不再是过去全球增长的引擎](https://flash.jin10.com/detail/20250307000528528800) - 📰 null - 【国际货币基金组织发言人：贸易不再是过去全球增长的引擎】金色财经报道，国际货币基金组织发言人表示，贸易不再是过去全球增长的引擎，并且一直在下降。
-- [特朗普：豁免墨西哥美墨加协定下所有商品关税至4月2日](https://flash.jin10.com/detail/20250307003111250800) - 📰 null - 【特朗普：豁免墨西哥美墨加协定下所有商品关税至4月2日】金色财经报道，美国总统特朗普在社交媒体上表示，在与墨西哥总统辛鲍姆会谈后，已同意墨西哥无需为任何美墨加协定下的商品支付关税，有效期至4月2日。
-- [巴西金融科技独角兽Meliuz完成首次比特币收购，均价90,296美元](https://cointelegraph.com/news/brazil-unicorn-meliuz-bitcoin-treasury-strategy) - 📰 null - 【巴西金融科技独角兽Meliuz完成首次比特币收购，均价90,296美元】金色财经报道，巴西金融科技独角兽 Meliuz 宣布公司已开始购买比特币，作为新的财务管理策略的一部分，加入了越来越多持有加密资产的传统金融企业行列。Meliuz 主要提供现金返还及金融科技服务，公司董事会已批准将最多 10% 的现金储备分配至比特币（BTC），标志着其正式进入加密货币市场。Meliuz 已完成首次比特币收购，购买了 45.72 枚 BTC，总价值约 410 万美元，平均买入价格为 90,296 美元。
-- [美SEC代理主席：SEC加密货币特别工作组早该成立](https://www.foxbusiness.com/video/6369673063112) - 📰 null - 【美SEC代理主席：SEC加密货币特别工作组早该成立】金色财经报道，据 FOX Business 消息，美国证券交易委员会（SEC）代理主席 Mark Uyeda 表示，SEC 加密货币特别工作组早该成立。
-- [Bitwise通过Maple Finance完成首笔机构级DeFi投资](https://x.com/maplefinance/status/1897648536579424284) - 📰 null - 【Bitwise通过Maple Finance完成首笔机构级DeFi投资】金色财经报道，Maple Finance 宣布，加密资产管理公司 Bitwise Asset Management 已通过 Maple 完成其首笔机构级 DeFi 投资。
-- [代币化资产管理公司Superstate在美SEC注册为转账代理商](https://www.coindesk.com/business/2025/03/06/tokenized-asset-manager-superstate-registers-transfer-agent-with-sec?utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_medium=social) - 📰 null - 【代币化资产管理公司Superstate在美SEC注册为转账代理商】金色财经报道，Superstate 宣布，其数字转账代理公司 Superstate Services LLC 已在美国证券交易委员会（SEC）注册，这是旨在将代币化资产与现有金融监管框架连接的举措。 
-转账代理商帮助发行商管理股东记录、处理交易和分配股息。随着证券越来越多地转向链上，数字转账代理商在维持合规性和治理方面发挥着关键作用。Superstate Services 将使用区块链集成的记录保持系统，实时追踪所有权。智能合约驱动的白名单将确保只有经过批准的投资者能够购买代币化股份。 
-该公司在声明中表示：“通过这一创新方法，Superstate 推动了代币化证券合规，同时融入现有的监管体系。”
-- [若比特币跌破8.7万美元，主流CEX累计多单清算强度将达2.16亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币跌破8.7万美元，主流CEX累计多单清算强度将达2.16亿】金色财经报道，若比特币跌破 8.7 万美元，主流 CEX 累计多单清算强度将达 2.16 亿。反之，若比特币突破 9.1 万美元，主流 CEX 累计空单清算强度将达 1.9 亿。
-- [分析师：宏观经济不确定性导致的避险情绪可能让加密货币近期承压](https://www.coindesk.com/daybook-us/2025/03/06/crypto-daybook-americas-bitcoin-traders-on-edge-ahead-of-trump-s-make-of-break-crypto-summit) - 📰 null - 【分析师：宏观经济不确定性导致的避险情绪可能让加密货币近期承压】金色财经报道，加密宏观分析师 Noelle Acheson 表示，“美国 10 年期国债收益率与 3 个月期国债收益率之间的利差再次转为负值，导致收益率曲线倒挂，暗示美国经济可能陷入衰退，即美国国内生产总值（GDP）连续两个季度萎缩。这通常不是一个好信号。 
-我们仍在应对不同叙事之间的较量——一方面，由于宏观经济的不确定性，避险情绪可能会让比特币（BTC）和其他加密资产在一段时间内承压。但另一方面，‘避风港’的叙事正在增强，白宫方面传来的利好消息进一步凸显了官方态度的惊人转变。”
-- [摩根大通：美国战略加密货币储备获批的可能性低于50%](https://www.theblock.co/post/344999/jpmorgan-xrp-sol-ada-us-crypto-reserve?utm_source=twitter&utm_medium=social) - 📰 null - 【摩根大通：美国战略加密货币储备获批的可能性低于50%】金色财经报道，根据摩根大通的说法，美国战略加密货币储备获得批准的可能性不到 50%，像 XRP、Solana (SOL) 和 Cardano (ADA) 这样的代币很可能不会被纳入其中。 
-摩根大通全球市场战略董事总经理 Nikolaos Panigirtzoglou 在接受采访时表示：“我们认为美国战略加密货币储备的批准并非最可能的情景（假设需要国会批准）。因此，我们认为其可能性不到 50%。”
-- [目前RED空投领取数量已超250万枚，空投超过1000枚的地址只有53个](https://x.com/ZFWChrisCy/status/1897690282545893596) - 📰 null - 【目前RED空投领取数量已超250万枚，空投超过1000枚的地址只有53个】金色财经报道，目前已有超过 250 万枚$RED 被领取，大部分地址空投数量都在 200-500 个之间，RED 空投超过 1000 个的地址只有 53 个。
-- [BTC跌破89000美元]() - 📰 null - 【BTC跌破89000美元】金色财经报道，行情显示，BTC跌破89000美元，现报88989.97美元，24小时跌幅达到0.29%，行情波动较大，请做好风险控制。
-- [Aave：在Sonic上线后链上TVL已达7000万美元](https://x.com/aave/status/1897689163031364053) - 📰 null - 【Aave：在Sonic上线后链上TVL已达7000万美元】金色财经报道，Aave在X平台披露数据称，周一在Sonic区块链上线，截止到本周四，链上总锁仓量（TVL）已达到7000万美元。Sonic Labs回应称，TVL增长速度相当于每小时100万美元。
-- [加密交易公司Auros Global或是RED做市商之一](https://x.com/ZFWChrisCy/status/1897675659490591078) - 📰 null - 【加密交易公司Auros Global或是RED做市商之一】金色财经报道，据 ZFW Chain Hub 表示，Auros Global 应该是 RED 做市商之一，24 小时前一共收到项目方多签地址转入的 150 万枚 RED，并且陆续将 RED 充入 Binance、Kucoin、Kraken 等交易平台。
-- [Arkham：贝莱德在两周后重启购买比特币，当前持仓价值达519亿美元](https://x.com/arkham/status/1897689666087784567) - 📰 null - 【Arkham：贝莱德在两周后重启购买比特币，当前持仓价值达519亿美元】金色财经报道，据Arkham监测，贝莱德在两周后重启购买比特币，链上数据显示贝莱德增持约432枚BTC，当前贝莱德持有572658枚BTC，持仓价值达519亿美元。
-- [汇丰：欧洲央行渐进降息或提振风险资产](https://flash.jin10.com/detail/20250306231354885800) - 📰 null - 【汇丰：欧洲央行渐进降息或提振风险资产】金色财经报道，汇丰资产管理公司宏观和投资策略师Hussain Mehdi在一份报告中表示，预计欧洲央行在周四降息25个基点后，将继续逐步降息。Mehdi称，欧洲央行缓慢的降息步伐可能会提振欧洲风险资产的表现。“在美国例外主义逐渐消退的背景下，我们认为包括欧元区股市的优异表现在内的全球股市涨势将在2025年进一步延续。”
+- [某巨鲸通过在Hyperliquid上的多个空头仓位获得约2600万美元的浮盈](https://x.com/OnchainLens/status/1897842810814185535) - 📰 null - 【某巨鲸通过在Hyperliquid上的多个空头仓位获得约2600万美元的浮盈】金色财经报道，据Onchain Lens监测，一巨鲸通过在Hyperliquid上的多个空头仓位获得了约2600万美元的浮盈。该巨鲸在HyperLiquid上总共持有48个永续合约仓位：其中47个为空头，1个为多头。在这些仓位中，仅有3个处于亏损状态，而其余的45个仓位均高度盈利。此外，该巨鲸还在现货市场上持有23,947枚HYPE代币（价值386,000美元）和361,250枚其他代币（价值31,800美元）。
+- [Galaxy Digital研究主管：美国政府可投入战略储备的BTC最多为8.8万枚](https://x.com/intangiblecoins/status/1897837885086138829) - 📰 null - 【Galaxy Digital研究主管：美国政府可投入战略储备的BTC最多为8.8万枚】金色财经报道，Galaxy Digital研究主管Alex Thorn于X发文表示：“目前可供美国政府用作战略储备的比特币余额最多为88000枚BTC，仅占当前政府持有量的43%。这是因为美国政府目前持有的约198000枚BTC中，112000枚BTC将返还给Bitfinex。” 
+注：美国政府持有的大量BTC来自于当年对Bitfinex窃案的侦破行动，原案发生于2016年8月，被盗时约损失12万枚BTC，Bitfinex正尝试收回该部分BTC，预计后续仍需冗长的法律流程。
+- [美联储博斯蒂克：在夏季之前可能需要保持利率不变](https://xnews.jin10.com/details/166206) - 📰 null - 【美联储博斯蒂克：在夏季之前可能需要保持利率不变】金色财经报道，2027年联邦公开市场委员会（FOMC）票委、亚特兰大联储主席博斯蒂克（Raphael Bostic）表示，美国总统特朗普的政策和其他因素对经济的影响可能还需要几个月才能明朗，这表明官员们可能会在至少春末之前保持利率稳定。 
+博斯蒂克重申，特朗普的政策变化可能以不同的方式影响经济，这增加了经济的不确定性。他说，特朗普政府的新政策正将美国经济置于“难以置信的波动之中”，他认为美联储不太可能在春末或夏季之前有足够的清晰度来决定利率走势。
+- [BNB Chain宣布和HackQuest合作推出BNB Greenfield和opBNB Learning Track](https://x.com/bnbchaindevs/status/1897708859956887653?s=46&t=ClMYyvx6sOMuSWG83tAnPA) - 📰 null - 【BNB Chain宣布和HackQuest合作推出BNB Greenfield和opBNB Learning Track】金色财经报道，BNB Chain在官方X宣布和开发者平台HackQuest联手推出BNB Greenfield和opBNB Learning Track。内容涵盖Greenfield存储，AI agent开发，opBNB开发，Solidity语法等内容。完成课程后，学习者将获得由BNB Chain和HackQuest联合颁发的学习证书。 
+此外，HackQuest将作为BNB Chain开发者教育合作伙伴，共同推动BNB Chain生态的开发者社区建设并支持BNB Chain生态的开发者黑客松。
+- [链上投资平台Plural收购FINRA成员Northstar Financial](https://www.prnewswire.com/news-releases/plural-expands-regulatory-capabilities-with-broker-dealer-acquisition-302394365.html) - 📰 null - 【链上投资平台Plural收购FINRA成员Northstar Financial】金色财经报道，链上投资平台Plural收购金融业监管局（FINRA）成员Northstar Financial Services LP，收购交易后该公司更名为Plural Brokerage，以支持将经纪自营商尽职调查嵌入其代币化流程中，并且允许证券发行方直接在Plural平台上融资，简化资金筹集流程，该公司计划今年实现规模1亿美元的代币化募资。
+- [韩国FSC主席：将加速推进第二阶段加密货币法案的起草工作](https://www.yna.co.kr/view/AKR20250307066200001?input=1195m) - 📰 null - 【韩国FSC主席：将加速推进第二阶段加密货币法案的起草工作】金色财经报道，据韩联社报道，韩国金融当局将加快虚拟资产法案第二阶段的起草进程，该法案将涉及企业监管和代币流通披露等问题。韩国金融服务委员会（FSC）主席金炳焕在国会会议上表示，随着特朗普政府近期在美国的行动，全球加密货币监管格局预计将迅速变化。他强调，韩国有必要跟上这些全球发展的步伐。
+- [美国财政部长和商务部长被授权获取更多比特币](https://x.com/davidsacks47/status/1897802280738734236) - 📰 null - 【美国财政部长和商务部长被授权获取更多比特币】金色财经报道，北京时间2025年3月7日特朗普正式签署比特币战略储备行政令。据白宫AI与加密货币主管David Sacks透露的行政令内容，美国财政部长和商务部长被授权制定预算中性的策略来获取更多的比特币，前提是这些策略不会增加美国纳税人成本。
+- [Polkadot 2.0进展：弹性扩展将在Q2全面推出，标志着Polkadot 2.0的交付](https://mp.weixin.qq.com/s/0o6mB1N-ttNi3M9_c4n55Q) - 📰 null - 【Polkadot 2.0进展：弹性扩展将在Q2全面推出，标志着Polkadot 2.0的交付】金色财经报道，PolkaWorld分享了Polkadot 2.0当前的进展、弹性扩展的价值以及时间线等，目前在2.0中，异步支持和Agile Coretime已经上线，预计在2025年第二季度，弹性扩展将在Polkadot上全面推出，这也将标志着Polkadot 2.0（即Cloud）的交付。据悉，Polkadot 2.0是Polkadot网络的下一代升级版本，其目标是提升整个区块链生态的可扩展性、灵活性和效率。
+- [21Shares向美SEC提交其现货Polkadot ETF S-1申请的更新版本](https://www.sec.gov/Archives/edgar/data/2054247/000121390025021169/0001213900-25-021169-index.htm) - 📰 null - 【21Shares向美SEC提交其现货Polkadot ETF S-1申请的更新版本】金色财经报道，据美SEC官网信息，21Shares向美SEC提交了其现货Polkadot ETF S-1申请的更新版本。
+- [美众议员Nick Begich：正与参议员Cynthia Lummis推进关于比特币的重要计划，预计将于下周二发布](https://x.com/RepNickBegich/status/1897823217957716133) - 📰 null - 【美众议员Nick Begich：正与参议员Cynthia Lummis推进关于比特币的重要计划，预计将于下周二发布】3月7日消息，美众议员Nick Begich在社交平台发文表示，“是时候让美国成为第一个比特币超级大国了。正与美国加密友好参议员Cynthia Lummis一起推进关于比特币的重要计划。敬请期待下周二的发布。”
+- [市场消息：CANARY SUI ETF在特拉华州注册](https://t.me/BWEnews/13831) - 📰 null - 【市场消息：CANARY SUI ETF在特拉华州注册】金色财经报道，据市场消息，CANARY SUI ETF在特拉华州注册。
+- [去中心化AI网络Fortytwo230万美元Pre-Seed轮融资](https://x.com/fortytwonetwork/status/1897668792442139054) - 📰 null - 【去中心化AI网络Fortytwo230万美元Pre-Seed轮融资】3月7日消息，据官方消息，去中心化AI网络Fortytwo宣布完成230万美元Pre-Seed轮融资，Big Brain Holdings领投，CMT Digital、Escape Velocity、Chorus One和mentatgroup参投。 
+据介绍，Fortytwo是一个去中心化的AI网络，通过连接运行小型AI模型的消费设备来利用群体智能。这种方法无需依赖中心化数据中心即可实现可扩展且经济高效的AI推理。通过在个人电脑上安装节点，用户可以为全球AI基础设施做出贡献，每个附加节点都会增强网络的智能。
+- [孙宇晨增持25万枚OM和2500枚AAVE](https://x.com/spotonchain/status/1897832427164430794) - 📰 null - 【孙宇晨增持25万枚OM和2500枚AAVE】金色财经报道，据链上分析师Spot On Chain（@spotonchain）监测，孙宇晨通过Poloniex多重签名钱包接收了25万枚OM代币（价值约172万美元）和2500枚AAVE代币（价值约53.5万美元）。
+- [Michael Saylor：美国目前拥有世界上最大的战略比特币储备](https://x.com/saylor/status/1897831909503160403) - 📰 null - 【Michael Saylor：美国目前拥有世界上最大的战略比特币储备】金色财经报道，Strategy（原 MicroStrategy）创始人 Michael Saylor 发文表示，美国目前拥有世界上最大的战略比特币储备。
+- [Mint将于今日14:00开放空投申领，首轮将解锁50%的空投代币](https://x.com/mint_blockchain/status/1897668632005722567) - 📰 null - 【Mint将于今日14:00开放空投申领，首轮将解锁50%的空投代币】金色财经报道，据Mint区块链官方披露，其社区空投将于今日14:00开放领取，并公布了详细的解锁时间表。 
+首轮将解锁50%的空投代币，剩余部分将分两次释放：25%将于2025年4月15日解锁，最后25%将于2025年5月31日解锁。与社区三个月的解锁期相比，Mint核心开发者设定了四年的归属期，早期投资者和贡献者则为2.5年。
+- [AAVE跌破210美元]() - 📰 null - 【AAVE跌破210美元】金色财经报道，行情显示，AAVE跌破210美元，现报209.98美元，24小时跌幅达到8.48%，行情波动较大，请做好风险控制。
+- [纽交所上市公司Cango：截至2024年底比特币挖矿业务创造8950万美元收入](https://www.prnewswire.com/news-releases/cango-inc-reports-fourth-quarter-and-full-year-2024-unaudited-financial-results-302394553.html) - 📰 null - 【纽交所上市公司Cango：截至2024年底比特币挖矿业务创造8950万美元收入】金色财经报道，纽交所上市汽车交易服务公司Cango发布2024四季度和全年未经审计的财务业绩报告，其中披露截至2024年底的挖矿产出为933.8枚比特币，其比特币挖矿业务创造8950万美元收入，而汽车交易相关收入为210万美元，总收入同比增长超过400%。
+- [Bitwise研究主管：美国建立战略比特币储备将推动其他国家购买比特币](https://x.com/RasterlyRock/status/1897821084734648522) - 📰 null - 【Bitwise研究主管：美国建立战略比特币储备将推动其他国家购买比特币】金色财经报道，Bitwise 研究主管 Ryan Rasmussen 发文称，最终目标从来不是美国政府购买所有的比特币。美国战略比特币储备意味着： 
+· 其他国家将购买比特币； 
+· 财富管理者没有借口； 
+· 金融机构没有借口； 
+· 养老金/捐赠基金没有借口； 
+· 对美国出售比特币的担忧消失； 
+· 美国可能会购买更多比特币； 
+· 各州购买比特币的可能性增加； 
+· 政府禁用比特币的可能性为零。 
+这将改变一切，放长远来看。
+- [Movement或将于3月10日上线主网](https://x.com/movementlabsxyz/status/1897753951627624496) - 📰 null - 【Movement或将于3月10日上线主网】金色财经报道，Movement发布视频预告，或将于3月10日上线主网。
+- [日本拟将加密货币归类为新资产，而非证券监管](https://x.com/WatanabeSota/status/1897568492569932094) - 📰 null - 【日本拟将加密货币归类为新资产，而非证券监管】金色财经报道，Astar Network创始人Sota Watanabe在X平台透露：“在日本，加密货币可能不会被视为证券，而是根据《金融工具与交易法》的新框架被视为一种新的资产类别进行监管。如果该法案获得通过，对加密货币行业来说将是一个胜利。日本政府一直在与日本的行业领袖进行磋商，这是双方合作的一个积极成果。”
