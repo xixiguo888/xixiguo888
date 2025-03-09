@@ -1,37 +1,33 @@
-- [Web3数据和AI公司Validation Cloud完成1500万美元A轮融资](https://cointelegraph.com/press-releases/validation-cloud-raises-15m-series-a-to-bring-data-x-ai-to-web3) - 📰 null - 【Web3数据和AI公司Validation Cloud完成1500万美元A轮融资】金色财经报道，Web3数据和AI公司Validation Cloud宣布完成1500万美元A轮融资，True Global Ventures领投，Cadenza、Blockchain Founders Fund、Bloccelerate、Blockwall、Side Door Ventures、Metamatic、GS Futures和AP Capital参投。据悉，该公司的质押资产已超过15亿美元，其客户包括Chainlink、Aptos、Consensys、Stellar和Hedera等，新资金将支持其在区块链智能、AI数据等领域拓展。
-- [2月份BNB Chain应用收入达1650万美元，创历史新高](https://x.com/Cointelegraph/status/1898524247179383279) - 📰 null - 【2月份BNB Chain应用收入达1650万美元，创历史新高】金色财经报道，据 CryptoRank 数据显示，BNB Chain 在 2 月份的应用收入达到了创纪录的 1650 万美元，Sonic 达 380 万美元。以太坊和 Solana 出现明显下跌，分别下跌了 30％和 50％以上。
-- [在Cocoro上亏损最多的地址2小时前清仓卖出，损失31.7万美元](https://x.com/EmberCN/status/1898539791404401146) - 📰 null - 【在Cocoro上亏损最多的地址2小时前清仓卖出，损失31.7万美元】金色财经报道，据 EmberCN 监测，Doge 原型柴犬主人的新宠物 cocoro Meme 币 Cocoro12 个小时完成一轮涨跌，某地址昨晚在最高点附近买入 Cocoro，2 小时前割肉卖出，成为目前在 Cocoro 上实现亏损最多的地址。 
-该鲸鱼在昨晚以 0.0836 美元均价花费 53.4 万美元购进 640 万枚 Cocoro，2 小时前以 0.0338 美元的价格割肉，亏损 31.7 万美元（-59%）。
-- [Kanye West：正在向Ansem学习比特币相关知识](https://x.com/kanyewest/status/1898530661926928622) - 📰 null - 【Kanye West：正在向Ansem学习比特币相关知识】金色财经报道，知名说唱歌手 Kanye West 在 X 平台发文称，其正在向加密 KOL Ansem 学习比特币相关知识（Ye learning bit coin from Ansem），并附带了一段音频记录。
-- [过去7天NFT交易额环比上涨15.27%至1.215亿美元](https://crypto.news/nft-sales-surge-to-121m-cryptopunks-sales-jump-500/) - 📰 null - 【过去7天NFT交易额环比上涨15.27%至1.215亿美元】金色财经报道，CryptoSlam 数据显示，本周 NFT 交易额已增长至 1.215 亿美元，较前一周增长 15.27%。NFT 购买者数量暴跌 94.39%，至 25,641 人；NFT 卖家数量下降 91.84% 至 25,717 人；NFT 交易笔数增长 5.21%，至 1,615,020 笔。
-- [1inch遭黑客攻击后大部分资金已归还，双方达成漏洞赏金协议](https://blog.decurity.io/yul-calldata-corruption-1inch-postmortem-a7ea7a53bfd9) - 📰 null - 【1inch遭黑客攻击后大部分资金已归还，双方达成漏洞赏金协议】金色财经报道，根据 Decurity 的事后报告，1inch 在与黑客协商后，遭攻击窃取的 500 万美元资金已被大部分归还，黑客保留了一部分作为漏洞赏金。此次攻击源于 Fusion v1 智能合约的漏洞，受影响的主要是使用过时版本的解析器，普通用户资金未受影响。 
-据 Odaily 此前报道，1inch 于 3 月 5 日发现 Fusion v1 智能合约存在漏洞，黑客利用该漏洞窃取资金。1inch 已呼吁相关解析器立即进行审计并更新合约，以防止类似事件再次发生。
-- [Mark Cuban：联邦削减开支或引发经济下滑](https://fortune.com/2025/03/08/mark-cuban-recession-warning-doge-layoffs-jobs-report-economy-trump-tariffs/) - 📰 null - 【Mark Cuban：联邦削减开支或引发经济下滑】金色财经报道，Mark Cuban近日对美国经济前景表示担忧，警告称联邦政府大幅削减开支可能对整体经济产生连锁反应，最终导致经济衰退。
-- [分析师：特朗普缩减政府规模计划或冲击旅游业，引发经济连锁反应](https://flash.jin10.com/detail/20250308225523449800) - 📰 null - 【分析师：特朗普缩减政府规模计划或冲击旅游业，引发经济连锁反应】金色财经报道，Melius Research分析师在一份报告中指出，特朗普政府推动缩减政府规模可能对旅游业以及更广泛的美国经济造成负面影响。联合航空最近表示，自11月美国总统选举以来，其政府业务已经减弱。然而，分析师也指出，航空公司对政府业务的依赖相对较小，政府业务仅占联合航空收入的不到2%，而达美航空则约为1%。“问题是，政府业务的疲软是否会波及到经济的其他部分，”分析师写道。“目前难以判断，但显然人们对这种影响如何被控制存在越来越大的担忧 。”
-- [金色晨讯 | 3月9日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 3月9日隔夜重要动态一览】21:00-7:00关键词：巴西、Michael Saylor、Calacanis 
-1.白宫：美国将成为世界比特币超级大国； 
-2.巴西邮政服务寻求区块链和人工智能解决方案； 
-3.行业人士：美国政策或推动全球机构加速拥抱加密货币； 
-4.Michael Saylor在白宫峰会上分享“100万亿美元”加密战略； 
-5.美国和欧洲当局扣押了 Garantex 的域名并冻结了其 2600 万美元资产； 
-6.Calacanis 建议对所有美国加密货币交易征收 0.01% 的税，被Sacks拒绝。
-- [德克萨斯州创建了比特币储备基金，美国历史上第一个国营加密基金](https://x.com/BTCTN/status/1898501764858433580) - 📰 null - 【德克萨斯州创建了比特币储备基金，美国历史上第一个国营加密基金】金色财经报道，德克萨斯州参议院通过了SB 21，创建了德克萨斯州比特币储备基金——美国历史上第一个国营加密基金。 
-副州长丹·帕特里克称这是一大进步，符合特朗普总统让美国成为全球加密货币领导者的愿景。德克萨斯州正在引领这一进程。 
-该储备将持有BTC和其他顶级加密货币，市值门槛为 5000 亿美元以上。一个新的咨询委员会将监督其发展。这不仅仅是一个国家举措——这是正在形成的国家加密货币政策。
-- [Kraken的母公司PaywardInc.计划于2026年进行IPO](https://x.com/BitcoinNewsCom/status/1898478837639627019) - 📰 null - 【Kraken的母公司PaywardInc.计划于2026年进行IPO】金色财经报道，随着美国加密货币监管的放宽，Kraken的母公司PaywardInc.计划于2026年进行IPO。如果成功，Kraken将成为继Coinbase之后第二家上市的美国加密货币交易所。一位发言人强调，通过公开储备证明可以提高财务透明度，这标志着SEC过去对未注册活动和资产混合的指控发生了转变，这些指控此前阻碍了其IPO计划。
-- [MichaelSaylor在白宫峰会上分享“100万亿美元”加密战略](https://x.com/CoinDesk/status/1898473066331574424) - 📰 null - 【MichaelSaylor在白宫峰会上分享“100万亿美元”加密战略】金色财经报道，塞勒表示，通过建立明确的数字资产监管框架，美国可以在未来十年释放高达100万亿美元的经济价值。 
-他将数字资产分为四类：数字代币、数字证券、数字货币和数字商品，比特币就属于这一类。 
-塞勒建议，到2035年，美国应该获得比特币总供应量的5%-25%，从而到2045年创造16至81万亿美元的收入。
-- [萨尔瓦多自3月1日以来仍购买了超过13比特币](https://cointelegraph.com/news/el-salvador-acquires-13-btc-past-week-despite-imf-deal) - 📰 null - 【萨尔瓦多自3月1日以来仍购买了超过13比特币】金色财经报道，尽管国际货币基金组织(IMF)向该国公共部门施压，要求其停止积累这种去中心化的价值存储资产，但萨尔瓦多自3月1日以来仍购买了13比特币。 
-据萨尔瓦多比特币办公室称，该国比特币库共持有超过6,105BTC，按当前价格价值超过5.27亿美元。
-- [BTC跌破86000美元]() - 📰 null - 【BTC跌破86000美元】金色财经报道，行情显示，BTC跌破86000美元，现报85991.68美元，24小时跌幅达到0.01%，行情波动较大，请做好风险控制。
-- [ETH跌破2200美元]() - 📰 null - 【ETH跌破2200美元】金色财经报道，行情显示，ETH跌破2200美元，现报2199.66美元，24小时涨幅达到3.16%，行情波动较大，请做好风险控制。
-- [白宫：美国将成为世界比特币超级大国，黄金时代已经开始]() - 📰 null - 【白宫：美国将成为世界比特币超级大国，黄金时代已经开始】BlockBeats 消息，3 月 9 日，美国白宫官方 X 账号发文称，「美国将成为世界上的比特币超级大国。美国的黄金时代已经开始！」[原文链接]farcaster评论
-- [美国和欧洲当局扣押了 Garantex 的域名并冻结了其 2600 万美元资产](https://x.com/BitcoinNewsCom/status/1898448636629151787) - 📰 null - 【美国和欧洲当局扣押了 Garantex 的域名并冻结了其 2600 万美元资产】金色财经报道，美国和欧洲当局扣押了 Garantex 的域名并冻结了其 2600 万美元资产，指控这家与俄罗斯有关联的加密货币交易所为网络犯罪分子和受制裁实体洗钱数十亿美元。 
-两名高管 Aleksej Besciokov 和 Aleksandr Mira Serda 因洗钱阴谋被起诉，Besciokov 还面临额外的制裁违规行为。据称，Garantex 处理了价值 960 亿美元的加密货币交易，包括勒索软件和暗网毒品销售。
-- [Nexo 与 Sphere 合作改变拉丁美洲的跨境支付](https://invezz.com/news/2025/03/08/latam-crypto-update-colombia-plans-crypto-regulations-nexo-and-sphere-to-reduce-cross-border-payment-times/) - 📰 null - 【Nexo 与 Sphere 合作改变拉丁美洲的跨境支付】金色财经报道，数字资产平台 Nexo 宣布与可扩展区块链解决方案提供商 Sphere 建立战略合作伙伴关系，推动拉丁美洲跨境支付格局的发展。 
-该合作旨在提供快速、低成本且符合法规的解决方案。 
-据Cointelegraph报道，此次合作旨在帮助更加便捷地进行国际商业支付。
-- [Arkham为超过10万粉丝的 X 用户添加标签，以追踪加密货币领域的KOL](https://www.theblock.co/post/345343/arkham-adds-tag-for-x-users-with-over-100000-followers-to-track-key-opinion-leaders-in-crypto?utm_source=twitter&utm_medium=social) - 📰 null - 【Arkham为超过10万粉丝的 X 用户添加标签，以追踪加密货币领域的KOL】金色财经报道，加密数据跟踪平台 Arkham 周六早上在社交媒体平台 X 上发布消息称，该公司为拥有超过 10 万粉丝的 X 用户添加了新标签。该标签允许用户跟踪那些被标记为加密领域“关键意见领袖”的人的钱包。
-- [巴西邮政服务寻求区块链和人工智能解决方案](https://www.coindesk.com/tech/2025/03/08/brazil-s-postal-service-seeks-blockchain-ai-solutions-for-operations?utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_source=twitter) - 📰 null - 【巴西邮政服务寻求区块链和人工智能解决方案】金色财经报道，巴西国有邮政服务公司 Empresa Brasileira de Correios e Telégrafos 已启动预选流程，招募区块链和人工智能 (AI) 领域的公司和专家，以为其物流和运营管理开发解决方案。 
-该公司宣布：“我们希望促进一种协作和动态的过程，为我们的业务、运营和招聘挑战寻找人工智能和区块链解决方案。”
+- [代币化美国国债总价值突破40亿美元](https://news.bitcoin.com/tokenized-us-treasuries-shatter-4b-mark-as-institutional-demand-soars/) - 📰 null - 【代币化美国国债总价值突破40亿美元】金色财经报道，据 RWA.xyz 数据显示，代币化的美国国债价值飙升至 40.7 亿美元，在过去 103 天中扩大 15.7 亿美元。Hashnote 短期收益币 ( USYC ) 市值最大，其市值从去年 11 月 26 日至今之间飙升了 4.612 亿美元，从 4.9507 亿美元飙升至 9.5627 亿美元。
+- [LM Funding公布新一期财报披露持有165.8枚BTC](https://www.globenewswire.com/news-release/2025/03/06/3038120/0/en/LM-Funding-America-Announces-February-2025-Production-and-Operational-Update.html) - 📰 null - 【LM Funding公布新一期财报披露持有165.8枚BTC】金色财经报道，纳斯达克上市的加密挖矿和技术型专业金融公司LM Funding公布截至2025年2月28日的新一期生产和运营更新报告，其中披露该公司于2月份的挖矿产出为8.1枚BTC，当前持有165.8枚BTC。
+- [投行削减欧洲央行降息幅度预期](https://flash.jin10.com/detail/20250309122014693800) - 📰 null - 【投行削减欧洲央行降息幅度预期】金色财经报道，未来一周投资者将继续思考德国大规模财政刺激计划的影响，以及德国计划增加国防开支的影响。德国大规模财政刺激计划导致德国国债收益率大幅上升。投资者特别感兴趣的是，财政扩张将如何影响欧洲的经济增长和通胀，以及这将如何影响欧洲央行的货币政策。在欧洲央行本周将存款利率下调25个基点至2.50%之后，Vanguard和Alliance Bernstein已经预计欧洲央行的降息幅度会更小。Vanguard目前预计今年只会再降息一次，而Alliance Bernstein对欧洲央行2025年底政策利率的修正预期为2%，高于此前预期的1.75%。
+- [特朗普否认马斯克和鲁比奥不和](https://flash.jin10.com/detail/20250309080755150800) - 📰 null - 【特朗普否认马斯克和鲁比奥不和】金色财经报道，当地时间3月8日，美国总统特朗普在其社交平台“真实社交”上发文，否认了美国国务卿鲁比奥和埃隆·马斯克因大规模削减政府开支而发生冲突的报道。特朗普表示，马斯克和鲁比奥“关系很好”，除此之外的任何报道都是假新闻。
+- [就业数据疲弱，加拿大可以轻松再降息25个基点](https://flash.jin10.com/detail/20250309122843124800) - 📰 null - 【就业数据疲弱，加拿大可以轻松再降息25个基点】金色财经报道，加拿大是美国总统特朗普的主要关税目标之一，这使得加拿大的数据和事件比以往更受关注。加拿大央行将于周三宣布利率决定。由于加拿大2月份就业数据疲弱（甚至在关税实施之前），降息的可能性似乎越来越大。Desjardins Group的经济学家在一份报告中表示：“甚至在关税实施之前，招聘速度就放缓了，这让加拿大央行可以轻松地再降息25个基点。”
+- [某HYPE巨鲸再度花费60万美元增持，其HYPE持仓浮亏139万美元](https://x.com/OnchainLens/status/1898594668751036810) - 📰 null - 【某HYPE巨鲸再度花费60万美元增持，其HYPE持仓浮亏139万美元】金色财经报道，某鲸鱼向 HyperLiquid 转入 60 万美元 USDC 以增持 HYPE。该鲸鱼此前花费 701 万美元买入 362,813 枚 HYPE，买入均价 19.34 美元，已浮亏 139 万美元。 
+鲸鱼其他持仓包括 HyperLiquid 生态代币 PURR（浮亏 7.5 万美元）、 FUN（浮亏 2.6 万美元）和 PIP（浮亏 1.5 万美元）。
+- [Sui开发公司Mysten Labs宣布收购游戏开发平台Parasol](https://www.mystenlabs.com/blog/mysten-labs-acquires-web3-gaming-infrastructure-startup-parasol) - 📰 null - 【Sui开发公司Mysten Labs宣布收购游戏开发平台Parasol】金色财经报道，据官方消息，Sui背后开发公司Mysten Labs宣布收购游戏开发平台Parasol，具体收购金额暂未披露。
+- [Spirit Blockchain Capital完成新一轮融资，拟将Staked SOL Index基金转为ETP](https://www.globenewswire.com/news-release/2025/03/07/3038962/0/en/Spirit-Blockchain-Capital-and-Astralane-Unveil-Strategic-Partnership-to-Launch-Staked-SOL-Index-Expanding-Multi-Chain-Treasury-Management-Solutions.html) - 📰 null - 【Spirit Blockchain Capital完成新一轮融资，拟将Staked SOL Index基金转为ETP】金色财经报道，加拿大数字资产管理及投资公司Spirit Blockchain Capital宣布完成新一轮融资，Audace Labs参投，具体金额暂未披露。此外，Spirit Blockchain Capital还表示将会把旗下Solana质押指数基金Staked SOL Index转为交易所交易产品 (ETP)。
+- [a16z支持的AI开发商Anysphere正寻求新一轮融资](https://www.techinasia.com/news/a16z-backed-ai-developer-firm-in-talks-for-10b-valuation) - 📰 null - 【a16z支持的AI开发商Anysphere正寻求新一轮融资】金色财经报道，由 a16z 支持的 AI 驱动代码编辑器 Cursor 开发商 Anysphere Inc. 正寻求筹集数亿美元资金，以推动公司估值达到 100 亿美元，今年 1 月 Anysphere 估值 25 亿美元。Anysphere 在过去 12 个月内年度经常性收入已超过 1 亿美元，此前已从包括 Andreessen Horowitz 在内的投资者处获得约 1.75 亿美元风险投资。
+- [Jupiter即将将推出全新验证系统，增强社区参与](https://x.com/JupiterExchange/status/1898580987183013987) - 📰 null - 【Jupiter即将将推出全新验证系统，增强社区参与】金色财经报道， Jupiter 宣布即将推出全新的验证系统，以提升资产验证的精准度和效率。该系统将在数据驱动的算法框架上构建，并引入社区输入，使其在搜索和验证过程中发挥关键作用。官方表示，该系统已取得显著进展，详细信息将很快公布。同时，Jupiter 团队强调，随着新币种数量激增，验证工作挑战巨大，呼吁社区耐心等待。
+- [某鲸鱼8小时内买入8265枚stETH，价值1833万美元](https://x.com/ai_9684xtpa/status/1898579694607564920) - 📰 null - 【某鲸鱼8小时内买入8265枚stETH，价值1833万美元】金色财经报道，据链上数据分析师 ai_9684xtpa 监测，某鲸鱼 8 小时内以均价 2218 美元买入了 8265 枚 stETH，累计价值约 1833 万美元，目前 stETH 已成为该地址持仓占比最高的代币。值得注意的是，曾被追踪的 ETH 高胜率波段鲸鱼多次向该地址提供资金，该地址或与其存在关联。
+- [《富爸爸穷爸爸》作者：股市崩盘危机已到来，建议投资比特币、黄金和白银](https://x.com/theRealKiyosaki/status/1898587119263879202) - 📰 null - 【《富爸爸穷爸爸》作者：股市崩盘危机已到来，建议投资比特币、黄金和白银】金色财经报道，《富爸爸穷爸爸》作者 Robert Kiyosaki 在 X 平台发文表示，其在 2014 年出版的《富爸爸预言》中就预测最大的股市崩盘即将到来，但不幸的是，危机已经到来，这可能会毁掉数百万婴儿潮一代的未来。 
+而个人要打败这个腐败和犯罪的货币庞氏骗局，只有从投资和持有真正的黄金、白银和比特币开始。但其强调自己永远不会购买黄金、白银或比特币 ETF，认为 ETF 和美元、美债一样都是假的。
+- [金色午报 | 3月9日午间重要动态一览]() - 📰 null - 【金色午报 | 3月9日午间重要动态一览】7:00-12:00关键词：Validation、1inch、Kanye 
+1.两大以太坊巨鲸12小时内加仓超7500枚ETH； 
+2.过去7天NFT交易额环比上涨15.27%至1.215亿美元； 
+3.Web3数据和AI公司Validation Cloud完成1500万美元A轮融资； 
+4.1inch遭黑客攻击后大部分资金已归还，双方达成漏洞赏金协议； 
+5.本周美国比特币现货ETF净流出7.392亿美元，四个交易日净流出； 
+6.观点：Kanye West有足够影响力推动加密货币主流化，并展现出真诚的学习兴趣。
+- [本周美国以太坊现货ETF净流出9390万美元](https://farside.co.uk/eth/) - 📰 null - 【本周美国以太坊现货ETF净流出9390万美元】金色财经报道，据 Farside Investors 数据，本周美国以太坊现货 ETF 净流出 9390 万美元，其中：贝莱德 ETHA 净流出 6360 万美元；灰度 ETHE 净流出 5260 万美元；其余以太坊现货 ETF 小额净流入。
+- [Paxos发布2025年2月PYUSD透明度报告：代币流通总额大幅上涨超7.5亿美元](https://www.paxos.com/pyusd-transparency) - 📰 null - 【Paxos发布2025年2月PYUSD透明度报告：代币流通总额大幅上涨超7.5亿美元】金色财经报道，Paxos官方发布2025年2月稳定币PYUSD透明度报告，披露PYUSD相关未审计数据，包括：代币流通总额（Total Tokens Outstanding）较1月的约4.8亿美元大幅上涨，升至751,638,595美元；总净资产中抵押品当前市值770,113,333美元，名义头寸价值755,514,232美元。Paxos表示，目前PYUSD代币超额抵押，因此损失风险不大，即便违约Paxos也能够用美国国债超额抵押来弥补损失。
+- [灰度以太坊信托基金删除“全球规模最大ETH基金”宣传词](https://etfs.grayscale.com/ethe) - 📰 null - 【灰度以太坊信托基金删除“全球规模最大ETH基金”宣传词】金色财经报道，据灰度官方网站显示，旗下以太坊信托基金Grayscale Ethereum Trust ETF（ETHE）页面已删除“全球规模最大以太坊基金”的宣传词，改为“率先接触以太坊敞口（Pioneering exposure to Ether）”。数据显示，当前ETHE的以太坊持仓量达到1,240,202.6609枚，价值约合2,675,923,271.19美元，而贝莱德ETHA的持仓量达到1,268,065.9718枚ETH，价值约合2,794,563,788.68美元。
+- [两大以太坊巨鲸12小时内加仓超7500枚ETH](https://x.com/ai_9684xtpa/status/1898574898811048053) - 📰 null - 【两大以太坊巨鲸12小时内加仓超7500枚ETH】金色财经报道，据链上数据分析师 ai_9684xtpa 监测，两大以太坊巨鲸 12 小时内加仓超 7,500 枚 ETH。地址一过去 12 小时以均价 2200 在链上买入 6100 枚 ETH，价值 1342 万美元。地址二九小时前从币安提出 1491 枚 ETH（329 万美元），过去 5 天已累计积累 4505 枚 ETH，总价值 978 万美元，均价 2171，目前代币被分发至三个地址存放。
+- [观点：Kanye West有足够影响力推动加密货币主流化，并展现出真诚的学习兴趣](https://x.com/blknoiz06/status/1898572348610981888) - 📰 null - 【观点：Kanye West有足够影响力推动加密货币主流化，并展现出真诚的学习兴趣】金色财经报道，加密 KOL Ansem 在 X 平台发文表示：“我认为 Kanye West 是全球少数几位拥有足够影响力能够实质性影响加密货币走向主流方式的人物之一，有很多独特且新颖的方式可以将加密货币整合到他现有的网络中。” 
+Ansem 透露了与 Kanye 讨论加密货币的细节，“说真的，Kanye 对学习加密货币及其运作方式表现出了真诚的兴趣，而 99% 的圈外人甚至不会关心到提问的程度。”对于 Kanye 为何对加密货币感兴趣，Ansem 回应用户评论时表示：“他确实亲身经历过在不同社交和金融应用上被封禁的情况，而这在基于加密货币基础设施构建的服务上是不可能发生的。” 
+此前消息，知名说唱歌手 Kanye West 发文称，其正在向加密 KOL Ansem 学习比特币相关知识。
+- [分析：特朗普政府强化比特币地位，Altcoins面临监管不确定性](https://x.com/goodalexander/status/1898370630258491548) - 📰 null - 【分析：特朗普政府强化比特币地位，Altcoins面临监管不确定性】金色财经报道，交易员 Eugene Ng Ah Sio 在社交平台推荐了一篇关于白宫加密峰会的分析文章，并称其为“出色的分析”该文章重点解析了特朗普政府最新加密政策，美国政府最新的加密政策强化了比特币的主导地位，提出“数字 Fort Knox”概念，计划将被没收的加密资产转换为 BTC，进一步巩固其“数字黄金”属性。 
+据分析，政策主要确保加密行业不再被打压，包括停止银行封杀、提供一定的监管清晰度，但未优先考虑加密行业发展，也未涉及支付、DeFi 等领域。与此同时，Altcoins（如 XRP、ADA、SOL）未获得明确支持，未来监管仍存在不确定性。 
+此外，特朗普家族成员此前多次发声支持 Altcoins，并暗示可能推动“加密货币免税”政策，但特朗普顾问 David Sacks 则否认该说法，并强调加密政策不会优待特定代币。市场预计，若特朗普团队内部分歧加大，未来政策仍有调整可能。
+- [Conic宣布停止服务，项目正式终止](https://medium.com/@ConicFinance/conic-is-shutting-down-70482910a5d1) - 📰 null - 【Conic宣布停止服务，项目正式终止】金色财经报道，Conic 团队宣布将停止提供服务，标志着该项目的正式终止。尽管团队在过去几个月内致力于开发新版本，并与审计人员合作，但未能解决新版本中的关键问题，导致团队对发布新版缺乏信心。 
+在此期间，部分核心成员选择离开，进一步加剧了项目的困境。经过慎重考虑，剩余团队决定停止 Conic 项目。
