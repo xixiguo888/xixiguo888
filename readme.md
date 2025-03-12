@@ -1,32 +1,22 @@
-- [BlockTower风投部门分拆为Strobe Ventures并计划筹集1亿美元](https://www.theblock.co/post/345873/blocktower-crypto-vc-spins-out-strobe-ventures-100-million-fund) - 📰 null - 【BlockTower风投部门分拆为Strobe Ventures并计划筹集1亿美元】金色财经报道，BlockTower Capital 的风险投资部门已正式分拆为一家独立公司，以 Strobe Ventures 的名义成立，管理的资产（AUM）为 2.35 亿美元，并计划为其第二只基金筹集 1 亿美元。Strobe Ventures 将以“高信念”策略加倍投资早期加密货币。
-- [K33分析师：预计美国财长将在5月5日前明确预算中立的比特币收购措施]() - 📰 null - 【K33分析师：预计美国财长将在5月5日前明确预算中立的比特币收购措施】金色财经报道，K33 分析师表示，尽管由于对经济衰退的担忧导致市场普遍遭遇抛售，但特朗普总统的“战略比特币储备”行政命令仍然是一件“大事”。此外，分析师预计美国财政部长斯科特·贝森特（Scott Bessent）将在 5 月 5 日之前明确预算中立的比特币收购措施。
-- [金色晚报 | 3月12日晚间重要动态一览]() - 📰 null - 【金色晚报 | 3月12日晚间重要动态一览】12:00-21:00关键词：2月CPI、俄罗斯央行、Metaplanet、21Shares 
-1.交易员仍预计美联储将在六月恢复降息； 
-2.美国2月CPI同比增长2.8% 低于市场预期； 
-3.俄罗斯央行将允许投资者进行有限的加密货币购买； 
-4.Metaplanet增持162枚比特币，目前总计持有3050枚； 
-5.21Shares宣布降低比特币以太坊核心ETP ABBA费用； 
-6.韩国拟于Q3出台新指南以解除禁止机构投资加密货币的禁令； 
-7.Binance Alpha 推出全新审核机制，不符合新标准的代币将被删除。
-- [交易员Eugene：已在8.42万美元位置小仓位做空BTC]() - 📰 null - 【交易员Eugene：已在8.42万美元位置小仓位做空BTC】3月12日消息，顶级交易员EugeneNgAhSio在个人频道发文表示，在CPI利好带动BTC反弹后，他已在8.42万美元价格处开设了小仓位BTC空单，基本上只是在调整仓位。
-- [交易员仍预计美联储将在六月恢复降息]() - 📰 null - 【交易员仍预计美联储将在六月恢复降息】金色财经报道，美国短期利率期货在CPI报告后缩窄了早前的跌幅，交易员仍预计美联储将在六月恢复降息，预计年内至少降息两次。
-- [SOL突破130美元]() - 📰 null - 【SOL突破130美元】金色财经报道，行情显示，SOL突破130美元，现报130.05美元，24小时涨幅达到4.5%，行情波动较大，请做好风险控制。
-- [美国2月CPI同比增长2.8% 低于市场预期]() - 📰 null - 【美国2月CPI同比增长2.8% 低于市场预期】金色财经报道，美国2月CPI同比增长2.8%，预估为2.9%，前值为3%；美国2月CPI环比增长0.2%，预估为0.3%，前值为0.5%。
-- [AAVE突破180美元]() - 📰 null - 【AAVE突破180美元】金色财经报道，行情显示，AAVE突破180美元，现报180.24美元，24小时涨幅达到1.95%，行情波动较大，请做好风险控制。
-- [BTC突破84000美元]() - 📰 null - 【BTC突破84000美元】金色财经报道，行情显示，BTC突破84000美元，现报83935.19美元，24小时涨幅达到2.66%，行情波动较大，请做好风险控制。
-- [美国CPI公布前，美联储3月维持利率不变的概率为97%]() - 📰 null - 【美国CPI公布前，美联储3月维持利率不变的概率为97%】金色财经报道，据CME“美联储观察”：美联储3月维持利率不变的概率为97.0%，降息25个基点的概率为3.0%。到5月维持当前利率不变的概率为67.0%，累计降息25个基点的概率为32.1%，累计降息50个基点的概率为0.9%。
-- [新加坡金管局与越南证监会将加强数字资产监管框架方面的合作](https://www.mas.gov.sg/news/media-releases/2025/singapore-and-viet-nam-enhance-collaboration-in-capital-markets-regulation) - 📰 null - 【新加坡金管局与越南证监会将加强数字资产监管框架方面的合作】金色财经报道，新加坡金融管理局（MAS）和越南国家证券委员会（SSC）宣布加强资本市场监管和数字资产监管框架方面的合作，以支持越南数字资产监管框架的制定。
-- [俄罗斯央行将允许投资者进行有限的加密货币购买](https://x.com/TreeNewsFeed/status/1899796106722033885) - 📰 null - 【俄罗斯央行将允许投资者进行有限的加密货币购买】金色财经报道，据BBG，俄罗斯央行将允许投资者进行有限的加密货币购买。
-- [Binance Alpha将下架ELIZA、WHALES等21个代币]() - 📰 null - 【Binance Alpha将下架ELIZA、WHALES等21个代币】金色财经报道，根据 Binance 最近的全面审查，以下代币不符合 Binance 钱包的标准，将从 Binance Alpha 中删除，包括：FAI、METAV、MLG、MONKY、PSTAKE、WHALES、GEL、VISTA、EVAN、MIRA、COCO、TAOCAT、FLOCK、OPUS、FREYA、AIXCB、VERTAI、STRDY、SEKOIA、VADER、ELIZA。
-- [Binance Alpha 推出全新审核机制，不符合新标准的代币将被删除]() - 📰 null - 【Binance Alpha 推出全新审核机制，不符合新标准的代币将被删除】金色财经报道，据官方公告，Binance Alpha 推出全新审核机制，对特色代币进行定期审查。鉴于加密货币行业固有的不稳定性和快速发展，审查流程有利于动态调整，以确保 Binance Alpha 上的所有项目持续符合市场驱动的评估标准。所有在 Binance Alpha 部分展示的代币都会在此框架内接受评估： 
-量化指标： 交易量稳定性、流动性深度、链上交易频率、代币持有者分布以及其他相关指标。 
-定性标准： 项目团队可信度、遵守法规情况、生态系统协同作用、社区知名度以及其他相关因素。 
-不符合这些标准的，代币将从 Binance Alpha 中删除。
-- [BTC突破83000美元]() - 📰 null - 【BTC突破83000美元】金色财经报道，行情显示，BTC突破83000美元，现报83041.2美元，24小时涨幅达到1.55%，行情波动较大，请做好风险控制。
-- [美股三大股指期货扩大涨幅，纳斯达克100指数期货涨幅扩大至1%]() - 📰 null - 【美股三大股指期货扩大涨幅，纳斯达克100指数期货涨幅扩大至1%】金色财经报道，美股三大股指期货扩大涨幅，纳斯达克100指数期货涨幅扩大至1%，道指期货涨0.63%，标普500指数期货涨0.83%。
-- [特朗普将很快宣布由鲍曼担任美联储最高监管官员]() - 📰 null - 【特朗普将很快宣布由鲍曼担任美联储最高监管官员】金色财经报道，知情人士透露，特朗普政府最早将于今日提名美联储理事鲍曼担任美联储监管副主席。今年早些时候，巴尔辞去了美联储负责监管的副主席一职，避免了与特朗普就这一职位可能发生的争斗。巴尔在1月份表示，在这个位置上发生争执的风险可能会分散美联储对使命的注意力。白宫没有立即回复记者的置评请求。
-- [AdsPower发布1月安全事件更新](https://x.com/adspowercn/status/1899745245920714964) - 📰 null - 【AdsPower发布1月安全事件更新】3月12日消息，AdsPower 官方在社交媒体上发文表示，其安全团队于 1 月 24 日透明披露了一起入侵事件，黑客通过散播恶意代码，篡改了 AdsPower 指纹浏览器中的部分第三方加密钱包插件。AdsPower 已修复漏洞并强化系统安全性，同时向新加坡当局报警，正积极配合警方调查。 
-内部调查显示，攻击者利用第三方技术服务系统的漏洞，上传并传播了恶意版本的 MetaMask 插件，可能导致用户钱包插件的缓存信息被泄露。目前，AdsPower 已升级应用中心插件下载模式，未来将进一步加强网络安全、应急响应和供应链安全管理。受影响用户可在 AdsPower 客户端领取专属增值服务方案。
-- [Gemini 宣布为欧洲机构新增美元支付通道](https://cointelegraph.com/news/winklevoss-gemini-usd-payment-rails-europe-institution) - 📰 null - 【Gemini 宣布为欧洲机构新增美元支付通道】金色财经报道，Gemini 加密货币交易所正在扩展其欧洲机构客户的交易能力，为英国和瑞士的机构客户启用美元支付通道。该功能还将向直布罗陀、泽西岛、根西岛和马恩岛的机构用户开放。 
-这一新功能将使机构能够免费向 Gemini 账户存入和提取美元，并可直接使用美元进行加密货币交易，无需转换为英镑或欧元，从而减少交易摩擦。
-- [加拿大官员：将宣布对美国征收298亿加元的反制关税]() - 📰 null - 【加拿大官员：将宣布对美国征收298亿加元的反制关税】金色财经报道，加拿大官员表示，作为对特朗普钢铝关税的回应，加拿大将宣布对美国征收298亿加元的反制关税。
+- [现货黄金向上触及2940美元/盎司，日内涨0.82%](https://flash.jin10.com/detail/20250313014811680800) - 📰 null - 【现货黄金向上触及2940美元/盎司，日内涨0.82%】金色财经报道，现货黄金向上触及2940美元/盎司，日内涨0.82%。
+- [机构：通胀数据似乎不给美联储降息留有空间](https://flash.jin10.com/detail/20250313010656687800) - 📰 null - 【机构：通胀数据似乎不给美联储降息留有空间】金色财经报道，TS Lombard首席美国经济学家Steven Blitz写道，通胀数据并没有给美联储提供降息的信号。尽管2月份CPI从3%降至2.8%，但“数据中的异常现象足以让人怀疑任何试图将其视为趋势的说法。”Blitz称，剔除食品和能源的商品价格在2月份经季节调整后的年增长率为2.7%，比1月份的3.5%有所改善，但仍然不稳定。他表示，这是“关税影响在第一轮中最为明显的类别”。最终，就业率继续上升，通胀也会随之上升。
+- [OKX Europe收购马耳他MiFID II持牌公司](https://www.coindesk.com/policy/2025/03/12/okx-europe-acquires-mifid-ii-licensed-company-in-malta) - 📰 null - 【OKX Europe收购马耳他MiFID II持牌公司】金色财经报道，OKX Europe 宣布收购一家持有 MiFID II 牌照的马耳他公司，迈出在欧洲提供合规衍生品交易的重要一步。 
+OKX 仍需获得马耳他金融服务管理局（MFSA）的批准，预计该实体将在今年晚些时候正式运营。MiFID II 牌照将使 OKX 能够向欧洲经济区（EEA）内的机构客户提供受监管的衍生品服务，覆盖 27 个欧盟成员国及冰岛、列支敦士登、挪威。
+- [Coinbase将上线Aethir (ATH)](https://x.com/CoinbaseAssets/status/1899881376033243605) - 📰 null - 【Coinbase将上线Aethir (ATH)】金色财经报道，Coinbase 将在以太坊 (ERC-20 代币) 网络上增加对 Aethir (ATH) 的支持。
+- [BTC突破82500美元]() - 📰 null - 【BTC突破82500美元】金色财经报道，行情显示，BTC突破82500美元，现报82507.59美元，24小时涨幅达到1.3%，行情波动较大，请做好风险控制。
+- [Hyperliquid清算地址平完“50倍杠杆巨鲸”的16万枚ETH做多仓位，最终亏损323万美元](https://x.com/EmberCN/status/1899862334920888826) - 📰 null - 【Hyperliquid清算地址平完“50倍杠杆巨鲸”的16万枚ETH做多仓位，最终亏损323万美元】金色财经报道，据链上分析师余烬监测，花了 7 个小时不间断的小额慢慢平仓，Hyperliquid 的清算地址终于把从“Hyperliquid 上 50 倍杠杆巨鲸”那接手过来的 16 万枚 ETH 做多仓位（3.06 亿美元）平完。1915 美元接手，均价 1895 美元平完，HLP 保险库为消化掉这 16 万枚 ETH 做多仓位最终亏了 323 万美元。
+- [特朗普：将对欧盟的反制关税做出回应](https://flash.jin10.com/detail/20250313001153356800) - 📰 null - 【特朗普：将对欧盟的反制关税做出回应】金色财经报道，美国总统特朗普表示，将对欧盟的反制关税做出回应。
+- [贝莱德CEO芬克：我认为短期内市场存在高通胀和恐惧情绪](https://flash.jin10.com/detail/20250313003019442800) - 📰 null - 【贝莱德CEO芬克：我认为短期内市场存在高通胀和恐惧情绪】金色财经报道，贝莱德CEO芬克表示，近期市场心理出现逆转。我认为短期内市场存在高通胀和恐惧情绪。
+- [Venice：空投结束，未申领VVV代币被销毁](https://www.theblock.co/post/345912/venice-airdrop-ends-100-million-usd-unclaimed-vvv-tokens-burned) - 📰 null - 【Venice：空投结束，未申领VVV代币被销毁】金色财经报道，专注于隐私的人工智能平台 Venice 已完成空投流程，并且销毁了价值约 1 亿美元的无人申领的 VVV 代币。据悉，自 1 月空投开始以来，已有超过 40,000 名参与者领取超过 1740 万枚 VVV 代币，3260 万枚无人认领的 VVV 占社区分配量的 65%。
+- [模块化区块链网络Hemi主网上线](https://x.com/hemi_xyz/status/1899850416025649245) - 📰 null - 【模块化区块链网络Hemi主网上线】金色财经报道，模块化区块链网络 Hemi 主网正式上线。Hemi 曾于 2024 年 9 月完成 1500 万美元种子轮融资， Binance Labs、Breyer Capital 和 Big Brain Holdings 等机构参投。
+- [MGX董事长系阿联酋首任总统之子，现任总统的弟弟](https://www.mgx.ae/en/leadership) - 📰 null - 【MGX董事长系阿联酋首任总统之子，现任总统的弟弟】金色财经报道，据 MGX 官网显示，MGX 董事长 Tahnoon bin Zayed 系阿联酋副酋长、阿联酋国家安全顾问，是首任阿联酋总统 Sheikh Zayed Bin Sultan Al-nahayan 之子，现任阿联酋总统 Mohamed Bin Zayed Al-Nahyan 的弟弟。现年 56 岁的 Tahnoon bin Zayed 掌控着两家主权财富基金，资产规模高达 1.4 万亿美元。 
+MGX Fund Management Limited 是一家阿联酋国有人工智能技术投资公司。MGX 由阿布扎比政府于 2024 年成立，旨在成为人工智能驱动投资的工具，目标是管理 1000 亿美元的资产。专注于通过在阿拉伯联合酋长国和全球建立世界领先的合作伙伴关系来加速人工智能和先进技术的开发和采用。
+- [美SEC再次推迟批准富达现货以太坊ETF期权交易](https://www.sec.gov/files/rules/sro/cboebzx/2025/34-102625.pdf) - 📰 null - 【美SEC再次推迟批准富达现货以太坊ETF期权交易】金色财经报道，美 SEC 再次推迟了对富达现货以太坊 ETF 期权交易的决议。
+- [Fox记者：美SEC对Ripple的诉讼案已进入收尾阶段](https://x.com/EleanorTerrett/status/1899852341374779587) - 📰 null - 【Fox记者：美SEC对Ripple的诉讼案已进入收尾阶段】金色财经报道，据 Fox Business 记者 Eleanor Terrett 透露，美 SEC 对 Ripple 的诉讼案可能很快在持续谈判中结束，目前已进入收尾阶段。据悉，双方之所以延迟达成协议，是由于 Ripple 的法律团队正在就 8 月份地区法院的裁决协商更有利的条款，该裁决对该公司处以 1.25 亿美元的罚款，并包括一项永久禁令，禁止该公司向机构投资者出售XRP 。
+- [朝鲜黑客组织Lazarus在新一批JavaScript软件包中植入窃取加密货币的恶意软件](https://decrypt.co/309669/lazarus-javascript-crypto-stealing-malware) - 📰 null - 【朝鲜黑客组织Lazarus在新一批JavaScript软件包中植入窃取加密货币的恶意软件】金色财经报道，Socket研究团队在一场新的攻击中发现，朝鲜黑客组织Lazarus与六个新的恶意npm软件包有关，这些软件包试图部署后门以窃取用户凭证。此外，这些恶意软件还能提取加密货币数据，窃取Solana和Exodus加密钱包中的敏感信息。攻击主要针对Google Chrome、Brave和Firefox浏览器的文件以及macOS的钥匙串数据，专门诱骗开发者无意中安装这些恶意软件包。
+- [Amber DWM与iClick合并并将使用AMBR股票代码在纳斯达克开启交易](https://crweworld.com/article/news-provided-by-pr-newswire/3606398/iclick-interactive-asia-group-limited-announces-plan-for-closing-on-merger-with-amber-dwm-and-confirms-nasdaq-listing-under-new-ticker-ambr-#google_vignette) - 📰 null - 【Amber DWM与iClick合并并将使用AMBR股票代码在纳斯达克开启交易】金色财经报道，美股上市公司 iClick Interactive Asia Group Limited（爱点击）宣布与 Amber Group 旗下数字财富管理业务 Amber Premium 的控股实体 Amber DWM Holding Limited 合并，并获得了纳斯达克对合并后上市的最终批准，合并后公司将更名为“Amber International Holding Limited”，并自 2025 年 3 月 13 日起在纳斯达克全球市场以新股票代码“AMBR”开启交易。
+- [某FTX/Alameda关联地址解除质押18.5万枚SOL](https://x.com/OnchainLens/status/1899847527358452011) - 📰 null - 【某FTX/Alameda关联地址解除质押18.5万枚SOL】金色财经报道，某个 FTX / Alameda 的关联地址解除质押了 185,328 枚 SOL，价值 2288 万美元。该钱包目前持有 5,502,526 枚 SOL（约合 6.82 亿美元）的权益质押。
+- [特朗普：最新的通胀数据是非常好的消息](https://flash.jin10.com/detail/20250312233621255800) - 📰 null - 【特朗普：最新的通胀数据是非常好的消息】金色财经报道，美国总统特朗普表示，最新的通胀数据是非常好的消息。
+- [Bubblemaps公布女巫检测情况：排行榜中30%是试图利用空投的机器人](https://x.com/bubblemaps/status/1899838697710748123) - 📰 null - 【Bubblemaps公布女巫检测情况：排行榜中30%是试图利用空投的机器人】3月12日消息，链上数据可视化平台 Bubblemaps 在 X 平台发文披露关于 BMT 空投中的女巫检测情况，披露排行榜中有 30%是试图利用空投的机器人，已通过聚类分析识别并进行清除。Bubblemaps 补充称，它们本应获得 20,000 美元的 BMT 奖励，但是这些地址通过 SOL 转账相互关联，且其应用活动异常频繁，显示出非人类行为特征。
+- [币安将上线VIC 1-75倍U本位永续合约](https://www.binance.com/zh-CN/support/announcement/08e0ea0b2c534dffab50f42c3776895c) - 📰 null - 【币安将上线VIC 1-75倍U本位永续合约】金色财经报道，据官方消息，币安将上线 VIC 1-75 倍 U 本位永续合约。
+- [BTC跌破81000美元]() - 📰 null - 【BTC跌破81000美元】金色财经报道，行情显示，BTC跌破81000美元，现报80986.33美元，24小时涨幅收窄至1.11%，行情波动较大，请做好风险控制。
