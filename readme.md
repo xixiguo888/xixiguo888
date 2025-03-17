@@ -1,33 +1,27 @@
-- [YZi Labs宣布投资Plume Network]() - 📰 null - 【YZi Labs宣布投资Plume Network】金色财经报道，YZi Labs 宣布投资 Plume Network，旨在将现实世界资产上链并推进 RWAfi。
-- [YZi Labs 宣布投资 Plume Network]() - 📰 null - 【YZi Labs 宣布投资 Plume Network】金色财经报道，YZi Labs 宣布投资 Plume Network，后者是一个专注于 RWA 领域的聚合模块区块链，具体投资金额暂未披露。
-- [CZ：持有比特币已超越99%市场参与者，最后1%的赢家需要付出非凡的努力]() - 📰 null - 【CZ：持有比特币已超越99%市场参与者，最后1%的赢家需要付出非凡的努力】3月17日消息，币安创始人CZ在社交媒体回应EmperorBTC观点时表示，市场上仅5%的人能在加密领域长期生存，其中： 
-• 4%的人活跃交易或从事项目，但收益仍跑输比特币。 
-• 仅1%的人能真正做到超越比特币，这需要非凡的努力。 
-CZ强调，长期持有比特币已能超越99%的加密市场参与者，同时比大多数传统资产表现更优，且几乎无需主动交易操作。
-- [金色晚报 | 3月17日晚间重要动态一览]() - 📰 null - 【金色晚报 | 3月17日晚间重要动态一览】12:00-21:00关键词：Telegram、AUCTION、QCP 
-1.Pavel Durov 在迪拜发声：Telegram 已超越其法律义务； 
-2.Strategy再增持130枚比特币，购入均价82,981美元； 
-3.某巨鲸/机构将28万枚AUCTION转回Binance，约972万美元； 
-4.QCP：预计美联储本周将维持利率不变，市场波动性将保持在较高水平； 
-5.pump.fun昨日协议费用收入创4个月以来新低； 
-6.CZ：AI代理项目应优先关注实用性和规模增长，而非过早发币。
-- [Jupiter已回购价值超750万美元JUP，用时仅1个月]() - 📰 null - 【Jupiter已回购价值超750万美元JUP，用时仅1个月】金色财经报道，据链上数据，Jupiter从2月17日到3月17日已利用协议费用的50%回购14,450,758枚JUP，价值约754万美元。
-- [Bitlayer正式推出BTC Yield]() - 📰 null - 【Bitlayer正式推出BTC Yield】3月17日消息，基于比特币生态BitVM技术落地实现的项目Bitlayer宣布推出BTC Yield，集成的首款产品为DeSyn打造的CeDeFi产品BLBTC，用户只需将BTC存入该基差交易策略池，即可参与币安、Jupiter和Hyperliquid在内多个平台的基差交易。据官方公告，BLBTC综合APR最高可达20%，具体构成包括预计5%-8%的BTC量化收益、预计5%的BTR收益，以及预计7%的DSN收益。 
-除了产品提供的对应APR收益，Bitlayer还推出了新手专属活动，首次参与BTC Yield的新用户有机会额外获得10枚BTR奖励，总奖励有限先到先得。在确保安全性和透明度的基础上，Bitlayer未来将集成支持更多收益策略产品，为生态用户提供更多增益机会，赋能BTCFi。
-- [Bitfinex：机构买家尚未抵消抛压，加密市场正等待趋势扭转]() - 📰 null - 【Bitfinex：机构买家尚未抵消抛压，加密市场正等待趋势扭转】金色财经报道，Bitfinex 发布最新分析报告，其中指出比特币上周跌至 77,041 美元的低点，回撤幅度达 29.7%，是本轮牛市中第二次深度回调。同时，美国比特币现货 ETF 的持续流出（上周总额达 9.214 亿美元），表明机构买家尚未有足够的实力来抵消抛售压力。 
-从历史上看，当新资本流入放缓且成本基础趋势发生变化时，表明需求环境正在减弱。随着比特币努力维持在关键水平之上，这一趋势变得越来越明显。如果没有新买家介入，比特币可能会面临长期盘整的风险，甚至可能进一步下跌，因为较弱的买家将继续退出其头寸。需要关注的关键因素是长期持有者或机构需求是否会在市场较低水平重新出现。如果资金更雄厚的投资者开始吸收比特币抛售，可能预示着转向积累，从而可能稳定价格走势并扭转市场情绪。
-- [美股股指期货走高，纳指100期货转为上涨]() - 📰 null - 【美股股指期货走高，纳指100期货转为上涨】金色财经报道，美股股指期货走高，纳斯达克 100 指数期货转为上涨，现涨 0.3%，标普 500 指数期货涨 0.1%。(金十)
-- [美股Strategy盘前跌1.04%，Coinbase盘前跌0.55%]() - 📰 null - 【美股Strategy盘前跌1.04%，Coinbase盘前跌0.55%】3月17日消息，美股加密货币概念股盘前普跌，其中：Strategy 跌 1.04%，Coinbase 跌 0.55%，Riot Platforms 跌 1.02%，MARA Holdings 跌 0.46%。
-- [渣打银行：特朗普拟推“加密储备”或助比特币涨至50万美元]() - 📰 null - 【渣打银行：特朗普拟推“加密储备”或助比特币涨至50万美元】3月17日消息，据Solid Intel报道，渣打银行（Standard Chartered）分析称，美国前总统特朗普提出的“加密储备”计划，若成功实施，可能推动比特币价格飙升至50万美元。
-- [Kraken拟推出毫秒级超低延迟托管服务]() - 📰 null - 【Kraken拟推出毫秒级超低延迟托管服务】金色财经报道，加密交易所 Kraken 宣布将在未来几周内推出超低延迟（colocation）交易服务，为客户提供毫秒级交易执行速度。首批用户可在伦敦数据中心体验该服务。该服务将通过英国上市公司 Beeks（BKS）提供的云计算技术运行，部分客户还可选择在 Kraken 数据中心安装物理硬件，直接接入托管服务。Kraken 的方案面向所有客户开放，而不仅限于机构投资者。（CoinDesk）
-- [美国2月零售销售月率0.2%，预期0.6%，前值修正为-1.2%]() - 📰 null - 【美国2月零售销售月率0.2%，预期0.6%，前值修正为-1.2%】金色财经报道，美国 2 月零售销售月率 0.2%，预期 0.6%，前值由-0.90%修正为-1.2%。 
-美国 2 月核心零售销售月率 0.3%，预期 0.4%，前值由-0.40%修正为-0.6%。 
-美国 2 月零售销售对照小组 1%，预期 0.2%，前值由-0.80%修正为-1%。（金十）
-- [Strategy的比特币持仓增至499226枚，平均成本66360美元]() - 📰 null - 【Strategy的比特币持仓增至499226枚，平均成本66360美元】金色财经报道，据 Strategy 官方文件（8-K 报告），公司在 2025 年 3 月 10 日至 3 月 16 日期间增持 130 枚比特币，总计约 1070 万美元，购入均价为$82,981。此次购买资金来源于公司 STRK 优先股的销售收入。 截至 2025 年 3 月 16 日，Strategy 及其子公司共持有 499,226 枚比特币，累计购入总成本约 331 亿美元，平均持仓成本为$66,360。
-- [Pavel Durov 在迪拜发声：Telegram 已超越其法律义务]() - 📰 null - 【Pavel Durov 在迪拜发声：Telegram 已超越其法律义务】金色财经报道，Telegram 创始人 Pavel Durov 在刑事调查期间获准返回迪拜后对法国法官和他的团队表示感谢，他确认在法国待了几个月后已经回到迪拜，同时还称 Telegram 多年来在审核、合作和打击犯罪方面不仅满足而且超越了其法律义务。
-- [Strategy再增持130枚比特币，购入均价82,981美元]() - 📰 null - 【Strategy再增持130枚比特币，购入均价82,981美元】金色财经报道，据Aggr News报道，Strategy在3月10日至3月16日期间增持130枚比特币，总价值约1,070万美元，购入均价为82,981美元。
-- [Binance已支持用户在CEX界面交易Binance Alpha资产]() - 📰 null - 【Binance已支持用户在CEX界面交易Binance Alpha资产】3月17日消息，据官网显示，Binance已支持用户在CEX界面交易Binance Alpha资产。Binance交易平台用户可直接在使用USDT等稳定币买入已上线Binance Alpha的代币。
-- [美国2月零售销售月率将于20:30公布，预期0.6%]() - 📰 null - 【美国2月零售销售月率将于20:30公布，预期0.6%】3月17日消息，美国 2 月零售销售月率将于今晚 20:30 公布，预期 0.6%，前值-0.90%。零售销售（Retail Sale），是零售销售数额的统计汇总，包括所有主要从事零售业务的商店以现金或信用形式销售的商品价值总额。服务业所发生的费用不包括在零售销售中。零售数据对于判定一国的经济现状和前景具有重要指导作用，因为零售销售直接反映出消费者支出的增减变化。公布值>预测值将利好美元。
-- [币安：将全额赔付3月17日16:00至18日16:00在Alpha交易中被“夹”用户损失]() - 📰 null - 【币安：将全额赔付3月17日16:00至18日16:00在Alpha交易中被“夹”用户损失】3月17日消息，币安华语官方发布公告，用户在2025年3月17日16:00至3月18日16:00（UTC+8）期间在币安Alpha交易过程中被“夹”并遭受损失，可通过币安提供的官方表单申请全额赔付。
-- [一新地址从Binance提出210万枚OM，约1435万美元]() - 📰 null - 【一新地址从Binance提出210万枚OM，约1435万美元】金色财经报道，据OnchainLens监测，一新地址从Binance提出210万枚OM，约1435万美元。
-- [以太坊在略低于1900美元的价位迎来强支撑，1843美元至1900美元区间买入量达356万枚]() - 📰 null - 【以太坊在略低于1900美元的价位迎来强支撑，1843美元至1900美元区间买入量达356万枚】3月17日，据intotheblock披露，链上数据显示以太坊在略低于1900美元的价位有一个重要的支撑区，大约有356万枚ETH是在1843美元至1900美元之间被购买。这种积累表明该区域有强劲的支撑，但如果以太坊价格跌破这一区间，崩盘的风险将会增加，因为需求在这一水平以下似乎明显减弱。
+- [美股延续涨势，标普500指数涨幅扩大至1%]() - 📰 null - 【美股延续涨势，标普500指数涨幅扩大至1%】金色财经报道，美股延续涨势，标普500指数涨幅扩大至1%。
+- [研究机构：美国国债2月交易量创下纪录高位](https://flash.jin10.com/detail/20250317235122545800) - 📰 null - 【研究机构：美国国债2月交易量创下纪录高位】金色财经报道，据金融分析公司Crisil Coalition Greenwich数据，2月是美国国债市场有史以来最繁忙的一个月，围绕特朗普关税政策的不确定性以及美联储降息押注的增加提振了交易量。该公司市场结构研究主管Kevin McPartland在报告中写道：“他们会不会加关税、通胀意外和降息预期的复苏让投资者和交易员忙个不停。”2月美国国债日均名义交易量为1.068万亿美元，同比增长16%，超过2024年8月成为有纪录以来最活跃月份。2月28日超过10月31日成为有史以来最繁忙的一天。
+- [BTC突破84000美元]() - 📰 null - 【BTC突破84000美元】金色财经报道，行情显示，BTC突破84000美元，现报84033美元，24小时涨幅达到0.46%，行情波动较大，请做好风险控制。
+- [雷蛇拟使用World ID验证其用户身份](https://www.razer.com/software/proof-of-human) - 📰 null - 【雷蛇拟使用World ID验证其用户身份】金色财经报道，电子设备潮流品牌雷蛇（Razer）宣布拟使用World ID验证其用户身份，用户登陆或创建Razer ID时可在帐户页面中的人工验证模块单击“使用World ID 验证”并且按照说明在World App上进行验证。验证后Razer ID将解锁经过验证的人工徽章。
+- [普京与特朗普将于18日通话，俄方透露更多准备情况](https://www.cls.cn/detail/1974609) - 📰 null - 【普京与特朗普将于18日通话，俄方透露更多准备情况】金色财经报道，俄罗斯总统新闻秘书佩斯科夫当地时间3月17日表示，俄总统普京与美国总统特朗普的电话交谈正在就议程的主题进行准备，主要话题是调解乌克兰问题。在回答记者有关此次通话的准备时长问题时，佩斯科夫表示，类似的电话会谈筹备工作能够在短时间内完成。当天早些时候佩斯科夫表示，普京与特朗普将于3月18日通电话。特朗普当地时间16日晚也表示，他计划在18日与普京通话。
+- [Securitize和Ethena推出EVM兼容区块链Converge](https://www.coindesk.com/business/2025/03/17/tokenization-specialists-securitize-and-ethena-unveil-institutional-defi-blockchain) - 📰 null - 【Securitize和Ethena推出EVM兼容区块链Converge】金色财经报道，与贝莱德货币市场基金 BUIDL 有密切合作的 Securitize 和 Ethena 宣布推出 EVM 兼容的机构级 DeFi 区块链 Converge，旨在容纳代币化资产并为机构投资者提供去中心化金融（DeFi）的创新。据 Ethena 创始人 Guy Young 透露，将会有由 Securitize 提供的新产品被部署在该区块链上，从而开辟新的用例。此外，由于 EVM 兼容使其无需修改即可运行基于以太坊的智能合约、dApp 和工具。
+- [3月17日美国比特币ETF净流入641枚BTC，以太坊ETF净流出48979枚ETH](https://x.com/lookonchain/status/1901673497203786001) - 📰 null - 【3月17日美国比特币ETF净流入641枚BTC，以太坊ETF净流出48979枚ETH】金色财经报道，据 Lookonchain 监测，3 月 17 日 10 只美国比特币 ETF 净流入 641 枚 BTC，其中 ARK 21Shares 流入 1187 枚 BTC，当前其持有 47431 枚 BTC，价值约合 39.8 亿美元；9 只以太坊 ETF 净流出 48979 枚 ETH，其中灰度 ETHE 流出 22610 枚 ETH，目前灰度 ETHE 持有 1214497 枚 ETH，价值约合 23.4 亿美元。
+- [链游生态SlingShot DAO完成1600万美元融资](https://x.com/SlingshotDAO/status/1901385136664392175) - 📰 null - 【链游生态SlingShot DAO完成1600万美元融资】金色财经报道，Web3 社区驱动游戏生态 SlingShot DAO 宣布完成 1600 万美元融资，Dragonfly、Animoca Brands、DCG、Sfermion 等参投。 
+SlingShot DAO 同时披露“$SLING is loading...”，或暗示将发行 SLING 代币。SlingShot DAO 是一个社区驱动的游戏生态平台，成员可以通过 SlingShot 应用程序协作将想法转化为游戏体验。 
+此前消息，2024 年 5 月 8 日，SlingShot DAO 官方宣布完成 300 万美元新一轮融资，Alphabit Fund 参投。
+- [美SEC代理主席：正考虑取消或修改拜登任期内投资者资产保护的提案，包括加密货币](https://www.cls.cn/detail/1974603) - 📰 null - 【美SEC代理主席：正考虑取消或修改拜登任期内投资者资产保护的提案，包括加密货币】金色财经报道，美国证交会（SEC））代理主席表示，正在考虑对共同基金和ETF的投资组合持有情况的每月报告规则进行调整。正在考虑取消或修改拜登任期内提出的有关投资者资产保护（包括加密货币）的提案。
+- [某交易者仅投入0.4 BNB在mubarak上获得4860倍回报](https://x.com/lookonchain/status/1901662895399940399) - 📰 null - 【某交易者仅投入0.4 BNB在mubarak上获得4860倍回报】金色财经报道，据 Lookonchain 监测，某交易者仅投入 232 美元在$mubarak 上获得 4860 倍回报，他花费 0.4 枚 BNB 买入 1050 万枚$mubarak，并将其中一部分以 576 BNB（约 36.35 万美元）的价格出售，剩余 516 万枚$MUBARAK（约 76.4 万美元）保留在 3 个钱包中。
+- [Arbitrum开发团队Offchain Labs推出链上创新项目“Onchain Labs”](https://medium.com/offchainlabs/onchain-labs-accelerating-the-app-layer-of-arbitrum-1ac2b64eeae3) - 📰 null - 【Arbitrum开发团队Offchain Labs推出链上创新项目“Onchain Labs”】金色财经报道，Arbitrum 开发团队 Offchain Labs 宣布推出链上创新项目划“Onchain Labs”，旨在支持致力于公平公正启动的项目，其持的项目将是实验性的和不稳定。此外，Offchain Labs 提醒社区参与者在购买与 Onchain Labs 项目相关的任何代币或与其互动之前进行自己的研究（DYOR），其角色将严格专注于产品和上市建议。Offchain Labs 还透露，第一个 Onchain Labs 项目即将面世。
+- [Crypto.com已完成阿根廷VASP注册，将在拉美市场扩展加密服务](https://financefeeds.com/crypto-com-gains-argentina-vasp-registration-expands-crypto-services-in-latam/) - 📰 null - 【Crypto.com已完成阿根廷VASP注册，将在拉美市场扩展加密服务】金色财经报道， Crypto.com 宣布已完成阿根廷虚拟资产服务提供商注册，将在拉美市场扩展服务，据悉阿根廷国家证券委员会批准了 Crypto.com 的虚拟资产服务提供商（VASP）注册申请，后续该交易所将推出本地化加密产品。
+- [至少有13个基于Solana的交易所交易产品正在等待美SEC批准](https://www.theblock.co/post/346610/solana-futures-debut-today-on-cme-heres-what-you-need-to-know) - 📰 null - 【至少有13个基于Solana的交易所交易产品正在等待美SEC批准】金色财经报道，根据申请信息显示，目前至少有 13 个基于 Solana 的交易所交易产品等待美国证券交易委员会批准，申请方有灰度、Bitwise、Canary、21Shares 等机构，包括：Grayscale Solana Trust （Conversion） 、Bitwise Solana ETF、REX-Osprey SOL ETF、VanEck Solana Trust、21Shares Core Solana ETF、Canary Solana ETF 等。 
+然而由于 Paul Atkins 目前仍然没有被正式任命担任美国证券交易委员会主席，这些申请暂时悬而未决。ETF Store 总裁 Nate Geraci 上周发文预测贝莱德将申请 Solana 和 XRP ETF，此外彭博 ETF 分析师此前估计到今年年底 Solana ETF 获得批准的几率达到 70%。
+- [Canary向美SEC提交SUI ETF的S-1文件](https://x.com/solidintel_x/status/1901662711412400283) - 📰 null - 【Canary向美SEC提交SUI ETF的S-1文件】金色财经报道，据市场消息，Canary 向美 SEC 提交申请 SUI ETF 的 S-1 文件。
+- [某巨鲸再将22万枚AUCTION转入Binance](https://x.com/EmberCN/status/1901659804332122213) - 📰 null - 【某巨鲸再将22万枚AUCTION转入Binance】金色财经报道，据 EmberCN 监测，此前从 Binance 提出了 200 万枚 AUCTION (占总量的 26%) 的巨鲸/机构，于 15 分钟前又将 22 万枚 AUCTION ($7.18M) 转入 Binance。 
+该巨鲸实体用 4 个地址提出这 200 万枚 AUCTION，每个地址 50 万枚。目前最早提出 AUCTION 地址内的 50 万枚 AUCTION 在最近 5 个小时里转进了 Binance。同时 AUCTION 价格也从 35 美元回调到目前 32 美元。
+- [Solana期货已正式上线CME](https://www.theblock.co/post/346610/solana-futures-debut-today-on-cme-heres-what-you-need-to-know?utm_source=twitter&utm_medium=social) - 📰 null - 【Solana期货已正式上线CME】金色财经报道，Solana 期货已正式上线 CME，目前 CME 提供了两种规模的新合约：覆盖 25 SOL 的微型合约和覆盖 500 SOL 的大型合约。 
+CME 集团加密货币产品全球主管 Giovanni Vicioso 表示，“随着 Solana 逐渐成为开发者和投资者的首选平台，这些新的期货合约将提供一个资本高效的工具，以支持他们的投资和对冲策略。”
+- [Messari发布Helium去年Q4报告：运营数据激增](https://messari.io/report/state-of-helium-q4-2024?utm_source=twitter&utm_medium=organic_social&utm_campaign=q4_quarterlies&destination=protocol_services_research) - 📰 null - 【Messari发布Helium去年Q4报告：运营数据激增】金色财经报道，据Messari发布的Helium 2024年Q4报告，Helium网络运营数据大幅增长，其中运营商数据卸载量环比增长555%至576TB，移动热点增长14%至24,800个，每日移动付费流量增长99%，显示其在电信行业的颠覆性潜力。同时，Helium通过HIP 138提案 统一HNT作为唯一代币，优化经济模型，并宣布与西班牙电信（Telefonica）合作进入墨西哥市场，覆盖200万Movistar用户。此外，Helium获Grayscale纳入前20大关注代币，并被Coinbase列入COIN50指数，吸引机构投资者关注。在智能城市应用方面，该网络已用于美国洪水监测和森林火灾预警。Helium正通过DePIN（去中心化物理基础设施网络）模式扩张，巩固其Web3电信市场的领导地位。
+- [比特币现货ETF上周净流出8.38亿美元，以太坊现货ETF上周单周净流出1.78亿美元](https://sosovalue.com/zh/assets/etf) - 📰 null - 【比特币现货ETF上周净流出8.38亿美元，以太坊现货ETF上周单周净流出1.78亿美元】金色财经报道，根据 SoSoValue 数据，上周交易日（美东时间 3 月 10 日至 3 月 14 日）比特币现货 ETF 上周单周净流出 8.38 亿美元。以太坊现货 ETF 上周单周净流出 1.43 亿美元。
+- [3月14日美国现货比特币ETF净流入3210万美元，ARKB流入超1亿美元](https://x.com/FarsideUK/status/1901646274706677856) - 📰 null - 【3月14日美国现货比特币ETF净流入3210万美元，ARKB流入超1亿美元】金色财经报道，据 Farside 数据，3 月 14 日（上周五）的 ARKB 资金流动数据刚刚公布，流入达 1.005 亿美元，这使得 2025 年 3 月 14 日成为总体净流入的一天，净流入达 3210 万美元。
+- [摩根大通：三月比特币网络算力小幅上升，挖矿经济性下降]() - 📰 null - 【摩根大通：三月比特币网络算力小幅上升，挖矿经济性下降】金色财经报道，据 CoinDesk 报道，摩根大通（JPM）周一发布的研究报告显示，2025 年 3 月前两周，比特币网络算力增长了 2 EH/s，平均达到 811 EH/s。 
+报告指出，美国上市矿企维持了约 30% 的网络算力份额。同时，期内比特币平均价格下跌约 10%，对挖矿经济性造成压力。算力价格（衡量日常挖矿盈利能力的指标）与上月底相比基本保持不变。3 月前两周，矿工每 EH/s 每日区块奖励收入约为 48,300 美元，比 2 月下降 11%，较去年 4 月减半事件后下降 52%。 
+摩根大通跟踪的 14 家美国上市矿企总市值较上月下滑 13%，约 30 亿美元。其中，Argo Blockchain（ARGO）表现最佳，上涨 1%，而 Cipher Mining 表现最差，下跌 25%。报告补充说，同期内，该行覆盖的矿企中仅有一家表现优于比特币。
