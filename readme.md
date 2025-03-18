@@ -1,32 +1,24 @@
-- [Suilend已支持使用新网址访问协议]() - 📰 null - 【Suilend已支持使用新网址访问协议】3月18日消息，Sui生态借贷协议Suilend官方宣布，现已支持使用更新后的网址访问协议。
-- [伯恩斯坦评定 Coinbase 股票目标价为 310 美元]() - 📰 null - 【伯恩斯坦评定 Coinbase 股票目标价为 310 美元】3月18日消息，据 The Block 报道，研究和经纪公司 Bernstein 的分析师已开始对 Coinbase 进行跟踪评级，给予“表现优于大盘”评级，并设定 310 美元的目标价，较当前价格有 69% 的上涨空间。 
-分析师在周二发布的客户报告中表示，尽管批评者担忧 Coinbase 面临日益激烈的竞争和费用压力，但他们忽视了由于全球加密市场向美国回流而带来的总可寻址市场扩张，分析师将这一现象描述为“美国大回归”。 
-Bernstein 预计，尽管预计 Coinbase 在美国的市场份额在两年内将略微下降至 60%，且为保持主导地位将降低 20% 的零售价格溢价，但到 2026 年底，其交易收入的年复合增长率将达到 34%。分析师还指出了 Coinbase 的其他服务，如加密货币质押收益、托管服务和以太坊 Layer 2 网络 Base，预计同期非交易收入的年复合增长率为 31%，总体为 33%。
-- [Strategy再次增发500万股优先股，计划用于增持比特币]() - 📰 null - 【Strategy再次增发500万股优先股，计划用于增持比特币】金色财经报道，据 SEC 文件显示，Strategy Inc 宣布将增发 500 万股 A 系列永久优先股（Series A Perpetual Strife Preferred Stock），以筹集资金继续执行其比特币储备战略。
-- [过去4小时BMT与Mubarak爆仓量仅次于以太坊与比特币]() - 📰 null - 【过去4小时BMT与Mubarak爆仓量仅次于以太坊与比特币】金色财经报道，据Coinglass数据，过去4小时BMT爆仓198万美元，Mubarak爆仓128万美元，仅次于以太坊爆仓了497万美元与比特币爆仓量340万美元。BMT空单爆仓167万美元，多单爆仓31万美元；Mubarak空单爆仓56万美元，多单爆仓71万美元。
-- [纳斯达克计划设立第二个美国总部，或于今年晚些时候开业]() - 📰 null - 【纳斯达克计划设立第二个美国总部，或于今年晚些时候开业】金色财经报道，据华尔街日报：纳斯达克计划在美国得克萨斯州设立第二个美国总部，在该州达拉斯的区域总部将在今年晚些时候开业。（金十）
-- [数据：过去24小时BSC DEX交易量超25亿美元]() - 📰 null - 【数据：过去24小时BSC DEX交易量超25亿美元】金色财经报道，据 Onchain Lens 监测，过去 24 小时 BSC DEX 的交易量约为以太坊区块链的两倍，其中： 
-BSC Chain：25.46 亿美元； 
-以太坊：13.48 亿美元； 
-Solana：11.83 亿美元； 
-Base：4.2718 亿美元； 
-Arbitrum：3.8541 亿美元。
-- [稳定币协议Level完成240万美元融资]() - 📰 null - 【稳定币协议Level完成240万美元融资】3月18日消息，据CoinDesk报道，稳定币协议Level完成240万美元融资，总融资额增至600万美元。本轮投资者包括Flowdesk、Echo财团旗下加密基金NativeCrypto、Path旗下风投机构Feisty Collective及其他天使投资人。
-- [美财长贝森特：美国的制裁政策正在削弱美元作为储备货币的地位]() - 📰 null - 【美财长贝森特：美国的制裁政策正在削弱美元作为储备货币的地位】金色财经报道，美国财长贝森特表示，总统特朗普让我重新考虑美国的制裁政策，因制裁制度正在削弱美元作为储备货币的地位。
-- [AAVE跌破170美元]() - 📰 null - 【AAVE跌破170美元】金色财经报道，行情显示，AAVE跌破170美元，现报169.97美元，24小时跌幅达到1.16%，行情波动较大，请做好风险控制。
-- [数据：Binance 7天净流入48.7亿美元]() - 📰 null - 【数据：Binance 7天净流入48.7亿美元】金色财经报道，据链上分析师 Ai 姨监测，Binance 7 天资金净流入高达 48.7 亿美元， Gate.io 7天资金净流入29.7亿美元，仅次于币安，且24小时资金流入高达26.5亿美元。
-- [美股盘前加密货币股票普跌，Coinbase跌1.23%]() - 📰 null - 【美股盘前加密货币股票普跌，Coinbase跌1.23%】金色财经报道，据行情信息，美股盘前标普 500 指数跌 0.29%，纳指跌 0.36%。加密货币股票普跌，其中：Coinbase(COIN) 跌 1.23%；特斯拉 (TSLA) 跌 1.72%；MicroStrategy (MSTR) 跌 1.62%；MARA Holdings(MARA) 跌 1.39%；Riot Platforms (RIOT) 跌 1.16%。
-- [Opinion Labs完成500万美元种子轮融资，YZi Labs领投]() - 📰 null - 【Opinion Labs完成500万美元种子轮融资，YZi Labs领投】3月18日消息，据官方公告，OpinionLabs宣布完成500万美元种子轮融资，此轮融资由YZiLabs领投，echo、AnimocaVentures、Manifold、AmberGroup等参投。此前报道，8月22日，BinanceLabs宣布已投资BNBChain最有价值建设者(MVB)计划第七季中的4个表现最佳的项目，包括Aggregata、OpinionLabs、SideKick和Vooi。
-- [币安将更新多个 U 本位永续合约杠杆和保证金]() - 📰 null - 【币安将更新多个 U 本位永续合约杠杆和保证金】金色财经报道，据官⽅公告，币安合约将于 2025 年 03⽉18⽇22：00（北京时间）更新 AERGOUSDT、COMBOUSDT、LINAUSDT 和 VIDTUSDTU 本位永续合约的杠杆和保证⾦阶梯。 
-更新前的现有仓位将受到影响，建议⽤⼾在调整前做好相应准备。
-- [或受Binance HODLer空投上线影响，BMT过去24小时上涨超100%]() - 📰 null - 【或受Binance HODLer空投上线影响，BMT过去24小时上涨超100%】金色财经报道，Coingeck行情数据显示，BMT过去24小时上涨104.5%，现报0.2841美元。
-- [BNB突破640美元]() - 📰 null - 【BNB突破640美元】金色财经报道，行情显示，BNB突破640美元，现报640.11美元，24小时涨幅达到0.73%，行情波动较大，请做好风险控制。
-- [Binance HODLer空投上线Bubblemaps (BMT)](https://www.binance.com/zh-CN/square/post/21709110919793) - 📰 null - 【Binance HODLer空投上线Bubblemaps (BMT)】金色财经报道，据官方公告，Binance HODLer 空投现已上线第 12 期项目 - Bubblemaps (BMT)。2025 年 03 月 02 日 08:00 至 2025 年 03 月 07 日 07:59（东八区时间）期间，使用 BNB 申购保本赚币 (定期和/或活期) 或链上赚币产品的用户，将获得空投分配。HODLer 空投信息预计将在五小时内上线，新代币将在交易开始前至少 1 小时分发至用户的现货钱包。 
-Binance 将于 3 月 18 日 23:00（东八区时间）上市 BMT，并开通对 USDT、USDC、BNB、FDUSD 和 TRY 的交易对，适用种子标签交易规则。BMT 充值通道将于 2 小时后开放。
-- [Four.Meme：已恢复 launch 功能，开始补偿受影响用户](https://x.com/four_meme_/status/1901927377917350033?s=46&t=f3qlQkFBoEjKwvDGYKM_aQ) - 📰 null - 【Four.Meme：已恢复 launch 功能，开始补偿受影响用户】金色财经报道，据官方消息，Four.Meme已在进行全面安全检查后恢复launch功能。团队表示已解决相关问题并加强了系统安全。 
-项目方正在对受影响的用户进行补偿。尚未提交索赔申请的用户可通过官方提供的表单链接进行提交。
-- [“Hyperliquid 50 倍杠杆巨鲸”再度入场，开启 5 倍 MELANIA 多单](https://x.com/ai_9684xtpa/status/1901928548711215472) - 📰 null - 【“Hyperliquid 50 倍杠杆巨鲸”再度入场，开启 5 倍 MELANIA 多单】金色财经报道，据 Ai 姨监测，「Hyperliquid 50 倍杠杆获利 1600 万美金巨鲸」在短暂休整 2 小时后再度入场，开启了 MELANIA 代币的 5 倍多单。 
-该巨鲸向 Hyperliquid 充值了 50 万枚 USDC 作为保证金，目前持仓量为 3,498,004.5 枚 MELANIA，价值约 258 万美元，开仓价为 0.7162 美元，清算价为 0.637 美元。受此消息影响，MELANIA 代币短时间内上涨了约 5%。
-- [赵长鹏称未参与币安 Alpha2.0 改版，并称赞其新功能](https://x.com/cz_binance/status/1901926758334501161) - 📰 null - 【赵长鹏称未参与币安 Alpha2.0 改版，并称赞其新功能】金色财经报道，赵长鹏对“币安 Alpha2.0”发表看法，“这是一个绝妙的举措。允许 CEX 用户直接从 CEX 购买任何 DEX 代币，无需提款。感谢团队提出这一想法（我没有参与其中） 。”
-- [ENA解锁地址2小时前向Binance充值1371万枚ENA](https://x.com/ai_9684xtpa/status/1901925971735011586) - 📰 null - 【ENA解锁地址2小时前向Binance充值1371万枚ENA】金色财经报道，据 @ai_9684xtpa 监测，ENA 解锁地址 2 小时前向 Binance 充值 1371 万枚 ENA，价值 507 万美元。 
-这笔资金是 ENA 高达 20.7 亿枚的代币解锁当日（即 03.07）从项目方多签钱包处收到的，期间均未交互。
+- [普京重申和平解决冲突的立场](https://flash.jin10.com/detail/20250319015608767800) - 📰 null - 【普京重申和平解决冲突的立场】金色财经报道，北京时间今天（3月19日）凌晨，俄罗斯总统普京与美国总统特朗普的通话结束。根据克里姆林宫发布的消息，两国领导人继续围绕乌克兰局势详细、坦诚地交换了意见。普京感谢特朗普为实现停止敌对行动、停止人员伤亡目标所付出的努力。普京重申坚持通过和平方式解决冲突的原则立场，并表示愿与美国伙伴一起仔细研究解决冲突的可能途径。该调解方案应该是全面、可持续和长期的，当然还必须考虑到消除危机根源的绝对必要性，以及俄罗斯在安全领域的合法利益。针对美方提出的30天停火倡议，俄方强调了若干关键条件：需对全线停火实施有效监督，必须停止乌克兰境内的强制动员及武装部队重新武装等。
+- [白宫：美俄首脑同意从能源和基础设施停火开始和平进程，海上停火谈判很快开始](https://flash.jin10.com/detail/20250319013313221800) - 📰 null - 【白宫：美俄首脑同意从能源和基础设施停火开始和平进程，海上停火谈判很快开始】金色财经报道，白宫发布特朗普与普京通话情况摘要，双方讨论了俄乌和平与停火的必要性。领导人一致同意，实现和平将从能源和基础设施停火开始，以及就实施黑海海上停火、全面停火和永久和平进行技术谈判。声明称，这些谈判将立即在中东展开。领导人广泛讨论了中东作为一个潜在合作区域，以防止未来冲突。还讨论了遏制战略武器扩散的必要性，并将与其他国家合作，确保尽可能广泛的应用。白宫称，未来美俄双边关系的改善有巨大的好处，这包括巨额的经济交易。
+- [普京支持特朗普提出的俄乌在30天内同时放弃袭击对方能源基础设施的提议](https://www.cls.cn/detail/1975968) - 📰 null - 【普京支持特朗普提出的俄乌在30天内同时放弃袭击对方能源基础设施的提议】金色财经报道，克里姆林宫消息，普京支持特朗普提出的俄乌在30天内同时放弃袭击对方能源基础设施的提议，并已立即向俄军下达相关指令。普京表示，外国应停止向乌克兰提供武器援助。普京和特朗普同意就黑海安全展开会谈。
+- [盛宝银行：欧洲央行今年仍将降息](https://flash.jin10.com/detail/20250318224816201800) - 📰 null - 【盛宝银行：欧洲央行今年仍将降息】金色财经报道，盛宝银行的雅各布·法尔肯克朗表示，欧洲央行今年仍将降息，但欧洲计划中的财政刺激措施最终可能导致通胀，这将影响利率前景。预计计划中的财政刺激措施将导致欧洲内部需求增加，这将增加一些通胀压力。他说，欧洲央行今年可能最多下调两次利率。货币市场目前定价欧洲央行今年两次降息。
+- [普京与特朗普讨论乌克兰局势 俄乌将互换175名战俘](https://www.cls.cn/detail/1975965) - 📰 null - 【普京与特朗普讨论乌克兰局势 俄乌将互换175名战俘】金色财经报道，美国总统特朗普和俄罗斯总统普京通电话。据克里姆林宫消息，两国领导人围绕乌克兰局势继续进行了交流。普京向特朗普通报，19日俄乌双方将互换175名被俘人员。普京表示，俄方支持以和平方式解决冲突，俄方愿同美方伙伴共同制定可行的调解方案，该方案应具有综合、稳定和长期等性质，同时必须考虑消除危机根本原因的绝对必要性以及俄罗斯在安全领域合法利益。
+- [英伟达：将与电信企业合作开发基于人工智能的6G无线技术](https://www.cls.cn/detail/1975977) - 📰 null - 【英伟达：将与电信企业合作开发基于人工智能的6G无线技术】金色财经报道，英伟达表示，将与电信企业合作开发基于人工智能的6G无线技术。此番电信合作伙伴包括T-Mobile、Mitre、思科、ODC、Booz Allen。
+- [Coinbase调查：超75%机构投资者计划2025年增加加密资产配置]() - 📰 null - 【Coinbase调查：超75%机构投资者计划2025年增加加密资产配置】金色财经报道，Coinbase调查：超75%机构投资者计划2025年增加加密资产配置。
+- [稳定币创企孵化器Code & State完成300万美元融资](https://cointelegraph.com/press-releases/code-state-secures-3m-to-incubate-stablecoin-ventures-backed-by-warburg-serres-and-kr1) - 📰 null - 【稳定币创企孵化器Code & State完成300万美元融资】金色财经报道，总部位于迪拜的稳定币创企孵化器Code & State宣布完成300万美元融资，Warburg Serres和KR1参投，新资金将用于支持其孵化专注于扩大稳定币在现实世界中应用的项目。
+- [美国10年期国债收益率跌至盘中低点，目前为4.277%]() - 📰 null - 【美国10年期国债收益率跌至盘中低点，目前为4.277%】金色财经报道，美国10年期国债收益率跌至盘中低点，目前为4.277%。
+- [加密预测平台Yeet完成775万美元融资](https://decrypt.co/310338/yeet-raises-7-million-crypto-casino) - 📰 null - 【加密预测平台Yeet完成775万美元融资】金色财经报道，加密预测平台 Yeet 完成 775 万美元融资，Dragonfly 领投，Pudgy Penguins CEO Luca Netz、LayerZero CEO Bryan Pellegrino 等天使投资人参投。 
+Yeet 由加密领域知名人士 Michael Anderson（化名 Mando）、匿名交易员 Keyboard Monkey 与职业扑克选手 Ben Lamb 联合创立，主打“加密用户的预测市场”，目标用户为高风险偏好的加密原生群体。
+- [美股低开低走 三大指数均跌超1%]() - 📰 null - 【美股低开低走 三大指数均跌超1%】金色财经报道，美股低开低走，三大指数均跌超1%。截至目前，纳指跌1.84%，标普500指数跌1.28%，道指跌1%。
+- [Miles Jennings将接替Brian Quintenz担任a16z crypto政策主管](https://x.com/cdixon/status/1902035800126361720) - 📰 null - 【Miles Jennings将接替Brian Quintenz担任a16z crypto政策主管】金色财经报道， a16z crypto 管理合伙人 Chris Dixon 在 X 平台发文宣布，该机构原总法律顾问 Miles Jennings 将接替 Brian Quintenz 担任 a16z crypto 政策主管。 
+此前消息，特朗普计划任命 Brian Quintenz 担任美国商品期货交易委员会（CFTC）主席。
+- [企业区块链Crossmint完成2360万美元融资](https://www.theblock.co/post/346863/ribbit-capital-leads-23-6-million-funding-round-for-enterprise-blockchain-platform-crossmint?utm_source=twitter&utm_medium=social) - 📰 null - 【企业区块链Crossmint完成2360万美元融资】金色财经报道，企业区块链公司 Crossmint 在由风险投资公司 Ribbit Capital 领投的一轮融资中筹集了 2360 万美元。其他参投者包括富兰克林邓普顿、Nyca、First Round、Lightspeed Faction、HF0 等。Crossmint 计划利用新融资继续开发 AI 代理基础设施和企业区块链工具。
+- [俄罗斯总统普京与美国总统特朗普通话结束](https://flash.jin10.com/detail/20250319004425163800) - 📰 null - 【俄罗斯总统普京与美国总统特朗普通话结束】金色财经报道，当地时间3月18日，俄罗斯媒体援引克宫消息称，俄美领导人通话结束。当天稍早前，美国白宫表示，美国总统特朗普和俄罗斯总统普京自美国东部时间上午10时开始通电话。今日俄罗斯电视台援引白宫的表态称，双方交流良好。美国总统助理斯卡维诺在社交媒体上发文称“对话进展顺利”。
+- [Solana Mobile第二款手机Solana Seeker预计2025年夏季开始发货](https://x.com/solana/status/1902033071987183827) - 📰 null - 【Solana Mobile第二款手机Solana Seeker预计2025年夏季开始发货】金色财经报道，Solana Mobile 开发的第二款手机 Solana Seeker 正在测试中，预计 2025 年夏季开始发货。 
+Solana Seeker 是其继首款手机 Solana Saga 之后的下一代 Web3 智能手机，售价 500 美元。与前代 Saga 相比，Seeker 在硬件上进行了显著改进，包括更轻薄的设计、更明亮的显示屏、增强的摄像头性能以及更长的电池续航。Seeker 内置 Seed Vault，这是与硬件深度集成的自托管加密钱包，并配备了升级版 Solana 去中心化应用商店。每台 Seeker 手机附带一个独特的“灵魂绑定”NFT，名为 Seeker Genesis Token。
+- [Coinbase推出验证池Verified Pools，基于Uniswap v4构建](https://www.coinbase.com/blog/the-future-of-onchain-Liquidity-is-here-via-coinbase-verified-pools) - 📰 null - 【Coinbase推出验证池Verified Pools，基于Uniswap v4构建】金色财经报道，Coinbase 宣布推出验证池（Verified Pools），作为进行链上交易和兑换的一种方式，Verified Pools 建立在 Uniswap v4 协议之上，为符合条件地点的散户和机构参与者而设计，并集成了其 KYC 验证系统 Coinbase Verifications。验证池通过将身份验证与智能合约透明度集成，降低交易对手风险，同时维护链上市场的开放性和效率。其验证池目前向美国、新加坡、荷兰、英属维尔京群岛、开曼群岛和海峡群岛的用户开放。
+- [扎克伯格：Meta Llama模型下载量突破10亿，预计今年推多款新模型](https://techcrunch.com/2025/03/18/mark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads/) - 📰 null - 【扎克伯格：Meta Llama模型下载量突破10亿，预计今年推多款新模型】金色财经报道，Meta CEO马克·扎克伯格在Threads上宣布，Llama系列AI模型的总下载量已突破10亿次，较2024年12月的6.5亿次增长约53%。此外，Meta正加速Llama开发，并计划2025年投资高达800亿美元用于AI项目。Meta预计未来几个月将推出多款Llama新模型，包括类似OpenAI o3-mini的“推理”模型和具备原生多模态能力的AI。首届LlamaCon开发者大会定于4月29日举行，届时或将公布更多相关细节。
+- [Coinbase Prime再次将约66.5枚BTC转入灰度比特币Mini Trust地址](https://intel.arkm.com/explorer/tx/d11d206a4fad7c9c2840ae66d3f38469c225b39a88dfdb7750bd273b04d18a63) - 📰 null - 【Coinbase Prime再次将约66.5枚BTC转入灰度比特币Mini Trust地址】金色财经报道，链上数据显示，北京时间2025年3月18日23:26，Coinbase Prime热钱包（3MqUP）向灰度比特币Mini Trust地址（bc1qw）转入66.46枚BTC，约合5,431,267.65美元。
+- [AI代码审查平台Graphite完成5200万美元B轮融资](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/) - 📰 null - 【AI代码审查平台Graphite完成5200万美元B轮融资】金色财经报道，由Anthropic支持的AI代码审查平台Graphite宣布完成5200万美元B轮融资，本轮融资由Accel领投，Anthropic旗下Anthology Fund、Menlo Ventures、Shopify Ventures、Figma Ventures、Andreessen Horowitz及The General Partnership参投。 
+Graphite由Tomas Reimers、Greg Foster和Merrill Lutsky于2020年创立，最初专注于移动开发工具，后转向AI驱动的代码审查。
+- [某鲸鱼花费971枚WETH买入250万枚VIRTUAL，浮亏15万美元](https://x.com/OnchainLens/status/1902025643615015417) - 📰 null - 【某鲸鱼花费971枚WETH买入250万枚VIRTUAL，浮亏15万美元】金色财经报道，某鲸鱼过去 2 天花费 971 枚 WETH 买入 250 万枚 VIRTUAL，现浮亏 15 万美元，此前该鲸鱼还曾交易 VIRTUAL 损失 446 万美元。
