@@ -1,27 +1,42 @@
-- [美股延续涨势，标普500指数涨幅扩大至1%]() - 📰 null - 【美股延续涨势，标普500指数涨幅扩大至1%】金色财经报道，美股延续涨势，标普500指数涨幅扩大至1%。
-- [研究机构：美国国债2月交易量创下纪录高位](https://flash.jin10.com/detail/20250317235122545800) - 📰 null - 【研究机构：美国国债2月交易量创下纪录高位】金色财经报道，据金融分析公司Crisil Coalition Greenwich数据，2月是美国国债市场有史以来最繁忙的一个月，围绕特朗普关税政策的不确定性以及美联储降息押注的增加提振了交易量。该公司市场结构研究主管Kevin McPartland在报告中写道：“他们会不会加关税、通胀意外和降息预期的复苏让投资者和交易员忙个不停。”2月美国国债日均名义交易量为1.068万亿美元，同比增长16%，超过2024年8月成为有纪录以来最活跃月份。2月28日超过10月31日成为有史以来最繁忙的一天。
-- [BTC突破84000美元]() - 📰 null - 【BTC突破84000美元】金色财经报道，行情显示，BTC突破84000美元，现报84033美元，24小时涨幅达到0.46%，行情波动较大，请做好风险控制。
-- [雷蛇拟使用World ID验证其用户身份](https://www.razer.com/software/proof-of-human) - 📰 null - 【雷蛇拟使用World ID验证其用户身份】金色财经报道，电子设备潮流品牌雷蛇（Razer）宣布拟使用World ID验证其用户身份，用户登陆或创建Razer ID时可在帐户页面中的人工验证模块单击“使用World ID 验证”并且按照说明在World App上进行验证。验证后Razer ID将解锁经过验证的人工徽章。
-- [普京与特朗普将于18日通话，俄方透露更多准备情况](https://www.cls.cn/detail/1974609) - 📰 null - 【普京与特朗普将于18日通话，俄方透露更多准备情况】金色财经报道，俄罗斯总统新闻秘书佩斯科夫当地时间3月17日表示，俄总统普京与美国总统特朗普的电话交谈正在就议程的主题进行准备，主要话题是调解乌克兰问题。在回答记者有关此次通话的准备时长问题时，佩斯科夫表示，类似的电话会谈筹备工作能够在短时间内完成。当天早些时候佩斯科夫表示，普京与特朗普将于3月18日通电话。特朗普当地时间16日晚也表示，他计划在18日与普京通话。
-- [Securitize和Ethena推出EVM兼容区块链Converge](https://www.coindesk.com/business/2025/03/17/tokenization-specialists-securitize-and-ethena-unveil-institutional-defi-blockchain) - 📰 null - 【Securitize和Ethena推出EVM兼容区块链Converge】金色财经报道，与贝莱德货币市场基金 BUIDL 有密切合作的 Securitize 和 Ethena 宣布推出 EVM 兼容的机构级 DeFi 区块链 Converge，旨在容纳代币化资产并为机构投资者提供去中心化金融（DeFi）的创新。据 Ethena 创始人 Guy Young 透露，将会有由 Securitize 提供的新产品被部署在该区块链上，从而开辟新的用例。此外，由于 EVM 兼容使其无需修改即可运行基于以太坊的智能合约、dApp 和工具。
-- [3月17日美国比特币ETF净流入641枚BTC，以太坊ETF净流出48979枚ETH](https://x.com/lookonchain/status/1901673497203786001) - 📰 null - 【3月17日美国比特币ETF净流入641枚BTC，以太坊ETF净流出48979枚ETH】金色财经报道，据 Lookonchain 监测，3 月 17 日 10 只美国比特币 ETF 净流入 641 枚 BTC，其中 ARK 21Shares 流入 1187 枚 BTC，当前其持有 47431 枚 BTC，价值约合 39.8 亿美元；9 只以太坊 ETF 净流出 48979 枚 ETH，其中灰度 ETHE 流出 22610 枚 ETH，目前灰度 ETHE 持有 1214497 枚 ETH，价值约合 23.4 亿美元。
-- [链游生态SlingShot DAO完成1600万美元融资](https://x.com/SlingshotDAO/status/1901385136664392175) - 📰 null - 【链游生态SlingShot DAO完成1600万美元融资】金色财经报道，Web3 社区驱动游戏生态 SlingShot DAO 宣布完成 1600 万美元融资，Dragonfly、Animoca Brands、DCG、Sfermion 等参投。 
-SlingShot DAO 同时披露“$SLING is loading...”，或暗示将发行 SLING 代币。SlingShot DAO 是一个社区驱动的游戏生态平台，成员可以通过 SlingShot 应用程序协作将想法转化为游戏体验。 
-此前消息，2024 年 5 月 8 日，SlingShot DAO 官方宣布完成 300 万美元新一轮融资，Alphabit Fund 参投。
-- [美SEC代理主席：正考虑取消或修改拜登任期内投资者资产保护的提案，包括加密货币](https://www.cls.cn/detail/1974603) - 📰 null - 【美SEC代理主席：正考虑取消或修改拜登任期内投资者资产保护的提案，包括加密货币】金色财经报道，美国证交会（SEC））代理主席表示，正在考虑对共同基金和ETF的投资组合持有情况的每月报告规则进行调整。正在考虑取消或修改拜登任期内提出的有关投资者资产保护（包括加密货币）的提案。
-- [某交易者仅投入0.4 BNB在mubarak上获得4860倍回报](https://x.com/lookonchain/status/1901662895399940399) - 📰 null - 【某交易者仅投入0.4 BNB在mubarak上获得4860倍回报】金色财经报道，据 Lookonchain 监测，某交易者仅投入 232 美元在$mubarak 上获得 4860 倍回报，他花费 0.4 枚 BNB 买入 1050 万枚$mubarak，并将其中一部分以 576 BNB（约 36.35 万美元）的价格出售，剩余 516 万枚$MUBARAK（约 76.4 万美元）保留在 3 个钱包中。
-- [Arbitrum开发团队Offchain Labs推出链上创新项目“Onchain Labs”](https://medium.com/offchainlabs/onchain-labs-accelerating-the-app-layer-of-arbitrum-1ac2b64eeae3) - 📰 null - 【Arbitrum开发团队Offchain Labs推出链上创新项目“Onchain Labs”】金色财经报道，Arbitrum 开发团队 Offchain Labs 宣布推出链上创新项目划“Onchain Labs”，旨在支持致力于公平公正启动的项目，其持的项目将是实验性的和不稳定。此外，Offchain Labs 提醒社区参与者在购买与 Onchain Labs 项目相关的任何代币或与其互动之前进行自己的研究（DYOR），其角色将严格专注于产品和上市建议。Offchain Labs 还透露，第一个 Onchain Labs 项目即将面世。
-- [Crypto.com已完成阿根廷VASP注册，将在拉美市场扩展加密服务](https://financefeeds.com/crypto-com-gains-argentina-vasp-registration-expands-crypto-services-in-latam/) - 📰 null - 【Crypto.com已完成阿根廷VASP注册，将在拉美市场扩展加密服务】金色财经报道， Crypto.com 宣布已完成阿根廷虚拟资产服务提供商注册，将在拉美市场扩展服务，据悉阿根廷国家证券委员会批准了 Crypto.com 的虚拟资产服务提供商（VASP）注册申请，后续该交易所将推出本地化加密产品。
-- [至少有13个基于Solana的交易所交易产品正在等待美SEC批准](https://www.theblock.co/post/346610/solana-futures-debut-today-on-cme-heres-what-you-need-to-know) - 📰 null - 【至少有13个基于Solana的交易所交易产品正在等待美SEC批准】金色财经报道，根据申请信息显示，目前至少有 13 个基于 Solana 的交易所交易产品等待美国证券交易委员会批准，申请方有灰度、Bitwise、Canary、21Shares 等机构，包括：Grayscale Solana Trust （Conversion） 、Bitwise Solana ETF、REX-Osprey SOL ETF、VanEck Solana Trust、21Shares Core Solana ETF、Canary Solana ETF 等。 
-然而由于 Paul Atkins 目前仍然没有被正式任命担任美国证券交易委员会主席，这些申请暂时悬而未决。ETF Store 总裁 Nate Geraci 上周发文预测贝莱德将申请 Solana 和 XRP ETF，此外彭博 ETF 分析师此前估计到今年年底 Solana ETF 获得批准的几率达到 70%。
-- [Canary向美SEC提交SUI ETF的S-1文件](https://x.com/solidintel_x/status/1901662711412400283) - 📰 null - 【Canary向美SEC提交SUI ETF的S-1文件】金色财经报道，据市场消息，Canary 向美 SEC 提交申请 SUI ETF 的 S-1 文件。
-- [某巨鲸再将22万枚AUCTION转入Binance](https://x.com/EmberCN/status/1901659804332122213) - 📰 null - 【某巨鲸再将22万枚AUCTION转入Binance】金色财经报道，据 EmberCN 监测，此前从 Binance 提出了 200 万枚 AUCTION (占总量的 26%) 的巨鲸/机构，于 15 分钟前又将 22 万枚 AUCTION ($7.18M) 转入 Binance。 
-该巨鲸实体用 4 个地址提出这 200 万枚 AUCTION，每个地址 50 万枚。目前最早提出 AUCTION 地址内的 50 万枚 AUCTION 在最近 5 个小时里转进了 Binance。同时 AUCTION 价格也从 35 美元回调到目前 32 美元。
-- [Solana期货已正式上线CME](https://www.theblock.co/post/346610/solana-futures-debut-today-on-cme-heres-what-you-need-to-know?utm_source=twitter&utm_medium=social) - 📰 null - 【Solana期货已正式上线CME】金色财经报道，Solana 期货已正式上线 CME，目前 CME 提供了两种规模的新合约：覆盖 25 SOL 的微型合约和覆盖 500 SOL 的大型合约。 
-CME 集团加密货币产品全球主管 Giovanni Vicioso 表示，“随着 Solana 逐渐成为开发者和投资者的首选平台，这些新的期货合约将提供一个资本高效的工具，以支持他们的投资和对冲策略。”
-- [Messari发布Helium去年Q4报告：运营数据激增](https://messari.io/report/state-of-helium-q4-2024?utm_source=twitter&utm_medium=organic_social&utm_campaign=q4_quarterlies&destination=protocol_services_research) - 📰 null - 【Messari发布Helium去年Q4报告：运营数据激增】金色财经报道，据Messari发布的Helium 2024年Q4报告，Helium网络运营数据大幅增长，其中运营商数据卸载量环比增长555%至576TB，移动热点增长14%至24,800个，每日移动付费流量增长99%，显示其在电信行业的颠覆性潜力。同时，Helium通过HIP 138提案 统一HNT作为唯一代币，优化经济模型，并宣布与西班牙电信（Telefonica）合作进入墨西哥市场，覆盖200万Movistar用户。此外，Helium获Grayscale纳入前20大关注代币，并被Coinbase列入COIN50指数，吸引机构投资者关注。在智能城市应用方面，该网络已用于美国洪水监测和森林火灾预警。Helium正通过DePIN（去中心化物理基础设施网络）模式扩张，巩固其Web3电信市场的领导地位。
-- [比特币现货ETF上周净流出8.38亿美元，以太坊现货ETF上周单周净流出1.78亿美元](https://sosovalue.com/zh/assets/etf) - 📰 null - 【比特币现货ETF上周净流出8.38亿美元，以太坊现货ETF上周单周净流出1.78亿美元】金色财经报道，根据 SoSoValue 数据，上周交易日（美东时间 3 月 10 日至 3 月 14 日）比特币现货 ETF 上周单周净流出 8.38 亿美元。以太坊现货 ETF 上周单周净流出 1.43 亿美元。
-- [3月14日美国现货比特币ETF净流入3210万美元，ARKB流入超1亿美元](https://x.com/FarsideUK/status/1901646274706677856) - 📰 null - 【3月14日美国现货比特币ETF净流入3210万美元，ARKB流入超1亿美元】金色财经报道，据 Farside 数据，3 月 14 日（上周五）的 ARKB 资金流动数据刚刚公布，流入达 1.005 亿美元，这使得 2025 年 3 月 14 日成为总体净流入的一天，净流入达 3210 万美元。
-- [摩根大通：三月比特币网络算力小幅上升，挖矿经济性下降]() - 📰 null - 【摩根大通：三月比特币网络算力小幅上升，挖矿经济性下降】金色财经报道，据 CoinDesk 报道，摩根大通（JPM）周一发布的研究报告显示，2025 年 3 月前两周，比特币网络算力增长了 2 EH/s，平均达到 811 EH/s。 
-报告指出，美国上市矿企维持了约 30% 的网络算力份额。同时，期内比特币平均价格下跌约 10%，对挖矿经济性造成压力。算力价格（衡量日常挖矿盈利能力的指标）与上月底相比基本保持不变。3 月前两周，矿工每 EH/s 每日区块奖励收入约为 48,300 美元，比 2 月下降 11%，较去年 4 月减半事件后下降 52%。 
-摩根大通跟踪的 14 家美国上市矿企总市值较上月下滑 13%，约 30 亿美元。其中，Argo Blockchain（ARGO）表现最佳，上涨 1%，而 Cipher Mining 表现最差，下跌 25%。报告补充说，同期内，该行覆盖的矿企中仅有一家表现优于比特币。
+- [昨日FBTC净流入1.273亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流入1.273亿美元】金色财经报道，据Farside Investors监测数据，昨日FBTC净流入1.273亿美元。
+- [Cronos关于恢复已销毁的700亿枚CRO提案获投票通过，但投票过程遭社区质疑](https://unchainedcrypto.com/crypto-com-forces-through-controversial-vote-to-re-mint-70-billion-cro/?ref=onepagecrypto.com) - 📰 null - 【Cronos关于恢复已销毁的700亿枚CRO提案获投票通过，但投票过程遭社区质疑】3月18日消息，Mintscan上的投票数据显示，Cronos关于恢复已销毁的700亿枚CRO提案投票以62.18%的支持率获得通过，该提案提议恢复2021年销毁的700亿枚CRO代币来建立Cronos战略储备，并将在Cronos POS V5升级中更新网络参数和代币分配。 
+此外，据Un Chained报道，上述提案在3月16日前赞成票几乎略多于反对票，但当时尚未达到生效所需的33.4%的法定人数。在投票快结束前，33.5亿枚CRO代币被添加到赞成类别，达到法定人数，投票率也远远超过最高投票率。消息人士称，有问题的投票来自Crypto.com运营的大型验证者（包括Starship、Falcon Heavy、Electron、Antares和Minotaur IV），该公司控制着70-80%的总投票权。一位代币持有者在Telegram上谈到最终结果时说道。“他们 （Crypto.com）几乎是在最后一刻才投票。现在他们创造了一个其他项目可以效仿的先例。”
+- [“Hyperliquid上50倍巨鲸”平仓全部多单后加仓做空BTC](https://x.com/EmberCN/status/1901795505145036820) - 📰 null - 【“Hyperliquid上50倍巨鲸”平仓全部多单后加仓做空BTC】金色财经报道，据余烬监测，“Hyperliquid上50倍巨鲸”以小额亏损平仓MELANIA、HYPE两个多单后重新加仓了BTC空单，目前的40倍杠杆做空6210枚BTC仓位其总计将1675万枚USDC转进Hyperliquid作保证金，也是其地址内的所有资金。
+- [美参议院定于3月27日就Paul Atkins出任SEC主席的任职资格举行听证会]() - 📰 null - 【美参议院定于3月27日就Paul Atkins出任SEC主席的任职资格举行听证会】金色财经报道，美国参议院委员会听证会将于3月27日举行，Paul Atkins可能离成为美国证券交易委员会新任加密货币友好主席更近一步。美国总统特朗普于12月4日提名Atkins领导SEC，但他与亿万富翁家族的婚姻关系据称在财务披露方面引发了问题，导致其潜在上任日期被推迟。 
+虽然尚不清楚白宫是否已向参议院提交了相关文件，但据Semafor的Eleanor Mueller在3月17日的X帖子中表示，参议院银行、住房和城市事务委员会主席Tim Scott计划在3月27日举行听证会，审查Atkins的资格。Mueller还表示，参议院银行委员会计划于3月21日就Atkins的提名举行两党会议。 
+据《福布斯》2024年12月14日报道，Atkins妻子的家族与TAMKO Building Products LLC有关联，这是一家住宅屋顶瓦片制造商，据报道2023年收入达12亿美元。自特朗普于12月4日选择Atkins领导SEC以来，已经过去了近四个月，而自特朗普于1月20日就职以来，也已经过去了两个多月。然而，SEC主席的延迟上任并不罕见。
+- [调查：只有10%的美国选民希望特朗普政府增加对加密货币和区块链开发的联邦资金支持](https://x.com/BTCTN/status/1901793629775237366) - 📰 null - 【调查：只有10%的美国选民希望特朗普政府增加对加密货币和区块链开发的联邦资金支持】金色财经报道，根据Data for Progress的调查，只有10%的美国选民希望特朗普政府增加对加密货币和区块链开发的联邦资金支持。相比之下，许多人更优先支持社会保障（65%）、医疗保险（64%）和基础设施建设（64%）。 
+特朗普总统下令创建一个由没收的比特币资助的加密货币战略储备，这一举措引发了广泛讨论。虽然51%的选民反对设立该储备，但不同党派之间的意见存在分歧。 
+调查还显示，选民对联邦政府增加人工智能研究资金的支持热情不高，仅有20%的人支持增加。与此同时，民主党支持的项目，如公立教育和医疗保险，获得了强烈支持。
+- [Dragonfly管理合伙人：2018年错过Solana种子轮投资，这是史上最糟糕的投资失误](https://x.com/hosseeb/status/1901732151239847993) - 📰 null - 【Dragonfly管理合伙人：2018年错过Solana种子轮投资，这是史上最糟糕的投资失误】金色财经报道，Dragonfly管理合伙人Haseeb Qureshi在X平台发文称：“我在2018年初以0.04美元的价格错过了Solana的种子轮投资,按当前价格计算，这相当于3250倍的回报。Solana是我作为初级风投时最早接触的项目之一，当时我为每一个错过的交易都写了备忘录。现在重读这份备忘录，简直是初级风投的尴尬巅峰。当时我们痴迷于‘以太坊杀手’、共识协议，以及什么会取代EVM/eWASM。所以，这就是未经编辑的版本(即其写的备忘录)——有史以来最糟糕的投资失误。”
+- [Aptos推出LFM计划以帮助生态项目筹备TGE](https://x.com/Aptos/status/1901785803468214588) - 📰 null - 【Aptos推出LFM计划以帮助生态项目筹备TGE】金色财经报道，据官方消息，Aptos宣布推出LFM计划以帮助生态项目筹备代币生成事件（TGE），将根据项目对TGE的准备情况提供定制化的深度支持，专家网络覆盖社区建设、交易平台上市、融资、法律、安全等多个领域。
+- [Coinbase国际站新增XRP为永续期货交易的抵押品](https://x.com/CoinbaseIntExch/status/1901732815416254482) - 📰 null - 【Coinbase国际站新增XRP为永续期货交易的抵押品】金色财经报道，据官方消息，Coinbase国际站宣布，Ripple（XRP）现在可以用作Coinbase国际交易所永续期货交易的抵押品。
+- [特朗普及其合作伙伴从WLFI代币发行中获利3.9亿美元](https://news.bloomberglaw.com/crypto/trumps-crypto-project-has-raised-550-million-in-token-sales) - 📰 null - 【特朗普及其合作伙伴从WLFI代币发行中获利3.9亿美元】金色财经报道，由美国总统唐纳德·特朗普推广的加密项目——World Liberty Financial，已完成第二轮代币销售，总共筹集了5.5亿美元，WLFI已预留3000万美元用于支付公司开支等花销。 
+根据World Liberty首次代币销售的发行文件，特朗普以及与其相关的公司DT Marks DEFI LLC将收取净收入的75%作为费用——即3.9亿美元。此外，代币购买者目前不得转售代币，也无权获得任何利润。该项目于去年10月中旬启动了首次代币销售，并向美国及非美国投资者进行推广。 
+该项目于去年 10 月中旬启动了首次代币销售，并向美国及非美国投资者进行推广。
+- [Hashdex寻求美SEC批准将Solana、XRP、Cardano等资产纳入其指数ETF]() - 📰 null - 【Hashdex寻求美SEC批准将Solana、XRP、Cardano等资产纳入其指数ETF】金色财经报道，根据周一向监管机构提交的一份文件，Hasdex已要求美国证券交易委员会批准一项修正案，允许这家数字资产管理公司在其Hashdex纳斯达克加密指数美国ETF（NCIQ）中加入XRP、Solana、Cardano和其他主要的山寨币。 
+该基金目前主要关注比特币，追踪较小比例的以太坊，还将包括链克、Uniswap、莱特币和Avalanche。在提交该文件之际，发行商们正致力于在其加密追踪交易所交易基金中增加对山寨币的覆盖。最近几个月，基金经理们提出了直接追踪各种加密货币价格的新投资产品，从Dogecoin到XRP、Solana，甚至还有唐纳德-特朗普（Donald Trump）的官方备忘录币。 
+本周一，Canary Capital申请了基于SUI的ETF，SUI是1层Sui区块链的原生代币。
+- [Tether增加对比特币矿企Bitdeer的持股](https://blockspace.media/insight/tether-increases-stake-in-bitdeer-technologies/) - 📰 null - 【Tether增加对比特币矿企Bitdeer的持股】金色财经报道，根据提交给美国证券交易委员会的文件，稳定币发行商Tether增加了对比特币矿企Bitdeer (BTDR) 的持股。文件显示，Tether及其子公司Tether International, SA de CV和Tether Investments, SA de CV目前共持有Bitdeer 31,891,689股A类普通股，占该公司已发行股份的21.4%。 
+Tether以其稳定币USDT而闻名。然而，该公司在过去几年中一直在投资比特币挖矿、能源和人工智能基础设施。与此同时，Bitdeer一直在寻求从硅到能源的比特币挖矿业务的垂直整合。Bitdeeer最近公布了其SEALMINER A3芯片的测试结果，在实验室测试中，其性能低于10 J/TH。
+- [pump.fun向Kraken存入196,370枚SOL，约合2531万美元](https://x.com/OnchainLens/status/1901782579050889511) - 📰 null - 【pump.fun向Kraken存入196,370枚SOL，约合2531万美元】金色财经报道，据Onchain Lens监测，1小时前，pump.fun向Kraken存入196,370枚SOL，约合2531万美元。
+- [WLFI宣布已将BTC、ETH、TRX、LINK、SUI、ONDO纳入战略代币储备](https://medium.com/@wlfi/trump-inspired-world-liberty-financial-closes-550-million-across-token-sales-bc9c50950f93) - 📰 null - 【WLFI宣布已将BTC、ETH、TRX、LINK、SUI、ONDO纳入战略代币储备】金色财经报道，据官方消息，特朗普加密项目WLFI宣布完成总计5.5亿美元的代币销售，完成KYC认证的参与者超过85,000名。WLFI“宏观战略”还在其战略储备计划中配置了多种数字资产，包括BTC、ETH、TRX、LINK、SUI和ONDO代币。 
+“宏观战略”可能部分用于支持WLFI资助创新项目、促进生态系统增长，并在快速发展的DeFi领域创造新的机遇。
+- [昨日ARKB净流入8850万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入8850万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入8850万美元，灰度BTC净流入1420万美元。
+- [CryptoQuant CEO：比特币牛市周期已经结束](https://x.com/ki_young_ju/status/1901776137715671191) - 📰 null - 【CryptoQuant CEO：比特币牛市周期已经结束】金色财经报道，CryptoQuant CEO Ki Young Ju在社交媒体发文称，比特币牛市周期已经结束，预计将有6-12个月的熊市或横盘价格走势。
+- [Blockspace：开发者共识或正围绕比特币软分叉提案达成一致](https://www.coindesk.com/tech/2025/03/17/developer-consensus-may-be-converging-on-a-bitcoin-soft-fork-proposal-blockspace) - 📰 null - 【Blockspace：开发者共识或正围绕比特币软分叉提案达成一致】3月18日消息，据CoinDesk引援Blockspace报道，两个比特币改进提案（BIP）：BIP 119和BIP 348正在获得民众支持，这两个提案可能会在比特币的下一次软分叉中实现。BIP 119指的是OP_CHECKTEMPLATEVERIFY (CTV)，而BIP 348指的是OP_CHECKSIGFROMSTACK (CSFS)。 
+这些BIP提出了编写比特币脚本的新方法，得到了众多开发人员的明确支持，并可以显著改善比特币的自我托管、费用管理以及现有技术，如闪电网络、Ark和基于合约的应用程序。Blockspace写道，这是四年多以来比特币用户首次推动对项目底层软件的改变。 
+据悉，比特币软分叉的过程需要包括开发者、托管人、投资者和矿工在内的利益相关者的支持，矿工需要表示支持对其开采的区块进行更改。
+- [“Hyperliquid上50倍巨鲸”BTC空单转为浮亏，预估爆仓价为85,565美元](https://hypurrscan.io/address/0xf3F496C9486BE5924a93D67e98298733Bb47057c) - 📰 null - 【“Hyperliquid上50倍巨鲸”BTC空单转为浮亏，预估爆仓价为85,565美元】3月18日消息，据hypurrscan数据，“50倍杠杆巨鲸”此前在Hyperliquid上于比特币83,923.2美元时开设40倍BTC空单头寸，随着比特币小幅反弹叠加支付杠杆资金费用，目前其该头寸已处于浮亏状态，预估爆仓价为85,565美元。 
+此前，一场针对Hyperliquid50倍杠杆巨鲸的“猎鲸行动”已经开始，Justin Sun或已加入。
+- [金色晨讯 | 3月18日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 3月18日隔夜重要动态一览】21:00-7:00关键词：Plume Network、SUI ETF、鲍曼、Ripple 
+1.Solana期货已正式上线CME； 
+2.YZi Labs 宣布投资 Plume Network； 
+3.Canary向美SEC提交SUI ETF的S-1文件； 
+4.特朗普任命鲍曼担任美联储新任监管副主席； 
+5.Ripple申请托管与钱包商标，或扩展加密托管业务； 
+6.至少有13个基于Solana的交易所交易产品正在等待美SEC批准； 
+7.World Network与Razer合作推出单点登录机制，以解决游戏中的机器人问题； 
+8.美SEC代理主席：正考虑取消或修改拜登任期内投资者资产保护的提案，包括加密货币。
+- [OpenAI称大多数用户的API问题已得到解决](https://finance.sina.com.cn/7x24/2025-03-18/doc-inepznxr8957037.shtml) - 📰 null - 【OpenAI称大多数用户的API问题已得到解决】金色财经报道，OpenAI称大多数用户的API问题已得到解决。
+- [马斯克旗下xAI收购AI视频生成初创公司](https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/) - 📰 null - 【马斯克旗下xAI收购AI视频生成初创公司】金色财经报道，马斯克旗下的 xAI 已正式收购 AI 视频生成初创公司 Hotshot，该公司专注于开发类似 OpenAI Sora 的人工智能视频生成技术。Hotshot 在其网站上表示，它从 3 月 14 日起停止新视频制作服务，目前尚不清楚 Hotshot 全体员工是否会加入 xAI。
