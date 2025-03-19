@@ -1,52 +1,24 @@
-- [去中心化身份管理平台Via Science完成2800万美元B轮融资，Bosch Ventures领投](https://www.citybiz.co/article/673471/via-science-raises-28-million-series-b/) - 📰 null - 【去中心化身份管理平台Via Science完成2800万美元B轮融资，Bosch Ventures领投】金色财经报道，去中心化身份管理平台Via Science宣布完成2800万美元B轮融资，Bosch Ventures领投，BMW i Ventures、MassMutual Ventures、Sentinel Global和Westly Group参投。据悉Via Science的去中心化、零信任架构已经过美国国防部测试，与任何其他Web3技术不同，其结合端到端抗量子加密可确保授权方的访问和隐私。
-- [Cosmos通过开源Evmos获得原生EVM框架](https://www.theblock.co/post/346955/cosmos-evm?utm_source=twitter&utm_medium=social) - 📰 null - 【Cosmos通过开源Evmos获得原生EVM框架】金色财经报道，Cosmos的跨链基金会（ICF）已资助Evmos（EVMOS -32.90%）的开源，这是其包含200多个应用链的多链生态系统的原生EVM框架。基金会表示，该框架此前在Evmos项目下开发，现在将作为“Cosmos EVM”在官方跨链软件栈中维护，包括Cosmos SDK，这意味着Cosmos生态系统现在有了标准化的以太坊虚拟机（EVM）版本。这一发展使Cosmos区块链能够集成Cosmos EVM以实现完全的EVM兼容性，包括通过轻量级EVM配置支持JSON-RPC和以太坊钱包兼容性，用于原生ERC-20代币。该集成通过跨链通信（IBC）协议加强了更广泛的EVM生态系统与Cosmos之间的跨链互操作性。 
-作为这一转变的一部分，Evmos联合创始人Federico Kunze Küllmer将不再担任Evmos的核心贡献者，同时继续就Cosmos EVM的互操作性和模块化架构向ICF提供建议，Evmos指出。Kunze Küllmer的公司Altiplanic是Evmos代码库的核心贡献者，将不再参与该项目。
-- [Upbit NFT开放新交易支持及存款/取款服务](https://upbit.com/service_center/notice?id=4961) - 📰 null - 【Upbit NFT开放新交易支持及存款/取款服务】金色财经报道，据官方公告，Upbit NFT已开放新的交易支持收款交易和存款/取款服务，涉及CoolPets（PETS）等2个NFT项目。交易和存款/取款服务将于2025年3月19日18：00开放，用户可通过已在Upbit NFT注册的Metamask进行NFT存款和取款。 
-此外，Upbit NFT还支持Polygon和以太坊NFT收藏品的交易排名信息。
-- [胜利证券联手巡鹰集团、蚂蚁数科等打造全球首个换电实体资产RWA项目]() - 📰 null - 【胜利证券联手巡鹰集团、蚂蚁数科等打造全球首个换电实体资产RWA项目】金色财经报道，胜利证券宣布与巡鹰集团旗下巡鹰出行、蚂蚁数科、Conflux Network、VDX等成功打造全球首单基于换电实体资产的RWA项目，胜利证券为此RWA产品管理人。该项目将巡鹰出行全国范围内的换电柜和锂电池作为RWA指定资产，结合区块链与物联网(IoT)技术，将换电项目自身价值、运营、收益等数据储备存储在区块链上，形成数字代币。
-- [韩国某男子因在欺诈审判中刺伤Haru Invest CEO面临10年监禁](https://www.theblock.co/post/346953/south-korean-man-faces-10-years-in-prison-for-stabbing-crypto-ceo-during-fraud-trial?utm_source=twitter&utm_medium=social) - 📰 null - 【韩国某男子因在欺诈审判中刺伤Haru Invest CEO面临10年监禁】金色财经报道，韩国检方已请求法院判处一名男子10年监禁，原因是在2024年8月的一场法庭听证会上，该男子刺伤了韩国加密货币托管公司HaruInvest的首席执行官。首尔南部地方检察官办公室向The Block确认，他们在周三的法庭袭击案最终听证会上提出了量刑请求，考虑到犯罪的严重性。 
-袭击者名叫姜某（音译），51岁，他用一把水果刀多次刺伤Haru Invest首席执行官李炯秀的颈部。李炯秀被迅速送往医院，但伤势并未危及生命。 
-这一事件发生在李炯秀因多项诈骗相关指控出庭期间。据检方称，从2020年3月到2023年6月，Haru Invest通过承诺返还本金并支付高达16%的利息，吸引了约1.6万名韩国国内外投资者，尽管该公司自2019年起就处于资本受损状态。2023年6月13日，Haru Invest突然暂停了存款和取款业务，并于去年11月宣布破产。
-- [路透社：多个加密公司正在申请州级或国家级银行牌照](https://cryptonews.com/news/crypto-firms-seek-to-register-as-banks/?feed_id=13063&_unique_id=67da528f856eb) - 📰 null - 【路透社：多个加密公司正在申请州级或国家级银行牌照】金色财经报道，据Cryptonews援引路透社报道，多家金融科技和加密货币公司正在申请州级或国家级银行牌照，希望在亲加密的特朗普政府下获得更快审批。 
-据报道称，获得银行牌照将使加密公司能够提供更广泛的金融服务，增强客户眼中的合法性，并通过吸收存款降低借贷成本。Hunton Andrews Kurth律所合伙人Carleton Goss表示，这也将帮助企业降低资本成本，但同时需接受更严格的监管审查。
-- [慢雾：警惕EOS地址恶意投毒攻击](https://x.com/SlowMist_Team/status/1902224357839323641) - 📰 null - 【慢雾：警惕EOS地址恶意投毒攻击】金色财经报道，据慢雾安全团队披露，EOS区块链正遭遇地址投毒攻击。恶意账户向用户发送0.001枚EOS代币以实施地址投毒，目前已发现多个假冒交易所的账户。 
-这些攻击者创建与知名交易所账户极为相似的假账户，如假冒OKX的"oktothemoon"（真实账户为"okbtothemoon"）和假冒币安的"binanecleos"（真实账户为"binancecleos"）。 
-慢雾安全团队提醒用户保持警惕
-- [北达科他州参议院通过加密货币ATM监管法案，该法案拟限制日交易额为2000美元](https://cointelegraph.com/news/north-dakota-senate-passes-crypto-atm-bill-2000-daily-limit) - 📰 null - 【北达科他州参议院通过加密货币ATM监管法案，该法案拟限制日交易额为2000美元】金色财经报道，据Cointelegraph报道，美国北达科他州参议院以45票赞成、1票反对的结果通过了1447号众议院法案，该法案对加密货币ATM进行监管，并重新加入了每位用户每日交易上限2000美元的条款，此前该条款曾被州众议院删除。 
-该法案要求加密货币ATM和自助服务终端运营商在该州获得货币传输许可，限制用户在其ATM网络中的每日提款额度为2000美元，并发布欺诈警告通知。法案还要求运营商使用区块链分析技术监控可疑活动并向当局报告，同时提供季度报告，包括终端位置、名称和交易数据。 
-该法案现需返回众议院就修改内容进行投票，然后由北达科他州州长Kelly Armstrong决定是否签署成为法律。美国联邦贸易委员会数据显示，比特币ATM欺诈损失从2020年到2023年增长了近十倍，2024年上半年已超过6500万美元。
-- [今日比特币波动率3.48%，持续位于2024年9月以来高位](https://www.coinglass.com/zh/pro/i/bl) - 📰 null - 【今日比特币波动率3.48%，持续位于2024年9月以来高位】金色财经报道，据Coinglass数据，比特币波动率近期持续位于高位，近三日为3.48%创2024年9月以来新高，一定程度上反映出市场流动性不足。美联储将于今夜公布利率决议（3月20日北京时间凌晨2点），预计届时波动率将会跳涨。
-- [4E：美联储决策日前美股和比特币下跌，黄金再创新高](https://x.com/4EChinese/status/1902188754518835426) - 📰 null - 【4E：美联储决策日前美股和比特币下跌，黄金再创新高】3月19日消息，据4E监测，周二美股三大指数结束两连涨，纳指下跌1.71%，标普500跌1.06%，道指跌0.62%。科技股领跌，特斯拉受竞争加剧影响重挫5.34%，英伟达GTC大会新品未能提振股价下跌3.35%。  
-加密市场震荡下行，受美股低开拖累，比特币昨晚快速跌至8.1万美元附近，美股收盘后才有所反弹，截稿时报82,571美元，24小时跌近1%。以太坊或因Pectra升级消息提振逆势上涨1.3%，报1,940美元。其他主流代币多呈小幅下跌。 
-市场聚焦今晚美联储货币政策决议。尽管利率预计维持不变已成市场共识，但投资者仍希望通过“点阵图”和鲍威尔在发布会上的讲话，寻找政策制定者对关税战潜在影响的评估，以及美联储何时再次降息的线索。
-- [24小时现货资金流入/流出榜：TRX净流入2565万美元](https://www.coinglass.com/zh/spot-inflow-outflow) - 📰 null - 【24小时现货资金流入/流出榜：TRX净流入2565万美元】3月19日消息，据Coinglass数据显示，过去24小时，加密现货资金净流入榜如下： 
-TRX净流入2565万美元； 
-BNB净流入1002万美元； 
-OM净流入625万美元； 
-S净流入576万美元； 
-PEPE净流入502万美元。 
-加密现货资金净流出榜如下： 
-BTC净流出5383万美元； 
-SOL净流出748万美元； 
-AUCTION净流出560万美元； 
-DOGE净流出451万美元； 
-CAKE净流出410万美元。
-- [币安将移除ALICE/BTC、 ETHFI/BTC等多个现货交易对](https://www.binance.com/zh-CN/support/announcement/69ff9abd38ad4cfcbe4521f654278a7d) - 📰 null - 【币安将移除ALICE/BTC、 ETHFI/BTC等多个现货交易对】金色财经报道，据官方公告，币安将于2025年03月21日11:00（东八区时间）移除以下现货交易对并停止交易：ALICE/BTC、 ETHFI/BTC、 MBOX/BTC、RSR/FDUSD、TURBO/FDUSD、WIN/BNB。 
-币安强调，为了更好地保护用户和维护高质量的交易市场，币安会对所有上线的现货交易对进行定期审核，并可能因流动性和交易量不佳等多种因素下架部分现货交易对。
-- [金色午报 | 3月19日午间重要动态一览]() - 📰 null - 【金色午报 | 3月19日午间重要动态一览】7:00-12:00关键词：美联储、迪拜、降息 
-1.迪拜金融服务管理局推出代币化监管沙盒； 
-2.美联储将于今夜公布利率决议，3月降息概率仅存1%； 
-3.美联储传声筒：预计未来六个月美联储将保持观望态度； 
-4.美国当局已撤销对去中心化社交网络BitClout创始人的指控； 
-5.美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设； 
-6.北卡罗来纳州比特币储备法案将授权10%的公共资金用于购买比特币； 
-7.亚利桑那州比特币储备法案进入众议院的二读阶段，系当前各州最快进展。
-- [美国现货以太坊ETF昨日净流出5280万美元](https://farside.co.uk/eth/) - 📰 null - 【美国现货以太坊ETF昨日净流出5280万美元】金色财经报道，据Farside Investors监测，美国现货以太坊ETF昨日净流出5280万美元。
-- [10x Research：与2021/2022年的长期熊市不同，目前是更短的“迷你熊市”周期](https://x.com/10x_Research/status/1902203042470199666) - 📰 null - 【10x Research：与2021/2022年的长期熊市不同，目前是更短的“迷你熊市”周期】金色财经报道，10x Research发文表示，与2021/2022年的长期熊市不同，目前是较短的迷你熊市周期模式，其中穿插着急剧的反弹。10x Research表示“我们呼吁在2024年3月/4月保持谨慎，这与我们在2024年9月下旬的极度看涨立场一样反向。虽然在特朗普就职典礼前保持看涨前景，但随着情况的变化，我们迅速扭转了这种观点。”
-- [美银：不确定性升温之际，美联储料将保持利率稳定]() - 📰 null - 【美银：不确定性升温之际，美联储料将保持利率稳定】金色财经报道，美联储料将在3月份的FOMC会议上维持目前的政策立场，美国银行证券分析师预计，在经济不确定性上升的背景下，美联储将采取谨慎而慎重的政策。美联储可能会优先考虑“耐心而非恐慌”，在保持利率稳定的同时，评估经济增长放缓与持续通胀压力之间的平衡。美银分析师预计，美联储最新的经济预测将反映滞胀的因素，增长预测将变弱，通胀预期将向上调整。虽然市场对可能降息的时机进行了猜测，但政策制定者可能会重申数据驱动的方法，强调在做出任何政策转变之前需进一步明确经济前景。投资者将密切关注美联储主席鲍威尔的讲话，以了解美联储如何看待不断变化的风险，包括供应方面的中断、劳动力市场的弹性和地缘政治的不确定性。(金十)
-- [ETH高胜率波段巨鲸5小时前向Hyperliquid充值1804万枚USDC的保证金](https://x.com/ai_9684xtpa/status/1902202742552338528) - 📰 null - 【ETH高胜率波段巨鲸5小时前向Hyperliquid充值1804万枚USDC的保证金】金色财经报道，据链上分析师@ai_9684xtpa监测，ETH高胜率波段巨鲸5小时前用地址0x655...1e0B8直接向Hyperliquid充值了1804万枚USDC的保证金，目前还没有进一步操作，这两天参与了ONDO的多单，亏损1.2万美元。
-- [美联储传声筒：预计未来六个月美联储将保持观望态度](https://x.com/NickTimiraos/status/1902196801265905837) - 📰 null - 【美联储传声筒：预计未来六个月美联储将保持观望态度】金色财经报道，“美联储传声筒”Nick Timiraos表示，央行可以根据好消息或坏消息降息。由于新的通胀风险，降息"好"的机会正在关闭。我预计未来六个月美联储将会保持观望态度，不会采取太多行动。
-- [币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉](https://www.binance.com/zh-CN/support/announcement/detail/a7ab67143b654078a405ed7b5b58fa79) - 📰 null - 【币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉】金色财经报道，据官方公告，币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉。 
-opBNB Chain（opBNB）将于2025年03月20日10:10（东八区时间）进行网络升级。币安预计将于2025年03月20日10:05（东八区时间）暂停opBNB Chain （opBNB）的代币充值、提现业务。 
-BNB Smart Chain（BEP20）将于2025年03月20日10:10（东八区时间）进行网络升级。币安预计将于2025年03月20日10:05（东八区时间）暂停BNB Smart Chain（BEP20）的代币充值、提现业务。
-- [美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设](https://www.datacenterdynamics.com/en/news/nova-energys-natural-gas-powered-cryptomine-in-pennsylvania-approved/) - 📰 null - 【美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设】金色财经报道，Nova Energy 已获得在宾夕法尼亚州 Frenchcreek 镇建设天然气驱动加密货币矿场数据中心的许可。该许可基于三台精益燃烧天然气发动机的批准，这些发动机将为加密货币挖矿提供电力。据联合国 2023 年研究显示，天然气是全球 21% 比特币挖矿运营的能源来源，仅次于煤炭（45%）。
+- [ZachXBT：「50倍巨鲸交易者」的X账户于1月购买，从多个可疑服务商处获得资金](https://x.com/zachxbt/status/1902331970643738772) - 📰 null - 【ZachXBT：「50倍巨鲸交易者」的X账户于1月购买，从多个可疑服务商处获得资金】金色财经报道，链上侦探ZachXBT在社交媒体上发文针对「50倍巨鲸」的澄清发言回应表示，「50倍巨鲸」用户在2025年1月购买了X/Twitter账号，并从钓鱼诈骗客户那里收到5000美元资金，他也通过eXch等可疑服务和多个在线赌场获得资金，却坚称他的钱是「干净的」，明天将公布完整的证据。
+- [美国银行CEO：受到关税影响，美国银行预计美国经济将放缓]() - 📰 null - 【美国银行CEO：受到关税影响，美国银行预计美国经济将放缓】金色财经报道，美国银行CEO：受到关税影响，美国银行预计美国经济将放缓。
+- [某交易者买入764万枚KTA，浮盈114万美元](https://x.com/OnchainLens/status/1902330370345070928) - 📰 null - 【某交易者买入764万枚KTA，浮盈114万美元】金色财经报道，据Onchain Lens监测，某交易者过去6天通过3个不同钱包买入764万枚KTA，总计花费124,769枚USDC，这些代币当前价值126万美元，浮盈114万美元。
+- [稳定币公司Stable Sea完成350万美元融资](https://www.prnewswire.com/news-releases/stable-sea-secures-3-5-million-funding-to-provide-global-stablecoin-offramping-302405372.html) - 📰 null - 【稳定币公司Stable Sea完成350万美元融资】金色财经报道，稳定币公司Stable Sea今天宣布完成一轮350万美元融资，由Kindred Ventures领投， Ludlow Ventures、 DFS Lab、 The Venture Dept.和The Fintech Fund参投。这笔资金将用于进一步实现 Stable Sea 的使命，即提供高效、经济且合规的稳定币流通解决方案。
+- [机构加密平台Utila筹集 1800 万美元A轮融资](https://www.coindesk.com/business/2025/03/19/crypto-wallet-provider-utila-raises-usd18m-as-institutional-demand-for-digital-asset-management-soars?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_source=twitter) - 📰 null - 【机构加密平台Utila筹集 1800 万美元A轮融资】金色财经报道，数字资产运营平台 Utila 在 A 轮融资中筹集了 1800 万美元，Nyca Partners 领投了此轮融资，其他参投方包括 Wing VC、NFX、Haymaker Ventures、Gaingels 和 Cerca Partners。自去年崭露头角以来，最新一轮融资使这家初创公司的风险投资总额达到约 3000 万美元。
+- [Bitlayer BTC Yield首款产品上线47小时满额](https://x.com/BitlayerLabs/status/1902320640763556256) - 📰 null - 【Bitlayer BTC Yield首款产品上线47小时满额】3月19日消息，基于比特币生态BitVM技术落地实现的项目Bitlayer推出的BTC Yield首款产品上线47小时即满额。 
+据了解，Bitlayer该板块集成的首款产品为DeSyn打造的CeDeFi产品BLBTC，用户存入BTC即可获得BTC量化收益、BTR和DSN三部分收益，综合APR最高可达20%，该产品总额度为600 BTC，目前已满额结束。根据官方公告，除获得产品提供的对应APY收益，首次参与Bitlayer BTC Yield的新用户还有机会额外获得10枚BTR新手奖励，总奖励有限先到先得。在确保安全性和透明度的基础上，Bitlayer未来将集成支持更多收益策略产品，为生态用户提供更多增益机会，赋能BTCFi。
+- [涉嫌诈骗网飞1100万美元投资股票和加密货币的好莱坞导演被捕](https://www.theblock.co/post/347017/hollywood-filmmaker-arrested-charged-alleged-11-million-usd-fraud-trade-cryptocurrencies) - 📰 null - 【涉嫌诈骗网飞1100万美元投资股票和加密货币的好莱坞导演被捕】金色财经报道，据 The Block 报道，好莱坞导演 Carl Erik Rinsch 于 3 月 19 日在西好莱坞被捕，被控欺诈和洗钱，涉案金额达 1100 万美元。Rinsch 被指控欺诈一家视频流媒体服务公司（据美联社等多家媒体报道为 Netflix），涉及一部名为《白马》（White Horse）的科幻剧集，该剧最终未能播出。 
+起诉书显示，Rinsch 于 2018 年与 Netflix 达成协议，获得 4400 万美元资金制作科幻剧《白马》。2019 年底，他又额外要求 1100 万美元，但并未用于剧集制作，而是转入个人账户投机股票和加密货币，两个月内亏损超过一半资金。他还将部分资金用于个人奢侈消费，包括购买五辆劳斯莱斯和一辆法拉利。 
+《纽约时报》此前报道称，Rinsch 将价值 400 万美元的狗狗币持有量在 2021 年 5 月增至 2700 万美元。目前，47 岁的 Rinsch 面临多项指控，最高可判处 20 年监禁，已在缴纳 10 万美元保释金后获释。
+- [BTC突破84000美元]() - 📰 null - 【BTC突破84000美元】金色财经报道，行情显示，BTC突破84000美元，现报84000.99美元，24小时涨幅达到1.62%，行情波动较大，请做好风险控制。
+- [AAVE突破180美元]() - 📰 null - 【AAVE突破180美元】金色财经报道，行情显示，AAVE突破180美元，现报180.03美元，24小时涨幅达到5.74%，行情波动较大，请做好风险控制。
+- [ETH突破2000美元]() - 📰 null - 【ETH突破2000美元】金色财经报道，行情显示，ETH突破2000美元，现报2002.54美元，24小时涨幅达到5.48%，行情波动较大，请做好风险控制。
+- [欧洲刑警组织：人工智能和加密技术提高犯罪效率](https://cointelegraph.com/news/europol-ai-crypto-organized-crime-threat-report) - 📰 null - 【欧洲刑警组织：人工智能和加密技术提高犯罪效率】金色财经报道，欧洲刑警组织在一份关于严重和有组织犯罪的威胁评估报告中指出，人工智能和加密技术在犯罪效率方面发挥着重要作用。该执法机构表示，犯罪网络已经展现出快速适应新技术的能力。 报告称，人工智能的变革性使其成为犯罪分子眼中极具吸引力的工具。报告称，生成式人工智能“降低了数字犯罪的准入门槛”。  
+该政府机构表示，人工智能让犯罪分子能够以多种语言编写信息，更精准地瞄准全球受害者。它还允许恶意行为者创建恶意软件和儿童性虐待材料。
+- [Hyperliquid拟于4月30日引入质押等级，将根据质押的HYPE数量决定交易费](https://x.com/HyperliquidX/status/1902304642392072660) - 📰 null - 【Hyperliquid拟于4月30日引入质押等级，将根据质押的HYPE数量决定交易费】金色财经报道，Hyperliquid 宣布将引入质押等级，质押等级将根据质押的 HYPE 数量决定，质押等级的好处是降低交易费，此项更新预计将于 4 月 30 日或之后上线。作为此次更新的一部分，整个费用系统将被重新设计，新的费用系统永续合约和现货将有单独的费用表。永续合约和现货量将一起计算以确定用户费用等级，现货交易量将双倍计入费用等级。
+- [“木头姐”近一年来首次减持Meta股票]() - 📰 null - 【“木头姐”近一年来首次减持Meta股票】金色财经报道，“木头姐”Cathie Wood麾下Ark Investment Management正在减持Meta Platforms(META.O)股份，这是大约一年以来的首次，也是美国大型科技股命运多舛的最新迹象。Wood的旗舰ARK创新ETF 3月17日减持了12,595股Meta股份，周二减持了2,160股，这是该公司至少自去年3月以来首次减持该公司股票。截至12月31日，Ark基金持有Meta逾46万股股票。他们去年大部分时间都在买入这支股票。Wood减持股份凸显出科技七巨头所面临的压力，这些股票近期失去了动力。
+- [Jupiter 2月收入达3170万美元，创历史新高](https://defillama.com/protocol/jupiter#fees-revenue) - 📰 null - 【Jupiter 2月收入达3170万美元，创历史新高】金色财经报道，据Defillama数据，Jupiter 2月收入达3170万美元，创历史新高。
+- [MELANIA称ZachXBT的罪犯指控毫无根据，ZachXBT称将于明日公布证据]() - 📰 null - 【MELANIA称ZachXBT的罪犯指控毫无根据，ZachXBT称将于明日公布证据】3月19日消息，据MELANIA（@qwatio）在推特上表示，ZachXBT的指控（Hyperliquid 50倍杠杆鲸鱼实为网络罪犯）令人失望且出乎意料，称其为“毫无根据的猜测”。他希望ZachXBT能至少明确指出所谓的“被盗资金”，并提到他们的钱包接收来自骗子的大量交易。ZachXBT随后回应称，明晚九点（UTC+8）将详细发布信息，并强调自己不传播虚假信息。
+- [俄罗斯与玻利维亚使用比特币和加密货币支付国际石油交易]() - 📰 null - 【俄罗斯与玻利维亚使用比特币和加密货币支付国际石油交易】金色财经报道，据The Bitcoin Historian（@pete_rizzo_）称，俄罗斯和玻利维亚正在利用比特币和加密货币进行国际石油交易支付。
+- [BlackRock数字资产负责人：比特币的机构采用尚未反映在价格中]() - 📰 null - 【BlackRock数字资产负责人：比特币的机构采用尚未反映在价格中】3月19日消息，据Bitcoin Magazine报道，BlackRock数字资产部门负责人表示，比特币的机构采用程度仍未在其价格中得到体现。
+- [「50倍杠杆巨鲸」在DeBank上将其账户改名为MELANIA并认证官方X账号]() - 📰 null - 【「50倍杠杆巨鲸」在DeBank上将其账户改名为MELANIA并认证官方X账号】金色财经报道，据链上分析师余烬监测，Hyperliquid上50倍杠杆巨鲸刚才在DeBank上把其账户名改成了MELANIA，还认证链接了其X账号@qwatio，该巨鲸在Hyperliquid上的仍有MELANIA的5倍多单。
+- [Tether自2025年以来累计铸造60亿枚USDT]() - 📰 null - 【Tether自2025年以来累计铸造60亿枚USDT】金色财经报道，据OnchainLens监测，Tether在波场网络上再次铸造10亿枚USDT，自2025年以来累计铸造60亿枚USDT。
+- [赵长鹏：一直在等待 AI 炒作平息，然后再开始推动 BNB AI]() - 📰 null - 【赵长鹏：一直在等待 AI 炒作平息，然后再开始推动 BNB AI】金色财经报道，赵长鹏于 X 发文表示：“BNB ChAIn，我一直在等待 AI 炒作平息，然后再开始推动 BNB AI，真正的 Builder 会在热度结束后前进。”
