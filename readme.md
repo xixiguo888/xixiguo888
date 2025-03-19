@@ -1,57 +1,52 @@
-- [昨日ARKB净流出900万美元，灰度ETH净流出930万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流出900万美元，灰度ETH净流出930万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流出900万美元，灰度ETH净流出930万美元。
-- [Enso现已正式上线Sonic网络](https://x.com/EnsoBuild/status/1902084857725120799) - 📰 null - 【Enso现已正式上线Sonic网络】金色财经报道，EVM交易聚合器Enso发文宣布，现已正式上线Sonic网络。Enso Shortcuts正在为Royco市场提供支持，以获取Sonic的奖励。 
-Sonic已启动Sonic Points第一季，将其约2亿枚S空投的一部分分配给其生态系统。
-- [奥地利银行Raiffeisen Bank向加密税务公司Blockpit投资数百万欧元](https://cryptonews.com/news/raiffeisen-bank-international-invests-millions-in-austrian-crypto-tax-software/?ref=onepagecrypto.com) - 📰 null - 【奥地利银行Raiffeisen Bank向加密税务公司Blockpit投资数百万欧元】3月19日消息，奥地利银行Raiffeisen Bank International（RBI）通过其风险投资部门Elevator Ventures，向专注于加密资产税务的奥地利初创公司Blockpit投资了数百万欧元。Blockpit总部位于林茨，由首席执行官Florian Wimmer领导，最近宣布其在2024年实现了盈利，这使其成为寻求从合规加密服务需求增长中获利的投资者的有吸引力的目标。RBI的投资金额以及Blockpit的估值尚未披露。 
-这笔交易标志着Elevator Ventures首次涉足加密初创公司领域。通过这笔投资，Elevator Ventures希望支持Blockpit进一步扩展已在十个国家成功推出的服务。Blockpit将利用这笔投资扩展到新的欧洲市场，特别是东欧。该公司还将开发工具，用于证明银行提款和加密交易所转账的资金来源。 
-Blockpit成立于2017年，目前拥有30名员工。2021年，该公司在由MiddleGame Ventures领投的A轮融资中筹集了1000万美元。2023年11月，继2020年与德国竞争对手CryptoTax合并后，Blockpit还以数百万欧元的交易收购了瑞士竞争对手Accointing。
-- [EOS突破0.6美元，24小时涨幅达19.7%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/%E6%9F%9A%E5%AD%90%E5%B8%81) - 📰 null - 【EOS突破0.6美元，24小时涨幅达19.7%】金色财经报道，行情显示，EOS突破0.6美元，现报价0.5959美元，24小时涨幅达19.7%，行情波动较大，请做好风险控制。 
-此前消息，EOS宣布更名为Vaulta，将重点转向Web3银行业务。
-- [David Sacks回应抛售加密资产报道：并未抛售，已根据政府道德规定进行资产剥离](https://x.com/DavidSacks/status/1902098045942292675) - 📰 null - 【David Sacks回应抛售加密资产报道：并未抛售，已根据政府道德规定进行资产剥离】金色财经报道，David Sacks在X平台回应此前关于其出售加密资产的报道，表示自己并未“抛售”加密资产，而是根据政府道德规定进行了资产剥离，并强调本希望保留这些资产，但政策要求其执行该操作。他补充称，能为特朗普总统和美国人民服务是他的荣幸。
-- [BTC突破83000美元]() - 📰 null - 【BTC突破83000美元】金色财经报道，行情显示，BTC突破83000美元，现报83005.83美元，24小时跌幅收窄至1.04%，行情波动较大，请做好风险控制。
-- [以太坊基金会：新测试网Hoodi将于3月26日激活Pectra网络升级](https://blog.ethereum.org/en/2025/03/18/hoodi-holesky) - 📰 null - 【以太坊基金会：新测试网Hoodi将于3月26日激活Pectra网络升级】金色财经报道，以太坊基金会在官方博客中表示，Pectra测试网激活过程中，暴露出以太坊测试网上存款合约配置变更在客户端存在的问题。虽然Sepolia网络的恢复过程较为直接，且现已完全恢复，但Holesky网络在恢复机制中出现了大量不活跃泄漏的情况。Holesky网络此后已完成最终确认，但退出的验证者大约需要一年时间才能完全从验证者集中移除。虽然质押者可以测试存款、合并和所有其他Pectra功能，但退出队列的规模使得Holesky无法在合理的时间范围内用于测试完整的验证者生命周期。为了解决这个问题，一个新的测试网已经启动：Hoodi。它将在epoch 2048 （北京时间2025年3月26日星期三15:37:12）激活Pectra网络升级。未来，质押运营商和基础设施提供商应使用Hoodi进行验证者测试。为了给迁移留出时间，Holesky测试网将支持到2025年9月。除了验证者退出外，所有其他Pectra功能都可以在Holesky上测试。 
-测试网及其用途总结： 
-Holesky：验证者和质押提供商（预计终止日期为2025年9月30日）。客户端开发人员还将使用Holesky测试Gas限制增加和其他协议压力测试。 
-Sepolia：应用程序和工具开发者（预计终止日期为2026年9月30日）。 
-Hoodi：验证者和质押提供商（预计终止日期为2028年9月30日）。 
-计划中的Sepolia替代品：预计2026年3月推出。
-- [普京拒绝30天全面停火，仅同意限制能源攻击]() - 📰 null - 【普京拒绝30天全面停火，仅同意限制能源攻击】金色财经报道，俄罗斯总统普京拒绝了美国总统特朗普提出的在乌克兰实现30天停火的要求，而是同意限制对该国能源基础设施的攻击，同时要求美国和其他国家停止向乌克兰提供武器和情报。 
-普京的立场与特朗普政府的呼吁相去甚远，特朗普政府呼吁全面停战30天，以便双方能达成一项长期协议。俄罗斯的立场将迫使特朗普做出艰难的选择，他必须决定是否继续向乌克兰运送武器。 
-尽管普京拒绝了停火条件，但特朗普在其社交网站上发文称，这次谈话“非常好，很有成效”。他说，“讨论了《和平合约》的许多内容”，普京和泽连斯基都希望看到一份结束冲突的协议。俄罗斯的立场将迫使特朗普做出艰难的选择，他必须决定是否继续向乌克兰运送武器。（金十）
-- [白宫官员：美国稳定币法案可能在两个月内提交给总统特朗普](https://cryptoslate.com/stablecoin-bill-could-reach-trumps-desk-within-two-months-says-bo-hines/) - 📰 null - 【白宫官员：美国稳定币法案可能在两个月内提交给总统特朗普】金色财经报道，白宫总统数字资产工作组执行董事Bo Hines表示，美国的稳定币监管法案可能会在两个月内提交给总统唐纳德·特朗普。在Blockworks数字资产峰会上的演讲中，Hines表示，市场并未完全理解稳定币立法如何使美国经济和美元主导地位受益。此外，他认为监管稳定币可能会改变金融市场的历史进程。 
-参议院银行委员会于3月13日以18票赞成、6票反对的结果通过了稳定币监管法案《GENIUS法案》。该法案获得了两党支持，现在已为参议院全体投票铺平了道路。该法案提出了美国稳定币发行和监管的指导方针，例如这些代币必须以1:1的比例由美元、受保银行存款或短期国库券支持。Hines强调了批准该法案的两党合作努力，他表示，在华盛顿特区，没有多少问题能让两党团结起来，像目前加密行业这样全面推动美国前进。
-- [HashKey Capital获得香港证监会第1类牌照](https://app-web.chnfund.com/jx/202503/t20250318_4460766.html?docid=4664972) - 📰 null - 【HashKey Capital获得香港证监会第1类牌照】金色财经报道，HashKey Capital已正式获得香港证券及期货事务监察委员会（证监会）发出的第1类牌照，进一步扩展其在香港证监会监管下的业务范围与能力。 
-目前，HashKey Capital持有第9类牌照，可向零售及机构投资者提供资产管理产品。该公司近期亦获批于相同牌照下，提供虚拟资产（VA）之投资帐户全权管理服务。此外，自去年5月起，HashKey Capital亦持有第4类牌照，允许公司提供证券及虚拟资产的投资咨询服务。 
-随着第1类牌照的取得，HashKey Capital将能够向零售和专业投资者提供介绍经纪服务，并销售及分销各类基金与结构性产品（包括虚拟资产相关基金及结构性产品）。
-- [2月份稳定币链上交易量达8500亿美元，USDC与USDT占比超87%](https://www.theblock.co/post/346639/ethereums-stablecoin-dominance-grows-as-usdc-and-usdt-drive-850-billion-in-volume) - 📰 null - 【2月份稳定币链上交易量达8500亿美元，USDC与USDT占比超87%】金色财经报道，稳定币的链上交易量保持了强劲的势头，过去四个月平均每月交易量约为8000亿美元。转移稳定币的地址数量也在稳步上升，最近一周的单日地址数量达到了60万个。USDC和USDT仍然是这一领域的主导者，占2月份8500亿美元总交易量中的7400亿美元。以太坊仍然是稳定币活动的首选区块链，托管着350亿美元的USDC和670亿美元的USDT。尽管替代区块链层出不穷，但这一主导地位凸显了以太坊作为数字美元交易主要结算层的作用。
-- [金色财经整理：过去24小时融资信息一览（3月19日）]() - 📰 null - 【金色财经整理：过去24小时融资信息一览（3月19日）】1.稳定币协议Level完成240万美元融资； 
-2.Halliday获2000万美元A轮融资，a16z领投； 
-3.Solana RWA协议ORO完成150万美元Pre-Seed融资； 
-4.Opinion Labs完成500万美元种子轮融资，YZi Labs领投； 
-5.Solana生态黄金代币化项目ORO完成150万美元Pre-Seed轮融资； 
-6.去中心化商业网络Domin Network完成战略融资，Animoca Brands等参投； 
-7.中心化预测市场开发商Opinion Labs完成500万美元种子轮融资，Yzi Labs领投； 
-8.去中心化借贷协议Exactly Protocol完成200万美元融资，Bodhi Ventures等参投； 
-9.多引擎Web3游戏平台PlaysOut完成700美元种子轮融资，Kenetic Capital等领投。
-- [Exactly Protocol DAO已向Uphold转移100万枚EXA代币](https://x.com/ExactlyProtocol/status/1902142738759401906) - 📰 null - 【Exactly Protocol DAO已向Uphold转移100万枚EXA代币】金色财经报道，Exactly Protocol于社交媒体发文表示，Exactly Protocol DAO已完成向Uphold转移100万枚EXA代币，作为EXAIP-21的一部分： 
-500,000枚EXA已转移至Uphold的做市钱包。 
-500,000枚EXA将在3年内以线性流的方式分配给Uphold。
-- [Bitwise CIO：对DeFi相关代币仍持乐观态度，Aptos和Sui有望成为ETF竞争者](https://decrypt.co/310561/bitwise-cio-bullish-on-defi-sees-aptos-and-sui-as-etf-contenders) - 📰 null - 【Bitwise CIO：对DeFi相关代币仍持乐观态度，Aptos和Sui有望成为ETF竞争者】金色财经报道，Bitwise首席投资官Matt Hougan在最近的一次采访中表示，尽管加密货币市场目前处于低迷状态，许多支持去中心化金融（DeFi）的人士正在远离山寨币，但Bitwise对与DeFi相关的代币仍持乐观态度。 
-Hougan认为DeFi领域目前被“严重低估”，并指出像Sui和Aptos这样的Layer-1区块链项目“完全符合”吸引机构投资者的标准。他提到，这些项目由前Meta稳定币团队成员领导，具备“严肃的团队、严肃的技术和技术创新”，这些正是Bitwise在选择基金持有资产时的重要考量因素。 
-此外，Hougan还提到，Bitwise已经在本月提交了推出Aptos ETF的申请，但他并未透露是否有计划为SUI申请类似的基金。尽管如此，他认为SUI和APT的ETF在美国的推出可能会吸引新的投资进入这些山寨币。
-- [Raydium计划推出Meme币发行平台LaunchLab](https://www.theblock.co/post/346946/solana-based-decentralized-exchange-raydium-is-working-on-a-pump-fun-memecoin-factory-competitor?utm_source=twitter&utm_medium=social) - 📰 null - 【Raydium计划推出Meme币发行平台LaunchLab】金色财经报道，Solana生态去中心化交易所Raydium计划推出一个Meme币发行平台“LaunchLab”，与Pump.fun竞争。Raydium的“LaunchLab”本质上是Pump.fun的一个分叉，但有一些选择性差异。它将采用类似的对数绑定曲线，但也允许第三方用户界面设置费用并直接访问Raydium的流动性池。据报道，该项目已经开发了数月。
-- [AI驱动的元宇宙技术平台Peer完成1050万美元新一轮融资](https://nftplazas.com/peer-raises-10-5m-to-expand-ai-powered-metaverse-engine/?ref=onepagecrypto.com) - 📰 null - 【AI驱动的元宇宙技术平台Peer完成1050万美元新一轮融资】3月19日消息，Peer Global Inc.完成1050万美元新一轮融资，使其总投资额增至6550万美元。该笔融资由Tommy Mai家族办公室领投，将用于扩大Peer的开发团队，增强其人工智能能力，以及完善其元宇宙平台。 
-据介绍，Peer是一个整合人工智能以创造交互式数字环境的技术平台。该公司推出了3D个人星球，让用户可以创建和定制数字空间以进行社交互动。Peer的元宇宙引擎为开发人员提供了构建AI生成的数字环境的工具。Peer的货币化策略中包括虚拟财产销售，即用户可以购买和个性化数字空间。
-- [金色晨讯 | 3月19日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 3月19日隔夜重要动态一览】21:00-7:00关键词：Crossmint、Polkadot ETF、Vaulta、Keyrock 
-1.惠誉：预计美联储今年只会降息一次； 
-2.企业区块链Crossmint完成2360万美元融资； 
-3.美联储明日凌晨维持利率不变的概率为100%； 
-4.纳斯达克为 21Shares 提交 Polkadot ETF 申请； 
-5.加密货币做市商Keyrock在美国纽约成立办事处； 
-6.EOS宣布更名为Vaulta，将重点转向Web3银行业务； 
-7.Coinbase调查：超75%机构投资者计划2025年增加加密资产配置； 
-8.白宫：美俄首脑同意从能源和基础设施停火开始和平进程，海上停火谈判很快开始。
-- [Cathie Wood：大多数Meme币最终将变得“一文不值”，买家需谨慎](https://www.bloomberg.com/news/articles/2025-03-18/cathie-wood-says-most-memecoins-will-end-up-worthless?utm_source=telegram&utm_content=crypto&utm_medium=social) - 📰 null - 【Cathie Wood：大多数Meme币最终将变得“一文不值”，买家需谨慎】金色财经报道，ARK Investment Management LLC创始人兼首席执行官Cathie Wood在接受采访时表示，加密货币领域的大多数所谓Meme币最终可能会“一文不值”。她指出，区块链技术与人工智能的结合正催生出“数百万种”Meme币，“这些币的价值不会太高”，并补充说她的私人基金并未投资这些代币。 
-Wood表示：“如果我要对购买Meme币的人说一句话，那就是：买家需谨慎。没有什么比亏钱更能让人吸取教训，他们会明白美国证券交易委员会（SEC）和其他监管机构不会为这些Meme币负责。” 她还表示，Meme币将成为“数字收藏品”，并补充说，其中一些可能会“经受住时间的考验”，特朗普相关的Meme币或许就是其中之一。 
-Wood重申了她对规模更大、更成熟的加密资产的乐观态度。她表示，比特币、以太坊和Solana的用例正在“迅速增加”，并将在未来发挥重要作用。
-- [国际黄金收盘再创新高](https://www.cls.cn/detail/1976031) - 📰 null - 【国际黄金收盘再创新高】金色财经报道，现货黄金涨1.13%，报3034.42美元/盎司，时隔一个交易日再创历史新高。COMEX黄金期货涨1.15%，报3040.7美元/盎司，再创新高。COMEX白银期货涨0.97%，报34.64美元/盎司。
-- [Arkham：孙宇晨今日质押1亿美元的ETH](https://x.com/arkham/status/1902057003226214832) - 📰 null - 【Arkham：孙宇晨今日质押1亿美元的ETH】金色财经报道，据Arkham监测数据显示，孙宇晨（Justin Sun）今日质押了价值1亿美元的以太坊（ETH）。按当前收益率计算，此举预计每年将为他带来约300万美元的被动收入。
+- [去中心化身份管理平台Via Science完成2800万美元B轮融资，Bosch Ventures领投](https://www.citybiz.co/article/673471/via-science-raises-28-million-series-b/) - 📰 null - 【去中心化身份管理平台Via Science完成2800万美元B轮融资，Bosch Ventures领投】金色财经报道，去中心化身份管理平台Via Science宣布完成2800万美元B轮融资，Bosch Ventures领投，BMW i Ventures、MassMutual Ventures、Sentinel Global和Westly Group参投。据悉Via Science的去中心化、零信任架构已经过美国国防部测试，与任何其他Web3技术不同，其结合端到端抗量子加密可确保授权方的访问和隐私。
+- [Cosmos通过开源Evmos获得原生EVM框架](https://www.theblock.co/post/346955/cosmos-evm?utm_source=twitter&utm_medium=social) - 📰 null - 【Cosmos通过开源Evmos获得原生EVM框架】金色财经报道，Cosmos的跨链基金会（ICF）已资助Evmos（EVMOS -32.90%）的开源，这是其包含200多个应用链的多链生态系统的原生EVM框架。基金会表示，该框架此前在Evmos项目下开发，现在将作为“Cosmos EVM”在官方跨链软件栈中维护，包括Cosmos SDK，这意味着Cosmos生态系统现在有了标准化的以太坊虚拟机（EVM）版本。这一发展使Cosmos区块链能够集成Cosmos EVM以实现完全的EVM兼容性，包括通过轻量级EVM配置支持JSON-RPC和以太坊钱包兼容性，用于原生ERC-20代币。该集成通过跨链通信（IBC）协议加强了更广泛的EVM生态系统与Cosmos之间的跨链互操作性。 
+作为这一转变的一部分，Evmos联合创始人Federico Kunze Küllmer将不再担任Evmos的核心贡献者，同时继续就Cosmos EVM的互操作性和模块化架构向ICF提供建议，Evmos指出。Kunze Küllmer的公司Altiplanic是Evmos代码库的核心贡献者，将不再参与该项目。
+- [Upbit NFT开放新交易支持及存款/取款服务](https://upbit.com/service_center/notice?id=4961) - 📰 null - 【Upbit NFT开放新交易支持及存款/取款服务】金色财经报道，据官方公告，Upbit NFT已开放新的交易支持收款交易和存款/取款服务，涉及CoolPets（PETS）等2个NFT项目。交易和存款/取款服务将于2025年3月19日18：00开放，用户可通过已在Upbit NFT注册的Metamask进行NFT存款和取款。 
+此外，Upbit NFT还支持Polygon和以太坊NFT收藏品的交易排名信息。
+- [胜利证券联手巡鹰集团、蚂蚁数科等打造全球首个换电实体资产RWA项目]() - 📰 null - 【胜利证券联手巡鹰集团、蚂蚁数科等打造全球首个换电实体资产RWA项目】金色财经报道，胜利证券宣布与巡鹰集团旗下巡鹰出行、蚂蚁数科、Conflux Network、VDX等成功打造全球首单基于换电实体资产的RWA项目，胜利证券为此RWA产品管理人。该项目将巡鹰出行全国范围内的换电柜和锂电池作为RWA指定资产，结合区块链与物联网(IoT)技术，将换电项目自身价值、运营、收益等数据储备存储在区块链上，形成数字代币。
+- [韩国某男子因在欺诈审判中刺伤Haru Invest CEO面临10年监禁](https://www.theblock.co/post/346953/south-korean-man-faces-10-years-in-prison-for-stabbing-crypto-ceo-during-fraud-trial?utm_source=twitter&utm_medium=social) - 📰 null - 【韩国某男子因在欺诈审判中刺伤Haru Invest CEO面临10年监禁】金色财经报道，韩国检方已请求法院判处一名男子10年监禁，原因是在2024年8月的一场法庭听证会上，该男子刺伤了韩国加密货币托管公司HaruInvest的首席执行官。首尔南部地方检察官办公室向The Block确认，他们在周三的法庭袭击案最终听证会上提出了量刑请求，考虑到犯罪的严重性。 
+袭击者名叫姜某（音译），51岁，他用一把水果刀多次刺伤Haru Invest首席执行官李炯秀的颈部。李炯秀被迅速送往医院，但伤势并未危及生命。 
+这一事件发生在李炯秀因多项诈骗相关指控出庭期间。据检方称，从2020年3月到2023年6月，Haru Invest通过承诺返还本金并支付高达16%的利息，吸引了约1.6万名韩国国内外投资者，尽管该公司自2019年起就处于资本受损状态。2023年6月13日，Haru Invest突然暂停了存款和取款业务，并于去年11月宣布破产。
+- [路透社：多个加密公司正在申请州级或国家级银行牌照](https://cryptonews.com/news/crypto-firms-seek-to-register-as-banks/?feed_id=13063&_unique_id=67da528f856eb) - 📰 null - 【路透社：多个加密公司正在申请州级或国家级银行牌照】金色财经报道，据Cryptonews援引路透社报道，多家金融科技和加密货币公司正在申请州级或国家级银行牌照，希望在亲加密的特朗普政府下获得更快审批。 
+据报道称，获得银行牌照将使加密公司能够提供更广泛的金融服务，增强客户眼中的合法性，并通过吸收存款降低借贷成本。Hunton Andrews Kurth律所合伙人Carleton Goss表示，这也将帮助企业降低资本成本，但同时需接受更严格的监管审查。
+- [慢雾：警惕EOS地址恶意投毒攻击](https://x.com/SlowMist_Team/status/1902224357839323641) - 📰 null - 【慢雾：警惕EOS地址恶意投毒攻击】金色财经报道，据慢雾安全团队披露，EOS区块链正遭遇地址投毒攻击。恶意账户向用户发送0.001枚EOS代币以实施地址投毒，目前已发现多个假冒交易所的账户。 
+这些攻击者创建与知名交易所账户极为相似的假账户，如假冒OKX的"oktothemoon"（真实账户为"okbtothemoon"）和假冒币安的"binanecleos"（真实账户为"binancecleos"）。 
+慢雾安全团队提醒用户保持警惕
+- [北达科他州参议院通过加密货币ATM监管法案，该法案拟限制日交易额为2000美元](https://cointelegraph.com/news/north-dakota-senate-passes-crypto-atm-bill-2000-daily-limit) - 📰 null - 【北达科他州参议院通过加密货币ATM监管法案，该法案拟限制日交易额为2000美元】金色财经报道，据Cointelegraph报道，美国北达科他州参议院以45票赞成、1票反对的结果通过了1447号众议院法案，该法案对加密货币ATM进行监管，并重新加入了每位用户每日交易上限2000美元的条款，此前该条款曾被州众议院删除。 
+该法案要求加密货币ATM和自助服务终端运营商在该州获得货币传输许可，限制用户在其ATM网络中的每日提款额度为2000美元，并发布欺诈警告通知。法案还要求运营商使用区块链分析技术监控可疑活动并向当局报告，同时提供季度报告，包括终端位置、名称和交易数据。 
+该法案现需返回众议院就修改内容进行投票，然后由北达科他州州长Kelly Armstrong决定是否签署成为法律。美国联邦贸易委员会数据显示，比特币ATM欺诈损失从2020年到2023年增长了近十倍，2024年上半年已超过6500万美元。
+- [今日比特币波动率3.48%，持续位于2024年9月以来高位](https://www.coinglass.com/zh/pro/i/bl) - 📰 null - 【今日比特币波动率3.48%，持续位于2024年9月以来高位】金色财经报道，据Coinglass数据，比特币波动率近期持续位于高位，近三日为3.48%创2024年9月以来新高，一定程度上反映出市场流动性不足。美联储将于今夜公布利率决议（3月20日北京时间凌晨2点），预计届时波动率将会跳涨。
+- [4E：美联储决策日前美股和比特币下跌，黄金再创新高](https://x.com/4EChinese/status/1902188754518835426) - 📰 null - 【4E：美联储决策日前美股和比特币下跌，黄金再创新高】3月19日消息，据4E监测，周二美股三大指数结束两连涨，纳指下跌1.71%，标普500跌1.06%，道指跌0.62%。科技股领跌，特斯拉受竞争加剧影响重挫5.34%，英伟达GTC大会新品未能提振股价下跌3.35%。  
+加密市场震荡下行，受美股低开拖累，比特币昨晚快速跌至8.1万美元附近，美股收盘后才有所反弹，截稿时报82,571美元，24小时跌近1%。以太坊或因Pectra升级消息提振逆势上涨1.3%，报1,940美元。其他主流代币多呈小幅下跌。 
+市场聚焦今晚美联储货币政策决议。尽管利率预计维持不变已成市场共识，但投资者仍希望通过“点阵图”和鲍威尔在发布会上的讲话，寻找政策制定者对关税战潜在影响的评估，以及美联储何时再次降息的线索。
+- [24小时现货资金流入/流出榜：TRX净流入2565万美元](https://www.coinglass.com/zh/spot-inflow-outflow) - 📰 null - 【24小时现货资金流入/流出榜：TRX净流入2565万美元】3月19日消息，据Coinglass数据显示，过去24小时，加密现货资金净流入榜如下： 
+TRX净流入2565万美元； 
+BNB净流入1002万美元； 
+OM净流入625万美元； 
+S净流入576万美元； 
+PEPE净流入502万美元。 
+加密现货资金净流出榜如下： 
+BTC净流出5383万美元； 
+SOL净流出748万美元； 
+AUCTION净流出560万美元； 
+DOGE净流出451万美元； 
+CAKE净流出410万美元。
+- [币安将移除ALICE/BTC、 ETHFI/BTC等多个现货交易对](https://www.binance.com/zh-CN/support/announcement/69ff9abd38ad4cfcbe4521f654278a7d) - 📰 null - 【币安将移除ALICE/BTC、 ETHFI/BTC等多个现货交易对】金色财经报道，据官方公告，币安将于2025年03月21日11:00（东八区时间）移除以下现货交易对并停止交易：ALICE/BTC、 ETHFI/BTC、 MBOX/BTC、RSR/FDUSD、TURBO/FDUSD、WIN/BNB。 
+币安强调，为了更好地保护用户和维护高质量的交易市场，币安会对所有上线的现货交易对进行定期审核，并可能因流动性和交易量不佳等多种因素下架部分现货交易对。
+- [金色午报 | 3月19日午间重要动态一览]() - 📰 null - 【金色午报 | 3月19日午间重要动态一览】7:00-12:00关键词：美联储、迪拜、降息 
+1.迪拜金融服务管理局推出代币化监管沙盒； 
+2.美联储将于今夜公布利率决议，3月降息概率仅存1%； 
+3.美联储传声筒：预计未来六个月美联储将保持观望态度； 
+4.美国当局已撤销对去中心化社交网络BitClout创始人的指控； 
+5.美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设； 
+6.北卡罗来纳州比特币储备法案将授权10%的公共资金用于购买比特币； 
+7.亚利桑那州比特币储备法案进入众议院的二读阶段，系当前各州最快进展。
+- [美国现货以太坊ETF昨日净流出5280万美元](https://farside.co.uk/eth/) - 📰 null - 【美国现货以太坊ETF昨日净流出5280万美元】金色财经报道，据Farside Investors监测，美国现货以太坊ETF昨日净流出5280万美元。
+- [10x Research：与2021/2022年的长期熊市不同，目前是更短的“迷你熊市”周期](https://x.com/10x_Research/status/1902203042470199666) - 📰 null - 【10x Research：与2021/2022年的长期熊市不同，目前是更短的“迷你熊市”周期】金色财经报道，10x Research发文表示，与2021/2022年的长期熊市不同，目前是较短的迷你熊市周期模式，其中穿插着急剧的反弹。10x Research表示“我们呼吁在2024年3月/4月保持谨慎，这与我们在2024年9月下旬的极度看涨立场一样反向。虽然在特朗普就职典礼前保持看涨前景，但随着情况的变化，我们迅速扭转了这种观点。”
+- [美银：不确定性升温之际，美联储料将保持利率稳定]() - 📰 null - 【美银：不确定性升温之际，美联储料将保持利率稳定】金色财经报道，美联储料将在3月份的FOMC会议上维持目前的政策立场，美国银行证券分析师预计，在经济不确定性上升的背景下，美联储将采取谨慎而慎重的政策。美联储可能会优先考虑“耐心而非恐慌”，在保持利率稳定的同时，评估经济增长放缓与持续通胀压力之间的平衡。美银分析师预计，美联储最新的经济预测将反映滞胀的因素，增长预测将变弱，通胀预期将向上调整。虽然市场对可能降息的时机进行了猜测，但政策制定者可能会重申数据驱动的方法，强调在做出任何政策转变之前需进一步明确经济前景。投资者将密切关注美联储主席鲍威尔的讲话，以了解美联储如何看待不断变化的风险，包括供应方面的中断、劳动力市场的弹性和地缘政治的不确定性。(金十)
+- [ETH高胜率波段巨鲸5小时前向Hyperliquid充值1804万枚USDC的保证金](https://x.com/ai_9684xtpa/status/1902202742552338528) - 📰 null - 【ETH高胜率波段巨鲸5小时前向Hyperliquid充值1804万枚USDC的保证金】金色财经报道，据链上分析师@ai_9684xtpa监测，ETH高胜率波段巨鲸5小时前用地址0x655...1e0B8直接向Hyperliquid充值了1804万枚USDC的保证金，目前还没有进一步操作，这两天参与了ONDO的多单，亏损1.2万美元。
+- [美联储传声筒：预计未来六个月美联储将保持观望态度](https://x.com/NickTimiraos/status/1902196801265905837) - 📰 null - 【美联储传声筒：预计未来六个月美联储将保持观望态度】金色财经报道，“美联储传声筒”Nick Timiraos表示，央行可以根据好消息或坏消息降息。由于新的通胀风险，降息"好"的机会正在关闭。我预计未来六个月美联储将会保持观望态度，不会采取太多行动。
+- [币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉](https://www.binance.com/zh-CN/support/announcement/detail/a7ab67143b654078a405ed7b5b58fa79) - 📰 null - 【币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉】金色财经报道，据官方公告，币安将支持BNB Smart Chain（BEP20）和opBNB Chain（opBNB）网络升级及硬分叉。 
+opBNB Chain（opBNB）将于2025年03月20日10:10（东八区时间）进行网络升级。币安预计将于2025年03月20日10:05（东八区时间）暂停opBNB Chain （opBNB）的代币充值、提现业务。 
+BNB Smart Chain（BEP20）将于2025年03月20日10:10（东八区时间）进行网络升级。币安预计将于2025年03月20日10:05（东八区时间）暂停BNB Smart Chain（BEP20）的代币充值、提现业务。
+- [美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设](https://www.datacenterdynamics.com/en/news/nova-energys-natural-gas-powered-cryptomine-in-pennsylvania-approved/) - 📰 null - 【美国宾夕法尼亚州批准 Nova Energy 天然气加密货币矿场建设】金色财经报道，Nova Energy 已获得在宾夕法尼亚州 Frenchcreek 镇建设天然气驱动加密货币矿场数据中心的许可。该许可基于三台精益燃烧天然气发动机的批准，这些发动机将为加密货币挖矿提供电力。据联合国 2023 年研究显示，天然气是全球 21% 比特币挖矿运营的能源来源，仅次于煤炭（45%）。
