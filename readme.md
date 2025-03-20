@@ -1,30 +1,25 @@
-- [Bedrock公布代币经济学：20%分配给社区，其中5.5%已空投]() - 📰 null - 【Bedrock公布代币经济学：20%分配给社区，其中5.5%已空投】金色财经报道，Bedrock 在 X 平台发文公布代币经济学，总供应量为 10 亿枚，20%分配给社区，其中 5.5%已空投，14.5%保留用于未来空投。第一年不会解锁任何团队或投资者代币，以确保公平、社区驱动的发布。用户质押 BR 可以赚取 veBR，以提高社区治理能力和质押收益。代币申领拟于 UTC 时间 3 月 20 日下午 1:00 开放，持续 90 天。 
-Bedrock 提醒社区警惕虚假代币，在交互之前，请务必通过官方渠道验证合约地址。
-- [Binance Alpha 新增 Bedrock (BR)]() - 📰 null - 【Binance Alpha 新增 Bedrock (BR)】金色财经报道，据官方消息，Binance Alpha 新增 Bedrock (BR) 。
-- [Bedrock代币TGE活动结束，超19万枚BNB参与认购]() - 📰 null - 【Bedrock代币TGE活动结束，超19万枚BNB参与认购】3月20日消息，据相关页面信息，Bedrock 通过 Binance Wallet 与 PancakeSwap 合作进行的代币生成活动（TGE）结束，获得约 19.48 万枚 BNB（1.22 亿美元）认购，项目计划募集 2018.53 枚 BNB，超募逾 9553%。 
-此前据官方公告，Bedrock 本次发售 5000 万枚 BR 代币，占总供应量的 5%，每枚定价 0.025 美元 (以 BNB 计)，总募集金额 125 万美元 (以 BNB 计)  。
-- [英国央行维持利率在4.5%不变]() - 📰 null - 【英国央行维持利率在4.5%不变】金色财经报道，英国央行暂停降息，将基准利率维持在4.5%不变，符合市场预期。
-- [Michael Saylor：欧元将需要BTC](https://x.com/saylor/status/1902689130028429604) - 📰 null - 【Michael Saylor：欧元将需要BTC】3月20日消息，Michael Saylor在推特上表示，欧元（EUR）将需要比特币（BTC）。
-- [哈马斯向以色列发射火箭弹]() - 📰 null - 【哈马斯向以色列发射火箭弹】金色财经报道，哈马斯方面称，向以色列特拉维夫方向发射火箭弹。以色列方面称，以色列中央多个地区响起警报声，以方成功拦截了一枚导弹，另外两枚导弹坠落在空旷地带。此前以色列方面称已在加沙北部发起地面行动。(金十)
-- [Kraken以15亿美元收购NinjaTrader](https://www.coindesk.com/business/2025/03/20/kraken-buys-ninjatrader-for-usd1-5b-to-enter-u-s-crypto-futures-market?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_source=twitter) - 📰 null - 【Kraken以15亿美元收购NinjaTrader】金色财经报道，加密货币交易所Kraken以15亿美元收购美国期货平台NinjaTrader。通过此次收购，Kraken现在可以在美国提供加密货币期货和衍生品，因为NinjaTrader是获得CFTC许可的平台。此外，Kraken的英国、欧盟和澳大利亚许可证将使NinjaTrader能够在这些地区扩张。 
-Kraken联合首席执行官Arjun Sethi表示：“此次交易是我们实现机构级交易平台愿景的第一步，在该平台上任何资产都可以随时进行交易。” 
-当天早些时候，《华尔街日报》援引知情人士的话首次报道了这一消息。
-- [Circle已于2025年在Solana上铸造价值105亿USDC](https://x.com/Cointelegraph/status/1902684219681444200) - 📰 null - 【Circle已于2025年在Solana上铸造价值105亿USDC】金色财经报道，Circle已于2025年在Solana上铸造价值105亿美元的USDC。
-- [Nillion公布NIL代币经济学，初始流通量1.9515亿枚]() - 📰 null - 【Nillion公布NIL代币经济学，初始流通量1.9515亿枚】3月20日消息，据Binance官方公告，Nillion公布NIL代币经济学，NIL代币总供应量为10亿枚，NIL代币最大供应量为无上限（根据释放类型和自治治理，每年通货膨胀率为1%），初始流通量为1.9515亿枚（代币总供应量的19.52%）。
-- [过去12小时全网爆仓1.12亿美元，多空双爆]() - 📰 null - 【过去12小时全网爆仓1.12亿美元，多空双爆】金色财经报道，据Coinglass数据，过去12小时全网爆仓1.12亿美元，其中多单爆仓6465.05万美元，空单爆仓4782.32万美元。
-- [Binance Wallet Bedrock TGE已超募54倍，已筹集110,525枚BNB]() - 📰 null - 【Binance Wallet Bedrock TGE已超募54倍，已筹集110,525枚BNB】3月20日消息，Binance Wallet今日与Pancake Swap合作，为多资产流动质押协议Bedrock举办独家代币生成活动。目前BNB投入开放50分钟，已超募54倍。目标筹集2018.53枚BNB，现已筹集110,525枚BNB。
-- [美股加密货币概念股盘前转跌，Strategy跌1.72%]() - 📰 null - 【美股加密货币概念股盘前转跌，Strategy跌1.72%】3月20日消息，美股加密货币概念股盘前由涨转跌，其中：·Coinbase跌1.19%；·Strategy跌1.72%；·Riot Platforms跌0.39%；·MARA Holdings跌1.36%。
-- [BTC跌破85000美元]() - 📰 null - 【BTC跌破85000美元】金色财经报道，行情显示，BTC跌破85000美元，现报84990美元，24小时涨幅达到1.73%，行情波动较大，请做好风险控制。
-- [币安 Launchpool 将上线 Nillion（NIL）](https://www.binance.com/en/support/announcement/detail/2608d3a348a44a33b04a133b90d45dc2) - 📰 null - 【币安 Launchpool 将上线 Nillion（NIL）】金色财经报道，币安宣布将在 Launchpool 平台上推出第 65 个项目 Nillion（NIL）。Nillion 是一个去中心化网络，利用盲计算技术实现安全数据处理和存储，同时保护隐私。 
-根据公告，用户可以锁定 BNB、FDUSD 和 USDC 参与为期三天的挖矿，从 2025 年 3 月 21 日 00:00（UTC）开始，获得 NIL 代币空投。Launchpool 网页预计将在公告发布后 12 小时内上线。 
-NIL 代币将于 2025 年 3 月 24 日 13:00（UTC）在币安上市，开放 NIL/USDT、NIL/BNB、NIL/FDUSD、NIL/USDC 和 NIL/TRY 交易对。该代币将被标记为 Seed Tag。
-- [ETH跌破2000美元]() - 📰 null - 【ETH跌破2000美元】金色财经报道，行情显示，ETH跌破2000美元，现报1999.41美元，24小时涨幅达到2.77%，行情波动较大，请做好风险控制。
-- [Upbit提醒用户关注Cronos(CRO)投资风险]() - 📰 null - 【Upbit提醒用户关注Cronos(CRO)投资风险】3月20日消息，据Upbit公告，韩国数字资产交易所协会（DAXA）已对Cronos（CRO）发出投资风险警告。CRO将在2025年3月进行网络升级，并公布关于额外发行的提案。该提案已于3月17日通过投票，决定将CRO的总发行量从300亿增加至1000亿，预计将导致价格波动加剧。DAXA可能会根据市场情况采取进一步的保护措施，如指定交易警告或终止交易支持。
-- [Lazarus Group 地址转出 12.9 枚 BTC](https://intel.arkm.com/explorer/entity/lazarus-group) - 📰 null - 【Lazarus Group 地址转出 12.9 枚 BTC】金色财经报道，据 Arkham 数据，朝鲜黑客组织 Lazarus Group 于 27 分钟前向未知地址转入 12.929 枚 BTC。最新数据显示，Lazarus Group BTC 持仓数量降至 1.344 万枚，价值约合 11.6 亿美元。
-- [1333 BTC从Ceffu转移至Binance交易所，价值约1.15亿美元](https://whale-alert.io/transaction/bitcoin/05a9d753f5ab74c39d74382bf1ab50f51b966e1211d94f376ef76bedf921feb5) - 📰 null - 【1333 BTC从Ceffu转移至Binance交易所，价值约1.15亿美元】3月20日消息，Whale Alert监测显示，北京时间17:38，1,333 BTC（价值约1.15亿美元）从Ceffu转移至Binance交易所。
-- [「ETH高胜率波段巨鲸」于Hyperliquid增持318万美元HYPE，并持有320.9万美元的LDO多单](https://x.com/ai_9684xtpa/status/1902654750136606936) - 📰 null - 【「ETH高胜率波段巨鲸」于Hyperliquid增持318万美元HYPE，并持有320.9万美元的LDO多单】金色财经报道，据 ai_9684xtpa 监测，「ETH 高胜率波段巨鲸」昨日向 Hyperliquid 存入 1804 万枚 USDC 保证金，目前资金分配如下： 
- 1x 做多 LDO ：持仓 320.9 万美元，当前浮亏 4.3 万美元； 
- 现货建仓 HYPE ：持仓 318 万美元； 
- 现货建仓 UBTC ：持仓 35 万美元。 
-此外还挂了限价单预备加仓价值 391.5 万美元的 LDO 和 UBTC，加上 1x 多单相当于持有了三个现货标的。
-- [Coinbase回应去年Q4出售ETH：公司一般不参与交易活动](https://www.coindesk.com/business/2025/03/19/coinbase-sold-12-652-eth-in-the-fourth-quarter-standard-chartered-says) - 📰 null - 【Coinbase回应去年Q4出售ETH：公司一般不参与交易活动】金色财经报道，渣打银行分析师Geoffrey Kendrick此前披露加密货币交易所Coinbase 在2024年第四季度“主动出售”12,652枚ETH（价值约合3700万美元），并估计Coinbase的以太坊二层网络Base产生的收入中约80%是利润。Coinbase回应表示，他们会出售一部分ETH来资助运营，但没有透露涉及的金额，该公司一位发言人表示，Coinbase一般不会参与交易活动，Base通过序列器费用赚取ETH，这些ETH主要用于长期投资或用于运营费用，包括税务责任和通过工资、补助、收购和公共产品资金等方式再投资于增长。
+- [马斯克：特斯拉已加强安全措施](https://flash.jin10.com/detail/20250321014632711800) - 📰 null - 【马斯克：特斯拉已加强安全措施】金色财经报道，马斯克：特斯拉(TSLA.O)已经加强安全措施，并在所有门店的车辆上启动了哨兵模式。
+- [纽交所向美SEC提交允许以太坊ETF进行质押的提案](https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-25.pdf) - 📰 null - 【纽交所向美SEC提交允许以太坊ETF进行质押的提案】金色财经报道，据市场消息：纽交所已向美国证券交易委员会（SEC）提交提案，允许 Bitwise 以太坊 ETF 进行质押。
+- [Pump.fun推出PumpSwap，将与自动化做市商展开竞争](https://www.coindesk.com/markets/2025/03/20/inside-pump-fun-s-plan-to-dominate-solana-defi-trading) - 📰 null - 【Pump.fun推出PumpSwap，将与自动化做市商展开竞争】金色财经报道，Meme 币 Launchpad 平台 Pump.fun 宣布推出 PumpSwap 服务，该服务将为用户提供代币 Swap 功能，并与 Solana 生态中专门提供链上代币交易的自动化做市商展开直接竞争。根据项目启动文件，Pump.fun 的创始人认为 PumpSwap 能成为 Solana 上所有代币无许可交易基础设施的核心，他们已与多个代币项目达成协议，这些项目将直接在 PumpSwap 的框架上建立流动性。
+- [BTC跌破84000美元]() - 📰 null - 【BTC跌破84000美元】金色财经报道，行情显示，BTC跌破84000美元，现报83990.01美元，24小时跌幅达到0.82%，行情波动较大，请做好风险控制。
+- [苹果重组AI高管团队，力图扭转Siri颓势](https://www.cls.cn/detail/1978747) - 📰 null - 【苹果重组AI高管团队，力图扭转Siri颓势】金色财经报道，据知情人士透露，苹果公司正在进行罕见的高管层大变动，旨在让其人工智能工作在经历了数月的拖延和挫折后重回正轨。首席执行官蒂姆库克对AI负责人John Giannandrea执行产品开发的能力失去了信心，因此他调动了另一位高管来帮忙：Vision Pro的创造者Mike Rockwell。Rockwell将负责Siri虚拟助手，他将向软件主管Craig Federighi汇报。苹果准备在本周宣布员工变动。
+- [YZi Labs宣布Jane He成为普通合伙人，领导生物科技投资](https://x.com/yzilabs/status/1902755119911039287) - 📰 null - 【YZi Labs宣布Jane He成为普通合伙人，领导生物科技投资】金色财经报道，YZi Labs 宣布 Jane He 成为普通合伙人，领导生物科技投资。 
+在加入 YZi Labs 之前，Jane 曾是香港一家对冲基金的投资人兼首席运营官，专注于生物科技及创新驱动型行业的成长型投资。
+- [Coinbase国际站将上线AKT、ZEC和WELL永续合约](https://x.com/CoinbaseIntExch/status/1902752033255370868) - 📰 null - 【Coinbase国际站将上线AKT、ZEC和WELL永续合约】金色财经报道， Coinbase 国际站在 X 平台发文宣布，Coinbase International Exchange 和 Coinbase Advanced 上增加对 Akash Network、Zcash 和 Moonwell 永续合约的支持，AKT-PERP、ZEC-PERP 和 WELL-PERP 市场将于 2025 年 3 月 27 日上午 9:30（UTC 时间）或之后开放。
+- [Coinbase将Freysa (FAI) 添加到上币路线图](https://x.com/CoinbaseAssets/status/1902751754883616768) - 📰 null - 【Coinbase将Freysa (FAI) 添加到上币路线图】金色财经报道，Coinbase 宣布将 Freysa （FAI）添加到上币路线图。
+- [Bitnomial正式推出受美CFTC监管的XRP期货](https://x.com/Bitnomial/status/1902716174586016249) - 📰 null - 【Bitnomial正式推出受美CFTC监管的XRP期货】金色财经报道，加密货币衍生品交易平台 Bitnomial 正式推出受美国商品期货交易委员会（CFTC）监管的 XRP 期货，实物结算的 XRP/USD 期货现已在该平台开启交易。
+- [白宫新闻秘书：特朗普有权批评美联储的决定](https://www.cls.cn/detail/1978726) - 📰 null - 【白宫新闻秘书：特朗普有权批评美联储的决定】金色财经报道，美国白宫新闻秘书莱维特表示，特朗普有权批评美联储的决定，特朗普明确表示他希望降低利率。 
+白宫新闻秘书莱维特表示，不要相信特朗普和加拿大总理卡尼交谈过，美国将征收高额关税。
+- [“50倍杠杆巨鲸”个人照片曝光]() - 📰 null - 【“50倍杠杆巨鲸”个人照片曝光】金色财经报道，链上侦探 ZachXBT 今日发文披露在过去几周内通过高杠杆头寸获利 2000 万美元的 “50 倍杠杆巨鲸” 称可能与 William Parker 有关，并表示，去年 William Parker 因在 2023 年从两家赌场盗窃约 100 万美元而被捕，并在芬兰被判刑。在此之前，其被称为 Alistair Packover，后来改名。 
+2010 年代初，WP/AP 因与黑客和赌博相关的欺诈指控多次登上英国新闻头条。BBC 曾于 2010 年 1 月刊登出名为 Alistair Packover 的黑客个人照片。
+- [PEPE波段胜率100%巨鲸从币安提出46.4亿枚PEPE](https://x.com/ai_9684xtpa/status/1902736464066347224) - 📰 null - 【PEPE波段胜率100%巨鲸从币安提出46.4亿枚PEPE】金色财经报道，据@ai_9684xtpa监测，PEPE 波段胜率 100%巨鲸时隔三个月再次从币安提出 46.4 亿枚 PEPE，目前他累计持有 1.134 万亿枚 PEPE（约 880 万美元），其中 1.048 万亿枚是去年 6 月起以均价 0.00001735 美建仓的，PEPE 现价 0.00000772 美元。
+- [Canary提交申请PENGU ETF的S-1表格](https://x.com/solidintel_x/status/1902743936658993511) - 📰 null - 【Canary提交申请PENGU ETF的S-1表格】金色财经报道，据市场消息，Canary 向美国证券交易委员会提交申请 PENGU ETF 的 S-1 表格。
+- [伯恩斯坦下调多家上市比特币矿企目标价，仍维持BTC年底20万美元目标价格不变](https://www.theblock.co/post/347318/bernstein-cuts-price-targets-for-bitcoin-miners-amid-underperformance-relative-to-btc-in-2025) - 📰 null - 【伯恩斯坦下调多家上市比特币矿企目标价，仍维持BTC年底20万美元目标价格不变】金色财经报道，经纪公司伯恩斯坦下调多家上市比特币矿企目标价，包括 IREN、CleanSpark 和 Riot Platforms，因为今年迄今为止这些公司的股价表现远不及 BTC。分析师 Gautam Chhugani 解释说，比特币矿企今年经历了痛苦的调整，下跌 20-40%，而比特币下跌了 10%，总体而言，上市矿企的价格走势令人失望，去年第四季度没有显著的上涨，今年迄今的表现比比特币的调整还要糟糕。 
+不过，伯恩斯坦分析师维持了比特币年底前 20 万美元的目标价格不变。
+- [特朗普再次承诺不会出售美国没收的比特币](https://cointelegraph.com/news/trump-us-bitcoin-superpower-btc-price-breaks-4-month-downtrend) - 📰 null - 【特朗普再次承诺不会出售美国没收的比特币】金色财经报道，美国总统特朗普将在纽约市举办的 Digital Asset Summit（DAS）上发表演讲，他再次承诺不会出售美国没收的比特币，并将终止“扼杀行动 2.0”等监管机制。此外，特朗普还表示要让美国成为“比特币超级大国和世界加密货币之都”。
+- [特朗普峰会发言2分钟草草结束，未公布新政策]() - 📰 null - 【特朗普峰会发言2分钟草草结束，未公布新政策】金色财经报道，美国总统特朗普于本次 2025 数字资产峰会上的 “演讲” 总时长仅大约为 2 分钟，均为 “场面话” 而没有新的内容，而并非此前记者 Eleanor Terrett 爆料的——特朗普将在美国数字资产峰会上公布其后续加密政策。 
+从峰会直播来看，直播间弹幕已被关注者的失望评论竖屏。
+- [特朗普在数字资产峰会上发表的讲话已结束]() - 📰 null - 【特朗普在数字资产峰会上发表的讲话已结束】金色财经报道，美国总统特朗普在数字资产峰会上发表的讲话已结束。
+- [特朗普：美国在加密货币领域已经走在前列，正结束监管战争]() - 📰 null - 【特朗普：美国在加密货币领域已经走在前列，正结束监管战争】金色财经报道，美国总统特朗普表示，美国在加密货币和下一代金融科技领域已经走在前列。我们正在结束上一个政府在加密货币和比特币上的监管战争。
+- [特朗普呼吁国会通过稳定币立法]() - 📰 null - 【特朗普呼吁国会通过稳定币立法】金色财经报道，美国总统特朗普表示，我呼吁国会通过具有里程碑意义的立法，为稳定币和市场结构制定简单、常识性的规则。
+- [特朗普在2025年数字资产峰会上的演讲正式开始]() - 📰 null - 【特朗普在2025年数字资产峰会上的演讲正式开始】金色财经报道，特朗普在 2025 年数字资产峰会上的演讲正式开始，本次演讲以以录音录像形式播出。
