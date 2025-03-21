@@ -1,30 +1,29 @@
-- [Arcium公布代币经济学：总量10亿枚，20%分配给社区](https://x.com/ArciumHQ/status/1903047340073816552) - 📰 null - 【Arcium公布代币经济学：总量10亿枚，20%分配给社区】3月21日消息，机密计算网络 Arcium 公布代币经济学：总量 10 亿枚，其中社区占比 20%（CoinList 目标 2%）、天使投资人（含 Echo 轮）占 5.8%、验证者占 5%、核心贡献者占 20.8%、VC 占 20.4%、生态及金库占 28%。
-- [USDC Treasury再次在以太坊链上销毁5000万枚USDC]() - 📰 null - 【USDC Treasury再次在以太坊链上销毁5000万枚USDC】金色财经报道，据Whale Alert监测，北京时间20:20，以太坊链上的5000万枚USDC（约5001万美元）在USDC Treasury被销毁。
-- [Strategy将STRF优先股发行规模上调至7.225亿美元](https://x.com/saylor/status/1903054771554075094) - 📰 null - 【Strategy将STRF优先股发行规模上调至7.225亿美元】金色财经报道，据官方消息，Strategy（纳斯达克代码：MSTR/STRK）宣布其已完成 10.00% A 系列永续优先股（股票代码：$STRF）的定价工作。该公司将发行 850 万股，每股公开发行价格为 85.00 美元，发行规模从原计划的 5 亿美元扩大至 7.225 亿美元。 
-据悉，此次发行预计将于 2025 年 3 月 25 日完成交割，公司估计净募资额约为 7.112 亿美元（扣除承销折扣、佣金及公司预计的发行费用后）。Strategy 表示，募集资金将用于一般公司用途，包括比特币收购和营运资金。
-- [分析师：比特币“热供应”指标已下降超过 50%](https://cointelegraph.com/news/bitcoin-speculative-appetite-declines-investors-seek-safety) - 📰 null - 【分析师：比特币“热供应”指标已下降超过 50%】金色财经报道，随着近期迷因币诈骗浪潮和宏观经济不确定性，加密市场的投机热情正在消退，投资者转向更安全的数字资产投资。 
-据 Glassnode 数据显示，比特币"热供应"指标（衡量持有时间为一周或更短的比特币）已下降超过 50%，从 11 月底的 5.9% 降至 3 月 20 日的仅 2.3%。Bitget Research 首席分析师 Ryan Lee 表示，该指标的下降表明投资者在近期市场波动中转向更安全的投资定位
-- [美国国际开发署或采用区块链技术来跟踪资金流向](https://www.theblock.co/post/347477/usaid-blockchain-technology-trump-admin-proposal-elon-musk-doge?utm_source=twitter&utm_medium=social) - 📰 null - 【美国国际开发署或采用区块链技术来跟踪资金流向】金色财经报道，美国国际开发署（USAID）可能会采用区块链技术来跟踪资金流向，作为更透明采购流程的一部分。这项提案由特朗普政府官员提出，旨在对该机构进行改革和品牌重塑。
-- [派盾：Zoth攻击者已将盗取的资金兑换为4223枚ETH](https://x.com/PeckShieldAlert/status/1903040662829768994) - 📰 null - 【派盾：Zoth攻击者已将盗取的资金兑换为4223枚ETH】金色财经报道，据派盾监测，RWA 项目 Zoth 攻击者已将盗取的资金兑换为 4223 枚 ETH。
-- [币安将上线 BRUSDT 和 PLUMEUSDT 永续合约]() - 📰 null - 【币安将上线 BRUSDT 和 PLUMEUSDT 永续合约】金色财经报道，据官方消息，币安合约将上线 BRUSDT 和 PLUMEUSDT 永续合约，具体上线时间： 
-BRUSDT 永续合约：将于 2025 年 3 月 21 日 12:45（UTC）上线，最高可提供 25 倍杠杆 
-PLUMEUSDT 永续合约：将于 2025 年 3 月 21 日 13:00（UTC）上线，最高可提供 25 倍杠杆
-- [数据：James Wynn 关联钱包再次向币安转入 3891.8 亿枚 PEPE]() - 📰 null - 【数据：James Wynn 关联钱包再次向币安转入 3891.8 亿枚 PEPE】金色财经报道，据OnchainLens监测，一个与James Wynn关联的钱包再次向币安转入3891.8亿枚PEPE，约合284万美元。该地址两年间共购入2.82万亿枚PEPE，仅花费6.89枚ETH（约1.3万美元），目前已出售1.92万亿枚PEPE获利约563万美元和16万USDC，累计收益超1600万美元。该地址曾于10个月前转入752万美元PEPE。
-- [央行：择机降准降息]() - 📰 null - 【央行：择机降准降息】金色财经报道，中国人民银行货币政策委员会召开2025年第一季度例会。会议研究了下阶段货币政策主要思路，建议加大货币政策调控强度，提高货币政策调控前瞻性、针对性、有效性，根据国内外经济金融形势和金融市场运行情况，择机降准降息。保持流动性充裕，引导金融机构加大货币信贷投放力度，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。推动社会综合融资成本下降。(金十)
-- [链上RWA总锁仓突破100亿美元，USDtb近月暴涨逾1000%]() - 📰 null - 【链上RWA总锁仓突破100亿美元，USDtb近月暴涨逾1000%】3月21日消息，据CoinDesk报道，DeFiLlama数据显示，链上实物资产（RWA）总锁仓量已突破100亿美元，其中Maker、BlackRock的BUIDL与Ethena的USDtb各自TVL超10亿美元。由BlackRock货币基金支持的稳定币USDtb近月TVL暴增逾1000%，成为增长最快项目。
-- [Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah]() - 📰 null - 【Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah】金色财经报道，据官方消息，Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah。
-- [GoPlus：将协调尽快取回冻结资金并执行 GPS 代币回购计划](https://x.com/GoPlusSecurity/status/1903023137522110697) - 📰 null - 【GoPlus：将协调尽快取回冻结资金并执行 GPS 代币回购计划】金色财经报道，Web3 安全服务提供商 GoPlus Security 发布公告，就社区关注的 GPS 代币回购计划进行了详细说明。 
-根据公告，GoPlus 一直在与币安密切合作以完成回购流程。由于执行回购需要企业账户，而 GoPlus 此前在币安没有注册企业账户，因此需要完成全面的 KYB（了解你的企业）流程。这一过程涉及母公司法务团队向相关部门申请必要文件，导致了一定延迟。 
-GoPlus 宣布其 KYB 流程已获批准，团队将协调尽快取回冻结资金并执行回购计划。
-- [3e Network拟按3000万美元估值收购加密挖矿平台HashBeaver 4.9%股权](https://www.globenewswire.com/news-release/2025/03/20/3046131/0/en/3-E-Network-Technology-Group-Limited-Announces-Strategic-Equity-Investment-in-HashBeaver-to-Accelerate-Blockchain-Innovation.html) - 📰 null - 【3e Network拟按3000万美元估值收购加密挖矿平台HashBeaver 4.9%股权】金色财经报道，纳斯达克上市公司3e Network（三易科技）宣布与新加坡数字货币挖矿平台HASH BEAVER PTE. LTD（HashBeaver）签署谅解备忘录（MoU），拟按照3000万美元的估值收购后者4.9%的股权，据悉3e Network还计划探索将其B2B软件与HashBeaver区块链基础设施相结合。
-- [慢雾：Zoth疑因管理员权限泄露遭攻击](https://x.com/SlowMist_Team/status/1903020756830974217) - 📰 null - 【慢雾：Zoth疑因管理员权限泄露遭攻击】金色财经报道，慢雾团队发布安全警报称，Zoth平台疑似因管理员权限泄露遭受攻击，核心逻辑合约被篡改并替换为恶意合约。
-- [Wintermute 2小时前向Binance 存入 9966 万 FDUSD](https://x.com/OnchainDataNerd/status/1903020422096093630) - 📰 null - 【Wintermute 2小时前向Binance 存入 9966 万 FDUSD】金色财经报道，据链上分析师The Data Nerd监测，2小时前，Wintermute 向Binance 存入了 9966 万 FDUSD。24小时内，他向Binance 共存入了 1.846 亿 FDUSD。
-- [2015年ICO 100万枚ETH远古巨鲸转移10000枚ETH，或将在近期抛售](https://x.com/ai_9684xtpa/status/1903018177006800932) - 📰 null - 【2015年ICO 100万枚ETH远古巨鲸转移10000枚ETH，或将在近期抛售】金色财经报道，据 ai_9684xtpa 监测，「2015 年 ICO 100 万枚 ETH 的远古巨鲸」向某地址转移 10000 枚 ETH，约 1969 万美元，或将在近期抛售。 
-该巨鲸于一个月前转移至该地址的 3000 枚 ETH 目前已分批卖出，再次获利 697.8 万美元；目前其五个地址仍持有 215,008 枚 ETH，价值 4.24 亿美元，成本低至 0.31 美元。
-- [Bakkt 任命 Akshay Naheta 为联合 CEO](https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push) - 📰 null - 【Bakkt 任命 Akshay Naheta 为联合 CEO】金色财经报道，加密货币公司 Bakkt Holdings（股票代码：BKKT）宣布任命前软银高管 Akshay Naheta 为联合 CEO，并与 Naheta 创立的支付初创公司 Distributed Technologies Research（DTR）建立战略合作伙伴关系，以开拓新的收入来源。 
-Naheta 曾在软银投资过英伟达和 ARM 等公司，将从 3 月 21 日起正式加入 Bakkt 领导团队，与现任 CEO Andy Main 共同引领公司深入区块链支付领域。同时，Naheta 也将加入 Bakkt 董事会。 
-此次合作的核心是计划将 Bakkt 的交易和经纪平台与 DTR 基于稳定币的支付基础设施整合。据官方新闻稿介绍，DTR 的基础设施利用一套 API、区块链技术和专有路由系统，旨在降低支付解决方案的成本和复杂性。
-- [币安将更新ORCAUSDT U本位永续合约杠杆和保证⾦]() - 📰 null - 【币安将更新ORCAUSDT U本位永续合约杠杆和保证⾦】金色财经报道，据官⽅公告，币安合约将于 2025 年 03⽉21⽇09：15（UTC）更新 ORCAUSDTU 本位永续合约的杠杆和保证⾦阶梯。
-- [香港数字资产公司IDA与日本银行集团Progmat合作推出稳定币跨境汇款服务](https://www.prnewswire.com/apac/news-releases/ida-progmat-datachain-and-toki-join-forces-to-explore-stablecoin-based-remittances-for-hong-kong---japan-trade-efficiency-302407637.html) - 📰 null - 【香港数字资产公司IDA与日本银行集团Progmat合作推出稳定币跨境汇款服务】金色财经报道，香港数字资产公司IDA宣布与日本银行集团Progmat、以及区块链公司Datachain和跨链基础设施提供商TOKI FZCO达成战略合作，共同开发概念验证(PoC)以实现香港和日本之间基于稳定币的跨境应用场景，据悉相关稳定币将在香港监管制度合规要求下使用以日元和港元计价，IDA此前已与东亚银行展开合作以1：1港元挂钩稳定币来探索广泛采用数字金融的可行性。
-- [BSC生态meme币BUBB市值触及3500万美元创历史新高，24小时涨幅516%]() - 📰 null - 【BSC生态meme币BUBB市值触及3500万美元创历史新高，24小时涨幅516%】3月21日消息，据GMGN行情信息，BSC生态meme币BUBB市值短时触及3500万美元创历史新高，现报3130万美元，近24小时涨幅达516%，24小时成交量4170万美元。 
-今日凌晨，Binance联合创始人何一在X平台与该meme币官推互动，并关注其官推。meme币无实际价值，价格波动较大，用户投资需谨慎。
+- [贝莱德IBIT地址增持价值1.45亿美元的比特币](https://x.com/arkham/status/1903133559361314966) - 📰 null - 【贝莱德IBIT地址增持价值1.45亿美元的比特币】金色财经报道，据 Arkham 监测，贝莱德 IBIT 关联地址增持价值 1.45 亿美元的比特币。
+- [Coinbase正就收购Deribit进行深入谈判](https://www.bloomberg.com/news/articles/2025-03-21/coinbase-in-advanced-talks-to-buy-derivatives-venue-deribit-coin) - 📰 null - 【Coinbase正就收购Deribit进行深入谈判】金色财经报道，Coinbase 正就收购衍生品加密交易平台 Deribit 进行深入谈判。部分知情人士表示，双方已向迪拜监管机构通报了谈判情况，因为 Deribit 持有迪拜的相关牌照。据数据平台 Kaiko 显示，Deribit 是全球最大的比特币和以太坊期权交易平台，而 Coinbase 则是美国最大的加密交易平台。 
+目前尚不清楚 Coinbase 是否已与 Deribit 达成最终协议。彭博社在 1 月曾报道称，Deribit 的估值可能在 40 亿至 50 亿美元之间。此次谈判可能不会达成协议。知情人士要求匿名，因为要讨论的是机密谈判。
+- [韩国计划对BitMEX、KuCoin等未注册交易平台实施制裁](https://www.coindesk.com/policy/2025/03/21/south-korea-plans-sanctions-against-bitmex-kucoin-others-report?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_source=twitter) - 📰 null - 【韩国计划对BitMEX、KuCoin等未注册交易平台实施制裁】金色财经报道，韩国金融当局正计划对 BitMEX、KuCoin、CoinW、Bitunix 和 KCEX 等未在金融情报机构（FIU）注册、却提供韩语网站服务的加密交易平台采取制裁措施。FIU 表示，上述交易所未按规定注册为虚拟资产服务提供商（VASP），因此被视为非法经营。相关官员称，正与韩国通信标准委员会协商，审议封锁这些未注册海外交易所访问权限的方案，预计年内将出台具体措施。
+- [特朗普：将很快实现俄乌冲突全面停火](https://www.cls.cn/detail/1980207) - 📰 null - 【特朗普：将很快实现俄乌冲突全面停火】金色财经报道，美国总统特朗普表示，将很快实现俄乌冲突全面停火。
+- [特朗普：关税将具有灵活性，因为它是对等的](https://www.cls.cn/detail/1980202) - 📰 null - 【特朗普：关税将具有灵活性，因为它是对等的】金色财经报道，美国总统特朗普表示，关税将具有灵活性，因为它是对等的。
+- [美元指数DXY短线上涨23点，现报104.13]() - 📰 null - 【美元指数DXY短线上涨23点，现报104.13】金色财经报道，美元指数DXY短线上涨23点，现报104.13。
+- [特朗普：与马斯克在美国国防部会晤，讨论成本和DOGE问题](https://flash.jin10.com/detail/20250321235658995800) - 📰 null - 【特朗普：与马斯克在美国国防部会晤，讨论成本和DOGE问题】金色财经报道，美国总统特朗普表示，与马斯克在美国国防部会晤，讨论成本和 DOGE 问题。
+- [某巨鲸今日买入7074枚ETH](https://x.com/lookonchain/status/1903112837846929445) - 📰 null - 【某巨鲸今日买入7074枚ETH】金色财经报道，据Lookonchain监测，某巨鲸今日买入了 7,074 枚 ETH（约 1380 万美元）。 
+该巨鲸在 3 小时前从 OKX 提取了 4,511 枚 ETH（约 881 万美元），并将其存入 Aave。 
+随后，他从 Aave 借入 500 万枚 USDT，并将其存入 OKX 购买了额外的 2,563 枚 ETH（约 500 万美元）。
+- [Coinbase CEO：支持隐私保护，期待与财政部合作打击非法活动](https://x.com/brian_armstrong/status/1903110743110881662) - 📰 null - 【Coinbase CEO：支持隐私保护，期待与财政部合作打击非法活动】金色财经报道，Coinbase 首席执行官 Brian Armstrong 近日在社交媒体上就此前美财政部解除对 Tornado Cash 制裁一事发表看法：“没有人希望看到不法分子使用加密货币。但隐私对许多守法公民来说是一项重要功能，而且你不能制裁开源代码（这是一个言论自由问题）。很高兴看到这个问题得到解决。” 
+他补充道：“我们期待与财政部合作，寻找打击加密货币领域约 0.1% 的非法活动（远低于现金或银行系统！）的方法，这些方法需要符合美国法律和价值观。”
+- [特朗普：美国加入英联邦这个想法听起来不错](https://finance.sina.com.cn/7x24/2025-03-21/doc-ineqmwnc9330602.shtml) - 📰 null - 【特朗普：美国加入英联邦这个想法听起来不错】金色财经报道，美国总统特朗普在一篇社交媒体帖子中似乎对美国加入英联邦国家的想法表示赞许。特朗普周五回应了美国《太阳报》一篇的文章，该报称英国国王查尔斯可能会在特朗普访问英国期间建议特朗普让美国以“准成员”(associate member)身份加入英联邦。特朗普在帖子中写道，“我爱查尔斯国王，这主意听起来不错！”
+- [欧洲央行管委：仍预计2025年还有两次降息，终端利率为2%](https://www.cls.cn/detail/1980176) - 📰 null - 【欧洲央行管委：仍预计2025年还有两次降息，终端利率为2%】金色财经报道，欧洲央行管委斯图纳拉斯表示，仍预计2025年还有两次降息，终端利率为2%。
+- [Ethena回应BaFin禁令：USDe未被冻结，铸造与赎回服务正常进行](https://x.com/ethena_labs/status/1903106001470939402?s=46&t=tUq3rRSn2-2RltYv-PcsUA) - 📰 null - 【Ethena回应BaFin禁令：USDe未被冻结，铸造与赎回服务正常进行】金色财经报道，据Ethena官方声明，德国BaFin已通知其位于法兰克福的实体Ethena GmbH的MiCAR合规申请将不被批准，但该决定不影响USDe当前交易所上市及通过英属维京群岛实体Ethena (BVI) Limited的铸造与赎回服务。 
+Ethena强调，USDe仍为全额资产支持，不存在被“冻结”情况。未来将评估其他监管路径，并将在未来一周内修订相关服务条款以反映当前变化。该事件不影响大多数用户的正常使用流程。
+- [MegaETH宣布推出公共测试网](https://x.com/megaeth_labs/status/1903099481874153880) - 📰 null - 【MegaETH宣布推出公共测试网】金色财经报道，MegaETH 宣布推出公共测试网，昨日向超 19 万个钱包空投测试网 ETH。
+- [德国BaFin叫停Ethena发行USDe代币新业务，指其存在重大合规缺陷](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2025/meldung_2025_03_21_Ethena_GmbH.html) - 📰 null - 【德国BaFin叫停Ethena发行USDe代币新业务，指其存在重大合规缺陷】金色财经报道，据BaFin官网公告，德国金融监管局BaFin已叫停Ethena GmbH在德国发行USDe稳定币的新业务，理由是其在MiCAR许可流程中存在重大组织缺陷和合规违规行为，包括资产储备管理不当与资本金要求未达标。 
+BaFin已采取如下措施：冻结Ethena GmbH的资产储备、限制管理层对资产的处置权、关闭其官网相关功能、并指派专员监督执行。此外，BaFin还怀疑Ethena GmbH在未提供必要招股说明书的情况下非法公开发售sUSDe证券型代币。 
+目前，Ethena GmbH客户暂时无法赎回USDe代币，但二级市场交易未受限制。截至目前，约有54亿枚USDe代币流通。BaFin后续将继续评估是否完全驳回其MiCAR下的合规许可申请。
+- [观点：Meme币不会消失，但只有少数Meme币会持续存在](https://x.com/NTmoney/status/1903105066229456963) - 📰 null - 【观点：Meme币不会消失，但只有少数Meme币会持续存在】金色财经报道，1confirmation 的创始人 Nick Tomaino 于 X 发文表示，“Meme 币并无好坏之分，它们只是存在，而且显然不会消失。那些认为我们将进入一个充满‘真实价值’代币的时代的人将会失望。真实的价值在于观察者的眼中。经过 15 年以上的时间，数十亿人仍然认为比特币没有任何实际价值。但有数亿人相信它，并且它的市值为 1.6 万亿美元。大多数 Meme 币会消失，但少数 Meme 币会持续存在。”
+- [今日美国比特币ETF净流入1498枚BTC，以太坊ETF净流出5908枚ETH](https://x.com/lookonchain/status/1903105238028128605) - 📰 null - 【今日美国比特币ETF净流入1498枚BTC，以太坊ETF净流出5908枚ETH】金色财经报道，据Lookonchain监测，今日10只美国比特币ETF净流入1498枚BTC，其中贝莱德流入2046枚BTC，目前其持有572628枚BTC，约合481.1亿美元；9只以太坊ETF净流出5908枚ETH，其中贝莱德流出4542枚ETH，目前其持有1,197,822枚ETH，约合23.4亿美元。
+- [美联储威廉姆斯：美联储并不急于做出下一个货币政策决定](https://www.cls.cn/detail/1980183) - 📰 null - 【美联储威廉姆斯：美联储并不急于做出下一个货币政策决定】金色财经报道，美联储威廉姆斯表示，9月预测中值似乎合理。通胀和就业目标的风险均有所上升，长期通胀预期保持稳定。美联储并不急于做出下一个货币政策决定。特朗普的政策调整表明经济增长放缓，失业率将上升。
+- [ORCA部署地址于1小时前向Wintermute转移价值962万美元的代币，或用于做市/抛售](https://x.com/ai_9684xtpa/status/1903103326037877162) - 📰 null - 【ORCA部署地址于1小时前向Wintermute转移价值962万美元的代币，或用于做市/抛售】金色财经报道，据 @ai_9684xtpa 监测，ORCA 部署地址于 1 小时前向 Wintermute 转移价值 962 万美元的代币，或用于做市/抛售。 
+截至目前，Wintermute 已将部分 ORCA 充值进 Coinbase / Binance / Kucoin / Kraken 等交易平台，链上仍持有 220 万枚代币，价值 750 万美元。 
+距离其 22:18 首次向交易平台充值代币至今，币价已下跌 7%(3.642 美元跌至 3.39 美元)；而 Wintermute 早在 2024 年 12 月就曾交互过 ORCA，似乎并非首次做市。
+- [某新建钱包从OKX提取约2亿枚DUCK](https://x.com/OnchainLens/status/1903101331889651868) - 📰 null - 【某新建钱包从OKX提取约2亿枚DUCK】金色财经报道，据 Onchain Lens 监测，一个新创建的钱包今日从 OKX 交易所提取约 2 亿大额 DUCK（DuckChain）代币，价值约 94 万美元，疑似巨鲸建仓。最近 TON 生态在 OKX 的几个项目均有大幅拉升，DuckChain 近日上线合规交易平台 Kraken。目前追踪到该地址 1/3 代币已进入 DuckChain 官网质押池进行质押。
+- [纽约联储行长：适度从紧的货币政策立场仍然恰当]() - 📰 null - 【纽约联储行长：适度从紧的货币政策立场仍然恰当】金色财经报道，纽约联邦储备银行行长John Williams表示，移民、贸易和财政政策的快速变化将如何改变经济尚存在高度不确定性，当前的货币政策立场仍然恰当，使美联储能够很好地应对不断变化的环境。Williams表示，放慢缩表的决定是美联储缩减投资组合行动中自然而然的一环，此举对货币政策“没有影响”。
