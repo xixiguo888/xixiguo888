@@ -1,42 +1,30 @@
-- [Ave.ai 已在产品端对PumpSwap进行全面交易支持](https://x.com/aveai_info/status/1902958629839573219) - 📰 null - 【Ave.ai 已在产品端对PumpSwap进行全面交易支持】金色财经报道，Ave.ai 现已在产品端对PumpSwap进行了全面交易支持，包括在Ave App、AveSniperBot和PC端，并支持PumpSwap行情K线实时同步和全量数据洞察。
-- [Binance将于今日开启第一批下架投票]() - 📰 null - 【Binance将于今日开启第一批下架投票】金色财经报道，据官方公告，Binance将开启第一批下架投票。其中首批投票自2025-03-21 06:30（UTC）至2025-03-27 23:59（UTC）持续七天（投票期）。用户必须登录到其已经验证的Binance账户，并在整个投票期间在其交易账户中持有至少0.01枚BNB，其投票才有效。 
-投票期间，每个用户最多可对下架投票池中的5个项目进行投票，每个认证账户只能为每个项目投票一票。
-- [调查：44%的人看好AI代币的价格](https://cointelegraph.com/news/half-crypto-users-bullish-ai-crypto-fusion-coingecko) - 📰 null - 【调查：44%的人看好AI代币的价格】金色财经报道，CoinGecko最近的一项调查显示，近一半的加密货币专家对加密AI代币的价格持乐观态度——这可能对价值236亿美元的加密货币市场板块是个好兆头。在2月至3月期间调查的2632名受访者中，25%表示“完全乐观”，19.3%表示对2025年的加密AI代币“有些乐观”。约29%的受访者对此持中立态度，而合计26.3%的受访者表示“有些悲观”或“悲观”。 
-CoinGecko的加密货币研究分析师Yuqian Lim表示，当涉及到加密AI产品时，调查结果相似，因为将加密货币与AI结合的应用案例已经有所改进，并且正在获得更广泛的采用，这或许表明，加密货币参与者并没有区分加密AI的投资或交易潜力和技术本身这种市场情绪可能反过来反映出，现在正是加密AI超越概念阶段并作为一个板块走向成熟的时候。
-- [Binance将下架AERGO、AST、BURGER、COMBO、LINA](https://www.binance.com/en/support/announcement/detail/db7ad1c7aa6248cda735102cdcdc4b8d) - 📰 null - 【Binance将下架AERGO、AST、BURGER、COMBO、LINA】金色财经报道，据官方公告，Binance将于2025年03月28日11:00（东八区时间）停止交易并下架以下币种： 
-Aergo (AERGO) 
-AirSwap (AST) 
-BurgerCities (BURGER) 
-COMBO (COMBO) 
-Linear Finance (LINA) 
-此外，本批下架后将引入投票下架功能。已宣布下架的项目将不再参与投票下币。
-- [基于Initia构建的Meme应用链Embr.fun即将推出公开测试版本](https://x.com/initia/status/1902948625065578563) - 📰 null - 【基于Initia构建的Meme应用链Embr.fun即将推出公开测试版本】3月21日消息，基于Initia构建的Meme应用链Embr.fun即将推出公开测试版本，加入候补名单即可获得早期访问权和专属奖励。Embr.fun由Embr Labs构建，并由Initia Interwoven Stack提供开发支持。该项目专为下一代Meme经济而构建，旨在带来Meme更多创新趣味玩法，成为推动下一代Meme发展的首先平台。
-- [韩国金融监管机构对未注册的海外加密交易所展开执法行动](https://www.hankyung.com/article/202503219761g) - 📰 null - 【韩国金融监管机构对未注册的海外加密交易所展开执法行动】金色财经报道，韩国金融服务委员会（FSC）下属的金融情报分析院（FIU）已经对那些未经注册便为韩国用户提供服务的海外加密货币交易所采取了执法行动，这一行动是依据《特定金融交易信息报告及使用法》进行的。据报道，FIU正考虑将网站访问屏蔽作为主要执法措施，目标交易所包括BitMEX、KuCoin、CoinW、Bitunix和KCEX。
-- [CZ：Giggle Academy团队成员均专注于产品开发，后期合作会自然发生]() - 📰 null - 【CZ：Giggle Academy团队成员均专注于产品开发，后期合作会自然发生】金色财经报道，CZ在平台发文表示：“我们团队（Web3教育平台Giggle Academy）里没有专门的商务拓展人员。也没有社交媒体实习生。大家都在专注于产品开发。我们想要打造最好的免费教育平台。合作伙伴关系以后会来。很多合作会自然而然地发生。”这是其对某用户建议“Giggle Academy与世界上所有优秀的免费教育机构建立联系”的回应。
-- [数据科学家：加密预测市场Polymarket预测世界事件的准确率达90%](https://www.coindesk.com/markets/2025/03/21/polymarket-is-94-accurate-in-predicting-world-events-research) - 📰 null - 【数据科学家：加密预测市场Polymarket预测世界事件的准确率达90%】金色财经报道，数据科学家Alex McCullough的研究显示，预测市场Polymarket在预测一个月后发生的事件时准确率达90%，在事件发生前四小时准确率高达94%。McCullough分析了Polymarket的历史数据，剔除了极端概率值后发现，该平台在大多数概率范围内略微但持续地高估事件发生概率，可能受到从众心理、低流动性和参与者偏好高风险投注等因素影响。
-- [稳定币总市值首次突破2300亿美元](https://www.theblock.co/post/347405/total-stablecoin-market-cap-surpasses-230-billion-amid-institutional-interest-and-trump-policies?utm_source=twitter&utm_medium=social) - 📰 null - 【稳定币总市值首次突破2300亿美元】金色财经报道，据The Block报道，周四，在美国监管机构努力推动稳定币采用的背景下，稳定币的总市值首次突破2,300亿美元。根据DefiLlama的数据，当前总市值为2,304.5亿美元，过去七天内增加了23亿美元。与去年同期相比，稳定币市值增长了56%。在整体市值中，Tether的USDT稳定币占据主导地位，市值近1,440亿美元，占比62.6%，其次是Circle的USDC，市值为590亿美元。
-- [19个新建钱包四天内从币安提取6152万枚OM，目前浮亏1420万美元](https://x.com/spotonchain/status/1902932505482990075) - 📰 null - 【19个新建钱包四天内从币安提取6152万枚OM，目前浮亏1420万美元】金色财经报道，据链上分析师Spot On Chain（@spotonchain）监测，过去4天内，19个新钱包（可能属于同一实体）从币安交易所提取了6152万枚OM代币（约占总供应量的3.4%），平均价格为6.82美元（总价值约4.2亿美元）。 
-目前，这些钱包的未实现亏损为1420万美元（-3.39%）。
-- [Berachain基金会：PoL将于3月24日上线，治理进入第一阶段](https://x.com/berachain/status/1902854165883167167) - 📰 null - 【Berachain基金会：PoL将于3月24日上线，治理进入第一阶段】金色财经报道，Berachain基金会发文称，PoL（流动性证明）将于3月24日正式上线，治理进入第一阶段，激励机制将开始生效，新的奖励库将进行排放。 
-此次变化意味着BGT持有者将拥有更多控制权和盈利机会，将决定激励的流向，支持用户、应用和验证者的激励分配。
-- [Greeks.live：临近季度交割，加密期权做市商押注短期市场将继续横盘整理](https://x.com/BTC__options/status/1902937504015323545) - 📰 null - 【Greeks.live：临近季度交割，加密期权做市商押注短期市场将继续横盘整理】金色财经报道，Greeks.live 宏观分析员 Adam 发文称，本周加密市场交易较为平淡，期权交割总量下降近一半，短期隐含波动率明显下降，比特币中短期波动率全面跌破 50%，ETH 中短期波动率回落至 60% 附近。 
-加密货币目前进入自由振荡的横盘状态，投资者情绪趋于迟钝。临近季度交割，大户普遍采取稳健策略，期权做市商机构重新提高卖出强度，收紧隐含波动率，押注短期市场将继续横盘整理。
-- [特朗普再次呼吁美联储降息](https://truthsocial.com/@realDonaldTrump) - 📰 null - 【特朗普再次呼吁美联储降息】金色财经报道，特朗普发文称，“鸡蛋价格较几周前拜登引发的价格大幅下降。"杂货"和汽油价格也下降了。现在，如果美联储能做正确的事情并降低利率，那将会很棒。”
-- [某鲸鱼休眠两个月后从Binance提取8313枚ETH](https://x.com/OnchainLens/status/1902934745094427071) - 📰 null - 【某鲸鱼休眠两个月后从Binance提取8313枚ETH】金色财经报道，据Onchain Lens监测，某鲸鱼休眠两个月后从Binance提取8313枚ETH，价值1646万美元。该鲸鱼目前持有11,197.53枚ETH，价值2217万美元，浮亏380万美元。
-- [10x Research：若比特币价格保持在 90,000-92,000 美元区间以下，整体市场可能仍处于盘整阶段](https://x.com/10x_Research/status/1902927768134033657) - 📰 null - 【10x Research：若比特币价格保持在 90,000-92,000 美元区间以下，整体市场可能仍处于盘整阶段】金色财经报道，10x Research发文表示，尽管美联储态度偏向鸽派，但比特币市场短期内仍可能面临上行阻力。研究机构指出，只要比特币价格保持在90,000-92,000美元阻力区间以下，整体市场可能继续处于盘整阶段。 
-美联储下调了增长预期并略微减缓了资产负债表缩减（QT）步伐，美联储主席Powell强调近期通胀上升可能是暂时性的。尽管这为风险资产提供了短期支撑，但10x Research认为投资者在4月2日特朗普关税公告和4月11日开始的美国企业财报季前可能保持谨慎。 
-报告还指出，消费者信心减弱和房地产市场恶化可能导致财报季表现不佳，市场结构指标仍然低迷，表明此次反弹难以获得显著动力或将比特币重新推入更广泛的牛市情绪。
-- [美国“打倒特斯拉”运动计划在3月29日举行“最大规模抗议”]() - 📰 null - 【美国“打倒特斯拉”运动计划在3月29日举行“最大规模抗议”】金色财经报道，据科技媒体The Verge的一篇报道，美国“打倒特斯拉”运动在周三大规模呼吁组织者、电影制作人、国会议员和其他关键人物联合起来，于3月29日在美国277家特斯拉(TSLA.O)展厅以及超级充电站举行500场示威活动。“打倒特斯拉”运动起源于对马斯克日益增长的政治角色、他与特朗普的密切关系以及他领导的政府效率部的不满。由于马斯克的净资产中有很大一部分与他持有的特斯拉股份挂钩，“打倒特斯拉”运动的成员就把目标对准了这家电动汽车制造商。不幸的是，针对特斯拉和马斯克的抗议活动变得越来越暴力，特斯拉商店遭到枪击，汽车被纵火焚烧。超级充电站和特斯拉车主的汽车也遭到了破坏和纵火。在这类事件愈演愈烈之际，美国总统特朗普指出，他认为这类行动是国内恐怖主义。司法部长帕姆·邦迪也指出，纵火和破坏特斯拉汽车的幕后黑手将被绳之以法。(金十)
-- [多个新建地址近4日从Binance累计提取6152万枚OM](https://x.com/spotonchain/status/1902932505482990075) - 📰 null - 【多个新建地址近4日从Binance累计提取6152万枚OM】金色财经报道，据Spot On Chain监测，在过去4天中，19个新钱包（可能是一个实体）从Binance中提取了6152万枚OM（约占总供应量的3.4%），平均价格为6.82美元（4.2亿美元）。 
-他们目前未实现损失为1420万美元(-3.39%)。
-- [金色午报 | 3月21日午间重要动态一览]() - 📰 null - 【金色午报 | 3月21日午间重要动态一览】7:00-12:00关键词：Circle、Pectra、Metaplanet、David Sacks 
-1.Circle：原生USDC和CCTP V2协议即将登陆Sonic； 
-2.澳大利亚公布新加密法规，承诺打击“去银行化”行为； 
-3.Coinbase宣布将ALT、PENDLE和L3添加到上币路线图； 
-4.第153次以太坊ACDC会议：开发人员同意推迟Pectra主网日期； 
-5.CZ：平台投票上币曾导致项目方互相攻击，上币模式应不断换新； 
-6.David Sacks与阿联酋国家安全顾问会面讨论人工智能及数字货币； 
-7.日本上市公司Metaplanet任命特朗普次子Eric Trump为战略顾问委员会成员。
-- [BSC生态meme币BUBB开发者仍持有2.87%代币供应，浮动回报率达3028倍](https://x.com/ai_9684xtpa/status/1902927814917230985) - 📰 null - 【BSC生态meme币BUBB开发者仍持有2.87%代币供应，浮动回报率达3028倍】金色财经报道，据链上分析师@ai_9684xtpa监测，BSC生态meme币BUBB开发者仅投入0.31枚BNB已浮盈58万美元，回报率3028倍。 
-其以低至0.000004878美元的成本买入3.87%的筹码，并在27小时前将其中1000万枚代币转移至CZ公开捐款地址（占总量的1%），其余部分暂未卖出。
-- [Circle：原生USDC和CCTP V2协议即将登陆Sonic](https://x.com/Cointelegraph/status/1902925636332564894) - 📰 null - 【Circle：原生USDC和CCTP V2协议即将登陆Sonic】金色财经报道，稳定币发行商Circle发布视频预告其原生USDC和跨链传输协议（CCTP）V2即将在Sonic上线。
+- [Arcium公布代币经济学：总量10亿枚，20%分配给社区](https://x.com/ArciumHQ/status/1903047340073816552) - 📰 null - 【Arcium公布代币经济学：总量10亿枚，20%分配给社区】3月21日消息，机密计算网络 Arcium 公布代币经济学：总量 10 亿枚，其中社区占比 20%（CoinList 目标 2%）、天使投资人（含 Echo 轮）占 5.8%、验证者占 5%、核心贡献者占 20.8%、VC 占 20.4%、生态及金库占 28%。
+- [USDC Treasury再次在以太坊链上销毁5000万枚USDC]() - 📰 null - 【USDC Treasury再次在以太坊链上销毁5000万枚USDC】金色财经报道，据Whale Alert监测，北京时间20:20，以太坊链上的5000万枚USDC（约5001万美元）在USDC Treasury被销毁。
+- [Strategy将STRF优先股发行规模上调至7.225亿美元](https://x.com/saylor/status/1903054771554075094) - 📰 null - 【Strategy将STRF优先股发行规模上调至7.225亿美元】金色财经报道，据官方消息，Strategy（纳斯达克代码：MSTR/STRK）宣布其已完成 10.00% A 系列永续优先股（股票代码：$STRF）的定价工作。该公司将发行 850 万股，每股公开发行价格为 85.00 美元，发行规模从原计划的 5 亿美元扩大至 7.225 亿美元。 
+据悉，此次发行预计将于 2025 年 3 月 25 日完成交割，公司估计净募资额约为 7.112 亿美元（扣除承销折扣、佣金及公司预计的发行费用后）。Strategy 表示，募集资金将用于一般公司用途，包括比特币收购和营运资金。
+- [分析师：比特币“热供应”指标已下降超过 50%](https://cointelegraph.com/news/bitcoin-speculative-appetite-declines-investors-seek-safety) - 📰 null - 【分析师：比特币“热供应”指标已下降超过 50%】金色财经报道，随着近期迷因币诈骗浪潮和宏观经济不确定性，加密市场的投机热情正在消退，投资者转向更安全的数字资产投资。 
+据 Glassnode 数据显示，比特币"热供应"指标（衡量持有时间为一周或更短的比特币）已下降超过 50%，从 11 月底的 5.9% 降至 3 月 20 日的仅 2.3%。Bitget Research 首席分析师 Ryan Lee 表示，该指标的下降表明投资者在近期市场波动中转向更安全的投资定位
+- [美国国际开发署或采用区块链技术来跟踪资金流向](https://www.theblock.co/post/347477/usaid-blockchain-technology-trump-admin-proposal-elon-musk-doge?utm_source=twitter&utm_medium=social) - 📰 null - 【美国国际开发署或采用区块链技术来跟踪资金流向】金色财经报道，美国国际开发署（USAID）可能会采用区块链技术来跟踪资金流向，作为更透明采购流程的一部分。这项提案由特朗普政府官员提出，旨在对该机构进行改革和品牌重塑。
+- [派盾：Zoth攻击者已将盗取的资金兑换为4223枚ETH](https://x.com/PeckShieldAlert/status/1903040662829768994) - 📰 null - 【派盾：Zoth攻击者已将盗取的资金兑换为4223枚ETH】金色财经报道，据派盾监测，RWA 项目 Zoth 攻击者已将盗取的资金兑换为 4223 枚 ETH。
+- [币安将上线 BRUSDT 和 PLUMEUSDT 永续合约]() - 📰 null - 【币安将上线 BRUSDT 和 PLUMEUSDT 永续合约】金色财经报道，据官方消息，币安合约将上线 BRUSDT 和 PLUMEUSDT 永续合约，具体上线时间： 
+BRUSDT 永续合约：将于 2025 年 3 月 21 日 12:45（UTC）上线，最高可提供 25 倍杠杆 
+PLUMEUSDT 永续合约：将于 2025 年 3 月 21 日 13:00（UTC）上线，最高可提供 25 倍杠杆
+- [数据：James Wynn 关联钱包再次向币安转入 3891.8 亿枚 PEPE]() - 📰 null - 【数据：James Wynn 关联钱包再次向币安转入 3891.8 亿枚 PEPE】金色财经报道，据OnchainLens监测，一个与James Wynn关联的钱包再次向币安转入3891.8亿枚PEPE，约合284万美元。该地址两年间共购入2.82万亿枚PEPE，仅花费6.89枚ETH（约1.3万美元），目前已出售1.92万亿枚PEPE获利约563万美元和16万USDC，累计收益超1600万美元。该地址曾于10个月前转入752万美元PEPE。
+- [央行：择机降准降息]() - 📰 null - 【央行：择机降准降息】金色财经报道，中国人民银行货币政策委员会召开2025年第一季度例会。会议研究了下阶段货币政策主要思路，建议加大货币政策调控强度，提高货币政策调控前瞻性、针对性、有效性，根据国内外经济金融形势和金融市场运行情况，择机降准降息。保持流动性充裕，引导金融机构加大货币信贷投放力度，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。推动社会综合融资成本下降。(金十)
+- [链上RWA总锁仓突破100亿美元，USDtb近月暴涨逾1000%]() - 📰 null - 【链上RWA总锁仓突破100亿美元，USDtb近月暴涨逾1000%】3月21日消息，据CoinDesk报道，DeFiLlama数据显示，链上实物资产（RWA）总锁仓量已突破100亿美元，其中Maker、BlackRock的BUIDL与Ethena的USDtb各自TVL超10亿美元。由BlackRock货币基金支持的稳定币USDtb近月TVL暴增逾1000%，成为增长最快项目。
+- [Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah]() - 📰 null - 【Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah】金色财经报道，据官方消息，Binance Alpha 新增 AFT、BNB Card、PLUME 和 Mubarakah。
+- [GoPlus：将协调尽快取回冻结资金并执行 GPS 代币回购计划](https://x.com/GoPlusSecurity/status/1903023137522110697) - 📰 null - 【GoPlus：将协调尽快取回冻结资金并执行 GPS 代币回购计划】金色财经报道，Web3 安全服务提供商 GoPlus Security 发布公告，就社区关注的 GPS 代币回购计划进行了详细说明。 
+根据公告，GoPlus 一直在与币安密切合作以完成回购流程。由于执行回购需要企业账户，而 GoPlus 此前在币安没有注册企业账户，因此需要完成全面的 KYB（了解你的企业）流程。这一过程涉及母公司法务团队向相关部门申请必要文件，导致了一定延迟。 
+GoPlus 宣布其 KYB 流程已获批准，团队将协调尽快取回冻结资金并执行回购计划。
+- [3e Network拟按3000万美元估值收购加密挖矿平台HashBeaver 4.9%股权](https://www.globenewswire.com/news-release/2025/03/20/3046131/0/en/3-E-Network-Technology-Group-Limited-Announces-Strategic-Equity-Investment-in-HashBeaver-to-Accelerate-Blockchain-Innovation.html) - 📰 null - 【3e Network拟按3000万美元估值收购加密挖矿平台HashBeaver 4.9%股权】金色财经报道，纳斯达克上市公司3e Network（三易科技）宣布与新加坡数字货币挖矿平台HASH BEAVER PTE. LTD（HashBeaver）签署谅解备忘录（MoU），拟按照3000万美元的估值收购后者4.9%的股权，据悉3e Network还计划探索将其B2B软件与HashBeaver区块链基础设施相结合。
+- [慢雾：Zoth疑因管理员权限泄露遭攻击](https://x.com/SlowMist_Team/status/1903020756830974217) - 📰 null - 【慢雾：Zoth疑因管理员权限泄露遭攻击】金色财经报道，慢雾团队发布安全警报称，Zoth平台疑似因管理员权限泄露遭受攻击，核心逻辑合约被篡改并替换为恶意合约。
+- [Wintermute 2小时前向Binance 存入 9966 万 FDUSD](https://x.com/OnchainDataNerd/status/1903020422096093630) - 📰 null - 【Wintermute 2小时前向Binance 存入 9966 万 FDUSD】金色财经报道，据链上分析师The Data Nerd监测，2小时前，Wintermute 向Binance 存入了 9966 万 FDUSD。24小时内，他向Binance 共存入了 1.846 亿 FDUSD。
+- [2015年ICO 100万枚ETH远古巨鲸转移10000枚ETH，或将在近期抛售](https://x.com/ai_9684xtpa/status/1903018177006800932) - 📰 null - 【2015年ICO 100万枚ETH远古巨鲸转移10000枚ETH，或将在近期抛售】金色财经报道，据 ai_9684xtpa 监测，「2015 年 ICO 100 万枚 ETH 的远古巨鲸」向某地址转移 10000 枚 ETH，约 1969 万美元，或将在近期抛售。 
+该巨鲸于一个月前转移至该地址的 3000 枚 ETH 目前已分批卖出，再次获利 697.8 万美元；目前其五个地址仍持有 215,008 枚 ETH，价值 4.24 亿美元，成本低至 0.31 美元。
+- [Bakkt 任命 Akshay Naheta 为联合 CEO](https://www.coindesk.com/markets/2025/03/21/bakkt-names-akshay-naheta-as-co-ceo-amid-stablecoin-payments-push) - 📰 null - 【Bakkt 任命 Akshay Naheta 为联合 CEO】金色财经报道，加密货币公司 Bakkt Holdings（股票代码：BKKT）宣布任命前软银高管 Akshay Naheta 为联合 CEO，并与 Naheta 创立的支付初创公司 Distributed Technologies Research（DTR）建立战略合作伙伴关系，以开拓新的收入来源。 
+Naheta 曾在软银投资过英伟达和 ARM 等公司，将从 3 月 21 日起正式加入 Bakkt 领导团队，与现任 CEO Andy Main 共同引领公司深入区块链支付领域。同时，Naheta 也将加入 Bakkt 董事会。 
+此次合作的核心是计划将 Bakkt 的交易和经纪平台与 DTR 基于稳定币的支付基础设施整合。据官方新闻稿介绍，DTR 的基础设施利用一套 API、区块链技术和专有路由系统，旨在降低支付解决方案的成本和复杂性。
+- [币安将更新ORCAUSDT U本位永续合约杠杆和保证⾦]() - 📰 null - 【币安将更新ORCAUSDT U本位永续合约杠杆和保证⾦】金色财经报道，据官⽅公告，币安合约将于 2025 年 03⽉21⽇09：15（UTC）更新 ORCAUSDTU 本位永续合约的杠杆和保证⾦阶梯。
+- [香港数字资产公司IDA与日本银行集团Progmat合作推出稳定币跨境汇款服务](https://www.prnewswire.com/apac/news-releases/ida-progmat-datachain-and-toki-join-forces-to-explore-stablecoin-based-remittances-for-hong-kong---japan-trade-efficiency-302407637.html) - 📰 null - 【香港数字资产公司IDA与日本银行集团Progmat合作推出稳定币跨境汇款服务】金色财经报道，香港数字资产公司IDA宣布与日本银行集团Progmat、以及区块链公司Datachain和跨链基础设施提供商TOKI FZCO达成战略合作，共同开发概念验证(PoC)以实现香港和日本之间基于稳定币的跨境应用场景，据悉相关稳定币将在香港监管制度合规要求下使用以日元和港元计价，IDA此前已与东亚银行展开合作以1：1港元挂钩稳定币来探索广泛采用数字金融的可行性。
+- [BSC生态meme币BUBB市值触及3500万美元创历史新高，24小时涨幅516%]() - 📰 null - 【BSC生态meme币BUBB市值触及3500万美元创历史新高，24小时涨幅516%】3月21日消息，据GMGN行情信息，BSC生态meme币BUBB市值短时触及3500万美元创历史新高，现报3130万美元，近24小时涨幅达516%，24小时成交量4170万美元。 
+今日凌晨，Binance联合创始人何一在X平台与该meme币官推互动，并关注其官推。meme币无实际价值，价格波动较大，用户投资需谨慎。
