@@ -1,29 +1,36 @@
-- [贝莱德IBIT地址增持价值1.45亿美元的比特币](https://x.com/arkham/status/1903133559361314966) - 📰 null - 【贝莱德IBIT地址增持价值1.45亿美元的比特币】金色财经报道，据 Arkham 监测，贝莱德 IBIT 关联地址增持价值 1.45 亿美元的比特币。
-- [Coinbase正就收购Deribit进行深入谈判](https://www.bloomberg.com/news/articles/2025-03-21/coinbase-in-advanced-talks-to-buy-derivatives-venue-deribit-coin) - 📰 null - 【Coinbase正就收购Deribit进行深入谈判】金色财经报道，Coinbase 正就收购衍生品加密交易平台 Deribit 进行深入谈判。部分知情人士表示，双方已向迪拜监管机构通报了谈判情况，因为 Deribit 持有迪拜的相关牌照。据数据平台 Kaiko 显示，Deribit 是全球最大的比特币和以太坊期权交易平台，而 Coinbase 则是美国最大的加密交易平台。 
-目前尚不清楚 Coinbase 是否已与 Deribit 达成最终协议。彭博社在 1 月曾报道称，Deribit 的估值可能在 40 亿至 50 亿美元之间。此次谈判可能不会达成协议。知情人士要求匿名，因为要讨论的是机密谈判。
-- [韩国计划对BitMEX、KuCoin等未注册交易平台实施制裁](https://www.coindesk.com/policy/2025/03/21/south-korea-plans-sanctions-against-bitmex-kucoin-others-report?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_source=twitter) - 📰 null - 【韩国计划对BitMEX、KuCoin等未注册交易平台实施制裁】金色财经报道，韩国金融当局正计划对 BitMEX、KuCoin、CoinW、Bitunix 和 KCEX 等未在金融情报机构（FIU）注册、却提供韩语网站服务的加密交易平台采取制裁措施。FIU 表示，上述交易所未按规定注册为虚拟资产服务提供商（VASP），因此被视为非法经营。相关官员称，正与韩国通信标准委员会协商，审议封锁这些未注册海外交易所访问权限的方案，预计年内将出台具体措施。
-- [特朗普：将很快实现俄乌冲突全面停火](https://www.cls.cn/detail/1980207) - 📰 null - 【特朗普：将很快实现俄乌冲突全面停火】金色财经报道，美国总统特朗普表示，将很快实现俄乌冲突全面停火。
-- [特朗普：关税将具有灵活性，因为它是对等的](https://www.cls.cn/detail/1980202) - 📰 null - 【特朗普：关税将具有灵活性，因为它是对等的】金色财经报道，美国总统特朗普表示，关税将具有灵活性，因为它是对等的。
-- [美元指数DXY短线上涨23点，现报104.13]() - 📰 null - 【美元指数DXY短线上涨23点，现报104.13】金色财经报道，美元指数DXY短线上涨23点，现报104.13。
-- [特朗普：与马斯克在美国国防部会晤，讨论成本和DOGE问题](https://flash.jin10.com/detail/20250321235658995800) - 📰 null - 【特朗普：与马斯克在美国国防部会晤，讨论成本和DOGE问题】金色财经报道，美国总统特朗普表示，与马斯克在美国国防部会晤，讨论成本和 DOGE 问题。
-- [某巨鲸今日买入7074枚ETH](https://x.com/lookonchain/status/1903112837846929445) - 📰 null - 【某巨鲸今日买入7074枚ETH】金色财经报道，据Lookonchain监测，某巨鲸今日买入了 7,074 枚 ETH（约 1380 万美元）。 
-该巨鲸在 3 小时前从 OKX 提取了 4,511 枚 ETH（约 881 万美元），并将其存入 Aave。 
-随后，他从 Aave 借入 500 万枚 USDT，并将其存入 OKX 购买了额外的 2,563 枚 ETH（约 500 万美元）。
-- [Coinbase CEO：支持隐私保护，期待与财政部合作打击非法活动](https://x.com/brian_armstrong/status/1903110743110881662) - 📰 null - 【Coinbase CEO：支持隐私保护，期待与财政部合作打击非法活动】金色财经报道，Coinbase 首席执行官 Brian Armstrong 近日在社交媒体上就此前美财政部解除对 Tornado Cash 制裁一事发表看法：“没有人希望看到不法分子使用加密货币。但隐私对许多守法公民来说是一项重要功能，而且你不能制裁开源代码（这是一个言论自由问题）。很高兴看到这个问题得到解决。” 
-他补充道：“我们期待与财政部合作，寻找打击加密货币领域约 0.1% 的非法活动（远低于现金或银行系统！）的方法，这些方法需要符合美国法律和价值观。”
-- [特朗普：美国加入英联邦这个想法听起来不错](https://finance.sina.com.cn/7x24/2025-03-21/doc-ineqmwnc9330602.shtml) - 📰 null - 【特朗普：美国加入英联邦这个想法听起来不错】金色财经报道，美国总统特朗普在一篇社交媒体帖子中似乎对美国加入英联邦国家的想法表示赞许。特朗普周五回应了美国《太阳报》一篇的文章，该报称英国国王查尔斯可能会在特朗普访问英国期间建议特朗普让美国以“准成员”(associate member)身份加入英联邦。特朗普在帖子中写道，“我爱查尔斯国王，这主意听起来不错！”
-- [欧洲央行管委：仍预计2025年还有两次降息，终端利率为2%](https://www.cls.cn/detail/1980176) - 📰 null - 【欧洲央行管委：仍预计2025年还有两次降息，终端利率为2%】金色财经报道，欧洲央行管委斯图纳拉斯表示，仍预计2025年还有两次降息，终端利率为2%。
-- [Ethena回应BaFin禁令：USDe未被冻结，铸造与赎回服务正常进行](https://x.com/ethena_labs/status/1903106001470939402?s=46&t=tUq3rRSn2-2RltYv-PcsUA) - 📰 null - 【Ethena回应BaFin禁令：USDe未被冻结，铸造与赎回服务正常进行】金色财经报道，据Ethena官方声明，德国BaFin已通知其位于法兰克福的实体Ethena GmbH的MiCAR合规申请将不被批准，但该决定不影响USDe当前交易所上市及通过英属维京群岛实体Ethena (BVI) Limited的铸造与赎回服务。 
-Ethena强调，USDe仍为全额资产支持，不存在被“冻结”情况。未来将评估其他监管路径，并将在未来一周内修订相关服务条款以反映当前变化。该事件不影响大多数用户的正常使用流程。
-- [MegaETH宣布推出公共测试网](https://x.com/megaeth_labs/status/1903099481874153880) - 📰 null - 【MegaETH宣布推出公共测试网】金色财经报道，MegaETH 宣布推出公共测试网，昨日向超 19 万个钱包空投测试网 ETH。
-- [德国BaFin叫停Ethena发行USDe代币新业务，指其存在重大合规缺陷](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2025/meldung_2025_03_21_Ethena_GmbH.html) - 📰 null - 【德国BaFin叫停Ethena发行USDe代币新业务，指其存在重大合规缺陷】金色财经报道，据BaFin官网公告，德国金融监管局BaFin已叫停Ethena GmbH在德国发行USDe稳定币的新业务，理由是其在MiCAR许可流程中存在重大组织缺陷和合规违规行为，包括资产储备管理不当与资本金要求未达标。 
-BaFin已采取如下措施：冻结Ethena GmbH的资产储备、限制管理层对资产的处置权、关闭其官网相关功能、并指派专员监督执行。此外，BaFin还怀疑Ethena GmbH在未提供必要招股说明书的情况下非法公开发售sUSDe证券型代币。 
-目前，Ethena GmbH客户暂时无法赎回USDe代币，但二级市场交易未受限制。截至目前，约有54亿枚USDe代币流通。BaFin后续将继续评估是否完全驳回其MiCAR下的合规许可申请。
-- [观点：Meme币不会消失，但只有少数Meme币会持续存在](https://x.com/NTmoney/status/1903105066229456963) - 📰 null - 【观点：Meme币不会消失，但只有少数Meme币会持续存在】金色财经报道，1confirmation 的创始人 Nick Tomaino 于 X 发文表示，“Meme 币并无好坏之分，它们只是存在，而且显然不会消失。那些认为我们将进入一个充满‘真实价值’代币的时代的人将会失望。真实的价值在于观察者的眼中。经过 15 年以上的时间，数十亿人仍然认为比特币没有任何实际价值。但有数亿人相信它，并且它的市值为 1.6 万亿美元。大多数 Meme 币会消失，但少数 Meme 币会持续存在。”
-- [今日美国比特币ETF净流入1498枚BTC，以太坊ETF净流出5908枚ETH](https://x.com/lookonchain/status/1903105238028128605) - 📰 null - 【今日美国比特币ETF净流入1498枚BTC，以太坊ETF净流出5908枚ETH】金色财经报道，据Lookonchain监测，今日10只美国比特币ETF净流入1498枚BTC，其中贝莱德流入2046枚BTC，目前其持有572628枚BTC，约合481.1亿美元；9只以太坊ETF净流出5908枚ETH，其中贝莱德流出4542枚ETH，目前其持有1,197,822枚ETH，约合23.4亿美元。
-- [美联储威廉姆斯：美联储并不急于做出下一个货币政策决定](https://www.cls.cn/detail/1980183) - 📰 null - 【美联储威廉姆斯：美联储并不急于做出下一个货币政策决定】金色财经报道，美联储威廉姆斯表示，9月预测中值似乎合理。通胀和就业目标的风险均有所上升，长期通胀预期保持稳定。美联储并不急于做出下一个货币政策决定。特朗普的政策调整表明经济增长放缓，失业率将上升。
-- [ORCA部署地址于1小时前向Wintermute转移价值962万美元的代币，或用于做市/抛售](https://x.com/ai_9684xtpa/status/1903103326037877162) - 📰 null - 【ORCA部署地址于1小时前向Wintermute转移价值962万美元的代币，或用于做市/抛售】金色财经报道，据 @ai_9684xtpa 监测，ORCA 部署地址于 1 小时前向 Wintermute 转移价值 962 万美元的代币，或用于做市/抛售。 
-截至目前，Wintermute 已将部分 ORCA 充值进 Coinbase / Binance / Kucoin / Kraken 等交易平台，链上仍持有 220 万枚代币，价值 750 万美元。 
-距离其 22:18 首次向交易平台充值代币至今，币价已下跌 7%(3.642 美元跌至 3.39 美元)；而 Wintermute 早在 2024 年 12 月就曾交互过 ORCA，似乎并非首次做市。
-- [某新建钱包从OKX提取约2亿枚DUCK](https://x.com/OnchainLens/status/1903101331889651868) - 📰 null - 【某新建钱包从OKX提取约2亿枚DUCK】金色财经报道，据 Onchain Lens 监测，一个新创建的钱包今日从 OKX 交易所提取约 2 亿大额 DUCK（DuckChain）代币，价值约 94 万美元，疑似巨鲸建仓。最近 TON 生态在 OKX 的几个项目均有大幅拉升，DuckChain 近日上线合规交易平台 Kraken。目前追踪到该地址 1/3 代币已进入 DuckChain 官网质押池进行质押。
-- [纽约联储行长：适度从紧的货币政策立场仍然恰当]() - 📰 null - 【纽约联储行长：适度从紧的货币政策立场仍然恰当】金色财经报道，纽约联邦储备银行行长John Williams表示，移民、贸易和财政政策的快速变化将如何改变经济尚存在高度不确定性，当前的货币政策立场仍然恰当，使美联储能够很好地应对不断变化的环境。Williams表示，放慢缩表的决定是美联储缩减投资组合行动中自然而然的一环，此举对货币政策“没有影响”。
+- [某巨鲸地址疑似「操纵」AUCTION币价，近1个月从Binance提币总量26%的AUCTION](https://x.com/EmberCN/status/1903248910727975338) - 📰 null - 【某巨鲸地址疑似「操纵」AUCTION币价，近1个月从Binance提币总量26%的AUCTION】3月22日消息，据链上数据分析师余烬监测，「操纵」AUCTION的鲸鱼/机构在2月23至3月16期间，用4个地址一共从Binance提出200万枚AUCTION(总量的26%)，几乎将Binance平台余额提空。AUCTION价格在此期间由12美元上涨到26美元。· 
+3月17日，该鲸鱼/机构转了50万枚AUCTION（约合1690万美元)进Binance，AUCTION价格从35美元回调到31美元。此后AUCTION价格一路上涨到今天早上拉破新高。
+- [昨日灰度GBTC净流出2190万美元，迷你ETH净流入670万美元]() - 📰 null - 【昨日灰度GBTC净流出2190万美元，迷你ETH净流入670万美元】金色财经报道，据 Farside Investors 监测，昨日灰度 GBTC 净流出 2190 万美元，迷你 BTC 净流入/流出为 0。ETHE 净流入/流出为 0，迷你 ETH 净流入 670 万美元。
+- [Rainbow 基金会上线官方 X 账号](https://x.com/rainbowdotme/status/1903123989314113584) - 📰 null - 【Rainbow 基金会上线官方 X 账号】3月22日消息，Rainbow 基金会官方 X 账号 @RainbowFND 已注册上线。
+- [AAVE跌破180美元]() - 📰 null - 【AAVE跌破180美元】金色财经报道，行情显示，AAVE跌破180美元，现报179.99美元，24小时跌幅达到0.55%，行情波动较大，请做好风险控制。
+- [某比特币矿工独自挖出一个区块，共获得26.6万美元奖励](https://decrypt.co/311145/solo-bitcoin-miner-scores-260k-reward) - 📰 null - 【某比特币矿工独自挖出一个区块，共获得26.6万美元奖励】3月22日消息，据 Decrypt 报道，某比特币矿工独自处理了比特币区块 888,737。该区块包含 2,327 笔交易，该矿工获得了 3.125 BTC 的奖励，以及 0.032 BTC 的费用。 按照如今比特币的价格 84,257 美元计算，这意味着收益超 26.6 万美元。
+- [Farcaster推出数据层Snapchain主网]() - 📰 null - 【Farcaster推出数据层Snapchain主网】3月22日消息，据 Theblock 报道，去中心化社交媒体协议 Farcaster 推出“类似区块链”数据层 Snapchain 的主网，并同步上线“Airdrop Offers”激励计划，以奖励积极使用去中心化社交媒体平台的用户。据联合创始人 Varun Srinivasan 于 12 月宣布推出 Snapchain 测试网时所说，新系统每秒可处理超过 1 万笔交易。据报道，该系统从构思到正式投入使用仅用了六个月时间。 
+此前消息，Farcaster计划明年Q1上线新数据层Snapchain。
+- [俄乌将于同日在沙特分别与美会谈 更多细节披露]() - 📰 null - 【俄乌将于同日在沙特分别与美会谈 更多细节披露】金色财经报道，当地时间3月20日，俄罗斯和乌克兰方面同一天宣布，俄罗斯、乌克兰代表团将于24日在沙特分别与美方代表团举行会谈。目前三方透露了有关会谈形式、参会人员、会谈议题等细节。(金十)
+- [ILV突破14美元]() - 📰 null - 【ILV突破14美元】金色财经报道，行情显示，ILV突破14美元，现报14.01美元，24小时跌幅达到1.55%，行情波动较大，请做好风险控制。
+- [金色晨讯 | 3月22日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 3月22日隔夜重要动态一览】21:00-7:00关键词：SEC、a16z crypto、Tether、贝莱德IBIT 
+1.Hester Peirce：应允许加密货币初创公司利用NFT筹集资金； 
+2.前SEC高官John Reed Stark在加密圆桌会议上反对监管改革； 
+3.a16z crypto总法律顾问：SEC当前的监管方式并不奏效； 
+4.加密风投Haun Ventures为两只新基金筹集10亿美元； 
+5.Tether正与四大会计师事务所洽谈储备审计； 
+6.泽连斯基：正与英法美合作推进停火这一首要任务； 
+7.贝莱德IBIT地址增持价值1.45亿美元的比特币； 
+8.韩国计划对BitMEX、KuCoin等未注册交易平台实施制裁。
+- [Hester Peirce：应允许加密货币初创公司利用NFT筹集资金](https://decrypt.co/311158/crypto-startups-money-fundraising-nfts-sec-peirce) - 📰 null - 【Hester Peirce：应允许加密货币初创公司利用NFT筹集资金】金色财经报道，在 SEC 首场加密圆桌会议上，Hester Peirce 表示，加密项目应被允许通过可交易的 NFT 进行融资，并透露 NFT 或将成为继 PoW 挖矿之后，SEC 发表豁免性声明的下一个领域。Peirce 表示，类似 Stoner Cats 和 Flyfish Club 这类通过 NFT 募资、为持有者提供特定权益（如访问权限、会员资格）的项目，可能不应被视为证券。她指出，如果 SEC 能为 NFT 发行人提供一套参考框架，将对行业发展非常有帮助。此前，SEC 在 Gary Gensler 任内曾以证券法起诉多个 NFT 项目，但 Peirce 强调，并非所有含 NFT 的项目都自动免于监管，结构上具备证券属性的 NFT 仍将受到监管约束。
+- [加密PAC将支持佛罗里达州共和党众议院候选人](https://www.politico.com/newsletters/morning-money/2025/03/21/crypto-moves-in-on-wall-street-00242158) - 📰 null - 【加密PAC将支持佛罗里达州共和党众议院候选人】金色财经报道，由加密行业资助的超级政治行动委员会（Super PAC）网络将支持两位佛罗里达州共和党候选人，角逐 4 月 1 日美国众议院特别选举。该网络包括 Fairshake、Defend American Jobs 和 Protect Progress。其中，Defend American Jobs 将投放 120 万美元广告支持佛州参议员 Randy Fine。Fine 曾在 X 平台发文表示：“佛罗里达人希望看到加密创新”，并呼吁出台“清晰的监管规则”。 
+该 Super PAC 还将投入 34.5 万美元支持 Jimmy Patronis，他计划竞选前众议员 Matt Gaetz 的席位。Patronis 此前曾致函佛州管理委员会，要求研究是否可将部分州退休金投资于数字资产。 
+目前，美国众议院共有 4 个空缺席位，其中两席在佛州。若民主党赢下全部席位，共和党在众议院的领先优势将仅剩一票。
+- [前SEC高官John Reed Stark在加密圆桌会议上反对监管改革](https://cointelegraph.com/news/john-reed-stark-opposes-regulatory-reform-sec-crypto-roundtable) - 📰 null - 【前SEC高官John Reed Stark在加密圆桌会议上反对监管改革】金色财经报道，在美国证券交易委员会（SEC）召开的首场加密行业圆桌会议上，前 SEC 网络执法办公室主任 John Reed Stark 强烈反对为数字资产修改现有证券法规。他表示，1933 年与 1934 年证券法无需为加密货币让步，数字资产应继续被视为证券。 
+“购买加密货币的人不是收藏者，他们是投资者。SEC 的职责是保护投资者。”Stark 表示。他指出，加密公司聘请全球顶尖律所试图拖延执法进程，但几乎在所有案件中都败诉。Stark 还声称，相较于 iPhone 等过往技术革命，他未在数字资产中看到任何真正的创新。长期以来，Stark 一直是加密行业的坚定批评者，他支持前 SEC 主席 Gensler 的“执法式监管”，并坚称加密行业必须遵守现行法律，而不是要求法律为其让路。
+- [投机交易员转向做空美元，为特朗普胜选以来首次做空美元](https://flash.jin10.com/detail/20250322034713724800) - 📰 null - 【投机交易员转向做空美元，为特朗普胜选以来首次做空美元】金色财经报道，据美国商品期货交易委员会（CFTC）数据，截至3月18日，投机交易员转向做空美元，为特朗普胜选以来首次做空美元。
+- [a16z crypto总法律顾问：SEC当前的监管方式并不奏效](https://www.theblock.co/post/347591/current-approach-is-clearly-a-failure-sec-crypto-task-force-roundtable-debates-future-regulation-of-digital-assets) - 📰 null - 【a16z crypto总法律顾问：SEC当前的监管方式并不奏效】金色财经报道，美国证券交易委员会（SEC）近日在其华盛顿总部举办了首届加密工作组圆桌会议，讨论了长期以来的核心问题——什么使某种资产成为证券。此次会议标志着 SEC 对加密货币行业的监管方式发生了显著变化，此前多年被一些加密倡导者称为“通过执法进行监管”的模式可能即将结束。 
+a16z crypto 总法律顾问 Miles Jennings 表示，SEC 过去的监管方式未能实现其三大目标：投资者保护、资本形成和市场效率。他认为当前的方式“显然不奏效”，必须改进。 
+Cooley LLP 特别顾问 Rodrigo Seira 提出，购买资产的意图并不自动使其成为证券。他以购买艺术品为例，说明投资意图不应直接触发证券监管。
+- [加密风投Haun Ventures为两只新基金筹集10亿美元](https://fortune.com/crypto/2025/03/21/haun-ventures-two-new-funds-1-billion-crypto-katie-venture-vc/) - 📰 null - 【加密风投Haun Ventures为两只新基金筹集10亿美元】金色财经报道，知情人士透露，加密货币风险投资巨头 Haun Ventures 为两只新基金筹集 10 亿美元，该基金将分为两部分，5亿美元用于早期项目投资，5亿美元用于后期项目投资，基金计划于6月完成募集。
+- [Perplexity AI有意收购TikTok](https://decrypt.co/311133/perplexity-advocates-for-tiktok-eyes-18-billion-valuation) - 📰 null - 【Perplexity AI有意收购TikTok】金色财经报道，人工智能公司 Perplexity AI 宣布，有意在美政府禁令生效前接手 TikTok 美国业务，并表示“Perplexity 拥有独特的优势，可以在不造成垄断的情况下重建 TikTok 算法”。目前，包括 Oracle、微软、沃尔玛，以及洛杉矶道奇队前老板 Frank McCourt 和 Roblox CEO Jesse Tinsley 在内的多方买家也被传出对 收购 TikTok 表示兴趣。
+- [美股三大指数小幅收涨]() - 📰 null - 【美股三大指数小幅收涨】金色财经报道，美股三大指数小幅收涨，道指涨0.07%，纳指涨0.52%，标普500指数涨0.08%，热门科技股多数上涨，特斯拉涨超5%，苹果、Meta涨超1%。
+- [Tether正与四大会计师事务所洽谈储备审计](https://www.reuters.com/technology/tether-is-talks-with-big-four-firm-about-reserve-audit-ceo-says-2025-03-21/) - 📰 null - 【Tether正与四大会计师事务所洽谈储备审计】金色财经报道，全球最大稳定币发行方 Tether 正与一家四大会计师事务所接洽，推进其长期承诺的储备审计。Tether 已发行了价值超过 1400 亿美元的与美元挂钩的加密货币，公司声称每一枚代币均有美元计价资产作为支撑，目前仅发布季度报告，尚未完成完整审计。Tether CEO Paolo Ardoino 未透露正在洽谈的具体事务所或审计时间表，他称：“这（审计）是我们最优先事项。” 
+Tether 本月初任命 Simon McWilliams 为首席财务官，负责推进全面财务审计。同时，Tether 也在不断强化储备透明度，2024 年购买超 331 亿美元美国国债，成为美国国债第七大买家。
+- [泽连斯基：正与英法美合作推进停火这一首要任务](https://flash.jin10.com/detail/20250322011215260800) - 📰 null - 【泽连斯基：正与英法美合作推进停火这一首要任务】金色财经报道，当地时间3月21日，乌克兰总统泽连斯基在联合新闻发布会上称，目前乌克兰首要任务是停火，并正与英国、法国和美国合作推进此事。他强调，达成停火协议迫在眉睫，而监督协议执行同样关键，目前乌方正就此与英法美三国进行深入探讨。泽连斯基还表示，根据以往经验，缺乏监督，俄罗斯难以维持停火。他认为北约介入是保障乌安全最有效的方式。
+- [富达Solana基金在美国特拉华州注册]() - 📰 null - 【富达Solana基金在美国特拉华州注册】金色财经报道，据市场消息，富达 Solana 基金（FIDELITY SOLANA FUND）在美国特拉华州注册。
