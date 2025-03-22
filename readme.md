@@ -1,27 +1,31 @@
-- [Nansen分析师：关税问题若在4月初解决将给加密市场带来积极催化剂](https://cointelegraph.com/news/crypto-markets-pressured-trade-wars-april-analyst) - 📰 null - 【Nansen分析师：关税问题若在4月初解决将给加密市场带来积极催化剂】金色财经报道，据Cointelegraph报道，Nansen 研究分析师 Nicolai Sondergaard 表示，尽管加密货币领域出现了大量积极进展，但全球关税担忧仍将持续给市场带来压力，在关税相关问题得到解决之前，风险资产可能缺乏方向，这可能发生在 4 月 2 日至 7 月之间，若关税问题得到解决将为市场带来积极的催化剂。
-- [Wintermute现持有约768.8万枚$MUBARAK，或为其做市商](https://x.com/OnchainDataNerd/status/1903412727600836709) - 📰 null - 【Wintermute现持有约768.8万枚$MUBARAK，或为其做市商】金色财经报道，据The Data Nerd在X平台发文称，很明显Wintermute是$MUBARAK做市商，其钱包持有约7768.8万枚$MUBARAK代币，价值96.6万美元。此外，Wintermute还持有：1640亿枚$BABYDOGE、188.2亿枚$CAT、以及454.9万枚$TUT。
-- [Wintermute或为mubarak做市商，现持有96.9万美元mubarak](https://intel.arkm.com/explorer/token/mubarak) - 📰 null - 【Wintermute或为mubarak做市商，现持有96.9万美元mubarak】金色财经报道，据Arkham数据，Wintermute或为mubarak做市商，现持有7,713,706枚mubarak（约96.9万美元）。
-- [Greeks.live：社区对比特币波动率持谨慎态度，关注合理构建对冲结构](https://x.com/BTC__options/status/1903405334590542021) - 📰 null - 【Greeks.live：社区对比特币波动率持谨慎态度，关注合理构建对冲结构】金色财经报道，Greeks.live宏观研究员Adam发布中文社区简报，其中指出社区内对比特币波动率持谨慎态度，讨论较多关于是否会创 新低的问题。成员主要关注合理构建对冲结构和选择性价比高的 期权策略 ，而非单纯预测市场涨跌方向。期权交易策略方面，社区认为选择既能卖好价格又能卖好IV的期权策略很重要。多数交易者偏向于降低成本和关注现金流方向 ，通过备兑/反备兑策略以折扣价格接货，而非专注于波动率交易。
-- [Custodia Bank创始人：美联储正在审查2家加密友好银行，去银行化问题或于明年1月才能解决](https://cointelegraph.com/news/crypto-debanking-over-jan-2026-caitlin-long) - 📰 null - 【Custodia Bank创始人：美联储正在审查2家加密友好银行，去银行化问题或于明年1月才能解决】金色财经报道，据Cointelegraph报道，Custodia Bank创始人兼首席执行官Caitlin Long表示，现在说去银行化已经结束还为时过早，目前美联储正在审查两家加密货币友好型银行并向这些银行派遣了大批审查人员，其中包括来自华盛顿的审查员，这支大军简直就是在扼杀这些银行为加密公司提供服务。 
-Caitlin Long补充说：“特朗普直到明年1月才有能力任命新的美联储理事，因此可以看到导致一场潜在大斗争的迹象。如果美国货币监理署（OCC）和美国联邦储蓄保险公司（FDIC）推翻他们的反加密货币指导方针，而美联储不推翻，那加密行业该怎么办？”
-- [Riot Platforms 宣布签署非约束性条款清单，拟收购 Rhodium 部分资产并达成和解协议](https://x.com/RiotPlatforms/status/1903208559770316898) - 📰 null - 【Riot Platforms 宣布签署非约束性条款清单，拟收购 Rhodium 部分资产并达成和解协议】金色财经报道，据官方公告，Riot Platforms, Inc.（纳斯达克：RIOT）宣布签署非约束性条款清单，其全资子公司 Whinstone US, Inc.（或其关联公司）拟收购 Rhodium Encore LLC（及其关联公司，简称"Rhodium"）在 Riot 位于罗克代尔设施的特定资产，并在 Rhodium 破产案中提交了根据联邦破产程序规则 9019 批准和解的动议。 
-根据条款清单，交易完成后，Whinstone（或其关联公司）将向 Rhodium 提供总计 1.85 亿美元的对价，包括：(i) 1.299 亿美元现金，(ii) 返还 Rhodium 610 万美元的电力安全保证金，以及 (iii) 价值 4900 万美元的 Riot 股票（定价基于交易完成前 10 个交易日的成交量加权平均价格）。
-- [观点：加密去银行化或将持续至 2026 年 1 月](https://cointelegraph.com/news/crypto-debanking-over-jan-2026-caitlin-long) - 📰 null - 【观点：加密去银行化或将持续至 2026 年 1 月】金色财经报道，根据区块链监管顾问的观点，加密货币去银行化的压力可能会持续到 2026 年 1 月，届时特朗普才有权任命新的美联储理事。Custodia Bank 创始人兼 CEO Caitlin Long 指出，美联储目前仍由民主党控制，并正在对两家亲加密银行进行审查，大量审查员已进驻这些银行，使其运营承压。 
-此外，尽管美国 OCC 和 FDIC 可能推翻此前的反加密政策，但美联储的立场仍未改变，加密行业未来仍可能面临监管阻力。
-- [GMGN联创：BNB Chain上跟单功能将在两周内推出](https://x.com/haze0x/status/1903385420974706726) - 📰 null - 【GMGN联创：BNB Chain上跟单功能将在两周内推出】金色财经报道，GMGN 联合创始人 @haze0x 在社交媒体发文表示，GMGN 移动端已支持安卓设备，支持 BNB Chain 和 Solana 网络，暂不支持 iOS 设备。 
-为了安全，GMGN 现在不支持导出私钥。但可以转账提现。波场网络提现将于下周二开放。 
-BNB Chain 上代币的全量数据将于下周上线，BNB Chain 上跟单功能将在两周内推出。
-- [Circle联创：数字货币应用GCash已支持USDC](https://x.com/jerallaire/status/1903212210794664193) - 📰 null - 【Circle联创：数字货币应用GCash已支持USDC】金色财经报道，Circle联合创始人Jeremy Allaire在X平台发文宣布，菲律宾数字货币应用GCash宣布其移动钱包支持美元稳定币USDC，允许用户接收、购买、持有或交易USDC。 
-据悉，GCash目前正在为IPO做准备，拟募资10亿至15亿美元，除支付外该应用还在构建其金融产品套件。
-- [ETH突破2000美元]() - 📰 null - 【ETH突破2000美元】金色财经报道，行情显示，ETH突破2000美元，现报2000.91美元，24小时涨幅达到1.2%，行情波动较大，请做好风险控制。
-- [比特币第 888,888 个区块刚刚已被开采]() - 📰 null - 【比特币第 888,888 个区块刚刚已被开采】金色财经报道，据 mempool 数据显示，比特币第 888,888 个区块刚刚已被开采。
-- [比特币网络交易费用小幅走高，正挖掘区块888888](https://mempool.space/zh/block/000000000000000000005fa5624a14bfef0d85b6d51e505c0e3ee85ac64136ea) - 📰 null - 【比特币网络交易费用小幅走高，正挖掘区块888888】金色财经报道，据 mempool.space 数据显示，比特币网络交易费用小幅走高，相比于前一区块手续费上涨，高优先级暂报 12 Sat/字节，目前正处于挖掘比特币区块 888888 之中，而前一区块 888887 的中位矿工手续费为 3 Sat/字节。
-- [CZ链上捐款地址现为quq持币榜一](https://t.me/gmgnaibot?start=i_m4TE56o8) - 📰 null - 【CZ链上捐款地址现为quq持币榜一】金色财经报道，据 GMGN 数据，BNB Chain 上代币 quq 目前持币榜一地址被区块链浏览器标记为“Changpeng Zhao”，现持有代币总量的 8.48%，均为过去 26 小时内多个地址向其转账，尚无主动发起购买 quq 记录。 
-此前，CZ 于 2 月份宣布向因阿根廷总统发币 Rug 事件慈善晚餐活动赞助 150 BNB，之后使用该 0x2881 开头地址进行捐赠。
-- [巴基斯坦考虑吸引比特币矿企来消耗多余电力](https://www.theminermag.com/news/2025-03-22/pakistan-bitcoin-mining-surplus) - 📰 null - 【巴基斯坦考虑吸引比特币矿企来消耗多余电力】金色财经报道，巴基斯坦政府正在探索通过吸引比特币挖矿运营商来消耗多余电力，并减少电力行业的财政负担。该国能源部已与相关方磋商，计划为加密货币挖矿等新兴行业设计专门电费标准。
-- [某新建地址2小时前从Binance提币3000万枚BMT](https://x.com/ai_9684xtpa/status/1903358465801851213) - 📰 null - 【某新建地址2小时前从Binance提币3000万枚BMT】金色财经报道，据链上数据分析师 @ai_9684xtpa 监测，地址 0x80F...8b932 于 2 小时前从 Binance 提出 3000 万枚 BMT（约合 523 万美元），建仓价格 0.1743 美元，成为链上持仓 TOP1 地址。该地址曾在三天前币价 0.2141 美元时做过小额提币测试，可能是打算等价格下来一些再囤货。
-- [AAVE跌破180美元]() - 📰 null - 【AAVE跌破180美元】金色财经报道，行情显示，AAVE跌破180美元，现报179.98美元，24小时涨幅达到0.51%，行情波动较大，请做好风险控制。
-- [鲸鱼在三天内买入超12万枚ETH，价值约2.36亿美元](https://x.com/ali_charts/status/1903133251855691788?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1903133251855691788%7Ctwgr%5E62c8581300993a8051a18b9d40e08f74da854768%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcrypto.news%2Fethereum-whales-buy-the-dip-ac) - 📰 null - 【鲸鱼在三天内买入超12万枚ETH，价值约2.36亿美元】金色财经报道，加密分析师AliMartinez在X平台披露，鲸鱼在三天内买入超12万枚ETH，价值近2.36亿美元。
-- [数据：过去7天Binance交易所钱包流出约4131.66枚BTC](https://www.coinglass.com/zh/Balance) - 📰 null - 【数据：过去7天Binance交易所钱包流出约4131.66枚BTC】金色财经报道，据Coinglass最新数据显示，过去一周有4131.66枚比特币从Binance交易所流出，Coinbase Pro钱包过去7天流出2028.5枚比特币，Bybit钱包过去7天流入1794.6枚比特币。
-- [萨尔瓦多近7日共增持8枚比特币，总持仓达6,123.18枚](https://bitcoin.gob.sv/zh/) - 📰 null - 【萨尔瓦多近7日共增持8枚比特币，总持仓达6,123.18枚】金色财经报道，据萨尔瓦多财政部网站数据，萨尔瓦多过去7日共增持8枚比特币，目前比特币持仓达6,123.18枚，总价值达5.16亿美元。
-- [BSC上DEX 24小时交易额达26.1亿美元，净流入资金2810万美元]() - 📰 null - 【BSC上DEX 24小时交易额达26.1亿美元，净流入资金2810万美元】3月22日消息，据 DeFiLlama 数据显示，BNB Chain（BSC）TVL 突破 70 亿美元，现报 70.6 亿美元。过去 24 小时，BSC 上 DEX 交易额达 26.1 亿美元，杠杆合约交易额达 9347 万美元，资金净流入 2810 万美元，活跃地址达 121 万个。此外，过去 24 小时 BSC 上产生费用最多的协议为 PancakeSwap，费用达 615 万美元，协议收入达 138 万美元。four.meme 排名第二，费用达 82.2 万美元，协议收入达 78.8 万美元。
+- [IMX突破0.6美元，24小时涨幅达13.9%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/immutable-x) - 📰 null - 【IMX突破0.6美元，24小时涨幅达13.9%】金色财经报道，行情显示，IMX突破0.6美元，现报价0.6088美元，24小时涨幅达13.9%，行情波动较大，请做好风险控制。
+- [数据：Polygon PoS在三月份使用USDC地址数量超越Base，达91.4万个](https://x.com/sandeepnailwal/status/1903498803803566562) - 📰 null - 【数据：Polygon PoS在三月份使用USDC地址数量超越Base，达91.4万个】金色财经报道，Polygon联合创始人Sandeep Nailwal在社交平台上表示，Polygon PoS在三月份使用USDC地址数量上超越Base，达到91.4万个地址，而Base为63.9万个地址。
+- [某巨鲸休眠8年后转移超2.5亿美元比特币](https://x.com/arkham/status/1903492222902804633) - 📰 null - 【某巨鲸休眠8年后转移超2.5亿美元比特币】金色财经报道，Arkham监测数据显示，一位自2016年底就持有比特币的“巨鲸”在昨晚转移了价值超过2.5亿美元的比特币，其比特币资产从2017年初的300万美元增长到如今的超过2.5亿美元，而且他把比特币放在一个地址上持有超过了8年。
+- [以太坊过去7日净供应量增加17572枚](https://ultrasound.money/) - 📰 null - 【以太坊过去7日净供应量增加17572枚】金色财经报道，据Ultrasound.money数据，以太坊过去7日净供应量增加17572.09枚，其中供应量增加约18063.59枚ETH，通过销毁机制销毁了491.50枚ETH。供应量增长率目前为每年0.76%。
+- [USDe供应量跌破54亿枚](https://defillama.com/stablecoins) - 📰 null - 【USDe供应量跌破54亿枚】金色财经报道，据DeFilama平台数据显示，截止3月22日，USDe供应量跌破54亿枚，达53.89亿枚，过去7日跌幅达1.3%。
+- [BEAM突破0.008美元，24小时涨幅达21.4%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/beam-2) - 📰 null - 【BEAM突破0.008美元，24小时涨幅达21.4%】金色财经报道，行情显示，BEAM突破0.008美元，现报价0.008197美元，24小时涨幅达21.4%，行情波动较大，请做好风险控制。
+- [Uniswap前端交易费用已超1.76亿美元](https://defillama.com/fees/uniswap-labs) - 📰 null - 【Uniswap前端交易费用已超1.76亿美元】金色财经报道，据DefiLlama数据显示，截至3月22日，Uniswap前端交易费用（收入）达1.7639亿美元。
+- [BTC跌破84000美元]() - 📰 null - 【BTC跌破84000美元】金色财经报道，行情显示，BTC跌破84000美元，现报83990.01美元，24小时跌幅达到0.28%，行情波动较大，请做好风险控制。
+- [美媒：Ripple诉讼被撤销标志美SEC针对加密货币行业的讨伐已经结束]() - 📰 null - 【美媒：Ripple诉讼被撤销标志美SEC针对加密货币行业的讨伐已经结束】金色财经报道，Ripple本周宣布美国证券交易委员会正式撤销针对该公司长达四年的诉讼，CNBC发文称这代表了美国证券交易委员会多年来针对加密货币行业的讨伐已经结束，Ripple案件或将成为相关诉讼的最后一章，因为本案是在前美国证券交易委员会主席Jay Clayton任职最后一天提起的。CNBC列举称，Coinbase、Kraken、罗Robinhood、币安和OpenSea此前的诉讼或调查均被撤销、解决或搁置。
+- [数据：本周美国比特币ETF买入8775枚BTC，矿工产出仅为3150枚BTC](https://x.com/BitcoinMagazine/status/1903458598757249056) - 📰 null - 【数据：本周美国比特币ETF买入8775枚BTC，矿工产出仅为3150枚BTC】金色财经报道，Bitcoin Magazine在X平台披露数据，本周美国比特币交易所交易基金总计买入8775枚BTC，而比特币矿工产出仅为3150枚BTC。
+- [本周美国以太坊现货ETF累计净流出1.029亿美元](https://farside.co.uk/eth/) - 📰 null - 【本周美国以太坊现货ETF累计净流出1.029亿美元】金色财经报道，据 Farside 监测数据，本周美国以太坊现货 ETF 累计净流出 1.029 亿美元，5 个交易日均为资金净流出状态。
+- [日本上市房企Open House Group宣布接受XRP、SOL和DOGE支付](https://www.prnewswire.com/news-releases/open-house-group-expands-cryptocurrency-payment-options-to-xrp-sol-and-doge-302408025.html) - 📰 null - 【日本上市房企Open House Group宣布接受XRP、SOL和DOGE支付】金色财经报道，据PRNewswire报道，日本上市房企Open House Group宣布接受XRP、SOL和DOGE支付，支持国际客户使用相关加密货币购买本地房产，该公司此前已宣布支持BTC和ETH支付并于2022年赞助日本最大的闪电网络社区“Diamond Hands”进行联合研究项目。
+- [Sonic Labs发布Soni Points更新：拟将USDC.e乘数提高到6倍](https://x.com/SonicLabs/status/1903449921031979434) - 📰 null - 【Sonic Labs发布Soni Points更新：拟将USDC.e乘数提高到6倍】金色财经报道，Sonic Labs发布Sonic Points更新，其中披露正在将USDC.e乘数提高到6倍，此外还将两个新资产列入白名单，分别是：aUSDC和bUSDC.e-20。Sonic Labs还表示把Sonic Points的积分展示缩小1000倍，但仅影响展示，而非积分价值。
+- [赵长鹏发文提及 Luxun，BNB Chain 上同名 meme 币突破新高](https://x.com/cz_binance/status/1903450445919506897) - 📰 null - 【赵长鹏发文提及 Luxun，BNB Chain 上同名 meme 币突破新高】金色财经报道，赵长鹏在 X 平台回复："无穷的远方，无数的人们，都和 BSC 有关。-鲁迅"，受此影响 LUXUN 上涨突破新高。 
+据 GMGN 行情数据显示，赵长鹏发文提及 Luxun 后，LUXUN 5 分钟涨幅达 136%，市值现报 692 万美元。
+- [AAVE跌破180美元]() - 📰 null - 【AAVE跌破180美元】金色财经报道，行情显示，AAVE跌破180美元，现报179.99美元，24小时涨幅达到2.37%，行情波动较大，请做好风险控制。
+- [Zoth发布被盗更新：设立50万美元公开悬赏以资助有价值线索](https://x.com/zothdotio/status/1903447852418035986) - 📰 null - 【Zoth发布被盗更新：设立50万美元公开悬赏以资助有价值线索】金色财经报道，据官方消息，RWA 项目 Zoth 发布被盗更新表示，团队正在积极调查被盗事件，并与专业专家合作追踪被盗资金并进行恢复。此外，Zoth 已经与 Crystal Blockchain BV 合作，全面调查此次事件。 
+Zoth 平台的 73% TVL（总锁仓价值）已经在资产发行方的帮助下立即得到了保障。将在几周内分享详细报告。 
+Zoth 宣布已设立 50 万美元的公开赏金。任何有助于资金追回的可操作线索将从赏金中获得奖励。 
+此前，Zoth 确认遭遇安全漏洞攻击，Zoth 攻击者已将盗取的资金兑换为 4223 枚 ETH。
+- [金色晚报 | 3月22日晚间重要动态一览]() - 📰 null - 【金色晚报 | 3月22日晚间重要动态一览】12:00-21:00关键词：比特币区块、CZ、比特币储备 
+1.CZ链上捐款地址现为quq持币榜一； 
+2.比特币第888,888个区块刚刚已被开采； 
+3.数据：过去7天USDC流通量约增加10亿枚； 
+4.巴基斯坦考虑吸引比特币矿企来消耗多余电力； 
+5.Nansen分析师：关税问题若在4月初解决将给加密市场带来积极催化剂； 
+6.白宫数字资产政策顾问：特朗普政府或将利用黄金利润来增加比特币储备； 
+7.蒙大拿州拟立法强化数字资产监管，2024 年全美诈骗损失已逾 125 亿美元。
+- [马斯克确认DOGE阻止对世界经济论坛5200万美元付款](https://flash.jin10.com/detail/20250322214841311800) - 📰 null - 【马斯克确认DOGE阻止对世界经济论坛5200万美元付款】金色财经报道，马斯克领导的政府效率部（DOGE）阻止了向世界经济论坛（WEF）支付5200万美元的款项。马斯克在他旗下社交平台X上回复了一条有关该消息的帖子，称“是真的，不客气”。
+- [ a16z：若SEC提供代币发行指导，可阻止美国开发的区块链技术所有权被转移到海外](https://www.sec.gov/files/ah-capital-management-a16z.pdf) - 📰 null - 【 a16z：若SEC提供代币发行指导，可阻止美国开发的区块链技术所有权被转移到海外】金色财经报道，a16z在美国证券交易委员会专员Hester Peirce的加密货币工作组会议上表示：“如果美国证券交易委员会能够提供代币发行方面的指导，那么将阻止代币仅向非美国公民发行的趋势——这种趋势实际上是将美国开发的区块链技术的所有权转移到海外。”
+- [本周美国比特币现货ETF累计净流入7.443亿美元](https://farside.co.uk/btc/) - 📰 null - 【本周美国比特币现货ETF累计净流入7.443亿美元】金色财经报道，据 Farside 监测数据，本周美国比特币现货 ETF 累计净流入 7.443 亿美元，5 个交易日均为资金净流入状态。
