@@ -1,38 +1,38 @@
-- [PNUT突破0.23美元，24小时涨幅达17.9%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/peanut-the-squirrel) - 📰 null - 【PNUT突破0.23美元，24小时涨幅达17.9%】金色财经报道，行情显示，PNUT突破0.23美元，现报价0.2234美元，24小时涨幅达17.9%，行情波动较大，请做好风险控制。
-- [CZ：在APX Finance做多mubarak是第一次进行链上永续合约测试，仅仅是体验而已](https://x.com/cz_binance/status/1903858760256307322) - 📰 null - 【CZ：在APX Finance做多mubarak是第一次进行链上永续合约测试，仅仅是体验而已】金色财经报道，CZ在X平台发文表示，“在APX Finance做多mubarak是第一次进行链上永续合约测试。只是想体验一下，也想看看是否还存在矿工可提取价值（MEV）。你可能难以置信，我从未在币安（中心化交易所）交易过期货。虽然看过很多产品演示。”
-- [CZ在APX Finance上用0.04枚BNB开出24.7倍的mubarak多单，目前仓位已关闭](https://x.com/ai_9684xtpa/status/1903851756364415027) - 📰 null - 【CZ在APX Finance上用0.04枚BNB开出24.7倍的mubarak多单，目前仓位已关闭】金色财经报道，据链上分析师@ai_9684xtpa监测，七分钟前，CZ用公开捐款地址在APX Finance上用0.04枚BNB开出了24.7倍的mubarak多单（目前仓位已关闭） 
--APX：已短时上涨26%(0.64美元>0.081美元) 
--mubarak：已短时上涨5.5%(0.146美元>0.154美元)
-- [ETH跌破2000美元]() - 📰 null - 【ETH跌破2000美元】金色财经报道，行情显示，ETH跌破2000美元，现报1999.16美元，24小时涨幅收窄至0.58%，行情波动较大，请做好风险控制。
-- [某鲸鱼花费500万美元购买401,420枚TRUMP，均价12.45美元](https://x.com/OnchainLens/status/1903841050025943321) - 📰 null - 【某鲸鱼花费500万美元购买401,420枚TRUMP，均价12.45美元】金色财经报道，据Onchain Lens监测，鲸鱼@naseem花费500万美元购买了401,420枚TRUMP，平均价格为12.45美元。该鲸鱼已在TRUMP交易中获利超过1.09亿美元。
-- [特朗普：我喜欢TRUMP代币](https://truthsocial.com/@realDonaldTrump/posts/114212473050636851) - 📰 null - 【特朗普：我喜欢TRUMP代币】金色财经报道，特朗普在其社交平台Truth上发文表示，“I LOVE $TRUMP—SO COOL!!! The Greatest of them all!!!!!!!!!!!!!!!!”.
-- [贝莱德BUIDL基金在以太坊上的资金部署规模已超10亿美元](https://cointelegraph.com/news/ethereum-65-cycle-bottom-black-rock-eth-1b) - 📰 null - 【贝莱德BUIDL基金在以太坊上的资金部署规模已超10亿美元】金色财经报道，Token Terminal数据显示，贝莱德BUIDL基金在以太坊链上的资金部署规模已超10亿美元，目前触及约11.45亿美元。BUIDL基金主要关注代币化现实世界资产（RWA），并在Avalanche、Polygon、Aptos、Arbitrum和Optimism等链上进行多元化投资，但以太坊仍然是其核心配置。 
-另据Nansen分析，自2024年3月12日以来，持有1,000-10,000枚ETH的地址数量增长了5.65%，而持有10,000-100,000枚ETH的地址数量增长了28.73%。
-- [下周美国重要宏观数据：3月28日公布美国2月核心PCE]() - 📰 null - 【下周美国重要宏观数据：3月28日公布美国2月核心PCE】金色财经报道，下周美国待公布的重要宏观数据如下： 
-·3月25日21:05，FOMC永久票委、纽约联储主席威廉姆斯在一场活动上致开幕词； 
-·3月27日01:10，FOMC票委、圣路易联储主席穆萨莱姆发表讲话； 
-·3月27日20:30，美国至3月22日当周初请失业金人数(万人)，预期22.5，前值22.3； 
-·3月27日20:30，美国第四季度实际GDP年化季率终值，预期2.3%，前值2.3%； 
-·3月28日20:30，美国2月核心PCE物价指数年率，预期2.70%，前值2.60%； 
-·3月28日22:00，美国3月密歇根大学消费者信心指数终值，预期57.9，前值57.9。
-- [2亿枚USDT从HTX转至Aave](https://x.com/whale_alert/status/1903827405778633151) - 📰 null - 【2亿枚USDT从HTX转至Aave】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间下午11:13左右，200,000,000枚USDT从HTX转至Aave。
-- [分析：SHELL回购进度已完成3/4，GPS启动小额测试](https://x.com/EmberCN/status/1903811762203365669) - 📰 null - 【分析：SHELL回购进度已完成3/4，GPS启动小额测试】金色财经报道，据链上分析师余烬监测，币安月初的做市商事件中两个项目都宣布会用净卖出资金进行代币回购，也公布了回购代币存放的链上地址，目前进度： 
-1、SHELL 的回购资金是 800 万美元，目前他们从 3/13 以来已经从币安回购提出了 2095 万枚 SHELL （584 万美元），也就是说回购进度已经完成了四分之三。 
-2、GPS 的回购资金是 434 万美元，他们今晚才发公告说回购正式启动，公布的回购地址里目前也确实只有几笔小额的转入测试，还没有回购的代币转入。
-- [莱特币基金会：多只Litecoin ETF即将面世](https://x.com/LTCFoundation/status/1903808954230034639) - 📰 null - 【莱特币基金会：多只Litecoin ETF即将面世】金色财经报道，莱特币基金会在X平台发文披露2025年迄今的运营情况，主要包括：哈希率达到2.7 PH/s的历史新高、交易量超过1500万笔、多只Litecoin ETF即将面世。
-- [Bounce Brand：团队未参与任何形式的 AUCTION 价格操纵行为](https://x.com/bounce_finance/status/1903803478230585633) - 📰 null - 【Bounce Brand：团队未参与任何形式的 AUCTION 价格操纵行为】金色财经报道，Bounce Brand 在 X 平台发文就近期市场关注的价格波动情况作出回应：“需要明确的是，团队未参与任何形式的价格操纵行为。经团队监测，过去数周内，一个未知主体通过持续积累已获得超过20%的AUCTION总供应量。 
-为维护市场稳定，我们团队已采取积极行动：一方面在多个交易所主动提供流动性支持，另一方面已自愿锁定约150万枚来自项目库存和团队分配的AUCTION代币。”
-- [两 Bounce 多签地址将 155 万枚 AUCTION 存入 Team Finance 并锁定](https://x.com/ai_9684xtpa/status/1903795626380562603) - 📰 null - 【两 Bounce 多签地址将 155 万枚 AUCTION 存入 Team Finance 并锁定】金色财经报道，据链上分析师 @ai_9684xtpa 监测，四小时前，两个 Bounce Finance 多签地址将共计 155 万枚 AUCTION 存入 Team Finance 并锁定（占流通代币的 23.5%），约合 3,773 万美元，锁定至 2025 年 9 月 1 日。
-- [Michael Saylor 再次发布比特币 Tracker 相关信息](https://x.com/saylor/status/1903793445237305409) - 📰 null - 【Michael Saylor 再次发布比特币 Tracker 相关信息】金色财经报道，Strategy 创始人 Michael Saylor 在 X 平台再次发布比特币 Tracker 相关信息。根据此前规律，MicroStrategy 总是在相关消息发布之后的第二天披露增持比特币信息。
-- [金色晚报 | 3月23日晚间重要动态一览]() - 📰 null - 【金色晚报 | 3月23日晚间重要动态一览】12:00-21:00关键词： mubarak、Bithumb、王永利、富达 
-1.港亚控股于3月20日买入10枚比特币； 
-2.Wintermute过去四天累计从 Gate 提出 604 万枚 mubarak； 
-3.CZ：BUSD在美国Operation Chokepoint 2.0行动中被扼杀； 
-4.Bithumb宣布因银行转账系统维护拟于3月24日暂停韩元存取款业务； 
-5.中国银行原副行长王永利：比特币是资产，稳定币的出现存在合理性； 
-6.富达为旗下代币化美元货币市场基金FYHXX申请注册“OnChain”股票类别。
-- [GoPlus：已将所有冻结资金转入公司账户并启动“回购计划”](https://x.com/GoPlusSecurity/status/1903778846052384943) - 📰 null - 【GoPlus：已将所有冻结资金转入公司账户并启动“回购计划”】金色财经报道，GoPlus在X平台发文称，在币安的支持下已成功将所有冻结资金转入公司账户，并正式启动“回购计划”，将利用这些资金根据补救计划回购$GPS代币，支持健康的市场发展，同时致力于透明的回购流程，每周更新回购活动，所有回购代币都将转移到销毁地址，以便永久退出流通，社区可以通过链上数据验证来监控此过程。
-- [过去24小时PancakeSwap收入高达345万美元]() - 📰 null - 【过去24小时PancakeSwap收入高达345万美元】金色财经报道，据 DefiLlama 数据，过去 24 小时 PancakeSwap 收入高达 345 万美元，位列加密收入排行榜第三，Tether 和 Circle 以 1837 万美元、625 万美元的 24 小时收入分列第一位和第二位。而 Uniswap 过去 24 小时仅为 122,928 美元，同期以太网主网的收入为 381,599 美元。
-- [BTC突破85000美元]() - 📰 null - 【BTC突破85000美元】金色财经报道，行情显示，BTC突破85000美元，现报85014.27美元，24小时涨幅达到0.83%，行情波动较大，请做好风险控制。
-- [观点：投资者仍在购买崩盘的LUNA代币](https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje) - 📰 null - 【观点：投资者仍在购买崩盘的LUNA代币】3月23日消息，CoinMarketCap 数据显示，Terra (LUNA) 代币较近三年前的 2022 年 5 月 28 日创下的历史高点下跌了 98% 以上，但尽管价格暴跌，但投资者仍在购买 LUNA 代币，过去 24 小时交易额仍超 2100 万美元。分析师 Optimus KevTron 表示，这种现象表明即便有人觉得 LUNA 代币已经“死亡”，但依然有人在买入。
-- [AUCTION 24小时跌幅扩大至60%，暂报24.18美元]() - 📰 null - 【AUCTION 24小时跌幅扩大至60%，暂报24.18美元】金色财经报道，行情数据，AUCTION 24 小时跌幅扩大至 60%，暂报 24.18 美元。
+- [某鲸鱼地址5小时前从Aave中提币1.42万枚ETH转入Binance疑似抛售](https://x.com/ai_9684xtpa/status/1903977308073120074) - 📰 null - 【某鲸鱼地址5小时前从Aave中提币1.42万枚ETH转入Binance疑似抛售】金色财经报道，据链上数据分析师@ai_9684xtpa监测，地址0xcD4...364D6于5小时前从Aave中提出14202枚ETH（约合2835万美元），随后全部充值进Binance，疑似抛售。 
+该地址曾与区块构建者Beaver Builder和Titan build存在频繁交互。
+- [WLFI于15分钟前买入价值300万美元的MNT](https://x.com/EmberCN/status/1903975244848677048) - 📰 null - 【WLFI于15分钟前买入价值300万美元的MNT】金色财经报道，据余烬监测，特朗普家族支持的DeFi项目WLFI在15分钟前增加了对Mantle(MNT)的投资，斥资300万美元购入约353.9万枚MNT代币，购买价格为0.84美元。 
+据悉，WLFI目前的投资组合已累计投入3.43亿美元，配置了包括ETH、WBTC、TRX、LINK、AAVE、ENA、MOVE、ONDO、SEI、AVAX和MNT在内的11种代币。然而，该投资组合目前整体浮亏约1.09亿美元，亏损幅度达三分之一。
+- [罗伯特·肯尼迪：美联储实际上是在从美国中产阶级手中榨取财富和权益]() - 📰 null - 【罗伯特·肯尼迪：美联储实际上是在从美国中产阶级手中榨取财富和权益】金色财经报道，罗伯特·肯尼迪 (RFK Jr) 评价美联储：“它代表少数几家华尔街银行运作，其功能就像一个泵。它实际上是在从美国中产阶级手中榨取财富和权益。”
+- [开发者将Tornado Cash移植至MegaETH测试网](https://www.theblock.co/post/347632/developer-ports-tornado-cash-to-megaeth-testnet-as-treasury-department-lifts-sanctions-against-main-protocol) - 📰 null - 【开发者将Tornado Cash移植至MegaETH测试网】金色财经报道，据The Block报道，开发者Gunboats将Tornado Cash协议移植至MegaETH公共测试网，该网络支持每秒20,000笔交易。 
+Gunboats受美国财政部解除 Tornado Cash 制裁的启发，将其部署至MegaETH，并命名为ETHTornado。他使用Truffle框架完成移植，并表示如今可通过Foundry轻松编写Solidity智能合约。 
+Gunboats认为此类限制无意义，并强调当前ETHTornado活跃度较低，主要因缺乏易用的前端。
+- [比特币挖矿难度于昨晚上调1.43%至113.76 T，接近历史高点](https://explorer.cloverpool.com/zh-CN/btc/insights-difficulty) - 📰 null - 【比特币挖矿难度于昨晚上调1.43%至113.76 T，接近历史高点】金色财经报道，Cloverpool数据显示，比特币挖矿难度在区块高度889,056处（北京时间03-23 19:15:42）迎来挖矿难度调整，难度上调1.43%至113.76 T，接近历史高点（114.17）。
+- [以太坊网络每日ETH销毁量于上周六创下历史新低](https://www.theblock.co/post/347646/daily-eth-burn-hits-all-time-low-as-ethereums-on-chain-activity-dips) - 📰 null - 【以太坊网络每日ETH销毁量于上周六创下历史新低】金色财经报道，据The Block数据显示，上周六以太坊网络单日仅销毁53.07枚ETH，按当前价格计算价值约为106,000美元，创下历史新低，这表明对以太坊区块空间的需求显着减少。 
+以太坊的EIP-1559变更简化了交易费流程，同时要求网络销毁所有用于支付基本交易费的 ETH。该机制旨在降低通胀压力，并可能使以太坊在网络活动高峰期成为通货紧缩资产。 
+此外，活跃地址的七天移动平均值最近跌至2024年10月以来的最低值。最近几周，新地址创建数量、交易数量和每日交易量也有所下降。
+- [SAF联创：稳定币是比特币以外数字资产领域最重要的技术](https://x.com/Dennis_Porter_/status/1903961650686034142) - 📰 null - 【SAF联创：稳定币是比特币以外数字资产领域最重要的技术】金色财经报道，SatoshiActionFund（SAF）联合创始人DennisPorter发推表示，稳定币是比特币以外数字资产领域最重要的技术。 
+确实没有接近的亚军。 
+很快数十亿人将可以使用美元支持的稳定币，这将带领他们进入数字世界。 
+这对比特币来说是一件好事。为什么呢？ 
+因为美元用户是世界上最大的比特币买家。当人们使用美元时，他们可以更好地规划未来，包括为未来储蓄（即购买比特币）。
+- [国际货币基金组织：数字资产旨在用作“支付手段或价值储存手段”](https://x.com/Cointelegraph/status/1903959951141449934) - 📰 null - 【国际货币基金组织：数字资产旨在用作“支付手段或价值储存手段”】金色财经报道，国际货币基金组织表示，数字化创造了新的金融服务产品和数字资产，旨在用作“支付手段或价值储存手段”。
+- [数据：贝莱德的BUIDL基金目前持有价值约11.45亿美元的ETH](https://x.com/Cointelegraph/status/1903952783189176506) - 📰 null - 【数据：贝莱德的BUIDL基金目前持有价值约11.45亿美元的ETH】金色财经报道，根据Token Terminal的数据，贝莱德的BUIDL基金目前持有价值约11.45亿美元的ETH 。
+- [OpenAI拟大幅降价并与印度Reliance洽谈AI合作](https://www.theinformation.com/articles/openai-meta-seek-ai-alliance-indias-reliance) - 📰 null - 【OpenAI拟大幅降价并与印度Reliance洽谈AI合作】金色财经报道，据The Information报道，OpenAI正考虑将ChatGPT订阅费用在印度市场下调至每月3至5美元，较当前20美元价格下调最多达85%。同时，OpenAI已与印度Reliance Industries洽谈合作，内容或涵盖由其子公司Jio分销ChatGPT服务，并可能在印度本地托管模型，以扩大AI技术在印度的落地应用。
+- [观点：白宫正在考虑使用黄金储备购买比特币](https://x.com/bitcoinlfgo/status/1903950182578000325) - 📰 null - 【观点：白宫正在考虑使用黄金储备购买比特币】金色财经报道，据BITCOINLFG消息，据报道白宫正在考虑使用黄金储备购买比特币。
+- [谷歌正在推出Gemini实时人工智能视频功能]() - 📰 null - 【谷歌正在推出Gemini实时人工智能视频功能】金色财经报道，据The Verge报道，谷歌(GOOG.O)发言人亚历克斯·约瑟夫在一封电子邮件中证实，谷歌已经开始在Gemini Live上推出新的人工智能功能，可以让人工智能“看到”用户设备的屏幕或手机摄像头上的内容，并实时回答用户的问题。近一年前，谷歌首次展示了“阿斯特拉计划”，这一计划为现在这些新功能奠定基础。
+- [金色晨讯 | 3月24日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 3月24日隔夜重要动态一览】21:00-7:00关键词：TRUMP莱特币、贝莱德 
+1.特朗普：我喜欢TRUMP代币； 
+2.美联储5月维持利率不变的概率为87.8%； 
+3.Circle在Solana上铸造了2.5亿美元USDC； 
+4.莱特币基金会：多只Litecoin ETF即将面世； 
+5.Cathie Wood将启动萨尔瓦多的人工智能公共教育计划； 
+6.桥水基金创始人Ray Dalio：持有比特币是为了对冲通胀； 
+7.贝莱德BUIDL基金在以太坊上的资金部署规模已超10亿美元。
+- [BTC突破85500美元]() - 📰 null - 【BTC突破85500美元】金色财经报道，行情显示，BTC突破85500美元，现报85502.41美元，24小时涨幅达到1.93%，行情波动较大，请做好风险控制。
+- [国际货币基金组织：并未表示将比特币视为“数字黄金”。](https://x.com/BitcoinNewsCom/status/1903942652237586884) - 📰 null - 【国际货币基金组织：并未表示将比特币视为“数字黄金”。】金色财经报道，国际货币基金组织并未表示他们将比特币视为“数字黄金”。
+- [FARTCOIN突破0.53美元，24小时涨幅达14.8%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/fartcoin) - 📰 null - 【FARTCOIN突破0.53美元，24小时涨幅达14.8%】金色财经报道，行情显示，FARTCOIN突破0.53美元，现报价0.5252美元，24小时涨幅达14.8%，行情波动较大，请做好风险控制。
+- [美联储5月维持利率不变的概率为87.8%]() - 📰 null - 【美联储5月维持利率不变的概率为87.8%】金色财经报道，据CME“美联储观察”： 美联储5月维持利率不变的概率为87.8%，降息25个基点的概率为12.2%。美联储到6月维持利率不变的概率为18.1%，累计降息25个基点的概率为72.2%，累计降息50个基点的概率为9.7%。(金十)
+- [Cathie Wood将启动萨尔瓦多的人工智能公共教育计划](https://cointelegraph.com/news/cathie-wood-kick-off-el-salvador-ai-education-program) - 📰 null - 【Cathie Wood将启动萨尔瓦多的人工智能公共教育计划】金色财经报道，Ark Invest创始人凯西·伍德（Cathie Wood）将为萨尔瓦多新推出的“城市福利与机会中心”（CUBO）人工智能（AI）计划发表开幕演讲。该计划是由萨尔瓦多政府主导的一项公共教育倡议。据萨尔瓦多的比特币办公室介绍，该计划将为学生和专业人士提供大学级别的AI课程，此前该国的CUBO比特币和闪电网络开发者计划取得了巨大成功。 
+该计划将利用行业专家为公众提供AI教育。萨尔瓦多比特币办公室在3月23日的X（推特）帖子中写道：“随着萨尔瓦多加速转型为该地区终极的科技和金融强国，CUBO AI将为该国的学生和专业人士提供主导AI前沿的工具。”萨尔瓦多继续吸引加密货币企业和外国直接投资，因为这个中美洲国家正在定位自己成为区域科技和数字金融中心。
+- [全网以太坊合约未平仓头寸达201亿美元](https://www.coinglass.com/BitcoinOpenInterest) - 📰 null - 【全网以太坊合约未平仓头寸达201亿美元】金色财经报道，据Coinglass数据，全网以太坊合约未平仓量达到1006万枚，约合201亿美元。
+- [USDC Treasury于Solana链新增铸造2.5亿枚USDC](https://x.com/whale_alert/status/1903899867988058198) - 📰 null - 【USDC Treasury于Solana链新增铸造2.5亿枚USDC】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间上午4:01左右，USDC Treasury于Solana链新增铸造2.5亿枚USDC。
