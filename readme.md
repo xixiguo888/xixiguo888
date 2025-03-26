@@ -1,27 +1,34 @@
-- [Michael Saylor：优先股STRF今日将在纳斯达克上市交易](https://x.com/saylor/status/1904866572432244760) - 📰 null - 【Michael Saylor：优先股STRF今日将在纳斯达克上市交易】3月26日消息，Strategy（原MicroStrategy）创始人Michael Saylor在X平台发文称，该公司最新推出的优先股STRF（Strife）拟于今日在纳斯达克上市交易。
-- [GameStop：公司未对其将持有的比特币数量设置上限](https://www.businessinsider.com/gamestop-stock-jumps-after-bitcoin-investment-announcement-2025-3) - 📰 null - 【GameStop：公司未对其将持有的比特币数量设置上限】金色财经报道，知名游戏零售商 GameStop 表示，公司未对其将持有的比特币数量设置上限，并称可以出售其获得的任何比特币。
-- [EOS母公司CEO近期斥资1.728亿美元在意大利置办一处豪宅](https://www.unionesarda.it/news-sardegna/gallura/il-ragazzo-doro-delle-criptovalute-e-il-nuovo-proprietario-di-villa-romazzino-a-porto-cervo-q4wt7to4?mod=article_inline) - 📰 null - 【EOS母公司CEO近期斥资1.728亿美元在意大利置办一处豪宅】3月26日消息，据意大利媒体《L'Union Sarda》报道，Vaulta（原 EOS）母公司 Block. one 的首席执行官、Bullish 董事长 Brendan Blumer（BB）于近日以创纪录的 1.6 亿欧元（约合 1.728 亿美元）买下罗马齐诺（Romazzino）别墅。除去切尔托萨别墅（Villa Certosa）外，这笔交易是撒丁岛乃至意大利房地产史上金额最高的交易。 
-这座位于罗马齐诺（Romazzino）的别墅是翡翠海岸（Costa Smeralda）最奢华的豪宅之一，是沙特前石油部长艾哈迈德·扎基·亚马尼（Ahmed Zaki Yamani）的旧宅。该豪宅坐拥 350 米海岸线，占地 2.3 公顷，拥有 28 间卧室、35 间浴室、宽敞露台、两处私人海滩入口、两座专属码头、三个游泳池，以及约 2.3 万平方米的花园与配套设施。 
-Brendan Blumer 于 14 岁时创立了在线游戏虚拟道具自动化交易平台 Gamecliff。2010 年推出 Okay.com，打造亚太房地产市场的协同数据共享生态系统，后发展成为香港最大的数字房地产中介。2017 年，他与 Dan Larimer（BM）共同创办 Block.one，致力于区块链技术研发。
-- [XBT.com域名拍卖价已超300万美元](https://markets.businessinsider.com/news/stocks/xbt-com-surpasses-3m-at-lloyds-auctions-poised-to-be-the-largest-crypto-domain-sale-since-2021-1034515765) - 📰 null - 【XBT.com域名拍卖价已超300万美元】3月26日消息，XBT.com 在劳埃德拍卖行（Lloyds Auctions）上的价格已超过 300 万美元，有望成为 2021 年以来最大的加密域名拍卖。 
-劳埃德拍卖行首席运营官 Lee Hames 表示：这不仅仅是一个域名，更是比特币本身的金融未来和身份，无论谁赢得 XBT.com，都将拥有十年来最伟大的域名和比特币未来的股份，这是一种具有巨大历史和金融意义的数字资产。 
-据悉，XBT.com 起拍价为 2,798,917 美元，此次拍卖将于 3 月 28 日结束。
-- [OpenZK与EigenLayer达成新的合作，探索再质押新应用]() - 📰 null - 【OpenZK与EigenLayer达成新的合作，探索再质押新应用】3月26日消息，OpenZK正在设计桥接EigenLayer再质押功能，使得用户可以在其L2上实现一键质押、再质押ETH等功能，简化流程并最大限度提升资产利用率。EigenLayer的开发者推特Build On Eigen已转发确认。OpenZK预计本次即将推出的再质押产品会增加其网络访问量并为大规模DeFi应用做好准备。
-- [Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元]() - 📰 null - 【Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元】金色财经报道，据Whale Alert监测，加密货币托管服务商Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元。
-- [CZ：Giggle Academy发布V1.9.0版本，新增奖励中心等功能]() - 📰 null - 【CZ：Giggle Academy发布V1.9.0版本，新增奖励中心等功能】3月26日消息，CZ在其社交平台表示，Web3教育平台Giggle Academy发布V1.9.0版本，新版本的更新包括：改进儿童语音识别、新增奖励中心（积分，不是加密货币）、推荐注册H5页面、StorybookUI升级。
-- [疑似Bybit钱包8小时前向Binance转入2.2万枚ETH]() - 📰 null - 【疑似Bybit钱包8小时前向Binance转入2.2万枚ETH】3月26日消息，据The Data Nerd监测，8小时前，某钱包（可能属于Bybit）向Binance存入了2.2万枚ETH（约4535万美元）。这可能是黑客攻击后，Bybit向Binance的还款。上周，该钱包还将另外2.2万枚ETH存入Binance。
-- [业内人士：聪明钱仍在场外观望，比特币长期持有者等待更高退出价位](https://www.bloomberg.com/news/articles/2025-03-26/bitcoin-btc-rebound-faces-risk-of-bull-trap-amid-macro-uncertainty) - 📰 null - 【业内人士：聪明钱仍在场外观望，比特币长期持有者等待更高退出价位】金色财经报道，比特币本周一触及两周高位后的反弹行情正面临夭折风险，加密货币交易自动化平台CoinPanel交易专家Kirill Kretov警告称：投资者在当前环境中需格外谨慎，市场依然脆弱且极易被操纵，散户活跃度低迷、交易量稀薄，即便所谓的聪明钱也在场外观望，真正有能力推动市场的力量选择按兵不动，这绝非偶然。 
-Kirill Kretov认为，历经前几轮周期的比特币长期持有者仍在坚守仓位，等待更高退出价位，这种惜售行为形成市场抛压，加剧价格波动脆弱性。尽管波动可能清洗过度持仓的散户，但他指出唯有出现长期持有者被迫抛售的彻底出清才能为大型投资者创造建立新仓位的“纯净舞台”。
-- [嘉楠科技第四季度总收入为8880万美元，同比增长80.9%](https://www.prnewswire.com/news-releases/canaan-inc-reports-unaudited-fourth-quarter-and-full-year-2024-financial-results-302411873.html) - 📰 null - 【嘉楠科技第四季度总收入为8880万美元，同比增长80.9%】金色财经报道，嘉楠科技公布2024年第四季度和全年未经审计的财务业绩。2024年第四季度总收入为8880万美元，超过预期的8000万美元，同比增长80.9%。挖矿收入为1530万美元，同比增长312.5%，共开采出186枚比特币。净亏损为9290万美元，而2023年同期为1.39亿美元。 
-2024年全年总收入为2.693亿美元，较2023年的2.115亿美元同比增长27.4%。售出的总算力为2600万TH/s，较2023年的1960万TH/s同比增长32.6%。采矿收入为4,400万美元，较2023年的3,400万美元同比增长29.6%。净亏损为2.498亿美元，同比收窄39.7%。
-- [“木头姐”Cathie Wood拟将旗下基金代币化，或遇监管阻碍]() - 📰 null - 【“木头姐”Cathie Wood拟将旗下基金代币化，或遇监管阻碍】金色财经报道，Cathie Wood 于当地时间周二在纽约举行的数字资产峰会上发表讲话时说：“我们认为代币化将是巨大的，我们希望能够将风险基金 （ARKVX） 或是数字资产革命基金（Digital Asset Revolution Fund）代币化。”但分析认为，虽然Cathie Wood 准备将 Ark Invest 基金代币化，但面临美国监管和法规的阻碍，导致这一进程或将被搁置。
-- [IntoTheBlock：昨日交易平台净流出近19000枚BTC]() - 📰 null - 【IntoTheBlock：昨日交易平台净流出近19000枚BTC】3月26日消息，IntoThe Block发文表示，昨天，交易平台净流出接近19,000枚BTC，主要受到Bitfinex平台流出21,750枚BTC推动。
-- [48个新建钱包持有超100枚BTC](https://x.com/ali_charts/status/1904831693422211354) - 📰 null - 【48个新建钱包持有超100枚BTC】金色财经报道，链上分析师Ali于X发文表示，现在有 48 个新钱包持有超过 100 个BTC，表明鲸鱼的积累量正在不断增加。
-- [Ceffu 向币安转入超 1.4 万枚以太坊，约合 2943 万美元](https://x.com/OnchainDataNerd/status/1904830520992948723) - 📰 null - 【Ceffu 向币安转入超 1.4 万枚以太坊，约合 2943 万美元】金色财经报道，据链上分析师 The Data Nerd 监测，加密货币托管服务商 Ceffu 在 45 分钟前向币安转入 14,222 枚以太坊，约合 2943 万美元。
-- [WalletConnect宣布WCT转让功能将于4月上线]() - 📰 null - 【WalletConnect宣布WCT转让功能将于4月上线】3月26日消息，Web3通信协议WalletConnect宣布WCT转让功能将在4月正式上线，标志着WalletConnect网络、生态系统及链上经济的新篇章。
-- [QCP：波动性进一步回落，BTC短期内有进一步增长空间]() - 📰 null - 【QCP：波动性进一步回落，BTC短期内有进一步增长空间】金色财经报道，QCP Capital发布市场分析称，随着波动性进一步回落，风险资产继续走高。自上周短暂跌破7.7万美元以来BTC已飙升15%，而同期其他加密货币的表现普遍优于大盘。围绕美国贸易政策和更广泛政治格局的不确定性仍然是人们关注的焦点。特朗普在4月2日最后期限前暗示将采取进一步的关税措施，然而市场仍然不清楚这些潜在行动的范围、时间和规模，在此之前预计横向波动会更多，BTC短期内进一步增长空间，因为GameStop (GME) 已将比特币添加到他们的财库中。
-- [Abracadabra已回购650万美元MIM并覆盖50%黑客攻击损失](https://x.com/MIM_Spell/status/1904818549257822687) - 📰 null - 【Abracadabra已回购650万美元MIM并覆盖50%黑客攻击损失】金色财经报道，据Abracadabra Money官方消息，昨日其gmCauldrons产品套件遭遇黑客攻击，导致协议损失约1300万美元的MIM代币。其他产品未受影响。Abracadabra DAO已开始采取措施应对这一事件，包括利用DAO金库的1900万美元资产偿还部分损失，目前已回购650万美元MIM并覆盖了总损失的50%，剩余部分将在未来几个月内逐步吸收，预计于2025年中期完成。
-- [OKX Web3 联合「2025 香港 Web3 嘉年华」开启门票抽奖活动](https://web3.okx.com/web3/marketplace/drops/event/2025-hk-web3) - 📰 null - 【OKX Web3 联合「2025 香港 Web3 嘉年华」开启门票抽奖活动】3月26日消息，「2025香港Web3嘉年华」活动临近，OKX Web3现已开启抽奖活动。完成相应任务，将有机会抽取大会门票1张。参与方式：在OKX Web3钱包寻找大会 NFT 门票购票入口并截图，携带截图与 #OKXWeb3 标签并转发相关推文。 
-据悉，「2025 香港 Web3 嘉年华」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办。活动将于 2025 年 4 月 6 日至 9 日 在香港会议展览中心举办，OKX Web3 是本次活动的冠名赞助商及独家 NFT 门票发行合作伙伴，通过 OKX Web3 钱包购买大会 NFT 门票，可享受限时 85 折购票优惠、NFT 专属验票入场通道、以及持票者专属礼品等多重特别福利。
-- [MistTrack：Circle 冻结某地址近 300 万枚 USDC](https://x.com/MistTrack_io/status/1904817901863133288) - 📰 null - 【MistTrack：Circle 冻结某地址近 300 万枚 USDC】金色财经报道，据链上分析平台 MistTrack 监测，Circle 已冻结 0xbe 开头地址持有的 2,997,180 枚 USDC。该地址同时持有 200.98 枚以太坊和 929,923 枚 USDT，且与多个币安和加密货币交易所地址有交互记录。
-- [Circle冻结0xbe1开头地址299.7万枚USDC]() - 📰 null - 【Circle冻结0xbe1开头地址299.7万枚USDC】3月26日消息，据MistTrack监测，Circle冻结0xbe1开头地址299.7万枚USDC。此外，该地址还持有200.98枚ETH和929,923枚USDT，并且与多个Coinbase和Cryptocom地址进行交互。
+- [Coinbase将上线Freysa (FAI)]() - 📰 null - 【Coinbase将上线Freysa (FAI)】金色财经报道，Coinbase 将在 Base 网络上增加对 Freysa (FAI) 的支持。如果满足流动性条件，交易将于 2025 年 3 月 27 日上午 9 点（太平洋时间）或之后开始。一旦该资产的供应充足，FAI-USD 交易对将分阶段启动。
+- [美联储穆萨莱姆：不认为经济衰退即将到来](https://www.cls.cn/detail/1984764) - 📰 null - 【美联储穆萨莱姆：不认为经济衰退即将到来】金色财经报道，美联储穆萨莱姆称，预计到2027年通胀率将回落至2%。不认为经济衰退即将到来。
+- [CZ于X账户简介新增付费咨询链接，收入将捐献至慈善机构](https://x.com/cz_binance) - 📰 null - 【CZ于X账户简介新增付费咨询链接，收入将捐献至慈善机构】金色财经报道，Binance 创始人 CZ 在其 X 账户的个人简介中新增付费咨询链接，可直接与其进行私人对话。CZ 称付费咨询获得的收入将捐献至慈善机构。 
+目前向 CZ 发送的首条信息将收取 0.08 BNB 费用，如果 CZ 在 5 天内未回复，用户将自动获得 50% 退款。最大消息长度为 2,000 个字符且不允许添加附件或图片。
+- [美股持续走低 纳指跌幅达2%]() - 📰 null - 【美股持续走低 纳指跌幅达2%】金色财经报道，美股持续走低，纳指跌幅达2%，标普500指数跌1.11%，道指跌0.38%。标普500汽车指数下跌5.6%。大型科技股普跌，特斯拉、英伟达跌超6%，博通跌超5%，台积电跌超4%。
+- [美联储穆萨莱姆：劳动力市场已达到或接近完全就业水平](https://www.cls.cn/detail/1984760) - 📰 null - 【美联储穆萨莱姆：劳动力市场已达到或接近完全就业水平】金色财经报道，美联储穆萨莱姆表示，劳动力市场已达到或接近完全就业水平。考虑到通胀或将超出目标，政策保持现状是合适的。近期通胀可能高于预期，经济增长可能低于预期。
+- [美联储穆萨莱姆：美联储可能需要将利率维持在较高水平更长时间](https://www.cls.cn/detail/1984752) - 📰 null - 【美联储穆萨莱姆：美联储可能需要将利率维持在较高水平更长时间】金色财经报道，美联储穆萨莱姆表示，近期通胀停滞在2%以上或进一步上升的风险似乎已经增加；考虑到美联储正在收集证据证明通胀（正在）回归目标，对当前政策保持耐心是合适的；对假设所有与关税相关的价格上涨都是暂时的持谨慎态度；第二轮效应可能会更加持久；如果劳动市场持续强劲且第二轮关税效应显现，美联储可能需要将利率维持在较高水平更长时间，或考虑更加严格的政策。
+- [币安首批投票上币项目市值多数下跌，BANANAS31市值暂报6610万美元]() - 📰 null - 【币安首批投票上币项目市值多数下跌，BANANAS31市值暂报6610万美元】金色财经报道，据链上数据，币安首批投票上币活动项目中， 
+BANANAS31 市值暂报 6610 万美元； 
+WHY 市值暂报 3300 万美元； 
+SIREN 市值暂报 4910 万美元； 
+Broccoli（CZ's Dog）市值暂报 5240 万美元； 
+Mubarak 市值暂报 1.37 亿美元； 
+KOMA 市值暂报 3620 万美元； 
+TUT 市值暂报 1720 万美元； 
+BID 市值暂报 3770 万美元； 
+Broccoli 市值暂报 1500 万美元。
+- [BANANAS31、WHY成币安首次投票上币活动前二项目](https://www.binance.com/en/square/post/21761942594842) - 📰 null - 【BANANAS31、WHY成币安首次投票上币活动前二项目】金色财经报道，据官方页面信息，币安首批投票上币项目中，BANANAS31（19.4%）、WHY（18.8%）最终排名前二。 
+此前消息，币安宣布启动首次投票上币活动，用户可对已完成官方尽职调查的代币进行投票，最终排名前两位的代币将获币安上线资格。
+- [美国民主党参议院议员沃伦：担心特朗普可能会罢免美联储主席鲍威尔](https://www.cls.cn/detail/1984738) - 📰 null - 【美国民主党参议院议员沃伦：担心特朗普可能会罢免美联储主席鲍威尔】金色财经报道，美国民主党参议院议员沃伦表示，担心总统特朗普可能会罢免美联储主席鲍威尔。
+- [ZachXBT：Hyperliquid官方对朝鲜黑客使用盗窃资金开空无动于衷，却操纵市场价格](https://x.com/zachxbt/status/1904920202560647635) - 📰 null - 【ZachXBT：Hyperliquid官方对朝鲜黑客使用盗窃资金开空无动于衷，却操纵市场价格】金色财经报道，链上侦探 ZachXBT 于 X 平台发文批评 Hyperliquid 称：“令人气愤的是，Hyperliquid 官方可以随意划线操控价格，但当朝鲜黑客们使用 Radiant 盗窃资金在上面持有一定规模的空单仓位时，他们却无动于衷。”
+- [币安推迟MAVIAUSDT永续合约交易时间](https://www.binance.com/zh-CN/support/announcement/864b8bd112a44a8cae14db4dcea159a1) - 📰 null - 【币安推迟MAVIAUSDT永续合约交易时间】金色财经报道，据官方公告，币安原定于 2025 年 3 月 26 日 16：15（UTC）上线的 MAVIAUSDT 永续合约，交易开始时间将推迟至 2025 年 3 月 26 日 17：00（UTC）。
+- [Hyperliquid上HLP TVL骤减至1.98亿美元](https://app.hyperliquid.xyz/vaults/0xdfc24b077bc1425ad1dea75bcb6f8158e10df303) - 📰 null - 【Hyperliquid上HLP TVL骤减至1.98亿美元】金色财经报道，据 Hyperliquid 官网信息，HLP TVL 短时骤减至 1.98 亿美元。 此前消息，HLP TVL 此前高达 2.4 亿美元。
+- [CZ发文再次重申DEX不如CEX](https://x.com/cz_binance/status/1904929331585179879) - 📰 null - 【CZ发文再次重申DEX不如CEX】金色财经报道，CZ 在社交媒体上发文表示：“我知道自己不算聪明。不懂的时候我会承认，也常觉得那些厉害的人一定掌握了什么我不知道的诀窍，才能做到我做不到的事。但偶尔，我会发现：最基础的法则依然适用。” 
+值得注意的是，CZ 该推文引用了此前‘DEX 不如 CEX’的推文。对此 CZ 特意解释称，为避免混淆，该推文与 HL 事件无关。是自己之前尝试用 BSC 链上 AstherusHub 的经历，这是 Labs 投资组合中的项目。他们不显示强平价格且采用自动减仓机制 (ADL)，所以不会出现今天类似的问题。
+- [HYPE现报14.57美元，24小时跌幅11.5%]() - 📰 null - 【HYPE现报14.57美元，24小时跌幅11.5%】金色财经报道，行情显示，HYPE现报14.57美元，24小时跌幅11.5%，行情波动较大，请做好风险控制。
+- [Hyperliquid“拔网线”清算JELLY空单反而获利70.3万美元](https://x.com/lookonchain/status/1904922981073035498) - 📰 null - 【Hyperliquid“拔网线”清算JELLY空单反而获利70.3万美元】金色财经报道，据 Lookonchain 监测，Hyperliquid 在下架 JELLY 前，以 0.0095 美元的价格清算了 3.92 亿枚 JELLY(约合 372 万美元)，没有任何损失，反而获利了 70.3 万美元。
+- [Arthur Hayes：Hyperliquid根本就不是去中心化的](https://x.com/CryptoHayes/status/1904923078431293855) - 📰 null - 【Arthur Hayes：Hyperliquid根本就不是去中心化的】金色财经报道，Arthur Hayes 在社交媒体上发文表示，Hyperliquid 无法处理 JELLY 事件，这根本就不去中心化，更别以为交易员真在乎这事，自己敢打赌 HYPE 很快就会跌回原点。
+- [Hyperliquid回应：委员会经投票决定下架JELLY，用户损失将由基金会全额补偿](https://x.com/HyperliquidX/status/1904923137684496784) - 📰 null - 【Hyperliquid回应：委员会经投票决定下架JELLY，用户损失将由基金会全额补偿】金色财经报道， Hyperliquid 在 Discord 上发布回应表示，在发现可疑市场活动后，验证者委员会经投票决定下架 JELLY 永续合约。 
+除标记地址外，所有用户损失将由 Hyper 基金会全额补偿。补偿将基于链上数据在未来几天自动执行，无需提交工单。具体实施方案将在后续公告中详细说明。与其他公链类似，验证者时常需集体协商并采取果断行动以维护网络完整性。Hyperliquid 将优先升级投票系统的鲁棒性与透明度。 
+另据记录，HLP（Hyperliquid 协议）当前 24 小时净损益约为 70 万 USDC。技术改进将同步推进，本次事件的经验将使网络更趋完善。更多细节即将公布。
+- [AC锐评Hyperliquid HLP清算事件：仓位大小不是杠杆的固定函数，DeFi不应有固定值杠杆](https://x.com/AndreCronjeTech/status/1904907498588364942) - 📰 null - 【AC锐评Hyperliquid HLP清算事件：仓位大小不是杠杆的固定函数，DeFi不应有固定值杠杆】金色财经报道，针对此前”某地址效仿此前 Hyperliquid 上 50 倍杠杆巨鲸操作把 3.98 亿枚 JELLY 空单甩给 Hyperliquid，引发 Hyperliquid 金库面临清算和损失“一事，Sonic Labs 联创 Andre Cronje 于 X 平台发文称：仓位大小不是杠杆的固定函数，而是依赖于可用流动性和实现波动性，小仓位可以是 1000 倍杠杆，大仓位只有 1.2 倍。在 DeFi 中不能有固定值。
+- [Hyperliquid以0.0095美元的有利价格对JELLYJELLY完成结算，没有损失资金](https://x.com/bwenews/status/1904918366575616228) - 📰 null - 【Hyperliquid以0.0095美元的有利价格对JELLYJELLY完成结算，没有损失资金】金色财经报道，据市场消息显示，Hyperliquid 下架 JELLYJELLY 并以 0.0095 美元的有利价格完成结算，没有损失任何资金。
+- [Hyperliquid已下架JELLYJELLY交易对]() - 📰 null - 【Hyperliquid已下架JELLYJELLY交易对】金色财经报道，据 Hyperliquid 官方网站信息，在币安和 OKX 上线 JELLYJELLY 合约后，该平台已下架相关交易功能。
