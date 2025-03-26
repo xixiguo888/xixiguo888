@@ -1,39 +1,27 @@
-- [Sui生态流动性质押协议Haedal将于4月进行TGE](https://x.com/HaedalProtocol/status/1904412122676879661) - 📰 null - 【Sui生态流动性质押协议Haedal将于4月进行TGE】金色财经报道，Sui生态流动性质押协议Haedal Protocol发推表示将于4月TGE，代币名称为HAEDAL。2025年1月，Haedal完成种子轮融资，Sui基金会等参投。
-- [贝莱德现货比特币ETF昨日购买了约480枚BTC](https://x.com/Cointelegraph/status/1904775566575710324) - 📰 null - 【贝莱德现货比特币ETF昨日购买了约480枚BTC】金色财经报道，贝莱德现货比特币ETF于3月25日购买了约480枚BTC，价值4200万美元。
-- [美联储票委警告：通胀预期上升将成“降息拦路虎”](https://flash.jin10.com/detail/20250326131730556800) - 📰 null - 【美联储票委警告：通胀预期上升将成“降息拦路虎”】金色财经报道，芝加哥联储主席、FOMC 票委古尔斯比警告称，有迹象表明，美国债券市场的投资者开始预期更高的通胀，这将是一个“重大危险信号”，可能会打乱利率制定者的降息计划。 
-在古尔斯比发表上述言论的前一周，备受关注的密歇根大学民调显示，美国家庭的长期通胀预期触及 1993 年以来最高水平。古尔斯比表示：“如果你看到基于市场的长期通胀预期开始像过去两个月的调查结果那样变化，我会认为这是一个需要高度关注的重大危险信号。”五年远期利率目前为 2.2%，而密歇根大学调查显示，消费者预计长期通胀率为 3.9%。 
-古尔斯比表示，如果投资者的预期开始与美国家庭的预期趋同，美联储将不得不采取行动：“几乎无论在什么情况下，你都必须应对这个问题。”他说。
-- [ETF专家评Ripple案结束：XRP ETF的批准只是时间问题](https://x.com/NateGeraci/status/1904765629640695867) - 📰 null - 【ETF专家评Ripple案结束：XRP ETF的批准只是时间问题】3月26日消息，The ETF Store总裁Nate Geraci在社交平台上表示，Ripple案结束意味着现货XRPETF的批准显然只是时间问题。预计贝莱德、富达等都将参与其中。XRP目前是按市值计算的第三大非稳定币加密资产。最大的ETF发行者不会忽视这一点。 
-此前消息，Ripple同意放弃交叉上诉，美SEC将保留1.25亿美元罚款中的5000万美元。
-- [Custodia与Vantage Bank合作推出“首个银行发行的稳定币”](https://cointelegraph.com/news/custodia-bank-helps-execute-first-bank-issued-stablecoin-transaction-in-us) - 📰 null - 【Custodia与Vantage Bank合作推出“首个银行发行的稳定币”】金色财经报道，Custodia Bank已与Vantage Bank合作，在无需许可的区块链上完成了两家公司所称的“美国首个银行发行的稳定币”。 
-Custodia 3月25日表示，已将美元活期存款代币化，并通过ERC-20代币标准促进以太坊上稳定币“Avit”的发行、转让和兑换。 
-卡斯托迪亚补充道：“美国银行系统内部现在已经启动了新的美元支付渠道。” 
-Custodia首席执行官凯特琳·朗(Caitlin Long)表示：“我们在法律/监管方面取得了突破，证明美国银行可以合作以符合监管的方式在无需许可的区块链上对活期存款进行代币化。”
-- [美联储古尔斯比：由于经济不确定性，下一次降息可能需要比预期更长的时间]() - 📰 null - 【美联储古尔斯比：由于经济不确定性，下一次降息可能需要比预期更长的时间】金色财经报道，据英国金融时报：美联储古尔斯比警告，由于经济不确定性，下一次降息可能需要比预期更长的时间，他表示，他相信在未来12到18个月内，借贷成本将“显著降低”，如果投资者的预期与美国家庭的预期开始趋同，美联储将需要采取行动。(金十)
-- [市场消息：富达计划推出稳定币](https://www.ft.com/content/7df7c1d9-9e1f-4de4-8161-1cdb6f4e0e7f) - 📰 null - 【市场消息：富达计划推出稳定币】金色财经报道，据市场消息，富达计划推出稳定币，以推动和支持数字资产行业发展，目前具体细节暂未披露。
-- [德意志银行：特朗普政府比特币储备更像是一种重新分类，如何运作仍有许多未知数](https://news.bitcoin.com/deutsche-bank-macro-strategist-trumps-bitcoin-reserve-is-nothing-new/) - 📰 null - 【德意志银行：特朗普政府比特币储备更像是一种重新分类，如何运作仍有许多未知数】金色财经报道，德意志银行董事总经理兼宏观策略师Marion Laboure表示，特朗普政府的比特币储备是更广泛的数字资产行业2024年许多举措的延续，而且更像是一种重新分类，没有什么新鲜，但是如何运作仍有许多未知数，因为截至目前对储备中的加密货币配额一无所知，对资产组合了解不多，对时间表也不太了解。加密货币作为一种资产类别仍然具有高度波动性，除了比特币和以太币之外，许多加密货币仍存在一定风险。
-- [Celo开发者在最初提案近两年后完成以太坊Layer 2转换]() - 📰 null - 【Celo开发者在最初提案近两年后完成以太坊Layer 2转换】金色财经报道，Celo开发者在最初提案近两年后完成以太坊Layer 2转换，原本是一个独立的Layer 1区块链，已经完成了其向以太坊Layer 2网络的转换。 
-主网上的正式转换发生在周二美国东部时间晚上11点左右，硬分叉发生在区块高度31,056,500。Celo L1的区块生产在该点停止，网络完全过渡到Layer 2。该项目的核心开发者CLabs于2023年7月首次提出Celo从Layer 1转向Layer 2链的提案。 
-Layer 2的开发利用了Optimism的可定制工具包OP Stack。这意味着Celo现在作为一个Optimistic rollup运行。
-- [Curve创始人疑似再次抛售100万枚CRV，套现51.5万美元](https://x.com/spotonchain/status/1904751251428171832) - 📰 null - 【Curve创始人疑似再次抛售100万枚CRV，套现51.5万美元】金色财经报道，据Spot On Chain监测，Curve Finance创始人Michael Egorov似乎再次抛售CRV代币。数据显示，18小时前，Egorov向钱包地址"0x5a8"转移了199.7万枚CRV代币，价值约103万美元。随后，该钱包以平均0.515美元的价格出售了100万枚CRV，获得515,058USDC。目前该钱包仍持有99.7万枚CRV代币，价值约51.4万美元。
-- [ZKsync：将进行v26升级，期间Elastic Network存取款将无法完成](https://x.com/zkSyncDevs/status/1904601759206756646) - 📰 null - 【ZKsync：将进行v26升级，期间Elastic Network存取款将无法完成】金色财经报道，ZKsync开发账号发文表示，作为v26升级的一部分，ZKsync资金将从旧桥转移到新的网关合约。 
-本次升级预计在3月27日或3月31日进行（具体日期和时间将稍后更新）。 
-此外，升级期间，Elastic Network的存款和取款将在长达3小时内无法完成。
-- [Revolut推出独立加密交易应用Revolut X](https://x.com/Cointelegraph/status/1904730063859233010) - 📰 null - 【Revolut推出独立加密交易应用Revolut X】3月26日消息，金融科技公司Revolut已推出独立的加密交易应用平台Revolut X，旨在与主要交易所竞争，并计划将业务从欧洲扩展到美国市场。
-- [CZ：实现长期成长和致富需要理解、信念和耐心](https://x.com/cz_binance/status/1904749045039718443) - 📰 null - 【CZ：实现长期成长和致富需要理解、信念和耐心】金色财经报道，CZ 在其社交平台表示，大多数人看不到显而易见的未来。许多人也缺乏耐心。10 年后的技术趋势比未来价格更容易看出。只要有一点理解、信念和耐心，就有很多机会实现长期成长和致富。
-- [GoPlus：已执行第一批代币回购，目前已累计约34,906,177枚GPS](https://x.com/GoPlusSecurity/status/1904747753416384918) - 📰 null - 【GoPlus：已执行第一批代币回购，目前已累计约34,906,177枚GPS】金色财经报道，GoPlus发布代币回购更新，披露已经执行了第一批GPS代币回购，迄今为止已累计约34,906,177枚GPS代币，回购过程正在进行中，回购完成后所有购买的代币将被一起烧毁。
-- [Binance首批投票上币还有12小时结束，BANANAS31、SIREN暂列前两位]() - 📰 null - 【Binance首批投票上币还有12小时结束，BANANAS31、SIREN暂列前两位】金色财经报道，据官方页面信息，Binance首批投票上币还有12小时结束（计划结束时间为UTC时间3月26日16：59），截止发稿，BANANAS31以20.4%的得票率排名第一，SIREN以16.6%的得票率排名第二。 
-Broccoli（CZ'sDog）、WHY、mubarak分列3至5位。
-- [GPS回购地址从Binance提取首笔回购代币，价值112万美元](https://x.com/ai_9684xtpa/status/1904746854408999211) - 📰 null - 【GPS回购地址从Binance提取首笔回购代币，价值112万美元】金色财经报道，据@ai_9684xtpa监测，GPS回购地址从Binance提出了首笔回购代币，共2490万枚代币，价值112万美元。 
-截至目前，GPS回购进度已更新至25.8%，或因回购影响GPS币价短时上涨3.4%。
-- [金色午报 | 3月26日午间重要动态一览]() - 📰 null - 【金色午报 | 3月26日午间重要动态一览】7:00-12:00关键词：代币化国债、DeepSeek、美国SEC 
-1.代币化美国国债市值首次突破50亿美元； 
-2.特朗普回应“群聊门”：对处理结果很满意； 
-3.DeepSeek V3推出0324版本升级，推理性能大幅提升； 
-4.今日比特币市占率报61.45%，已超一个月持续居于高位； 
-5.全球加密货币ATM机数量自2022年峰值以来已减少2,062台； 
-6.高盛：特朗普对等关税或达市场预期两倍，市场或现“爆炸性冲击”； 
-7.美国SEC加密货币工作组宣布将于未来三月举行四场新圆桌会议 探讨监管议题。
-- [昨日美国以太坊现货ETF净流出330万美元]() - 📰 null - 【昨日美国以太坊现货ETF净流出330万美元】金色财经报道，据Farside监测，昨日美国以太坊现货ETF净流出330万美元，9支ETF无一净流入。
-- [昨日美国比特币现货ETF净流入2680万美元，已连续8天净流入](https://farside.co.uk/btc/) - 📰 null - 【昨日美国比特币现货ETF净流入2680万美元，已连续8天净流入】金色财经报道，据Farside监测，昨日美国比特币现货ETF净流入2680万美元，已连续8天净流入。其中贝莱德IBIT净流入4200万美元。
-- [美国SEC加密货币工作组宣布将于未来三月举行四场新圆桌会议 探讨监管议题]() - 📰 null - 【美国SEC加密货币工作组宣布将于未来三月举行四场新圆桌会议 探讨监管议题】金色财经报道，据美国证券交易委员会（SEC）官网消息，SEC加密货币工作组宣布将于2025年4月至6月举行四场新一轮圆桌会议，涵盖加密交易、托管、资产代币化及DeFi等议题。四场公开圆桌会议的时间和主题分别为：4月11日“为加密交易量身定制监管”、4月25日“托管机构关键问题”、5月12日“资产上链与传统金融融合”、6月6日“DeFi与美国精神”。 专员Hester Peirce称此为“通往加密清晰的春季冲刺”，标志着SEC从执法为主转向合作与明确监管框架的新方向。(金十)
+- [Michael Saylor：优先股STRF今日将在纳斯达克上市交易](https://x.com/saylor/status/1904866572432244760) - 📰 null - 【Michael Saylor：优先股STRF今日将在纳斯达克上市交易】3月26日消息，Strategy（原MicroStrategy）创始人Michael Saylor在X平台发文称，该公司最新推出的优先股STRF（Strife）拟于今日在纳斯达克上市交易。
+- [GameStop：公司未对其将持有的比特币数量设置上限](https://www.businessinsider.com/gamestop-stock-jumps-after-bitcoin-investment-announcement-2025-3) - 📰 null - 【GameStop：公司未对其将持有的比特币数量设置上限】金色财经报道，知名游戏零售商 GameStop 表示，公司未对其将持有的比特币数量设置上限，并称可以出售其获得的任何比特币。
+- [EOS母公司CEO近期斥资1.728亿美元在意大利置办一处豪宅](https://www.unionesarda.it/news-sardegna/gallura/il-ragazzo-doro-delle-criptovalute-e-il-nuovo-proprietario-di-villa-romazzino-a-porto-cervo-q4wt7to4?mod=article_inline) - 📰 null - 【EOS母公司CEO近期斥资1.728亿美元在意大利置办一处豪宅】3月26日消息，据意大利媒体《L'Union Sarda》报道，Vaulta（原 EOS）母公司 Block. one 的首席执行官、Bullish 董事长 Brendan Blumer（BB）于近日以创纪录的 1.6 亿欧元（约合 1.728 亿美元）买下罗马齐诺（Romazzino）别墅。除去切尔托萨别墅（Villa Certosa）外，这笔交易是撒丁岛乃至意大利房地产史上金额最高的交易。 
+这座位于罗马齐诺（Romazzino）的别墅是翡翠海岸（Costa Smeralda）最奢华的豪宅之一，是沙特前石油部长艾哈迈德·扎基·亚马尼（Ahmed Zaki Yamani）的旧宅。该豪宅坐拥 350 米海岸线，占地 2.3 公顷，拥有 28 间卧室、35 间浴室、宽敞露台、两处私人海滩入口、两座专属码头、三个游泳池，以及约 2.3 万平方米的花园与配套设施。 
+Brendan Blumer 于 14 岁时创立了在线游戏虚拟道具自动化交易平台 Gamecliff。2010 年推出 Okay.com，打造亚太房地产市场的协同数据共享生态系统，后发展成为香港最大的数字房地产中介。2017 年，他与 Dan Larimer（BM）共同创办 Block.one，致力于区块链技术研发。
+- [XBT.com域名拍卖价已超300万美元](https://markets.businessinsider.com/news/stocks/xbt-com-surpasses-3m-at-lloyds-auctions-poised-to-be-the-largest-crypto-domain-sale-since-2021-1034515765) - 📰 null - 【XBT.com域名拍卖价已超300万美元】3月26日消息，XBT.com 在劳埃德拍卖行（Lloyds Auctions）上的价格已超过 300 万美元，有望成为 2021 年以来最大的加密域名拍卖。 
+劳埃德拍卖行首席运营官 Lee Hames 表示：这不仅仅是一个域名，更是比特币本身的金融未来和身份，无论谁赢得 XBT.com，都将拥有十年来最伟大的域名和比特币未来的股份，这是一种具有巨大历史和金融意义的数字资产。 
+据悉，XBT.com 起拍价为 2,798,917 美元，此次拍卖将于 3 月 28 日结束。
+- [OpenZK与EigenLayer达成新的合作，探索再质押新应用]() - 📰 null - 【OpenZK与EigenLayer达成新的合作，探索再质押新应用】3月26日消息，OpenZK正在设计桥接EigenLayer再质押功能，使得用户可以在其L2上实现一键质押、再质押ETH等功能，简化流程并最大限度提升资产利用率。EigenLayer的开发者推特Build On Eigen已转发确认。OpenZK预计本次即将推出的再质押产品会增加其网络访问量并为大规模DeFi应用做好准备。
+- [Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元]() - 📰 null - 【Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元】金色财经报道，据Whale Alert监测，加密货币托管服务商Ceffu约5分钟前向币安转入3,311枚BTC，约合2.9亿美元。
+- [CZ：Giggle Academy发布V1.9.0版本，新增奖励中心等功能]() - 📰 null - 【CZ：Giggle Academy发布V1.9.0版本，新增奖励中心等功能】3月26日消息，CZ在其社交平台表示，Web3教育平台Giggle Academy发布V1.9.0版本，新版本的更新包括：改进儿童语音识别、新增奖励中心（积分，不是加密货币）、推荐注册H5页面、StorybookUI升级。
+- [疑似Bybit钱包8小时前向Binance转入2.2万枚ETH]() - 📰 null - 【疑似Bybit钱包8小时前向Binance转入2.2万枚ETH】3月26日消息，据The Data Nerd监测，8小时前，某钱包（可能属于Bybit）向Binance存入了2.2万枚ETH（约4535万美元）。这可能是黑客攻击后，Bybit向Binance的还款。上周，该钱包还将另外2.2万枚ETH存入Binance。
+- [业内人士：聪明钱仍在场外观望，比特币长期持有者等待更高退出价位](https://www.bloomberg.com/news/articles/2025-03-26/bitcoin-btc-rebound-faces-risk-of-bull-trap-amid-macro-uncertainty) - 📰 null - 【业内人士：聪明钱仍在场外观望，比特币长期持有者等待更高退出价位】金色财经报道，比特币本周一触及两周高位后的反弹行情正面临夭折风险，加密货币交易自动化平台CoinPanel交易专家Kirill Kretov警告称：投资者在当前环境中需格外谨慎，市场依然脆弱且极易被操纵，散户活跃度低迷、交易量稀薄，即便所谓的聪明钱也在场外观望，真正有能力推动市场的力量选择按兵不动，这绝非偶然。 
+Kirill Kretov认为，历经前几轮周期的比特币长期持有者仍在坚守仓位，等待更高退出价位，这种惜售行为形成市场抛压，加剧价格波动脆弱性。尽管波动可能清洗过度持仓的散户，但他指出唯有出现长期持有者被迫抛售的彻底出清才能为大型投资者创造建立新仓位的“纯净舞台”。
+- [嘉楠科技第四季度总收入为8880万美元，同比增长80.9%](https://www.prnewswire.com/news-releases/canaan-inc-reports-unaudited-fourth-quarter-and-full-year-2024-financial-results-302411873.html) - 📰 null - 【嘉楠科技第四季度总收入为8880万美元，同比增长80.9%】金色财经报道，嘉楠科技公布2024年第四季度和全年未经审计的财务业绩。2024年第四季度总收入为8880万美元，超过预期的8000万美元，同比增长80.9%。挖矿收入为1530万美元，同比增长312.5%，共开采出186枚比特币。净亏损为9290万美元，而2023年同期为1.39亿美元。 
+2024年全年总收入为2.693亿美元，较2023年的2.115亿美元同比增长27.4%。售出的总算力为2600万TH/s，较2023年的1960万TH/s同比增长32.6%。采矿收入为4,400万美元，较2023年的3,400万美元同比增长29.6%。净亏损为2.498亿美元，同比收窄39.7%。
+- [“木头姐”Cathie Wood拟将旗下基金代币化，或遇监管阻碍]() - 📰 null - 【“木头姐”Cathie Wood拟将旗下基金代币化，或遇监管阻碍】金色财经报道，Cathie Wood 于当地时间周二在纽约举行的数字资产峰会上发表讲话时说：“我们认为代币化将是巨大的，我们希望能够将风险基金 （ARKVX） 或是数字资产革命基金（Digital Asset Revolution Fund）代币化。”但分析认为，虽然Cathie Wood 准备将 Ark Invest 基金代币化，但面临美国监管和法规的阻碍，导致这一进程或将被搁置。
+- [IntoTheBlock：昨日交易平台净流出近19000枚BTC]() - 📰 null - 【IntoTheBlock：昨日交易平台净流出近19000枚BTC】3月26日消息，IntoThe Block发文表示，昨天，交易平台净流出接近19,000枚BTC，主要受到Bitfinex平台流出21,750枚BTC推动。
+- [48个新建钱包持有超100枚BTC](https://x.com/ali_charts/status/1904831693422211354) - 📰 null - 【48个新建钱包持有超100枚BTC】金色财经报道，链上分析师Ali于X发文表示，现在有 48 个新钱包持有超过 100 个BTC，表明鲸鱼的积累量正在不断增加。
+- [Ceffu 向币安转入超 1.4 万枚以太坊，约合 2943 万美元](https://x.com/OnchainDataNerd/status/1904830520992948723) - 📰 null - 【Ceffu 向币安转入超 1.4 万枚以太坊，约合 2943 万美元】金色财经报道，据链上分析师 The Data Nerd 监测，加密货币托管服务商 Ceffu 在 45 分钟前向币安转入 14,222 枚以太坊，约合 2943 万美元。
+- [WalletConnect宣布WCT转让功能将于4月上线]() - 📰 null - 【WalletConnect宣布WCT转让功能将于4月上线】3月26日消息，Web3通信协议WalletConnect宣布WCT转让功能将在4月正式上线，标志着WalletConnect网络、生态系统及链上经济的新篇章。
+- [QCP：波动性进一步回落，BTC短期内有进一步增长空间]() - 📰 null - 【QCP：波动性进一步回落，BTC短期内有进一步增长空间】金色财经报道，QCP Capital发布市场分析称，随着波动性进一步回落，风险资产继续走高。自上周短暂跌破7.7万美元以来BTC已飙升15%，而同期其他加密货币的表现普遍优于大盘。围绕美国贸易政策和更广泛政治格局的不确定性仍然是人们关注的焦点。特朗普在4月2日最后期限前暗示将采取进一步的关税措施，然而市场仍然不清楚这些潜在行动的范围、时间和规模，在此之前预计横向波动会更多，BTC短期内进一步增长空间，因为GameStop (GME) 已将比特币添加到他们的财库中。
+- [Abracadabra已回购650万美元MIM并覆盖50%黑客攻击损失](https://x.com/MIM_Spell/status/1904818549257822687) - 📰 null - 【Abracadabra已回购650万美元MIM并覆盖50%黑客攻击损失】金色财经报道，据Abracadabra Money官方消息，昨日其gmCauldrons产品套件遭遇黑客攻击，导致协议损失约1300万美元的MIM代币。其他产品未受影响。Abracadabra DAO已开始采取措施应对这一事件，包括利用DAO金库的1900万美元资产偿还部分损失，目前已回购650万美元MIM并覆盖了总损失的50%，剩余部分将在未来几个月内逐步吸收，预计于2025年中期完成。
+- [OKX Web3 联合「2025 香港 Web3 嘉年华」开启门票抽奖活动](https://web3.okx.com/web3/marketplace/drops/event/2025-hk-web3) - 📰 null - 【OKX Web3 联合「2025 香港 Web3 嘉年华」开启门票抽奖活动】3月26日消息，「2025香港Web3嘉年华」活动临近，OKX Web3现已开启抽奖活动。完成相应任务，将有机会抽取大会门票1张。参与方式：在OKX Web3钱包寻找大会 NFT 门票购票入口并截图，携带截图与 #OKXWeb3 标签并转发相关推文。 
+据悉，「2025 香港 Web3 嘉年华」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办。活动将于 2025 年 4 月 6 日至 9 日 在香港会议展览中心举办，OKX Web3 是本次活动的冠名赞助商及独家 NFT 门票发行合作伙伴，通过 OKX Web3 钱包购买大会 NFT 门票，可享受限时 85 折购票优惠、NFT 专属验票入场通道、以及持票者专属礼品等多重特别福利。
+- [MistTrack：Circle 冻结某地址近 300 万枚 USDC](https://x.com/MistTrack_io/status/1904817901863133288) - 📰 null - 【MistTrack：Circle 冻结某地址近 300 万枚 USDC】金色财经报道，据链上分析平台 MistTrack 监测，Circle 已冻结 0xbe 开头地址持有的 2,997,180 枚 USDC。该地址同时持有 200.98 枚以太坊和 929,923 枚 USDT，且与多个币安和加密货币交易所地址有交互记录。
+- [Circle冻结0xbe1开头地址299.7万枚USDC]() - 📰 null - 【Circle冻结0xbe1开头地址299.7万枚USDC】3月26日消息，据MistTrack监测，Circle冻结0xbe1开头地址299.7万枚USDC。此外，该地址还持有200.98枚ETH和929,923枚USDT，并且与多个Coinbase和Cryptocom地址进行交互。
