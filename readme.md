@@ -1,34 +1,32 @@
-- [Coinbase将上线Freysa (FAI)]() - 📰 null - 【Coinbase将上线Freysa (FAI)】金色财经报道，Coinbase 将在 Base 网络上增加对 Freysa (FAI) 的支持。如果满足流动性条件，交易将于 2025 年 3 月 27 日上午 9 点（太平洋时间）或之后开始。一旦该资产的供应充足，FAI-USD 交易对将分阶段启动。
-- [美联储穆萨莱姆：不认为经济衰退即将到来](https://www.cls.cn/detail/1984764) - 📰 null - 【美联储穆萨莱姆：不认为经济衰退即将到来】金色财经报道，美联储穆萨莱姆称，预计到2027年通胀率将回落至2%。不认为经济衰退即将到来。
-- [CZ于X账户简介新增付费咨询链接，收入将捐献至慈善机构](https://x.com/cz_binance) - 📰 null - 【CZ于X账户简介新增付费咨询链接，收入将捐献至慈善机构】金色财经报道，Binance 创始人 CZ 在其 X 账户的个人简介中新增付费咨询链接，可直接与其进行私人对话。CZ 称付费咨询获得的收入将捐献至慈善机构。 
-目前向 CZ 发送的首条信息将收取 0.08 BNB 费用，如果 CZ 在 5 天内未回复，用户将自动获得 50% 退款。最大消息长度为 2,000 个字符且不允许添加附件或图片。
-- [美股持续走低 纳指跌幅达2%]() - 📰 null - 【美股持续走低 纳指跌幅达2%】金色财经报道，美股持续走低，纳指跌幅达2%，标普500指数跌1.11%，道指跌0.38%。标普500汽车指数下跌5.6%。大型科技股普跌，特斯拉、英伟达跌超6%，博通跌超5%，台积电跌超4%。
-- [美联储穆萨莱姆：劳动力市场已达到或接近完全就业水平](https://www.cls.cn/detail/1984760) - 📰 null - 【美联储穆萨莱姆：劳动力市场已达到或接近完全就业水平】金色财经报道，美联储穆萨莱姆表示，劳动力市场已达到或接近完全就业水平。考虑到通胀或将超出目标，政策保持现状是合适的。近期通胀可能高于预期，经济增长可能低于预期。
-- [美联储穆萨莱姆：美联储可能需要将利率维持在较高水平更长时间](https://www.cls.cn/detail/1984752) - 📰 null - 【美联储穆萨莱姆：美联储可能需要将利率维持在较高水平更长时间】金色财经报道，美联储穆萨莱姆表示，近期通胀停滞在2%以上或进一步上升的风险似乎已经增加；考虑到美联储正在收集证据证明通胀（正在）回归目标，对当前政策保持耐心是合适的；对假设所有与关税相关的价格上涨都是暂时的持谨慎态度；第二轮效应可能会更加持久；如果劳动市场持续强劲且第二轮关税效应显现，美联储可能需要将利率维持在较高水平更长时间，或考虑更加严格的政策。
-- [币安首批投票上币项目市值多数下跌，BANANAS31市值暂报6610万美元]() - 📰 null - 【币安首批投票上币项目市值多数下跌，BANANAS31市值暂报6610万美元】金色财经报道，据链上数据，币安首批投票上币活动项目中， 
-BANANAS31 市值暂报 6610 万美元； 
-WHY 市值暂报 3300 万美元； 
-SIREN 市值暂报 4910 万美元； 
-Broccoli（CZ's Dog）市值暂报 5240 万美元； 
-Mubarak 市值暂报 1.37 亿美元； 
-KOMA 市值暂报 3620 万美元； 
-TUT 市值暂报 1720 万美元； 
-BID 市值暂报 3770 万美元； 
-Broccoli 市值暂报 1500 万美元。
-- [BANANAS31、WHY成币安首次投票上币活动前二项目](https://www.binance.com/en/square/post/21761942594842) - 📰 null - 【BANANAS31、WHY成币安首次投票上币活动前二项目】金色财经报道，据官方页面信息，币安首批投票上币项目中，BANANAS31（19.4%）、WHY（18.8%）最终排名前二。 
-此前消息，币安宣布启动首次投票上币活动，用户可对已完成官方尽职调查的代币进行投票，最终排名前两位的代币将获币安上线资格。
-- [美国民主党参议院议员沃伦：担心特朗普可能会罢免美联储主席鲍威尔](https://www.cls.cn/detail/1984738) - 📰 null - 【美国民主党参议院议员沃伦：担心特朗普可能会罢免美联储主席鲍威尔】金色财经报道，美国民主党参议院议员沃伦表示，担心总统特朗普可能会罢免美联储主席鲍威尔。
-- [ZachXBT：Hyperliquid官方对朝鲜黑客使用盗窃资金开空无动于衷，却操纵市场价格](https://x.com/zachxbt/status/1904920202560647635) - 📰 null - 【ZachXBT：Hyperliquid官方对朝鲜黑客使用盗窃资金开空无动于衷，却操纵市场价格】金色财经报道，链上侦探 ZachXBT 于 X 平台发文批评 Hyperliquid 称：“令人气愤的是，Hyperliquid 官方可以随意划线操控价格，但当朝鲜黑客们使用 Radiant 盗窃资金在上面持有一定规模的空单仓位时，他们却无动于衷。”
-- [币安推迟MAVIAUSDT永续合约交易时间](https://www.binance.com/zh-CN/support/announcement/864b8bd112a44a8cae14db4dcea159a1) - 📰 null - 【币安推迟MAVIAUSDT永续合约交易时间】金色财经报道，据官方公告，币安原定于 2025 年 3 月 26 日 16：15（UTC）上线的 MAVIAUSDT 永续合约，交易开始时间将推迟至 2025 年 3 月 26 日 17：00（UTC）。
-- [Hyperliquid上HLP TVL骤减至1.98亿美元](https://app.hyperliquid.xyz/vaults/0xdfc24b077bc1425ad1dea75bcb6f8158e10df303) - 📰 null - 【Hyperliquid上HLP TVL骤减至1.98亿美元】金色财经报道，据 Hyperliquid 官网信息，HLP TVL 短时骤减至 1.98 亿美元。 此前消息，HLP TVL 此前高达 2.4 亿美元。
-- [CZ发文再次重申DEX不如CEX](https://x.com/cz_binance/status/1904929331585179879) - 📰 null - 【CZ发文再次重申DEX不如CEX】金色财经报道，CZ 在社交媒体上发文表示：“我知道自己不算聪明。不懂的时候我会承认，也常觉得那些厉害的人一定掌握了什么我不知道的诀窍，才能做到我做不到的事。但偶尔，我会发现：最基础的法则依然适用。” 
-值得注意的是，CZ 该推文引用了此前‘DEX 不如 CEX’的推文。对此 CZ 特意解释称，为避免混淆，该推文与 HL 事件无关。是自己之前尝试用 BSC 链上 AstherusHub 的经历，这是 Labs 投资组合中的项目。他们不显示强平价格且采用自动减仓机制 (ADL)，所以不会出现今天类似的问题。
-- [HYPE现报14.57美元，24小时跌幅11.5%]() - 📰 null - 【HYPE现报14.57美元，24小时跌幅11.5%】金色财经报道，行情显示，HYPE现报14.57美元，24小时跌幅11.5%，行情波动较大，请做好风险控制。
-- [Hyperliquid“拔网线”清算JELLY空单反而获利70.3万美元](https://x.com/lookonchain/status/1904922981073035498) - 📰 null - 【Hyperliquid“拔网线”清算JELLY空单反而获利70.3万美元】金色财经报道，据 Lookonchain 监测，Hyperliquid 在下架 JELLY 前，以 0.0095 美元的价格清算了 3.92 亿枚 JELLY(约合 372 万美元)，没有任何损失，反而获利了 70.3 万美元。
-- [Arthur Hayes：Hyperliquid根本就不是去中心化的](https://x.com/CryptoHayes/status/1904923078431293855) - 📰 null - 【Arthur Hayes：Hyperliquid根本就不是去中心化的】金色财经报道，Arthur Hayes 在社交媒体上发文表示，Hyperliquid 无法处理 JELLY 事件，这根本就不去中心化，更别以为交易员真在乎这事，自己敢打赌 HYPE 很快就会跌回原点。
-- [Hyperliquid回应：委员会经投票决定下架JELLY，用户损失将由基金会全额补偿](https://x.com/HyperliquidX/status/1904923137684496784) - 📰 null - 【Hyperliquid回应：委员会经投票决定下架JELLY，用户损失将由基金会全额补偿】金色财经报道， Hyperliquid 在 Discord 上发布回应表示，在发现可疑市场活动后，验证者委员会经投票决定下架 JELLY 永续合约。 
-除标记地址外，所有用户损失将由 Hyper 基金会全额补偿。补偿将基于链上数据在未来几天自动执行，无需提交工单。具体实施方案将在后续公告中详细说明。与其他公链类似，验证者时常需集体协商并采取果断行动以维护网络完整性。Hyperliquid 将优先升级投票系统的鲁棒性与透明度。 
-另据记录，HLP（Hyperliquid 协议）当前 24 小时净损益约为 70 万 USDC。技术改进将同步推进，本次事件的经验将使网络更趋完善。更多细节即将公布。
-- [AC锐评Hyperliquid HLP清算事件：仓位大小不是杠杆的固定函数，DeFi不应有固定值杠杆](https://x.com/AndreCronjeTech/status/1904907498588364942) - 📰 null - 【AC锐评Hyperliquid HLP清算事件：仓位大小不是杠杆的固定函数，DeFi不应有固定值杠杆】金色财经报道，针对此前”某地址效仿此前 Hyperliquid 上 50 倍杠杆巨鲸操作把 3.98 亿枚 JELLY 空单甩给 Hyperliquid，引发 Hyperliquid 金库面临清算和损失“一事，Sonic Labs 联创 Andre Cronje 于 X 平台发文称：仓位大小不是杠杆的固定函数，而是依赖于可用流动性和实现波动性，小仓位可以是 1000 倍杠杆，大仓位只有 1.2 倍。在 DeFi 中不能有固定值。
-- [Hyperliquid以0.0095美元的有利价格对JELLYJELLY完成结算，没有损失资金](https://x.com/bwenews/status/1904918366575616228) - 📰 null - 【Hyperliquid以0.0095美元的有利价格对JELLYJELLY完成结算，没有损失资金】金色财经报道，据市场消息显示，Hyperliquid 下架 JELLYJELLY 并以 0.0095 美元的有利价格完成结算，没有损失任何资金。
-- [Hyperliquid已下架JELLYJELLY交易对]() - 📰 null - 【Hyperliquid已下架JELLYJELLY交易对】金色财经报道，据 Hyperliquid 官方网站信息，在币安和 OKX 上线 JELLYJELLY 合约后，该平台已下架相关交易功能。
+- [Vitalik于7小时前将250枚ETH转进隐私协议RAILGUN](https://x.com/EmberCN/status/1905064172578316309) - 📰 null - 【Vitalik于7小时前将250枚ETH转进隐私协议RAILGUN】金色财经报道，据链上分析师余烬监测，Vitalik于7小时前将250枚ETH(50万美元)转进隐私协议RAILGUN，Vitalik其实比较经常的使用RAILGUN来进行资金转移，他之前好像提到过这些资金一般是用于捐赠。
+- [30余家加密企业联名促美会澄清“资金传输人”法律定义](https://decrypt.co/311686/crypto-giants-seek-clarity-money-transmitter) - 📰 null - 【30余家加密企业联名促美会澄清“资金传输人”法律定义】金色财经报道，据Decrypt报道，Coinbase、Kraken、Uniswap Labs等34家加密企业与基金会联合致信美国国会，要求澄清司法部对《刑法第1960条》“资金传输人”定义的广泛解释，称其威胁美国本土非托管类软件开发。该条款曾被用于指控Tornado Cash联合创始人Roman Storm，引发行业担忧。DeFi教育基金表示，现行做法可能将普通开发者定罪，呼吁国会明确立法意图，避免“以刑代规”的执法趋势。
+- [民调：Libra丑闻爆发后，57%的阿根廷人不信任总统米莱伊](https://cointelegraph.com/news/57-percent-argentines-dont-trust-president-javier-milei-after-libra) - 📰 null - 【民调：Libra丑闻爆发后，57%的阿根廷人不信任总统米莱伊】金色财经报道，根据最近的一项民意调查，在总统哈维尔·米莱卷入46亿美元的Libra加密货币丑闻后，近58%的阿根廷人表示他们不信任他。 
+“加密货币欺诈丑闻爆发一个多月后，你对米莱伊的信任程度有多高？”民意调查平台Zuban Córdoba在其最近发布的3月份调查中询问了1,600名受访者，其中57.6%的人回答说他们不赞成他，而36%的人表示他们仍然信任米莱伊。
+- [Polyhedra：Web3Port 及其关联企业并非其做市商]() - 📰 null - 【Polyhedra：Web3Port 及其关联企业并非其做市商】3月27日消息，针对近期 Movement、GoPlus 以及 Myshell 的相关争议，Polyhedra Network 发布声明表示，“Web3Port 及其关联企业并非我们的做市商，我们从未与任何不负责任的公司展开做市合作，也不会在未来使用此类企业提供做市服务。”
+- [IBIT昨日净流入1.0837亿美元](https://x.com/thepfund/status/1905062614608269795) - 📰 null - 【IBIT昨日净流入1.0837亿美元】金色财经报道，据Trader T监测，IBIT昨日净流入1.0837亿美元。
+- [美国参议院投票废除DeFi经纪人规则，预计特朗普将签署成为法律](https://www.theblock.co/post/348358/senate-votes-to-repeal-controversial-irs-rule-trump-expected-to-sign?utm_source=twitter&utm_medium=social) - 📰 null - 【美国参议院投票废除DeFi经纪人规则，预计特朗普将签署成为法律】金色财经报道，美国参议院在周三晚间以70票对28票通过了废除国税局（IRS）DeFi经纪人规则的决议，该规则是特朗普政府上台前几周最终确定的。该决议将送交总统唐纳德·特朗普，预计他将签署成为法律。白宫加密货币人工智能和加密货币沙皇大卫·萨克斯表示，特朗普的高级顾问计划建议他这么做。 
+德克萨斯州共和党参议员泰德·克鲁兹和俄亥俄州共和党众议员迈克·凯里提出了一项联合决议，以废除在拜登政府最后几天于12月底最终确定的国税局规则。 
+该规则要求某些“去中心化金融行业参与者”像传统证券经纪人一样运营，要求他们收集和报告用户交易数据。它还要求他们向客户发放1099表税务申报，报告非雇佣收入，如赌博赢利、租金和版税。根据美国财政部的说法，最终确定的规则适用于与“客户直接互动”的“前端服务提供商”，表明其针对的是运行访问去中心化协议的主要网站的实体，而不是协议本身。
+- [Sam Altman更换吉卜力动画风格个人头像]() - 📰 null - 【Sam Altman更换吉卜力动画风格个人头像】金色财经报道，OpenAI CEO Sam Altman今晨更换了X平台个人头像，新头像采用了吉卜力动画风格。Altman发文表示：“更换了我的头像，不过也许有人会为我制作一个更好的。” 
+另外，马斯克等多位名人于 X 平台发布吉卜力主题 AI 图片。或受此影响，meme币Ghiblification上线15小时市值突破1500万美元，现报1598万美元，成交额达4880万美元。
+- [ReachMe澄清平台无任何官方代币，提醒用户警惕相关诈骗](https://x.com/reachme_io/status/1904977688705765563) - 📰 null - 【ReachMe澄清平台无任何官方代币，提醒用户警惕相关诈骗】金色财经报道，ReachMe官方发文澄清该平台无任何官方代币，提醒用户警惕相关诈骗。此前消息，CZ通过ReachMe上线付费咨询服务，收入将捐献慈善机构。
+- [David Sacks：一切技术都在为AI代理铺路，这将是史上最大技术浪潮](https://x.com/DavidSacks/status/1639869665831944193) - 📰 null - 【David Sacks：一切技术都在为AI代理铺路，这将是史上最大技术浪潮】金色财经报道，白宫加密和AI主管David Sacks在X平台发文表示，“一切都在为AI代理（agents）铺路。这将是有史以来最大的技术浪潮。” 
+此前Sacks在2023年的一篇推文中写道，“每一波新技术浪潮都会让之前的浪潮被重新解读为铺垫：个人电脑-将大型机缩小，让每个人都能拥有一台；互联网-我们终于有了一堆可以在电脑上做的事情；社交媒体-上网的真正目的是与他人互动；移动设备-实际上个人电脑并不那么‘个人化’，手机才是真正的个人计算设备。AI-我们给计算机无处不在的访问权限的原因是让它为我们解决问题。AI是迄今为止最大的浪潮。”
+- [Tether收购意大利媒体公司Be Water 30%股份](https://www.bloomberg.com/news/articles/2025-03-26/tether-is-buying-a-30-stake-in-italian-media-company-be-water?srnd=phx-crypto) - 📰 null - 【Tether收购意大利媒体公司Be Water 30%股份】金色财经报道，据Bloomberg报道，稳定币发行商Tether将斥资约1000万欧元收购意大利媒体公司Be Water 30%股份。Be Water旗下包括播客制作公司Chora Media、Will Media及影视制作发行商Be Water Film。 
+此次交易是Tether近期投资热潮的一部分，其此前已涉足农业、AI、脑机接口等领域。Tether当前USDT市值约1440亿美元，主要由美债等高流动性资产支持。
+- [1,000枚BTC从未知钱包转移至Kraken](https://x.com/whale_alert/status/1905055846637220130) - 📰 null - 【1,000枚BTC从未知钱包转移至Kraken】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间上午8:34左右，1,000枚BTC （87,104,117美元）从未知钱包转移至Kraken。
+- [BNB突破620美元]() - 📰 null - 【BNB突破620美元】金色财经报道，行情显示，BNB突破620美元，现报620.1美元，24小时跌幅达到1.47%，行情波动较大，请做好风险控制。
+- [盈透证券新增支持SOL、ADA、XRP、DOGE交易服务](https://www.bloomberg.com/news/articles/2025-03-26/interactive-brokers-adds-crypto-tokens-associated-with-trump?utm_source=twitter&utm_content=crypto&utm_campaign=socialflow-organic&utm_medium=social) - 📰 null - 【盈透证券新增支持SOL、ADA、XRP、DOGE交易服务】金色财经报道，在线券商盈透证券（Interactive Brokers Group Inc.）正在向其交易平台添加四种加密货币，这些加密货币在唐纳德·特朗普总统拥抱数字资产领域期间备受关注。 
+根据这家总部位于康涅狄格州格林威治的公司周三发布的声明，客户将能够在用于股票、期权、期货、货币、债券和共同基金的同一平台上访问Solana、Cardano、XRP和Dogecoin代币。该公司已经提供比特币、以太坊、莱特币和比特币现金交易。
+- [BTC突破87000美元]() - 📰 null - 【BTC突破87000美元】金色财经报道，行情显示，BTC突破87000美元，现报87026.32美元，24小时跌幅达到0.62%，行情波动较大，请做好风险控制。
+- [Bitget CEO质疑Hyperliquid风控机制，警示其或成为下一个FTX](https://x.com/GracyBitget/status/1904941729834557453) - 📰 null - 【Bitget CEO质疑Hyperliquid风控机制，警示其或成为下一个FTX】金色财经报道，Bitget CEO Gracy Chen公开批评Hyperliquid在JELLY事件中的处置方式，指出该平台：强制平仓操作涉嫌价格操纵；混合资金池设计存在系统性风险；未实施KYC/AML引发洗钱担忧。 
+Chen警告称，若平台不解决产品设计缺陷和信任危机，可能成为“下一个FTX”。此次争议源于Hyperliquid此前关闭JELLY交易对并强制按特定价格平仓的操作。
+- [特朗普或将向欧盟征收约20%关税，且不会有任何豁免或例外]() - 📰 null - 【特朗普或将向欧盟征收约20%关税，且不会有任何豁免或例外】金色财经报道，欧盟预计，美国总统特朗普将于 4 月 2 日宣布的“对等关税”计划中，针对欧盟全境的关税税率将达到两位数水平。据知情人士透露，美方拟对欧盟采取统一税率，而非针对成员国设定差异化标准。本周，欧盟贸易专员塞夫科维预计，特朗普将在下周对欧盟征收约 20% 的关税。而且美国没有表示会有任何豁免或例外。 
+据首位听取谈判简报的官员称，塞夫科维奇警告美国官员，对从欧盟进口的商品征收 20% 的关税，对欧盟将是“毁灭性的”。美国的关税水平将高于上世纪 50 年代末欧盟创始成员国推出共同贸易政策以来的任何阶段。 
+知情人士称，谈判未取得实质性进展，欧盟已无力阻止关税落地。由于需评估具体细则，欧盟的报复性措施或将延后出台。（金十）
+- [Monad：关注者回复地址将获得空投NFT](https://x.com/monad_xyz/status/1905003274802995328) - 📰 null - 【Monad：关注者回复地址将获得空投NFT】金色财经报道，Monad今晨发布仅限关注者才能阅读的私密推文，提示关注者回复地址以获取空投NFT。 
+昨日消息，Monad在其官方X平台发文表示，为庆祝X账号粉丝数突破100万，早期X账户追随者将获得纪念性灵魂绑定NFT。
+- [Taproot Wizards将于今晚11时开启荷兰拍](https://x.com/TaprootWizards/status/1904942494715879680) - 📰 null - 【Taproot Wizards将于今晚11时开启荷兰拍】金色财经报道，据官方消息，比特币生态NFT项目Taproot Wizards将于今晚11时开启荷兰拍，起拍价为0.42 BTC，价格每3分钟下跌0.01 BTC。此次竞拍共80枚NFT，支持使用比特币和SOL参与竞拍。
+- [怀俄明州稳定币WYST进入关键测试阶段]() - 📰 null - 【怀俄明州稳定币WYST进入关键测试阶段】金色财经报道，据美国怀俄明州州长发布的公告，怀俄明稳定币委员会宣布其法币支持、完全储备的WYST稳定币已进入多链测试阶段，部署于Avalanche、Solana、Ethereum等测试网。WYST由公立实体发行，是美国首个此类项目，测试预计持续至2025年第二季度，计划7月正式上线，合作方包括LayerZero与Stargate。WYST将通过现金及美债超额抵押，并将利息注入州教育基金。
+- [VanEck顾问：加密货币行业犯下的最大错误之一就是未能自我监管](https://x.com/gaborgurbacs/status/1905045767544336415) - 📰 null - 【VanEck顾问：加密货币行业犯下的最大错误之一就是未能自我监管】金色财经报道，Tether策略及VanEck顾问GaborGurbacs于X平台发文表示，加密货币行业犯下的最大错误之一就是未能自我监管。我们最终面临过多的监管 + 自上而下的高影响力，同时也出现了太多的骗局/骗子。 
+只有平衡的、市场驱动的自我监管才能带来持久的持久力。
