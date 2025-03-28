@@ -1,24 +1,33 @@
-- [美国政府地址转移97.336枚BTC，约846万美元](https://intel.arkm.com/explorer/address/bc1q7qf075up5nkd6hejgkmr9ms0fal97w35asrs55) - 📰 null - 【美国政府地址转移97.336枚BTC，约846万美元】金色财经报道，据 Arkham 数据，大约半小时前，美国政府地址向 bc1q7q 开头地址转移 97.336 枚 BTC，约 846 万美元。
-- [币安将上线MUBARAK、BROCCOLI714、TUT和BANANAS31](https://www.binance.com/zh-CN/support/announcement/detail/6e3391cffa774b2a9711e8597a618edb) - 📰 null - 【币安将上线MUBARAK、BROCCOLI714、TUT和BANANAS31】金色财经报道，币安公布首批投票上币结果，将于 2025 年 03 月 28 日 05:00（东八区时间）上线Mubarak（MUBARAK）、CZ'S Dog （BROCCOLI714）、Tutorial (TUT)、Banana For Scale (BANANAS31) 并应用种子标签。并开放以下现货交易对：MUBARAK/USDT、MUBARAK/USDC、BROCCOLI714/USDT、BROCCOLI714/USDC、TUT/USDT、TUT/USDC、BANANAS31/USDT、BANANAS31/USDC。
-- [法国国有银行Bpifrance推出2500万欧元基金，用于投资法国新兴加密代币]() - 📰 null - 【法国国有银行Bpifrance推出2500万欧元基金，用于投资法国新兴加密代币】金色财经报道，据路透社消息，法国国有银行 Bpifrance 推出 2500 万欧元基金，用于投资法国新兴加密代币。
-- [YZi Labs将举办黑客马拉松，表现出色项目有机会获孵化与投资](https://x.com/yzilabs/status/1905298553947517016) - 📰 null - 【YZi Labs将举办黑客马拉松，表现出色项目有机会获孵化与投资】金色财经报道，YZi Labs 将黑客马拉松，关注人工智能和区块链驱动的金融科技解决方案。在 4 月 12 日举办线下黑客马拉松，4 月 13 日至 27 日举办线上黑客马拉松除了黑客马拉松。表现出色的建设者将有机会加入 YZi Labs 孵化计划，获得 YZi Labs 的直接投资。
-- [Coinbase宣布开源MPC加密库](https://x.com/CoinbaseInsto/status/1905296276662386762) - 📰 null - 【Coinbase宣布开源MPC加密库】金色财经报道， Coinbase 宣布开源 MPC 加密库，并表示虽然这项技术已经有助于保护 Coinbase 资产，但通过将其开源来提高整个行业的安全标准。
-- [美国参议院银行委员会对Paul Atkins等提名人的投票具体日期待定](https://x.com/EleanorTerrett/status/1905292585825861817) - 📰 null - 【美国参议院银行委员会对Paul Atkins等提名人的投票具体日期待定】金色财经报道， 加密记者 Eleanor Terrett 在 X 平台发文称，据美国参议院助理透露，今天参议院银行委员会不会对 Paul Atkins 或其他提名人进行投票，这是惯例。提名人将被要求在投票前回答提交记录的问题。投票将在稍后进行，具体日期待定。
-- [Hyperliquid：ETH存取款和现货交易已上线](https://x.com/HyperliquidX/status/1905293958835818573) - 📰 null - 【Hyperliquid：ETH存取款和现货交易已上线】金色财经报道， Hyperliquid 在 X 平台发文称，ETH 存款、取款和现货交易现已上线。
-- [加密风投Maven 11旗下第三只基金完成1.07亿美元募资](https://www.theblock.co/post/348474/crypto-vc-maven-11-third-fund?utm_source=twitter&utm_medium=social) - 📰 null - 【加密风投Maven 11旗下第三只基金完成1.07亿美元募资】金色财经报道， 加密风投 Maven 11 旗下第三只基金完成 1.07 亿美元募资，该募资规模高于最初的 1 亿美元目标，但低于预期。Maven 11 的首席投资官兼管理合伙人 Balder Bomans 表示，鉴于当前总体市场状况，资本提供者对风险投资更加敏感。
-- [Tether跨链稳定币USDT0已部署至Optimism Superchain](https://cointelegraph.com/news/tether-crosschain-usdt0-op-superchain) - 📰 null - 【Tether跨链稳定币USDT0已部署至Optimism Superchain】金色财经报道，Tether 跨链稳定币 USDT0 已部署至 Optimism Superchain，Optimism 宣布 USDT0 现已在 OP 主网上线。Superchain 是一个二层链网络，旨在通过 Optimism 的 OP Stack 扩展以太坊，部署 USDT0 有望推动 Superchain 吸引更多头部资产、应用和合作伙伴加入。
-- [Taproot Wizards：所有剩余NFT已售罄，预计将在24小时内向铸造者分发](https://x.com/TaprootWizards/status/1905282482339008728) - 📰 null - 【Taproot Wizards：所有剩余NFT已售罄，预计将在24小时内向铸造者分发】金色财经报道，比特币 NFT 项目 Taproot Wizards 在社交平台发文表示，“所有剩余的 Taproot Wizards 已售罄，最终结算价格为 0.31BTC。预计将在未来 24 小时内向铸造者分发 Taproot Wizards。”
-- [Jupiter推出Quick Accounts，支持即时无签名交易](https://x.com/JupiterExchange/status/1905269183006609608) - 📰 null - 【Jupiter推出Quick Accounts，支持即时无签名交易】金色财经报道，Jupiter 宣布推出 Quick Accounts，据悉，Quick Accounts 是嵌入 Jupiter 的钱包，可进行即时无签名交易，并且支持以类似机器人的性能进行交易。
-- [Circle推出软件开发套件USDCKit，简化USDC支付集成与自动化操作](https://www.circle.com/blog/introducing-usdckit-seamless-scalable-payment-flows-with-usdc) - 📰 null - 【Circle推出软件开发套件USDCKit，简化USDC支付集成与自动化操作】金色财经报道， Circle 宣布推出 USDCKit，这是一个开发者友好的 SDK（软件开发包），供 PSP 集成和自动化 USDC 支付，支持大规模操作。 
-据悉，USDCKit 专为 Circle Wallets 打造，可实现跨境支付并通过稳定币简化资金运营。
-- [美SEC候任主席Paul Atkins：若提名得到确认将会与DOGE合作](https://x.com/NaeemAslam23/status/1905279808658932146) - 📰 null - 【美SEC候任主席Paul Atkins：若提名得到确认将会与DOGE合作】金色财经报道，美国证券交易委员会主席提名人 Paul Atkins 出席参议院银行、住房和城市事务委员会的确认听证会，他表示若提名得到确认，将会与马斯克的政府效率部（DOGE）合作。
-- [今日美国比特币ETF净流入1030枚BTC，以太坊ETF净流出1433枚ETH](https://x.com/lookonchain/status/1905272508301123895) - 📰 null - 【今日美国比特币ETF净流入1030枚BTC，以太坊ETF净流出1433枚ETH】金色财经报道，据 Lookonchain 监测，今日 10 只美国比特币 ETF 净流入 1030 枚 BTC，其中贝莱德流入 1250 枚 BTC，目前贝莱德持有 575811 枚 BTC，价值约合 501.4 亿美元；9 只以太坊 ETF 净流出 1433 枚 ETH，其中灰度以太坊迷你信托基金流出 850 枚 ETH，当前灰度以太坊迷你信托基金持有 458884 枚 ETH，价值约合 9.28 亿美元。
-- [USDC Treasury于以太坊链上再次新增铸造5000万枚USDC](https://x.com/whale_alert/status/1905282143816683753) - 📰 null - 【USDC Treasury于以太坊链上再次新增铸造5000万枚USDC】金色财经报道，据 Whale Alert 监测，2 分钟前，USDC Treasury 于以太坊链上再次新增铸造 5000 万枚 USDC。
-- [Abound完成1400万美元融资](https://techcrunch.com/2025/03/27/times-internet-spin-out-abound-raises-14m-to-let-more-indian-americans-send-money-home/) - 📰 null - 【Abound完成1400万美元融资】金色财经报道，汇款应用 Abound 宣布完成 1400 万美元融资， NEAR Foundation 领投，Circle Ventures、Times Internet 和其他投资者参投，该公司计划利用新资金扩大业务范围、增加产品种类、以及改善技术基础设施，并且计划逐步进入加拿大、新加坡和阿联酋等市场。
-- [PlanB：相较于黄金和房地产市场，比特币似乎被严重低估](https://x.com/100trillionUSD/status/1905277346497651112) - 📰 null - 【PlanB：相较于黄金和房地产市场，比特币似乎被严重低估】金色财经报道，分析师 PlanB 表示，“相较于黄金和房地产市场，比特币似乎被严重低估。比特币市值为 2 万亿美元，而黄金为 20 万亿美元。比特币的稀缺性（S2F 比率）为 120 年，而黄金为 60 年。”
-- [USDC Treasury于以太坊链上新增铸造5000万枚USDC](https://x.com/whale_alert/status/1905274741176381832) - 📰 null - 【USDC Treasury于以太坊链上新增铸造5000万枚USDC】金色财经报道，据 Whale Alert 监测，北京时间今日 23:10 左右，USDC Treasury 于以太坊链上新增铸造 5000 万枚 USDC。
-- [Coinbase Advanced将上线BNB永续合约](https://x.com/coinbasetraders/status/1905275725495898554) - 📰 null - 【Coinbase Advanced将上线BNB永续合约】金色财经报道， Coinbase Advanced 正在增加对 BNB 永续合约的支持，BNB-PERP 市场将于 2025 年 4 月 3 日（UTC）上午 9:30 或之后开放。
-- [尼日利亚部长称币安曾被恐怖分子和绑架者利用转移资金](https://www.dlnews.com/articles/regulation/binance-allowed-terrorists-access-to-crypto-in-nigeria/?utm_source=twitter&utm_medium=organic_social&utm_campaign=) - 📰 null - 【尼日利亚部长称币安曾被恐怖分子和绑架者利用转移资金】金色财经报道，尼日利亚与币安的长期法律冲突不断升级，一名政府部长周四表示，恐怖分子和绑架者通过该平台上的加密交易转移资金。 
-政府信息部长 Alhaji Mohammed Idris表示： “我们偶然发现了将币安的运营与这些犯罪分子（恐怖分子之流）联系起来的证据。我们对不安全的担忧因币安的运营而加剧。” 
-在两起刑事案件中，币安被指控协助洗钱和逃税。在另一起案件中，税务机关指控该公司欠尼日利亚政府高达 810 亿美元的“经济活动损失”。这三起案件都将很快开庭审理。 
-币安对两起刑事案件表示不认罪并否认了指控，并且没有对这起 810 亿美元的案件发表评论。
+- [腾讯11.6亿欧元入股育碧新子公司持股25%，交易预计年底前完成](https://www.bloomberg.com/news/articles/2025-03-27/ubisoft-carves-out-top-games-tencent-invests-1-16-billion) - 📰 null - 【腾讯11.6亿欧元入股育碧新子公司持股25%，交易预计年底前完成】金色财经报道，据彭博社报道，育碧（Ubisoft）将旗下《刺客信条》《孤岛惊魂》《彩虹六号》等热门游戏IP拆分为一个估值约40亿欧元（约43亿美元）的新子公司。腾讯控股将斥资11.6亿欧元收购该子公司25%的股权，新实体将持有这些游戏的IP许可权，并通过收取特许权使用费进行运营。 
+此次交易预计于2025年底前完成，育碧将利用出售所得资金偿还债务，并支持其他游戏系列的发展。
+- [美国现货以太坊ETF昨日净流出422万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流出422万美元】金色财经报道，据Farside Investors监测，昨日美国现货以太坊ETF净流出422万美元。
+- [美国现货比特币ETF昨日净流入8903万美元](https://x.com/thepfund/status/1905425204299657691) - 📰 null - 【美国现货比特币ETF昨日净流入8903万美元】金色财经报道，据Trader T监测，美国现货比特币ETF昨日净流入8903万美元。
+- [IBIT昨日净流入393 万美元](https://x.com/thepfund/status/1905424499367166396) - 📰 null - 【IBIT昨日净流入393 万美元】金色财经报道，据TraderT监测，IBIT昨日净流入393万美元。
+- [某LAYER鲸鱼将870万枚LAYER转进币安，盈利463万美元](https://x.com/EmberCN/status/1905422966957228102) - 📰 null - 【某LAYER鲸鱼将870万枚LAYER转进币安，盈利463万美元】金色财经报道，据链上分析师余烬监测，一个月前以0.75美元的价格囤积LAYER的鲸鱼/机构，在20分钟前将870万枚LAYER(1114万美元)以1.26美元的价格转进币安，盈利463万美元。 
+这870万枚LAYER是在一个月前从币安提出，当时LAYER价格是$0.75美元，价值651万美元，20分钟前全部转进币安，现在的LAYER价格是1.26美元，价值1114万美元，盈利463万美元。
+- [南卡罗来纳州撤销对Coinbase的质押诉讼](https://x.com/iampaulgrewal/status/1905359390498324536) - 📰 null - 【南卡罗来纳州撤销对Coinbase的质押诉讼】金色财经报道，Coinbase首席法务官Paul Grewal在X平台表示，南卡罗来纳州已加入佛蒙特州（的步伐），撤销了对Coinbase的质押（staking）诉讼。Grewal表示，质押服务将很快恢复对南卡罗来纳州用户开放，这不仅是Coinbase的胜利，更是美国消费者的胜利。他希望这一决定能影响仍对质押服务有限制的其他州。 
+Grewal补充称，由于此案，南卡罗来纳州用户损失了约200万美元的质押奖励，美国5200万加密货币持有者理应享有合理的消费者保护和明确的法规。他对南卡罗来纳州总检察长Alan Wilson在解决此事上的努力表示赞赏，并希望其他限制质押的州能够关注这一变化。
+- [IMF发言人：正评估特朗普关税计划影响，认为美国不会出现经济衰退]() - 📰 null - 【IMF发言人：正评估特朗普关税计划影响，认为美国不会出现经济衰退】金色财经报道，国际货币基金组织（IMF）发言人Julie Kozack周四表示，该组织正在继续评估美国总特朗普的关税计划（包括其新的25%汽车关税）所带来的影响，但其基线预测并未预见美国会出现经济衰退。 
+Kozack在IMF例行新闻发布会上被问及特朗普的关税计划时称，对加拿大和墨西哥商品征收的关税如果持续，将对这些国家的经济前景产生"重大不利影响"，但她拒绝提供具体细节。她表示，IMF 正在继续评估特朗普宣布的各种关税措施对其他地区的影响。（金十）
+- [OpenAI CEO：新版GPT-4o在编程、指令遵循和灵活性方面表现更佳](https://x.com/sama/status/1905419197120680193) - 📰 null - 【OpenAI CEO：新版GPT-4o在编程、指令遵循和灵活性方面表现更佳】金色财经报道，OpenAI CEO Sam Altman在X平台发文表示，最新版本的GPT-4o在编程能力、执行复杂指令和提供更高自由度方面有显著提升。
+- [参议员沃伦在SEC主席提名听证会上猛烈抨击Paul Atkins](https://x.com/CoinDesk/status/1905290359623598385) - 📰 null - 【参议员沃伦在SEC主席提名听证会上猛烈抨击Paul Atkins】金色财经报道，据CoinDesk消息，美国参议员Elizabeth Warren在Paul Atkins出任SEC主席的提名听证会上对其提出严厉批评，指责Atkins长期为亿万富翁CEO（如Sam Bankman-Fried）谋利，并帮助这些人变得更加富有。沃伦还表示：“他在美国自大萧条以来最大的金融危机前夕几乎所有判断都出错，这样的履历不值得被提拔。”
+- [昨日FBTC净流入9710万美元，FETH净流出200万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流入9710万美元，FETH净流出200万美元】金色财经报道，据Farside监测，昨日FBTC净流入9710万美元，FETH净流出200万美元。
+- [BTC跌破87000美元]() - 📰 null - 【BTC跌破87000美元】金色财经报道，行情显示，BTC跌破87000美元，现报86999.74美元，24小时涨幅达到0.19%，行情波动较大，请做好风险控制。
+- [Hyperliquid优化风险管理机制并将补偿JELLY多头用户]() - 📰 null - 【Hyperliquid优化风险管理机制并将补偿JELLY多头用户】3月28日消息，据Hyperliquid公告，因JELLY市场异常交易事件，持有JELLY多头头寸的用户将在结算时按0.037555的价格获得补偿，除标记地址外，此次补偿对所有JELLY交易者均有利。Hyperliquid已加强风险管理，包括： 
+• HLP Liquidator管理： 设置更严格的账户价值上限，减少再平衡频率，并引入更复杂的回购清算逻辑。Liquidator若损失超出阈值，将触发ADL而非自动动用其他组件抵押品。 
+• OI上限动态调整： 开放兴趣上限将根据市值动态调整。 
+• 资产下架机制： 验证者将通过链上投票对低于阈值的资产进行下架处理。 
+Hyperliquid承诺将继续优化系统并提升风险防范能力。
+- [调查：投资者对美股的悲观情绪接近空前水平]() - 📰 null - 【调查：投资者对美股的悲观情绪接近空前水平】金色财经报道，美国个人投资者协会的调查显示，对美股的看跌情绪连续第五周超过50%。根据Bespoke Investment Group，这创下自1987年开始这项调查问卷以来持续时间第二长的连续看跌记录。本周早些时候高盛的数据显示，对冲基金对美国个股的净卖出规模达到七周以来最高水平，其中做空操作超过做多买入。(金十)
+- [CoreWeave以每股40美元完成IPO，融资15亿美元](https://www.coindesk.com/markets/2025/03/27/coreweave-goes-public-at-usd40-per-share-raises-usd1-5-billion?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social) - 📰 null - 【CoreWeave以每股40美元完成IPO，融资15亿美元】金色财经报道，专注于人工智能的云服务公司CoreWeave成功完成首次公开募股（IPO），以每股40美元的价格筹集15亿美元，公司估值达到约230亿美元。由于股市低迷，公司将IPO规模从最初计划的4900万股（每股47-55美元）缩减至3750万股。 
+AI巨头Nvidia作为CoreWeave的投资者，在此次IPO中认购了价值2.5亿美元的股份，加强了其在该AI云服务公司的持股地位。CoreWeave与比特币矿企CoreScientific有着深厚的联系，此前双方达成了一项数十亿美元的合作协议，以提升CoreScientific的AI能力。值得注意的是，Nvidia今年以来股价已下跌12%，反映出整体AI板块的疲软。
+- [南卡罗来纳州比特币储备法案将允许部署州资金的10%投资比特币，上限为100万枚BTC]() - 📰 null - 【南卡罗来纳州比特币储备法案将允许部署州资金的10%投资比特币，上限为100万枚BTC】3 月 28 日消息，据 Bitcoin Laws 披露，南卡罗来纳州比特币储备法案（H4256 法案）将允许州财政部长将州资金的 10% 投资于比特币。比特币储备的上限为 100 万枚 BTC。该法案由众议员 Jordan Pace 提出。
+- [现货黄金再刷新高，站上3060美元]() - 📰 null - 【现货黄金再刷新高，站上3060美元】3月28日消息，现货黄金站上3060美元/盎司，再次刷新历史新高，年内迄今涨幅已超16%。
+- [405,353枚SOL从未知钱包转入Coinbase Institutional，价值超5600万美元]() - 📰 null - 【405,353枚SOL从未知钱包转入Coinbase Institutional，价值超5600万美元】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间上午8:05左右，405,353枚SOL（56,011,998美元）从未知钱包转入Coinbase Institutional。
+- [马斯克：乌克兰的冲突将通过和平谈判结束]() - 📰 null - 【马斯克：乌克兰的冲突将通过和平谈判结束】金色财经报道，马斯克表示，乌克兰的冲突将通过和平谈判结束。(金十)
+- [ETH跌破2000美元]() - 📰 null - 【ETH跌破2000美元】金色财经报道，行情显示，ETH跌破2000美元，现报1999.47美元，24小时跌幅达到0.59%，行情波动较大，请做好风险控制。
+- [金色财经整理：过去24小时融资信息一览（3月28日）]() - 📰 null - 【金色财经整理：过去24小时融资信息一览（3月28日）】1.Abound完成1400万美元融资； 
+2.Arcium完成天使轮融资，总融资额达1100万美元； 
+3.De Charge 完成 250 万美元种子轮融资，Lemniscap 领投； 
+4.Warlock Labs完成800万美元融资，Polychain Capital领投； 
+5.AI 代理项目 Capx AI 完成 314 万美元种子轮融资，Manifold 等领投。
