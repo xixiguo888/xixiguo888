@@ -1,35 +1,32 @@
-- [Michael Saylor：许多代币发行方并不想去中心化，而是渴望进入资本市场](https://x.com/CoinDesk/status/1905654949368766828) - 📰 null - 【Michael Saylor：许多代币发行方并不想去中心化，而是渴望进入资本市场】金色财经报道，Strategy（原MicroStrategy）创始人Michael Saylor表示，许多代币发行方正在“假装”进行去中心化，但实际上他们并不想去中心化，而是渴望进入资本市场。 
-数字代币的用例是用于创造资本和创新，不管是TRUMP币，或是Katy Perry、Joe Rogan这样的人去发币，无论是智能合约代币、还是实用代币（比如能让我访问网站上的音乐库），或者可能是一个超级复杂的代币和/或NFT，其实非常便捷。但如果注册为证券则需要投入大量成本，你需要律师和会计师，每年还要投入巨资确保合规性。
-- [数据：排名前十的稳定币交易量已降至去年 12 月牛市水平的四分之一](https://x.com/Cointelegraph/status/1905847559102386448) - 📰 null - 【数据：排名前十的稳定币交易量已降至去年 12 月牛市水平的四分之一】3月29日消息，据 Cointelegraph 报道，排名前十的稳定币交易量已降至去年 12 月牛市周期水平的四分之一。分析师认为，交易员疲劳、监管不确定性以及比特币供应量创下 7 年新低是关键因素。
-- [价值2.38 亿美元的ETH或面临清算风险](https://x.com/lookonchain/status/1905842625242104073) - 📰 null - 【价值2.38 亿美元的ETH或面临清算风险】金色财经报道，随着ETH价格下跌，这两位鲸鱼在Maker持有的 125,603 ETH （2.38 亿美元）再次面临清算的风险。 
-健康费率已降至 1.07 美元，清算价格分别为 1,805 美元和 1,787 美元。
-- [以太坊期货溢价创近一年新低，Pectra升级将成关键转折节点](https://cointelegraph.com/news/ethereum-futures-premium-hits-1-year-low-is-it-time-to-buy-the-eth-bottom) - 📰 null - 【以太坊期货溢价创近一年新低，Pectra升级将成关键转折节点】金色财经报道，据 Cointelegraph 报道，以太坊期货溢价触及近一年最低点，交易员将其视为底部信号，市场或将迎来转折时刻。 
-同时，距离以太坊 Pectra 升级仅剩数周，投资者需重点关注两大革新：基础层手续费优化与终端用户体验提升。若升级能实质性增强网络竞争力，ETH 或将在山寨币市场中重拾领导地位。在此之前市场仍将维持弱势震荡格局。
-- [一鲸鱼花费1,906枚ETH购买了20,654枚AAVE](https://x.com/lookonchain/status/1905839443715805575) - 📰 null - 【一鲸鱼花费1,906枚ETH购买了20,654枚AAVE】金色财经报道，5小时前，一名鲸鱼花费1,906枚ETH（360万美元）购买了20,654枚AAVE。
-- [Monad 宣布 Monad Madness HongKong 最终入选名单](https://x.com/monad_eco/status/1905644150357459067) - 📰 null - 【Monad 宣布 Monad Madness HongKong 最终入选名单】金色财经报道，据官方消息，Monad 宣布 Monad Madness HongKong 最终入选名单，共有 16 个项目将在 4 月 9 日进行分享，总奖金 200 万港元。 
-据悉，Monad Madness 是 Monad 推出的重要活动，这将是任何在其平台上构建项目的团队所能获得的最大舞台。活动将为每个比赛地点挑选不同的团队参与竞争，超过 60 家风险投资机构将观看路演，已表达的投资意向超过 6000 万美元。
-- [美国现货以太坊ETF昨日净流入470万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流入470万美元】金色财经报道，据FarsideInvestors监测，美国现货以太坊ETF昨日净流入470万美元。
-- [金色午报 | 3月29日午间重要动态一览]() - 📰 null - 【金色午报 | 3月29日午间重要动态一览】7:00-12:00关键词：Vitalik、巴西、CFTC 
-1.Vitalik：应少谈论公共产品资助，多谈论开源资助； 
-2.特朗普：任何关税协议都将在4月2日措施生效后达成； 
-3.巴西某高级官员：比特币储备对巴西繁荣“至关重要”； 
-4.美参议员质疑特朗普WLFI推出USD1稳定币带来监管风险； 
-5.CFTC撤销两项数字资产相关员工咨询意见，消除数字衍生品监管差异； 
-6.David Sacks：FDIC让银行更容易参与加密活动，将进一步推动加密主流化。
-- [索尼旗下Soneium已在Stargate上线](https://x.com/StargateFinance/status/1905711562775765461) - 📰 null - 【索尼旗下Soneium已在Stargate上线】金色财经报道，基于LayerZero的跨链桥Stargate在X平台发文称， 索尼旗下Soneium已在Stargate上线并加入其Hydra Chain网络，现将支持超过50个区块链上原生资产和OFT访问Soneium，以提升流动性和互操作性。
-- [Vitalik：应少谈论公共产品资助，多谈论开源资助](https://vitalik.eth.limo/general/2025/03/29/pubos.html) - 📰 null - 【Vitalik：应少谈论公共产品资助，多谈论开源资助】金色财经报道，Vitalik 发布《We should talk less about public goods funding and more about open source funding》的文章，文中指出“公共产品”这个文字有着百年的历史。 在数字生态系统中，尤其是去中心化的数字生态系统中，公共产品极其重要：事实上，有充分的理由表明，人们可能想要生产的平均商品就是公共产品。开源软件、对加密和区块链协议的学术研究、公开的教育资源以及更多的东西都是公共产品。 
-Vitalik 认为，应该少谈论公共产品资助，多谈论开源资助，将重点从“公共物品”转移到“开源”似乎也是最好的做法。开源不应该意味着“只要是开源的，构建任何东西都是同样高尚的”；它应该是关于建造和开源对人类最有价值的东西。但区分哪些项目值得支持，哪些项目不值得支持，这已经是公共产品融资机制的主要任务，这一点已经众所周知。
-- [马斯克回复Vine相关推文，meme币VINE市值突破5000万美元]() - 📰 null - 【马斯克回复Vine相关推文，meme币VINE市值突破5000万美元】金色财经报道，马斯克于X平台回复提问“xAI现在收购了X，并拥有短视频平台Vine，我们应该怎么处理Vine”时表示，“Feel free to take that on（可以自由地接手处理它）”。 
-受此影响，据GMGN行情信息，Solana链上meme币VINE市值突破5000万美元，现报4200万美元，24小时涨幅68%。
-- [Hyperliquid新增完全链上的验证者投票功能，可对资产下架进行投票](https://x.com/HyperliquidX/status/1905665684790784006) - 📰 null - 【Hyperliquid新增完全链上的验证者投票功能，可对资产下架进行投票】金色财经报道，Hyperliquid 发推表示其区块链已升级，新增了完全链上的验证者投票功能，用于资产下架。当达到足够的投票支持下架时，操作会自动触发链上执行。这种无需许可的基于权益的投票加权原语内置于 HyperCore 中，从技术上讲不需要链下协调。作为该机制的示范，Hyper 基金会的验证者 2-5 将在 3 月 29 日 21:00（UTC+8）左右投票决定是否下架 MYRO 合约。Hyper 基金会的验证者 1 将在初始委托计划参与者的委托完成之前弃权投票。
-- [美参议员质疑特朗普WLFI推出USD1稳定币带来监管风险](https://cointelegraph.com/news/donald-trump-stablecoin-financial-regulators-scrutiny) - 📰 null - 【美参议员质疑特朗普WLFI推出USD1稳定币带来监管风险】金色财经报道，据Cointelegraph报道，五位民主党参议员致信美联储和OCC，质疑特朗普家族支持的世界自由金融（WLFI）推出的USD1稳定币带来的“前所未有风险”。信中指出，特朗普通过2月行政命令削弱监管独立性，并持有WLFI60%股权，构成重大利益冲突。WLFI自2024年9月成立以来，已通过两次代币销售募集5.5亿美元，并于3月24日在BNB链和以太坊上推出USD1。此举恰逢国会审议《GENIUS法案》，可能赋予OCC和美联储监管权，引发对金融系统稳定性的担忧。
-- [David Sacks：FDIC让银行更容易参与加密活动，将进一步推动加密主流化](https://x.com/davidsacks47/status/1905724072828481961) - 📰 null - 【David Sacks：FDIC让银行更容易参与加密活动，将进一步推动加密主流化】金色财经报道，白宫加密货币和人工智能主管 David Sacks 就“美 FDIC 发布新指南明确银行参与加密货币活动流程”发文表示，“FDIC 让银行更容易参与加密相关活动，这是进一步推动加密主流化的最佳方式之一。”
-- [CFTC撤销两项数字资产相关员工咨询意见，消除数字衍生品监管差异](https://www.cftc.gov/PressRoom/PressReleases) - 📰 null - 【CFTC撤销两项数字资产相关员工咨询意见，消除数字衍生品监管差异】金色财经报道，据官方公告，美国商品期货交易委员会（CFTC）清算与风险管理部今日宣布，立即撤销 CFTC 工作人员咨询函第 23-07 号《关于数字资产 DCO 清算扩展风险审查》，以消除其对数字资产衍生品及其他产品的监管差异。并立即撤销咨询函第 18-14 号《关于虚拟货币衍生品上市的咨询意见》，市场监督处和清算与风险处认为，鉴于工作人员在虚拟货币衍生品产品上市方面的经验增加以及市场增长和成熟度的提高，该通告已不再需要。
-- [八天前Uniswap时间锁合约转出的2790万枚UNI，再次向币安转移250万枚UNI](https://x.com/EmberCN/status/1905797448590844195) - 📰 null - 【八天前Uniswap时间锁合约转出的2790万枚UNI，再次向币安转移250万枚UNI】金色财经报道，八天前(3月21日)从Uniswap时间锁合约转出的2790万枚$UNI中，又有250万枚$UNI($15.31M)在过去8小时里流入了币安。 
-这次解锁的$UNI已有374万枚$UNI(价值2353万美元)在过去两天时间里进入了币安。而从开始进入币安以来UNI价格表现为-10%(6.8→6.1)。 
-预计他们这次是要一共将500万枚UNI转进CEX，目前持续将UNI转进币安的地址里还有124万枚UNI($7.73M)。
-- [巴西某高级官员：比特币储备对巴西繁荣“至关重要”](https://decrypt.co/312147/bitcoin-reserve-crucial-for-brazils-prosperity) - 📰 null - 【巴西某高级官员：比特币储备对巴西繁荣“至关重要”】金色财经报道，据 Decrypt 报道，巴西副总统高级顾问 Pedro Giocondo Guerra 在最近的一次演讲中代表政府表示：“比特币的战略储备对于国家繁荣至关重要。关于建立 BTC 储备的讨论可能是决定巴西繁荣的关键因素，符合国家和公众的利益。”。巴西议员 Eros Biondini (PL-MG) 此前提出了一项立法，提议建立“战略主权比特币储备”（RESBit）。将 5% 的外汇储备（国际储备）持有为比特币，巴西央行将使用先进的监控系统、区块链技术和人工智能来监控交易，负责托管。
-- [美国现货比特币ETF昨日净流出9316万美元]() - 📰 null - 【美国现货比特币ETF昨日净流出9316万美元】金色财经报道，据TraderT监测，美国现货比特币ETF昨日净流出9316万美元。
-- [某交易员于HyperLiquid 25倍做多ETH，仓位名义价值762万美元](https://x.com/OnchainLens/status/1905785321868173485) - 📰 null - 【某交易员于HyperLiquid 25倍做多ETH，仓位名义价值762万美元】金色财经报道，据 OnchainLens 监测，交易员 @izebel_eth 向 HyperLiquid 存入 200 万枚 USDC 并开启 ETH 25 倍杠杆多单仓位，名义规模 4,000 枚 ETH，名义价值 762 万美元。 
-该交易员并以 13.5 美元均价购买 10 万枚 HYPE，花费 134 万美元。
-- [特朗普：任何关税协议都将在4月2日措施生效后达成]() - 📰 null - 【特朗普：任何关税协议都将在4月2日措施生效后达成】金色财经报道，当地时间 3 月 28 日，美国总统特朗普计划在未来几天公布新的关税，他表示对与其他国家达成关税协议持一定开放态度，但他暗示任何协议都将在 4 月 2 日关税措施生效后达成。特朗普在前往佛罗里达的“空军一号”上接受记者采访时被问及是否愿意与英国等国家讨论达成降低对美关税协议的问题时表示，“如果我们能从这笔交易中得到一些东西，这是有可能的——但你知道，我们已经被利用了 40 年，甚至更久。这种事情不会再发生了。但是，是的，我当然愿意接受。”当被问及这是否会在 4 月 2 日加征关税宣布之前发生时，他说：“不会。很可能稍后。”特朗普还重申了宣布药品关税的计划，但他拒绝透露这些关税的具体税率。(金十)
+- [某巨鲸于过去 16 小时内从 Kraken 提出 6650 枚 ETH，价值 1250 万美元]() - 📰 null - 【某巨鲸于过去 16 小时内从 Kraken 提出 6650 枚 ETH，价值 1250 万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，巨鲸 0x2F9...d517E 在过去 16 小时内分两次以均价 1879 美元从 Kraken 提出 6650 枚 ETH，价值 1250 万美元；最近一次建仓是 2 小时前，目前浮亏 18 万美元。
+- [Sonic Labs取消推出与美元挂钩的算法稳定币计划，选择开发以阿联酋迪拉姆计价的替代品](https://cointelegraph.com/news/sonic-usd-algorithmic-stablecoin-dirham-stablecoin) - 📰 null - 【Sonic Labs取消推出与美元挂钩的算法稳定币计划，选择开发以阿联酋迪拉姆计价的替代品】金色财经报道，Sonic Labs取消了推出与美元挂钩的算法稳定币的计划，而是选择开发以阿联酋迪拉姆计价的替代货币。Sonic Labs联合创始人 Andre Cronje 确认了相关消息，并在社媒发文称：“我们将不再发行基于美元的算法稳定币，而是将发行以美元结算和计价的数学绑定的数值迪拉姆，这绝对不是基于美元的算法稳定币。”此前不久，阿联酋宣布将于2025 年第四季度推出数字迪拉姆央行数字货币 (CBDC)。
+- [MARA拟启动20亿美元ATM股权发行计划](https://www.theminermag.com/news/2025-03-29/mara-atm-bitcoin-stock) - 📰 null - 【MARA拟启动20亿美元ATM股权发行计划】金色财经报道，比特币矿企MARA或将启动20亿美元ATM股权发行计划，该公司在周五的监管文件中披露，相关协议于3月28日与一个投资银行财团签署，其中包括巴克莱银行、BMO资本市场、BTIG、Cantor Fitzgerald、古根海姆证券、HC Wainwright和瑞穗证券。
+- [Movement财库关联地址4小时前向Coinbase充值700万枚MOVE，价值330万美元]() - 📰 null - 【Movement财库关联地址4小时前向Coinbase充值700万枚MOVE，价值330万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，Movement财库关联地址4小时前向Coinbase充值700万枚MOVE，价值330万美元，该充值地址的上层地址曾与FlowTraders有过交互，尚不确定是否归属于该做市商。
+- [Binance Wallet推出“用CEX资金在DEX交易”功能](https://x.com/BinanceWallet/status/1905953250941006203) - 📰 null - 【Binance Wallet推出“用CEX资金在DEX交易”功能】金色财经报道，据官方公告，Binance Wallet团队推出“用CEX资金在DEX交易”功能，通过该功能，Binance用户可使用Binance交易平台（CEX）资金，在Binance Wallet交易链上的数百万个代币。
+- [BNB跌破600美元]() - 📰 null - 【BNB跌破600美元】金色财经报道，行情显示，BNB跌破600美元，现报599.97美元，24小时跌幅达到4.66%，行情波动较大，请做好风险控制。
+- [Meteora联创：不会要求提供合约地址或内幕信息，不提供定制咨询或策略](https://x.com/realdezen/status/1905321326052868225) - 📰 null - 【Meteora联创：不会要求提供合约地址或内幕信息，不提供定制咨询或策略】金色财经报道，Meteora联创Zen在X平台发文称，目前还在继续收集有关刺激计划和参与度的数据，并且将把核心焦点转至产品上，但在与团队、启动平台和准备上线的项目了解情况后，发现有两件事不断出现：一是代币发行分散且僵化，二是大多数团队缺乏成功所需的灵活性或控制力，因此推出Meteora发布指南，需要明确的是，为了保持透明和中立，Meteora不会跨越以下几条界限： 
+1、不进行私人发布； 
+2、不会要求提供合约地址或内幕信息； 
+3、不提供定制咨询或策略。
+- [BTC跌破83000美元]() - 📰 null - 【BTC跌破83000美元】金色财经报道，行情显示，BTC跌破83000美元，现报82888.06美元，24小时跌幅达到2.52%，行情波动较大，请做好风险控制。
+- [Zhu Su：家族办公室正在密切关注Michael Saylor的比特币储备战略](https://x.com/zhusu/status/1905930522758684822) - 📰 null - 【Zhu Su：家族办公室正在密切关注Michael Saylor的比特币储备战略】金色财经报道，Zhu Su在X平台分享本周香港杂感，包括： 
+1、Art Basel没有任何提到NFT和Memecoin； 
+2、投资银行现在正在大力推动中国复兴科技主题，DeepSeek、创新浪潮等，南向资金流很大； 
+3、家族办公室正在密切关注Michael Saylor，并且在考虑自己的公司是否需要效仿采用比特币储备战略； 
+4、强烈认同BTC是数字黄金，受监管的托管方和交易所也产生兴趣。
+- [某鲸鱼从Binance转出4000枚WBETH，约合800万美元](https://x.com/OnchainLens/status/1905932675216769298) - 📰 null - 【某鲸鱼从Binance转出4000枚WBETH，约合800万美元】金色财经报道，据Onchain Lens监测，某鲸鱼从Binance中提取了4,000枚WBETH，价值800万美元。此前，该鲸鱼已提取1800万枚S（967万美元）用于质押，并提取160万枚CAKE（397万美元）锁仓至2026年3月12日。
+- [Castle Island Ventures合伙人：L2过于贪婪，导致以太坊表现低迷](https://cointelegraph.com/news/layer-2-reason-for-ethereum-declining-investment-appeal-crypto-venture-capitalist) - 📰 null - 【Castle Island Ventures合伙人：L2过于贪婪，导致以太坊表现低迷】金色财经报道，ETH/BTC汇率已触及近五年来的最低水平，某些投资者甚至将ETH称为是一种“完全死亡”的投资。Castle Island Ventures合伙人Nic Carter认为，“ETH死在自己手中”，因为L2过于贪婪，导致以太坊交易活动、用户增长和费用/收入都在下降，以太坊可以被看作为一个具有实用性的网络，但“绝对不是”一项投资。
+- [6.7万枚ETH濒临清算巨鲸距其ETH仓位清算价仅100美元](https://x.com/EmberCN/status/1905909631266025683) - 📰 null - 【6.7万枚ETH濒临清算巨鲸距其ETH仓位清算价仅100美元】金色财经报道，据链上分析师余烬监测，6.7万枚ETH濒临清算巨鲸距离其ETH仓位清算价格又只有100美元。 
+3月11日该巨鲸6.7万枚ETH仓位因为ETH价格下跌濒临清算，通过还款跟减仓保住了仓位没进入清算。后面ETH反弹让他的仓位暂时脱离清算风险，其后没有任何增加保证金、减仓等降低清算价格的操作。现在ETH又快跌回来了，再跌个100美元其仓位就又要清算。 
+此外，某鲸鱼用60810枚ETH的抵押品借入7569万枚DAI，清算价格为1805美元，目清算价格离现在的ETH价格不到80美元。
+- [本周美国现货比特币 ETF 净流入 1.964 亿美元，现货以太坊ETF 净流出 870 万美元](https://farside.co.uk/btc/) - 📰 null - 【本周美国现货比特币 ETF 净流入 1.964 亿美元，现货以太坊ETF 净流出 870 万美元】金色财经报道，据 Farside Investors 数据，美国现货比特币 ETF 本周净流入 1.964 亿美元；本周美国现货以太坊 ETF 累计净流出 870 万美元。
+- [天桥资本创始人：纽约州总检察长对Galaxy Digital的法律诉讼是“纯粹的法律战”](https://cointelegraph.com/news/nayg-lawsuit-galaxy-digital-lawfare-anthony-scaramucci) - 📰 null - 【天桥资本创始人：纽约州总检察长对Galaxy Digital的法律诉讼是“纯粹的法律战”】金色财经报道，天桥资本（SkyBridge Capital）创始人安东尼-斯卡拉穆奇（Anthony Scaramucci）表示，纽约州总检察长（NAYG）对Galaxy Digital 的诉讼是“法律战”，而另一位加密货币高管表示，该法律如此特殊，以至于他不得不在ChatGPT上查阅。 
+纽约州总检察长（NAYG）最近对 Galaxy Digital 提起的法律诉讼，涉及其与现已崩溃的加密货币 Terra（LUNA）的推广关系，是不公平的，并且是对法律系统的滥用，天空桥资本（SkyBridge Capital）创始人安东尼·斯卡拉穆奇（Anthony Scaramucci）如是说。“这就是纯粹的法律战，因为一项鲜为人知但危险性极高的纽约法律——马丁法案（Martin Act），”斯卡拉穆奇在3月28日的X平台上表示。 
+“该法律无需证明意图，从而设定了一个很低的证明标准，这可能会为这种滥用行为打开大门。它根本就不应该存在，”他说。
+- [可信AI领军项目Privasea开启官方eSIM预约页面](https://www.privasea.ai/fhesim) - 📰 null - 【可信AI领军项目Privasea开启官方eSIM预约页面】3月29日消息，可信AI领军项目Privasea今日开启官方eSIM预约页面。据悉此款eSIM将与旗下旗舰产品ImHuman结合，为全球数字公民提供身份隐私，通讯，支付等为一体的业务。 
+此前消息，Confidential AI项目Privasea以1.8亿美元估值完成A轮融资，累计三轮共融资1500万美元，投资方包括GSR、Amber和Echo，早期投资机构有BinanceLabs、OKX Ventures、Nomura’s Laser Digital和Gate Labs等。Privasea已于1月6日发布DeepSea测试网Beta，此次融资将用于加速主网DeepSea的部署及相关智能代理的研发，推动人机交互与智能代理交互等领域的发展。
+- [以太坊过去7日净供应量增加17653枚]() - 📰 null - 【以太坊过去7日净供应量增加17653枚】金色财经报道，据 Ultrasound.money 数据，以太坊过去7日净供应量增加17653枚，其中供应量增加约18165枚 ETH，通过销毁机制销毁了511.8枚 ETH。供应量增长率目前为每年0.764%。
+- [TokenFi宣布取消0.3%的代币买卖税](https://markets.businessinsider.com/news/currencies/tokenfi-removes-token-buy-sell-tax-after-unanimous-dao-vote-1034523385) - 📰 null - 【TokenFi宣布取消0.3%的代币买卖税】金色财经报道，在获得Floki  DAO的一致投票后， TokenFi宣布将取消0.3%的原生代币TOKEN买卖税（buy/sell tax），目前相关变更已在以太坊和BNB Chain两个网络上生效，据悉本次投票的支持率为100%。
+- [Solana网络地址数量达1112万，创历史新高](https://x.com/ali_charts/status/1905887399286394938) - 📰 null - 【Solana网络地址数量达1112万，创历史新高】金色财经报道，链上分析师Ali于X发文表示，Solana网络地址数量达到1112万，创历史新高。
+- [某PEPE巨鲸目前其LDO持仓浮亏360万美元](https://x.com/OnchainLens/status/1905884514444066991) - 📰 null - 【某PEPE巨鲸目前其LDO持仓浮亏360万美元】金色财经报道，据Onchain Lens监测，一位PEPE鲸鱼已售出225万枚LDO（218万美元）换取WETH，并以181美元的价格将其兑换成12,037枚AAVE。最初，该鲸鱼以2,234枚ETH（700万美元）的价格买入了360万枚LDO。目前持有135万枚LDO（121.5万美元），面临360万美元的损失。
+- [全网以太坊合约未平仓头寸达219.2亿美元](https://www.coinglass.com/BitcoinOpenInterest) - 📰 null - 【全网以太坊合约未平仓头寸达219.2亿美元】金色财经报道，据Coinglass数据，全网以太坊合约未平仓量达到1163万枚，约合219.2亿美元。
