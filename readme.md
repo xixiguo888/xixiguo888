@@ -1,26 +1,37 @@
-- [标普500指数转涨，此前跌超1.6%]() - 📰 null - 【标普500指数转涨，此前跌超1.6%】金色财经报道，标普500指数转涨，此前跌超1.6%。纳指跌幅收窄至0.7%，道指现涨0.7%。
-- [特朗普将于4月2日在白宫玫瑰园宣布对等关税](https://flash.jin10.com/detail/20250401013813919800) - 📰 null - 【特朗普将于4月2日在白宫玫瑰园宣布对等关税】金色财经报道，白宫新闻秘书莱维特表示，美国总统特朗普将于周三在白宫玫瑰园举行的一次活动中宣布他的对等关税政策。莱维特称，特朗普的声明主要为“以国家为基础”的关税，但他也“承诺”在另一个时间实施行业关税。莱维特说，特朗普的内阁成员将出席宣布仪式。莱维特说：“总统将宣布一项关税计划，这将扭转几十年来一直在剥削我们国家的不公平贸易行为。”“现在是对等的时候了，是总统采取历史性变革，为美国人民做正确的事情的时候了。”
-- [特朗普家族通过新控股公司持有WLFI至少60%的股份](https://www.theblock.co/post/348917/trump-family-now-controls-at-least-60-stake-over-world-liberty-financial-through-new-holding-company-reuters) - 📰 null - 【特朗普家族通过新控股公司持有WLFI至少60%的股份】金色财经报道，特朗普家族似乎正在加强对 WLFI 的控制权。WLFI 是特朗普就职前宣布推出的，但仍处于开发阶段。据路透社周一发布的报道，特朗普家族 在 1 月份通过成立 WLF Holdco LLC 进一步巩固了对 World Liberty 的控制权。其中，DT Marks DeFi LLC 是特朗普及其部分家庭成员的附属实体，持有新公司 WLF Holdco LLC 60% 的股份，而 WLF Holdco LLC 持有 WLFI 的唯一成员权益，负责监督协议开发并运营 WLFI 治理平台。尽管目前尚不清楚剩余 40% 的归属，但这一调整使 WLFI 联合创始人 Zak Folkman 和 Chase Herro 似乎不再是该平台的控制方。 
-截至目前，WLFI 通过向美国的合格投资者及全球范围内的非合格投资者出售 WLFI 代币，已累计募集 5.5 亿美元。根据该项目在推出时发布的文件，特朗普家族可能会从这部分销售收入中获得 75% 的净收益。
-- [Ambient完成720万美元种子轮融资](https://www.coindesk.com/business/2025/03/31/ai-infused-blockchain-ambient-to-replace-bitcoin-says-co-founder) - 📰 null - 【Ambient完成720万美元种子轮融资】金色财经报道， Ambient 完成 720 万美元种子轮融资，a16z、Delphi Digital 和 Amber Group 参投。Ambient 旨在结合人工智能技术，提供快速、廉价且开放的智能服务。该项目运用与比特币类似的工作量证明机制，且与 Solana 的网络运行方式相似。
-- [Bithumb 2024年净利润预计将达1.1亿美元](https://www.theblock.co/post/348894/bithumb-records-110-million-net-profits-in-2024?utm_source=twitter&utm_medium=social) - 📰 null - 【Bithumb 2024年净利润预计将达1.1亿美元】金色财经报道，Bithumb 2024 年净利润预计将达到 1.1 亿美元，较上一年增长了五倍。Bithumb 计划 2025 年下半年在美国纳斯达克上市。
-- [Coinbase将上线Doginme （DOGINME）和Keyboard Cat（KEYCAT）](https://x.com/CoinbaseAssets/status/1906737380184170728) - 📰 null - 【Coinbase将上线Doginme （DOGINME）和Keyboard Cat（KEYCAT）】金色财经报道， Coinbase 宣布将在 Base 网络上支持 Doginme （DOGINME）和 Keyboard Cat （KEYCAT）。交易将于 2025 年 4 月 1 日上午 9 点（PT）或之后开始，前提是流动性条件得到满足。DOGINME-USD 和 KEYCAT-USD 交易对将分阶段上线，但某些地区可能有限制。
-- [Lookonchain：Tron链上稳定币过去7日增发12.1亿枚](https://x.com/lookonchain/status/1906733282349531233) - 📰 null - 【Lookonchain：Tron链上稳定币过去7日增发12.1亿枚】金色财经报道，据 Lookonchain 监测，过去 7 日，Tron 链上稳定币（USDT 和 USDC）增加了 12.1 亿枚，而 Arbitrum 链上的稳定币（USDT 和 USDC）减少了 4.384 亿枚。
-- [币安慈善联合赵长鹏，为缅甸和泰国地震受灾用户捐赠150万美元](https://www.binance.com/en/blog/charity/8282359750018504599?hl=en) - 📰 null - 【币安慈善联合赵长鹏，为缅甸和泰国地震受灾用户捐赠150万美元】金色财经报道，3月31日，币安慈善与币安创始人兼前任首席执行官赵长鹏共同发起了一项联合捐赠行动。此次行动将向被确认居住于受地震影响地区的缅甸与泰国用户，空投价值150万美元的BNB，以支持当地的救援工作。此次捐赠对象的身份确认将基于用户的KYC或POA信息。符合条件的用户需在2025年3月31日前完成KYC或POA认证，随后将在2025年4月14日之前通过奖励中心收到相应的BNB代币券。 
-币安首席执行官Richard Teng表示：“我们对缅甸、泰国及周边地区发生的毁灭性地震深感悲痛。我们为受害者、他们的家人以及所有受灾难影响的人祈祷。币安与社区团结一致，希望我们的努力能在这艰难时刻带来一些安慰和帮助。”
-- [OKX首席法律官Mauricio Beugelmans离职，此前与美司法部达成5亿美元和解](https://www.coindesk.com/business/2025/03/31/okx-chief-legal-officer-mauricio-beugelmans-leaves-the-exchange) - 📰 null - 【OKX首席法律官Mauricio Beugelmans离职，此前与美司法部达成5亿美元和解】金色财经报道，OKX 首席法律官 Mauricio Beugelmans 已于 2025 年 3 月离职，其 LinkedIn 资料显示，他于 2021 年 8 月加入 OKX，共任职 3 年 8 个月，为 OKX 的全球合规政策做出了重要贡献。 
-消息人士透露，Beugelmans 的离职与 OKX 上月与美国司法部（DoJ）达成的 5 亿美元和解有关。
-- [Coinbase CEO：美国稳定币立法应允许消费者通过稳定币赚取利息](https://x.com/brian_armstrong/status/1906723887112401179) - 📰 null - 【Coinbase CEO：美国稳定币立法应允许消费者通过稳定币赚取利息】金色财经报道，Coinbase CEO Brian Armstrong 发文表示，“美国稳定币立法应允许消费者在稳定币上赚取利息。政府不应偏袒某个行业，而是应允许银行和加密公司都能与消费者共享利息，并激励他们这样做。稳定币通过数字化美元和其他法定货币，已经找到了产品市场契合点，但我们尚未解锁一个关键部分，令普通人和美国经济能够充分受益：链上利息。”
-- [CZ公开捐款地址销毁部分代币后资产余额降至约185万美元](https://x.com/ai_9684xtpa/status/1906723969732145199) - 📰 null - 【CZ公开捐款地址销毁部分代币后资产余额降至约185万美元】金色财经报道，据链上分析师 @ai_9684xtpa 监测，CZ 公开捐款地址销毁部分代币后，资产余额下降为 185 万美元左右，其中 TOP1 资产为 BNB（1780 枚），而 Meme 币资产占比降为 42%。不确定 CZ 是否会接着销毁剩余 Meme 币；受此消息影响，三个被销毁代币均出现短时上涨，随后收回涨幅。 
-此前报道，据 Arkham 监测，CZ 捐款钱包销毁了价值 110 万美元的 Broccoli（0xa14）、54 万美元的 Broccoli（0x6d5）以及 195 万美元的 Tutorial 代币。
-- [CZ：已将价值数百万的Meme币转至销毁地址，请不要再向该地址发送代币](https://x.com/cz_binance/status/1906722184783101978) - 📰 null - 【CZ：已将价值数百万的Meme币转至销毁地址，请不要再向该地址发送代币】金色财经报道，Binance 创始人 CZ 发文称，“已将捐款地址上的部分高价值代币（六到七位数）发送至销毁地址。目前已有一些新的 AI 解决方案可以自动化此操作，但尚未经过安全审查，剩余部分稍后处理。请不要再向该地址发送代币，并期待任何互动。” 
-此前报道，据 Arkham 监测，CZ 捐款钱包销毁了价值 110 万美元的 Broccoli（0xa14）、54 万美元的 Broccoli（0x6d5）以及 195 万美元的 Tutorial 代币。
-- [CZ钱包销毁价值359万美元的Meme币](https://x.com/arkham/status/1906721676672258327) - 📰 null - 【CZ钱包销毁价值359万美元的Meme币】金色财经报道，据 Arkham 监测，CZ 捐款钱包销毁了价值 110 万美元的 Broccoli（0xa14）、54 万美元的 Broccoli（0x6d5）以及 195 万美元的 Tutorial 代币。
-- [巴西禁止部分养老基金投资加密资产](https://www.coindesk.com/policy/2025/03/31/brazil-bars-major-pension-funds-from-investing-in-cryptocurrencies) - 📰 null - 【巴西禁止部分养老基金投资加密资产】金色财经报道，巴西最高金融政策机构以加密货币风险过高为由，禁止部分养老基金投资加密资产。 
-国家货币委员会（CMN）禁止封闭式养老金机构（EFPCs）将其担保储备中的任何部分投资于比特币（BTC）或其他数字货币。这些封闭式养老金机构（EFPCs）管理着数万名工会成员和企业雇员的退休储蓄，其储备通常由债券和股票组成。
-- [Tether自2025年以来累计铸造80亿枚USDT]() - 📰 null - 【Tether自2025年以来累计铸造80亿枚USDT】金色财经报道，据 Onchain Lens 监测，Tether 在波场网络上再次铸造 10 亿枚 USDT，自 2025 年以来累计铸造 80 亿枚 USDT。
-- [TON突破4美元]() - 📰 null - 【TON突破4美元】金色财经报道，行情显示，TON突破4美元，现报4.01美元，24小时涨幅达到6.37%，行情波动较大，请做好风险控制。
-- [Tether Treasury在波场网络上增发10亿枚USDT](https://whale-alert.io/transaction/tron/b649ca2567b421b4faec8c194c579004678f296dc43c6edf9d72b0d318d483bc) - 📰 null - 【Tether Treasury在波场网络上增发10亿枚USDT】金色财经报道，据Whale Alert监测，Tether Treasury在波场网络上增发1,000,000,000 USDT。
-- [Circle聘请投行以推进IPO进程，预计4月底公开提交申请文件](https://fortune.com/2025/03/31/circle-jpmorgan-chase-crypto-usdc-citi-ipos-spac-sec/) - 📰 null - 【Circle聘请投行以推进IPO进程，预计4月底公开提交申请文件】金色财经报道，据《财富》报道，稳定币USDC发行方Circle已聘请摩根大通和花旗银行协助其首次公开募股（IPO），预计将于4月底公开提交上市申请文件。这将是继Coinbase之后最大规模的加密货币相关IPO。
-- [Hut 8 Mining盘中上涨5.3%]() - 📰 null - 【Hut 8 Mining盘中上涨5.3%】金色财经报道，Hut 8 Mining盘中上涨5.3%，公司将与美国总统特朗普次子埃里克·特朗普共同成立美国比特币公司。
-- [巴西央行货币政策主管：外汇储备中纳入加密资产并不合适]() - 📰 null - 【巴西央行货币政策主管：外汇储备中纳入加密资产并不合适】金色财经报道，巴西央行货币政策主管：在我们的外汇储备中纳入加密资产并不合适。
+- [美国财长贝森特：总统特朗普将于周三下午3点（北京时间次日凌晨3:00）宣布相应的关税措施]() - 📰 null - 【美国财长贝森特：总统特朗普将于周三下午3点（北京时间次日凌晨3:00）宣布相应的关税措施】金色财经报道，美国财长贝森特：总统特朗普将于周三下午3点（北京时间次日凌晨3:00）宣布相应的关税措施。(金十)
+- [zkLend黑客链上致歉：请项目方追踪钓鱼网站运营者，以尝试追回资金](https://x.com/evilcos/status/1906876602228883914) - 📰 null - 【zkLend黑客链上致歉：请项目方追踪钓鱼网站运营者，以尝试追回资金】金色财经报道，据慢雾创始人余弦监测，zk­Lend黑客误点钓鱼网站，导致2930枚ETH赃款被盗后，该黑客向zk­Lend发送链上留言表示，“你好，我本想把资金转入Tornado Cash，但误用了一个钓鱼网站，结果所有资金都丢失了。我崩溃了。对由此造成的混乱和损失，我深感抱歉。2930枚ETH已全部被该网站的运营者夺走。我手上已经没有任何币了。请把精力转向那些网站运营者，看看是否能追回部分资金。 
+这是我最后的一条消息，结束这一切或许是最好的选择。再次抱歉。”
+- [美CFTC候任主席会见爱荷华州参议员，讨论加密现货交易市场监管](https://x.com/EleanorTerrett/status/1906875292603515380) - 📰 null - 【美CFTC候任主席会见爱荷华州参议员，讨论加密现货交易市场监管】金色财经报道，福布斯记者 Eleanor Terrett 发文表示，美国商品期货交易委员会（CFTC）候任主席 Brian Quintenz 已开始在国会山与参议员会面，为提名听证会做准备。今天，他会见了爱荷华州共和党参议员 Chuck Grassley，讨论 CFTC 事务，其中包括加密货币现货交易市场议题。
+- [ai16z创始人：Eliza v2与Launchpad平台auto.fun均即将上线](https://x.com/shawmakesmagic/status/1906804591427203518https://x.com/shawmakesmagic/status/1906804591427203518) - 📰 null - 【ai16z创始人：Eliza v2与Launchpad平台auto.fun均即将上线】金色财经报道，ai16z创始人Shaw在社交媒体发文表示：“Launchpad平台auto.fun已准备就绪，我们将在两周内与首批合作伙伴一起启动。此外Eliza v2也已准备就绪，我们即将开始营销和发布公告，并正式上线。”
+- [zk­Lend黑客误点钓鱼网站，导致2930枚ETH赃款被盗](https://x.com/im23pds/status/1906869404434100617) - 📰 null - 【zk­Lend黑客误点钓鱼网站，导致2930枚ETH赃款被盗】金色财经报道，据慢雾首席信息安全官@im23pds监测，zk­Lend黑客（原案发生在2月）在尝试使用Tor­nado­ Cash时误点击钓鱼网站，2930枚ETH的赃款被该钓鱼网站盗走。
+- [OpenAI创始人：ChatGPT图像生成功能已向所有免费用户推出]() - 📰 null - 【OpenAI创始人：ChatGPT图像生成功能已向所有免费用户推出】金色财经报道，OpenAI创始人Sam Altman：ChatGPT图像生成功能已向所有免费用户推出。(金十)
+- [Tether今年Q1又购买8,888枚BTC，约合7.35亿美元](https://x.com/EmberCN/status/1906867666591338779) - 📰 null - 【Tether今年Q1又购买8,888枚BTC，约合7.35亿美元】金色财经报道，据链上分析师余烬监测，USDT发行商Tether在今年一季度又购买了8,888枚BTC(7.35亿美元)：Tether购买并储备BTC的地址在一季度刚结束的第一天从Bitfinex提出了8,888枚BTC。 
+这是Tether今年一季度所购买的BTC：Tether自2023年5月发布公告决定定期将公司利润的15%用来购买比特币增强储备。Tether目前共计持有92,647枚BTC(76.4亿美元)，是第6大的BTC钱包地址。他们的BTC综合购入成本约41,147美元，目前浮盈高达38.3亿美元。
+- [Vitalik向网络国家沙盒实验项目Zuitzerland捐赠50万美元](https://x.com/OnchainLens/status/1906865014750974344) - 📰 null - 【Vitalik向网络国家沙盒实验项目Zuitzerland捐赠50万美元】金色财经报道，据Onchain Lens监测，Vitalik向Zuitzerland开发者1sla.eth部署的合约转账了274.1枚ETH（50万美元），作为赠款或捐赠。 
+据介绍，Zuitzerland是一个网络国家沙盒，旨在为未来的文明进行原型实验。它作为Web3、AI、生物技术、脑机接口（BCI）、隐私和密码学领域先锋的聚集地，通过驻地计划、快闪城市活动和黑客马拉松，推动安全的技术加速发展。
+- [分析：DEX衍生品平台Hyperliquid的交易量消减了CEX的市场份额](https://cointelegraph.com/news/hyperliquid-dex-trading-volumes-cut-into-cex-market-share-data?ref=onepagecrypto.com) - 📰 null - 【分析：DEX衍生品平台Hyperliquid的交易量消减了CEX的市场份额】4月1日消息，随着Hyperliquid日交易量达到40亿美元，该交易所已成为最大的去中心化（DEX）衍生品平台，占据了近60%的市场份额。尽管Hyperliquid仍远远落后于币安期货（Binance Futures）日均500亿美元的交易量，但这一趋势表明，它已开始蚕食中心化交易所（CEX）的市场份额。 
+据CoinGecko称，Hyperliquid目前在衍生品交易所中按未平仓合约量排名第14位，达到31亿美元。这仍落后于币安的220亿美元，但领先于Deribit或Crypto.com、BitMEX或KuCoin等老牌交易所的衍生品部门。这是DEX首次与老牌CEX如此紧密地竞争。
+- [尼日利亚总统签署新法案将加密货币认定为一种资产类别]() - 📰 null - 【尼日利亚总统签署新法案将加密货币认定为一种资产类别】金色财经报道，尼日利亚总统Bola Ahmed Tinubu最近签署的《2025年尼日利亚投资与证券法》（ISA）有效终结了围绕加密货币地位的不确定性，新法案实际上废除了2007年第29号《投资与证券法》。这部修订后的证券法“正式”将加密货币认定为一种资产类别。这一认定不仅消除了围绕加密货币的不确定性，还意味着它们不再是被禁止的资产。此外，那些曾“骚扰”涉及这些资产人士的执法机构将不得不停止此类行为。 
+尼日利亚证券交易委员会（SEC）总干事Emomotimi Agama表示，新法律赋予尼日利亚证券交易委员会更有效地促进创新和保护投资者的权力，这重新定位了尼日利亚，使其成为吸引国内外投资的具有竞争力的目的地。除了将数字资产和投资合同认定为证券外，《2025年投资与证券法》还明确将虚拟资产服务提供商（VASPs）置于尼日利亚证券交易委员会的监管范围内。该法律还禁止庞氏骗局，并对该骗局的策划者处以严厉惩罚，包括监禁。
+- [美众议院金融服务委员会主席：特朗普家族的加密商业活动让监管“更加复杂”](https://decrypt.co/312474/trump-crypto-dealings-regulation-more-complicated-house) - 📰 null - 【美众议院金融服务委员会主席：特朗普家族的加密商业活动让监管“更加复杂”】金色财经报道，美国众议院金融服务委员会主席French Hill周一罕见批评总统特朗普及其家族的加密货币商业活动，称这些行为使得为新兴数字资产行业制定法律的工作“变得更加复杂”。Hill特别指出特朗普推出的meme币和稳定币项目，称其给立法者的工作带来负面影响。Hill：“这些项目让我们的工作变得更复杂。” 
+Hill周一表示，众议院金融服务委员会周三将审议《稳定币法案》草案，并将很快讨论新版市场结构法案。参议院方面，以18比6票获得两党支持的《GENIUS法案》已提交全院表决。但特朗普的商业活动给民主党人提供了反对理由。上周，参议员伊丽莎白·沃伦抨击特朗普支持的USD1稳定币是“骗局”，并试图将该项目与立法进程挂钩。她表示“国会应修改正在审议的稳定币法案，防止特朗普和马斯克之流掌控民众钱财。”
+- [Vitalik于4小时前出售DHN和LEDOG换得约11万枚USDC](https://x.com/OnchainLens/status/1906855684224024606) - 📰 null - 【Vitalik于4小时前出售DHN和LEDOG换得约11万枚USDC】金色财经报道，据Onchain Lens监测，4小时前，Vitalik出售了其最后持有的5000枚DHN换得93,655枚USDC，并出售2万亿枚LEDOG换得16,569枚USDC。
+- [0xbow借鉴Vitalik研究成果推出新型区块链隐私工具“隐私池”](https://www.theblock.co/post/348959/0xbow-privacy-pools-new-cypherpunk-tool-inspired-research-ethereum-founder-vitalik-buterin) - 📰 null - 【0xbow借鉴Vitalik研究成果推出新型区块链隐私工具“隐私池”】4月1日消息，由以太坊资深开发者Ameen Soleimani和Zak Cole等密码学家参与的团队0xbow近日推出了一种增强链上隐私的新工具。根据X平台发布的公告，这项名为“隐私池”(Privacy Pools)的技术于周一正式上线主网。隐私池是一种采用零知识证明和“关联集提供方”(Association Set Provider)的混合网络系统，确保只有“干净”资金能够进入资金池。其目标是在保持监管合规的同时，为普通加密货币用户提供隐私保护。 
+0xbow已获得Bankless、Number Group、Public Works等机构投资，以太坊联合创始人Vitalik Buterin等天使投资人也参与其中。0xbow的协议源于Buterin在2023年与Chainalysis研究员Jacob Illum以及学者Matthias Nadler、Fabian Schar等人合著的一篇论文。
+- [昨日BITB净流出1990万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日BITB净流出1990万美元】金色财经报道，据Farside Investors监测，昨日BITB净流出1990万美元。
+- [金色晨讯 | 4月1日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 4月1日隔夜重要动态一览】21:00-7:00关键词：Tether Treasury、Circle、FDIC、DOGINME 
+1.特朗普：将尽可能长时间地留住马斯克； 
+2.Tether Treasury在波场网络上增发10亿枚USDT； 
+3.特朗普家族通过新控股公司持有WLFI至少60%的股份； 
+4.Circle聘请投行以推进IPO进程，预计4月底公开提交申请文件； 
+5.美联储威廉姆斯：当前经济并不存在滞涨，预计经济将继续增长； 
+6.Coinbase要求重启对FDIC诉讼，指控该监管机构持续隐瞒关键文件； 
+7.Coinbase CEO：美国稳定币立法应允许消费者通过稳定币赚取利息； 
+8.Coinbase将上线Doginme （DOGINME）和Keyboard Cat（KEYCAT）。
+- [The9 Limited宣布获得800万美元战略投资](https://www.the9.com/newsinfo?id=87) - 📰 null - 【The9 Limited宣布获得800万美元战略投资】4月1日消息，据官方消息，纳斯达克上市互联网企业The9 Limited宣布与加密货币投资基金Elune Capital、Fine Vision Fund和Bripheno Pte. Ltd.签署定向增发协议。根据协议，投资方将向The9注资800万美元。The9将以协议签署前30个交易日平均收盘价向投资方发行A类普通股，所发行股份将遵守法定锁定期规定。 
+The9将成立新公司运营其全球GameFi平台。公司拟与第三方国际加密货币基金会达成合作，将该基金会发行的GameFi代币作为平台官方加密货币，同时将与加密货币交易所开展合作，由其推动平台加密用户加入The9的GameFi生态。 
+The9将向投资方发行302,263,200份认股权证，权证有效期两年。部分权证行权价格为每份ADS 60美元，其余权证均分为两批：首批可在投资方或其商业伙伴与The9签署战略合作协议后行权，第二批需待The9的GameFi平台正式上线后行权，行权价格与本协议ADS发行价格相同。
+- [特朗普：将尽可能长时间地留住马斯克](https://flash.jin10.com/detail/20250401063014050800) - 📰 null - 【特朗普：将尽可能长时间地留住马斯克】金色财经报道，美国总统特朗普表示，马斯克有一家大公司要经营，所以在某个时候他想回去。将尽可能长时间地留住他。
+- [特朗普：沙特已同意在美国公司投资1万亿美元](https://flash.jin10.com/detail/20250401063315314800) - 📰 null - 【特朗普：沙特已同意在美国公司投资1万亿美元】金色财经报道，美国总统特朗普：沙特已同意在美国公司投资1万亿美元；访问沙特的行程可能在下个月（4月），或许会稍晚一些。
+- [特朗普：尚未考虑竞选第三届总统，乐意与奥巴马PK](https://flash.jin10.com/detail/20250401065318891800) - 📰 null - 【特朗普：尚未考虑竞选第三届总统，乐意与奥巴马PK】金色财经报道，当地时间周一，当被问及尽管有宪法第22条修正案，是否仍有可能寻求竞选第三届总统时，美国总统特朗普表示，他“尚未考虑”竞选第三届总统。“关于竞选第三届总统，有很多说法。我不知道。我从未考虑过。他们确实说有办法可以做到，但我对此不太了解，我还没有去研究过。” 特朗普在椭圆形办公室回答记者提问时说道。当被问及如果他和前总统奥巴马都被允许竞选第三届总统，他对与奥巴马竞争有何看法时，特朗普说：“我很乐意。那会是一场精彩的竞争。我喜欢这样。” 他还说，有人曾要求他竞选第三届总统。
+- [OpenAI计划在未来几个月内发布开放重量级语言模型](https://finance.sina.com.cn/7x24/2025-04-01/doc-inerqvzy6637769.shtml) - 📰 null - 【OpenAI计划在未来几个月内发布开放重量级语言模型】金色财经报道，OpenAI首席执行官Sam Altman周一表示，OpenAI 计划在未来几个月内发布自GPT-2以来首个具有推理能力 的开放重量级语言模型，公司将与开发者讨论如何让它发挥作用。开放权重语言模型是一种允许根据新的输入数据或任务调整或微调模型权重的类型。Altman说："我们还需要做出一些决定，因此我们正在举办开发者活动，以收集反馈意见，并在之后试用早期原型。”
