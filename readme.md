@@ -1,33 +1,43 @@
-- [DeFiance Capital创始人：项目和做市商勾结操纵价格是当前加密市场的最大问题](https://x.com/Arthur_0x/status/1911646432618303610) - 📰 null - 【DeFiance Capital创始人：项目和做市商勾结操纵价格是当前加密市场的最大问题】4月15日消息，DeFiance Capital创始人兼首席投资官Arthur在X平台发文称，当前困扰流动性加密货币市场的最大问题是，项目和做市商如何合作制造能够长期维持的人为价格，这一过程完全处于黑箱状态。你无法判断价格是由真实的供需关系决定的，还是仅仅因为项目和做市商勾结起来操纵价格以实现其他目标。令人匪夷所思的是，中心化交易所（CEX）对此完全视而不见，而山寨币市场正越来越成为一个信心缺失的“柠檬市场”。更不用说今年大多数代币首次发行（TGE）的定价简直是个笑话，它们在上市后的几个月内就下跌了70%到90%，任何买入的人都遭受了巨大损失。如果行业内的主要参与者不站出来改善这一状况，那么在可预见的未来，市场的大部分将仍然无法吸引投资。
-- [萨尔瓦多近7日增持8枚比特币，总持仓达6147.18枚](https://bitcoin.gob.sv/zh/) - 📰 null - 【萨尔瓦多近7日增持8枚比特币，总持仓达6147.18枚】金色财经报道，据萨尔瓦多财政部网站数据，萨尔瓦多过去7日共增持8枚比特币，目前比特币持仓达6147.18枚，总价值达5.21亿美元。过去30天内，萨尔瓦多已累计增持31枚比特币。
-- [美联储博斯蒂克：“任何方向”的大胆举动都不谨慎]() - 📰 null - 【美联储博斯蒂克：“任何方向”的大胆举动都不谨慎】金色财经报道，美联储博斯蒂克表示，围绕特朗普政府关税和其他政策的不确定性已使美国经济陷入“大停顿”，他建议美联储在情况更加明朗之前按兵不动。他表示：“经济将落在何处，关键取决于政策落在何处的细节。”“因为我们现在还不知道，这也是为什么我觉得在任何方向上过于大胆地采取政策行动都是不谨慎的另一个原因。”博斯蒂克说，关税可能会推高物价，这意味着要让通胀率回落到美联储2%的目标，需要的时间可能比他之前想象的要长，可能要到2027年。他说，与此同时，经济增长可能会放缓，今年的GDP增速将超过1%，但不到最近增速的一半。博斯蒂克没有说他是否仍然相信美联储今年将降息一次，这是他在3月份表达的观点。(金十)
-- [Circle欧元稳定币EURC发行量飙升至历史新高](https://www.coindesk.com/markets/2025/04/14/circle-s-eurc-stablecoin-surges-43-to-record-supply-as-dollar-troubles-fuel-demand?utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter&utm_term=organic&utm_medium=social) - 📰 null - 【Circle欧元稳定币EURC发行量飙升至历史新高】4月15日消息，Circle发行的欧元稳定币EURC供应量创下历史新高，随着美国贸易紧张局势加剧和美元走弱，欧元计价数字资产的需求可能得到推动。根据RWA.xyz的数据，EURC的供应量在过去一个月增长了43%，达到了2.17亿枚，价值2.46亿美元。 
-大部分EURC代币在以太坊网络上流通，过去一个月增长了35%，达到1.12亿枚。而Solana网络上的EURC供应量增长最快，过去一个月增长了75%，达到了7000万枚。Base上EURC供应量达到了3000万枚。
-- [Coinbase Prime将于本月底终止对49种资产的托管支持](https://x.com/CoinbaseInsto/status/1911936314741756311) - 📰 null - 【Coinbase Prime将于本月底终止对49种资产的托管支持】金色财经报道，据官方消息，Coinbase Institutional发布公告表示，Coinbase Prime将于本月底终止对49种资产的托管支持，包括：VideoCoin（VID）、Coffee Token（CFT）、BOSAGORA（BOA）、FISCO Coin（FSCC）、Sentinel protocol（UPP）、Cellframe（CELL）、Ideaology（IDEA）、Dorayaki（DORA）、CPUCoin（CPU）、SIREN（SI）、Somnium Space Cubes（CUBE）、UREEQA Token（URQA）、Oraichain Token（ORAI）、UniLend Finance（UFT）、Carry（CRE）、0chain（ZCN）、Nord Finance（NORD）、MahaDAO（MAHA）、YOP（YOP）、Unipilot（PILOT）、QASH（QASH）、SparkPoint（SRK）、Telcoin（TEL）、MixMarvel（MIX）、OnX Finance（ONX）、EMBLEM（EMB）、Newscrypto（NWC）、Compound DAI（CDAI）、NFTrade Token（NFTD）、pNetwork（PNT）、E-RADIX（EXRD）、EDDASwap（EDDA）、IndexedFinance（NDX）、RioDeFi（RFUEL）GMO Internet（GYEN）、1717 Bissonnet（1717）、The Edison（edsn）、Draper Garland Apartments（gfdg）、Forest Crossing Apartments（gffc）、Hello Albemarle（hlab）、Hello Flatbush（hlfb）、Hello Lenox（hllx）、Hello Nostrand（hlno）Lakehouse Oakland（lhok）、Nottingham Village（ntvl）、Core Fund（rscp）、Value Fund（rsva）、The Verge at Summer Park Apartments（tvsp）、Tower 27（twr27）。
-- [英伟达计划到2029年在美国投资5000亿美元用于人工智能基础设施建设](https://www.techinasia.com/news/nvidia-to-invest-500b-in-us-ai-infrastructure-by-2029) - 📰 null - 【英伟达计划到2029年在美国投资5000亿美元用于人工智能基础设施建设】金色财经报道，英伟达计划在未来四年内在美国投资高达5000亿美元用于人工智能基础设施建设。该计划包括与台湾积体电路制造股份有限公司（TSMC）、富士康和广达电脑等公司建立合作伙伴关系。TSMC已经在其位于美国亚利桑那州凤凰城的工厂开始生产英伟达的Blackwell人工智能芯片。富士康和广达预计将在12到15个月内开始在德克萨斯州运营超级计算机制造工厂。 
-这一举措与英伟达和其他科技公司致力于将生产转移到美国的承诺相一致，以响应支持本地生产的政策，首席执行官黄仁勋强调，美国制造将有助于满足日益增长的人工智能需求，并加强供应链。
-- [2025年Q1以太坊dApp费用收入超10亿美元，位居首位](https://news.bitcoin.com/ethereum-dominates-dapp-revenue-in-q1-2025-raking-in-over-1-billion/) - 📰 null - 【2025年Q1以太坊dApp费用收入超10亿美元，位居首位】4月15日消息，Token Terminal数据显示，以太坊在去中心化应用（dApp）平台中持续保持领先地位，2025年第一季度，该网络dApp费用收入达10.14亿美元。排名第二的是Coinbase的Layer2网络Base，其dApp费用收入为1.93亿美元，体现出一定的增长，但与以太坊相比仍有差距。BNB Chain的dApp费用收入为1.7亿美元，Arbitrum生态系统费用收入为7380万美元。Avalanche的C-Chain位列前五，其dApp费用收入为2768万美元。
-- [2025年Q1上市公司共购入95431枚比特币，总持有量达68.8万枚](https://x.com/Cointelegraph/status/1911940361049506173) - 📰 null - 【2025年Q1上市公司共购入95431枚比特币，总持有量达68.8万枚】金色财经报道，根据Bitwise发布的《2025年第一季度企业比特币采用情况》，2025年第一季度，上市公司共购入95,431枚比特币，环比增加16.11%，使上市公司比特币总持有量达到68.8万枚，占2100万枚比特币总供应量的3.28%。持有比特币的上市公司数量达到79家，环比增加17.91%，该季度有12家新公司购入比特币。
-- [OpenSea宣布将上线Solana链上NFT交易](https://x.com/opensea/status/1911911008794460360) - 📰 null - 【OpenSea宣布将上线Solana链上NFT交易】金色财经报道，据官方消息，OpenSea 宣布 Solana 代币交易现已在 OS2 上为部分封闭测试用户上线，并将在接下来的几周内逐步向更多用户推出。目前可交易的是代币，NFT 交易将在稍后推出。
-- [日本医疗服务公司SBC Medical宣布购入5枚BTC](https://www.globenewswire.com/news-release/2025/04/14/3060860/0/en/SBC-Medical-Group-Holdings-Inc-Purchases-5-BTC.html) - 📰 null - 【日本医疗服务公司SBC Medical宣布购入5枚BTC】4月15日消息，日本医疗服务公司SBC Medical Group Holdings宣布，基于2025年2月12日披露的购买比特币决定公告，截至2025年4月14日，已完成购买5枚BTC（约合6000万日元/40万美元）。 
-此前2月消息，SBC Medical宣布计划购买价值10亿日元（约670万美元）的比特币，以实现资产多元化与对抗通胀的长期战略目标，预计在2025年2月至5月之间完成。
-- [特朗普总统数字资产顾问：美国可能会利用关税收入购买比特币](https://x.com/BitcoinMagazine/status/1911932845171294597) - 📰 null - 【特朗普总统数字资产顾问：美国可能会利用关税收入购买比特币】金色财经报道，据Bitcoin Magazine报道，特朗普总统数字资产顾问委员会执行董事Bo Hines表示，美国可能会利用关税收入购买比特币。
-- [美联储博斯蒂克：经济处于大幅停滞的状态]() - 📰 null - 【美联储博斯蒂克：经济处于大幅停滞的状态】金色财经报道，美联储博斯蒂克：经济处于大幅停滞的状态，通胀仍远高于目标水平，我们在通胀方面还有很长的路要走。(金十)
-- [Mantra CEO：OM代币恢复是首要任务](https://cointelegraph.com/news/mantra-om-buybacks-preeminent-early-stages) - 📰 null - 【Mantra CEO：OM代币恢复是首要任务】金色财经报道，Mantra首席执行官John Mullin就OM代币大跌后社区关切问题作出回应。他保证Mantra及其合作伙伴正推动OM代币复苏，但回购和销毁细节仍在制定中。他表示：““我们仍处于制定潜在代币回购计划的早期阶段。”此外，Mullin称OM代币恢复是Mantra的首要任务。他否认了主要投资者抛售OM代币及团队控制90%代币供应的指控，强调相关指控毫无根据，并提及已发布社区透明度报告。Mullin提到“交易所中OM的最大持有者是币安”，并引导公众查看Etherscan记录。不过，目前OM钱包的最大持有者是加密交易所OKX，该交易所持有14%的流通供应量，约1.3亿枚代币。 
-Mullin还介绍了与战略投资者合作的1.09亿美元Mantra生态系统基金（MEF），称该基金含“美元承诺和出资”，将继续投资支持生态系统。他表示：“作为复苏计划的一部分，我们将继续投资并支持生态系统。”此外，他透露4月14日向币安冷钱包转账的3800万枚OM与币安的一个质押计划有关，币安因计划结束而归还代币。他还指出，崩盘后许多引起社区反应的交易涉及一家未具名交易所的抵押品，“出于某种原因，该交易所决定不再维持这一头寸，因此，接收抵押品的交易所接管了这些头寸并开始抛售，引发了一连串的抛售压力，并迫使更多头寸被清算”。
-- [美SEC已将WisdomTree和VanEck的现货比特币和以太坊ETF的实物申购和赎回决定推迟至6月3日](https://thedefiant.io/news/regulation/sec-delays-grayscale-s-ethereum-etf-staking-to-june-1-wisdomtree-vaneck-s-kind-3-2dffee92) - 📰 null - 【美SEC已将WisdomTree和VanEck的现货比特币和以太坊ETF的实物申购和赎回决定推迟至6月3日】金色财经报道，美国证券交易委员会（SEC）已将关于WisdomTree和VanEck的现货比特币和以太坊ETF的实物申购和赎回决定推迟至2025年6月3日。实物交易涉及直接交换基础资产，如比特币和以太坊，而非现金。纽约证券交易所Arca和Cboe BZX是与这些提案相关的交易所。
-- [金色晨讯 | 4月15日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 4月15日隔夜重要动态一览】21:00-7:00关键词：KERNEL、Anchorage、韩国、现货以太坊ETF 
-1.Coinbase已上线KernelDAO(KERNEL)； 
-2.Vitalik：AI兴起使加密隐私“无法再被忽视”； 
-3.美国国土安全部调查Anchorage加密货币银行； 
-4.韩国封锁KuCoin、MEXC等14家未申报加密交易所App； 
-5.德意志银行：现在预计美联储将在12月降息25个基点； 
-6.美SEC推迟对Grayscale现货以太坊ETF加入质押功能的审议； 
-7.港交所：对于利用区块链等技术来解决现有碳市场问题持开放态度； 
-8.CZ回应凉兮称其为美联储做事：滑稽至极，KOL热衷于编造相关故事赚取流量。
-- [Coinbase已上线KERNEL](https://x.com/CoinbaseAssets/status/1911861931842945295) - 📰 null - 【Coinbase已上线KERNEL】金色财经报道，Coinbase Assets在X平台表示，KernelDAO(KERNEL)现已在Coinbase以及Coinbase iOS和Android应用程序中上线，并带有“实验”标签。
-- [KiloEx：已暂停平台使用，漏洞目前已被遏制](https://x.com/KiloEx_perp/status/1911899600849617330) - 📰 null - 【KiloEx：已暂停平台使用，漏洞目前已被遏制】金色财经报道，永续合约DEX KiloEx就被黑客攻击事件发文表示，“KiloEx Vault已被利用，攻击者的钱包地址为：0x00f.....4bcbd。敦促所有合作伙伴协议和平台立即将该地址列入黑名单，以防止进一步的恶意活动。漏洞已被遏制。团队已立即暂停该平台的使用，并正在与安全合作伙伴合作追踪资金流向。将发布赏金计划。正在准备一份完整的报告。” 
-此前报道，KiloEx疑似被黑客攻击，涉及约700万美元。
-- [Vitalik：AI兴起使加密隐私“无法再被忽视”](https://dailyhodl.com/2025/04/14/vitalik-buterin-says-rise-of-ai-means-need-for-crypto-privacy-can-no-longer-be-ignored-heres-why/) - 📰 null - 【Vitalik：AI兴起使加密隐私“无法再被忽视”】金色财经报道，以太坊创办人Vitalik Buterin在新博文中表示：“今天，隐私无法再被忽视。AI极大提高了集中式数据收集与分析的能力，也扩大了我们自愿分享的数据范围。” 他强调，零知识证明（ZK）、完全同态加密（FHE）与混淆技术“远超90年代密码朋克的想象”。他警告：“最紧迫的风险是隐私将接近历史最低点，而这种失衡将使最强大的个人和国家获取所有人的数据，其他人却几乎一无所知。”
-- [新诉讼对特朗普对等关税的合法性提出质疑](https://finance.sina.com.cn/7x24/2025-04-15/doc-inetevzx7607241.shtml) - 📰 null - 【新诉讼对特朗普对等关税的合法性提出质疑】金色财经报道，周一提起的一项诉讼对美国总统特朗普在全球范围内全面加征关税的合法性提出了质疑。位于得克萨斯州、倾向自由主义的公益法律中心Liberty Justice Center周一代表五家据称受到新关税损害的业主经营企业，向美国国际贸易法院提起了该诉讼。这是迄今为止针对特朗普缩减版关税的最广泛法律行动。该诉讼声称，特朗普不当使用了1970年代的一项法律《国际紧急经济权力法》，来实施他的大部分关税制度，并且这位总统正在侵犯国会权力。Liberty Justice Center正请求该法院发布一项广泛的命令，阻止基于IEEPA全面加征的关税；该法院拥有审理涉及国际贸易案件的全国性管辖权。
-- [高盛CEO：美国经济衰退的可能性“已经增加”](https://flash.jin10.com/detail/20250415061636503800) - 📰 null - 【高盛CEO：美国经济衰退的可能性“已经增加”】金色财经报道，高盛CEO所罗门周一表示，美国经济衰退的可能性“增加了”，他引用了贸易战的不确定性以及企业不确定如何规划未来等因素。所罗门表示，进入第二季度，我们的经营环境与今年早些时候明显不同，经济增长一直在“放缓”，特朗普新贸易政策的实施“极大地改变了全球未来增长的前景”。所罗门还指出，对近期和长期的重大不确定性的担忧限制了客户做出重要决策的能力，未来道路的不确定性对美国和全球经济构成了“重大风险”。
+- [又一位瑞典民主党议员推动将比特币纳入国家储备](https://decrypt.co/314814/another-swedish-lawmaker-bitcoin-national-reserves) - 📰 null - 【又一位瑞典民主党议员推动将比特币纳入国家储备】金色财经报道，据Decrypt报道，瑞典政界对比特币的关注持续升温。继议员Rickard Nordin上周呼吁政府重新评估比特币储备策略后，本周又一位瑞典民主党议员Dennis Dioukarev就此议题发声。 
+周一，Dioukarev向财政部长Elisabeth Svantesson提交正式质询，建议瑞典效仿美国等国的做法，通过没收资产等方式建立国家比特币储备。“多国已出现这一趋势，”他在质询中特别提及美国政府利用没收资金构建比特币储备的案例，并询问“财政部是否考虑过此类方案”。
+- [某鲸鱼今日以600万美元5倍杠杆做多ETH，均价1624.44美元](https://t.me/HyperInsight+) - 📰 null - 【某鲸鱼今日以600万美元5倍杠杆做多ETH，均价1624.44美元】金色财经报道，某鲸鱼今日向HyperLiquid存入了600万枚USDC，并在1,624.44美元的价格上开设了ETH5倍杠杆多头头寸。
+- [美国北马里亚纳群岛州长否决 Tinian 发行美元稳定币法案](https://cointelegraph.com/news/northern-marianas-veto-bill-allowing-stablecoin-launch) - 📰 null - 【美国北马里亚纳群岛州长否决 Tinian 发行美元稳定币法案】金色财经报道，据Cointelegraph报道，美国北马里亚纳群岛州长Arnold Palacios否决了一项允许该美属领地地方政府发行稳定币的法案。Palacios在4 月11日的信函中表示，该法案存在多个法律问题且可能违宪。 
+这项法案原本将允许人口仅2000多的Tinian岛发行一种名为MUSD（Marianas US Dollar）的稳定币，该稳定币将由 Tinian 市政府国库持有的现金和美国国债完全支持。此前，该法案已于3月12日获得 Tinian 代表团一致通过。若法案获得通过，Tinian政府将成为美国首个发行稳定币的政府实体，领先于计划在7月推出稳定币的怀俄明州。
+- [美国宣布对芯片、电子产品进口进行调查]() - 📰 null - 【美国宣布对芯片、电子产品进口进行调查】金色财经报道，根据周一在网上发布的联邦公报的通知，美国商务部正在对进口半导体技术及相关下游产品进行国家安全调查。这份要求公众对调查发表评论的官方文件进一步证实，芯片和电子产品供应链不会被排除在特朗普的关税计划之外，尽管他上周五表示，其中许多产品获得“对等关税”豁免。美国商务部将调查“增加国内半导体产能的可行性”，以减少对进口的依赖，以及包括关税在内的额外贸易措施是否“对保护国家安全有必要”。此次调查的范围很广，包括硅片等芯片零部件、芯片制造设备、“含有半导体的下游产品”等。(金十)
+- [比特币14年回报率达720万%，远超标普500指数的306%和黄金的116%](https://thedefiant.io/news/markets/bitcoin-achieves-7-2-million-percent-return-outperforming-s-p-500-s-306-gold-s-d92ee83f) - 📰 null - 【比特币14年回报率达720万%，远超标普500指数的306%和黄金的116%】4月15日消息，比特币在所有时间段内均表现出色，过去14年每年的表现都超过了标准普尔500指数。在此期间，比特币实现了约720万%的回报率，远超黄金116%的回报率以及标准普尔500指数306%的回报率。在较短的时间段内，比特币过去两年的回报率为173%，进一步巩固了其相较于黄金和标准普尔500指数等传统投资资产的主导地位。
+- [某鲸鱼过去20小时内从OKX提取1500枚比特币，约合1.28亿美元](https://x.com/lookonchain/status/1912011324063973813) - 📰 null - 【某鲸鱼过去20小时内从OKX提取1500枚比特币，约合1.28亿美元】金色财经报道，据Lookonchain监测，一鲸鱼在过去20小时内从OKX提取1500枚比特币（价值约1.28亿美元）。
+- [币安将对BNB Smart Chain（BEP20）进行钱包维护]() - 📰 null - 【币安将对BNB Smart Chain（BEP20）进行钱包维护】金色财经报道，据官方公告，币安将于2025年04月17日14:00（东八区时间）对BNB Smart Chain（BEP20）进行钱包维护。为支持此次维护，币安将于2025年04月17日13:55（东八区时间）暂停BNB Smart Chain（BEP20）的充值、提现业务。维护预计需要 1 小时，维护完成后将自动恢复充值、提现业务。
+- [特朗普与萨尔瓦多总统布克尔会晤讨论贸易和移民问题，未提及比特币](https://x.com/Cointelegraph/status/1912008083720597622) - 📰 null - 【特朗普与萨尔瓦多总统布克尔会晤讨论贸易和移民问题，未提及比特币】金色财经报道，特朗普总统和支持比特币的萨尔瓦多总统布克尔周一在会晤中讨论了贸易和移民问题。会议上没有提及比特币。
+- [美国前财长：美债下跌表明人们对美国政策和金融资产失去信心]() - 📰 null - 【美国前财长：美债下跌表明人们对美国政策和金融资产失去信心】金色财经报道，美国前财政部长珍妮特-耶伦对特朗普的关税计划发表看法。她说，特朗普关税政策的理由“不明确，而且完全不合情理”。 
+耶伦在接受彭博社采访时表示，“取消关税、降低关税的做法是积极的，但我们正处在一个充满巨大不确定性的世界。” 
+即使投资者、政府和消费者面临种种不确定性，美国经济依然强劲，她认为美联储目前没有必要进行干预。耶伦说：“如果出现真正的金融稳定性问题，我相信美联储会考虑动用其流动性工具，就像新冠疫情初期那样。但我们还没有到那个时候。” 
+对于美国国债收益率飙升，耶伦表示，“我不认为我们看到了市场流动性完全枯竭的功能失调，但表明人们对美国经济政策和基础金融资产安全失去信心的模式确实非常令人担忧。”（金十）
+- [Emblem Vault CEO遭遇Zoom会议钓鱼攻击，损失超10万美元数字资产](https://cointelegraph.com/news/emblem-vault-ceo-loses-75-assets-in-elusive-comet-scam) - 📰 null - 【Emblem Vault CEO遭遇Zoom会议钓鱼攻击，损失超10万美元数字资产】金色财经报道，据Cointelegraph报道，数字资产交易平台Emblem Vault首席执行官Jake Gallen在一次可疑的Zoom视频会议后遭遇黑客攻击，损失超过10万美元的比特币和以太坊资产。 
+据悉，攻击者冒充拥有超过9万订阅者的 YouTube 博主"Tactical Investing"，在视频采访过程中利用 Zoom 默认开启的远程访问功能，在Gallen的电脑上安装了名为"GOOPDATE"的恶意软件。网络安全公司SEAL表示，该黑客组织被称为"ELUSIVE COMET"，通常以Aureon Capital风险投资公司的身份进行活动，已造成数百万美元资金损失。
+- [GSR Markets和Flow Traders为WCT两大做市商](https://x.com/ai_9684xtpa/status/1911996272422404258) - 📰 null - 【GSR Markets和Flow Traders为WCT两大做市商】金色财经报道，据链上分析师@ai_9684xtpa监测，GSR Markets和Flow Traders为Binance Launchpool新币WCT两大做市商。其中， 
+GSR Markets：做市代币750万枚，已有280万枚充值进CEX； 
+Flow Traders：做市代币750万枚，正在向CEX进行小额转账测试。 
+两大做市商的做市代币占初始流通量的8%。
+- [某钱包地址8小时前将71万枚AVAX存入Coinbase，约合1449万美元](https://x.com/OnchainDataNerd/status/1911995158331314445) - 📰 null - 【某钱包地址8小时前将71万枚AVAX存入Coinbase，约合1449万美元】金色财经报道，据The Data Nerd监测，8小时前，钱包地址0xc9f将71万枚AVAX（约合1449万美元）存入Coinbase。3个月前，当他收到这些代币时，其价值为2668万美元，如果他在3个月前卖掉这些代币，其账户里会多出1220万美元。
+- [Galaxy Digital：Tether已成为加密借贷市场主导者，市场份额达到约73%](https://www.ledgerinsights.com/tether-provides-around-73-of-centralized-crypto-lending-report/) - 📰 null - 【Galaxy Digital：Tether已成为加密借贷市场主导者，市场份额达到约73%】金色财经报道，Galaxy Digital在其加密货币借贷市场报告中指出，随着一些中心化借贷机构的破产，稳定币发行商Tether正在填补市场空白并成为主导者，目前其在加密借贷市场的份额已达到73%。数据显示Tether储备中包括高达82亿美元的担保借贷余额，目前排名前三的中心化借贷平台分别是Tether、Galaxy和Ledn，合计占据了中心化金融 (CeFi) 市场88.6%的份额。 
+Galaxy还指出传统金融参与者也在进入加密借贷市场，其中包括现任美国商务部长霍华德·卢特尼克的Cantor Fitzgerald，该公司已宣布初期融资20亿美元以启动加密货币借贷业务。
+- [WCT代币经济学：总量10亿枚，初始流通供应量占比为18.62%]() - 📰 null - 【WCT代币经济学：总量10亿枚，初始流通供应量占比为18.62%】金色财经报道，据Binance公告，WalletConnect(WCT)将于今日19时上线Binance。其代币经济学如下： 
+总量10亿枚，Binance Launchpool代币奖励：40,000,000 WCT（占代币总供应量的4%）；Binance上线初始流通供应量占比为18.62%。
+- [金色午报 | 4月15日午间重要动态一览]() - 📰 null - 【金色午报 | 4月15日午间重要动态一览】7:00-12:00关键词：OpenSea、WisdomTree、特朗普次子 
+1.OpenSea宣布将上线Solana链上NFT交易； 
+2.美联储博斯蒂克：经济处于大幅停滞的状态； 
+3.截至2024年底CeFi贷款总规模为112亿美元； 
+4.特朗普次子将受邀参加TOKEN2049迪拜会议； 
+5.2025年Q1上市公司共购入95431枚比特币，总持有量达68.8万枚； 
+6.调研：全球91家央行暂无数字资产投资，超半数反对比特币战略储备； 
+7.美SEC已将WisdomTree和VanEck的现货比特币和以太坊ETF的实物申购和赎回决定推迟至6月3日。
+- [社区质疑HashKey代币HSK未按白皮书规定回购销毁](https://e9bfc29f-9778-4595-845d-eeaa28f4cd68.usrfiles.com/ugd/e9bfc2_9247a755877c4468b64ed0a2059fb386.pdf) - 📰 null - 【社区质疑HashKey代币HSK未按白皮书规定回购销毁】4月15日消息，据社区用户反馈称，HashKey代币HSK代币回购销毁从未公开披露记录。 
+按照HSK白皮书描述，HashKey采用销毁机制以保障HSK的内在价值。HashKey将定期使用集团净利润的20%回购流通中的HSK，并永久将其从流通中移除。而在Hashkey集团关于HSK信息的页面中，HSK销毁信息显示“HashKey将有权从指定平台业务产生的净利润中提取20%作为回购HSK的资金，并将回购的部分进行永久销毁。” 
+经查询，HashKey集团HSK页面中“回购/销毁”数据为0。Hashkey交易平台表示会在每季度的第11天公布销毁结果。HSK上线时间为2024年11月，在今年4月11日，HashKey发布公告表示HSK代币销毁计划将定期评估，并在适用时对外公布。社区理解为目前HSK并未进行回购与销毁。 
+有观点表示，HSK并未进行回购与销毁的原因是HashKey集团在2025年Q1并未产生净利润，所以未回购属于合理现象。
+- [昨日美国现货比特币ETF净流入150万美元，结束连续7日净流出]() - 📰 null - 【昨日美国现货比特币ETF净流入150万美元，结束连续7日净流出】金色财经报道，据 Farside 监测，昨日美国现货比特币ETF净流入150万美元，结束连续7日净流出，其中 IBIT 净流入 3670 万美元，FBTC 净流出 3520 万美元。
+- [调研：全球91家央行暂无数字资产投资，超半数反对比特币战略储备](https://www.ledgerinsights.com/fewer-central-banks-considering-digital-asset-investing-in-5-10-years/) - 📰 null - 【调研：全球91家央行暂无数字资产投资，超半数反对比特币战略储备】金色财经报道，最近一项关于央行加密货币储备调查显示出喜忧参半的局面，目前管理着超过7万亿美元储备的91家央行均没有数字资产投资，只有一家央行表示支持比特币战略储备的想法，50家（59.5%）央行表示反对，33家（39.3%）表示不确定。此外，去年15.9%的央行受访者表示将考虑在未来五到十年内投资数字资产或数字货币，但在2025年的调查中这一比例大幅下降仅为2.1%。
+- [4E：关税前景不明令市场保持警惕，美股和加密市场小幅反弹](https://x.com/4EChinese/status/1911977873709162562) - 📰 null - 【4E：关税前景不明令市场保持警惕，美股和加密市场小幅反弹】4月15日消息，据4E监测，美国政府对电子产品暂缓征税，令市场情绪得到提振，但特朗普又表示没有关税“豁免”，相关产品只是被转移到另一关税类别。这种反复无常的政策信号导致市场情绪波动。美股市场周一高开低走，三大指数盘中一度悉数转跌，但最终集体收涨。截至收盘，道指涨0.78%，标普500指数涨0.79%，纳指涨0.64%。科技股七巨头指数收涨0.18%。 
+加密市场整体跟随美股温和上涨，比特币总体在8.5万美元上线波动，Strategy宣布上周以2.86亿美元购入3459枚比特币（均价82618美元），一定程度提振了市场情绪，截稿时比特币报85031美元，24小时上涨1.12%。山寨币表现分化，涨跌互现，市场呈现结构性波动，投资者在乐观情绪与谨慎态度间寻求平衡。 
+特朗普关税政策摇摆不定令市场保持警惕。周一特朗普“消停”了一天，对于当前的市场，特朗普没有新消息就是好消息。投资者担忧若无明确的灵活性和谈判进展，市场短期可能面临进一步波动。投资者期待白宫在未来几周内就关税问题展现更清晰的立场，以降低全球供应链和经济的不确定性。
+- [某巨鲸正通过DCA策略出售625万枚Fartcoin和1000万枚POPCAT](https://x.com/lookonchain/status/1911989368828706938) - 📰 null - 【某巨鲸正通过DCA策略出售625万枚Fartcoin和1000万枚POPCAT】金色财经报道，据Lookonchain监测，一巨鲸正通过DCA策略出售625万枚Fartcoin（价值553万美元）和1000万枚POPCAT（价值268万美元）。
