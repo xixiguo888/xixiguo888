@@ -1,30 +1,41 @@
-- [特朗普称美乌矿产协议将于24日签署]() - 📰 null - 【特朗普称美乌矿产协议将于24日签署】金色财经报道，美国总统特朗普表示，与乌克兰的矿产协议将于24日签署。此外，当天早些时候，乌克兰总统泽连斯基在新闻发布会上透露，乌克兰与美国极有可能在17日签署关于矿产资源协议的意向备忘录。泽连斯基指出，就在几天前，美方提出了进一步推进合作的提议，即签订一份意向备忘录。据了解，乌克兰副总理目前正在负责起草相关文本。泽连斯基强调，这份备忘录意义重大，是双方合作的重要开端。
-- [特朗普：“百分之百”相信能与欧盟达成贸易协议](https://flash.jin10.com/detail/20250418013133193800) - 📰 null - 【特朗普：“百分之百”相信能与欧盟达成贸易协议】金色财经报道，当地时间4月17日获悉，意大利总理梅洛尼抵达白宫，与美国总统特朗普进行会晤。特朗普政府官员表示，双方预计将在会晤中讨论一系列话题，包括贸易、移民和结束乌克兰冲突等。此外，预计梅洛尼将在贸易和关税问题上向特朗普施压。有官员表示，特朗普“非常重视此事”，白宫“已准备好达成协议”。特朗普当天表示，“百分之百”有信心在90天的关税暂停期结束前与欧盟达成贸易协议。（央视新闻）
-- [特朗普：如果我要求，美联储主席鲍威尔就得离职](https://flash.jin10.com/detail/20250418014953608800) - 📰 null - 【特朗普：如果我要求，美联储主席鲍威尔就得离职】金色财经报道，美国总统特朗普表示，如果我要求，美联储主席鲍威尔就得离职。我对他（美联储主席鲍威尔）并不满意。美联储主席鲍威尔行动迟缓、步伐缓慢。我们拥有一位在进行政治操作的美联储主席。
-- [加密娱乐平台Zero Edge创始人Richard Kim因挪用投资者资金用于赌博被捕](https://www.coindesk.com/policy/2025/04/17/crypto-casino-founder-richard-kim-arrested-after-gambling-away-investor-funds) - 📰 null - 【加密娱乐平台Zero Edge创始人Richard Kim因挪用投资者资金用于赌博被捕】金色财经报道，加密娱乐平台 Zero Edge 创始人 Richard Kim 于周二被捕，原因是他被指控将投资者的资金用于赌博。 
-根据美国联邦调查局（FBI）周二在纽约南区提交的起诉书，Kim“通过欺诈手段诱导投资者投资他创办的加密技术公司 Zero Edge，随后挪用了数百万美元的投资资金”。 
-FBI 指出，Kim 输掉了约 380 万美元的投资者资金，目前已被控证券欺诈和电信欺诈。根据法庭记录，Kim 已缴纳了一份 25 万美元的有担保保释金，其中包含 10 万美元的现金或不动产作为担保。 
-2024 年 7 月，Galaxy 指控 Galaxy 旗下专注于游戏的风险基金 Galaxy Interactive 前普通合伙人 Richard Kim 挪用其新区块链初创公司 Zero Edge 至少 367 万美元资金。
-- [全网比特币合约未平仓头寸达544亿美元](https://www.coinglass.com/BitcoinOpenInterest) - 📰 null - 【全网比特币合约未平仓头寸达544亿美元】金色财经报道，据 Coinglass 数据，全网比特币期货合约未平仓头寸为 64.129 万枚 BTC（约合 544 亿美元）。 
-其中 CME 比特币合约未平仓头寸为 14.23 万枚 BTC（约合 120.5 亿美元），位列第一； 
-Binance 比特币合约未平仓头寸为 11.173 万枚 BTC（约合 94.8 亿美元），位列第二。
-- [若比特币突破8.7万美元，主流CEX累计空单清算强度将达4.74亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币突破8.7万美元，主流CEX累计空单清算强度将达4.74亿】金色财经报道，据 Coinglass 数据，若比特币突破 8.7 万美元，主流 CEX 累计空单清算强度将达 4.74 亿。 
-反之，若比特币跌破 8.3 万美元，主流 CEX 累计多单清算强度将达 3.24 亿。
-- [美股拉升，标普500指数涨0.6%，纳指涨0.14%]() - 📰 null - 【美股拉升，标普500指数涨0.6%，纳指涨0.14%】金色财经报道，美股拉升，标普500指数涨0.6%，纳指涨0.14%，道指跌幅收窄至0.8%。
-- [BTC突破85000美元]() - 📰 null - 【BTC突破85000美元】金色财经报道，行情显示，BTC突破85000美元，现报85027.82美元，24小时涨幅达到0.16%，行情波动较大，请做好风险控制。
-- [特朗普：预计将宣布有关贸易协议的消息，但目前并不着急](https://flash.jin10.com/detail/20250418001422228800) - 📰 null - 【特朗普：预计将宣布有关贸易协议的消息，但目前并不着急】金色财经报道，美国总统特朗普表示，预计将宣布有关贸易协议的消息，但目前并不着急，对与欧盟的贸易协议非常有信心。
-- [Ark Invest将约746枚BTC转入Coinbase疑似出售](https://intel.arkm.com/explorer/address/bc1qyq0n03pjgmggyu26xepa72z34elzsyg2ajlc8l) - 📰 null - 【Ark Invest将约746枚BTC转入Coinbase疑似出售】金色财经报道，据Arkham监测数据显示，大约六分钟前，Ark Invest通过旗下比特币交易所交易基金ARKB 21Shares Bitcoin ETF将746.178枚BTC转入Coinbase疑似出售，价值6313万美元。
-- [Coinbase国际站将上线WCT、BABY、KERNEL、PROMPT永续合约交易](https://x.com/CoinbaseIntExch/status/1912898992435798480) - 📰 null - 【Coinbase国际站将上线WCT、BABY、KERNEL、PROMPT永续合约交易】金色财经报道，Coinbase 国际站将上线 WCT、BABY、KERNEL、PROMPT 永续合约交易。
-- [斯洛文尼亚财政部提出对加密货币个人收入征税提案](https://news.bloombergtax.com/daily-tax-report/slovenia-floats-proposal-to-tax-personal-incomes-from-crypto) - 📰 null - 【斯洛文尼亚财政部提出对加密货币个人收入征税提案】金色财经报道，斯洛文尼亚财政部正在征求意见，提出对个人从加密资产处置中获得的利润征收 25% 的税收。 
-该提案于周四发布，旨在弥补该国税收体系中的漏洞，现有体系对加密资产交易的商业收入征税，但却对自然人作为投资买卖加密资产的行为免税。 
-提案的意见征集截止日期为 5 月 5 日。如果获得议会批准，预计将于 2026 年 1 月 1 日生效。
-- [美SEC公布加密货币托管圆桌会议议程及参会成员](https://www.sec.gov/newsroom/press-releases/2025-65) - 📰 null - 【美SEC公布加密货币托管圆桌会议议程及参会成员】金色财经报道，据美国证券交易委员会（SEC）官方公告，SEC 加密货币工作组将于 4 月 25 日举办主题为"了解你的托管人：加密货币托管关键考量"的圆桌会议。会议将在 SEC 华盛顿特区总部举行，时间为下午 1 点至 5 点。议题包括：通过经纪自营商及其他方式进行托管、投资顾问和投资公司托管。 
-美国证券交易委员会参会人员包括：代理主席 Mark Uyeda、专员 Caroline Crenshaw、专员 Hester Peirce。其他参会人员包括：Jason Allegrante（Fireblocks）、Rachel Anderika（Anchorage Digital Bank）、Terrence Dempsey（富达数字资产）、Mark Greenberg（Kraken）、Tammy Weinrib（Copper ）、Larry Florio（1kx）、Ryan Louvar（WisdomTree）等。
-- [美议员：若特朗普能够解雇鲍威尔，将导致美国市场崩溃](https://www.forbes.com/sites/dereksaul/2025/04/17/can-trump-fire-jerome-powell-federal-reserve-chair-thinks-no-as-president-urges-his-termination/?utm_source=twitter&utm_medium=social&utm_campaign=forbes&utm_term=se-staff) - 📰 null - 【美议员：若特朗普能够解雇鲍威尔，将导致美国市场崩溃】金色财经报道，美国民主党参议员、加密批评者 Elizabeth Warren 表示，如果美国总统能够解雇美联储主席鲍威尔，这将导致美国市场崩溃。Warren 曾担任美国参议院经济政策银行委员会的主席。
-- [报告：币安以45%的市占率在2025年第一季度持续领跑全球现货市场](https://s2.tokeninsight.com/static/research/file/levelPdf/Crypto_Exchange_Report_Q1_2025_CN.pdf) - 📰 null - 【报告：币安以45%的市占率在2025年第一季度持续领跑全球现货市场】金色财经报道，根据TokenInsight报告，币安在2025年第一季度继续稳居全球现货市场首位，季度平均市占率为43.9%。自年初的43.5%起稳步上升，至3月底达到45%，再次巩固了其作为全球领先中心化交易所的地位。
-- [Coinbase完成平台内Solana基础设施升级](https://x.com/CoinbasePltfrm/status/1912857582546321601) - 📰 null - 【Coinbase完成平台内Solana基础设施升级】金色财经报道，Coinbase Platform 宣布已完成平台内 Solana 基础设施升级，主要改进包括：实现异步处理交易，区块处理吞吐量提升 5 倍；采用裸机服务器，RPC 性能提升 4 倍；通过改进故障转移机制、流动性优化和运营控制，提升系统韧性。 
-Coinbase 承诺将继续投资 Solana 基础设施，以满足 Solana 未来扩展的需求。
-- [Telegram创始人驳斥某法国媒体指控：一直遵守欧盟法规，未因拘留而改变政策]() - 📰 null - 【Telegram创始人驳斥某法国媒体指控：一直遵守欧盟法规，未因拘留而改变政策】4月17日消息，Telegram 创始人 Pavel Durov 在个人频道回应某法国媒体报道称，其被拘留“迫使 Telegram 遵守欧盟法规”的说法不实。Telegram 一直合法合规，真正改变的是法国警方在事后才开始按照欧盟《数字服务法案》提交请求。相关联系流程早已公开，法国执法机关此前忽视这一合法程序令人费解。Telegram 强调其全球范围内持续投入合规，欧盟法规更是提前数年开始准备。
-- [Initia联创：Binance Labs系Initia首个且至今为止最大的投资方](https://x.com/ItsAlwaysZonny/status/1912885909751578868) - 📰 null - 【Initia联创：Binance Labs系Initia首个且至今为止最大的投资方】金色财经报道，全链 Rollup L1 网络 Initia 联合创始人 zon 在社交媒体发文表示，“早在 2023 年初，Binance Labs（现为 YZi Labs）成为了我们的首个投资方，也是至今为止最大的投资方。”
-- [近3个月Hyperliquid日均交易量达64亿美元](https://blockworks.co/news/hyperliquid-market-share-success-blockworks-research/) - 📰 null - 【近3个月Hyperliquid日均交易量达64亿美元】金色财经报道，据 Blockworks Research 报告显示，过去 3 个月 Hyperliquid 日均交易量平均可以达到 64 亿美元，略高于 Bybit 和 OKX 日交易量的 50％。相比之下，Hyperliquid 最接近的竞争对手 Jupiter Perps 日均交易量仅为 7.04 亿美元，比 Hyperliquid 低 88%。此外，报告指出 Hyperliquid 的核心业务是 HyperCore（订单簿交易）和 HyperEVM（以太坊虚拟机网络），目前 HyperCore 占据主导地位。
-- [贝莱德再次增持价值超3000万美元的BTC，已连续三日增持](https://x.com/Cointelegraph/status/1912886080245821565) - 📰 null - 【贝莱德再次增持价值超3000万美元的BTC，已连续三日增持】金色财经报道，据Arkham监测数据显示，大约47分钟前，贝莱德通过旗下比特币交易所交易基金IBIT再次增持363.635枚BTC，价值3073万美元，值得一提的是贝莱德已连续三日增持比特币。
+- [CZ：BNB是Meme币](https://x.com/cz_binance/status/1912913903853371851) - 📰 null - 【CZ：BNB是Meme币】4月18日消息，CZ援引BNB即将上线Kraken消息表示：“BNB是一种Meme币。” 
+此前消息，BNB将于4月22日上线Kraken，现已开放存款。
+- [Pump.fun联创：将继续在社交媒体和代币化的交叉领域进行试验，但不会发币](https://x.com/a1lon9/status/1912624550707179808) - 📰 null - 【Pump.fun联创：将继续在社交媒体和代币化的交叉领域进行试验，但不会发币】4月18日消息，Pump.fun联合创始人Alon Cohen在X平台发文称：“Pump.fun将继续在社交媒体和代币化的交叉领域进行试验。其中一些尝试（比如直播，顺便说一下，现已经完全恢复直播）。无论我们做什么，我们都会尽最大努力确保与我们的核心用户群体保持一致。话虽如此：别指望我、pump.fun或任何员工会发行代币（也不会有“秘密发行”）。”
+- [EigenLayer宣布罚没机制已在主网上线](https://x.com/eigenlayer/status/1913000486212624821) - 📰 null - 【EigenLayer宣布罚没机制已在主网上线】金色财经报道，以太坊再质押协议EigenLayer发推表示，其罚没机制（Slashing）已在主网上线，协议委员会已完成升级执行。
+- [Blur在1小时前将本月解锁的2380万枚代币转入Coinbase Prime](https://x.com/EmberCN/status/1913034345474081015) - 📰 null - 【Blur在1小时前将本月解锁的2380万枚代币转入Coinbase Prime】金色财经报道，据链上分析师余烬监测，一月一解锁的Blur在1小时前将本月解锁的2380万枚BLUR(230万美元)转进Coinbase Prime。 
+Blur自2023/6/15进入解锁周期以来，已经解锁了35.6%总量的BLUR(10.68亿枚)并转进Coinbase Prime进入市场流通。以解锁转出时的价格计算，价值3.4亿美元。转出平均价0.318美元，而BLUR现在价格仅为0.096美元。
+- [数据：Solana 在 7 天 DEX 交易量超过 150 亿美元，超越所有其他链](https://x.com/Cointelegraph/status/1913027450092581231) - 📰 null - 【数据：Solana 在 7 天 DEX 交易量超过 150 亿美元，超越所有其他链】金色财经报道，据Cointelegraph披露，Solana 在 7 天 DEX 交易量超越所有其他区块链，超过 150 亿美元。
+- [Alameda Research近10小时向Wintermute OTC存入950万枚USDT](https://x.com/OnchainLens/status/1913031171082211806) - 📰 null - 【Alameda Research近10小时向Wintermute OTC存入950万枚USDT】金色财经报道，据Onchain Lens监测，在过去10小时内，Alameda Research向Wintermute场外交易存入950万枚USDT，很可能将其转至币安和Coinbase。 
+此外，他们还向一个可能属于B2C2的钱包发送了129,871枚USDT。
+- [摩根大通：黄金仍是首选避险资产，比特币未能取而代之]() - 📰 null - 【摩根大通：黄金仍是首选避险资产，比特币未能取而代之】金色财经报道，摩根大通最新报告指出，比特币的避险叙事并未达到其神话般的地位，在市场因特朗普总统发动的全球贸易战而出现近期波动的情况下，投资者反而更倾向于将资金投入黄金。该投资银行的分析师在周四的一份报告中表示，随着投机者寻求稳妥的投资，黄金ETF和期货正获得大部分投资。本周金价更创下每盎司3660美元的历史新高。相比之下，比特币自1月20日特朗普就职日创下109000美元纪录后，已下跌超过20%，目前徘徊在85000美元附近。 
+这份周四发布的报告指出：“比特币未能像黄金那样受益于近几个月的避险资金流入。在投资者向黄金ETF注资的同时，投机者却从新的美国加密货币ETF中套现。”但地缘政治不确定性、特朗普总统激进的关税政策以及对经济衰退的担忧，促使投资者转向终极避险资产：黄金。
+- [Wintermute宣布已投资DeFi借贷协议Euler Finance](https://x.com/wintermute_t/status/1912927463170257021) - 📰 null - 【Wintermute宣布已投资DeFi借贷协议Euler Finance】金色财经报道，做市商Wintermute于X发文宣布，旗下投资机构Wintermute Ventures已投资DeFi借贷协议Euler Finance，具体金额暂未披露。
+- [美SEC前主席Jay Clayton将担任纽约南区联邦检察官临时职务](https://news.bitcoin.com/former-sec-chairman-jay-clayton-to-serve-as-interim-us-attorney-for-the-southern-district-of-new-york/) - 📰 null - 【美SEC前主席Jay Clayton将担任纽约南区联邦检察官临时职务】4月18日消息，美国总统特朗普周三在Truth Social上发布的内容，纽约州参议员、民主党少数党领袖Chuck Schumer阻止了Jay Clayton的提名，致使Clayton目前处于临时任职状态，因此这位美SEC前主席将不得不等待更长时间，才能正式成为纽约南区（SDNY）联邦检察官。由于纽约南区联邦检察官办公室（SDNY）这一联邦审判法院经常审理重大企业刑事案件，所以该联邦检察官职位备受瞩目。 
+Clayton在2021年接受CNBC采访时曾表示：“我非常看好这项技术。”一些加密货币专家称赞他比其继任者Gary Gensler更为开明。然而，Clayton缺乏检察经验，Schumer声称特朗普提名这位前监管者担任这一重要职位的唯一原因，是为了推进总统的险恶阴谋，即最终追究和起诉他的政治对手。特朗普在Truth Social上予以回击，称赞Clayton的资历和经验，并指责舒默搞党派政治。
+- [分析师：当金价创下新高时，历史表明“比特币会在150天内跟涨”](https://cointelegraph.com/news/when-gold-price-hits-new-highs-history-shows-bitcoin-follows-within-150-days-analyst) - 📰 null - 【分析师：当金价创下新高时，历史表明“比特币会在150天内跟涨”】金色财经报道，4月17日，黄金价格飙升至每盎司3357美元的历史新高，引发了比特币是否会跟涨的猜测。2017年，在黄金几个月前上涨30%之后，比特币飙升至19,120美元。同样，2020年新冠疫情期间，黄金达到近2075美元的新高，随后2021年比特币飙升至69,000美元。从历史上看，每当黄金上涨时，比特币都会突破其此前的历史高点，这反映出在经济不确定时期以及投资者寻找美元替代品时，这两种资产之间存在着动态关系。 
+进一步凸显这两种资产之间的关联Theya增长负责人Joe Consorti指出，比特币会滞后100 - 150天跟随黄金的方向性走势。Consorti表示：“当印钞机开动时，黄金会先嗅到气息，然后比特币会跟涨得更猛。”考虑到Consorti的观点，比特币有望在2025年第三季度至第四季度之间达到新的历史高点。匿名比特币支持者apsk32预计7月至11月之间会出现类似的结果或牛市行情。
+- [怀俄明州委员会探讨稳定币是否受美SEC规则“管辖”](https://cointelegraph.com/news/wyoming-commission-covered-stablecoin-sec?ref=onepagecrypto.com) - 📰 null - 【怀俄明州委员会探讨稳定币是否受美SEC规则“管辖”】4月18日消息，美国怀俄明州授权发行稳定币的机构——怀俄明州稳定币委员会表示，正考虑调整其政策措辞，以更好地符合美国证券交易委员会（SEC）可能出台的监管指引。4月17日，在怀俄明州议会大厦扩建处举行的会议上，委员Joel Revill提出，该机构可以降低该州拟发行的WYST稳定币根据SEC规则被认定为证券的风险。此前，SEC发布指南称，某些“受监管的稳定币”被视为“非证券”，基本上不受报告要求约束，委员们和执行董事Anthony Apollo随后展开了讨论。Apollo表示：“我们打算围绕其中一些问题创造自己的行话来进行澄清，然后以此作为委员会讨论的起点。”他补充说，委员会内部已就SEC的指导方针进行了讨论，但计划在5月的一份备忘录中处理此事。 
+怀俄明州此前通过一项法律，发行与美元挂钩且可兑换为法定货币的州级稳定币后，该委员会随之成立，并一直在探讨与WYST相关的问题。怀俄明州州长Mark Gordon去年8月表示，政府最初计划在2025年第一季度推出该稳定币，后来将时间表修改为可能在7月推出。
+- [“比特币”及“以太坊”3月谷歌搜索热度略有好转，创年内最高水平](https://www.theblock.co/post/351053/retail-curiosity-is-rekindled-as-google-search-volume-for-bitcoin-and-ethereum-jumps) - 📰 null - 【“比特币”及“以太坊”3月谷歌搜索热度略有好转，创年内最高水平】金色财经报道，2025年3月，“比特币”在谷歌上的搜索热度为34，为2025年迄今为止的最高水平。1月和2月的搜索热度分别仅为31和27。这标志着“比特币”搜索量的环比相对增长了26%，也标志着该指标自2024年11月以来持续下降的趋势有所转变。 
+同样，3月份“以太坊”在谷歌上的搜索热度也达到了2025年迄今的最高水平，录得19。比上个月的16略有上升。 
+分析师表示，尽管仍远未达到之前的周期高点，但3月份谷歌对比特币和以太坊的搜索兴趣上升可能反映出散户好奇心的重新燃起，至少比2025年迄今为止的表现还要好。3月份比特币兴趣上升的一个更广泛理论可能是美国新宣布的关税，这可能重新点燃了长期以来与比特币相关的“数字黄金”和“价值存储”的叙事，尤其是在地缘政治或宏观经济紧张局势加剧的背景下。这一理论得到了BTC与SPX比率的支持，自4月2日“解放日”关税宣布以来，该比率已上涨超过8%。
+- [加密交易所eXch因洗钱指控宣布将于5月1日关停](https://cointelegraph.com/news/exch-shutting-down-reports-hacked-funds) - 📰 null - 【加密交易所eXch因洗钱指控宣布将于5月1日关停】4月18日消息，加密交易所eXch宣布将于5月1日停止运营。此前有报道称该平台被用于清洗Bybit交易所被盗资金中的部分赃款。在4月17日的公告中，eXch表示其管理团队多数成员投票决定“停止运营并退出”，以回应有关朝鲜黑客组织Lazarus Group通过该平台清洗约3500万美元资金的指控——这笔资金源自Bybit遭受的14亿美元黑客攻击。该交易所称其已成为“跨大西洋联合执法行动”的目标，该行动旨在关闭其业务并可能提起刑事指控。 
+eXch在声明中表示：“尽管我们顶住了多次关闭基础设施的企图并维持运营，但我们认为在成为信号情报监视目标、仅因某些人曲解我们宗旨的敌对环境中继续经营已毫无意义。”该交易所最初否认了区块链侦探关于其帮助Lazarus Group洗钱的指控，但承认处理过来自2月黑客事件的“极小部分资金”。
+- [金色晨讯 | 4月18日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 4月18日隔夜重要动态一览】21:00-7:00关键词：黄仁勋、鲍威尔、Telegram、加密托管 
+1.黄仁勋承认美芯片限令影响巨大； 
+2.特朗普：认为鲍威尔在某个时候会降息； 
+3.Coinbase完成平台内Solana基础设施升级； 
+4.美SEC公布加密货币托管圆桌会议议程及参会成员； 
+5.特朗普曾私下讨论解雇鲍威尔，并让前美联储理事沃什接任； 
+6.币安称多个政府和主权财富基金与其接洽有意建立加密货币储备； 
+7.Telegram创始人驳斥某法国媒体指控：一直遵守欧盟法规，未因拘留而改变政策。
+- [观点：美联储独立性或成未来几日市场焦点](https://finance.sina.com.cn/7x24/2025-04-18/doc-inetptpa1585145.shtml) - 📰 null - 【观点：美联储独立性或成未来几日市场焦点】金色财经报道，Evercore ISI分析师Krishna Guha认为：“随着关税渗透到消费者价格，美联储的独立性将成为未来几天的关注点。如果你喜欢关税引发的市场混乱，那你一定会爱上“美联储失去独立性”相关交易。”“从历史、基本面和技术面分析的多重角度来看，证据表明当前应采取略偏防御性的立场，”Truist Advisory Services首席市场策略师Keith Lerner在致客户的一份报告中如此写道，并下调了对美股的评级。
+- [人民日报钟声：经济霸凌损害美国国家信誉](https://baijiahao.baidu.com/s?id=1829692763202796937&wfr=spider&for=pc) - 📰 null - 【人民日报钟声：经济霸凌损害美国国家信誉】金色财经报道，人民日报钟声文章指出，吹灭别人的灯，并不会让自己更加光明；阻挡别人的路，也不会让自己行得更远。美国迷信实力至上，沉迷于丛林法则，大搞经济霸凌，把自身利益凌驾于各国共同利益之上，是在开历史倒车，更在加速消耗美国的国家信誉。美方应正视国际社会的反对和美国国内的理性声音，摒弃错误做法，回归合作轨道。这才是重振美国经济的正道。
+- [a16z额外买入5500万美元LayerZero代币ZRO，锁定期为3年](https://cointelegraph.com/news/a16z-doubles-down-on-layer-zero-commitment-55m-investment) - 📰 null - 【a16z额外买入5500万美元LayerZero代币ZRO，锁定期为3年】金色财经报道，a16z普通合伙人Ali Yahya表示，a16z已经对LayerZero代币ZRO额外投资5500万美元，锁定期为3年。 
+a16z此前曾对LayerZero进行过投资，包括2022年3月的初始投资以及2023年4月LayerZero B轮融资期间的后续投资。
+- [特朗普媒体与科技集团呼吁SEC调查Qube是否参与非法做空DJT股票](https://decrypt.co/315309/trump-media-sec-investigate-suspicious-trading) - 📰 null - 【特朗普媒体与科技集团呼吁SEC调查Qube是否参与非法做空DJT股票】金色财经报道，Truth Social 母公司特朗普媒体与科技集团 (Trump Media & Technology Group) 指控，总部位于英国的 Qube 可能在未正确披露其持仓的情况下做空 DJT 股票。 
+Trump Media & Technology Group在致美国证券交易委员会代理主席马克·乌耶达 (Mark Uyeda) 的一封公开信中指控，英国公司 Qube 可能参与了“非法卖空 DJT 股票”。 TMTG 指控 Qube 于 4 月 10 日在德国披露了 600 万股空头头寸，价值 1.05 亿美元，但并未向其所在辖区的监管机构通报该头寸。特朗普媒体还援引第三方消息人士的话说，Qube 的持仓此后几乎翻了一番，达到 1100 万股。 
+TMTG在信中表示：“我们敦促您立即调查这起可疑交易，并将调查结果报告给 TMTG 和任何相关的民事和刑事当局。” 根据TMTG的财务披露，该公司去年营收不到400万美元，运营亏损4亿美元。TMTG股价当日收盘价为22.04美元，较年初下跌35%。
+- [DCG CEO：若将2012年投资早期加密项目的比特币一直持有，收益会更高](https://financefeeds.com/barry-silbert-says-holding-bitcoin-would-have-outperformed-his-crypto-bets/) - 📰 null - 【DCG CEO：若将2012年投资早期加密项目的比特币一直持有，收益会更高】金色财经报道，Digital Currency Group（DCG）CEO Barry Silbert在播客中反思，若将2012年投资早期加密项目的比特币（当时买入价7-8美元）一直持有，收益会更高。他同时指出当前多数加密货币缺乏实际货币价值。与此同时，比特币极简主义者预测BTC未来十年或突破百万美元。比特币政策研究所（BPI）负责人Zach Shapiro称，若美国政府宣布购买100万枚BTC，将引发市场巨震。特朗普加密委员会亦在探索通过黄金储备重估或关税等方式增持BTC，以应对美国债务危机。资产管理公司VanEck分析，BTC挂钩债券或可帮助削减14万亿美元国债。
+- [Coinbase国际交易所的BTC永续合约周交易量达到1000亿美元](https://www.theblock.co/post/351049/tariff-turmoil-fuels-coinbase-internationals-btc-perpetuals-to-100-billion-in-weekly-volume) - 📰 null - 【Coinbase国际交易所的BTC永续合约周交易量达到1000亿美元】金色财经报道，Coinbase 国际交易所（Coinbase International ）的永续合约平台在衍生品市场持续增长，过去一周处理了近 1000 亿美元的 BTC 永续合约交易量。这一激增使比特币永续合约成为该交易所最大的细分市场，而其他所有市场的成交量都远低于这一水平。 
+Coinbase International 是 Coinbase 的百慕大许可衍生品交易所，这使得该公司能够提供美国监管不允许的复杂交易产品。
