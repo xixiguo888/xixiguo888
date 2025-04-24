@@ -1,36 +1,26 @@
-- [OKX将上线INIT永续合约]() - 📰 null - 【OKX将上线INIT永续合约】4月24日消息，据官方公告，欧易OKX将于2025年4月24日下午7:30(UTC+8)在网页端、App端及API正式上线INITUSDT永续合约，INITUSDT合约交易开盘时间：4月24日下午7:30(UTC+8)。据悉，Initia是一个L1区块链，通过交织网络的基础设施和协调的经济机制，将应用链联合起来，释放其全部价值。
-- [ALPACA代币在币安宣布下架后大幅震荡](https://www.coingecko.com/en/coins/alpaca-finance) - 📰 null - 【ALPACA代币在币安宣布下架后大幅震荡】4月24日消息，数据显示，在币安宣布将于5月2日下架ALPACA后，ALPACA代币价格出现剧烈震荡，先是从0.4美元下跌至0.3附近后开始大幅拉升至0.8美元，涨幅超100%，随后又大幅下跌至0.045美元。过去24小时交易量超5800万美元，但其代币总市值仅约为730万美元。
-- [Synthetix（SNX）被韩国数字资产交易所协会（DAXA）指定为交易警告商品]() - 📰 null - 【Synthetix（SNX）被韩国数字资产交易所协会（DAXA）指定为交易警告商品】4月24日消息，因由SNX支持的稳定币sUSD存在脱锚现象，Synthetix（SNX）已被韩国数字资产交易所协会（DAXA）指定为交易警告商品，目前Upbit以及Bithumb等交易平台已公告将暂停充值SNX，观察期将持续至5月底。
-- [美国检察官提交逾200份受害者声明指控前Celsius CEO](https://cointelegraph.com/news/prosecutors-over-200-victim-impact-statements-in-alex-mashinsky) - 📰 null - 【美国检察官提交逾200份受害者声明指控前Celsius CEO】金色财经报道，美国联邦检察官向曼哈顿联邦法院提交了超过200份受害者声明，指控Celsius Network创始人兼前CEO Alex Mashinsky。这些声明详述了Celsius崩溃对用户造成的经济损失和生活影响。Mashinsky已于2023年12月认罪，承认一项商品欺诈和一项证券欺诈罪名，最高可判30年监禁。多数受害者要求法院判处最高刑期，但也有少数人呼吁从轻处理。Mashinsky的量刑将于5月8日宣布，其辩护团队请求不超过366天的监禁期。
-- [加密相关的公司不符合英伟达Inception计划申请资格](https://programs.nvidia.com/phoenix/application?program=inception&ncid=no-ncid) - 📰 null - 【加密相关的公司不符合英伟达Inception计划申请资格】4月24日消息，据官方页面显示，英伟达Inception计划申请页面显示，其不支持加密相关公司进行申请，咨询公司、云服务商、经销商、上市公司亦被排除在外。该项目要求申请公司为成立时间不超过10年，具备开发人员、有效网站与正式注册身份。英伟达Inception计划旨在帮助初创企业在各个阶段加速技术创新与业务增长。
-- [慢雾余弦：建议投资者在以太坊超低Gas的情况下批量取消自以为安全的代币授权](https://x.com/evilcos/status/1915274799259279746) - 📰 null - 【慢雾余弦：建议投资者在以太坊超低Gas的情况下批量取消自以为安全的代币授权】金色财经报道，慢雾创始人余弦在社交媒体上发文表示，在以太坊gas这么低（0.347 Gwei）的状态下，建议投资者取消拿不准/吃不透/自以为安全的所有代币授权，取消单个授权的Gas不足0.1美元，即使有100个异常授权要取消，也仅消耗几美元，但却堵住了潜在的巨额风险敞口。
-- [Twenty One Capital披露BTC储备细节：约23,950枚BTC来自Tether，10,500枚BTC来自软银](https://www.sec.gov/Archives/edgar/data/1865602/000121390025034375/ea023922201ex99-3_cantor.htm) - 📰 null - 【Twenty One Capital披露BTC储备细节：约23,950枚BTC来自Tether，10,500枚BTC来自软银】金色财经报道，在向美国证券交易委员会提交的投资者报告中，由Tether和Bitfinex控股的比特币公司Twenty One Capital披露将以超过4.2万枚BTC储备持有量启动，其中约23,950枚BTC来自Tether，10,500枚BTC来自软银，7,000枚BTC来自Bitfinex，该公司拟将比特币储备以每股10美元的价格转换为股权。Twenty One还表示，与Strategy（原MicroStrategy）的商业模式相比，他们对于寻求资本高效的比特币投资的投资者来说可能是“更优越的投资工具”。
-- [Ethos开启匿名评论实验，并将通过Kairos Agent存储至链上](https://x.com/ethos_network/status/1915266237564654020) - 📰 null - 【Ethos开启匿名评论实验，并将通过Kairos Agent存储至链上】金色财经报道，链上声誉和信誉项目Ethos Network开启匿名评论实验，并将通过Kairos Agent存储至链上。若最终效果未达预期，团队将随时关闭实验。
-- [某巨鲸从币安提取150万美元购买TRUMP](https://x.com/lookonchain/status/1915265380567965857) - 📰 null - 【某巨鲸从币安提取150万美元购买TRUMP】金色财经报道，据链上分析师Lookonchain（@lookonchain）监测，某巨鲸沉寂5个月后从币安提取150万美元购买123228枚TRUMP。或为“TRUMP晚宴”。
-- [某持币FARTCOIN 5个月的鲸鱼开始获利了结，7小时前卖出95.5万枚FARTCOIN](https://x.com/lookonchain/status/1915260660822257936) - 📰 null - 【某持币FARTCOIN 5个月的鲸鱼开始获利了结，7小时前卖出95.5万枚FARTCOIN】金色财经报道，据Lookonchain监测，某鲸鱼地址在持有FARTCOIN5个月后开始获利了结。 
-5个月前，他花费895,151美元，以0.205美元均价买入了436万枚FARTCOIN（峰值时价值1080万美元）。 
-7小时前，他以1.05美元的价格卖出了955,589枚FARTCOIN（价值100万美元），目前仍持有340万枚FARTCOIN。
-- [慢雾首席信息安全官：提防假冒YZiLabs网站的诈骗活动]() - 📰 null - 【慢雾首席信息安全官：提防假冒YZiLabs网站的诈骗活动】金色财经报道，慢雾首席信息安全官23pds发文提醒，当前出现假冒YZiLabs的钓鱼网站，诱导用户进行虚假领取操作，构成诈骗行为。该骗局正在扩散，用户需提高警惕，注意资产安全。
-- [KiloEx公布黑客事件补偿方案，交易者与质押用户将获赔偿及收益加成](https://medium.com/kiloex/kiloex-resoluton-plan-for-users-affected-by-the-security-incident-50a7c5891fed) - 📰 null - 【KiloEx公布黑客事件补偿方案，交易者与质押用户将获赔偿及收益加成】4月24日消息，据KiloEx公告，针对4月14日18:27至19:40 UTC期间的安全事件，平台将为受影响用户推出差异化补偿措施。交易者因停机期间盈利减少或亏损扩大将获全额补偿，建议平台恢复后尽快平仓；Hybrid Vault质押用户本金与收益无损，并可参与4月24日至5月24日的10%年化额外收益活动；VIP用户将获得等级+1奖励及30天VIP保护期。
-- [Binance将于5月2日下架ALPACA、PDA、VIB与WING]() - 📰 null - 【Binance将于5月2日下架ALPACA、PDA、VIB与WING】金色财经报道，据Binance公告，因不再符合平台审查标准，币安将于2025年5月2日11:00（北京时间）停止ALPACA、PDA、VIB与WING代币的所有现货交易对，并进行下架处理。官方强调该决定基于项目团队活跃度、交易流动性、网络安全性、社区透明度等多项评估指标。
-- [美国现货以太坊ETF昨日净流净流出2390万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流净流出2390万美元】金色财经报道，据Trader T监测，美国现货以太坊ETF昨日净流净流出2390万美元。
-- [金色午报 | 4月24日午间重要动态一览]() - 📰 null - 【金色午报 | 4月24日午间重要动态一览】7:00-12:00关键词：SUI ETF、Metaplanet、ZKsync、TRUMP 
-1.马斯克与贝森特上周在白宫爆发激烈争吵； 
-2.市场消息：21Shares在特拉华州注册SUI ETF； 
-3.Metaplanet再度加仓145枚BTC，总持仓达5,000枚； 
-4.Coinbase高管：主权财富基金正在大量买入比特币； 
-5.新罕布什尔州参议院财务委员会投票通过比特币储备法案； 
-6.ZK Nation宣布黑客已在规定期限归还500万美元ZKsync被盗资金； 
-7.TRUMP Gala晚宴细则：若取消或特朗普缺席，持有者将获赠限量NFT； 
-8.消息人士：美方在本月初举行的会谈中明确表示，不能给予日本关税方面的特殊待遇。
-- [昨日贝莱德IBIT净流入6.432亿美元，ETHA净流出3030万美元]() - 📰 null - 【昨日贝莱德IBIT净流入6.432亿美元，ETHA净流出3030万美元】金色财经报道，据 Farside Investors 监测，昨日贝莱德 IBIT 净流入 6.432 亿美元，ETHA 净流出 3030 万美元。
-- [某鲸鱼30分钟前将1,485枚BTC转进币安](https://x.com/EmberCN/status/1915250124982522228) - 📰 null - 【某鲸鱼30分钟前将1,485枚BTC转进币安】金色财经报道，据链上分析师余烬监测，一个鲸鱼/机构在30分钟前将1,485枚BTC(1.3883亿美元)转进币安，他们11个月时间在BTC上盈利了5013万美元。 
-◎他们在过去11个月里从币安提出5,700枚BTC到地址，均价80,449美元。 
-◎2个月前他们开始陆续把BTC转进币安出售，今天这1,485枚BTC是最后一笔。总的来说转进币安的均价是89,244美元。 
-◎也就是说他们在这5,700枚BTC上盈利了5013万美元。
-- [蚂蚁数科开源虚拟机DTVM，无缝兼容以太坊生态]() - 📰 null - 【蚂蚁数科开源虚拟机DTVM，无缝兼容以太坊生态】金色财经报道，4月24日消息，由蚂蚁链、蚂蚁集团超级计算、Pharos等核心技术团队等作为主要贡献者参与研发的区块链虚拟机DTVM正式宣布开源，开发者可以通过 GitHub 获取完整代码及文档。 
-据其公开的技术论文显示，DTVM通过创新JIT引擎与全链路优化，JIT引擎加速较传统解释执行实现约30倍的性能提升，刷新了目前行业最高水平。同时，DTVM 无缝兼容以太坊 EVM 生态，支持Solidity、C++、Rust、Java、Go、 AssemblyScript等六种主流编程语言。 
-作为新一代虚拟机，DTVM还集成了一款基于大语言模型（LLM）的 AI 工具套装SmartCogent，从编码、审计到部署，AI 全流程自动化驱动开发工作。
-- [BTC跌破93000美元]() - 📰 null - 【BTC跌破93000美元】金色财经报道，行情显示，BTC跌破93000美元，现报92970.84美元，24小时涨幅收窄至0.03%，行情波动较大，请做好风险控制。
-- [Movement宣布今日启动DeFi Spring计划，将提供最高2.5亿枚MOVE作为激励](https://x.com/movementfdn/status/1915120736060182869) - 📰 null - 【Movement宣布今日启动DeFi Spring计划，将提供最高2.5亿枚MOVE作为激励】金色财经报道，Movement基金会官方宣布将于今日正式启动DeFi Spring计划，活动时长一年，将提供最高2.5亿枚MOVE作为激励。 
-DeFi Spring计划分为两部分：第一部分为基于 Move 的流动性激励，用户可通过在Arche Protocol、Canopy、Echelon、Joule Finance、LayerBank、Meridian、mirage protocol、Mosaic、Movedrome、MovePosition、PicWe、Pontem Lumio、Route-X、YUZU等Dapp进行交易或提供流动性来获取激励，此部分激励现已上线；第二部分为Cornucopia资产的再存款激励，再存款窗口将在未来几天内、Cornucopia资产解锁后开放。
+- [币安：已完成DOLO代币空投，正调查DOLO卖出问题](https://x.com/binance/status/1915381165449490721) - 📰 null - 【币安：已完成DOLO代币空投，正调查DOLO卖出问题】金色财经报道，据官方消息，币安已完成 DOLO 代币的空投分发。目前有部分用户在尝试卖出 DOLO 代币时遇到问题，币安团队正在积极调查并努力解决该问题。
+- [贝莱德1小时前向Coinbase Prime存入27,852枚ETH](https://x.com/lookonchain/status/1915382425544470915) - 📰 null - 【贝莱德1小时前向Coinbase Prime存入27,852枚ETH】金色财经报道，据Lookonchain监测，贝莱德1小时前向Coinbase Prime存入了27,852枚ETH，价值4875万美元。
+- [美剧《浴血黑帮》计划推出区块链游戏生态系统](https://www.coindesk.com/web3/2025/04/24/peaky-blinders-to-hit-web3-anonymous-labs-will-launch-blockchain-based-ecosystem-on-blockbuster-series) - 📰 null - 【美剧《浴血黑帮》计划推出区块链游戏生态系统】金色财经报道，热门电视剧《浴血黑帮》（Peaky Blinders）将改编为基于区块链的视频游戏及 Web3 生态系统。该项目由 Web3 创业公司 Anonymous Labs 与《浴血黑帮》全球发行商 Banijay Rights 合作开发。 
+该剧在 Netflix 等平台累计观众达 8000 万，此次将以 3A 级游戏规格打造区块链游戏。游戏将融入数字收藏品和社区互动机制，通过互动叙事和游戏玩法吸引传统粉丝进入加密货币领域。项目负责人 Wojciech Gruszka 表示，这是迄今为止最大的知识产权进军区块链项目。
+- [去中心化交易平台 Theo 完成 2000 万美元融资](https://fortune.com/crypto/2025/04/24/theo-20-million-hft-traders-hack-vc-manifold-trading/) - 📰 null - 【去中心化交易平台 Theo 完成 2000 万美元融资】金色财经报道，去中心化交易平台  Theo 已完成总计 2000 万美元的融资。该轮融资包括两个部分：2024 年 3 月完成由量化投资公司 Manifold Trading 领投的 450 万美元种子轮，以及最近完成由加密货币投资机构 Hack VC 和 Anthos Capital 领投的 1550 万美元融资。 
+Theo 由三位来自高频交易公司 Optiver 和 IMC Trading 的前员工创立。该平台允许普通投资者使用通常仅限于顶级高频交易公司的交易策略。
+- [观点：95,000美元或将是比特币下一个重要阻力位]() - 📰 null - 【观点：95,000美元或将是比特币下一个重要阻力位】金色财经报道，据Cointelegraph报道，多位分析师表示，95,000美元或是比特币下一个重要阻力位，比特币价格可能会下跌以测试下方的支撑位。接下来可能会测试89,000至90,000美元区间，但鉴于比特币的结构仍然强劲，这些回调都是买入机会。 
+分析师Alpha BTC认为，比特币可能会在93,000美元至95,000美元的范围内盘整，然后上涨突破100,000美元。
+- [Securitize推出加密指数基金并获得4亿美元支持](https://www.theblock.co/post/351797/securitize-debuts-new-crypto-index-fund-with-mantles-400-million-backing) - 📰 null - 【Securitize推出加密指数基金并获得4亿美元支持】金色财经报道，Securitize 推出了新的加密指数基金，获得了 Mantle 4 亿美元的投资，该基金名为 Mantle Index Four （MI4），提供对主要加密资产的投资，并通过 DeFi 质押策略获得额外回报。MI4 基金旨在投资顶级加密资产，包括 BTC、ETH、SOL 和美元稳定币，目标是成为“加密货币领域的标准普尔 500 指数”。
+- [某持有价值 1460 万美元的 TRUMP 钱包注册特朗普晚宴](https://x.com/arkham/status/1915369751401922766) - 📰 null - 【某持有价值 1460 万美元的 TRUMP 钱包注册特朗普晚宴】金色财经报道，据 Arkham 监测，某 HTX 冷钱包已经为特朗普的晚宴活动完成了注册，这个钱包持有价值 1460 万美元的 TRUMP 代币，使其成为所有为这次晚宴注册的钱包中持有 TRUMP 代币数量最多的钱包。
+- [Binance Alpha上线Dolomite（DOLO）]() - 📰 null - 【Binance Alpha上线Dolomite（DOLO）】金色财经报道，据官方信息显示，Binance Alpha 已上线 Dolomite（DOLO）。
+- [Binance将为加密资产管理人提供类似传统金融交易的「基金账户」](https://www.coindesk.com/business/2025/04/24/binance-to-offer-crypto-asset-managers-fund-accounts-that-mirror-tradfi-trading?utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_term=organic) - 📰 null - 【Binance将为加密资产管理人提供类似传统金融交易的「基金账户」】金色财经报道，Binance 正在为数字资产管理人提供一种特殊账户，允许他们将投资者资产进行集中管理，使加密基金的运营体验更贴近传统金融。Binance 表示，这种集合式的「基金账户」引入了一个统一的单位净值（NAV）概念，这是买方机构普遍采用的标准，可为每只基金提供清晰、可追踪的盈亏情况，从而解决了加密资产管理领域缺乏统一市场标准的问题。
+- [美参议员：TRUMP币或是有史以来最公然腐败的总统行为](https://x.com/ChrisMurphyCT/status/1915138398714753437) - 📰 null - 【美参议员：TRUMP币或是有史以来最公然腐败的总统行为】4月24日消息，Meme 币 TRUMP 宣布，特朗普将与该代币的前 220 位持有者共进晚餐，美国康涅狄格州的民主党参议员 Chris Murphy 表示：「这不仅体现了特朗普的本性，TRUMP 币骗局或是有史以来最公然腐败的总统行为。」
+- [赵长鹏：Giggle Academy计划未来提供就业市场](https://www.bloomberg.com/news/articles/2025-04-24/binance-billionaire-zhao-guides-regulators-to-relax-crypto-rules?utm_source=telegram&utm_content=crypto&utm_medium=social) - 📰 null - 【赵长鹏：Giggle Academy计划未来提供就业市场】4月24日消息，赵长鹏在吉隆坡卡尔顿酒店发表演讲时表示，其旗下Web3教育平台Giggle Academy目前上还没有提供就业市场，但计划未来推出。赵长鹏表示，Giggle平台可以帮助新兴市场（包括非洲）14岁及以上的儿童找到工作。
+- [火币HTX携手WBTC推出WBTC/BTC站内零手续费兑换通道]() - 📰 null - 【火币HTX携手WBTC推出WBTC/BTC站内零手续费兑换通道】4月24日消息，据火币HTX官方信息，火币HTX携手WBTC（Wrapped Bitcoin）推出重磅福利，即日起，用户在火币HTX充值WBTC即可零手续费兑换BTC，原0.3%手续费全面取消，无需额外成本即可实现便捷资产管理，享受更高效、低成本的交互体验。 
+此次合作旨在重塑BTC资产流通范式，通过开放WBTC/BTC站内免费兑换通道，为用户打造无缝、低门槛的资产操作体验。未来，火币HTX 将继续携手优质生态项目，不断优化平台服务，助力用户轻松进出主流资产，推动BTC生态资产更广泛的应用与发展。
+- [Portofino Technology 首席法务官兼合规负责人已离职](https://www.coindesk.com/business/2025/04/17/portofino-technology-s-general-counsel-and-compliance-head-is-latest-senior-exec-to-exit) - 📰 null - 【Portofino Technology 首席法务官兼合规负责人已离职】金色财经报道，加密货币做市商 Portofino Technology 的首席法务官兼合规负责人 Celyn Armstrong 已离职。 
+据悉，Armstrong 在加入 Portofino 之前曾在 Dentons 和 Linklaters 等律所工作，并在英国金融行为监管局（FCA）任职超过六年。
+- [RockawayX推出1.25亿美元新基金，主要投资于Solana生态项目](https://www.forbes.com/sites/digital-assets/2025/04/24/solanas-2-billion-early-backer-rockawayx-launches-new-125-million-fund/) - 📰 null - 【RockawayX推出1.25亿美元新基金，主要投资于Solana生态项目】金色财经报道，据Forbes报道，总资产管理规模达20亿美元的加密货币风投机构RockawayX宣布完成其第二支早期基金的募资，规模为1.25亿美元。该基金将主要投资于基于Solana区块链的创业项目，重点关注收益生成类项目。
+- [INIT于Binance开盘触及0.6959美元]() - 📰 null - 【INIT于Binance开盘触及0.6959美元】金色财经报道，据行情显示，INIT于Binance开盘触及0.6959美元，暂报0.6290美元，24小时涨幅214.5%。
+- [OZK短时突破0.003美元，24小时涨幅达到60.15%]() - 📰 null - 【OZK短时突破0.003美元，24小时涨幅达到60.15%】4月24日消息，OZK已上线MEXC、BINGX和LBANK等交易所。行情显示，OZK短时突破0.003美元，现报0.002436美元，24小时涨幅达到60.15%，行情波动较大，请做好风险控制。
+- [Initia 主网上线并开放空投申领](https://x.com/initia/status/1915351076108460515) - 📰 null - 【Initia 主网上线并开放空投申领】金色财经报道，Initia 宣布主网已上线，并开放空投申领，领取有效期为 30 天，截止于 2025 年 5 月 24 日 18:00。 
+Initia 的原生代币 INIT 总供应量固定为 10 亿，其中 5%用于空投。此外，基金会占比 7.75%，协议开发者占比 15%，协议销售占比 15.25%，对于初始 CEX 流动性引导，总供应量的 6%分配给币安上线活动。
+- [币安理财、一键买币、闪兑、杠杆、合约将上线Initia（INIT）](https://www.binance.com/zh-CN/support/announcement/detail/4e07a703c9da44709e22e79d0b4be452) - 📰 null - 【币安理财、一键买币、闪兑、杠杆、合约将上线Initia（INIT）】金色财经报道，据官方公告，币安理财、一键买币、闪兑、杠杆、合约将上线Initia（INIT）。其中，币安将于2025年04月24日19:00（东八区时间）将INITUSDT U本位永续合约盘前交易转为标准版INITUSDT U本位永续合约，过渡期可能长达1小时。
+- [一持有约1329万枚USDT的地址被冻结]() - 📰 null - 【一持有约1329万枚USDT的地址被冻结】4月24日消息，据Whale Alert监测，一个持有13,292,752枚USDT的地址刚刚被冻结。
+- [港亚控股拟募资 6500 万港元，90% 将用于 Web3 投资及比特币收购](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0424/2025042400019.pdf) - 📰 null - 【港亚控股拟募资 6500 万港元，90% 将用于 Web3 投资及比特币收购】4月24日消息，港股上市公司港亚控股发布公告表示，计划发行 1312 万港元的新股及本金总额为 5237.76 万港元的可换股票债券，总募资约 6500 万港元，其中约 57,769,518 港元（占所得款项净额总额约 90%）将用于捕捉未来可能出现的潜在投资机会，以探索 Web 3.0 中的加密货币投资和机会，及 / 或用于收购比特币等数字资产。
