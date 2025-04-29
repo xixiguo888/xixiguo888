@@ -1,34 +1,41 @@
-- [数据：比特币交易所供应量上周五降至248.8万枚BTC，创7年来最低水平](https://decrypt.co/316734/bitcoin-exchange-supply-reaches-7-year-low-as-traders-hunker-down) - 📰 null - 【数据：比特币交易所供应量上周五降至248.8万枚BTC，创7年来最低水平】金色财经报道，CryptoQuant数据显示，比特币交易所供应量降至七年新低，上周五降至248.8万枚BTC。交易所储备目前为249.2 万枚BTC，周末增加了约4万枚BTC，但该水平仍为2018年10月以来的最低水平。不过，CoinShares报告称，截至4月28日当周，比特币基金流入资金达32亿美元。外汇余额下降和资金流入增加的双重因素，预示着新一轮的增持阶段即将到来。但在过去一周的涨势中，散户似乎发挥了比近几周更大的作用。这在“交易所鲸鱼比例”上表现得很明显，该比例已从4月17日的0.512下降至4月27日的0.36。
-- [VIRTUAL突破1.5美元，24小时涨幅达41.5%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/virtual-protocol) - 📰 null - 【VIRTUAL突破1.5美元，24小时涨幅达41.5%】金色财经报道，行情显示，VIRTUAL突破1.5美元，现报价1.48美元，24小时涨幅达41.5%，行情波动较大，请做好风险控制。
-- [现货黄金回落至3330美元/盎司下方，日内跌0.43%]() - 📰 null - 【现货黄金回落至3330美元/盎司下方，日内跌0.43%】金色财经报道，现货黄金回落至3330美元/盎司下方，日内跌0.43%。(金十)
-- [疑似TRUMP团队地址9小时前将134.6万枚TRUMP转进CEX](https://x.com/EmberCN/status/1917018617226662033) - 📰 null - 【疑似TRUMP团队地址9小时前将134.6万枚TRUMP转进CEX】金色财经报道，据链上分析师余烬监测，疑似TRUMP团队的一个地址，在9小时前将134.6万枚TRUMP(1953万美元)转进了CEX。 
-70万枚(1021万美元)转进Binance； 
-35万枚(508万美元)转进OKX； 
-29.6万枚(43万美元2)转进Bybit。
-- [ARK Invest昨日减持约1049.6万美元的ARK 21Shares Bitcoin ETF](https://x.com/ArkkDaily/status/1917009053038821723) - 📰 null - 【ARK Invest昨日减持约1049.6万美元的ARK 21Shares Bitcoin ETF】金色财经报道，据Ark Invest Daily数据，ARK Invest于4月28日通过其ARKW基金卖出111059股ARK 21Shares Bitcoin ETF（ARKB），按当日94.51美元的收盘价，价值约1049.6万美元。
-- [贝莱德IBIT与Strategy之间的比特币持仓差距已缩小至仅2万枚](https://x.com/Cointelegraph/status/1917013661958234527) - 📰 null - 【贝莱德IBIT与Strategy之间的比特币持仓差距已缩小至仅2万枚】金色财经报道，贝莱德的比特币现货ETF “IBIT”与Strategy之间的比特币持仓差距已缩小至仅2万枚BTC。当前IBIT持有573,869枚BTC，Strategy持有553,555枚BTC。
-- [Kamino推出欧元稳定币EURC激励计划](https://x.com/KaminoFinance/status/1916958683629580305) - 📰 null - 【Kamino推出欧元稳定币EURC激励计划】4月29日消息，Solana链上DeFi项目Kamino官方宣布，推出针对Circle旗下欧元稳定币EURC的激励计划，用户每月可通过参与借贷市场获得总计10万枚EURC奖励。 
-此前报道，据RWA.xyz数据，EURC的供应量在过去一个月增长了43%，达到了2.17亿枚，价值2.46亿美元。大部分EURC代币在以太坊网络上流通，过去一个月增长了35%，达到1.12亿枚。而Solana网络上的EURC供应量增长最快，过去一个月增长了75%，达到了7000万枚。Base上EURC供应量达到了3000万枚。
-- [ether.fi 推出4000万美元的风投基金，首批投资项目为Resolv、Rise Chain、Symbiotic](https://x.com/etherfi_VC/status/1916907447450800243) - 📰 null - 【ether.fi 推出4000万美元的风投基金，首批投资项目为Resolv、Rise Chain、Symbiotic】金色财经报道，ether.fi  宣布已推出一支 4000 万美元的风险投资基金 ether.fi  Ventures Fund I，旨在支持那些重新定义行业可能性的无畏创业者。 
-此外，该基金现已披露首批投资项目，分别为 Resolv、Rise Chain、Symbiotic。
-- [Joe Salama将加入Coinbase担任首席合规官](https://x.com/iampaulgrewal/status/1916920725937787199) - 📰 null - 【Joe Salama将加入Coinbase担任首席合规官】金色财经报道，Coinbase 首席法律官Paul Grewal发文宣布，Joe Salama将加入Coinbase担任首席合规官，接替Melissa Strait。Joe Salama曾担任德意志银行全球反金融犯罪主管和美洲区总法律顾问。
-- [Solstice Labs将于今夏在Solana上推出生息型合成稳定币USX](https://www.theblock.co/post/352212/solstice-labs-to-launch-yield-bearing-stablecoin-usx-on-solana-in-summer-2025) - 📰 null - 【Solstice Labs将于今夏在Solana上推出生息型合成稳定币USX】4月29日消息，获加密投资机构Deus X Capital支持的Solstice Labs宣布，将于今夏在Solana区块链推出生息型合成稳定币USX及原生质押协议。USX通过套利和质押策略实现delta-neutral收益，由USDT和USDC全额抵押维持锚定，持有者可无缝接入总锁仓额1亿美元的YieldVault协议。 
-目前Solana链上稳定币规模占全网2380亿美元总量的5%以上，但缺乏专为被动收入设计的法币锚定币。Solstice Labs CEO表示，USX旨在以透明方式为散户和机构用户提供传统DeFi中机构专属的收益机会。
-- [昨日ARKB净流出2.263亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流出2.263亿美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流出2.263亿美元，GBTC净流出4270万美元。
-- [金色晨讯 | 4月29日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 4月29日隔夜重要动态一览】21:00-7:00关键词：万事达、Fusaka硬分叉、XRP ETF、Matt Huang 
-1.万事达卡推进稳定币全球支付整合； 
-2.Bitfinex报告：比特币看涨势头开始形成； 
-3.以太坊Fusaka硬分叉预计于2025年末进行； 
-4.彭博分析师：ProShares XRP ETF上市日期尚未确定； 
-5.Kraken前首席法务官Marco Santori加入Pantera Capital； 
-6.亚利桑那州众议院通过比特币储备法案，推进建立加密货币储备； 
-7.以太坊基金会：未来一年将围绕核心价值观和战略目标两个支柱展开工作； 
-8.Paradigm联创Matt Huang：在200或300美元时买入比特币，曾投资字节跳动。
-- [BTC突破95000美元]() - 📰 null - 【BTC突破95000美元】金色财经报道，行情显示，BTC突破95000美元，现报95032.01美元，24小时涨幅达到1.4%，行情波动较大，请做好风险控制。
-- [FTX起诉代币发行方，敦促配合资产返还](https://www.prnewswire.com/news-releases/ftx-commences-legal-action-to-ensure-the-return-of-tokens-and-coins-302440337.html?tc=eml_cleartime) - 📰 null - 【FTX起诉代币发行方，敦促配合资产返还】金色财经报道，FTX Trading Ltd.与FTX Recovery Trust今日宣布，为追回破产财产，已对持有FTX资产且拒绝合作的部分代币发行方提起法律诉讼。FTX已起诉NFT Stars Limited和KUROSEMI INC.（即Delysium），因其未向FTX交付合同约定的代币。FTX表示，“我们敦促代币发行方归还本应属于FTX的资产，并愿意在未能充分配合的情况下提起诉讼。”FTX还在联系其他代币发行方，并计划对无回应方追加起诉，以最大化回收资产并返还债权人资金。
-- [MoonPay将在纽约设立美国总部，助推加密地产热潮](https://nypost.com/2025/04/28/business/moonpay-to-put-down-roots-in-nyc-with-new-us-headquarters-leading-to-predicted-crypto-real-estate-boom/) - 📰 null - 【MoonPay将在纽约设立美国总部，助推加密地产热潮】金色财经报道，MoonPay正在SoHo开设新的5,000多平方英尺的美国总部。MoonPay企业总裁Keith A. Grossman表示：“纽约作为一个融合监管进步、充满活力的商业环境和无与伦比的人才库的机会灯塔脱颖而出。”Grossman称，加密行业正发挥关键作用，“为纽约市的经济增长提供动力——成为创造就业、加速创新和吸引投资的引擎。”受特朗普总统放松监管举措的进一步鼓舞，预计未来更多数字资产公司将在纽约扎根。MoonPay CEO Ivan Soto-Wright表示支持州一级稳定币发行人监管，并警告不要通过可能使本地创新者边缘化的立法。
-- [韩发现AI存储设备工作新机制](https://www.cls.cn/detail/2018371) - 📰 null - 【韩发现AI存储设备工作新机制】金色财经报道，韩国浦项科技大学团队在最新一期《自然·通讯》杂志上发表了下一代人工智能（AI）存储设备的突破性研究，揭示了电化学随机存取存储器（ECRAM）的工作机制。未来，这项技术有望显著提升智能手机、平板电脑和笔记本电脑等设备的AI性能，并延长电池使用寿命。这一进展标志着AI硬件向高效能、低能耗迈出了重要一步。
-- [人民日报钟声：美国滥施关税贻害世界经济](https://www.cls.cn/detail/2018379) - 📰 null - 【人民日报钟声：美国滥施关税贻害世界经济】金色财经报道，人民日报钟声文章指出，美国政府奉行单边主义、保护主义政策，肆意挥舞关税大棒，挑起经贸摩擦，对世界经济的损害正不断显现。国际货币基金组织近日发布最新一期《世界经济展望报告》，下调了今明两年世界经济增长预期，美国的关税政策是一个重要原因。历史经验表明，任何以邻为壑的经济霸凌终将反噬自身，开放合作是世界各国携手走向未来的唯一正确选择。美方应悬崖勒马，同各方一道维护开放型世界经济体系，为世界注入稳定性和正能量。
-- [报告：Tether依然主导稳定币市场，USDC加速增长](https://cointelegraph.com/news/tether-still-dominant-despite-competition-nansen) - 📰 null - 【报告：Tether依然主导稳定币市场，USDC加速增长】金色财经报道，根据Web3研究公司Nansen的报告，尽管竞争加剧，Tether的USDT仍在稳定币市场中占据主导地位。截至2025年4月25日，Tether的市场份额约为66%，远超USDC的28%。尽管USDC自去年11月以来增长迅速，特别是在特朗普当选后，美国监管环境对加密货币更为友好，但Tether仍占据着市场领导地位。Nansen表示，尽管USDC增长更快，Tether依旧因其在链上活动中的巨大用户基础和交易量保持优势。Tether也是最盈利的稳定币发行商，2024年利润接近140亿美元。尽管市场竞争加剧，包括PayPal和Ripple等传统金融机构入场，Tether的主导地位似乎难以撼动。
-- [比特币与黄金的相关性反弹，回归历史周期模式](https://www.theblock.co/post/352245/btc-gold-correlation-rebounds-sharply-after-februarys-decoupling-collapse-echoing-historic-cycles) - 📰 null - 【比特币与黄金的相关性反弹，回归历史周期模式】金色财经报道，比特币与黄金的30天皮尔逊相关性在2025年4月由2月的-0.67反弹至0.54，接近年度最高值0.73。2月，比特币价格从102,000美元跌至84,000美元，而黄金价格上涨至2,850美元，导致两者相关性急剧下降。此后，由于美国对多国征收关税，引发了宏观经济不确定性，比特币与黄金的相关性迅速回升。比特币被重新认定为“数字黄金”，在特朗普宣布“解放日”后，BTC价格上涨超过10%，黄金也上涨了5%。历史数据显示，比特币与黄金的相关性多次在低谷后迅速回升，通常会再次接近0.8以上。
-- [Coinbase：15%的比特币交易量通过闪电网络处理](https://www.theblock.co/post/352241/lightning-network-facilitates-15-of-coinbases-bitcoin-transaction-volume-firm-says) - 📰 null - 【Coinbase：15%的比特币交易量通过闪电网络处理】金色财经报道，Coinbase表示，自2024年4月集成闪电网络以来，15%的比特币交易量通过该网络完成。Coinbase产品总监Michael Rihani表示：“集成闪电网络是支持比特币生态系统的关键里程碑，使支付更快捷、便宜和实用。不到一年，15%的比特币交易采用闪电网络，证明了其在现实中的实际效用。”闪电网络为全球支付提供了更高效的基础设施，Coinbase还计划于5月1日推出“Coinbase比特币收益基金”，目标年化回报率为4%至8%。此外，Coinbase继续扩大其BTC持有者的收益增值机会。
+- [伯恩斯坦：随着企业增持潮及ETF资金回流，或推动比特币价格创新高](https://www.theblock.co/post/352146/bernstein-bitcoin-new-highs-corporate-accumulation-etf-supply-squeeze?utm_source=news.xml&utm_medium=rss) - 📰 null - 【伯恩斯坦：随着企业增持潮及ETF资金回流，或推动比特币价格创新高】金色财经报道，今年比特币价格叙事在“黄金”与“纳斯达克”相关性间波动，但伯恩斯坦分析师认为，短期关联性误导性强，散户抛售枯竭、企业增持潮及ETF资金回流才是关键指标，或推动“供应紧缩”致价格创新高。上周，Twenty One Capital宣布初始囤积4.2万枚BTC（约40亿美元），加入Strategy等企业竞争行列。目前约80家企业合计持有70万枚BTC，占总供应量3.4%。美国现货比特币ETF上周净流入30亿美元，创五个月新高，总持仓占比特币流通量5.5%，机构占比从去年9月的20%升至33%，其中48%为投资顾问持有，反映资产配置需求。结合企业持仓，机构化资本已控制9%的BTC供应量。若美政府落实战略储备，或引发主权国家竞相囤币。交易所BTC余额占比已从2023年底的16%降至13%，但部分资产仅转移至ETF托管方。 
+伯恩斯坦分析师估计，比特币将在2025年底达到约20万美元的周期峰值，到2029年底达到50万美元，到2033年底达到100万美元，期间会出现间歇性的一年熊市。
+- [马斯克：Grok 3.5早期测试版将于下周发布，仅面向SuperGrok订阅者](https://x.com/elonmusk/status/1917099777327829386) - 📰 null - 【马斯克：Grok 3.5早期测试版将于下周发布，仅面向SuperGrok订阅者】金色财经报道，马斯克在社交媒体发文称，：Grok 3.5早期测试版将于下周发布，仅向SuperGrok订阅者。马斯克称，它是第一个能够准确回答有关火箭发动机或电化学技术问题的人工智能。
+- [加密金融科技公司Bankera创始人涉嫌挪用ICO资金购豪宅](https://cointelegraph.com/news/bankera-founders-use-ico-funds-property-buys-occrp) - 📰 null - 【加密金融科技公司Bankera创始人涉嫌挪用ICO资金购豪宅】金色财经报道，据OCCRP（有组织犯罪与腐败报道项目）调查，加密金融科技公司Bankera三位联合创始人Vytautas Karalevičius、Justas Dobiliauskas和Mantas Mockevičius涉嫌将2018年IC0募集的1.14亿美元资金中的近一半，通过自控银行挪用于购置法国蔚蓝海岸与立陶宛等地豪宅，并发放数百万欧元个人贷款。 
+尽管律师否认欺诈行为，但BNK代币分红承诺已于2022年终止，项目承诺的银行执照亦未实现。目前，BNK代币的完全稀释市值仅为约97.6万美元。
+- [Gauntlet发文详解Unichain激励措施激励池选择标准和方法](https://x.com/gauntlet_xyz/status/1917023429053845970) - 📰 null - 【Gauntlet发文详解Unichain激励措施激励池选择标准和方法】4月29日消息，DeFi研究和风险管理公司Gauntlet发文澄清Unichain激励措施激励池选择标准和方法。Gauntlet表示，Uniswap基金会和Gauntlet将合作对目标池和激励分配进行动态调整。 
+每两周，Gauntlet会收集并分析实时数据，并更新策略展望，以纳入下一轮激励分配。Gauntlet优先考虑DEX流动性和交易量迁移，而Uniswap基金会则优先考虑Unichain的战略增长重点。 
+此外，针对Hook池的激励政策也将推出。
+- [某鲸鱼以均价1,801美元买入14,994枚ETH，三小时后亏损卖出4491枚](https://x.com/lookonchain/status/1917088340316459187) - 📰 null - 【某鲸鱼以均价1,801美元买入14,994枚ETH，三小时后亏损卖出4491枚】金色财经报道，据Lookonchain监测，某鲸鱼以平均价格1,801美元买入14,994枚ETH（2700万美元），仅3小时后，他就以平均价格1,797美元卖出4,491枚ETH（807万美元）。
+- [Binance Wallet公布MilkyWay TGE参与门槛，Alpha积分需达75分](https://x.com/BinanceWallet/status/1917087416860750233) - 📰 null - 【Binance Wallet公布MilkyWay TGE参与门槛，Alpha积分需达75分】金色财经报道，据官方公告，Binance Wallet公布MilkyWay TGE参与门槛，Alpha积分需达75分。
+- [Loopscale：黑客事件目前进展顺利，约2万枚WSOL已退还至钱包](https://x.com/LoopscaleLabs/status/1917035273860350408) - 📰 null - 【Loopscale：黑客事件目前进展顺利，约2万枚WSOL已退还至钱包】金色财经报道，Loopscale在X平台发文表示，正在努力就此前黑客攻击事件达成友好解决方案，目前进展顺利： 
+1、美国东部时间4月29日2:19AM，约10,000枚WSOL（约148万美元）已退还至Loopscale钱包； 
+2、美国东部时间4月29日3:14PM，另外4,463枚（约66万美元）WSOL已退还到Loopscale钱包； 
+3、昨日5,000枚WSOL（约74万美元）已退还到Loopscale钱包。 
+Loopscale补充称，目前仍在努力达成最终解决方案，后续将继续提供更新信息。
+- [美国民主党众议员Shri Thanedar提出针对特朗普的弹劾条款](https://www.axios.com/2025/04/28/articles-of-impeachment-trump-shri-thanedar) - 📰 null - 【美国民主党众议员Shri Thanedar提出针对特朗普的弹劾条款】4月29日消息，美国密歇根州民主党众议员Shri Thanedar于周一提出了针对特朗普的七项弹劾条款。弹劾内容主要涉及妨碍司法公正、滥用职权、篡夺权力以及贿赂和腐败等指控，主要与总统的权力集中和个人财务有关。 
+Thanedar在声明中表示，特朗普"不适合担任总统职务，并对国家宪法和民主构成明显且当前的威胁"。据报道称，由于共和党目前控制着参众两院，这些弹劾措施几乎不可能获得通过。 
+此前消息，美国参议员Jon Ossoff在4月25日的一场市政厅会议上表示，支持弹劾美国总统特朗普，理由是特朗普计划为其官方Meme币TRUMP的大额持有者举办私人晚宴。
+- [分析师：日元走强和关税不确定性可能促使日本央行本周按兵不动]() - 📰 null - 【分析师：日元走强和关税不确定性可能促使日本央行本周按兵不动】金色财经报道，T. Rowe Price多元化收益债券策略联席投资组合经理Vincent Chung在报告中说，鉴于经济增长的不确定性，日本央行预计将在本周的会议上维持利率不变。日元升值以及对潜在关税影响经济增长的担忧，可能会导致日本央行推迟进一步加息。关税的不确定性增加了美国资产的风险溢价，投资者必须关注可能降低风险溢价的潜在贸易协议。他补充说：“如果美国国债市场的波动性降低，市场上避险买盘的日元多头头寸应该会在短期内对日元升值造成压力。”(金十)
+- [Haedal发布代币经济学：总量10亿，初始流通量占总供应量19.5%](https://medium.com/@haedal/haedal-tokenomics-fueling-the-next-wave-of-liquid-staking-and-defi-on-sui-3471b0123e46) - 📰 null - 【Haedal发布代币经济学：总量10亿，初始流通量占总供应量19.5%】金色财经报道，Sui生态流动性质押协议Haedal发布代币经济学，代币总量10亿，初始流通量占总供应量19.5%。 
+生态系统激励分配总量55%，流动性基金占比10%，投资者占比15%，团队和顾问占比20%。
+- [分析师：此前向Unichain跨链150万枚UNI的地址属于Ring Protocol而非Continue Capital](https://x.com/ai_9684xtpa/status/1917072701849743758) - 📰 null - 【分析师：此前向Unichain跨链150万枚UNI的地址属于Ring Protocol而非Continue Capital】金色财经报道，链上分析师@ai_9684xtpa发文正更此前的发布的内容称，此前向Unichain跨链150万枚UNI的地址属于Ring Protocol而非Continue Capital，由于Continue Capital参与了Ring Protocol的pre-seed轮融资，两者存在资金交互因此造成了混淆。
+- [Sahara AI数据服务平台将开放公测版本](https://x.com/SaharaLabsAI/status/1916910284595466499) - 📰 null - 【Sahara AI数据服务平台将开放公测版本】4月29日消息，Sahara AI宣布其数据服务平台（DSP）开放公测版本。DSP作为开放链上平台，支持用户通过贡献构建高质量、可验证的AI数据集并获得奖励。用户可完成生态伙伴支持的特殊任务，赚取Sahara Points及伙伴奖励（如代币、积分等），高质量贡献可解锁更高奖励。 
+去年8月，去中心化AI区块链平台Sahara AI宣布完成4300万美元融资，Binance Labs、Pantera Capital和Polychain Capital领投，三星、经纬创投、泰国汇商银行、Foresight Ventures、dao5、Alumni Ventures、Geekcartel、Nomad Capital、Mirana Ventures等参投。
+- [韩国拟推七大加密政策，拟年内开放现货ETF交易](https://www.edaily.co.kr/News/Read?newsId=02299286642140712) - 📰 null - 【韩国拟推七大加密政策，拟年内开放现货ETF交易】金色财经报道，据Edaily报道，韩国执政党国民力量党公布培育数字资产生态的七项新政，计划年内开放比特币等现货ETF交易，并废除“1交易所-1银行”限制，推动机构入场。政策还包括引入稳定币监管、推进STO立法、制定数字资产基本法等。该党拟在总统候选人直属下设虚拟资产特别委员会，统筹推进相关改革。
+- [金色午报 | 4月29日午间重要动态一览]() - 📰 null - 【金色午报 | 4月29日午间重要动态一览】7:00-12:00关键词：AI16Z、FTX、VIRTUAL、ether.fi 
+1.Bithumb将上线AI16Z韩元交易对； 
+2.FTX起诉代币发行方，敦促配合资产返还； 
+3.VIRTUAL突破1.5美元，24小时涨幅达41.5%； 
+4.贝莱德IBIT与Strategy之间的比特币持仓差距已缩小至仅2万枚； 
+5.数据：比特币交易所供应量上周五降至248.8万枚BTC，创7年来最低水平； 
+6.ether.fi 推出4000万美元的风投基金，首批投资项目为Resolv、Rise Chain、Symbiotic； 
+7.Riot Platforms宣布完成对比特币矿企Rhodium特定资产收购，交易总对价为1.85亿美元。
+- [美国现货比特币ETF昨日净流入5.912亿美元]() - 📰 null - 【美国现货比特币ETF昨日净流入5.912亿美元】金色财经报道，据TraderT监测，美国现货比特币ETF昨日净流入5.912亿美元。
+- [美国现货以太坊ETF昨日净流入6410万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流入6410万美元】金色财经报道，据TraderT监测，美国现货以太坊ETF昨日净流入6410万美元。
+- [Michael Saylor：当前是比特币历史性切入点](https://x.com/Vivek4real_/status/1916540846167515633) - 📰 null - 【Michael Saylor：当前是比特币历史性切入点】金色财据报道，Strategy（原MicroStrategy）董事会主席Michael Saylor在最新采访中表示：“当前是比特币具有历史意义的切入点，因为所有的风险都已从该资产中剥离，基本上每个人知道华尔街会接受它，美国政府会接受它……这意味着所有银行都会接受它。由于关税问题、美国经济状况、利率预期图表的担忧，利率被拉低了30、40、50个基点，而市场正处于宏观风险撤退区，当这种情况翻转时比特币将会强势上涨。美国政府会查封你卖给客户任何类型的证券，查封任何收藏品、任何艺术品、任何房地产，然后进行出售，但唯一美国政府不会在查封后出售的东西就是比特币。”
+- [做市商Cumberland DRW 5小时前向OKX充值30万枚TRUMP](https://x.com/ai_9684xtpa/status/1917058315768733769) - 📰 null - 【做市商Cumberland DRW 5小时前向OKX充值30万枚TRUMP】金色财经报道，据@ai_9684xtpa监测，做市商Cumberland DRW于5小时前向OKX充值30万枚TRUMP，价值440万美元。
+- [加密风投Continue Capital半小时前向Unichain跨入150万枚UNI](https://x.com/ai_9684xtpa/status/1917054568866975935) - 📰 null - 【加密风投Continue Capital半小时前向Unichain跨入150万枚UNI】金色财经报道，据@ai_9684xtpa监测，加密风投Continue Capital半小时前向Unichain跨链了150万枚UNI，价值812万美元。 
+该机构是Uniswap重度参与者——地址持仓高达9.42亿美元，其中已有1.62亿美元代币在Uniswap V4中做LP，另有1.19亿美元在Unichain用于参与流动性激励活动。
+- [Bitlayer宣布BitVM Bridge接入Monad测试网， 解锁BitVM落地产品新体验](https://x.com/BitlayerLabs/status/1917047219271749758) - 📰 null - 【Bitlayer宣布BitVM Bridge接入Monad测试网， 解锁BitVM落地产品新体验】4月29日消息，基于比特币生态BitVM技术落地实现的项目Bitlayer宣布BitVM Bridge接入Monad测试网，允许用户以信任最小化方式体验跨生态BTC桥接功能。 
+Monad是一个新兴的高性能Layer 1，当前该网络总活跃用户已突破980万，独立钱包数逾6900万。此次集成完成后，Monad千万级别规模的生态用户将有机会直接体验首个基于BitVM的落地应用BitVM Bridge，将BitVM Bridge测试网(BitVMNet)上的vBTC桥接到Monad Testnet，铸造相应的YBTC，探索YBTC在Monad生态中的金融化生息可能。与此同时，BitVM Bridge现已支持将YBTC桥接回BitVMNet功能，欢迎用户登录体验。
