@@ -1,36 +1,34 @@
-- [加拿大选举日 特朗普再提“第51个州”](https://flash.jin10.com/detail/20250428230718182800) - 📰 null - 【加拿大选举日 特朗普再提“第51个州”】金色财经报道，加拿大28日举行联邦众议院选举，美国总统特朗普当天再提美国“吞并”加拿大一事，鼓动加拿大成为美国的“第51个州”。
-- [美国股市延续跌势，标普500指数跌幅达1%]() - 📰 null - 【美国股市延续跌势，标普500指数跌幅达1%】金色财经报道，美国股市延续跌势，标普500指数跌幅达1%，纳指跌1.3%，道指跌0.5%。
-- [美元指数DXY失守99，日内跌幅0.62%]() - 📰 null - 【美元指数DXY失守99，日内跌幅0.62%】金色财经报道，美元指数DXY失守99，日内跌幅0.62%。
-- [全网比特币合约未平仓头寸升至632.4亿美元](https://www.coinglass.com/BitcoinOpenInterest) - 📰 null - 【全网比特币合约未平仓头寸升至632.4亿美元】金色财经报道，据 Coinglass 数据显示，全网比特币期货合约未平仓头寸为 67.479 万枚 BTC（约合 632.4 亿美元）。 
-其中 CME 比特币合约未平仓头寸为 14.711 万枚 BTC（约合 137.8 亿美元），位列第一； 
-Binance 比特币合约未平仓头寸为 11.573 万枚 BTC（约合 108.5 亿美元），位列第二。
-- [亚利桑那州比特币储备法案即将于众议院进行最终投票](https://x.com/Bitcoin_Laws/status/1916898096526856309) - 📰 null - 【亚利桑那州比特币储备法案即将于众议院进行最终投票】金色财经报道，亚利桑那州众议院全体会议将于当地时间今天下午 1 点开始。比特币储备法案 SB1373 和 SB1025 已列入议程，预计将进行最终投票。
-- [CZ：今天与超12位YZi Labs参投项目创始人一对一见面收获很多](https://x.com/cz_binance/status/1916895814787506636) - 📰 null - 【CZ：今天与超12位YZi Labs参投项目创始人一对一见面收获很多】金色财经报道，Binance 创始人 CZ 在社交媒体发文表示，“今天与超过 12 位项目创始人一对一见面。他们的项目全部由 YZi Labs 投资。收获很多。继续努力。”
-- [阿布扎比主权财富基金计划与多个实体合作推出迪拉姆稳定币](https://www.reuters.com/world/middle-east/abu-dhabi-sovereign-wealth-fund-teams-up-with-fab-ihc-launch-new-stablecoin-2025-04-28/) - 📰 null - 【阿布扎比主权财富基金计划与多个实体合作推出迪拉姆稳定币】金色财经报道，据路透社报道，阿布扎比主权财富基金 ADQ、企业集团 IHC（IHC.AD）以及阿联酋最大资产规模银行第一阿布扎比银行（FAB.AD）周一宣布，计划推出一款以迪拉姆为支撑的新稳定币，迪拉姆是阿拉伯联合酋长国（阿联酋）的官方货币。 
-三家公司在声明中表示，该稳定币将由阿联酋中央银行全面监管。此次举措标志着海湾国家在加密货币领域的投资进一步加深。
-- [加密行业领袖致信特朗普政府，呼吁停止起诉软件开发者](https://www.theblock.co/post/352202/crypto-leaders-urge-trump-to-end-lawless-campaign-criminalizing-software-developers-including-roman-storm?utm_source=browser&utm_medium=chrome&utm_campaign=notification) - 📰 null - 【加密行业领袖致信特朗普政府，呼吁停止起诉软件开发者】金色财经报道，由 DeFi Education Fund 牵头，超过 70 位加密行业人士联名致信白宫 AI 与加密事务负责人 David Sacks，敦促特朗普政府终止司法部对开源软件开发者如 Tornado Cash 联合创始人 Roman Storm 的“过度执法”，以保护美国开发者并实现将美国建设为“全球加密之都”的目标。
-- [OKX将与万事达卡合作推出OKX Card](https://www.coindesk.com/business/2025/04/28/mastercard-unveils-end-to-end-stablecoin-capabilities-will-launch-card-with-okx) - 📰 null - 【OKX将与万事达卡合作推出OKX Card】金色财经报道，万事达卡（Mastercard）正在进一步深入布局数字资产经济，周一宣布推出新的全球功能，支持其庞大商户网络中的稳定币支付。 
-这家支付巨头正在与加密货币交易平台 OKX 合作推出“OKX Card”，旨在将加密交易和 Web3 活动与日常消费连接起来。与此同时，通过与 Nuvei 和 Circle 的合作，商户很快将能够直接使用包括 Circle 发行的 USDC 在内的稳定币完成交易结算。Paxos 也将协助将这一功能扩展到其他受支持的稳定币，如 USDP。
-- [彭博分析师：ProShares XRP ETF上市日期尚未确定](https://x.com/JSeyff/status/1916885057010295181) - 📰 null - 【彭博分析师：ProShares XRP ETF上市日期尚未确定】金色财经报道，彭博 ETF 分析师 James Seyffart 在社交媒体发文表示，“很多人正在发布/报道称 ProShares 将于 4 月 30 日推出 XRP ETF。我们已经确认，情况并非如此。 
-目前还没有确定的上市日期，但我们认为它们确实会推出——很可能是在短期内，或者中期内推出。”
-- [某平空转多鲸鱼再度加仓3974枚ETH](https://x.com/ai_9684xtpa/status/1916888910795575615) - 📰 null - 【某平空转多鲸鱼再度加仓3974枚ETH】金色财经报道，据链上分析师 @ai_9684xtpa 监测，某个平空转多鲸鱼过去 10 分钟再次借出 700 万枚 USDC 以均价 1759.25 美元买入 3974 枚 ETH。
-- [以太坊基金会：未来一年将围绕核心价值观和战略目标两个支柱展开工作](https://blog.ethereum.org/2025/04/28/next-chapter) - 📰 null - 【以太坊基金会：未来一年将围绕核心价值观和战略目标两个支柱展开工作】金色财经报道，以太坊基金会发文表示，未来一年，将围绕两个支柱展开工作：核心价值观和战略目标，以技术卓越为基础，推动以太坊生态的长期成功。具体重点包括： 
-1、扩展以太坊主网（L1）与数据扩容（Blobs）； 
-2、改善用户体验（UX），加强 L2 互操作性和应用层发展； 
-3、推动开发者体验（DevEx）提升，并在 Devcon 等平台上加强应用与 L2 项目的曝光与支持。 
-此外，以太坊基金会将加快开发者、创业者和机构建设与应用以太坊的路径，充分发挥 EF 的知识与领导力，吸引和培育新一代建设者。
-- [分析：美国消费者股市信心跌至历史低点，避险情绪升温](https://x.com/KobeissiLetter/status/1916878573589127662) - 📰 null - 【分析：美国消费者股市信心跌至历史低点，避险情绪升温】金色财经报道，据The Kobeissi Letter分析，密歇根大学最新调查显示，美国消费者对股市的悲观情绪达到历史新高，创纪录的12%的美国人认为未来12个月股市完全没有上涨可能，这一比例在过去两个月内翻了三倍，超过了2022年、2009年和2022年市场底部时期的峰值水平。 
-同时，44.5%的消费者预计股市将在未来一年内下跌，创下2022年以来的最高水平，也是14年来的第二高水平。市场情绪罕见地处于极度悲观状态。 
-分析人士指出，消费者信心的急剧下降与经济衰退担忧、通胀压力和贸易关系不稳定等多重因素有关。这种悲观情绪可能导致投资者从股票市场撤资，市场流动性减弱，资金转向防御性板块或现金持有，进一步加剧市场波动。
-- [BitGo成为首家支持Marinade质押的美国合规托管机构](https://x.com/MarinadeFinance/status/1916858163774587238) - 📰 null - 【BitGo成为首家支持Marinade质押的美国合规托管机构】金色财经报道，BitGo 现已成为首家支持 Solana 流动性质押协议 Marinade 的美国合规托管机构。机构客户现在可以在完全托管与合规保障下质押 Solana，并享受质押回报。
-- [Paradigm联创Matt Huang：在200或300美元时买入比特币，曾投资字节跳动](https://x.com/patrick_oshag/status/1914648973312196631) - 📰 null - 【Paradigm联创Matt Huang：在200或300美元时买入比特币，曾投资字节跳动】金色财经报道，知名投资播客Invest Like the Best主播Patrick O'Shaughnessy对加密领域投资机构Paradigm的联合创始人Matt Huang进行了深度访谈，他透露曾以2000-3000万美元的估值向字节跳动写了一张支票，这是他当时最大的个人投资，随着字节跳动如今价值达到2000-3000亿美元，他的投资大约增长了10000倍，他仍然持有大部分股份。 
-此外，Matt Huang表示自己在200或300美元时买入比特币，随后涨到了1000美元，然后又跌到了600美元，然后慢慢地从那里开始下跌，最终他对比特币着迷，而且强烈感觉这将是未来几十年最重要的技术经济趋势之一，他还透露在Paradigm的历史上最糟糕的事情是投资了FTX，最终被欺骗。
-- [当前主流CEX、DEX资金费率显示市场延续分化，看涨与看跌并存](https://www.coinglass.com/zh/FundingRate) - 📰 null - 【当前主流CEX、DEX资金费率显示市场延续分化，看涨与看跌并存】4月28日消息，据 Coinglass 数据，目前主流 CEX、DEX 资金费率显示市场延续分化，看涨与看跌并存。具体主流币种资金费率如附图所示。 
-注：资金费率（Funding rates）是加密货币交易平台为了保持合约价格与标的资产价格之间的平衡而设定的费率，通常适用于永续合约。它是多空交易者之间的资金交换机制，交易平台并不收取此费用，用于调整交易者持有合约的成本或收益，以使合约价格与标的资产价格保持接近。 
-当资金费率为 0.01% 时，表示基准费率。当资金费率大于 0.01% 时，代表市场普遍看多。当资金费率小于 0.005% 时，代表市场普遍看跌。
-- [BNB跌破600美元]() - 📰 null - 【BNB跌破600美元】金色财经报道，行情显示，BNB跌破600美元，现报599.92美元，24小时跌幅0.01%，行情波动较大，请做好风险控制。
-- [分析师：制造业数据致使美元回到低谷](https://flash.jin10.com/detail/20250428225653274800) - 📰 null - 【分析师：制造业数据致使美元回到低谷】金色财经报道，财经网站Forexlive分析师：美元再次陷入低谷，股市稳定，但美元疲软。美元的跌势正在加速，这是一个不祥的迹象。最新一轮下跌是在达拉斯联储制造业指数跌至2020年5月以来的最低水平之后。这份报告充斥着对关税和实体经济不确定性的担忧。市场正在权衡，所有这些糟糕的信心数据是否真的预示着经济即将放缓，而这样的每一个数据点都削弱了看涨的理由，尤其是在股市和美元上周大幅反弹之后。
-- [Glassnode：比特币维持强势上涨，以太坊复苏面临阻力](https://x.com/glassnode/status/1916871053445411073) - 📰 null - 【Glassnode：比特币维持强势上涨，以太坊复苏面临阻力】金色财经报道，Glassnode最新数据显示，比特币市场首次买家和动量买家继续保持强劲参与度，获利了结者活动维持温和水平，这一供需结构支持了近期比特币反弹的持久性。 
-与此同时，以太坊自2月以来首次出现首批买家的显著增长，过去7天动量买家活动也有所上升。然而，获利了结者同步变得更加活跃，这解释了为何以太坊价格复苏近期出现停滞。 
-市场分析师指出，尽管大型鲸鱼钱包正积极囤积加密货币，但整体市场需求已有所降温，新的ETF资金流入趋于平缓，稳定币流入量也未能达到之前上涨时的水平，暗示新资本正持谨慎态度或处于观望状态。
-- [摩根大通：稳定币市场规模未来几年内有望增长至5000亿至7500亿美元](https://x.com/zerohedge/status/1916869485660688614) - 📰 null - 【摩根大通：稳定币市场规模未来几年内有望增长至5000亿至7500亿美元】金色财经报道，摩根大通（JPM）表示，最佳的预估是，未来几年稳定币市场规模有望增长至 5000 亿至 7500 亿美元。假设其中 70% 配置于美国国债，30% 配置于国债回购协议，那么稳定币发行方将成为美国国债的第三大买家。
+- [数据：比特币交易所供应量上周五降至248.8万枚BTC，创7年来最低水平](https://decrypt.co/316734/bitcoin-exchange-supply-reaches-7-year-low-as-traders-hunker-down) - 📰 null - 【数据：比特币交易所供应量上周五降至248.8万枚BTC，创7年来最低水平】金色财经报道，CryptoQuant数据显示，比特币交易所供应量降至七年新低，上周五降至248.8万枚BTC。交易所储备目前为249.2 万枚BTC，周末增加了约4万枚BTC，但该水平仍为2018年10月以来的最低水平。不过，CoinShares报告称，截至4月28日当周，比特币基金流入资金达32亿美元。外汇余额下降和资金流入增加的双重因素，预示着新一轮的增持阶段即将到来。但在过去一周的涨势中，散户似乎发挥了比近几周更大的作用。这在“交易所鲸鱼比例”上表现得很明显，该比例已从4月17日的0.512下降至4月27日的0.36。
+- [VIRTUAL突破1.5美元，24小时涨幅达41.5%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/virtual-protocol) - 📰 null - 【VIRTUAL突破1.5美元，24小时涨幅达41.5%】金色财经报道，行情显示，VIRTUAL突破1.5美元，现报价1.48美元，24小时涨幅达41.5%，行情波动较大，请做好风险控制。
+- [现货黄金回落至3330美元/盎司下方，日内跌0.43%]() - 📰 null - 【现货黄金回落至3330美元/盎司下方，日内跌0.43%】金色财经报道，现货黄金回落至3330美元/盎司下方，日内跌0.43%。(金十)
+- [疑似TRUMP团队地址9小时前将134.6万枚TRUMP转进CEX](https://x.com/EmberCN/status/1917018617226662033) - 📰 null - 【疑似TRUMP团队地址9小时前将134.6万枚TRUMP转进CEX】金色财经报道，据链上分析师余烬监测，疑似TRUMP团队的一个地址，在9小时前将134.6万枚TRUMP(1953万美元)转进了CEX。 
+70万枚(1021万美元)转进Binance； 
+35万枚(508万美元)转进OKX； 
+29.6万枚(43万美元2)转进Bybit。
+- [ARK Invest昨日减持约1049.6万美元的ARK 21Shares Bitcoin ETF](https://x.com/ArkkDaily/status/1917009053038821723) - 📰 null - 【ARK Invest昨日减持约1049.6万美元的ARK 21Shares Bitcoin ETF】金色财经报道，据Ark Invest Daily数据，ARK Invest于4月28日通过其ARKW基金卖出111059股ARK 21Shares Bitcoin ETF（ARKB），按当日94.51美元的收盘价，价值约1049.6万美元。
+- [贝莱德IBIT与Strategy之间的比特币持仓差距已缩小至仅2万枚](https://x.com/Cointelegraph/status/1917013661958234527) - 📰 null - 【贝莱德IBIT与Strategy之间的比特币持仓差距已缩小至仅2万枚】金色财经报道，贝莱德的比特币现货ETF “IBIT”与Strategy之间的比特币持仓差距已缩小至仅2万枚BTC。当前IBIT持有573,869枚BTC，Strategy持有553,555枚BTC。
+- [Kamino推出欧元稳定币EURC激励计划](https://x.com/KaminoFinance/status/1916958683629580305) - 📰 null - 【Kamino推出欧元稳定币EURC激励计划】4月29日消息，Solana链上DeFi项目Kamino官方宣布，推出针对Circle旗下欧元稳定币EURC的激励计划，用户每月可通过参与借贷市场获得总计10万枚EURC奖励。 
+此前报道，据RWA.xyz数据，EURC的供应量在过去一个月增长了43%，达到了2.17亿枚，价值2.46亿美元。大部分EURC代币在以太坊网络上流通，过去一个月增长了35%，达到1.12亿枚。而Solana网络上的EURC供应量增长最快，过去一个月增长了75%，达到了7000万枚。Base上EURC供应量达到了3000万枚。
+- [ether.fi 推出4000万美元的风投基金，首批投资项目为Resolv、Rise Chain、Symbiotic](https://x.com/etherfi_VC/status/1916907447450800243) - 📰 null - 【ether.fi 推出4000万美元的风投基金，首批投资项目为Resolv、Rise Chain、Symbiotic】金色财经报道，ether.fi  宣布已推出一支 4000 万美元的风险投资基金 ether.fi  Ventures Fund I，旨在支持那些重新定义行业可能性的无畏创业者。 
+此外，该基金现已披露首批投资项目，分别为 Resolv、Rise Chain、Symbiotic。
+- [Joe Salama将加入Coinbase担任首席合规官](https://x.com/iampaulgrewal/status/1916920725937787199) - 📰 null - 【Joe Salama将加入Coinbase担任首席合规官】金色财经报道，Coinbase 首席法律官Paul Grewal发文宣布，Joe Salama将加入Coinbase担任首席合规官，接替Melissa Strait。Joe Salama曾担任德意志银行全球反金融犯罪主管和美洲区总法律顾问。
+- [Solstice Labs将于今夏在Solana上推出生息型合成稳定币USX](https://www.theblock.co/post/352212/solstice-labs-to-launch-yield-bearing-stablecoin-usx-on-solana-in-summer-2025) - 📰 null - 【Solstice Labs将于今夏在Solana上推出生息型合成稳定币USX】4月29日消息，获加密投资机构Deus X Capital支持的Solstice Labs宣布，将于今夏在Solana区块链推出生息型合成稳定币USX及原生质押协议。USX通过套利和质押策略实现delta-neutral收益，由USDT和USDC全额抵押维持锚定，持有者可无缝接入总锁仓额1亿美元的YieldVault协议。 
+目前Solana链上稳定币规模占全网2380亿美元总量的5%以上，但缺乏专为被动收入设计的法币锚定币。Solstice Labs CEO表示，USX旨在以透明方式为散户和机构用户提供传统DeFi中机构专属的收益机会。
+- [昨日ARKB净流出2.263亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流出2.263亿美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流出2.263亿美元，GBTC净流出4270万美元。
+- [金色晨讯 | 4月29日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 4月29日隔夜重要动态一览】21:00-7:00关键词：万事达、Fusaka硬分叉、XRP ETF、Matt Huang 
+1.万事达卡推进稳定币全球支付整合； 
+2.Bitfinex报告：比特币看涨势头开始形成； 
+3.以太坊Fusaka硬分叉预计于2025年末进行； 
+4.彭博分析师：ProShares XRP ETF上市日期尚未确定； 
+5.Kraken前首席法务官Marco Santori加入Pantera Capital； 
+6.亚利桑那州众议院通过比特币储备法案，推进建立加密货币储备； 
+7.以太坊基金会：未来一年将围绕核心价值观和战略目标两个支柱展开工作； 
+8.Paradigm联创Matt Huang：在200或300美元时买入比特币，曾投资字节跳动。
+- [BTC突破95000美元]() - 📰 null - 【BTC突破95000美元】金色财经报道，行情显示，BTC突破95000美元，现报95032.01美元，24小时涨幅达到1.4%，行情波动较大，请做好风险控制。
+- [FTX起诉代币发行方，敦促配合资产返还](https://www.prnewswire.com/news-releases/ftx-commences-legal-action-to-ensure-the-return-of-tokens-and-coins-302440337.html?tc=eml_cleartime) - 📰 null - 【FTX起诉代币发行方，敦促配合资产返还】金色财经报道，FTX Trading Ltd.与FTX Recovery Trust今日宣布，为追回破产财产，已对持有FTX资产且拒绝合作的部分代币发行方提起法律诉讼。FTX已起诉NFT Stars Limited和KUROSEMI INC.（即Delysium），因其未向FTX交付合同约定的代币。FTX表示，“我们敦促代币发行方归还本应属于FTX的资产，并愿意在未能充分配合的情况下提起诉讼。”FTX还在联系其他代币发行方，并计划对无回应方追加起诉，以最大化回收资产并返还债权人资金。
+- [MoonPay将在纽约设立美国总部，助推加密地产热潮](https://nypost.com/2025/04/28/business/moonpay-to-put-down-roots-in-nyc-with-new-us-headquarters-leading-to-predicted-crypto-real-estate-boom/) - 📰 null - 【MoonPay将在纽约设立美国总部，助推加密地产热潮】金色财经报道，MoonPay正在SoHo开设新的5,000多平方英尺的美国总部。MoonPay企业总裁Keith A. Grossman表示：“纽约作为一个融合监管进步、充满活力的商业环境和无与伦比的人才库的机会灯塔脱颖而出。”Grossman称，加密行业正发挥关键作用，“为纽约市的经济增长提供动力——成为创造就业、加速创新和吸引投资的引擎。”受特朗普总统放松监管举措的进一步鼓舞，预计未来更多数字资产公司将在纽约扎根。MoonPay CEO Ivan Soto-Wright表示支持州一级稳定币发行人监管，并警告不要通过可能使本地创新者边缘化的立法。
+- [韩发现AI存储设备工作新机制](https://www.cls.cn/detail/2018371) - 📰 null - 【韩发现AI存储设备工作新机制】金色财经报道，韩国浦项科技大学团队在最新一期《自然·通讯》杂志上发表了下一代人工智能（AI）存储设备的突破性研究，揭示了电化学随机存取存储器（ECRAM）的工作机制。未来，这项技术有望显著提升智能手机、平板电脑和笔记本电脑等设备的AI性能，并延长电池使用寿命。这一进展标志着AI硬件向高效能、低能耗迈出了重要一步。
+- [人民日报钟声：美国滥施关税贻害世界经济](https://www.cls.cn/detail/2018379) - 📰 null - 【人民日报钟声：美国滥施关税贻害世界经济】金色财经报道，人民日报钟声文章指出，美国政府奉行单边主义、保护主义政策，肆意挥舞关税大棒，挑起经贸摩擦，对世界经济的损害正不断显现。国际货币基金组织近日发布最新一期《世界经济展望报告》，下调了今明两年世界经济增长预期，美国的关税政策是一个重要原因。历史经验表明，任何以邻为壑的经济霸凌终将反噬自身，开放合作是世界各国携手走向未来的唯一正确选择。美方应悬崖勒马，同各方一道维护开放型世界经济体系，为世界注入稳定性和正能量。
+- [报告：Tether依然主导稳定币市场，USDC加速增长](https://cointelegraph.com/news/tether-still-dominant-despite-competition-nansen) - 📰 null - 【报告：Tether依然主导稳定币市场，USDC加速增长】金色财经报道，根据Web3研究公司Nansen的报告，尽管竞争加剧，Tether的USDT仍在稳定币市场中占据主导地位。截至2025年4月25日，Tether的市场份额约为66%，远超USDC的28%。尽管USDC自去年11月以来增长迅速，特别是在特朗普当选后，美国监管环境对加密货币更为友好，但Tether仍占据着市场领导地位。Nansen表示，尽管USDC增长更快，Tether依旧因其在链上活动中的巨大用户基础和交易量保持优势。Tether也是最盈利的稳定币发行商，2024年利润接近140亿美元。尽管市场竞争加剧，包括PayPal和Ripple等传统金融机构入场，Tether的主导地位似乎难以撼动。
+- [比特币与黄金的相关性反弹，回归历史周期模式](https://www.theblock.co/post/352245/btc-gold-correlation-rebounds-sharply-after-februarys-decoupling-collapse-echoing-historic-cycles) - 📰 null - 【比特币与黄金的相关性反弹，回归历史周期模式】金色财经报道，比特币与黄金的30天皮尔逊相关性在2025年4月由2月的-0.67反弹至0.54，接近年度最高值0.73。2月，比特币价格从102,000美元跌至84,000美元，而黄金价格上涨至2,850美元，导致两者相关性急剧下降。此后，由于美国对多国征收关税，引发了宏观经济不确定性，比特币与黄金的相关性迅速回升。比特币被重新认定为“数字黄金”，在特朗普宣布“解放日”后，BTC价格上涨超过10%，黄金也上涨了5%。历史数据显示，比特币与黄金的相关性多次在低谷后迅速回升，通常会再次接近0.8以上。
+- [Coinbase：15%的比特币交易量通过闪电网络处理](https://www.theblock.co/post/352241/lightning-network-facilitates-15-of-coinbases-bitcoin-transaction-volume-firm-says) - 📰 null - 【Coinbase：15%的比特币交易量通过闪电网络处理】金色财经报道，Coinbase表示，自2024年4月集成闪电网络以来，15%的比特币交易量通过该网络完成。Coinbase产品总监Michael Rihani表示：“集成闪电网络是支持比特币生态系统的关键里程碑，使支付更快捷、便宜和实用。不到一年，15%的比特币交易采用闪电网络，证明了其在现实中的实际效用。”闪电网络为全球支付提供了更高效的基础设施，Coinbase还计划于5月1日推出“Coinbase比特币收益基金”，目标年化回报率为4%至8%。此外，Coinbase继续扩大其BTC持有者的收益增值机会。
