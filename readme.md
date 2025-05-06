@@ -1,30 +1,29 @@
-- [Binance Alpha昨日交易量达2.74亿美元，再创历史新高]() - 📰 null - 【Binance Alpha昨日交易量达2.74亿美元，再创历史新高】5月6日消息，据 @pandajackson42 数据面板，5 月 5 日，Binance Alpha 2.0 交易量达 2.74 亿美元，再次创下历史新高。其中 KMNO 交易量达 9,830 万美元，B2 达 4,150 万美元等。 
-此外，Binance Alpha 2.0 日交易笔数首次突破 100 万笔。Binance Alpha 2.0 交易量的增长可能与 Binance Wallet 空投与打新资格相关的 Alpha points 不断增高有关。
-- [鲍威尔预计将就近期美国国债市场动荡发表看法]() - 📰 null - 【鲍威尔预计将就近期美国国债市场动荡发表看法】金色财经报道，MFS Investment Management 首席经济学家兼投资组合经理韦斯曼在一份报告中说，美联储主席鲍威尔可能会在本周的会议上指出，在经历了短暂的动荡之后，美国国债市场正在正常运转。鲍威尔还可能指出，如果市场条件允许，流动性工具是可用的。此外，随着银行准备金余额不断下降，可能会有人主张完全终止量化紧缩。但韦斯曼表示，鉴于美联储刚刚放慢了量化宽松的步伐，鲍威尔近期不太可能觉得有必要在这一领域采取更多行动。（金十）
-- [Stake Stone部署者地址从USD1官方托管地址收到1万枚USD1测试转账](https://x.com/EmberCN/status/1919630508771967045) - 📰 null - 【Stake Stone部署者地址从USD1官方托管地址收到1万枚USD1测试转账】金色财经报道，据余烬监测，30 分钟前，Stake Stone 的部署者地址从 USD1 官方托管地址处收到了 1 万枚的 USD1 测试转账。USD1 是特朗普家族支持的 DeFi 项目 WLFI 推出的美元稳定币，而 StakeStone 是做全链流动性分发的，核心产品是 LiquidityPad/Vault。据余烬分析，StakeStone 或是 USD1 的第一个 DeFi 协议铸造服务商，亦可能是 StakeStone 准备通过其流动性产品将 USD1 铸造服务开放给散户。
-- [美联储将强调观望立场]() - 📰 null - 【美联储将强调观望立场】金色财经报道，MFS投资管理公司首席经济学家兼投资组合经理韦斯曼在一份报告中说，美联储主席鲍威尔几乎肯定会在本周的会议上表达一种观望态度。美国关税政策的混乱使得未来的宏观经济前景尤其难以预测。美联储也会注意到，关税引发的通胀，即使理论上被视为暂时的，也可能产生更持久的实际通胀。因此，如果没有明确的信号表明经济正在实质性走弱，美联储将不愿放松政策。换句话说，在没有实际经济恶化的情况下，如果有必要，美联储可能会推迟降息。
-- [数据：过去一周Solana网络活跃地址数约2420万，排名全网第一](https://x.com/nansen_ai/status/1919617893798646050) - 📰 null - 【数据：过去一周Solana网络活跃地址数约2420万，排名全网第一】金色财经报道，据 Nansen 数据，过去一周 Solana 网络活跃地址数约 2420 万，排名全网第一。 
-Tron 网络活跃地址数为 590 万，Base 为 540 万，分列 2、3 位。
-- [CZ即将出席阿布扎比新兴技术治理峰会并发表演讲](https://x.com/cz_binance/status/1919618057645011107) - 📰 null - 【CZ即将出席阿布扎比新兴技术治理峰会并发表演讲】5月6日消息，CZ于社交平台发文称，其已亲自出席在阿布扎比举行的“新兴技术治理峰会”，并即将登台发言。根据会议日程，CZ将于北京时间5月6日13:55在题为《Web3、监管与新数字经济：负责任创新蓝图》的环节中演讲，代表Binance与Giggle Academy探讨Web3与监管议题，推动加密行业采用。
-- [特朗普本月通过加密晚宴与meme币筹集数百万美元]() - 📰 null - 【特朗普本月通过加密晚宴与meme币筹集数百万美元】5月6日消息，据CNBC报道，美国总统特朗普本月将举行两场加密相关晚宴以筹资。5月5日，“加密与AI创新者晚宴”每席高达150万美元，特朗普与风险投资人David Sacks出席。5月22日，另一场晚宴则要求持有$TRUMP meme币，前220名持币者可与特朗普共进晚餐，前25名还可参与白宫特别参观。批评者称该机制可能使匿名捐赠者，甚至外国人，借机影响政治并让特朗普关联方获利。$TRUMP币价格因该活动已上涨逾50%。
-- [Curve 官方 X 账户已恢复控制](https://x.com/CurveFinance/status/1919462291017195827) - 📰 null - 【Curve 官方 X 账户已恢复控制】金色财经报道，Curve 发推表示，其官方 X 账户已恢复控制。此前消息，Curve 创始人 Michael Egorov 发推表示，Curve 官方 X 账户遭黑客攻击，请勿点击任何链接。
-- [Bitunix分析师：服务业PMI低于预期、价格压力上升，BTC震荡关注93K支撑]() - 📰 null - 【Bitunix分析师：服务业PMI低于预期、价格压力上升，BTC震荡关注93K支撑】5月6日消息，美国公布多项服务业数据，显示经济放缓但通胀压力仍强。S&P 全球服务业 PMI 报 50.8，低于预期与前值，服务业扩张动能接近停滞。ISM 非制造业 PMI 报 51.6，也低于预期，显示内需疲弱。而非制造业价格支付指数升至 65.1，创近一年新高，通胀压力升温，使联准会更难转向宽松。在经济转弱与通胀坚挺的矛盾下，市场观望情绪升温。比特币自 97.8K 高点回落，缺乏明确上攻动能。Bitunix 分析师建议：当前数据令联准会本周降息可能性极低，市场恐持续震荡。比特币短期支撑关注 93K，若跌破恐回测 88K。操作建议保守控仓，观察后续 CPI 与 PPI，等待明确方向出现。
-- [佛罗里达州参议院撤回审议比特币战略储备法案]() - 📰 null - 【佛罗里达州参议院撤回审议比特币战略储备法案】5月6日消息，佛罗里达州的两项加密法案已被从立法程序中删除，这对美国州级战略比特币储备目标造成了最新打击。佛罗里达州参议院表示，佛罗里达州众议院第 487 号法案和参议院第 550 号法案已于 5 月 3 日「无限期推迟并撤回审议」。佛罗里达州立法会议已于 5 月 2 日休会，且未通过这两项法案，这两项法案原本将推动该州建立加密货币储备的立法。（Cointelegraph）
-- [高盛上调美国Q2 GDP增速预期至2.4%，排除近期衰退可能性]() - 📰 null - 【高盛上调美国Q2 GDP增速预期至2.4%，排除近期衰退可能性】金色财经报道，多数美国银行已悄悄上调经济预期，昨夜高盛率先发布报告，将美国第二季度 GDP 增速预期由-0.3% 大幅上调至 2.4%，这将使其高于 2022 年以来的平均 GDP 增速。高盛已实质排除近期衰退可能性，预计其他银行将效仿并调整预期。（金十）
-- [BNB Chain推出官方MCP协议，加速AI Agent上链进程]() - 📰 null - 【BNB Chain推出官方MCP协议，加速AI Agent上链进程】5月6日消息，BNB Chain 近期发布了全新开放协议 Model Context Protocol（简称 MCP），为 AI 应用与外部数据或工具系统之间建立安全、双向通信提供标准化支持，标志着 Web3 领域中实现 AI 智能体即插即用集成迈出了关键一步。
-- [金色午报 | 5月6日午间重要动态一览]() - 📰 null - 【金色午报 | 5月6日午间重要动态一览】7:00-12:00关键词：Ripple、aave、PAXG 
-1.Ripple发布2025年Q1XRP市场报告； 
-2.Aave社区通过在Aptos主网部署AaveV3提案； 
-3.昨日比特币现货ETF净流入超4.24亿美元； 
-4.美国科技股两大相对指标跌幅均超2022年熊市； 
-5.3422枚休眠12年的BTC被转移，较2012年增值7018倍； 
-6.马斯克律师：马斯克仍将继续对OpenAI提起诉讼； 
-7.Coinbase将黄金代币 PAX Gold（PAXG）列入上币路线图。
-- [贝莱德IBIT已连续15日净流入，总计流入约45亿美元]() - 📰 null - 【贝莱德IBIT已连续15日净流入，总计流入约45亿美元】金色财经报道，据The ETF Store总裁Nate Geraci总结，贝莱德比特币现货ETF IBIT已连续15日净流入，总计流入约45亿美元。
-- [Arbitrum跨链桥本周净流入2.77亿美元，居各链之首]() - 📰 null - 【Arbitrum跨链桥本周净流入2.77亿美元，居各链之首】5月6日消息，据DefiLlama数据显示，过去7天内，Arbitrum跨链桥实现净流入资金2.775亿美元，位居所有公链之首，其次为Flare（7730万美元）与Base（3665万美元）。资金净流出方面，Ethereum、Bera与Solana分别流出1.18亿美元、4766万美元与4725万美元，成为流出前三的链。
-- [策略师：美联储任何温和的信号都可能为黄金提供进一步的支撑]() - 📰 null - 【策略师：美联储任何温和的信号都可能为黄金提供进一步的支撑】金色财经报道，IG 市场策略师 Yeap Jun Rong 表示：“金价本周开始强劲上涨，投资者重返避险资产，以对冲美国总统唐纳德·特朗普重新引发的关税担忧带来的投资组合波动。美联储任何温和的信号都可能为黄金提供进一步的支撑，加强其整体上行势头。”
-- [NAVI Protocol 领跑 Sui 生态 BTC 借贷市场，市场份额超 60%]() - 📰 null - 【NAVI Protocol 领跑 Sui 生态 BTC 借贷市场，市场份额超 60%】金色财经报道，据 DefiLlama 数据显示，截至 2025 年 5 月 4 日，比特币借贷平台的总借贷量已突破 2000 枚 BTC。 
-其中，Sui 生态 DeFi 协议 NAVI Protocol 持有 1,299.4178 枚 BTC，占市场份额 61.79%，位列第一；Suilend 持有 786.9962 枚 BTC，占市场份额 37.42%；Scallop 持有 16.6008 枚 BTC，占市场份额 0.79%。
-- [某休眠6个月鲸鱼从Binance提取1700枚ETH，其总体持仓已浮亏358万美元]() - 📰 null - 【某休眠6个月鲸鱼从Binance提取1700枚ETH，其总体持仓已浮亏358万美元】5月6日消息，据OnchainLens监测，经过6个月的休眠后，一鲸鱼从Binance中提取了1,700枚ETH（310万美元）和298万枚USDT。目前，该鲸鱼持有5,001枚ETH，价值900万美元，面临358万美元的损失。
-- [Treasure Chain将于5月30日关闭，用户需提前提取其资产]() - 📰 null - 【Treasure Chain将于5月30日关闭，用户需提前提取其资产】5月6日消息，据官方公告，Treasure Chain 将于 2025 年 5 月 30 日关闭。资产持有者必须在 5 月底之前赎回所有 ETH、MAGIC、SMOL 和 NFT 持有量。此前消息，Treasure 因财务危机面临重组，将终止游戏运营和 Treasure Chain。
-- [加密市场普遍回调，Layer2与PayFi跌超2%，AI板块逆势上涨]() - 📰 null - 【加密市场普遍回调，Layer2与PayFi跌超2%，AI板块逆势上涨】5月6日消息，据SoSoValue数据显示，加密市场整体回调，Layer2与PayFi板块24小时分别下跌2.05%、2.30%。其中，PayFi板块中的XRP、LTC、XLM跌幅分别为2.78%、4.50%、4.54%，SAFE逆势上涨13.78%；Layer2板块中POL、OP分别下跌4.79%、6.80%，而MOVE盘中上涨4.19%。AI板块逆势上涨0.96%，其中TAO与AKT分别涨5.87%、5.25%；CeFi板块涨0.74%，BNB涨1.53%。其他板块普遍下跌，FORM上涨14.26%。
+- [加密 KOL：知情人士称 Zerebro 开发者是假死](https://x.com/Irenezhao_/status/1919728813405053399) - 📰 null - 【加密 KOL：知情人士称 Zerebro 开发者是假死】5月6日消息，加密 KOL 发文称，「我刚刚问了知情人，他说 jeff（Zerebro 开发者 Jeffy Yu）是假死。好了，都散了吧。」 
+此前消息，讣告平台 Legacy 发布 Jeffy Yu 去世消息，Legacy 平台允许用户付费发布讣告。针对网传 Jeffy Yu 去世的直播视频，部分社区成员质疑其真实性，建议用户谨慎判断，待官方进一步确认。
+- [Tether 旗下资产代币化平台 Hadron 已整合 Chainalysis 合规工具](https://tether.io/news/hadron-by-tether-integrates-chainalysis-sets-new-standard-for-compliant-tokenization/) - 📰 null - 【Tether 旗下资产代币化平台 Hadron 已整合 Chainalysis 合规工具】金色财经报道，据官方消息，Tether 宣布其资产代币化平台 Hadron 已整合 Chainalysis 的合规与监控工具。此次升级为 Hadron 平台带来机构级监管能力，进一步巩固其作为可信赖且合规的代币发行和资产管理市场的地位。
+- [21Shares推出Cronos ETP](https://www.globenewswire.com/news-release/2025/05/06/3074830/0/en/21Shares-Launches-Cronos-ETP-to-Expand-Access-to-Emerging-Web3-Infrastructure.html) - 📰 null - 【21Shares推出Cronos ETP】金色财经报道，加密 ETF 发行商 21Shares 在巴黎泛欧交易所和阿姆斯特丹泛欧交易所推出 21Shares Cronos ETP（股票代码：CRON），为投资者提供接触 Cronos 区块链原生代币 CRO 的机会。
+- [香港证监会高层访问阿布扎比和迪拜推动虚拟资产合作](https://mp.weixin.qq.com/s/goLM_PpRJmfX_Jv6GK1hvA) - 📰 null - 【香港证监会高层访问阿布扎比和迪拜推动虚拟资产合作】金色财经报道，香港证监会官方披露机构代表到访阿联酋的阿布扎比及迪拜与当地监管机构及Web 3业界会面，包括与阿联酋证券商品委员会（Securities and Commodities Authority of the United Arab Emirates）、阿布扎比国际金融中心金融服务监管局（Financial Services Regulatory Authority of the Abu Dhabi Global Market）、迪拜金融服务管理局（Dubai Financial Services Authority）及迪拜虚拟资产监管局（Virtual Assets Regulatory Authority of Dubai），交流有关虚拟资产的见解及经验，以推动国际间就虚拟资产的合作，并促进证监会根据ASPIRe路线图制定适切的政策。
+- [Haedal 推出 HAEDAL 回购计划](https://x.com/HaedalProtocol/status/1919725816159863111) - 📰 null - 【Haedal 推出 HAEDAL 回购计划】5月6日消息，Haedal 推出 HAEDAL 回购计划，Haedal 协议收益的 50%（Liquid 质押费 + HMM 费 + haeVault 利润）用于直接从二级市场购买 HAEDAL；100% 回购的 HAEDAL 每周分配给 veHAEDAL 质押者。
+- [福布斯：华尔街机构正为比特币和加密货币市场的大幅上涨做准备](https://www.forbes.com/sites/digital-assets/2025/05/06/leak-reveals-wall-street-is-quietly-gearing-up-for-a-huge-bitcoin-and-crypto-price-boom/) - 📰 null - 【福布斯：华尔街机构正为比特币和加密货币市场的大幅上涨做准备】金色财经报道，据匿名消息来源报道，高速交易巨头Tower Research Capital已加入Citadel Securities，“加大对加密货币的押注”。随着特朗普政府承诺开放比特币交易和加密货币市场，取消拜登时代的限制，并快速推进重塑金融体系的立法，华尔街正在悄然加大对比特币和加密货币的支持力度。 
+上周，代表客户管理着总计 10 万亿美元资金的华尔街巨头们预计，今年将对比特币 “开放业务”，首次允许顾问向客户推荐比特币 ETF。
+- [观点：VanEck 或因注意到赵长鹏与一些国家建立关系才提交 BNB ETF](https://x.com/EricBalchunas/status/1919719495427297422) - 📰 null - 【观点：VanEck 或因注意到赵长鹏与一些国家建立关系才提交 BNB ETF】5月6日消息，彭博社高级 ETF 分析师 Eric Balchunas 在 X 平台发文表示，昨天很多人抨击 VanEck 提交的 BNB ETF 申请。 
+不过，只要知道赵长鹏上周的一些发言就会知道，他正在为多个政府提供建立加密货币储备的建议，而且也建议将 BNB 纳入储备，这或许就是 Jan VanEck 注意到并采取行动的原因。再说一次，这只是一个假设的想法，但逻辑非常清晰。
+- [某新建钱包从币安提取2052枚ETH，价值364万美元](https://x.com/OnchainLens/status/1919719268259922226) - 📰 null - 【某新建钱包从币安提取2052枚ETH，价值364万美元】金色财经报道，据 Lookonchain 监测，某新建钱包从币安提取 2052 枚 ETH，价值 364 万美元，随后发送至 Kiln 进行质押。
+- [英国财政部经济大臣：不会效仿美国建立国家加密货币储备](https://decrypt.co/318045/uk-rules-out-national-crypto-reserve) - 📰 null - 【英国财政部经济大臣：不会效仿美国建立国家加密货币储备】5月6日消息，英国财政部经济大臣Emma Reynolds明确表示，该国不会效仿美国建立国家加密货币储备。她在伦敦举行的峰会上指出，虽然英美已成立高级官员工作组就数字资产监管展开合作，但英国更倾向于将加密资产纳入现有金融监管框架，遵循“相同风险、相同监管”原则。 
+英国正探索利用分布式账本技术发行主权债务，预计夏季末确定技术供应商。Reynolds强调，英国不会照搬欧盟MiCA法案的专项立法模式，而是基于结果导向调整现有法规。对于比特币等去中心化资产，她承认存在监管局限性，政府能采取的干预措施有限。
+- [Web3悬疑新作《币海暗礁之黑琥珀》今日正式上线](https://www.jinse.cn/blockchain/3713453.html) - 📰 null - 【Web3悬疑新作《币海暗礁之黑琥珀》今日正式上线】金色财经报道，5月6日16:00，由金色财经联合Twinkle重磅打造的短剧《币海暗礁之黑琥珀》正式上线。每周二、周四更新，每周四集。《币海暗礁之黑琥珀》是一部融合硬核科技、金融犯罪与人性挣扎的悬疑大作。它试图回答：在去中心化的理想背后，谁在操控中心化的权力？当技术成为双刃剑，普通人如何在漩涡中寻找真相？以悬疑叙事揭开区块链世界的隐秘角落。锁定平台，不见不散。 
+《币海暗礁之黑琥珀》联合发行：Dora Factory； 
+战略合作：OpenZK、PicWe、LADT、Cointime、Techub News； 
+特別支持：HF RealX。
+- [如果谈判失败，欧盟将对1000亿欧元的美国商品征收关税]() - 📰 null - 【如果谈判失败，欧盟将对1000亿欧元的美国商品征收关税】金色财经报道，据知情人士透露，如果正在进行的贸易谈判未能产生令欧盟满意的结果，欧盟计划对约1000亿欧元（合1130亿美元）的美国商品征收额外关税。知情人士说，拟议的报复措施最早将于周三与成员国分享，磋商将持续一个月，然后最终确定清单。早前有媒体报道称，欧盟委员会预计将于本周与美国分享一份文件，试图启动谈判。预计欧盟的提议将包括降低贸易和非关税壁垒，以及增加对美国的投资。欧盟和美国之间的谈判于上月正式开始，但进展甚微，预计美国的大部分关税将保持不变。欧盟周二表示，特朗普正在进行的贸易调查将使欧盟面临关税的商品数额增加到5490亿欧元。
+- [币安将上线SYRUP和KMNO并添加种子标签]() - 📰 null - 【币安将上线SYRUP和KMNO并添加种子标签】金色财经报道，据官方公告，币安将于2025年5月6日23：00（北京时间）上线Maple Finance（SYRUP）和Kamino Finance（KMNO），并开放SYRUP/USDT、SYRUP/USDC、KMNO/USDT和KMNO/USDC现货交易对。公告显示，SYRUP和KMNO将被添加种子标签，代表其可能具有较高的波动性和风险。
+- [美国国税局任命Trish Turner 领导其加密部门](https://x.com/Cointelegraph/status/1919710590634688743) - 📰 null - 【美国国税局任命Trish Turner 领导其加密部门】金色财经报道，在内部改组和联邦政策变化导致主要高管离职后，美国国税局任命拥有 20 年经验的资深人士 Trish Turner 领导其加密部门。
+- [BTC跌破94000美元]() - 📰 null - 【BTC跌破94000美元】金色财经报道，行情显示，BTC跌破94000美元，现报93999.99美元，24小时跌幅达到0.21%，行情波动较大，请做好风险控制。
+- [两个新钱包从Kraken共提取83,000枚SOL并用于质押，价值1197万美元](https://x.com/OnchainLens/status/1919708522163667162) - 📰 null - 【两个新钱包从Kraken共提取83,000枚SOL并用于质押，价值1197万美元】金色财经报道，据Onchain Lens监测，两个新创建的钱包从Kraken交易所共提取了83,000枚SOL（价值1197万美元），并将其用于质押。
+- [花旗银行与瑞士SDX联手进军代币化未上市公司股权市场](https://www.coindesk.com/business/2025/05/06/citi-switzerland-s-sdx-join-forces-to-tokenize-usd75b-pre-ipo-shares-market?utm_source=twitter&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_term=organic) - 📰 null - 【花旗银行与瑞士SDX联手进军代币化未上市公司股权市场】金色财经报道，据 CoinDesk 报道，全球银行巨头花旗银行（Citi）与瑞士主要证券交易平台的数字资产部门 SIX 数字交易平台（SDX）达成合作，将对未公开交易的股份进行代币化，旨在简化这一价值 7500 亿美元的市场，该市场目前仍依赖 PDF 文件和纸质文档。 
+花旗银行将作为托管人和发行代理，为 SDX 的受监管区块链平台——中央证券存管（CSD）平台上的晚期、未上市公司股权提供代币化版本。
+- [Web3Bounty.io推出5000万美元赏金以寻找有关TUSD稳定币储备金被挪用的线索](https://cryptoslate.com/50m-bounty-goes-live-on-web3bounty-io-to-trace-misappropriated-funds-linked-to-fdt-and-aria/) - 📰 null - 【Web3Bounty.io推出5000万美元赏金以寻找有关TUSD稳定币储备金被挪用的线索】金色财经报道，据Cryptoslate报道，在线平台Web3Bounty.io推出了一项新的悬赏计划，旨在寻找有关TrueUSD（TUSD）稳定币约4.56亿美元储备金被挪用的线索和信息。对于提供可信的原创信息并助力识别和追回这些资产的人，将提供5000万美元的悬赏金。线索提交者需通过平台实名认证，经独立验证后按贡献度分配赏金。
+- [Zerebro 创始人疑似发布定时文章：已触发死亡开关，LLJEFFY是我最后的艺术品](https://mirror.xyz/jyu.eth/8vyuJuDkAOBmFvPmVy3QWdThtqDiQdg76llPH9IGmGM) - 📰 null - 【Zerebro 创始人疑似发布定时文章：已触发死亡开关，LLJEFFY是我最后的艺术品】金色财经报道，Zerebro 创始人疑似发布定时文章，主要内容包括： 
+如果你正在读这篇文章，那是因为我的 72 小时死亡开关被触发了。LLJEFFY 是我“最后的艺术品”，代表一种名为 Legacoin 的概念——开发者仅买入、不出售，死亡后资产永久锁定链上，以此实现数字遗产的象征性永存。
+- [Binance alpha 已上线 MYX]() - 📰 null - 【Binance alpha 已上线 MYX】金色财经报道，官方页面显示，Binance alpha 已上线 MYX。
+- [TRUMP发行团队已通过手续费赚取超3.2亿美元收益](https://fortune.com/crypto/2025/05/06/trump-meme-coin-creators-320-million-fees-presidential-dinner-top-holders/) - 📰 null - 【TRUMP发行团队已通过手续费赚取超3.2亿美元收益】金色财经报道，据《财富》杂志报道，区块链分析公司Chainalysis称，自今年早些时候特朗普Meme币TRUMP推出以来，其发行团队已通过手续费赚取超过3.2亿美元的收入。而在本周一，特朗普还为一场将在5月22日举行的TRUMP晚宴进行宣传。
