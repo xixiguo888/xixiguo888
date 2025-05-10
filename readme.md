@@ -1,29 +1,36 @@
-- [DeFi Technologies获准在纳斯达克上市](https://www.prnewswire.com/news-releases/defi-technologies-receives-approval-to-list-on-nasdaq-302451421.html) - 📰 null - 【DeFi Technologies获准在纳斯达克上市】金色财经报道，数字资产交易所交易产品发行商Valour的母公司DeFi Technologies宣布已向美国证券交易委员会提交40-F表格注册声明并生效，因此获准在纳斯达克上市，预计将于2025年5月12日在纳斯达克开始交易，股票代码为“DEFT”。在纳斯达克开始交易后，该公司的普通股将停止在场外交易市场报价，但会继续在芝加哥期权交易所加拿大分部和法兰克福证券交易所进行交易。
-- [某巨鲸过去两天内向Bybit存入2,018万枚USDT并提取9,023.5枚ETH](https://x.com/OnchainLens/status/1921010255137567118) - 📰 null - 【某巨鲸过去两天内向Bybit存入2,018万枚USDT并提取9,023.5枚ETH】金色财经报道，据Onchain Lens监测，过去两天内，一个巨鲸向Bybit存入了2,018万枚USDT，并以2,237美元的价格提取了9,023.5枚ETH。目前，该巨鲸持有价值2,757万美元的11,739枚ETH和938万枚USDT。
-- [Pudgy Penguins在TON平台上推出链游Pengu Clash](https://www.prnewswire.com/news-releases/pudgy-penguins-further-expands-into-blockchain-gaming-with-launch-of-pengu-clash-on-ton-302451200.html) - 📰 null - 【Pudgy Penguins在TON平台上推出链游Pengu Clash】金色财经报道，NFT项目“胖企鹅”Pudgy Penguins宣布在TON平台上推出基于Web3游戏基础设施Elympics的区块链游戏Pengu Clash，这款游戏引入了“Play2Win”模式，玩家可以通过社交锦标赛和实时游戏赢得代币奖励。
-- [Cointelegraph官方X账号发布代币合约疑似被盗]() - 📰 null - 【Cointelegraph官方X账号发布代币合约疑似被盗】金色财经报道，Cointelegraph官方X账号发布代币合约疑似被盗，提醒社区警惕风险。
-- [印尼政府或要求 Worldcoin 删除 50 万条公民视网膜数据]() - 📰 null - 【印尼政府或要求 Worldcoin 删除 50 万条公民视网膜数据】5 月 10 日谢谢，印尼通信与数字部（Komdigi）可能会要求 World 平台删除 50 万条印尼公民的视网膜数据记录。此前，由于担心潜在的数据泄露风险，Komdigi 正在调查存储视网膜数据是否存在安全隐患。一旦发现相关风险，这些数据将被永久删除。 
-World 平台此前因向用户提供 800,000 印尼盾（约 48.34 美元）的扫描视网膜奖励而受到审查。在 Komdigi 暂停其运营许可后，该平台已停止在印尼的所有扫描活动。World 平台澄清，其加密货币 Worldcoin 并非作为补偿使用，代币仅作为可选激励。
-- [新版《天才稳定币法案》拟将Tether纳入美国司法管辖范围](https://x.com/zoomerfied/status/1920981611107033321) - 📰 null - 【新版《天才稳定币法案》拟将Tether纳入美国司法管辖范围】金色财经报道，根据zoomer披露，根据最新版本的《天才稳定币法案》（UNCHAINED）显示，无论其总部设在哪里，Tether都将被纳入美国司法管辖范围。
-- [TRUMP：特朗普将于晚宴当天宣布TRUMP代币的下一阶段](https://x.com/GetTrumpMemes/status/1920901275488555019) - 📰 null - 【TRUMP：特朗普将于晚宴当天宣布TRUMP代币的下一阶段】金色财经报道，TRUMP官方在社交媒体上发文表示，美国总统特朗普将于5月22日晚宴当天宣布TRUMP代币的下一阶段。
-- [某鲸鱼于1小时前向币安转移5000亿枚PEPE，约合614万美元](https://x.com/EmberCN/status/1920995651954913774) - 📰 null - 【某鲸鱼于1小时前向币安转移5000亿枚PEPE，约合614万美元】金色财经报道，据链上分析师余烬监测，鲸鱼0x3c9在1小时前继续向币安转移5000亿枚PEPE（614万美元）。目前该鲸鱼还持有1万亿枚PEPE，价值1227万美元。
-- [欧洲央行执委施纳贝尔：欧洲央行将保持稳健，将利率维持在当前水平附近]() - 📰 null - 【欧洲央行执委施纳贝尔：欧洲央行将保持稳健，将利率维持在当前水平附近】金色财经报道，欧洲央行执委施纳贝尔：中期通胀风险可能偏上行。欧洲央行将保持稳健，将利率维持在当前水平附近。(金十)
-- [Bithumb将暂停Kusama（KSM）充提业务](https://www.chaincatcher.com/article/2025%E5%B9%B45%E6%9C%8810%E6%97%A5%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8A%E5%8D%888:15%EF%BC%88%E9%9F%A9%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%EF%BC%89) - 📰 null - 【Bithumb将暂停Kusama（KSM）充提业务】金色财经报道，据Bithumb公告，由于Kusama(KSM)网络问题，存款和取款服务将于2025年5月10日星期六上午8:15（韩国标准时间）暂时暂停。
-- [美联储Musalem：在关税对通胀的影响变得明显之前 不应承诺降息]() - 📰 null - 【美联储Musalem：在关税对通胀的影响变得明显之前 不应承诺降息】金色财经报道，美联储Musalem表示，如果通胀上升被证明是短暂的，预期保持稳定，经济明显走弱，那么降息仍然是可能的。关税对通胀的影响可能是短暂的，但同样可能会更持久。在关税对通胀的影响变得明显之前，不应承诺降息。美国经济活动有所放缓，情绪有所下降。
-- [昨日灰度GBTC净流出6520万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日灰度GBTC净流出6520万美元】金色财经报道，据Farside Investors监测数据，昨日灰度GBTC净流出6520万美元。
-- [金色晨讯 | 5月10日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 5月10日隔夜重要动态一览】21:00-7:00关键词：万斯、币安、ETF质押、Coinbase 
-1.美联储博斯蒂克：现在调整政策并不明智； 
-2.美副总统万斯将在比特币2025大会发表演讲； 
-3.贝莱德与美SEC会谈，探讨加密ETF质押与期权交易问题； 
-4.美参议员敦促财政部和司法部就币安与特朗普的关系展开调查； 
-5.贝莱德更新以太坊ETF申请，纳入“实物申赎”及量子计算风险披露； 
-6.Coinbase曾考虑效仿Michael Saylor大举购入比特币，最终因风险放弃； 
-7.特朗普：成本下降，没有通货膨胀，这与美联储和假新闻媒体所希望的截然不同。
-- [摩根大通CEO戴蒙批评特朗普关税政策](https://finance.sina.com.cn/7x24/2025-05-10/doc-inevziti8638544.shtml) - 📰 null - 【摩根大通CEO戴蒙批评特朗普关税政策】金色财经报道，摩根大通CEO戴蒙批评特朗普关税政策。
-- [贝莱德更新以太坊ETF申请，纳入“实物申赎”及量子计算风险披露](https://x.com/JSeyff/status/1920966261254524942) - 📰 null - 【贝莱德更新以太坊ETF申请，纳入“实物申赎”及量子计算风险披露】金色财经报道，分析师James Seyffart表示，贝莱德（BlackRock）刚刚提交了修订版S-1文件，用于其以太坊现货ETF——$ETHA，主要变更是新增“在获得SEC批准后允许实物创建/赎回”的表述。他与同行Eric Balchunas均预期SEC将在今年某个时间点批准该机制。此外，他指出，这是首个以太坊ETF申请中提出实物申赎机制的，最终审批截止日约为2025年10月11日。 
-他还提到，贝莱德旗下的比特币ETF $IBIT 也提交了修订文件，早在2月已包含类似实物申赎语言，此次新增了关于“量子计算风险”的描述，作为标准风险披露的一部分。他强调：“这些只是基本的风险披露。他们会列出任何潜在问题……这完全合乎规范，完全合理。”
-- [特朗普重申基准关税为10%，不排除个别豁免](https://baijiahao.baidu.com/s?id=1831683197684684834&wfr=spider&for=pc) - 📰 null - 【特朗普重申基准关税为10%，不排除个别豁免】金色财经报道，美国总统特朗普周五表示，他将“始终”对贸易伙伴征收至少10%的关税，但随即又补充称“不排除例外情况”，这一表态凸显出当前美国在多个贸易谈判中的立场仍不明晰。“你始终会有一个基线，”特朗普在白宫对记者表示。“当然，也可能有例外。有时候，某些国家为我们做了特别的事情，那就另当别论。但基本上，最低基线是10%，有些关税会远高于这个水平。”周四美英公布框架协议后，美国仍维持对英国商品10%的基线税率。对此，政府官员坚称，特朗普将继续在所有进口商品上设立至少10%的关税，以应对贸易逆差并推动美国制造业发展。白宫新闻秘书莱维特当天早些时候也表示，“总统决心继续执行这一10%的关税基线。我刚刚与他交流过。”
-- [分析师对Coinbase营收承压与衍生品扩张看法不一](https://www.coindesk.com/markets/2025/05/09/coinbase-draws-mixed-reviews-from-wall-street-after-q1-earnings-miss-deribit-acquisition) - 📰 null - 【分析师对Coinbase营收承压与衍生品扩张看法不一】金色财经报道，Coinbase第一季度营收环比下滑12%至20.3亿美元，交易收入下降近19%，多家分析师下调其二季度及全年收入预期。JPMorgan指出“机构交易量环比下降30%”，机构费用率也从4.1个基点降至3.1个基点。然而，Coinbase以29亿美元收购全球领先的加密衍生品交易所Deribit，被认为是“在衍生品领域押下的大胆赌注”。Bernstein称该估值“合理”，Canaccord认为这笔交易将“为美国监管批准的加密期权做好准备”。此外，订阅与服务收入增长9%至6.98亿美元，受USDC采用推动，Coinbase上USDC余额增长近50%至123亿美元。Canaccord称其“Coinbase即服务”策略可“对冲交易周期波动”，Coinbase仍被视为数字资产领域“黄金标准”。
-- [ZachXBT：无辜研究员被误抓，BAYC NFT盗窃案真凶另有其人](https://cointelegraph.com/news/zachxbt-wrong-suspect-detained-bored-ape-nft-theft) - 📰 null - 【ZachXBT：无辜研究员被误抓，BAYC NFT盗窃案真凶另有其人】金色财经报道，加密调查员ZachXBT表示，执法机构“错误地拘留”了2022年盗取140万美元Bored Ape NFT案件中的嫌疑人。ZachXBT称已识别与该诈骗相关的钱包，并将其关联至一个现已删除的X账户。2023年，前Yuga Labs安全研究员Sam Curry因该案在机场被捕。ZachXBT指出：“令人遗憾的是，一名安全研究员被拘留，而实际上可能责任人的更强线索已经存在。”他还表示，Curry是在调查过程中使用了攻击者在网站JavaScript中嵌入的私钥。ZachXBT利用链上资金流追踪，确认了一名更可能涉案者，并呼吁执法部门调查其社交媒体与链上交易数据。
-- [美联储巴尔金：不是所有的公司都可以因关税提高价格](https://flash.jin10.com/detail/20250509234036143800) - 📰 null - 【美联储巴尔金：不是所有的公司都可以因关税提高价格】金色财经报道，美联储巴尔金表示，不是所有的公司都可以提高价格来抵消关税成本，他警告称，经过多年的通胀，消费者的容忍度很低。“我从零售商那里听到的是，消费者手头拮据，”巴尔金说。“这意味着你要把价格传递给消费者不是你想象的那么容易。”巴尔金仍然认为美国经济状况良好。他补充说，消费者支出和企业投资仍然稳固。他指出，虽然消费者信心指标明显疲弱，但这尚未拖累支出。巴尔金说，他正在考虑关税是否会减缓经济增长，达到抑制通胀的程度。他说，这是2008年的经历，但也有其他时候并没有发生。
-- [分析师：美英初步贸易协议难消美股逆风](https://flash.jin10.com/detail/20250510001449468800) - 📰 null - 【分析师：美英初步贸易协议难消美股逆风】金色财经报道，Harbor Capital的Jake Schurmeier表示，尽管美英贸易协议带来有限的透明度提升，但风险资产的投资前景仍缺乏吸引力。Schurmeier估计，随着10%的关税成为特朗普贸易协议的底线，美国的实际关税率将翻两番，达到12%，从而对企业利润率造成压力。消费者价格可能上涨将使美联储难以管理通胀预期和实施降息。他说：“我倾向于对股票持中性立场”，因为较高的进口成本“会大幅减缓经济增长，从而削减利润率”。
+- [LayerZero联创：新产品名称与Hyperliquid产生冲突，将会更名](https://x.com/PrimordialAA/status/1921083254024622439) - 📰 null - 【LayerZero联创：新产品名称与Hyperliquid产生冲突，将会更名】金色财经报道，LayerZero联合创始人Bryan Pellegrino在X平台发文表示，今日发布的新产品名称与Hyperliquid产生了冲突，刚刚收到了通知，会想一个新名称进行更换，预计将在几天后进行。据悉，LayerZero此前推出Hyperbridge，允许用户将资产从链上转移到Hyperliquid，目前覆盖USDT0、USDe、PLUME、COOK、USR和RLP。
+- [BTC突破103500美元]() - 📰 null - 【BTC突破103500美元】金色财经报道，行情显示，BTC突破103500美元，现报103517.59美元，24小时涨幅达到0.5%，行情波动较大，请做好风险控制。
+- [华尔街富豪投资者正撤离美国市场并增加对欧洲市场的投资](https://www.cryptopolitan.com/wall-street-top-investors-ditching-us-assets/) - 📰 null - 【华尔街富豪投资者正撤离美国市场并增加对欧洲市场的投资】金色财经报道，全球最大金融机构正在减持美元资产并增加对欧洲市场的投资。数据显示投资者正大规模撤离美国股票和债券市场。这一长期撤资趋势受华盛顿政治混乱、对美联储信心下降以及特朗普发起的最新关税争端影响。 
+自今年1月以来，美元已贬值超过7%，交易员现正关注资金向德国债券等更安全的欧洲投资转移的迹象。根据Bank of America调查，3月份投资者对美国股票持仓进行了有史以来最大规模的削减，转向欧洲的速度为1999年以来最快。 
+多国养老基金正带头这一撤资潮。芬兰Veritas养老保险公司、澳大利亚UniSuper基金和丹麦养老基金均已减持美国资产。BNP Paribas策略主管表示，若欧洲养老基金将美国资产敞口降至2015年水平，将意味着抛售3000亿欧元美元计价投资。
+- [X平台将于今年推出XMoney服务](https://coindoo.com/x-ceo-confirms-launch-of-xmoney-this-year/) - 📰 null - 【X平台将于今年推出XMoney服务】金色财经报道，X（前身为Twitter）首席执行官Linda Yaccarino正式确认将于今年晚些时候推出XMoney服务。这一消息是与X平台不断发展的功能和创作者计划的更新一同宣布的。XMoney服务预计将成为一个不断发展的生态系统的一部分，该生态系统已包括最近推出的视频标签和即将推出的直接消息增强功能。 
+Yaccarino表示，所有新功能将整合到一个由实时互动和人工智能驱动的单一生态系统中。此外，由Khloé Kardashian和Anthony Pompliano等知名创作者支持的XOriginals内容计划将于今年夏季推出新节目。
+- [Aevo治理提案AGP-2已获社区通过，将恢复每月链上回购计划](https://x.com/aevoxyz/status/1921071547072028867) - 📰 null - 【Aevo治理提案AGP-2已获社区通过，将恢复每月链上回购计划】金色财经报道，据Aevo官方X账号披露，Aevo治理提案AGP-2已获社区通过，将恢复每月链上回购计划。根据该提案，AEVO代币持有者通过投票决定重启每月进行的链上代币回购机制。Aevo在公告中感谢了所有参与者和投票者对AGP-2提案的支持。
+- [NFP完成第三次代币销毁，永久减少300万枚代币供应](https://x.com/nfprompt/status/1921067679714340897) - 📰 null - 【NFP完成第三次代币销毁，永久减少300万枚代币供应】5月10日消息，据NFP官方X账号报道，NFP已完成第三次代币销毁活动。团队于UTC时间08:58:22永久销毁了300万枚NFP代币，此举旨在减少代币总供应量，为NFPrompt生态系统提供长期价值支持。
+- [Blockstream CEO：Metaplanet 比特币收益率将超越 MicroStrategy](https://coinpedia.org/news/metaplanet-will-outperform-microstrategy-in-bitcoin-returns-says-adam-back/) - 📰 null - 【Blockstream CEO：Metaplanet 比特币收益率将超越 MicroStrategy】金色财经报道，Blockstream CEO Adam Back表示，日本公司Metaplanet在比特币收益率方面将超越MicroStrategy。Back指出，Metaplanet使用"months to mNAV cover"指标，仅需3个月即可实现2倍比特币收益，增长速度是MicroStrategy的3.8倍。 
+目前，Metaplanet的市场净资产价值(mNAV)为3.3倍，如保持当前增长速度，有望达到8.3倍，使其股价从¥533上涨至¥1,340。Metaplanet已持有价值超过5.36亿美元的比特币，平均购买价格为86,672美元/枚。2025年，其比特币收益率达136.7%，公司股价最近上涨11.5%，收于¥477。 
+Metaplanet正计划通过其美国子公司Metaplanet Treasury Corp.发行2.5亿美元债券，用于进一步购买比特币，展现其对比特币战略的坚定承诺。
+- [BNB Chain过去30天活跃地址数量翻倍至超200万](https://x.com/nansen_ai/status/1921060647540060458/photo/1) - 📰 null - 【BNB Chain过去30天活跃地址数量翻倍至超200万】5月10日消息，据Nansen数据显示，过去30天内，BNB Chain活跃地址数量从100万攀升至超200万，日交易量最高升至800万，随后开始回落。
+- [WIF突破0.85美元，24小时涨幅达26.4%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/dogwifhat) - 📰 null - 【WIF突破0.85美元，24小时涨幅达26.4%】金色财经报道，行情显示，WIF突破0.85美元，现报0.834美元，24小时涨幅达26.4%，行情波动较大，请做好风险控制。
+- [某巨鲸地址过去1小时从Binance提币1139枚BTC](https://x.com/OnchainDataNerd/status/1921049428162392486) - 📰 null - 【某巨鲸地址过去1小时从Binance提币1139枚BTC】金色财经报道，据The Data Nerd监测，某bc1q57开头鲸鱼地址在过去一小时内，从Binance累计提现了1,139枚BTC（约合1.1743亿美元）。目前，该地址持有2,616枚BTC（约合2.695亿美元）。
+- [金色午报 | 5月10日午间重要动态一览]() - 📰 null - 【金色午报 | 5月10日午间重要动态一览】7:00-12:00关键词：Pudgy Penguins、Cointelegraph、TRUMP、NODE 
+1.Pudgy Penguins在TON平台上推出链游Pengu Clash； 
+2.TRUMP官方：向CEX转移350万枚代币为支持流动性； 
+3.Cointelegraph官推被盗后向关注者发送私信以盗取X账号； 
+4.美股Next Technology因Q1大量增持比特币股价涨超700%； 
+5.VanEck 链上经济ETF（NODE）将于 5 月 14 日正式上线； 
+6.TRUMP：特朗普将于晚宴当天宣布TRUMP代币的下一阶段； 
+7.美联储Musalem：在关税对通胀的影响变得明显之前 不应承诺降息。
+- [美国现货比特币ETF昨日净流入3.214亿美元](https://x.com/FarsideUK/status/1921049039094665302) - 📰 null - 【美国现货比特币ETF昨日净流入3.214亿美元】金色财经报道，据Farside Investors监测，昨日美国现货比特币ETF昨日净流入3.214亿美元。
+- [美国现货以太坊ETF昨日净流入1760万美元](https://x.com/FarsideUK/status/1921049039094665302) - 📰 null - 【美国现货以太坊ETF昨日净流入1760万美元】金色财经报道，据Farside Investors监测，美国现货以太坊现货ETF昨日净流入1760万美元。
+- [某鲸鱼地址卖出1万亿枚PEPE，获利353万美元]() - 📰 null - 【某鲸鱼地址卖出1万亿枚PEPE，获利353万美元】金色财经报道，据链上数据分析师 @ai_9684xtpa 监测，随着 PEPE 上涨，早在一周前就埋伏 PEPE 的「低买高卖 WBTC 获利 1426 万美元的 Smart Money 地址」借此再次获利 353 万美元。过去 14 小时疑似卖出 1 万亿枚 PEPE（约合 1248 万美元），剩余 1 万亿枚目前仍浮盈 352 万美元，建仓均价 0.00000895 美元。
+- [某鲸鱼以 2277 美元的价格增持 9023 枚ETH]() - 📰 null - 【某鲸鱼以 2277 美元的价格增持 9023 枚ETH】金色财经报道，据Lookonchain监测，3 个月前，一位鲸鱼以 2,740 美元的价格卖出了所有的 ETH，损失了 1100万美元。一个月前，他再次入场，以 1502 美元的价格买入 2713 枚ETH（407 万美元）。 
+随着以太坊最近的反弹，他又加倍买入，以 2277 美元的价格再买入 9023 枚ETH（2055 万美元）。
+- [灰度再次进行大额比特币转移，过去7小时转出8400枚BTC](https://intel.arkm.com/explorer/address/1PfeNhEur4aA3s3hm7N2j65N7FxrtJww94) - 📰 null - 【灰度再次进行大额比特币转移，过去7小时转出8400枚BTC】金色财经报道，据Arkham监测数据显示，灰度再次进行大额比特币转移，大约七小时前向多个未知地址转出总计约8400枚BTC，总价值高达8.6632亿美元。昨日灰度转出9000枚比特币，价值达9.2115亿美元。
+- [Cointelegraph官推被盗后向关注者发送私信以盗取X账号](https://x.com/thedefiedge/status/1921039988848030021) - 📰 null - 【Cointelegraph官推被盗后向关注者发送私信以盗取X账号】5月10日消息，据社群消息，Cointelegraph官推被盗后向大量关注者发送了私信，以通过盗取X账号。 
+据加密KOL Edgy描述，Cointelegraph官推账号向其发送私信，要求审查一篇涉及Edgy本人相关内容的文章。点击Cointelegraph官推给出的链接后，将跳转至域名为Cointetegraph的冒牌网站并要求登录X账号。
+- [VanEck 链上经济ETF（NODE）将于 5 月 14 日正式上线]() - 📰 null - 【VanEck 链上经济ETF（NODE）将于 5 月 14 日正式上线】金色财经报道，据 Cointelegraph 披露，VanEck 推出的链上经济ETF（NODE）将于 5 月 14 日正式上线。
+- [数据：SHIB 24小时内燃烧率飙升至3000%，开发团队正考虑每日销毁1万亿代币](https://news.tokocrypto.com/harga-shiba-inu-tembus-00002-burn-rate-hingga-3-000/) - 📰 null - 【数据：SHIB 24小时内燃烧率飙升至3000%，开发团队正考虑每日销毁1万亿代币】金色财经报道，Shiba Inu(SHIB)在过去一周内燃烧了超过6700万枚代币，24小时内燃烧率激增至3000%。SHIB开发团队正考虑实施激进的代币销毁策略，目标是每天燃烧1万亿SHIB。若该目标实现，一年内将销毁约365万亿SHIB，减少当前流通量的62%。 
+分析师预测，在市值保持不变的情况下，这一供应量减少可能推动SHIB价格上涨167%，达到约0.000037美元。Shibarium二层网络在此销毁策略中扮演关键角色，目前其总锁仓价值约为300万美元，但需要增长至10亿美元才能支持每日销毁目标。
+- [Michael Saylor：比特币未达15万美元，原因是短期投资者在价格上涨时选择离场](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors) - 📰 null - 【Michael Saylor：比特币未达15万美元，原因是短期投资者在价格上涨时选择离场】金色财经报道，Strategy（原MicroStrategy）董事会主席Michael Saylor 在《Coin Stories》播客中表示，比特币尚未达到15万美元，是因为那些缺乏长期投资心态的持有者在比特币价格上涨时选择离场，而新的投资者群体正在进入市场。 
+他指出，许多比特币此前被掌握在政府、律师和破产受托人手中，这些受托人缺乏“十年投资者心态”，在比特币价格反弹时，他们选择套现离场。塞勒认为，那些对长期投资承诺较低的人已抓住机会退出市场，而新的投资者则通过ETF和比特币国库公司等方式进入。
