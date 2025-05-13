@@ -1,29 +1,39 @@
-- [BTC跌破102000美元]() - 📰 null - 【BTC跌破102000美元】金色财经报道，行情显示，BTC跌破102000美元，现报101892.27美元，24小时跌幅达到1.98%，行情波动较大，请做好风险控制。
-- [美联储调查：美国银行业报告第一季度商业与工业贷款需求下降](https://flash.jin10.com/detail/20250513020402766800) - 📰 null - 【美联储调查：美国银行业报告第一季度商业与工业贷款需求下降】金色财经报道，美联储调查：美国银行业报告第一季度商业与工业贷款需求下降，规模最大的企业需求最为疲软，为自去年第三季度以来的最低水平，扭转了第四季度的强劲势头。
-- [美SEC主席Paul Atkins：将为加密市场制定合适标准](https://www.theblock.co/post/353981/sec-chair-paul-atkins-unveils-his-vision-for-crypto-regulation-as-the-agency-charts-a-friendlier-approach-to-digital-assets?utm_source=twitter&utm_medium=social) - 📰 null - 【美SEC主席Paul Atkins：将为加密市场制定合适标准】金色财经报道，美国证券交易委员会（SEC）新任主席Paul Atkins周一表示，“这是SEC的新纪元”，政策制定将不再依赖临时执法行动，而是将利用现有制定规则、解释和豁免的权力，为市场参与者制定合适的标准。Atkins批评前任主席Gary Gensler的做法，称SEC过去采取了鸵鸟式做法——或许是希望加密货币自行消失。 
-Atkins还透露，SEC可能更新托管规则，允许在特定条件下自托管，并探索是否对欲推出新产品和服务者提供有条件豁免。
-- [TRUMP疑似将推出“Trump Points” NFT市场]() - 📰 null - 【TRUMP疑似将推出“Trump Points” NFT市场】金色财经报道，根据网站泄露信息，特朗普官方 MEME 币 TRUMP 疑似将推出“Trump Points” NFT 市场——一个用户可以使用忠诚积分或加密货币买卖 NFT 的平台。 
-忠诚积分可以通过交易、完成平台定义的任务来赚取，并且持有 TRUMP 代币可能会提升积分获取。 
-注：此为网站泄露消息，真实性位置，仅供参考。任何可靠信息都需等待 TRUMP 团队发布官方声明。
-- [AI初创企业Perplexity估值飙升至140亿美元]() - 📰 null - 【AI初创企业Perplexity估值飙升至140亿美元】金色财经报道，人工智能搜索初创公司Perplexity正以140亿美元估值进行新一轮融资洽谈，该估值较前轮显著上涨但低于最初目标。这家致力于打造AI搜索引擎与谷歌竞争的公司，近期调整了融资预期，此前媒体报道其曾寻求以180亿美元估值融资10亿美元。据知情人士透露，Accel Partners正在就牵头向这家初创公司投资5亿美元进行谈判。作为2022年成立的生成式AI明星企业，Perplexity专注于重构传统互联网核心服务。其AI搜索引擎试图通过自然语言处理技术改变用户获取信息的方式。去年，Perplexity的估值从10亿美元增加到30亿美元，几个月后又增加了两倍。
-- [若比特币跌破10.1万美元，主流CEX累计多单清算强度将达9.34亿](https://www.coinglass.com/zh/pro/futures/LiquidationMap) - 📰 null - 【若比特币跌破10.1万美元，主流CEX累计多单清算强度将达9.34亿】金色财经报道，据 Coinglass 数据，若比特币跌破 10.1 万美元，主流 CEX 累计多单清算强度将达 9.34 亿。反之，若比特币突破 10.4 万美元，主流 CEX 累计空单清算强度将达 9.15 亿。
-- [币安公布RDAC的Binance Alpha交易开始时间](https://x.com/binance/status/1921961205926617231) - 📰 null - 【币安公布RDAC的Binance Alpha交易开始时间】金色财经报道，币安宣布 RDAC 将于 5 月 13 日 18:00 （UTC+8）在 Binance Alpha 开始交易，根据社区用户们的反馈，本次 RDAC 的空投也将采取 Alpha 积分消费制度，详细信息将于交易开始前公布。
-- [泽连斯基批准美乌矿产协议](https://flash.jin10.com/detail/20250513002735335800) - 📰 null - 【泽连斯基批准美乌矿产协议】金色财经报道，当地时间12日，乌克兰总统网站发布消息称，总统泽连斯基签署了关于批准《美乌重建投资基金成立协议》的法律。4月30日，美国和乌克兰双方共同签署了《美乌重建投资基金成立协议》，即此前各界所称的“美乌矿产协议”。5月8日，乌克兰最高拉达（议会）以338票赞成的结果支持批准该协议。尽管美乌签署矿产协议被外界视为关系缓和的信号，但其实际效果有待观察。一些矿产咨询机构分析，在采矿业成熟的国家开发关键战略性矿产或需耗费10年到20年，而目前缺乏充分数据证明开发乌克兰多数矿产资源具有经济可行性，加之电力、交通等基础设施因俄乌冲突受损且安全前景不明，投资者或持谨慎态度。（央视）
-- [Tether：USDT市值已突破1500亿美元](https://x.com/Tether_to/status/1921960774055907567) - 📰 null - 【Tether：USDT市值已突破1500亿美元】金色财经报道，Tether 在 X 平台发文表示，稳定币 USDT 市值已突破 1500 亿美元，Tether 诞生于 2014 年，不仅推出了 USDT，还启动了整个稳定币行业。如今，USDT 已获得超过 4 亿人的信任，并推动着数字经济的发展。
-- [Bonk Guy：Pump.fun屏蔽LetsBONK.fun开发者令人失望](https://x.com/theunipcs/status/1921955208634273973?s=46&t=Z-O_RbWgMS3ZeTJAHphDEg) - 📰 null - 【Bonk Guy：Pump.fun屏蔽LetsBONK.fun开发者令人失望】金色财经报道，交易员 Bonk Guy 在 X 平台发文表示，尽管社区中有声音批评 Pump.fun 加剧了 Meme 币泛滥，但他一直在公开与私下为该平台辩护，认为其推动了竞争与创新，长期利好加密生态。 
-他表示，正因如此，Pump.fun 屏蔽 LetsBONK.fun 的首席开发者及支持该平台的 Raydium 贡献者的行为让人意外。他指出，Pump.fun 自身通过促进 Meme 币爆发式增长推动了竞争，却反而在面对首个具有竞争力的 Meme 发射平台时选择封锁对方，“这是一个讽刺的举动”。Bonk Guy 强调：“真正优秀的创意和执行终将胜出，无论市场上有十个还是十亿个 Meme 币项目。”
-- [以太坊Fusaka升级拟引入PeerDAS旨在降低L2与验证者成本](https://www.coindesk.com/tech/2025/05/12/ethereums-next-upgrade-fusaka-could-cut-layer-2-and-validator-costs) - 📰 null - 【以太坊Fusaka升级拟引入PeerDAS旨在降低L2与验证者成本】金色财经报道，继 Pectra 升级成功部署后，以太坊核心开发者已将注意力转向下一次重大升级“Fusaka”，计划于 2025 年底上线。目前已确定将纳入涉及 PeerDAS 的提案，旨在降低 Layer 2 扩容解决方案和验证者的运营成本。PeerDAS（Peer-to-Peer Data Availability Sampling）是一种数据可用性采样机制，允许节点在无需下载完整数据的情况下验证其可用性，从而提高网络效率并降低资源消耗。该机制有望进一步优化以太坊的扩容能力，增强网络的可扩展性和去中心化特性。据悉，Fusaka 升级的具体内容仍在讨论中，但开发者已就引入 PeerDAS 达成一致。
-- [巨鲸James Wynn：已将BTC多头仓位增至1.35亿美元](https://x.com/JamesWynnReal/status/1921947918325404080) - 📰 null - 【巨鲸James Wynn：已将BTC多头仓位增至1.35亿美元】金色财经报道，巨鲸 James Wynn 于 X 发文表示，已将 BTC 多头仓位增至 1.35 亿美元，相信这是底部，如果不是，会继续买入，很快就会创下新高。
-- [Hyperliquid高胜率巨鲸的WIF空单加仓至514万美元，目前浮盈11.2万美元](https://x.com/ai_9684xtpa/status/1921947331651379308) - 📰 null - 【Hyperliquid高胜率巨鲸的WIF空单加仓至514万美元，目前浮盈11.2万美元】金色财经报道，据链上分析师 @ai_9684xtpa 监测，Hyperliquid 高胜率巨鲸的 WIF 空单仓位加仓至 514 万美元，目前浮盈 11.2 万美元。 
--保证金：368,478 美元； 
--WIF 空单：4591933 枚，价值 514 万美元； 
--开仓价：1.14 美元； 
--清算价：1.165 美元。
-- [Letsbonk.Fun创始人被Pump.fun官方账号拉黑](https://x.com/SolportTom/status/1921946914980794537) - 📰 null - 【Letsbonk.Fun创始人被Pump.fun官方账号拉黑】金色财经报道， Solana 链上 Meme 币发射平台 Letsbonk.Fun 创始人 TOM 发文表示自己被 Pump.fun 官方 X 账号拉黑。
-- [DeFi评级项目Exponential推出DeFi平台YO，为初学者和专业人士提供服务](https://www.theblock.co/post/353958/paradigm-backed-exponential-launches-defi-platform-yo-to-optimize-yield) - 📰 null - 【DeFi评级项目Exponential推出DeFi平台YO，为初学者和专业人士提供服务】金色财经报道，由 Paradigm 支持的 DeFi 评级项目 Exponential 推出了一个名为 YO 的收益优化 DeFi 平台，旨在为初学者和专业人士提供服务，该公司表示，该平台旨在通过消除碎片化来大大简化 DeFi，自动搜索在 Base、以太坊和 Solana 上赚取收益的“最佳”机会。 
-此前报道，2022 年 10 月 3 日，DeFi 评级项目 Exponential 宣布完成 1400 万美元种子轮融资，本轮融资由 Paradigm 领投，Haun Ventures、FTX Ventures、Solana Ventures、Polygon、Circle Ventures 以及 80 多名天使投资人参投。
-- [Openverse Network完成1100万美元战略轮融资](https://chainwire.org/2025/05/12/openverse-network-secures-11-million-in-strategic-funding-to-advance-the-global-value-internet-infrastructure/) - 📰 null - 【Openverse Network完成1100万美元战略轮融资】金色财经报道，Layer0区块链基础设施平台Openverse Network宣布完成1100万美元战略轮融资，Castrum Capital、TB Ventures、DuckDAO、Asva Capital等参投，新资金拟用于加速其在全球范围内的生态系统发展，包括生态建设，鼓励更多开发者、合作伙伴加入，共同构建更加开放、互联互通的价值网络。
-- [美联储理事库格勒：政策立场仍能应对未来经济的任何变化](https://flash.jin10.com/detail/20250512232135358800) - 📰 null - 【美联储理事库格勒：政策立场仍能应对未来经济的任何变化】金色财经报道，美联储理事库格勒说，在上周决定维持利率不变之后，美联储的政策立场仍然能够很好地应对未来经济背景的任何变化。由于新关税，经济前景“不确定性增加”，今年的经济增长可能会比去年慢，但“最新数据显示经济具有弹性”。我认为，我们目前的货币政策立场处于能够应对宏观经济环境的任何变化的有利位置。
-- [特朗普：俄乌会谈可能会有好结果](https://flash.jin10.com/detail/20250512225532698800) - 📰 null - 【特朗普：俄乌会谈可能会有好结果】金色财经报道，美国总统特朗普认为，俄罗斯和乌克兰即将举行的谈判可能会富有成效。“周四与俄罗斯和乌克兰的会晤非常重要。我真的坚持要举行这次会晤。我认为这次会晤可能会产生好的结果，”特朗普表示。俄罗斯总统普京早些时候提议，在中断与乌克兰的直接谈判后，于5月15日在伊斯坦布尔恢复直接谈判。土耳其总统埃尔多安后来证实，他准备在伊斯坦布尔接待俄罗斯和乌克兰代表团。土耳其外交部长则表示，俄罗斯和乌克兰可以在未来几天内就在伊斯坦布尔开始谈判的条件达成一致。
-- [Pumpfun上线创作者收入共享机制，Coin创作者可获PumpSwap交易收入50%分成](https://x.com/pumpdotfun/status/1921941742854512924) - 📰 null - 【Pumpfun上线创作者收入共享机制，Coin创作者可获PumpSwap交易收入50%分成】5月12日消息，Pumpfun 宣布推出“创作者收入共享”机制，Coin 创作者可获得 PumpSwap 平台 50%的交易收入分成。即日起，任何用户创建 Coin 后，只要该代币产生交易行为，创作者即可持续获得收入。官方表示，该机制旨在激励更多优质项目方参与生态建设。
-- [币安过去15分钟WIF合约持仓量同比增长84%，WIF合约价跌至1.11美元](https://x.com/ai_9684xtpa/status/1921944762384281670) - 📰 null - 【币安过去15分钟WIF合约持仓量同比增长84%，WIF合约价跌至1.11美元】金色财经报道，据链上分析师@ai_9684xtpa监测，币安过去 15 分钟 WIF 合约持仓量同比增长 84%（1781 万枚＞ 3282 万枚），WIF 合约价跌至 1.11 美元，提醒社区关注合约交易风险。
+- [FTX/Alameda将从质押中赎回的 18.7 万枚 SOL 分发至27 个地址，约合3220万美元]() - 📰 null - 【FTX/Alameda将从质押中赎回的 18.7 万枚 SOL 分发至27 个地址，约合3220万美元】金色财经报道，据链上分析师余烬监测，FTX/Alameda 7 小时前将从质押中赎回的 18.7 万枚 $SOL (3220万美元) 分发转移给 27 个地址。根据此前记录，多数收到 SOL 的地址后续会把 SOL 转进 Coinbase 或 Binance。 
+FTX/Alameda 质押地址从 2023 年 11 月以来，已经通过上面这种方式累计赎回并转出了 821.8 万枚 SOL (10.62 亿美元)，转出均价 $129美元。目前 FTX/Alameda 质押地址还有 520.5 万枚 SOL ($8.93 亿美元) 在质押中。
+- [pump.fun官方X账号已解除拉黑Letsbonk.Fun创始人和Raydium开发者]() - 📰 null - 【pump.fun官方X账号已解除拉黑Letsbonk.Fun创始人和Raydium开发者】5月13日消息，据@theunipcs披露，pump.fun官方X账号已解除拉黑Letsbonk.Fun创始人和Raydium开发者。
+- [欧洲上市公司The Blockchain Group完成超2200万欧元融资](https://bitcoinmagazine.com/bitcoin-for-corporations/the-blockchain-group-raises-e22m-to-accelerate-its-bitcoin-treasury-strategy?ref=onepagecrypto.com) - 📰 null - 【欧洲上市公司The Blockchain Group完成超2200万欧元融资】金色财经报道，欧洲上市公司The Blockchain Group（ALTBG）一周内完成两轮总额超2200万欧元融资，其中其5月9日通过股权融资募集990万欧元，发行价较20日均价溢价61.7%，参投方包括Tobam、Generali Ambition Solidaire、Jean-Marie Formigé、Quadrille Capital、EFG Bank、VP Bank等。5月12日再通过卢森堡子公司发行1210万欧元比特币计价可转债，由Blockstream CEO Adam Back全额认购，发行价较第一批转换价溢价30%。 
+资金将用于强化比特币持仓及发展数据智能、AI等子公司业务。该公司作为“Bitcoin For Corporates”核心成员，探索以比特币为中心的资本架构创新，包括比特币计价债券和硬资产储备策略。
+- [Exodus Q1财报：数字资产持仓总值达2.38亿美元，比特币持有量增至2011枚]() - 📰 null - 【Exodus Q1财报：数字资产持仓总值达2.38亿美元，比特币持有量增至2011枚】金色财经报道，加密钱包服务商Exodus公布2025年第一季度未经审计财报，营收同比增长24%至3600万美元，创历史新高。公司数字资产持仓总值达2.38亿美元，其中2011枚比特币（价值1.66亿美元）占主要部分，较2024年底增持70枚。其他持仓包括2693枚以太坊（490万美元）及6280万美元USDC与国债组合。 
+尽管月活用户下降30%至160万，但期末有效用户仍保持180万。本季度交易处理量达21.8亿美元。研发及技术支持费用增长39%至1490万美元，净亏损1290万美元（去年同期净利润5480万美元），主因数字资产持仓浮亏2880万美元。管理层表示将延续自托管战略，拓展业务边界。
+- [某巨鲸地址从Aave V3提取4677.7枚WETH，获利471.7万美元​](https://x.com/OnchainLens/status/1922087885639188953) - 📰 null - 【某巨鲸地址从Aave V3提取4677.7枚WETH，获利471.7万美元​】金色财经报道，据Onchain Lens监测，地址0xc725...839d近日从Aave V3中提取4677.7枚WETH（价值约1152万美元USDC），成交均价2463美元。该地址一个月前以680万枚USDC购入这批ETH，本次操作实现盈利471.7万美元。
+- [ZKSync回应美国监管机构调查：建议美国境内用户暂停高风险操作​]() - 📰 null - 【ZKSync回应美国监管机构调查：建议美国境内用户暂停高风险操作​】金色财经报道，ZKsync于X平台发文表示，“鉴于美国财政部和证券交易委员会（SEC）等美国监管机构近期采取的行动，ZKSync确认已接到通知，正在对涉及美国用户可访问的基于zkEVM的应用程序的活动进行调查。此外，初步通知显示，可能会对 ZKSync 生态系统内的某些实体采取制裁和执法行动，指控其违反美国证券法、反洗钱/KYC 合规性和规避制裁。 
+虽然 ZKSync 是作为去中心化协议运营的，但我们认识到这些事态发展可能会影响美国司法管辖区内的用户访问、流动性提供和开发者运营。 
+从即日起，ZKSync正在采取以下措施： 
+与外部法律和合规团队合作，以应对监管调查。 
+建议美国境内的项目和用户在进一步明确情况之前暂停高风险的去中心化金融（DeFi）和桥接相关活动。 
+与主要合作伙伴和基础设施提供商启动对话，以评估风险暴露情况并确保协议的完整性。 
+ZKSync始终致力于保持透明度，并确保其生态系统的安全性。随着重要信息的出现，我们将发布进一步的更新。这是一个正在进行的法律事务，我们敦促所有用户和合作伙伴在这一期间保持高度谨慎。”
+- [某巨鲸从Aave V3中提取4,677.7枚WETH并换得1152万枚USDC](https://x.com/OnchainLens/status/1922087885639188953) - 📰 null - 【某巨鲸从Aave V3中提取4,677.7枚WETH并换得1152万枚USDC】金色财经报道，据Onchain Lens监测，一巨鲸从Aave V3中提取了4,677.7枚WETH，并以每枚2,463的价格将其出售，换得了1,152万枚USDC。这位巨鲸一个月前以680万枚USDC的价格购入了这些ETH，目前已经获利471.7万美元。
+- [ZKsync和Matter Labs官方X账号被盗，用户需警惕风险](https://x.com/zkSyncDevs/status/1922085257840623721) - 📰 null - 【ZKsync和Matter Labs官方X账号被盗，用户需警惕风险】金色财经报道，ZKsync Developers发文表示，ZKsync和Matter Labs的官方X账号已被盗。请勿与这些账号进行任何互动或点击任何相关链接。
+- [“Hyperliquid 50x巨鲸”平仓WIF空单止损，损失24.3万美元]() - 📰 null - 【“Hyperliquid 50x巨鲸”平仓WIF空单止损，损失24.3万美元】金色财经报道，据余烬监测，“Hyperliquid 50x巨鲸”昨晚开的10x空WIF在7小时前止损平仓，损失了24.3万美元。
+- [数据：特朗普晚宴持仓排名前220的钱包共持有约1.74亿美元TRUMP](https://cointelegraph.com/news/donald-trump-memecoin-holders-dinner-president) - 📰 null - 【数据：特朗普晚宴持仓排名前220的钱包共持有约1.74亿美元TRUMP】金色财经报道，美国总统唐纳德·特朗普的Meme币顶级持有者名单已确定，他们将接受背景调查，以申请参加5月22日与总统共进晚餐和“VIP参观”活动。根据该项目排行榜提供的数据，截至5月12日，排名前220的钱包持有超过1370万枚TRUMP代币，按发布时的价格计算，价值约1.74亿美元。目前尚不清楚这些钱包持有者中是否有人会选择申请并参加特朗普晚宴活动。5月7日《彭博社》的一篇报道指出，大多数代币持有者位于美国境外，这引发了潜在的安全问题和利益冲突。
+- [某鲸鱼向HyperLiquid新增存入1000万枚USDC，以扩大对BTC、ETH和SOL的空头头寸](https://x.com/OnchainLens/status/1922080097026376051) - 📰 null - 【某鲸鱼向HyperLiquid新增存入1000万枚USDC，以扩大对BTC、ETH和SOL的空头头寸】金色财经报道，据Onchain Lens监测，某鲸鱼账户向HyperLiquid平台新增存入1000万USDC，用于扩大对BTC、ETH和SOL的空头头寸，杠杆倍数为5倍。总存款已达5050万USDC，其中BTC空头价值超过1.09亿美元，总空头头寸超过2.3亿美元。
+- [Moar Market现已在Aptos主网上线](https://x.com/Aptos/status/1922079348074676338) - 📰 null - 【Moar Market现已在Aptos主网上线】金色财经报道，Aptos于社交媒体发文白表示，Moar Market现已在Aptos主网上线，旨在成为万通DeFi的信用层。Moar采用Move语言构建，通过为速度、安全性和可组合性而设计的无信任信用账户，为用户提供跨DeFi协议的无缝资本访问。
+- [某用户因签署网络钓鱼签名损失313万美元WBTC](https://x.com/realScamSniffer/status/1922079961894289780) - 📰 null - 【某用户因签署网络钓鱼签名损失313万美元WBTC】金色财经报道，据Scam Sniffer监测，2分钟前，一名用户因签署了网络钓鱼签名而损失313万美元的WBTC。
+- [日本央行会议意见摘要：一位成员表示，日本央行将暂时暂停加息]() - 📰 null - 【日本央行会议意见摘要：一位成员表示，日本央行将暂时暂停加息】金色财经报道，日本央行会议意见摘要：一位成员表示，日本央行将暂时暂停加息，但不应陷入过度悲观，必须灵活而巧妙地引导货币政策；一位成员表示，日本基本通胀放缓的可能性很小。(金十)
+- [Curve Finance警告其DNS再次被劫持](https://cointelegraph.com/news/curve-finance-warns-dns-hijacked-again) - 📰 null - 【Curve Finance警告其DNS再次被劫持】金色财经报道，去中心化金融（DeFi）协议Curve Finance警告称，黑客再次劫持了其域名系统（DNS），将用户引导至恶意网站。这是其基础设施在一周内第二次遭到攻击，该团队在5月12日对X的警告中称，“curve.fi的DNS可能被劫持了。不要进行交互！” 
+在随后回复一位询问这是黑客攻击还是劫持的用户时，Curve团队表示，当用户尝试访问时，该网站“指向错误的IP地址”。DNS就像一个目录，将域名转换为IP地址。
+- [昨日灰度GBTC净流出3290万美元，BITB净流出1770万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日灰度GBTC净流出3290万美元，BITB净流出1770万美元】金色财经报道，据Farside Investors监测数据，昨日灰度GBTC净流出3290万美元，BITB净流出1770万美元。
+- [美国房地产资产管理公司PREH推出1亿美元代币化基金](https://cointelegraph.com/news/us-real-estate-manager-launches-tokenized-fund-institutional-backing) - 📰 null - 【美国房地产资产管理公司PREH推出1亿美元代币化基金】金色财经报道，美国房地产资产管理公司Patel Real Estate Holdings（简称PREH）在Chintai区块链推出价值1亿美元的代币化基金，助力合格投资者接触机构级房地产投资。新推出的PREH多户住宅基金是代币化投资工具，聚焦美国前20大增长市场中老旧甲级多户住宅单元。其架构数字化原生，涵盖合规入驻、报告、资本募集及潜在二级市场转让。 
+该基金是PREH与 Carlyle、DRA Advisors、Walton Street Capital、RPM和KKR等多家机构共同开发的7.5亿美元投资工具的一部分，初期2500万美元将在Chintai代币化。PREH称，此结构可缓解私募市场投资的透明度和流动性难题。
+- [金色晨讯 | 5月13日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 5月13日隔夜重要动态一览】21:00-7:00关键词：Coinbase、贝莱德、花旗、Nirvana Labs 
+1.Coinbase将加入标普500指数； 
+2.纳指高开4% 美股科技七巨头集体大涨； 
+3.贝莱德已申请为其以太坊信托启用实物赎回； 
+4.Sonic Labs 宣布向 Galaxy 出售 1000 万美元代币； 
+5.花旗将下一次美联储降息的预测时间从六月推迟至七月； 
+6.美SEC主席Paul Atkins：或对加密经纪商规则进行彻底改革； 
+7.区块链云计算公司Nirvana Labs完成600万美元种子扩展轮融资，Jump Crypto等领投。
+- [BTC突破103000美元]() - 📰 null - 【BTC突破103000美元】金色财经报道，行情显示，BTC突破103000美元，现报103014.86美元，24小时跌幅收窄至0.91%，行情波动较大，请做好风险控制。
+- [区块链云计算公司Nirvana Labs完成600万美元种子扩展轮融资，Jump Crypto等领投](https://blockworks.co/news/cloud-startup-nirvana-labs-raise-seed?ref=onepagecrypto.com) - 📰 null - 【区块链云计算公司Nirvana Labs完成600万美元种子扩展轮融资，Jump Crypto等领投】5月13日消息，区块链云计算公司Nirvana Labs完成600万美元种子扩展轮融资，由Jump Crypto和Crucible Capital联合领投，RW3 Ventures、Castle Island和Hash3 VC参投，使得其的总融资额达到1180万美元。 
+该公司提供专为加密领域量身定制的计算服务，与传统云服务提供商集中计算资源不同，Nirvana采用裸金属基础设施，每台服务器只服务一个客户端。Nirvana已服务于BitGo、Fireblocks等基础设施商及Avalanche、Berachain等协议基金会，Nirvana还计划作为前端服务，帮助组织在互联网过滤初创公司DoubleZero上进行部署。
