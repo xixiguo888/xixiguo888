@@ -1,37 +1,36 @@
-- [ETHFI突破1.45美元，24小时涨幅达40.6%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/ether-fi) - 📰 null - 【ETHFI突破1.45美元，24小时涨幅达40.6%】金色财经报道，行情显示，ETHFI突破1.45美元，现报价1.44美元，24小时涨幅达40.6%，行情波动较大，请做好风险控制。
-- [Thumzup：将使用Coinbase Prime作为比特币托管方和主经纪商](https://www.prnewswire.com/news-releases/thumzup-media-corporation-expands-capital-strategy-with-bitcoin-backed-credit-facility-from-coinbase-prime-302453895.html) - 📰 null - 【Thumzup：将使用Coinbase Prime作为比特币托管方和主经纪商】金色财经报道，纳斯达克上市公司Thumzup Media Corporation宣布将使用Coinbase Prime作为比特币托管方和主经纪商，该公司还披露截至5月12日持有19.106枚比特币，市值约为200万美元,此前Thumzup已宣布拟提高最大总发行金额至5亿美元以收购更多比特币。
-- [Ethos：已结束Pre-season，即将开启第一赛季](https://x.com/ethos_network/status/1922411673459069029) - 📰 null - 【Ethos：已结束Pre-season，即将开启第一赛季】金色财经报道，链上声誉协议Ethos Network宣布已结束Pre-season，并向贡献者发放256个Ethos验证器NFT，此外Ethos即将开启第一赛季。
-- [Semler Scientific发布Q1财报：比特币持仓达3808枚，年初迄今收益率达22.2%](https://www.prnewswire.com/news-releases/semler-scientific-reports-first-quarter-2025-financial-results-btc-yield-of-22-2-ytd-now-holds-3-808-btc-302454421.html) - 📰 null - 【Semler Scientific发布Q1财报：比特币持仓达3808枚，年初迄今收益率达22.2%】金色财经报道，纳斯达克上市公司Semler Scientific发布截至2025年3月31日的一季度财务业绩报告，其中披露： 
-1、截至2025年5月12日比特币持仓达3808枚，公允价值为3.879亿美元，总购买金额为3.4亿美元； 
-2、截至2025年5月12日的Q1比特币收益率达到 21.9%，年初至今收益率达到22.2%； 
-3、截至2025年5月12日的Q1比特币收益金额为4160 万美元，年初至今实现比特币收益为5200万美元。
-- [Abstract Chain或将于今年第四季度启动TGE](https://x.com/lorenzo_onx/status/1922375096573857867) - 📰 null - 【Abstract Chain或将于今年第四季度启动TGE】5月14日消息，Pudgy Penguins CEO Luca Netz在采访中透露Abstract Chain的代币生成事件（TGE）预计将于2025年第四季度进行。
-- [Uniswap投资人地址将1165.2万枚UNI转进Coinbase Prime，价值8238万美元](https://x.com/EmberCN/status/1922454961713287293) - 📰 null - 【Uniswap投资人地址将1165.2万枚UNI转进Coinbase Prime，价值8238万美元】金色财经报道，据链上分析师余烬监测，25分钟前，2个在2020年9月从Uniswap得到UNI分配的投资人/机构地址一共将1165.2万枚UNI(8238万美元)转进CoinbasePrime。 
-今日早前报道，Uniswap基金会转出约43.8万枚UNI，1小时前进入Binance。
-- [Coinbase宣布将推出cbADA、cbDOGE、cbLTC、cbXRP](https://x.com/CoinbaseAssets/status/1922387735580450838) - 📰 null - 【Coinbase宣布将推出cbADA、cbDOGE、cbLTC、cbXRP】金色财经报道，Coinbase宣布即将推出cbADA、cbDOGE、cbLTC、cbXRP。目前尚未上线或可用，将在稍后日期宣布其正式上线。 
-cbADA、cbDOGE、cbLTC和cbXRP是Coinbase的桥接代币（bridgedtokens），分别对应Cardano(ADA)、Dogecoin(DOGE)、Litecoin(LTC)和Ripple(XRP)的包装版本（wrapped versions），专为Coinbase的以太坊二层网络Base设计，此前已推出cbBTC。
-- [某巨鲸追加1190万美元USDC建立空头头寸，总持仓超2.5亿美元​](https://x.com/OnchainLens/status/1922446136960549151) - 📰 null - 【某巨鲸追加1190万美元USDC建立空头头寸，总持仓超2.5亿美元​】金色财经报道，据Onchain Lens监测，标记为0x5b5d...c060的巨鲸地址近日向HyperLiquid平台追加存入1190万美元USDC，以5倍杠杆持续做空BTC、ETH及SOL。目前该地址累计存入资金已达6240万美元USDC，建立的总空头仓位规模突破2.5亿美元。 
-监测显示，该仓位昨日仍保持680万美元浮盈，但今日已转为760万美元浮亏。这已是该地址近期第三次加仓空头头寸，杠杆倍数始终维持在5倍水平。
-- [Uniswap基金会地址将437,874枚UNI转进FalconX，并于1小时前转入币安](https://x.com/EmberCN/status/1922449656270741866) - 📰 null - 【Uniswap基金会地址将437,874枚UNI转进FalconX，并于1小时前转入币安】金色财经报道，据链上分析师余烬监测，Uniswap基金会地址在过去28个小时里将437,874枚$UNI(312万美元)转进FalconX(机构经纪平台)，然后这些UNI在1小时前从FalconX进入币安。
-- [某巨鲸将5倍杠杆做空头寸增至名义价值超2.5亿美元](https://x.com/OnchainLens/status/1922446136960549151) - 📰 null - 【某巨鲸将5倍杠杆做空头寸增至名义价值超2.5亿美元】金色财经报道，据Onchain Lens监测，以5倍杠杆做空BTC、ETH和SOL的巨鲸再度向HyperLiquid存入1100万枚USDC，以增加其做空头寸。其总保证金达到6240万枚USDC，所有空头头寸的总名义价值现在超过2.5亿美元，从昨天的680万美元盈利转变为今天的760万美元亏损。
-- [特朗普拟撤销拜登时期“AI技术扩散管制规则”]() - 📰 null - 【特朗普拟撤销拜登时期“AI技术扩散管制规则”】金色财经报道，特朗普政府计划全面修订人工智能半导体出口管制条例，废除拜登时期引发英伟达(NVDA.O)、甲骨文(ORCL.N)等美国企业及盟友强烈反对的监管框架。美国商务部当地时间周二宣布，将撤销原定5月15日生效的“AI技术扩散管制规则”——该规则由前美国总统拜登推出，将芯片进口国划分为三个等级。据知情人士透露，新政府正起草替代方案，可能转向与各国逐一谈判签订双边协议。(金十)
-- [eToro及其支持者通过扩大IPO规模筹集6.2亿美元]() - 📰 null - 【eToro及其支持者通过扩大IPO规模筹集6.2亿美元】5月14日消息，以色列社交投资平台eToro Group Ltd.及部分股东在扩大规模的美国首次公开募股（IPO）中筹集近6.2亿美元，定价高于此前宣传区间。周二声明显示，该公司及投资者以每股52美元出售1192万股股票。此前文件显示，贝莱德管理的基金和账户有意以IPO价购入价值高达1亿美元的eToro股票。按流通股数计算，此定价使eToro市值约43亿美元，完全稀释后估值近50亿美元。eToro原计划宣传发行1000万股，每股定价46至50美元，但实际定价更高，且需求量是可发行股票数倍。 
-此前消息，eToro的目标是通过美国IPO实现40亿美元估值和5亿美元融资。
-- [高盛：预计美元兑亚洲货币将延续跌势]() - 📰 null - 【高盛：预计美元兑亚洲货币将延续跌势】金色财经报道，高盛表示，在最近的贸易谈判进展之后，美元/亚洲货币对的可能方向仍然是下行。其表示，尽管最近中美达成了贸易谈判进展，但市场的主要主题仍未改变。这些主题是：从美国资产中逐步分散投资的态势应该会持续下去；亚洲出口商应该会继续将美元兑换成当地货币；如果亚洲地区与美国进行贸易谈判，其货币贬值可能会更难。(金十)
-- [Abraxas Capital六天内已购入价值近5亿美元的以太坊](https://www.theblock.co/post/354178/london-based-asset-manager-buys-nearly-500-million-worth-of-ethereum-in-six-days?ref=onepagecrypto.com) - 📰 null - 【Abraxas Capital六天内已购入价值近5亿美元的以太坊】金色财经报道，截至今日凌晨01:10，伦敦资产管理公司Abraxas Capital在不到一周的时间内购买了价值近5亿美元的以太坊。凌晨01:10，Lookonchain在X平台发文称：“过去12小时内，Abraxas Capital又购入了33,482枚ETH（价值8470万美元），使其过去6天的总购买量达到211,030枚ETH（价值4.776亿美元）。”昨日消息，Abraxas Capital先从Aave借入2.4 亿枚USDT，随后将其存入币安。 
-Presto Research分析师Min Jung指出，ETH/BTC汇率年内跌幅近40%至0.02，当前价位吸引买盘介入。LVRG研究总监Nick Ruck认为，Pectra升级与宏观利好共同推动市场情绪转向积极。他表示：“随着山寨币脱离下跌趋势，投资者正重新评估加密货币作为对冲工具的价值。”
-- [sns.sol已开放SNS代币空投认领](https://www.theblock.co/post/354166/solana-name-service-airdrops-40-of-token-supply-after-fida-tokenomics-deemed-unsustainable?ref=onepagecrypto.com) - 📰 null - 【sns.sol已开放SNS代币空投认领】5月14日消息，Solana域名服务sns.sol（原Bonfida）表示其代币生成活动已上线，其中40%的供应量专门用于“早期和新支持者”。用户需通过持有“.sol域名”的钱包申领SNS代币，截止日期为8月11日。新推出的SNS代币旨在替代此前由Bonafida发行的FIDA代币。Bonafida本月称FIDA的代币经济模型“不可持续”，无法满足.sol持有者的需求。 
-本月早些时候，该项目表示，总供应量的20%已“被认领”，并且其“有了新团队、新使命和明确重点”。这一公告是在 Bonafida宣称FIDA的代币经济学不可持续的同一天发布的。
-- [金色晨讯 | 5月14日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 5月14日隔夜重要动态一览】21:00-7:00关键词：Uniswap、怀俄明州、G-Token、Perpl 
-1.特朗普：股市将大幅上涨； 
-2.特朗普再次呼吁鲍威尔降息； 
-3.Uniswap推出“一键换币”功能； 
-4.​​怀俄明州将于 7 月发行美国首个州级稳定币； 
-5.去中心化永续期货交易所Perpl完成925万美元，Dragonfly领投； 
-6.国务院关税税则委员会：调整对原产于美国的进口商品加征关税； 
-7.泰国将发行1.5亿美元“数字投资代币”G-Token，目标高于银行存款回报； 
-8.美SEC就贝莱德比特币ETF实物赎回征求意见，并推迟Solana与狗狗币提案。
-- [Bitwise CIO：Coinbase或将成为下一个万亿美元公司](https://x.com/Matt_Hougan/status/1922294912961180018) - 📰 null - 【Bitwise CIO：Coinbase或将成为下一个万亿美元公司】金色财经报道，Bitwise 首席投资官 Matt Hougan 表示，“如果选一家目前市值低于 1000 亿美元、但最有可能未来市值突破 1 万亿美元的公司。我会选择 Coinbase，当前市值 610 亿美元。”
-- [CoinShares Q1净利润同比下滑42.2%，CEO称全球经济正发生“全面转型”](https://cointelegraph.com/news/coinshares-posts-24-m-profit-q1-2025) - 📰 null - 【CoinShares Q1净利润同比下滑42.2%，CEO称全球经济正发生“全面转型”】金色财经报道，CoinShares表示，其2025年第一季度净利润降至2400万美元，较去年同期下降42.2%。公司首席执行官Jean-Marie Mognetti在致股东信中称：“我们所目睹的并非单纯的市场波动——而是全球经济秩序的全面转型。”以太坊表现不佳导致CoinShares Physical Staked Ethereum ETP（ETHE）流出2300万美元。“由于更广泛的市场修正——包括比特币价格下跌12.1%——管理资产总额（AuM）下降10.7%，在第一季度末降至15.2亿美元。”
-- [莱特币基金会：Coinbase即将推出cbLTC，扩展DeFi流动性](https://x.com/LTCFoundation/status/1922403911765278943) - 📰 null - 【莱特币基金会：Coinbase即将推出cbLTC，扩展DeFi流动性】金色财经报道，莱特币基金会（Litecoin Foundation）表示，Coinbase将很快推出cbLTC，一种1:1无缝锚定的Litecoin包裹版本，旨在扩展DeFi流动性选项。目前尚未公布上线日期。
-- [Robinhood 4月资产托管规模2323亿美元，环比增长5.3%](https://www.cls.cn/detail/2030050) - 📰 null - 【Robinhood 4月资产托管规模2323亿美元，环比增长5.3%】金色财经报道，“网红券商”Robinhood 4月资产托管规模2323亿美元，环比增长5.3%。
+- [Binance Alpha和合约即将上线NEXPACE(NXPC)]() - 📰 null - 【Binance Alpha和合约即将上线NEXPACE(NXPC)】金色财经报道，据官方公告，币安Alpha将于2025年05月15日14:00（东八区时间）上线和开放NEXPACE(NXPC)的交易。 
+作为上线福利，所有符合资格的币安用户将获得币安独家代币空投。符合资格的用户需要于2025年05月15日14:00（东八区时间）至2025年05月16日13:59（东八区时间）期间，使用币安Alpha积分通过币安Alpha活动页面领取空投。用户可以通过币安App的搜索功能访问币安Alpha活动页面。
+- [加密货币总市值突破3.5万亿美元]() - 📰 null - 【加密货币总市值突破3.5万亿美元】金色财经报道，据CoinGecko数据，加密货币总市值回升突破3.5万亿美元，现报3.505万亿美元，24小时涨幅1.3%。其中，BTC市占率为58.9%，ETH市占率为9.21%。
+- [币安基金经理计划升级，推出指定账户结构](https://www.binance.com/en/support/announcement/detail/43c187a56fcd4c6e9f8e5d0d50a26a96) - 📰 null - 【币安基金经理计划升级，推出指定账户结构】金色财经报道，据官方公告，币安将于2025年5月20日升级现有资金经理计划为指定账户计划，推出包含流动性提供者交易量聚合和共享做市商费率的新两级体系。
+- [韩国总统候选人李在明：提议发行韩元稳定币](https://coinpedia.org/news/south-korea-pushes-for-new-crypto-regulations-ahead-of-election/) - 📰 null - 【韩国总统候选人李在明：提议发行韩元稳定币】金色财经报道，民主党总统候选人李在明（Lee Jae-myung）提议推出与韩元挂钩的稳定币。但关于稳定币是否需要牌照还是只需注册，目前尚无明确答案。甚至连由谁来监管——韩国银行还是金融服务委员会——这个问题也悬而未决。
+- [GRASS突破2美元，24小时涨幅达29.3%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/grass) - 📰 null - 【GRASS突破2美元，24小时涨幅达29.3%】金色财经报道，行情显示，GRASS突破2美元，现报价1.97美元，24小时涨幅达29.3%，行情波动较大，请做好风险控制。
+- [老虎证券（香港）推出加密货币提存币服务，支持BTC、ETH等主流加密货币](https://news.cnyes.com/news/id/5978994) - 📰 null - 【老虎证券（香港）推出加密货币提存币服务，支持BTC、ETH等主流加密货币】5月14日消息，老虎证券（香港）推出加密货币提存币服务，支持虚拟货币存入、交易及提取，当中支持的主流虚拟货币包括比特币（BTC）、以太坊（ETH）等主流加密货币，该平台亦属香港证监会持牌虚拟资产交易服务App。老虎证券亦推出推广活动，自2025年5月14日中午12时起，凡首次成功存入加密货币至Tiger Trade账户，并达到0.01枚比特币（BTC）或0.5枚以太坊（ETH），同时在连续60日内保持净资产不少于0.01枚BTC或0.5枚ETH，即可获得价值200港元的Coinbase（US.COIN）股票奖励。
+- [瑞银：高净值客户正在撤出美元资产，转向加密货币、中国资产及黄金](https://finance.sina.com.cn/roll/2025-05-14/doc-inewnqmn0778825.shtml) - 📰 null - 【瑞银：高净值客户正在撤出美元资产，转向加密货币、中国资产及黄金】金色财经报道，瑞银集团亚洲财富管理联席主管Amy Lo表示，瑞银的高净值客户正日益撤出美元资产，转向黄金、加密货币以及中国资产。“黄金现在非常受欢迎，” Lo在周二于香港举行的彭博New Voices活动上接受Yvonne Man采访时表示。 
+她指出，中美之间贸易关系紧张促使投资者开始分散其原本“相当以美国为中心”的资产配置；除了寻找其他货币资产之外，投资者还把更多资金投向加密货币、大宗商品和另类资产。“波动性肯定会持续下去。”Lo补充说。
+- [美国快餐连锁品牌Steak'N Shake或推出带有比特币LOGO的食品](https://x.com/SteaknShake/status/1922468353274233139) - 📰 null - 【美国快餐连锁品牌Steak'N Shake或推出带有比特币LOGO的食品】金色财经报道，据Steak'N Shake官方X视频内容显示，或推出带有比特币LOGO的食品。 
+此前消息，美国快餐连锁品牌Steak'N Shake将推出比特币支付服务。
+- [币安VIP借币新增KMNO、SYRUP、SXT、STO可借资产]() - 📰 null - 【币安VIP借币新增KMNO、SYRUP、SXT、STO可借资产】金色财经报道，据官方公告，币安VIP借币新增可借资产：Kamino Finance（KMNO）、Maple Finance（SYRUP）、Space and Time（SXT）、StakeStone（STO）。
+- [Coincheck发布最新财报：已完成对质押平台Next Finance Tech的收购](https://www.businesswire.com/news/home/20250513550831/en/Coincheck-Reports-Financial-Results-for-Fourth-Quarter-and-Year-Ended-March-31-2025) - 📰 null - 【Coincheck发布最新财报：已完成对质押平台Next Finance Tech的收购】金色财经报道，日本加密交易所Coincheck发布最新财报，其中披露对质押平台服务公司Next Finance Tech Co., Ltd.的收购已完成，并且在Q1推出以太坊质押服务Coincheck Staking。 
+此外，Coincheck在2025财年的全年毛利增至135亿日元（9000万美元），客户资产规模增至8592亿日元（57.32亿美元），交易量增至3375亿日元（22.52亿美元）。
+- [Synthetix社区提议以2700万美元估值收购去中心化期权平台Derive](https://blog.synthetix.io/synthetix-derive-set-to-unite-for-mainnet-perpetual-futures/) - 📰 null - 【Synthetix社区提议以2700万美元估值收购去中心化期权平台Derive】5月14日消息，据官方博客，合成资产协议Synthetix社区提议以2700万美元估值收购去中心化期权平台Derive。根据SIP-415提案，交易将以27:1的比例进行DRV与SNX代币置换，Synthetix将发行2930万枚SNX代币（3个月锁仓+9个月线性释放）完成收购。该交易需经Synthetix的Spartan理事会和Derive治理机构批准。此次收购将使Synthetix整合Derive的订单簿永续合约交易技术及开发团队，加速构建以太坊主网衍生品协议。Derive团队在模块化订单簿设计和期权机制方面的经验将直接增强Synthetix的核心竞争力。其已开发完成的App-chain技术栈可立即部署至主网。 
+Derive前身为Lyra，曾是Synthetix生态项目。此次收购是Synthetix近半年继收回Kwenta和TLX后，第三次生态整合行动。创始人Kain Warwick表示，这将简化协议架构与治理，推动衍生品平台发展。若交易获批，Derive的金库资产、知识产权及治理系统将全部并入Synthetix协议。
+- [巴克莱：印度央行可能在6月降息]() - 📰 null - 【巴克莱：印度央行可能在6月降息】金色财经报道，巴克莱经济学家在一份报告中表示，印度央行可能在6月份降息，此前预计为8月份。印度4-6月平均通胀率预计在3.0%-3.1%左右，远低于印度央行3.6%的预测，可能会促使其在6月份的会议上连续第三次降息。虽然食品价格的连续放缓可能即将结束，但整体价格压力仍然受到控制，5月份通胀数据可能受益于基数效应。巴克莱预计，2025-2026财年的通胀率为4.0%，存在下行风险。(金十)
+- [密歇根州通过第100号众议院决议，宣布2025年5月13日为“数字资产意识日”](https://x.com/Bitcoin_Laws/status/1922514725574685158) - 📰 null - 【密歇根州通过第100号众议院决议，宣布2025年5月13日为“数字资产意识日”】金色财经报道，据Bitcoin Laws披露，密歇根州通过了第100号众议院决议，宣布2025年5月13日为“数字资产意识日”。 
+该决议鼓励开展“促进对数字资产及其对社会和经济影响的更深入理解的活动和项目”。
+- [可验证数据基础设施vlayer主网已正式启动](https://www.vlayer.xyz/blog/vlayer-launches-mainnet-the-next-step-in-making-smart-contracts-useful-for-billions) - 📰 null - 【可验证数据基础设施vlayer主网已正式启动】5月14日消息，可验证数据基础设施vlayer宣布主网已正式启动，vlayer主网推出了四项专为开发者设计的智能合约功能，旨在帮助他们构建能够赢得数十亿用户青睐的应用。 
+此前报道，Vlayer完成1000万美元pre-seed轮融资，a16z Crypto Startup Accelerator(CSX)、Credo Ventures、Block Tower Capital等参投。
+- [京东担任香港web3协会副理事会长单位](https://mp.weixin.qq.com/s/EEi757cx-8Bsp9SKAe8wFw) - 📰 null - 【京东担任香港web3协会副理事会长单位】金色财经报道，5月13日，香港Web3标准化协会发布公告，京东币链科技（香港有限公司）担任香港web3协会副理事会长单位。 
+JINGDONG Coinlink Technology Hong Kong Limited是京东科技集团旗下公司，致力于构建一个全球、高效、可靠且稳定的支付基础设施，提供先进的技术产品和服务以支持全球经济的发展。提供一种基于公链并与港元 (HKD) 1:1挂钩的稳定币，旨在为企业及个人提供高效、低成本、安全的支付解决方案。 
+香港Web3.0标准化协会成立于2024年1月4日，主要工作是开展Web3.0相关领域标准化研究。
+- [特斯拉董事会成立特别委员会以调查马斯克的薪酬]() - 📰 null - 【特斯拉董事会成立特别委员会以调查马斯克的薪酬】5月14日消息，据英国《金融时报》报道，特斯拉董事会成立了一个特别委员会来调查马斯克的薪酬。
+- [中国对美国进口商品加征关税的调整措施已开始实施]() - 📰 null - 【中国对美国进口商品加征关税的调整措施已开始实施】金色财经报道，今日12时01分起，中国对原产于美国的进口商品加征关税调整措施开始实施。
+- [金色午报 | 5月14日午间重要动态一览]() - 📰 null - 【金色午报 | 5月14日午间重要动态一览】7:00-12:00关键词：特朗普、Coinbase、Gary Gensler 
+1.布林肯：特朗普只尊重强硬派领导人； 
+2.高盛：预计美元兑亚洲货币将延续跌势； 
+3.特朗普拟撤销拜登时期“AI技术扩散管制规则”； 
+4.Bitwise CIO：Coinbase或将成为下一个万亿美元公司； 
+5.美联储委员会警告稳定币可能对银行存款和信贷能力构成风险； 
+6.美国前众议员：前美国SEC主席Gary Gensler私下并没有像在公开场合那样反加密货币。
+- [美国科罗拉多州注册公司Xinbi涉嫌80亿美元加密货币非法交易](https://cointelegraph.com/news/crypto-black-market-xinbi-colorado-based-firm) - 📰 null - 【美国科罗拉多州注册公司Xinbi涉嫌80亿美元加密货币非法交易】金色财经报道，一家在科罗拉多州注册的公司被发现与一个中文非法交易市场有关联，该市场主要为东南亚诈骗者提供服务。这个名为Xinbi Guarantee的平台已接收约84亿美元的交易，主要以USDT稳定币形式进行。 
+据报道称，该平台通过Telegram运营，为超过23.3万用户提供洗钱服务、技术设备、个人数据和虚假证件等。Elliptic称，仅2024年第四季度就有超过10亿美元的交易量，且有证据表明该平台与朝鲜黑客的资金洗钱活动有关。
+- [Arbitrum向区块链游戏项目投资1000万美元，五个项目已获资助](https://nftplazas.com/arbitrum-commits-10-million-to-blockchain-gaming-projects/?ref=onepagecrypto.com) - 📰 null - 【Arbitrum向区块链游戏项目投资1000万美元，五个项目已获资助】金色财经报道，据NFT Plazas报道，以太坊Layer2网络Arbitrum宣布通过新成立的风险投资计划Arbitrum Gaming Ventures向区块链游戏项目投资1000万美元。这笔资金Arbitrum DAO资助的2亿美元计划的一部分，重点用于支持Arbitrum生态系统内的早期项目建设，这是该计划下的首笔主要资金，风险投资公司Paradigm、Framework Ventures 和BITKRAFT也参与其中。五个项目已获资助，涵盖游戏开发和基础设施，包括多人竞技游戏Wildcard、游戏专用Rollup方案Hyve Labs、基于Arbitrum Orbit的Layer3游戏链Xai、链游工作室Proof of Play和专注于消费者区块链的基础设施T-Rex。
