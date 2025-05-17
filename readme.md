@@ -1,40 +1,33 @@
-- [阿根廷法院冻结 LIBRA Meme 币相关关键人物资产，解除总统 Milei 及其妹妹的银行保密权](https://cryptoslate.com/judge-targets-central-figures-in-libra-scandal-with-asset-freeze-mileis-financial-ties-under-review/) - 📰 null - 【阿根廷法院冻结 LIBRA Meme 币相关关键人物资产，解除总统 Milei 及其妹妹的银行保密权】金色财经报道，据 Cryptoslate 报道，阿根廷联邦法官下令冻结 LIBRA 迷因币项目关键人物资产，并解除总统 Javier Milei 及其妹妹的银行保密权，以调查涉嫌欺诈行为。 
-法官 María Servini 于 5 月 14 日发布裁决，调查该项目涉嫌的"拉高出货"操作。今年 2 月，Milei 在社交媒体公开支持该币后，LIBRA 市值一度超过 45 亿美元，但随后币价暴跌超 85%，流动性迅速消失。 
-法院对 Novelli 等三名核心人物实施为期 90 天的资产冻结，禁止其转移或出售财产。反对党议员目前正呼吁对总统的参与程度展开独立调查。
-- [某鲸鱼地址斥资295万美元开设25倍ETH空单，以及10倍PEPE、WIF和OP空单](https://x.com/OnchainLens/status/1923535027436126321) - 📰 null - 【某鲸鱼地址斥资295万美元开设25倍ETH空单，以及10倍PEPE、WIF和OP空单】金色财经报道，据OnchainLens监测，某鲸鱼地址向HyperLiquid存入295万美元，并开设了多个空头仓位，包括：-25倍杠杆的ETH空单-10倍杠杆PEPE、WIF和OP空单目前其空单仓位总价值超过6675万美元，浮盈126万美元。
-- [彭博社：Binance、Kraken也遭遇与Coinbase类似的社交工程攻击](https://www.bloomberg.com/news/articles/2025-05-16/binance-kraken-said-to-have-been-targets-of-coinbase-like-hacks) - 📰 null - 【彭博社：Binance、Kraken也遭遇与Coinbase类似的社交工程攻击】金色财经报道，据彭博社报道，Binance和Kraken遭遇了与Coinbase类似的社交工程攻击，但两家交易所成功防御，未发生客户数据泄露。消息人士称，黑客曾向Binance客服人员行贿，并引导其联系指定Telegram账号，而Binance则通过AI系统检测并阻断潜在贿赂对话。
-- [彭博社： Coinbase 数据泄露受害者包含红杉资本高管 Roelof Botha](https://www.bloomberg.com/news/articles/2025-05-16/sequoia-capital-partner-s-data-hacked-as-part-of-coinbase-breach) - 📰 null - 【彭博社： Coinbase 数据泄露受害者包含红杉资本高管 Roelof Botha】金色财经报道，据彭博社报道，红杉资本（Sequoia Capital）管理合伙人 Roelof Botha 的个人信息在此前一起针对 Coinbase 的黑客事件中被窃取，涉及其电话号码、住址及与 Coinbase 账户相关的敏感资料。这是首次披露有关 Botha 的信息遭泄，显示黑客瞄准的是顶级行业人士。 
-Botha 曾与 Peter Thiel 和 Elon Musk 共事，2003 年加入红杉，投资过 YouTube 和 Instagram，并于 2022 年升任红杉最高负责人。
-- [一男子因参与去年1月入侵SEC官方X账户发布批准比特币ETF的虚假推文，被判处14个月监禁](https://www.cnbc.com/2025/05/16/alabama-prison-sec-bitcoin-hack-x.html) - 📰 null - 【一男子因参与去年1月入侵SEC官方X账户发布批准比特币ETF的虚假推文，被判处14个月监禁】金色财经报道，据 CNBC 报道，美国司法部称，法官判处一名阿拉巴马州男子14 个月监禁，因其参与了 2024 年 1 月入侵美国证券交易委员会 X 账户的行动，该账户被用来发送一条推文，导致比特币价格短暂飙升逾 1,000 美元。 
-该男子三个月前在华盛顿特区的美国地方法院承认犯有合谋实施严重身份盗窃和访问设备欺诈罪，并帮助其他人控制了美国证券交易委员会的账户。X 账户被用来虚假声称美国 SEC 已正式批准比特币交易所交易基金 ( ETF)。该推文发布后，BTC 上涨，但在美国 SEC 迅速重新控制该账户并称该推文为虚假后，其价格下跌了 2,000 多美元。值得一提的是，美国 SEC 第二天表示，已批准允许创建比特币 ETF 的规则变更。
-- [麻吉大哥黄立成投资75万USDC购入HYPE代币，均价为27.5美元](https://x.com/EmberCN/status/1923537772591317064) - 📰 null - 【麻吉大哥黄立成投资75万USDC购入HYPE代币，均价为27.5美元】金色财经报道，据链上分析师余烬（@EmberCN）监测，麻吉大哥黄立成（@machibigbrother）通过Hyperliquid平台投入75万USDC，购入27,282枚HYPE代币，成交均价为27.5美元。
-- [3月中国减持189亿美元美债、持仓规模降至第三]() - 📰 null - 【3月中国减持189亿美元美债、持仓规模降至第三】金色财经报道，当地时间5月16日，美国财政部公布的数据显示，2025年3月，美债前三大海外债主中，日本、英国增持美国国债，中国减持。中国由美国第二大债主变为第三大债主，英国变为第二大债主。3月正值本轮美债市场动荡前夕。美国财政部2025年3月国际资本流动报告（TIC）显示，日本3月增持49亿美元美国国债，持仓规模为11308亿美元，依然是美国第一大债主。中国3月减持189亿美元美国国债至7654亿美元，为今年首次减持。减持后，中国对美国国债的持仓规模由第二下降至第三。从2022年4月起，中国的美债持仓一直低于1万亿美元，且总体呈减持趋势。2025年1月，中国增持18亿美元美国国债，2月则增持235亿美元。2022年、2023年、2024年，中国分别减持1732亿美元、508亿美元、573亿美元美国国债。（金十）
-- [马斯克将个人头像和昵称更改为Kekius Maximus](https://x.com/elonmusk) - 📰 null - 【马斯克将个人头像和昵称更改为Kekius Maximus】金色财经报道，马斯克将 X 昵称和头像更换为“Kekius Maximus”主题。行情信息显示，Kekius Maximus（KEKIUS）在 24 小时内上涨 105.9%。马斯克曾于去年 12 月份更改个人头像和昵称为Kekius Maximus，相关概念币暴涨。
-- [分析师：比特币价格到年底可能达到20万美元以上，因其历史上落后于黄金](https://x.com/Cointelegraph/status/1923528981342536039) - 📰 null - 【分析师：比特币价格到年底可能达到20万美元以上，因其历史上落后于黄金】金色财经报道，分析师Apsk32表示，比特币价格到年底可能达到20万美元以上，理由是其历史上落后于黄金。
-- [Alchemy收购Solana基础设施提供商DexterLab，继续在以太坊之外扩张](https://www.theblock.co/post/354709/alchemy-acquires-solana-infrastructure-provider-dexterlab-as-it-continues-expansion-beyond-ethereum?utm_source=twitter&utm_medium=social) - 📰 null - 【Alchemy收购Solana基础设施提供商DexterLab，继续在以太坊之外扩张】金色财经报道，被誉为“区块链界AWS”的 Alchemy 已收购Solana基础设施提供商DexterLab，该公司被谷歌、Chainstack和Solana基金会使用。此次收购将有助于Alchemy扩展其企业级Solana服务。 
-Alchemy工程主管Alexandru Minulescu在一份声明中表示：“此次收购是我们 Solana 发展历程中的一个重要里程碑。通过整合专业知识和资源，我们将扩展基础设施，并加速整个生态系统的创新。近六个月前的合作如今已发展成为真正的合作伙伴关系。”
-- [金色晨讯 | 5月17日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 5月17日隔夜重要动态一览】21:00-7:00关键词：乌克兰、特朗普、稳定币 
-1.美欧打破僵局，重启关税谈判； 
-2.乌克兰考虑建立战略比特币储备； 
-3.穆迪将美国信用评级由AAA下调至AA1； 
-4.特朗普税收法案在众议院小组委员会中未获通过； 
-5.美SEC黑客因发布比特币ETF虚假消息被判入狱14个月； 
-6.美稳定币法案最快下周参院表决，支持者称“将载入史册”； 
-7.前美联储主席伯南克敦促美联储就利率决策提供更全面解释。
-- [Solana 射击游戏《Nyan Heroes》因资金问题关闭](https://decrypt.co/320501/solana-game-nyan-heroes-shuts-down) - 📰 null - 【Solana 射击游戏《Nyan Heroes》因资金问题关闭】金色财经报道，由于开发工作室无法获得更多资金，Nyan Heroes 即将关闭。这款以猫为主题的射击游戏在四次测试中吸引了超过 100 万玩家。同时，基于Solana的NYAN代币周五暴跌，目前较峰值价格下跌了近 99%。
-- [穆迪将美国信用评级由AAA下调至AA1](https://www.cls.cn/detail/2033551) - 📰 null - 【穆迪将美国信用评级由AAA下调至AA1】金色财经报道，国际信用评级机构穆迪16日宣布，由于美国政府债务和利率支付比例增加，该机构决定将美国主权信用评级从AAA下调至AA1，同时将美国主权信用评级展望从“负面”调整为“稳定”。穆迪称，到2035年美国联邦债务负担将升至GDP的134%；预计到2035年美国联邦政府赤字将达到GDP的9%；随着经济因应关税而做出调整，GDP增长可能会放缓。
-- [美稳定币法案最快下周参院表决，支持者称“将载入史册”](https://www.coindesk.com/policy/2025/05/16/u-s-stablecoin-bill-could-clear-senate-next-week-proponents-say) - 📰 null - 【美稳定币法案最快下周参院表决，支持者称“将载入史册”】金色财经报道，由参议员Bill Hagerty和Kirsten Gillibrand推动的《稳定币国家创新指引与建立法案（GENIUS Act）》有望最快下周在参议院辩论并通过。Hagerty表示：“下周，参议院将在我们辩论并通过GENIUS法案时载入史册，该法案将建立首个有利增长的支付稳定币监管框架。”Gillibrand称，“制定该法案是一次真正的两党合作”，并强调其中纳入了“强有力的消费者保护”。 
-尽管此前未能通过“终止辩论动议”投票，但法案已进入最新草案阶段，文本有所调整以满足民主党对消费者保护和国家安全的关切。草案明确，大型上市公司如Meta不会被批准发行稳定币。 
-参议院将于下周一再次投票，需60票通过才能正式展开辩论。众议院也在推进自己的版本，最终版本将需整合并由特朗普总统签署成为法律。
-- [彭博社：币安、Kraken成功阻止类似Coinbase的钓鱼攻击](https://www.theblock.co/post/354704/binance-kraken-successfully-thwart-phishing-attacks-similar-to-coinbase-hack-bloomberg) - 📰 null - 【彭博社：币安、Kraken成功阻止类似Coinbase的钓鱼攻击】金色财经报道，据彭博社报道，币安与Kraken近期也成为与Coinbase披露事件相似的社交工程攻击目标，但两家交易所均未报告客户信息泄露，“由于内部防护措施”成功阻止攻击。 
-攻击者曾试图通过Telegram引诱客服代表，索取“账户余额和家庭住址等敏感客户数据”。报道称，“两家交易所的AI安全系统识别出攻击向量并阻止了钓鱼尝试”。 
-此前，Coinbase在递交给美国证券交易委员会的文件中披露，网络犯罪分子“贿赂海外客服代表”，试图获取用户数据和账户管理记录，事件或将造成高达4亿美元的补救开支与客户赔偿。 
-目前尚不清楚攻击币安和Kraken的是否为袭击Coinbase的同一批黑客。
-- [离岸人民币兑美元较周四纽约尾盘跌56点]() - 📰 null - 【离岸人民币兑美元较周四纽约尾盘跌56点】金色财经报道，离岸人民币（CNH）兑美元北京时间04:59报7.2105元，较周四纽约尾盘跌56点，日内整体交投于7.1952-7.2136元区间。
-- [DeFi Development与BONK合作共管验证者，股价单日飙升30%](https://www.coindesk.com/markets/2025/05/16/defi-development-surges-30-on-bonk-validator-partnership-more-sol-purchases) - 📰 null - 【DeFi Development与BONK合作共管验证者，股价单日飙升30%】金色财经报道，DeFi Development Corp.（DFDV）周五股价大涨30%，达历史新高，因其宣布与Solana主流Meme币BONK合作共管验证者，并再次增持SOL。 
-双方将共同管理Solana验证者，并整合BONK的流动质押代币BONKSOL，称这是“首个Meme币社区与上市公司在Solana上共享质押基础设施”。BONK核心成员Nom表示：“这项验证者合作是BONK赋能社区和加速Solana采用的自然下一步。” 
-DeFi Development还宣布再购入16,447枚SOL，目前共持有609,190枚，市值约1.07亿美元。该公司曾为房地产科技平台Janover，自转型专注Solana以来，股价累计上涨超2800%。
-- [美CFTC三位委员本周内接连辞职，Goldsmith Romero将于5月31日离任](https://www.theblock.co/post/354684/cftcs-christy-goldsmith-romero-to-step-down-may-31-as-commissioner-exodus-continues) - 📰 null - 【美CFTC三位委员本周内接连辞职，Goldsmith Romero将于5月31日离任】金色财经报道，美国商品期货交易委员会（CFTC）民主党委员Christy Goldsmith Romero宣布将于5月31日离职，成为本周内第三位宣布辞职的委员。她在声明中表示：“与我的委员同僚共事是一种特权和喜悦。”此前她曾表示将在特朗普总统提名的CFTC主席人选Brian Quintenz确认后离职。 
-Goldsmith Romero的离职紧随共和党委员Caroline Pham之后，后者也在周四表示将在Quintenz确认后离任。本周早些时候，共和党委员Summer Mersinger亦宣布将于5月30日离任，并转任区块链协会CEO。
-- [阿联酋“星际之门”数据中心获英伟达、OpenAI等科技巨头支持](https://flash.jin10.com/detail/20250517040514390800) - 📰 null - 【阿联酋“星际之门”数据中心获英伟达、OpenAI等科技巨头支持】金色财经报道，一位知情人士周五证实，美国科技巨头英伟达(NVDA.O)、思科(CSCO.O)和OpenAI将支持本周宣布的阿联酋“星际之门”人工智能数据中心。消息人士证实，人工智能芯片领导者英伟达将为最新的BlackwellGB300系统提供硬件。该数据中心将与美国总统特朗普在今年1月就职后不久宣布的美国同名人工智能基础设施项目合作。目前还不清楚甲骨文(ORCL.N)是否也参与了阿联酋的星际之门项目。周四宣布的该数据中心将由阿联酋公司G42建造。这个庞大的园区将拥有5千兆瓦的容量，占地10平方英里。
-- [美股三大指数集体收涨]() - 📰 null - 【美股三大指数集体收涨】金色财经报道，美股三大指数集体收涨，道指涨0.78%，本周累涨3.41%；标普500指数涨0.7%，本周累涨5.27%；纳指涨0.52%，本周累涨7.15%。大型科技股多数上涨，特斯拉涨超2%，奈飞、谷歌涨超1%，微软、英伟达、亚马逊、英特尔小幅上涨。
+- [USD1 稳定币通过 Chainlink 的跨链互操作性协议已实现多链可用](https://www.coindesk.com/markets/2025/05/16/world-liberty-s-stablecoin-now-available-on-multiple-networks-through-chainlink-s-interoperability-protocol) - 📰 null - 【USD1 稳定币通过 Chainlink 的跨链互操作性协议已实现多链可用】金色财经报道，据 Coindesk 报道，World Liberty Financial 宣布其美元稳定币 USD1 已通过 Chainlink 的跨链互操作性协议（CCIP）已实现多链可用。该消息在 Consensus 2025 大会上由 World Liberty Financial 团队、Chainlink 联合创始人 Sergey Nazarov 和 Eric Trump 共同宣布。
+- [Tether在Tron上累计发行757亿USDT超过以太坊](https://x.com/lookonchain/status/1923612686937620741) - 📰 null - 【Tether在Tron上累计发行757亿USDT超过以太坊】金色财经报道，据Lookonchain监测，2025年，Tether在波场(Tron)上铸造了160亿USDT。Tether在波场上累计发行了757亿USDT，超过了以太坊。
+- [巴拿马城市长 Mayer Mizrachi 或暗示将建立比特币储备](https://cointelegraph.com/news/panama-city-mayor-teases-bitcoin-reserve-after-meeting-el-salvadors-bitcoin-leaders) - 📰 null - 【巴拿马城市长 Mayer Mizrachi 或暗示将建立比特币储备】金色财经报道，据 Cointelegraph 报道，巴拿马城市长 Mayer Mizrachi 在与萨尔瓦多两位比特币政策领袖会面后，或暗示将建立城市级比特币储备。Mizrachi 在会见萨尔瓦多比特币顾问 Max Keiser 和比特币办公室负责人 Stacy Herbert 后，于 5 月 16 日在社交平台 X 上发布了"比特币储备"的信息。 
+三人还讨论了巴拿马和萨尔瓦多如何利用可再生能源推动比特币挖矿发展，同时巴拿马城将把萨尔瓦多的金融知识教材《什么是货币？》纳入其在线图书馆系统。巴拿马城市长 Mayer Mizrachi 或暗示将建立比特币储备
+- [美国现货以太坊ETF昨日净流入6350万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流入6350万美元】金色财经报道，据FarsideInvestors数据，美国现货以太坊ETF昨日净流入2220万美元。
+- [数据：过去 7 天 USDC 流通量约减少 8 亿枚](https://www.circle.com/transparency) - 📰 null - 【数据：过去 7 天 USDC 流通量约减少 8 亿枚】金色财经报道，据官方数据，截至 5 月 15 日的 7 天内，Circle 发行约 29 亿USDC，赎回约 37 亿 USDC，流通量约减少 8 亿枚。USDC 总流通量为 605 亿枚，储备量约为 607 亿美元，其中现金约 73 亿美元，Circle Reserve Fund 约持有 534 亿美元。
+- [黄立成再次加仓36,759枚HYPE，今日累计花费175万U买入HYPE]() - 📰 null - 【黄立成再次加仓36,759枚HYPE，今日累计花费175万U买入HYPE】金色财经报道，据链上数据分析师余烬监测，「麻吉大哥」黄立成在一个半小时前继续花费 100 万 USDC 购买了 36,759 枚 HYPE。他今天一共使用 175 万 USDC 购买了 64,043 枚 HYPE，均价 27.3 美元。
+- [分析师：比特币长期持有者开始获利了结，该群体或预判价格接近顶部](https://x.com/Murphychen888/status/1923592304864133359) - 📰 null - 【分析师：比特币长期持有者开始获利了结，该群体或预判价格接近顶部】金色财经报道，链上数据分析师Murphy在社交媒体上发文表示，近期比特币长期持有者（LTH）平均成本突然快速上升，7日成本变化率达到9.57%。出现该情况除了部分短期持有者（STH）高位筹码转变为LTH之外，一定还有某些低成本的长期筹码卖出，使得整体成本抬高。而现在LTH的平均成本是31,000美元左右，说明有不少成本低于31,000美元的筹码被卖了，使得整体成本迅速上升。Murphy进一步解释称，作为「钻石手」的LTH持有者通常很少操作，其卖出的动作基本基于「恐慌」或「避险」，而当前情况下不存在「恐慌」，故可能是LTH觉得价格接近他们预判的顶部，开始逐渐退场（LTH的判断也可能有误）。
+- [金色午报 | 5月17日午间重要动态一览]() - 📰 null - 【金色午报 | 5月17日午间重要动态一览】7:00-12:00关键词：美元贬值、美债、LIBRA Meme 
+1.摩根士丹利：美元今年可能还会再贬6%； 
+2.3月中国减持189亿美元美债、持仓规模降至第三； 
+3.阿根廷法院冻结 LIBRA Meme 币相关关键人物资产； 
+4.美国法院批准特朗普暂停数十万联邦员工工会谈判计划； 
+5.特朗普称印度提出削减美国关税，但他不着急达成协议； 
+6.法国内政部：将为该国领先的加密货币企业家提供加强版安全保护措施。
+- [数据：市场波动致巨鲸紧急抛售 1.05 万枚 ETH，两日浮亏 200 万美元​](https://x.com/lookonchain/status/1923578306768797890) - 📰 null - 【数据：市场波动致巨鲸紧急抛售 1.05 万枚 ETH，两日浮亏 200 万美元​】金色财经报道，据 Lookonchain 监测，某巨鲸地址于过去一小时以 2476 美元均价清仓 10,543 枚 ETH（约 2610 万美元）。 
+受市场下跌影响，其持仓在短短两日内浮亏达 200 万美元。
+- [美国现货比特币ETF本周净流出4.787亿美元]() - 📰 null - 【美国现货比特币ETF本周净流出4.787亿美元】金色财经报道，据TraderT监测，美国现货比特币ETF本周净流出4.787亿美元。
+- [某借币做多ETH的鲸鱼地址于1小时前清仓10543枚ETH，亏损142万美元](https://twitter.com/ai_9684xtpa/status/1923573946965950921) - 📰 null - 【某借币做多ETH的鲸鱼地址于1小时前清仓10543枚ETH，亏损142万美元】金色财经报道，据链上数据分析师 @ai_9684xtpa 监测，某借币做多 ETH 的鲸鱼地址最终放弃，过去 1 小时他以 2473.61 美元均价清仓了 10543 枚 ETH（约合 2608 万美元），因为该地址的做多均价为 2,608.36 美元，导致本次借币做多共亏损 142 万美元。
+- [某鲸鱼地址9小时前从OKX提币6053枚ETH](https://twitter.com/lookonchain/status/1923572847991193791) - 📰 null - 【某鲸鱼地址9小时前从OKX提币6053枚ETH】金色财经报道，据Lookonchain监测，9小时前，某鲸鱼地址从OKX提现了6,053枚ETH（价值1566万美元）。
+- [ETH突破2500美元]() - 📰 null - 【ETH突破2500美元】金色财经报道，行情显示，ETH突破2500美元，现报2500.49美元，24小时跌幅达到2.62%，行情波动较大，请做好风险控制。
+- [美国法院批准特朗普暂停数十万联邦员工工会谈判计划]() - 📰 null - 【美国法院批准特朗普暂停数十万联邦员工工会谈判计划】金色财经报道，美国一家联邦上诉法院撤销了一项禁令，该禁令此前阻止美国总统唐纳德·特朗普政府剥夺数十万联邦雇员成立工会并就工作条件进行集体谈判的权利。 
+哥伦比亚特区巡回上诉法院以 2：1 的投票结果，搁置了一名法官应全国 Treasury Employees 工会（NTEU）请求发布的禁令。该禁令原本阻止特朗普政府实施其 3 月签署的一项行政命令。（金十）
+- [加密投资机构 Paradigm 聘请 Echo 创始人 Cobie 担任顾问](https://www.theblock.co/post/354669/cobie-joins-crypto-investment-firm-paradigm-as-advisor?utm_source=twitter&utm_medium=social) - 📰 null - 【加密投资机构 Paradigm 聘请 Echo 创始人 Cobie 担任顾问】金色财经报道，据 The Block 报道，加密货币投资机构 Paradigm 已聘请 Cobie 担任顾问。Cobie 是加密货币投资平台 Echo 的创始人，该平台允许散户投资者和加密货币社区成员以与风险投资机构类似的条件参与项目早期融资轮。此前在 2 月份，链上数据分析师 ZachXBT 也已加入 Paradigm，担任事件响应顾问一职。
+- [BNB突破640美元]() - 📰 null - 【BNB突破640美元】金色财经报道，行情显示，BNB突破640美元，现报640.09美元，24小时跌幅达到2.37%，行情波动较大，请做好风险控制。
+- [疑似Lido团队归属地址过去24小时再次将670万枚LDO转入CEX](https://x.com/EmberCN/status/1923564250825621817) - 📰 null - 【疑似Lido团队归属地址过去24小时再次将670万枚LDO转入CEX】金色财经报道，据链上数据分析师余烬监测，疑似 Lido 团队归属地址过去 24 小时再次将 670 万枚 LDO（约合 661 万美元）转入 Binance、OKX、Bybit、Gate。 
+这个机构或团队已经在最近 4 天里累计将 1781 万枚 LDO (约合 1814 万美元) 转进 CEX。LDO 价格也在此期间从 1.16 美元回调到目前的 0.93 美元，下跌幅度 20%。
+- [摩根士丹利：美元今年可能还会再贬6%]() - 📰 null - 【摩根士丹利：美元今年可能还会再贬6%】金色财经报道，摩根士丹利投资管理公司首席投资官Jitania Kandhari说，美元本周初的复苏是“逆势反弹”，而其基本面仍指向下跌。“这是一次逆势反弹，但长期基本面仍表明美元将进一步下跌，今年可能还会再贬6%”。美国投资者需要时间才能从国内资产中分散出来，因为“美国投资者存在严重的本土偏好”，但她所接触的客户正积极询问世界其它地区的情况以寻找机会。她目前看好欧元、日元以及新兴市场货币。（金十）
+- [数据：沉寂 4 年巨鲸苏醒，做空 ETH 等资产获利 240 万美元](https://x.com/lookonchain/status/1923559796227310056) - 📰 null - 【数据：沉寂 4 年巨鲸苏醒，做空 ETH 等资产获利 240 万美元】金色财经报道，据 Lookonchain 报道，某沉寂 4 年的巨鲸地址近日突然活跃，从 Coinbase 提取 296 万枚 USDC 并存入 Hyperliquid。 
+该地址随后对 ETH、PEPE、WIF 和 OP 建立高杠杆空头头寸，4 小时内实现逾 240 万美元盈利。
+- [特朗普称印度提出削减美国关税，但他不着急达成协议]() - 📰 null - 【特朗普称印度提出削减美国关税，但他不着急达成协议】金色财经报道，美国总统特朗普表示，印度已提出削减对美国商品的所有关税，但他淡化了与世界第四大经济体达成贸易协议的紧迫感。 
+特朗普在接受采访时，把印度当作要削减壁垒的例子。“他们让人几乎无法做生意。你知道他们愿意为美国削减100%的关税吗？”特朗普说。 
+但在达成协议的可能性上，特朗普发出了不同的信号，他说：“很快就会达成。我不着急。听着，每个人都想和我们做交易。”他补充说，他不打算“与所有人达成协议”。特朗普此番言论表明，美国只会就许多国家将面临的关税做出单方面决定。星期五早些时候，特朗普表示，他计划在“未来两到三周内”为贸易伙伴设定新的进口税率。（金十）
