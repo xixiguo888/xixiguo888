@@ -1,32 +1,31 @@
-- [James Wynn 已浮盈1983万美元](https://x.com/ai_9684xtpa/status/1925070559186161911) - 📰 null - 【James Wynn 已浮盈1983万美元】金色财经报道，据链上分析师Ai姨 (@ai 9684xtpa) 监测，BTC已突破107500美元，三个巨鲸的仓位盈亏情况更新如下，James Wynn：7764.26 BTC多单浮盈1983万美元 ；地址 0xc65...7c142：1250 BTC多单浮赢71.8万美元 ；Hyperliquid内幕地址：826 BTC 空单浮亏37.5万美元。
-- [币安VIP借币新增NXPC可借资产]() - 📰 null - 【币安VIP借币新增NXPC可借资产】金色财经报道，据官方公告，币安 VIP 借币新增可借资产 Nexpace（NXPC）。
-- [稳定币原生加密货币交易所TrueX完成1100万美元A轮融资，Accomplice等领投](https://www.cypherhunter.com/en/e/truex-exchange-raised-funding-2025-05-20/) - 📰 null - 【稳定币原生加密货币交易所TrueX完成1100万美元A轮融资，Accomplice等领投】金色财经报道，稳定币原生加密货币交易所TrueX宣布完成1100万美元A轮融资，Accomplice和RRE Ventures领投，Reciprocal Ventures、Variant和支付巨头PayPal参投，新资金拟用于支持Paxos Custody等外部托管方进行资产保护，目前TrueX使用PayPal稳定币PYUSD作为其首选交易代币，Paxos为TrueX的用户提供第三方托管服务，预计其服务首先向美国机构和某些地区的一些国际机构开放。
-- [香港立法会议员邱达根：除了港币、美元，香港还考虑将人民币纳入法定稳定币]() - 📰 null - 【香港立法会议员邱达根：除了港币、美元，香港还考虑将人民币纳入法定稳定币】5月21日消息，香港特别行政区立法会议员邱达根在香港立法会《稳定币条例草案》审议中发言表示，除了港币、美元，香港还考虑将人民币纳入法定稳定币。
-- [Theta Capital募集1.75亿美元加密基金，将投资区块链初创企业](https://www.bloomberg.com/news/articles/2025-05-21/theta-capital-secures-175-million-for-crypto-fund-investments) - 📰 null - 【Theta Capital募集1.75亿美元加密基金，将投资区块链初创企业】金色财经报道，据彭博社报道，加密投资公司Theta Capital Management宣布完成超过1.75亿美元融资，用于其名为Theta Blockchain Ventures IV的基金。该基金将专注于投资专注于加密领域的风险投资者，间接支持早期区块链初创企业。
-- [某40倍做多BTC鲸鱼持续加仓，已浮盈超100万美元](https://x.com/lookonchain/status/1925064259488346424) - 📰 null - 【某40倍做多BTC鲸鱼持续加仓，已浮盈超100万美元】金色财经报道，据Lookonchain监测，随着BTC上涨，某个使用40倍杠杆做多BTC的鲸鱼不断追高，加仓其多头头寸。目前该头寸已增至1250枚$BTC（约1.35亿美元），未实现利润超过100万美元。
-- [某交易员已清仓28天前花费54枚SOL买入的LAUNCHCOIN，获利421倍](https://x.com/OnchainLens/status/1925059876029628867) - 📰 null - 【某交易员已清仓28天前花费54枚SOL买入的LAUNCHCOIN，获利421倍】金色财经报道，据Onchain Lens监测，一位交易员在28天前LAUNCHCOIN涨至市值超3亿美元之前，花费54枚SOL（约8191美元）购买了1462万枚LAUNCHCOIN。 
-随后，该交易员陆续将这些LAUNCHCOIN全部卖出，换得16,321枚SOL（约278万美元）以及66.6万枚USDT，实现了高达421倍的回报。
-- [The Blockchain Group通过普通股发行再次募资860万欧元，拟继续增持比特币](https://bitcoinmagazine.com/news/the-blockchain-group-secures-e8-6-million-to-boost-bitcoin-strategy) - 📰 null - 【The Blockchain Group通过普通股发行再次募资860万欧元，拟继续增持比特币】金色财经报道，欧洲上市公司The Blockchain Group宣布以每股1.279 欧元的价格发行3,368,258股新普通股募资4,308,001.98欧元，并且向特定投资者发行337万股股票（其中包括Robbie van den Oetelaar、TOBAM比特币财库机会基金和Quadrille Capital）募资435万欧元，总计募资约860万欧元，这笔资金将用于持续推进增持比特币并拓展其在数据智能、人工智能和去中心化技术领域子公司的战略。
-- [某鲸鱼建仓TRUMP与FARTCOIN各200万美元](https://x.com/OnchainLens/status/1925055197258383685) - 📰 null - 【某鲸鱼建仓TRUMP与FARTCOIN各200万美元】金色财经报道，据Onchain Lens监测，一位沉寂了一个月的鲸鱼账户近期出手：花费200万枚USDC以每枚14.66美元的价格购买了136,399枚TRUMP；花费200万枚USDC以每枚1.33美元的价格购买了149万枚FARTCOIN。其钱包目前仍持有290万枚USDC，预计可能还会继续购入更多代币。
-- [澳大利亚ASIC在Block Earner胜诉后寻求高等法院对加密收益产品的裁决](https://decrypt.co/321247/asic-seeks-high-court-ruling-crypto-yield-products-block-earner) - 📰 null - 【澳大利亚ASIC在Block Earner胜诉后寻求高等法院对加密收益产品的裁决】金色财经报道，澳大利亚的企业监管机构正在向高等法院申请特别许可，以对支持加密公司Block Earner的裁决提起上诉，这进一步加剧了关于数字资产收益产品地位的法律争议。澳大利亚证券和投资委员会（ASIC）正在请求高等法院阐明《公司法》下应如何处理利息收益和资产转换产品。 
-“金融产品的定义是以广泛且技术中立的方式起草的，ASIC认为澄清这一点符合公共利益，”该机构在一份声明中表示，“这一澄清很重要，因为它适用于所有金融产品和服务，无论它们是否涉及加密资产。” 
-向澳大利亚高等法院提起上诉需要特别许可。该法院仅在涉及重大法律问题或公共利益事项的案件中授予此类许可。上诉并非自动受理，ASIC在此案中必须首先获得法院的许可。
-- [币安将于5月23日下架三个现货交易对](https://www.binance.com/en/support/announcement/detail/714283bd536e405ba8afd855fa9ac0ec) - 📰 null - 【币安将于5月23日下架三个现货交易对】金色财经报道，据官方公告，币安(Binance)宣布将于2025年5月23日03:00(UTC)下架三个现货交易对：ACA/BTC、MASK/BNB和TRU/BTC。此次下架是基于平台定期审查，主要考虑因素为流动性不足和交易量低。
-- [韩国金融服务委员会(FSC)宣布加强加密货币交易所和银行的KYC/AML要求](https://www.theblock.co/post/355147/south-korea-mandates-stricter-crypto-aml-kyc-for-upcoming-institutional-ban-lift?utm_source=twitter&utm_medium=social) - 📰 null - 【韩国金融服务委员会(FSC)宣布加强加密货币交易所和银行的KYC/AML要求】金色财经报道，据TheBlock报道，韩国金融服务委员会(FSC)宣布加强加密货币交易所和银行的KYC/AML要求，为即将到来的机构投资解禁做准备。从2025年6月起，非营利组织可出售捐赠获得的加密货币，注册交易所可清算用户以加密形式支付的费用。韩国计划在2025下半年允许上市公司和专业投资者参与加密交易。作为全球最大加密市场之一，韩国约20%人口参与加密交易，日均交易量达52.6亿美元。加密政策已成为即将到来的总统大选焦点，主要候选人均支持解除现货加密ETF禁令。
-- [BTC突破107000美元]() - 📰 null - 【BTC突破107000美元】金色财经报道，行情显示，BTC突破107000美元，现报107009.8美元，24小时涨幅达到1.26%，行情波动较大，请做好风险控制。
-- [分析师：市场尚未显示出过热迹象，比特币有望创历史新高](https://x.com/AxelAdlerJr/status/1925042592770625945) - 📰 null - 【分析师：市场尚未显示出过热迹象，比特币有望创历史新高】金色财经报道，CryptoQuant 分析师 Axel Adler Jr. 在社交媒体上发文表示，每当币价出现强势上涨，导致大量原本处于亏损的代币迅速转为盈利时，未花费交易输出（UTXO）盈亏比的 30 日简单移动平均线（SMA）就会升至 200 以上。这个指标飙升得越高，市场就越可能接近“过热”或“抛压释放”阶段。 
-市场仍有可能继续创新高，但推动盈亏比上升的“轻松燃料”基本已经耗尽，后续需要更强劲的价格动能或剧烈的波动，才能让该指标再次走高。
-- [德国政府2024年6月19日至7月12日出售49,858枚比特币，已损失24.6亿美元利润](https://x.com/lookonchain/status/1925043528280969345) - 📰 null - 【德国政府2024年6月19日至7月12日出售49,858枚比特币，已损失24.6亿美元利润】金色财经报道，据Lookonchain监测，德国政府在2024年6月19日至7月12日期间，以平均57,600美元的价格出售了49,858枚比特币（价值28.7亿美元）。如今，这些49,858枚比特币的价值已达到53.3亿美元，这意味着德国政府错失了24.6亿美元的利润。
-- [Robinhood 计划在英国推出免佣金股票 ISA 账户](https://www.ft.com/content/a8f40f60-3849-4f8a-975a-c8417c681987) - 📰 null - 【Robinhood 计划在英国推出免佣金股票 ISA 账户】金色财经报道，Robinhood 计划在 2026 年 4 月前于英国推出免佣金的股票与股份个人储蓄账户（ISA），以抢占本地市场并与 Hargreaves Lansdown 等传统投资平台竞争。 
-Robinhood 英国负责人 Jordan Sinclair 表示，该公司已获得相关监管批准，首批产品将专注于英国股票投资。此举正值英国政府鼓励储户将资金投入本土企业、提振伦敦证券市场之际。
-- [网红"Hawk tuah girl"哈利·韦尔奇透露曾因模因币项目遭FBI调查](https://cointelegraph.com/news/hawk-tuah-girl-haliey-welch-fbi-probed-over-hawk-memecoin) - 📰 null - 【网红"Hawk tuah girl"哈利·韦尔奇透露曾因模因币项目遭FBI调查】5月21日消息，网络名人哈利·韦尔奇（即"Hawk tuah girl"）在其最新播客中透露，她曾因推广HAWK模因币而被FBI和SEC调查。该模因币上线后迅速暴跌90%，被多位加密货币评论员称为"退出骗局"。韦尔奇表示调查机构检查了她的手机并进行询问，但最终认定她无过错。她承认自己对加密货币知识不足，"信任了错误的人"，并对导致粉丝投资受损感到愧疚。韦尔奇称她仅收取了营销费用，并未从币本身获利。
-- [金色午报 | 5月21日午间重要动态一览]() - 📰 null - 【金色午报 | 5月21日午间重要动态一览】7:00-12:00关键词：OM、Unicoin、GENIUS法案、Eric Adams 
-1.Upbit将上线OM现货交易； 
-2.美联储戴利：美联储的政策处于良好状态； 
-3.Bitwise：GENIUS法案影响堪比BTC现货ETF； 
-4.USDC Treasury于以太坊链销毁6000万枚USDC； 
-5.纽约市市长Eric Adams成立加密货币咨询委员会； 
-6.比特币矿企Cipher Mining拟发行可转换优先票据募资1.5亿美元； 
-7.美SEC对Unicoin及其三位高管提起诉讼，指控涉及募资时虚假和误导性陈述。
-- [某鲸鱼建仓133万美元LAUNCHCOIN与186万美元FARTCOIN](https://x.com/lookonchain/status/1925037472221954417) - 📰 null - 【某鲸鱼建仓133万美元LAUNCHCOIN与186万美元FARTCOIN】金色财经报道，据Lookonchain监测，某鲸鱼在5天前创建了一个新钱包，从Kraken提出324万枚USDC，随后购买了535万枚LAUNCHCOIN（约合133万美元）和139万枚FARTCOIN（约合186万美元）。
-- [美国现货以太坊ETF昨日净流入6480万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流入6480万美元】金色财经报道，据FarsideInvestors监测数据，美国现货以太坊ETF昨日净流入6480万美元。
+- [SOL突破170美元]() - 📰 null - 【SOL突破170美元】金色财经报道，行情显示，SOL突破170美元，现报170.03美元，24小时涨幅达到2.52%，行情波动较大，请做好风险控制。
+- [Circle宣布Circle Payments Network主网上线，支持USDC实时跨境结算]() - 📰 null - 【Circle宣布Circle Payments Network主网上线，支持USDC实时跨境结算】金色财经报道，据 Circle 官方消息，Circle Payments Network 主网正式上线。该网络是一个基于区块链的支付协调协议，允许银行和支付服务提供商使用公共区块链上的 USDC 进行实时结算。 
+Circle Payments Network 支持企业对企业供应商支付、跨境汇款、资金管理、企业定期支付以及工资和批量支付等功能。首批主网参与者包括 Alfred、Tazapay、ConduitPay 和 RedotPay，将在拉丁美洲和亚洲开通稳定币支付通道。 
+Circle 计划在 2025 年扩展业务至尼日利亚、欧盟、英国、哥伦比亚、印度、阿联酋、中国、土耳其、菲律宾、越南和阿根廷等地区。
+- [Coinbase披露数据盗窃事件影响达69,461名用户](https://www.theblock.co/post/355216/coinbase-reveals-69461-users-affected-in-december-2024-data-heist-filing) - 📰 null - 【Coinbase披露数据盗窃事件影响达69,461名用户】金色财经报道，根据提交给缅因州总检察长办公室的文件，Coinbase 公司披露，在 2024 年 12 月的一次泄露事件中，69,461 名个人的个人数据遭到泄露。Coinbase 此前指出，此次数据泄露事件影响了不到 1% 的用户，并泄露了姓名、地址和电子邮件等「了解你的客户」(KYC) 信息。该公司在提交给美国证券交易委员会的文件中表示，密码、私钥和用户资金均未受到影响。
+- [Tether在波场网络再次增发20亿枚USDT](https://x.com/OnchainLens/status/1925156975165497814) - 📰 null - 【Tether在波场网络再次增发20亿枚USDT】金色财经报道，据Onchain Lens监测，Tether在波场网络再次增发20亿枚USDT。2025年至今，Tether已在波场网络累计增发180亿枚USDT。
+- [WIF突破1美元]() - 📰 null - 【WIF突破1美元】金色财经报道，行情显示，WIF突破1美元，现报1.01美元，24小时涨幅达到6.32%，行情波动较大，请做好风险控制。
+- [贝莱德比特币ETF跻身年内资金净流入前五大ETF]() - 📰 null - 【贝莱德比特币ETF跻身年内资金净流入前五大ETF】金色财经报道，据BitcoinMagazine报道，贝莱德（BlackRock）比特币现货ETF已跻身2025年以来资金净流入规模前五大ETF产品之列。
+- [彭博分析师：金银价格比触及高位预示风险资产或将面临双输局面]() - 📰 null - 【彭博分析师：金银价格比触及高位预示风险资产或将面临双输局面】5月21日消息，彭博行业研究高级大宗商品策略师MikeMcGlone表示，金银比通常在美联储结束宽松政策时见顶——5月20日达到100倍的金银比正逼近历史最高季度收盘位（2020年一季度曾达113倍）。与既往峰值时期不同，当前缺失了美联储宽松这一关键要素，这可能预示着风险资产将面临双输局面。 
+当前金银比（100倍附近）对经济走势的预示意义有限——若5月20日达到100倍的金银比在2025年收盘时仍高于91.5倍，将创下历史最高年终比值，这通常预示着不利的全球经济前景。1990-91年和2020年美国经济衰退期间都曾出现该比值的峰值，但本次缺少一个关键前提条件，即——美联储宽松政策尚未见底。
+- [The Blockchain Group增资约975万美元以推进其比特币财务公司战略](https://www.theblockchain-group.com/wp-content/uploads/2025/05/20250520-TBG-CP-20-mai-2025-EN-FINAL.pdf) - 📰 null - 【The Blockchain Group增资约975万美元以推进其比特币财务公司战略】5月21日消息，欧洲上市公司 The Blockchain Group（ALTBG）宣布增资约 860 万欧元（约 975 万美元），以推进其比特币财务公司战略。此次融资通过两项操作筹集，分别为预留资本增加和私募，发行价均为每股 1.279 欧元。
+- [收益型稳定币市值达 110 亿美元，占稳定币市场 4.5%]() - 📰 null - 【收益型稳定币市值达 110 亿美元，占稳定币市场 4.5%】金色财经报道，收益型稳定币市值已达 110 亿美元，占整体稳定币市场的 4.5%。相比 2024 年初的 15 亿美元和 1% 的市场份额实现大幅增长。 
+去中心化协议 Pendle 目前占据收益型稳定币总锁仓量（TVL）的 30%，约 30 亿美元。报告显示，稳定币占 Pendle 总锁仓量的 83%，较一年前的不足 20% 显著提升。
+- [OKX 将调整部分币币的单笔最小交易数量]() - 📰 null - 【OKX 将调整部分币币的单笔最小交易数量】据官方公告显示，为了防范市场风险，提升市场整体流动性，优化用户的交易体验，OKX 计划于 2025 年 5 月 23 日下午 2:00 - 6:00 (UTC+8) 调整部分币币的单笔最小交易数量，具体调整详情涉及币对包括： ACT/USDT、BIO/USD、BIO/USDT、 
+PROMPT/USDT、RACA/USD、RACA/USDT、SOL/TRY、XRP/BRL、XRP/TRY、ZERO/USD 和 ZERO/USDT 。 
+此外，如果有运行中的策略委托，且当前策略挂单的下单数量小于调整后的最小下单数量，则该挂单将被撤销，挂单被撤销后，对应的策略也将被终止。
+- [香港上市公司国富量子宣布抛售约 20 枚比特币](https://www.gelonghui.com/news/5008312) - 📰 null - 【香港上市公司国富量子宣布抛售约 20 枚比特币】金色财经报道，国富量子(00290.HK)发布公告，于2025年5月9日至5月19日期间，集团于公开市场进行一系列交易，出售了约20个比特币，总代价约为2,070,000美元。
+- [Binance Alpha上线 BUILDon (B)]() - 📰 null - 【Binance Alpha上线 BUILDon (B)】金色财经报道，官方页面显示，Binance Alpha 上线 BUILDon (B)。
+- [CryptoQuant CEO：XRP有种资本市场专家感觉，近期走势似乎非常犀利](https://x.com/ki_young_ju/status/1925138296172331016) - 📰 null - 【CryptoQuant CEO：XRP有种资本市场专家感觉，近期走势似乎非常犀利】金色财经报道，CryptoQuant创始人兼首席执行官Ki Young Ju在X平台发文表示，XRP给人一种资本市场专家的感觉，有缺陷，但近期走势无疑非常犀利。有传言说Ripple可能会收购Circle，不知道这是否属实，但如果是真的，那将是一个非常具有战略意义的举措。 由于如此多的投资者渴望押注稳定币的未来，那些等待Circle IPO的人最终可能会购买XRP，Ki Young Ju澄清其本人并没有持有XRP。
+- [币安钱包下一期 TGE 项目为 ALLO (RWA)]() - 📰 null - 【币安钱包下一期 TGE 项目为 ALLO (RWA)】金色财经报道，币安钱包宣布下一期 TGE 项目为 ALLO (RWA)，活动时间为 2025 年 5 月 22 日 16:00 至 18:00，需要 Alpha 积分参与。额外 3 亿枚 RWA 将用于未来的活动，具体细节将另行公布。
+- [HTX DAO与HTX Ventures将亮相比特币2025大会，孙宇晨受邀发表主题演讲]() - 📰 null - 【HTX DAO与HTX Ventures将亮相比特币2025大会，孙宇晨受邀发表主题演讲】5月21日消息，据官方社媒，HTX DAO与HTX Ventures将参加全球最大的比特币盛会——Bitcoin 2025。届时，火币HTX全球顾问孙宇晨将受邀出席并发表主题演讲，分享对比特币及加密货币行业的深刻洞见。 
+大会现场还将复刻孙宇晨同款“上太空装置”，为与会者提供独特互动体验。用户只需关注@HTX_DAO和@Ventures_HTX，并在X平台参与话题#HTXDAOLasVegas，发布与太空装置的合影，即有机会赢取100 USDT等值加密货币奖励。 
+据悉，Bitcoin 2025于5月27日至29日在美国拉斯维加斯举行，汇聚全球重量级嘉宾，包括：美国副总统JD Vance、特朗普次子Eric Trump、白宫AI与加密货币顾问David Sacks、MicroStrategy联合创始人Michael Saylor、BitMEX联合创始人Arthur Hayes等，将共同探讨比特币及加密货币的最新发展趋势，助力推动全球加密生态的创新与变革。
+- [罗素2000指数期货下跌1.2%]() - 📰 null - 【罗素2000指数期货下跌1.2%】金色财经报道，行情显示，罗素2000指数期货下跌1.2%。
+- [美股三大股指期货延续跌势，纳指期货跌超1%]() - 📰 null - 【美股三大股指期货延续跌势，纳指期货跌超1%】金色财经报道，美股三大股指期货延续跌势，纳指期货跌超 1%，道指期货跌近 1%，标普 500 指数期货跌 0.9%。(金十)
+- [OKX 延迟下线 EOS 币对杠杆与永续合约]() - 📰 null - 【OKX 延迟下线 EOS 币对杠杆与永续合约】5月21日消息，据官方公告，OKX将延迟下线 EOS 币对杠杆与永续合约，具体时间安排如下： 
+* EOS/USDT 暂停杠杆交易服务：5 月 22 日下午 4:00 ~ 6:00 (UTC+8) 
+* EOS/USDT 永续合约下线：5 月 23 日凌晨 12:00 (UTC+8)
+- [TGT开盘触及0.347美元，现报价0.22988美元]() - 📰 null - 【TGT开盘触及0.347美元，现报价0.22988美元】金色财经报道，行情显示，TGT开盘触及0.347美元，现报价0.22988美元，行情波动较大，请做好风险控制。
+- [Binance HODLer 空投上线Haedal (HAEDAL)](https://www.binance.com/zh-TC/support/announcement/detail/3e9a3673851341399455718549796f49) - 📰 null - 【Binance HODLer 空投上线Haedal (HAEDAL)】金色财经报道，据官方公告，币安HODLer空投现已上线第19期项目 - Haedal(HAEDAL), 基于Sui区块链构建的流动性质押协议。2025年05月10日08:00至2025年05月14日07:59（东八区时间）期间，使用BNB申购保本赚币(定期和/或活期)或链上赚币产品的用户，将获得空投分配。 
+币安将于2025年05月21日23:00（东八区时间）上市HAEDAL，并开通对USDT、USDC、BNB、FDUSD和TRY的交易对，适用种子标签交易规则。 HAEDAL充值通道将于2小时后开放。
