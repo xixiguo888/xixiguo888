@@ -1,26 +1,43 @@
-- [美指短线走高 日元短线下跌约70点]() - 📰 null - 【美指短线走高 日元短线下跌约70点】金色财经报道，美元指数DXY短线走高近20点，现报99.65。美元兑日元USD/JPY短线一度上扬约70点，现报144.55。欧元兑美元EUR/USD短线下跌约20点，现报1.1325。英镑兑美元GBP/USD短线下跌20点，现报1.3504。(金十)
-- [KindlyMD首次购买21枚BTC并将纳入其比特币财务战略](https://www.businesswire.com/news/home/20250526598476/en/KindlyMD-Makes-Initial-Purchase-of-21-Bitcoin-as-Part-of-its-Treasury-Strategy) - 📰 null - 【KindlyMD首次购买21枚BTC并将纳入其比特币财务战略】金色财经报道，纳斯达克上市公司KindlyMD宣布以每枚比特币109,027美元的加权平均价格购入21枚比特币（相当于比特币总供应量的百万分之一），总价值约230万美元，据悉这是该公司首次购入比特币，使用了公司部分未偿认股权证行使所得8,748,370美元总收益的部分资金。此前KindlyMD股东已同意与特朗普关联的比特币公司Nakamoto合并，合并预计将在双方提交SEC信息声明20天后完成，最终交割定于2025年第三季度。
-- [James Wynn再次增持其比特币多单，爆仓价107,420美元](https://hypurrscan.io/address/0x5078C2fBeA2b2aD61bc840Bc023E35Fce56BeDb6) - 📰 null - 【James Wynn再次增持其比特币多单，爆仓价107,420美元】5月28日消息，据链上数据，巨鲸James Wynn于近20分钟内再次增持其比特币多单，目前持仓规模已升至5.2247亿美元： 
-开仓价格：109,782.3美元 
-清算价格：107,420美元 
-浮亏：367万美元
-- [俄亥俄州长候选人：若当选将把比特币教育纳入公共教育体系](https://x.com/Cointelegraph/status/1927473528766341504) - 📰 null - 【俄亥俄州长候选人：若当选将把比特币教育纳入公共教育体系】金色财经报道，据 Cointelegraph 披露，俄亥俄州长候选人 Vivek Ramaswamy 表示，如果他当选州长，将"把金融知识教育纳入公共教育体系"，其中包括"比特币教育"。
-- [比特币多签库运营商Asigna完成300万美元融资，Tykhe Block Ventures等领投](https://www.globenewswire.com/news-release/2025/05/27/3088863/0/en/Asigna-Announces-a-3M-Funding-Round-and-a-Multisig-v2-Upgrade.html) - 📰 null - 【比特币多签库运营商Asigna完成300万美元融资，Tykhe Block Ventures等领投】金色财经报道，比特币智能多重签名库运营商Asigna宣布完成300万美元融资，Hivemind Capital和Tykhe Block Ventures领投，Sats Ventures、Trust Machines和多位天使投资人参投，该公司此前还获得由Portal Ventures领投、Bitcoin Frontier Fund参投的种子轮融资，新资金拟用于支持元协议（例如Ordinals、Runes、Alkanes、BRC-20、Rare Sats等）和Layer-2网络即将推出重要的v2升级，目前Asigna已集成比特币基础层和Stacks、Arch等执行环境。
-- [加拿大投资公司Captor Capital宣布启动比特币财库战略并完成首笔BTC购买](https://www.globenewswire.com/news-release/2025/05/27/3089057/0/en/Captor-Capital-Corp-Drives-Strategic-Expansion-with-US-500-000-Bitcoin-Acquisition-and-US-450-000-Convertible-Loan-Note-from-European-Institutional-Investor.html) - 📰 null - 【加拿大投资公司Captor Capital宣布启动比特币财库战略并完成首笔BTC购买】金色财经报道，加拿大投资公司Captor Capital宣布启动比特币财库战略并完成了首笔50万美元的BTC购买交易，此外该公司还向欧洲机构投资者发行无担保可转换贷款票据拟募资45万美元，据悉根据可转换贷款票据协议其最终股权融资额最高可达1000万美元或以上。
-- [Hasbulla已在BULLA预售中筹集约2000万美元资金]() - 📰 null - 【Hasbulla已在BULLA预售中筹集约2000万美元资金】金色财经报道，据 OnchainLens 监测，Hasbulla 已在 BULLA 预售中筹集约 2000 万美元资金，三个可能属于同一实体的钱包在预售中发送了 167 万美元的 USD1。共收集了 22,467 枚 BNB（1541 万美元）、443.7 万美元的 USD1 以及其他资金。
-- [MetaPlanet发行5000万美元无息普通债券，用于增持比特币](https://x.com/Metaplanet_JP/status/1927531023505797580) - 📰 null - 【MetaPlanet发行5000万美元无息普通债券，用于增持比特币】金色财经报道，日本上市公司MetaPlanet宣布发行了5000万美元的无息普通债券，用于追加购买比特币。
-- [GENIUS稳定币法案已进入参议院最后审议阶段，Lummis坦言立法进程艰难](https://www.coindesk.com/policy/2025/05/27/sen-lummis-on-push-for-stablecoin-bill-i-had-no-idea-how-hard-this-was-going-to-be) - 📰 null - 【GENIUS稳定币法案已进入参议院最后审议阶段，Lummis坦言立法进程艰难】金色财经报道，怀俄明州共和党参议员Cynthia Lummis在比特币2025大会上透露，GENIUS稳定币法案已进入参议院最后审议阶段。该法案上周以超过60票的阈值通过程序性投票，但曾因民主党领袖Elizabeth Warren及部分共和党人反对而遭遇挫折。若最终通过，这将是参议院银行委员会八年来首项成功立法的法案。 
-Lummis与共同提案人Kirsten Gillibrand（民主党）的团队进行了大量幕后协商。田纳西州参议员Bill Hagerty指出，这将是十余年来该委员会最具两党共识的法案，但批评Warren刻意拖延立法进程。Lummis坦言参议院已丧失"立法肌肉记忆"，并希望借鉴众议院去年通过FIT21法案的经验推进后续加密市场监管立法。
-- [某机构过去 24 小时内购入价值 1000 万 USDC 的 AAVE 代币]() - 📰 null - 【某机构过去 24 小时内购入价值 1000 万 USDC 的 AAVE 代币】金色财经报道，据链上分析师余烬监测，一家通过 Wintermute OTC 交易的机构投资者在过去 24 小时内购入价值 1000 万 USDC 的 AAVE 代币。 
-该机构在近 4 天内总计投入 2500 万 USDC 购买了 94,770 枚 AAVE，平均购买价格为 263.8 美元。该机构自 2023 年 3 月以来持续积累 AAVE，累计投入 4080 万美元购入 261,066 枚 AAVE，平均成本为 156.3 美元。
-- [Robinhood CEO：人工智能可能会催生“单人公司”，就像中本聪创造 BTC 一样](https://decrypt.co/322343/robinhood-ceo-predicts-ai-companies-bitcoin-satoshi) - 📰 null - 【Robinhood CEO：人工智能可能会催生“单人公司”，就像中本聪创造 BTC 一样】金色财经报道，Robinhood 首席执行官弗拉德·特内夫（Vlad Tenev）在 比特币 2025 大会上表示，人工智能将使公司的员工需求降至最低，并将这种假设的组织结构比作中本聪（Satoshi Nakamoto）创造比特币的方式。这位支付企业家在拉斯维加斯的 Bitcoin 2025 大会上表示，由人工智能驱动的“单人公司”将成为常态，同时代币化资产也将普及。 
-这位 Robinhood 首席执行官兼联合创始人提到了中本聪——比特币神秘的、匿名的创造者（或创造者们）——称这种领先的加密货币是由一个人创造的，现在人们可以投资它。
-- [SpaceX星舰在舱内泄漏引发无法控制的旋转后，提前重返大气层]() - 📰 null - 【SpaceX星舰在舱内泄漏引发无法控制的旋转后，提前重返大气层】金色财经报道，SpaceX星舰在舱内泄漏引发无法控制的旋转后，提前重返大气层，早于预定时间。(金十)
-- [德克萨斯州比特币储备法案协调委员会提交最终报告，待两院投票通过](https://x.com/Bitcoin_Laws/status/1927448736671694955) - 📰 null - 【德克萨斯州比特币储备法案协调委员会提交最终报告，待两院投票通过】金色财经报道，据Bitcoin Laws消息，德克萨斯州就比特币储备法案SB21成立的"协调委员会"已就众议院和参议院版本的分歧达成一致，并提交了最终报告。该版本法案现需在两院进行最后投票表决，随后将提交至州长办公室。
-- [美联储威廉姆斯：美国储备水平仍然明显充裕]() - 📰 null - 【美联储威廉姆斯：美国储备水平仍然明显充裕】金色财经报道，美联储威廉姆斯：美国储备水平仍然明显充裕，当遭遇重大冲击时，拥有储备作为缓冲至关重要，4月份关税事件显示市场功能失调。(金十)
-- [David Sacks：区块链、比特币、加密货币是未来的金融体系](https://x.com/Cointelegraph/status/1927517577258922399) - 📰 null - 【David Sacks：区块链、比特币、加密货币是未来的金融体系】金色财经报道，据Cointelegraph披露，美国白宫加密货币和人工智能主管兼“加密沙皇”David Sacks在比特币2025大会上表示：“我们认为区块链、比特币、加密货币是未来的金融体系。”
-- [日本亮出关税“谈判牌”，提议购买美国芯片产品]() - 📰 null - 【日本亮出关税“谈判牌”，提议购买美国芯片产品】金色财经报道，据日本朝日新闻周三援引政府消息人士的话报道称，作为与美国正在进行的关税谈判的一部分，日本已提议购买价值数十亿美元的美国半导体产品。日本政府将对从英伟达(NVDA.O)等公司收购芯片的国内公司提供补贴，以支持购买总额达数千亿至1万亿日元的芯片。日本政府旨在将这一提议作为解决美国对日贸易逆差的“谈判牌”，目前美国对日贸易逆差约为10万亿日元，英伟达是该提议中的一个关键供应商。该计划还包括支持通过国内生产晶圆和化学品来加强美日半导体供应链，这对芯片制造至关重要。(金十)
-- [美联储威廉姆斯：应当避免通胀变得高度持续]() - 📰 null - 【美联储威廉姆斯：应当避免通胀变得高度持续】金色财经报道，美联储威廉姆斯表示，保持通胀预期稳固至关重要。应当避免通胀变得高度持续，因为那可能会变成永久性问题，避免这种情况的方式是在通胀开始偏离目标时采取相对强烈的应对措施。（金十）
-- [SpaceX星舰在第九次试飞中的30分钟后在太空中失去控制]() - 📰 null - 【SpaceX星舰在第九次试飞中的30分钟后在太空中失去控制】金色财经报道，SpaceX星舰在第九次试飞中的30分钟后在太空中失去控制。(金十)
-- [The ETF Store总裁：Strategy今年表现超过所有74只与加密货币相关的ETF](https://x.com/NateGeraci/status/1927516525965009404) - 📰 null - 【The ETF Store总裁：Strategy今年表现超过所有74只与加密货币相关的ETF】金色财经报道，The ETF Store总裁Nate Geraci在X平台发文表示，Strategy今年的表现超过了所有74只与加密货币相关的ETF，包括2倍杠杆的MSTR（MicroStrategy）ETF。
-- [SpaceX进行星舰第九次试飞，星舰点火发射升空]() - 📰 null - 【SpaceX进行星舰第九次试飞，星舰点火发射升空】金色财经报道，SpaceX进行星舰第九次试飞，星舰点火发射升空。(金十)
+- [澳大利亚监管机构将 Blockchain Global 前董事告上法庭](https://cointelegraph.com/news/australian-regulator-legal-action-former-blockchain-global-director) - 📰 null - 【澳大利亚监管机构将 Blockchain Global 前董事告上法庭】金色财经报道，据Cointelegraph报道，澳大利亚证券投资委员会（ASIC）对 Blockchain Global 前董事 Allan Guo 提起民事诉讼，指控其涉嫌违反董事职责。具体包括： 
+违规处理ACX交易所客户资金； 
+就资金流向作出虚假陈述； 
+未妥善保存财务记录。 
+ACX 交易所于 2019 年 12 月倒闭，清算人调查显示该公司欠无担保债权人 5860 万澳元（约 3770 万美元），其中 2270 万澳元（约 1460 万美元）为交易所客户资金。ASIC 称 Guo 在 2024 年 9 月旅行限制令到期后离境未归。该机构正另案上诉，寻求推翻下级法院对加密公司 Block Earner 的有利裁决。
+- [BlockSec：监测到Usual协议遭黑客攻击，目前协议已暂停](https://x.com/BlockSecTeam/status/1927607817378177316) - 📰 null - 【BlockSec：监测到Usual协议遭黑客攻击，目前协议已暂停】金色财经报道，区块链安全公司 BlockSec 在社交媒体上发文表示，其系统监测到针对去中心化稳定币协议 Usual（USUAL）的黑客攻击，该协议目前已暂停。
+- [日本2年期国债收益率上涨2个基点至0.75%，为自4月3日以来最高水平]() - 📰 null - 【日本2年期国债收益率上涨2个基点至0.75%，为自4月3日以来最高水平】金色财经报道，日本2年期国债收益率上涨2个基点，至0.75%，为自4月3日以来的最高水平；日本5年期国债收益率上涨4.5个基点，至1.045%，为自4月2日以来的最高水平。(金十)
+- [Cetus公布复苏计划，寻求SUI提供过桥贷款](https://decrypt.co/322376/cetus-reveals-recovery-plan-taps-sui-bridge-loan) - 📰 null - 【Cetus公布复苏计划，寻求SUI提供过桥贷款】5月28日消息，Cetus在遭受2.23亿美元漏洞攻击后，公布了一项恢复计划，旨在通过协议级升级从黑客控制的钱包中强制收回1.62亿美元的冻结资金。Cetus已请求社区投票来恢复上周黑客攻击后被冻结的资金。Sui基金会发布了链上社区投票代码，Sui验证者和持有者可以通过质押委托直接投票。投票于5月27日太平洋时间下午1点启动，持续长达七天，需要超过50%的参与度和多数人的批准才能通过。 
+Cetus表示，利用其现金和代币储备，现在能够完全覆盖被盗资产，其中包括来自Sui基金会的一笔重要贷款，这将使所有受影响用户能够100%恢复损失。
+- [特朗普提名的CFTC主席候选人Quintenz披露340万美元加密资产](https://cointelegraph.com/news/trump-cftc-pick-quintenz-discloses-crypto-links-assets) - 📰 null - 【特朗普提名的CFTC主席候选人Quintenz披露340万美元加密资产】5月28日消息，特朗普提名的美国商品期货交易委员会（CFTC）主席候选人Brian Quintenz在政府道德办公室公开文件中申报至少340万美元加密资产，包括a16z加密基金、预测市场平台Kalshi及衍生品经纪商股权。Quintenz为现任a16z加密政策负责人、前CFTC委员。 
+目前白宫尚未就CFTC主席人选发表正式声明，但CFTC官员已确认Brian Quintenz为候选人，若Quintenz正式当选，其将在90天内剥离加密相关资产，并在两年内回避a16z相关事务，一年内不参与Kalshi事项审查。Quintenz的加密投资组合直接涉及CFTC两大监管领域——加密资产与预测市场，且Kalshi本月刚与CFTC就选举押注诉讼达成和解。
+- [Upbit因Zilliqa网络升级暂停充提业务](https://upbit.com/service_center/notice?id=5173https://upbit.com/service_center/notice?id=5173) - 📰 null - 【Upbit因Zilliqa网络升级暂停充提业务】金色财经报道，Upbit宣布因Zilliqa（ZIL）网络升级，将从2025年6月2日11:00（KST）起暂停Zilliqa的充提业务，直至确认网络升级的稳定性。暂停期间，充值和提现流程将暂时停止，但交易不受影响。恢复时间将另行通知。
+- [time.fun现已向所有人开放，并将向第一季创作者分发积分](https://apnews.com/article/crypto-cryptocurrency-kidnapping-new-york-9629e93d0b14db0a288a86489fefc51d) - 📰 null - 【time.fun现已向所有人开放，并将向第一季创作者分发积分】金色财经报道，时间代币化平台time.fun发推表示现已向所有人开放，并将向第一季创作者分发积分。
+- [James Wynn再次向币安转入2037亿枚PEPE，价值282万美元](https://x.com/ai_9684xtpa/status/1927585410571509900) - 📰 null - 【James Wynn再次向币安转入2037亿枚PEPE，价值282万美元】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，交易员James Wynn向币安（Binance）转入2037亿枚PEPE代币，价值约282万美元。数据显示，该地址在过去3小时内已累计向交易所转移4437亿枚PEPE，总价值达617万美元。
+- [某WalletConnect项目方关联地址向Binance转入250万枚WCT，价值234万美元](https://x.com/ai_9684xtpa/status/1927583951876415706) - 📰 null - 【某WalletConnect项目方关联地址向Binance转入250万枚WCT，价值234万美元】金色财经报道，据ai_9684xtpa监测，地址「0x19F...cCA67」于8小时前从WalletConnect项目方多签地址处收到250万枚WCT并转入Binance，价值234万美元。该地址在一个月前代币TGE时也曾收到250万枚代币，向前追溯资金关联或与ArringtonCapital有关，无法确认代币将用于做市或者抛售。
+- [James Wynn增持其40倍比特币多单至6亿美元，当前清算价107,200美元](https://t.me/HyperInsight) - 📰 null - 【James Wynn增持其40倍比特币多单至6亿美元，当前清算价107,200美元】金色财经报道，据HyperInsight监测，巨鲸James Wynn于近30分钟再次增持其40倍比特币多单，目前持仓规模已升至6亿美元： 
+开仓价格：109,669美元； 
+清算价格：107,200美元； 
+浮亏：532万美元； 
+此前报道，2小时前JamesWynn卖出2400亿枚PEPE获得332万美元以增加保证金。
+- [币安现支持使用信用卡/借记卡购买加密货币时设置限价买入订单](https://www.binance.com/en/support/announcement/detail/72e56c79ed794bf9a534461fc331f978) - 📰 null - 【币安现支持使用信用卡/借记卡购买加密货币时设置限价买入订单】金色财经报道，据官方公告，币安宣布用户现在可以在“购买加密货币”服务中设置限价买入订单。用户在使用信用卡或借记卡通过“购买加密货币”功能以当地货币购买加密货币时，可以访问此功能。 
+这一新功能在币安网站和币安专业版（Binance Pro）应用程序上均已上线。通过设置限价买入订单，用户可以设定他们愿意为特定加密资产支付的最高价格，订单只会在用户设定的价格参数范围内执行。
+- [孙宇晨现身Bitcoin 2025：WBTC开启比特币智能合约时代]() - 📰 null - 【孙宇晨现身Bitcoin 2025：WBTC开启比特币智能合约时代】据官方消息，5月27日，火币HTX全球顾问、波场TRON创始人孙宇晨在“Bitcoin 2025”专题讨论会上详细介绍了WBTC的独特价值。他认为，WBTC是比特币进入智能合约平台的关键入口。“通过WBTC，投资者可将比特币用于以太坊、波场、Solana等区块链上的DeFi应用和链上支付等，这将极大地提升比特币的流动性。此外，WBTC采用储备证明系统，所有交易和储备地址均在区块链上公开，存储于冷钱包，确保安全与透明。” 
+孙宇晨还指出，传统金融产品正向区块链迁移，未来将看到更多链上金融产品，释放出巨大的套利与收益潜力。他强调，WBTC只是将比特币引入区块链的第一步，会持续推动这一进程。
+- [BlockSec观察：Cetus 2.23亿美元攻击事件凸显传统安全审计局限性](https://blocksec.com/phalcon/security) - 📰 null - 【BlockSec观察：Cetus 2.23亿美元攻击事件凸显传统安全审计局限性】金色财经报道，协议需要动态安全监控和攻击阻断的全生命周期防护 —— 这是5月22日Cetus协议遭受2.23亿美元攻击后最重要的行业警示。 
+技术分析显示，漏洞源于inter-mate库的checked_shlw函数检查错误，导致攻击者仅用一个代币就能获得巨额流动性。尽管协议及其依赖的代码库历经多轮审计，仍未能发现该致命问题。 
+BlockSec创始人周亚金教授指出，传统的静态代码审计已经远远不够。项目上线前，应进行全面的安全审计，从代码层面深入到项目的经济模型与业务逻辑；项目上线后，更需持续部署如 BlockSec Phalcon 等专业的风险监控系统，实现对攻击、经济、运营、交互等多维风险的实时检测和自动响应。
+- [孙宇晨亮相Bitcoin 2025：坚定看好比特币将续创新高]() - 📰 null - 【孙宇晨亮相Bitcoin 2025：坚定看好比特币将续创新高】据官方消息，5月27日，火币HTX全球顾问、波场TRON创始人孙宇晨亮相2025年比特币大会（Bitcoin 2025），并分享了对比特币及加密生态的深刻洞见。他表示，自2012年进入行业以来，最大的经验教训是“永远不要做空比特币”。只要整个行业持续建设，比特币价格将续创新高。 
+孙宇晨还透露，上周与特朗普总统的晚宴中，总统展现了对比特币和整个加密生态的强烈支持。他认为，特朗普的支持对整个加密货币行业来说意义重大。如果没有特朗普的影响，比特币价格不可能突破10万美元大关。此外，美国作为全球金融监管的领导者，其明确的加密货币监管政策将引领全球更多国家跟进，从而推动更多人进入加密领域。 
+据悉，Bitcoin 2025是全球最大的比特币盛会，于5月27日至29日在美国拉斯维加斯举行，汇聚全球重量级嘉宾，包括：美国副总统JD Vance、特朗普次子Eric Trump、白宫AI与加密货币顾问David Sacks、MicroStrategy联合创始人Michael Saylor、BitMEX联合创始人Arthur Hayes等，共同探讨比特币及加密货币的最新发展趋势，助力推动全球加密生态的创新与变革。
+- [金色午报 | 5月28日午间重要动态一览]() - 📰 null - 【金色午报 | 5月28日午间重要动态一览】7:00-12:00关键词：David Sacks、贝莱德、德克萨斯州 
+1.David Sacks批评参议员Warren反加密立场​； 
+2.贝莱德：建议将投资组合的2%配置给比特币； 
+3.日本亮出关税“谈判牌”，提议购买美国芯片产品； 
+4.灰度新建AI加密行业板块，包含TAO、NEAR、RENDER； 
+5.俄亥俄州长候选人：若当选将把比特币教育纳入公共教育体系； 
+6.美国会议员Byron Donalds：将投票支持《战略比特币储备法案》； 
+7.德克萨斯州比特币储备法案协调委员会提交最终报告，待两院投票通过。
+- [美国现货以太坊ETF昨日净流入3880万美元](https://x.com/FarsideUK/status/1927571878048100564) - 📰 null - 【美国现货以太坊ETF昨日净流入3880万美元】金色财经报道，据Farside Investors监测数据，美国现货以太坊ETF昨日净流入3880万美元。
+- [某新地址1小时前从Bithumb提出12.3万枚ENS，价值282万美元](https://x.com/ai_9684xtpa/status/1927569919261974655) - 📰 null - 【某新地址1小时前从Bithumb提出12.3万枚ENS，价值282万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，新地址0x876...03D3E1小时前从Bithumb提出12.3万枚ENS，价值282万美元，ENS近24小时涨幅4.89%，现价22.92美元。
+- [MilkyWay：第一阶段空投申领将于明日截止](https://x.com/MilkyWayFDN/status/1927565541629137087) - 📰 null - 【MilkyWay：第一阶段空投申领将于明日截止】金色财经报道，Celestia流动性质押协议MilkyWay基金会发布提醒，第一阶段的空投申领截止日期为5月29日18时（UTC+8），所有未领取的MILK将分配给社区财库。
+- [贝莱德：建议将投资组合的2%配置给比特币](https://x.com/rovercrc/status/1927558345054949773) - 📰 null - 【贝莱德：建议将投资组合的2%配置给比特币】金色财经报道，据Crypto Rover报道，管理11万亿美元资产的全球最大资产管理公司贝莱德相关发言人在Bitcoin 2025大会建议将投资组合的2%配置给比特币。
+- [Starknet推出USDC储备1:1支持的符文资产]() - 📰 null - 【Starknet推出USDC储备1:1支持的符文资产】金色财经报道，Starknet宣布推出由USDC储备1:1支持的符文稳定币，每个USDC将在比特币上以符文资产的形式被铸造，用户可通过Starknet的Runes Bridge在合约级别无信任地赎回USDC。
