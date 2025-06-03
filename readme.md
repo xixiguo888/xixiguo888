@@ -1,32 +1,48 @@
-- [SOL Strategies 2025年Q2净亏损350万美元](https://cointelegraph.com/news/sol-strategies-reports-q2-net-loss-staking-validating-revenue-surge) - 📰 null - 【SOL Strategies 2025年Q2净亏损350万美元】6月3日消息，加拿大全球公开上市公司SOL Strategies，在2025年第二季度录得350万美元净亏损，尽管其质押和验证收入显著增长。财报显示，该公司Q2收入达185万美元，较去年同期的6.7万美元大幅增长，主要来源于Solana和Sui的质押和节点验证奖励，包括自有资产质押以及第三方委托所得佣金。
-- [ARK 21Shares Bitcoin ETF拟于6月16日进行“一拆三”股票拆分](https://www.globenewswire.com/news-release/2025/06/02/3092350/0/en/21Shares-Announces-3-for-1-Share-Split-for-ARK-21Shares-Bitcoin-ETF-ARKB.html) - 📰 null - 【ARK 21Shares Bitcoin ETF拟于6月16日进行“一拆三”股票拆分】金色财经报道，加密货币交易所交易基金发行商21Shares AG关联公司21Shares US LLC宣布对旗下比特币交易所交易基金ARK 21Shares Bitcoin ETF(ARKB) 进行一拆三的股票拆分，旨在让投资者群体更容易获得股票并提高交易效率。据悉，股票拆分交易拟于2025年6月16日生效，拆分后将继续以股票代码“ARKB”在原有的CUSIP框架下交易，ARKB的总资产净值(NAV)不会因拆分而发生变化，同时投资目标、策略和标的持仓保持不变。
-- [广发证券：香港稳定币草案带来短期结构性机会 跨境支付等板块料受益]() - 📰 null - 【广发证券：香港稳定币草案带来短期结构性机会 跨境支付等板块料受益】金色财经报道，广发证券称，香港的稳定币监管框架可能为内地企业通过香港发行人民币锚定的稳定币用于跨境贸易和投资提供合规渠道，增强其在全球市场的竞争力，吸引增量资金进入A股。但考虑到虚拟货币政策环境仍较为严苛，大规模增量资金进入A股的概率偏低。短期内可能给股市带来结构性机会，数字货币、跨境支付、区块链、RWA（现实世界资产通证化）等板块或受提振。稳定币或成为美国捍卫美元地位的战略工具，一定程度上缓解美元和美债的抛售压力。不过由于稳定币规模有限且竞争加剧等原因，短期对美元和美债的提振作用有限。(金十)
-- [某鲸鱼以36美元均价增持超11万枚HYPE，同时以4倍做多HYPE](https://x.com/OnchainLens/status/1929706437410017763) - 📰 null - 【某鲸鱼以36美元均价增持超11万枚HYPE，同时以4倍做多HYPE】金色财经报道，据Onchain Lens监测，一鲸鱼地址花费399万美元以每36美元均价购买了110,824枚HYPE，并以4倍杠杆对HYPE开设了多头头寸。
-- [Wintermute回应James Wynn：一场出色的HL营销活动](https://x.com/EvgenyGaevoy/status/1929545674141413585) - 📰 null - 【Wintermute回应James Wynn：一场出色的HL营销活动】金色财经报道，Wintermute创始人wishful_cynic昨日于社交平台发文称，“但总的来说，我认为wynn只是一个执行得很出色的HL（Hyperliquid）营销活动，干得漂亮。他很优秀。他的推文也很棒” 
-此前早些时候，巨鲸James Wynn在其社交平台发布其比特币多单持仓图，并@ Wintermute官方账号称，“我回来了”。对此加密分析师@ai_9684xtpa表示，“众所周知上一轮BTC多单惨败明显是有人在狙击他，这样公开叫板，莫非这次“猎鲸小分队”就是冬季？的确资金体量和操盘能力是可以匹配上的，又有好戏看了。”
-- [Fasanara Capital 24小时内向交易所存入5,626枚ETH，约合1,434万美元](https://x.com/OnchainDataNerd/status/1929705749716025605) - 📰 null - 【Fasanara Capital 24小时内向交易所存入5,626枚ETH，约合1,434万美元】金色财经报道，据The Data Nerd监测，过去24小时内，Fasanara Capital向多家交易所（包括Coinbase、Copper、Gemini等）累计存入5,626枚ETH（约合1,434万美元），随后将等值USDC提至其钱包。
-- [OSL集团拟以1500万美元收购Evergreen Crest Holdings Ltd 90%的股份](https://t.wind.com.cn/mobwftweb/M/news.html?lan=zh&device=ios&terminaltype=wwt.m&version=25.2.0#/3F2135754FF7297E7C65FAC7BDD1C618&code=826C67011F5F&share=wechat) - 📰 null - 【OSL集团拟以1500万美元收购Evergreen Crest Holdings Ltd 90%的股份】金色财经报道，OSL集团 (00863) 宣布，其全资附属公司OSL Midaspay Limited于5月30日与Lau Shu Ming签订购股协议，以1500万美元（约1.17亿港元）收购Evergreen Crest Holdings Ltd已发行股份总数的90%。交易通过发行代价股份支付，完成后目标公司将成为OSL集团的间接附属公司。 
-目标公司目前正通过旗下附属公司运营数字资产交易所，并持有印尼期货经纪商牌照及加密货币交易商牌照。此次收购将为OSL集团进入印尼数字资产市场提供战略性通道。
-- [阿联酋SCA推出首个“Finfluencer”牌照以规范数字金融内容](https://www.sca.gov.ae/en/media-center/news/28/5/2025/sca-launches-regions-first-finfluencer-license-to-regulate-digital-financial-content.aspx) - 📰 null - 【阿联酋SCA推出首个“Finfluencer”牌照以规范数字金融内容】6月3日消息，据官方公告，阿联酋证券与商品管理局（SCA）正式推出区域首个“Finfluencer”牌照，旨在规范数字平台上的金融内容创作。 
-据悉，该牌照适用于通过数字或传统媒体提供与受监管产品或实体相关的投资建议的个人。申请者需注册并遵守相关法规。为鼓励创新，SCA宣布将在未来三年内免除该服务的注册、续费及法律咨询费用。 
-SCA首席执行官H.E. Waleed Saeed Al Awadhi表示，该牌照不仅是监管措施，更是对数字金融快速发展的战略响应，旨在提升市场诚信、促进透明度，并营造可信赖的金融环境。
-- [比特币反弹后James Wynn高杠杆BTC仓位回本，曾一度浮亏217万美元](https://x.com/EmberCN/status/1929691522179780800) - 📰 null - 【比特币反弹后James Wynn高杠杆BTC仓位回本，曾一度浮亏217万美元】金色财经报道，据余烬监测，James Wynn的高杠杆BTC仓位一度浮亏217万美元、距离清算仅差20美元，然而BTC随后反弹，使其成功回本。该仓位为40倍杠杆多单，持有945枚BTC，总价值约1亿美元，建仓价为105,890美元，清算价为103,622美元。市场曾普遍关注BTC是否会跌破103,610美元触发清算，但目前走势已反转，暂时脱离风险区。
-- [特朗普加密项目WLFI向BitGo发送1000万枚USDC](https://x.com/OnchainLens/status/1929699802297913739) - 📰 null - 【特朗普加密项目WLFI向BitGo发送1000万枚USDC】金色财经报道，据Onchain Lens监测，特朗普加密项目WLFI地址已向BitGo发送1000万枚USDC。BitGo提供机构级数字资产安全、托管和流动性服务。
-- [Tether在TON链上推出跨链黄金稳定币XAUt0](https://financefeeds.com/tether-launches-omnichain-gold-token-xaut0-on-ton-blockchain/) - 📰 null - 【Tether在TON链上推出跨链黄金稳定币XAUt0】金色财经报道，Tether宣布与TON Foundation合作推出XAUt0，这是一种基于LayerZero的Omnichain Fungible Token（OFT）标准的跨链黄金稳定币，XAUt0基于Tether的黄金稳定币XAUt，后者每枚代币由1金衡盎司的实物黄金支持，存储于瑞士金库。XAUt0可在多个区块链间自由流转，无需依赖中间链或进行资产包装，技术上与此前推出的跨链美元稳定币USDT0类似。
-- [Binance US将上线HYPE现货交易](https://x.com/BinanceUS/status/1929622945045139800) - 📰 null - 【Binance US将上线HYPE现货交易】金色财经报道，据官方公告，Binance US宣布即将上线Hyperliquid（HYPE）现货交易，具体开盘时间待公布。HYPE是去中心化交易所Hyperliquid的平台代币。
-- [BTC突破106000美元]() - 📰 null - 【BTC突破106000美元】金色财经报道，行情显示，BTC突破106000美元，现报106010.6美元，24小时涨幅达到0.28%，行情波动较大，请做好风险控制。
-- [James Wynn比特币多单浮亏缩窄至10万美元](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【James Wynn比特币多单浮亏缩窄至10万美元】金色财经报道，据链上数据，James Wynn昨日新开设的40倍比特币多单浮亏已缩窄至10万美元，清算价103,620美元。目前其多单持仓规模达99,984,429.46美元，开仓价为105,890.3美元。昨日晚间，该多单仓位距离被清算一度仅差20美元的空间。
-- [币安前高管Colin Goltra接任Morph CEO](https://x.com/cecilia_hsueh/status/1929567642521948592) - 📰 null - 【币安前高管Colin Goltra接任Morph CEO】6月3日消息，Morph Layer联合创始人兼CEO Cecilia Hsueh在社交媒体发文表示，将正式卸任CEO职位，并将转任顾问角色。Morph Layer的领导权已于3个月前开始交接，目前已完成。接任CEO职位的是Goltra，他曾担任YGG的COO和Binance的高管。Cecilia对Goltra的能力表示信任，并认为他是引领Morph Layer进入下一阶段的合适人选。
-- [Robinhood以2亿美元完成对加密货币交易所Bitstamp的收购](https://cointelegraph.com/news/robinhood-200-million-acquisition-bitstamp) - 📰 null - 【Robinhood以2亿美元完成对加密货币交易所Bitstamp的收购】金色财经报道，Robinhood Markets, Inc.已完成对卢森堡加密货币交易所Bitstamp价值2亿美元的收购。此次收购为其加密货币部门增加了50多个许可证和注册，并带来了成熟的机构客户群。 
-Robinhood于6月2日表示，此次交易对价仍为2亿美元，与2024年6月的初步协议一致，并全部以现金支付。Bitstamp为超过5,000家机构客户和50,000名散户投资者提供服务，其大部分交易量来自机构客户。
-- [金色晨讯 | 6月3日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 6月3日隔夜重要动态一览】21:00-7:00关键词：Circle、Strategy、WisdomTree、SharpLink Gaming 
-1.Circle已上调IPO发行规模和定价区间； 
-2.美联储6月维持利率不变的概率为95.3%； 
-3.SharpLink Gaming完成4.25亿美元私募融资，Consensys领投； 
-4.Strategy拟发行250万股“Stride”优先股，为其比特币战略提供资金； 
-5.美SEC就WisdomTree比特币基金的实物创建和赎回征求反馈意见； 
-6.以太坊基金会重组核心研发团队，聚焦三大战略目标并更名为“Protocol”； 
-7.Tether与Bitfinex向Twenty One Capital投资，合计转入超2.58万枚比特币。
-- [昨日ARKB净流出7390万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流出7390万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流出7390万美元，灰度GBTC净流出1650万美元。
-- [ETH突破2600美元]() - 📰 null - 【ETH突破2600美元】金色财经报道，行情显示，ETH突破2600美元，现报2602.39美元，24小时涨幅达到2.38%，行情波动较大，请做好风险控制。
-- [Coinbase将Ethena (ENA) 列入上币路线图](https://x.com/CoinbaseAssets/status/1929650402972103087) - 📰 null - 【Coinbase将Ethena (ENA) 列入上币路线图】金色财经报道，Coinbase将Ethena (ENA) 列入上币路线图。
+- [OKX将上线NXPC、LAUNCHCOIN和MUBARAK永续合约]() - 📰 null - 【OKX将上线NXPC、LAUNCHCOIN和MUBARAK永续合约】据官方公告，OKX将于2025年6月3日下午6:00~6:30(UTC+8)在网页端、App端及API正式上线NXPCUSDT、LAUNCHCOINUSDT和MUBARAKUSDT永续合约。开盘时间如下： 
+NXPCUSDT合约交易开盘时间：6月3日下午6:00(UTC+8) 
+LAUNCHCOINUSDT合约交易开盘时间：6月3日下午6:15(UTC+8) 
+MUBARAKUSDT合约交易开盘时间：6月3日下午6:30(UTC+8)
+- [因宣布比特币储备计划，挪威加密交易平台NBX股价单日上涨138%](https://cointelegraph.com/news/norwegian-block-exchange-stock-rises-bitcoin-plan) - 📰 null - 【因宣布比特币储备计划，挪威加密交易平台NBX股价单日上涨138%】6月3日消息，挪威加密货币交易平台Norwegian Block Exchange（NBX）宣布启动比特币储备计划，其股价在6月2日单日上涨超138%。NBX表示已购入6枚比特币（约合63.37万美元），并计划在本月内将持仓扩大至10枚比特币。 
+此外，该公司正在继续筹集资金以进一步购买比特币。NBX计划将这些比特币用作抵押品，以在Cardano区块链上发行稳定币USDM，并通过Cardano生态系统实现收益增长。公司还透露，其董事会正在研究推出比特币支持的贷款服务，以推进成为数字资产银行的目标。
+- [Upbit暂停BERA Chain（BERA）充提业务](https://upbit.com/service_center/notice?id=5197) - 📰 null - 【Upbit暂停BERA Chain（BERA）充提业务】金色财经报道，据官方消息，因BERA Chain（BERA）即将进行硬分叉，将从2025年6月4日11:00（KST）起暂停BERA的充提业务，直至确认硬分叉的稳定性。暂停期间，充值和提现流程将暂时停止，但交易不受影响。恢复时间将另行通知。
+- [截至5月，持有超过1,000个比特币的钱包数量已攀升至1,455个](https://x.com/Cointelegraph/status/1929780125106643095) - 📰 null - 【截至5月，持有超过1,000个比特币的钱包数量已攀升至1,455个】金色财经报道，截至2025年5月，持有超过1,000个比特币的钱包数量已攀升至1,455个，标志着鲸鱼再次开始囤积。
+- [瑞银：继续看多10年期美债]() - 📰 null - 【瑞银：继续看多10年期美债】金色财经报道，据金十数据报道，瑞银利率策略师在最新报告中表示，由于经济增长风险仍存，该行继续看多10年期美债。“我们认为，市场低估了经济放缓的风险，而5月和6月相对温和的美国CPI数据也将支撑10年期美债的表现。”策略师们指出，尽管家庭通胀预期指标有所上升，但尚未转化为明显的薪资上涨压力。此外，他们还提到，若美国参议院对众议院提出的“美丽大法案”做出调整，进一步削减支出，也有望缓解市场对财政赤字扩大的担忧。不过，瑞银也认为，在未来几个月内，10年期美债收益率可能难以跌破4%。
+- [加密游说团敦促美国参议院尽快通过稳定币法案（GENIUS Act）](https://cointelegraph.com/news/crypto-lobby-pushes-senate-pass-stablecoin-bill-without-debate) - 📰 null - 【加密游说团敦促美国参议院尽快通过稳定币法案（GENIUS Act）】金色财经报道，据Cointelegraph报道，美国参议院即将就稳定币监管法案《 Guiding and Establishing National Innovation for US Stablecoins （ GENIUS ）Act》展开辩论。加密游说团体呼吁参议员尽快通过该法案，因为关于信用卡手续费的修订提案可能导致法案延迟。 
+该法案已于5月通过程序性投票，预计本周内获得足够票数通过参议院并提交至众议院。Blockchain Association、Crypto Council for Innovation、Digital Chamber和DeFi Education Fund等加密团体联合声明，强调法案的核心目标是为稳定币监管提供全面的解决方案，并呼吁立法者保持积极推进的势头。
+- [ZachXBT：跨链桥声称创下交易量记录时，往往与朝鲜黑客洗钱有关]() - 📰 null - 【ZachXBT：跨链桥声称创下交易量记录时，往往与朝鲜黑客洗钱有关】金色财经报道，链上侦探ZachXBT在社交媒体发文表示，当跨链桥宣布月度交易量或使用量创新高时，这些数据很可能包含来自朝鲜通过黑客攻击获取资金后进行的洗白活动。近期此类活动主要与Bybit黑客事件相关，黑客通过频繁的链上跳转来混淆资金流向并规避地址筛查，从而导致跨链桥的交易量数据被显著夸大。
+- [德克萨斯州议员因未按规定期限披露比特币购买行为引发质疑](https://decrypt.co/323393/texas-lawmaker-misses-disclosure-deadline-bitcoin) - 📰 null - 【德克萨斯州议员因未按规定期限披露比特币购买行为引发质疑】金色财经报道，据OpenSecrets周一报道，德克萨斯州众议员布兰登·吉尔（共和党）未能在联邦法律规定的45天期限内妥善披露高达50万美元的比特币购买行为，这再次引发了关于加密货币投资议员的透明度和利益冲突问题的质疑。 
+吉尔报告称，他在1月29日和2月27日分别购买了价值10.001万至25万美元的比特币，但直到周一才披露这些交易，远远超出了《禁止利用国会消息交易法案》（STOCK法案）所要求的截止日期。Decrypt已联系吉尔办公室征求意见。 
+STOCK法案于2012年通过，旨在遏制内幕交易，并通过要求及时报告议员的证券交易（包括涉及数字资产的交易）来确保问责制。
+- [Sky已为SKY质押引入稳定币激励](https://info.sky.money/rewards/0x38e4254bd82ed5ee97cd1c4278faae748d998865) - 📰 null - 【Sky已为SKY质押引入稳定币激励】金色财经报道，据官网页面信息，Sky（原Maker）已开始为SKY代币质押提供稳定币激励，激励以USDS形式发放，当前SKY质押的APY为17.48%。 
+此前消息，两鲸鱼从Binance提取价值540万美元MKR，并进行质押。
+- [特朗普：受益于关税，美国经济正在蓬勃发展]() - 📰 null - 【特朗普：受益于关税，美国经济正在蓬勃发展】金色财经报道，特朗普在其Truth平台发文表示，受益于关税，美国经济正在蓬勃发展。
+- [Solana基金会宣布与迪拜虚拟资产监管局签署一份谅解备忘录](https://x.com/SolanaFndn/status/1929768424080871879) - 📰 null - 【Solana基金会宣布与迪拜虚拟资产监管局签署一份谅解备忘录】金色财经报道，据官方消息，Solana 基金会刚刚与迪拜虚拟资产监管局（VARA）签署了一份谅解备忘录（MOU），为加密建设者与监管机构之间的深入合作奠定了基础： 
+人才发展计划 
+共享经济影响和行业数据 
+为创业者举办研讨会和提供咨询服务 
+支持在迪拜建立 Solana 经济特区 
+迪拜已经是全球最具加密友好态度的城市之一。这项合作将帮助 Solana 创始人直接融入这一发展势头。
+- [Plume任命Dan Levine为新工程主管，领导工程团队](https://x.com/plumenetwork/status/1929756025579884975) - 📰 null - 【Plume任命Dan Levine为新工程主管，领导工程团队】金色财经报道，RWA公链Plume发推表示，其已任命Dan Levine为新工程主管，领导工程团队。Dan Levine去年加入Plume，曾创立Style Seat（电商平台），后投身加密领域，创立Swan开发比特币金融服务。此外，原计划上周开启的Plume Genesis将于本周启动。
+- [部分上线Binance Alpha的BSC生态代币拉升，BOB 24小时涨超110%](https://t.me/gmgnaibot?start=i_m4TE56o8) - 📰 null - 【部分上线Binance Alpha的BSC生态代币拉升，BOB 24小时涨超110%】金色财经报道，据GMGN行情信息，今日部分上线Binance Alpha的BSC生态代币拉升，其中： 
+BOB24小时涨超110%，市值现报3061万美元； 
+Ghibli24小时涨幅超90%，市值现报110万美元； 
+BID24小时涨幅达58%，市值现报4044万美元； 
+PORT324小时涨幅达47.66%，市值现报5731万美元； 
+AICELL24小时涨幅达47.32%，市值现报251万美元。
+- [Hyperliquid联创发文回应社区批评，强调“透明订单簿”设计虽具争议但具前瞻性](https://x.com/chameleon_jeff/status/1929753039969440212) - 📰 null - 【Hyperliquid联创发文回应社区批评，强调“透明订单簿”设计虽具争议但具前瞻性】金色财经报道，Hyperliquid联创Jeff发文回应社区批评，强调“透明订单簿”设计虽具争议但具前瞻性。他提出四大市场结构原则：反对将隐私误认作执行优势、强调竞争对提高成交质量的核心作用、指出重复博弈有利于优化行为，以及系统级透明才能实现信息对称。Jeff认为Hyperliquid借助L4透明订单簿、取消优先权机制等，提升了交易质量，并能有效过滤“有毒流量”，挑战传统OTC和暗池逻辑。
+- [俄罗斯最大银行Sber发行与比特币挂钩的债券](https://cointelegraph.com/news/russia-sber-launches-bitcoin-linked-bonds) - 📰 null - 【俄罗斯最大银行Sber发行与比特币挂钩的债券】金色财经报道，俄罗斯最大的商业银行斯伯尔（Sber）推出了一种与比特币挂钩的债券产品，可跟踪加密货币的价格变化和美元兑卢布的汇率。该公司前身为俄罗斯储蓄银行（Sberbank）在5月30日的一份声明中表示，该产品已在场外市场向合格投资者发售，Sber计划未来将该产品在莫斯科证券交易所上市。 
+斯伯尔补充说，上市将确保透明度、流动性，并为广大合格投资者提供便利，结构性债券可以让持有者从比特币的美元价值变化中获得收益  和美元对俄罗斯卢布的升值中获取收益。
+- [a16z合伙人：并未发布代币a16ze](https://x.com/mandrusko1/status/1929673569824280975) - 📰 null - 【a16z合伙人：并未发布代币a16ze】金色财经报道，a16z合伙人Marc Andrusko今晨回应社区表示，自己和a16z都与代币a16ze或b16z毫无关系。此外，Believe创始人Ben Pasternak澄清表示自己与a16z并无关联。 
+受上述消息影响，通过Believe平台发布的代币A16ZE昨夜市值上冲至1200万美元上方后，快速下跌，截止发稿，代币市值仅剩33.2万美元。
+- [Multicoin Capital联创评以太坊基金会裁员计划及发展方向：目标之间相互矛盾](https://x.com/KyleSamani/status/1929743016660472212) - 📰 null - 【Multicoin Capital联创评以太坊基金会裁员计划及发展方向：目标之间相互矛盾】6月3日消息，针对以太坊基金会今日提出的裁员计划及后续发展方向，Multicoin Capital联创Kyle Samani评论表示，“请注意，“专注”这个词的定义通常意味着“更少”，而不是“更多”，尤其是目标之间不应相互冲突。但当我们从目标3（即L1、L2网络扩展，提高用户体验）的角度来看时，目标1（即裁员）与目标2（即明确职责分工）是相互矛盾的。”
+- [金色午报 | 6月3日午间重要动态一览]() - 📰 null - 【金色午报 | 6月3日午间重要动态一览】7:00-12:00关键词：ENA、XAUt0、Polymer、Bitstamp 
+1.Coinbase将Ethena (ENA) 列入上币路线图； 
+2.Tether在TON链上推出跨链黄金稳定币XAUt0； 
+3.数据：机构买家2025年至今增持417,000枚BTC； 
+4.互操作协议Polymer发布预告，疑似将于10日TGE； 
+5.美参议院最快可能在6月9日前进行表决GENIUS稳定币法案； 
+6.Robinhood以2亿美元完成对加密货币交易所Bitstamp的收购； 
+7.Sonic：空投将于本月启动，总计1.905亿枚S代币，首批可领取25%。
+- [路透社：Coinbase数据泄露事件与印度外包商员工有关](https://www.reuters.com/sustainability/boards-policy-regulation/coinbase-breach-linked-customer-data-leak-india-sources-say-2025-06-02/) - 📰 null - 【路透社：Coinbase数据泄露事件与印度外包商员工有关】金色财经报道，据路透社报道，Coinbase在1月就已知其外包商TaskUs在印度的员工泄露客户数据，部分与该交易所估损达4亿美元的安全事件有关。 
+据悉，一名TaskUs女员工曾用手机拍摄电脑屏幕并与同伙将客户信息卖给黑客换取贿赂，事件曝光后超200名员工遭解雇。Coinbase已与涉事员工及其他海外代理切断合作关系，并加强控制措施。据称，该事件1月已通报Coinbase，但公司直到5月收到敲诈才意识到事态严重。
+- [某ETH ICO巨鲸6小时前再次向CEX存入617枚ETH]() - 📰 null - 【某ETH ICO巨鲸6小时前再次向CEX存入617枚ETH】金色财经报道，据@ai_9684xtpa监测，2015年ICO10万枚ETH的OG近两周抛售ETH的数量增长至4620枚了，平均充值价格2592美元，若卖出将获利1197万美元。6小时前该地址再次向Kraken充值617ETH（158万美元），目前仍剩余24,381ETH，成本低至0.31美元。
