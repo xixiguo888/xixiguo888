@@ -1,28 +1,32 @@
-- [摩根士丹利启动为马斯克的x.AI筹集50亿美元债务融资的交易](https://www.cls.cn/detail/2046839) - 📰 null - 【摩根士丹利启动为马斯克的x.AI筹集50亿美元债务融资的交易】金色财经报道，摩根士丹利启动为马斯克的x.AI筹集50亿美元债务融资的交易。
-- [鲍威尔：政府必须理解美元潜在的剧烈波动的影响](https://flash.jin10.com/detail/20250603010813352800) - 📰 null - 【鲍威尔：政府必须理解美元潜在的剧烈波动的影响】金色财经报道，美联储主席鲍威尔在一场活动上致开幕词，他表示，美联储仍需深入了解其他国家政府和央行的政策与实践，及其对美国经济和金融市场的影响。20世纪70年代布雷顿森林体系的终结从根本上改变了货币政策的实施方式，汇率政策现在主要由美国财政部负责，政策制定者必须理解美元潜在的更剧烈波动对美国家庭和企业的影响。据悉，美联储主席鲍威尔未对货币政策和经济前景发表评论。
-- [鲍威尔在讲话中没有评论经济和利率前景](https://www.cls.cn/detail/2046835) - 📰 null - 【鲍威尔在讲话中没有评论经济和利率前景】金色财经报道，美联储主席鲍威尔在讲话中没有评论经济和利率前景。
-- [美联储古尔斯比：在未来12到18个月内，利率有望下降](https://www.cls.cn/detail/2046836) - 📰 null - 【美联储古尔斯比：在未来12到18个月内，利率有望下降】金色财经报道，美联储古尔斯比表示，仍认为在未来12到18个月内，利率有望下降。如果度过颠簸时期，可以重回降息之路。
-- [全网比特币合约未平仓头寸达722.3亿美元](https://www.coinglass.com/BitcoinOpenInterest) - 📰 null - 【全网比特币合约未平仓头寸达722.3亿美元】金色财经报道，据 Coinglass 数据显示，全网比特币期货合约未平仓头寸为 69.161 万枚 BTC（约合 722.3 亿美元）。 
-其中 CME 比特币合约未平仓头寸为 15.828 万枚 BTC（约合 165.2 亿美元），位列第一；Binance 比特币合约未平仓头寸为 11.795 枚 BTC（约合 123.2 亿美元），位列第二。
-- [彭博社：特朗普推动将加密货币纳入养老金账户，但仍面临福利诉讼风险](https://news.bloomberglaw.com/daily-labor-report/trumps-crypto-401k-push-must-overcome-benefit-litigation-risk) - 📰 null - 【彭博社：特朗普推动将加密货币纳入养老金账户，但仍面临福利诉讼风险】金色财经报道，据彭博社，对于有法律义务监管员工 401(k) 投资的雇主而言，潜在的诉讼风险可能会阻碍美国总统唐纳德·特朗普推动将更多加密货币纳入员工退休账户的努力。 
-美国劳工部已撤销拜登政府时期的指导意见，该意见曾警告企业退休计划避免配置数字资产。这是白宫更广泛政策转向的一部分，旨在推动将 401(k) 账户开放给包括私募股权在内的另类资产，尤其是在特朗普支持的企业加码比特币投资之际。 
-目前，加密资产在价值达 9 万亿美元的 401(k) 市场中所占比例不到 1%，而该市场传统上几乎完全集中于股票和债券。 
-注：福利诉讼（benefit litigation）指的是员工、退休人员或其代表针对雇主、养老计划管理者（受托人）或相关机构，就退休金、401(k)、医保等雇员福利计划提出的法律诉讼。
-- [交易员Willy Woo：市场正处于“清算季”，现阶段不宜做多](https://x.com/woonomic/status/1929563136140411091) - 📰 null - 【交易员Willy Woo：市场正处于“清算季”，现阶段不宜做多】金色财经报道，交易员 Willy Woo 在 X 平台发文称，目前并非押注比特币上涨的好时机，市场正处于“清算猎杀季”。他指出，由于衍生品市场杠杆水平较高，比特币难以上涨，需先洗清过多的“赌场投机者”后，才可能开启下一轮创新高行情。
-- [分析：James Wynn此前将80万枚USDC存入CEX却发起募款令人生疑](https://x.com/ai_9684xtpa/status/1929568434800791937) - 📰 null - 【分析：James Wynn此前将80万枚USDC存入CEX却发起募款令人生疑】金色财经报道，据@ai_9684xtpa在 X 平台发文表示，“巨鲸 James Wynn 选择“水滴筹”真的是很抽象的决定，且不说他之前赚了多少钱，是否有其他资金可用，今早他卖掉的 HYPE 就价值 417 万美元，其中 298 万枚 USDC 充值进 Hyperliquid 用于保证金，其余 80 万枚充值进了 Kucoin，这笔资金为何不能提出用作保证金呢，似乎只有“交易所内有另一个订单”的说法可以解释？”
-- [Consensys收购钱包基础设施提供商Web3Auth，具体金额暂未披露](https://www.theblock.co/post/356569/consensys-metamask-web3auth-acquisition) - 📰 null - 【Consensys收购钱包基础设施提供商Web3Auth，具体金额暂未披露】金色财经报道，区块链软件开发公司 Consensys 宣布收购钱包基础设施提供商 Web3Auth，交易金额未披露。此次收购旨在提升其旗下钱包 MetaMask 的用户体验。 
-Consensys 表示，此举特别是为了解决自托管过程中“最大的风险之一”——助记词管理问题。根据数据，大约有 35% 的用户未备份助记词，导致其资金面临丢失风险。通过整合 Web3Auth，MetaMask 用户将可使用熟悉的 Web2 登录方式（如社交账号和设备认证）来创建和恢复钱包，无需手动备份助记词，从而降低资金丢失的风险。
-- [美股上市公司NewGenIvf计划投资3000万美元质押数字资产Solana](https://www.globenewswire.com/news-release/2025/06/02/3091848/0/en/NewGen-Announces-Planned-30-Million-Strategic-Investment-in-Solana-Digital-Asset-Staking.html) - 📰 null - 【美股上市公司NewGenIvf计划投资3000万美元质押数字资产Solana】金色财经报道，纳斯达克上市公司NewGenIvf Group Limited宣布计划投资3000万美元质押数字资产Solana，据悉该公司已于去年12月完成了100万美元的比特币投资，本次扩大3000万美元Solana仓位是其扩展数字资产战略的一部分，后续还计划成立一家专注于数字资产运营和投资的子公司。
-- [巨鲸James Wynn收到约4万美元捐赠资金，已用于补充保证金降低清算价](https://x.com/EmberCN/status/1929567045080977907) - 📰 null - 【巨鲸James Wynn收到约4万美元捐赠资金，已用于补充保证金降低清算价】金色财经报道，据链上分析师余烬监测，巨鲸 James Wynn 发布资金筹集推文至今，在不到两个小时的时间内，已收到了大约 4 万美元的资金。 
-他将其中 3 万美元转进了 Hyperliquid 补充保证金，把 40 倍杠杆 BTC 多仓清算价格小幅度的降到了 103,610 美元。
-- [马斯克旗下XAI正在进行一笔3亿美元的股票出售交易](https://flash.jin10.com/detail/20250603001857996800) - 📰 null - 【马斯克旗下XAI正在进行一笔3亿美元的股票出售交易】金色财经报道，据英国金融时报，马斯克旗下的XAI公司正在进行一笔3亿美元的股票出售交易，此次交易对该公司的估值为1130亿美元。
-- [NBX成为挪威首家持有比特币作为财库资产的上市公司](https://x.com/BitcoinMagazine/status/1929563914905219325) - 📰 null - 【NBX成为挪威首家持有比特币作为财库资产的上市公司】金色财经报道，据 Bitcoin Magazine，加密货币交易平台兼数字资产平台 Norwegian Block Exchange（简称 NBX）现已将比特币纳入公司资产负债表，成为挪威首家公开上市、持有比特币作为财库资产的公司。
-- [Arthur Hayes：巨鲸James Wynn很可能在匿名地址进行对冲交易](https://x.com/CryptoHayes/status/1929561909205807353) - 📰 null - 【Arthur Hayes：巨鲸James Wynn很可能在匿名地址进行对冲交易】金色财经报道，BitMEX 联合创始人 Arthur Hayes 在社交平台发文表示，“我开始觉得这（指巨鲸 James Wynn 试图 0 成本募资）可能会成为加密圈史上最成功的交易平台营销活动之一。HYPE 必将获胜。另外，这家伙很可能就是在另一个匿名地址进行对冲交易，专门为了薅 Hyperliquid 下一轮空投。”
-- [Cango与EWCL达成总价为7000万美元的1000万股B类普通股出售协议](https://www.prnewswire.com/news-releases/cango-inc-announces-definitive-agreement-with-founders-and-ewcl-302470561.html) - 📰 null - 【Cango与EWCL达成总价为7000万美元的1000万股B类普通股出售协议】金色财经报道，纽约证券交易所上市公司Cango宣布其联合创始人Xiaojun Zhang和Jiayuan Lin，以及旗下控股公司已与Enduring Wealth Capital Limited（EWCL）达成证券购买协议，拟出售1000万股B类普通股，总购买价为7000万美元（其中1,500万美元仅在满足特定条件后支付）。 
-此前消息，Cango宣布其董事会已批准一项股票回购计划，拟从2025年4月25日开始的未来12个月内回购已发行美国存托股票（ADS）和 A 类普通股，回购规模将达到3000万美元。
-- [Kraken已开始向FTX债权人分配资金](https://x.com/sunil_trades/status/1929545667476603145) - 📰 null - 【Kraken已开始向FTX债权人分配资金】金色财经报道，FTX 债权人代表 Sunil 在社交平台上表示，“FTX 债权人已在其 Kraken 账户中收到 FTX 的分配款项。” 
-此前报道，FTX 在 X 平台发文宣布已启动第二阶段用户偿还程序，预计将向债权人发放超过 50 亿美元。
-- [巨鲸James Wynn已累计将捐赠所得39,345枚USDC存入Hyperliquid](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【巨鲸James Wynn已累计将捐赠所得39,345枚USDC存入Hyperliquid】金色财经报道，据链上数据，巨鲸 James Wynn 目前已累计将捐赠所得到的 39,345.11 枚 USDC 存入 Hyperliquid。
-- [某巨鲸向币安存入 3000 枚 ETH，约合 753 万美元]() - 📰 null - 【某巨鲸向币安存入 3000 枚 ETH，约合 753 万美元】金色财经报道，据 Onchain Lens 监测，某巨鲸向币安存入 3000 枚 ETH，价值 753 万美元，过去两周已存入 1 万枚 ETH。
-- [巨鲸James Wynn筹款地址过去半小时总计收到1838枚USDC](https://x.com/ai_9684xtpa/status/1929549658042331468) - 📰 null - 【巨鲸James Wynn筹款地址过去半小时总计收到1838枚USDC】金色财经报道，据 @ai_9684xtpa 监测，过去 30 分钟内，巨鲸 James Wynn 筹款地址总计收到 1838 枚 USDC，榜一转账额为 252 枚 USDC。
-- [SharpLink Gaming完成4.25亿美元私募融资，Consensys领投](https://consensys.io/blog/consensys-leads-usd425-000-000-private-placement-into-sharplink-to-bring?utm_source=twitter&utm_medium=social&utm_campaign=cmp-2532720-afbf08) - 📰 null - 【SharpLink Gaming完成4.25亿美元私募融资，Consensys领投】金色财经报道，据官方消息，SharpLink Gaming 完成 4.25 亿美元私募融资，Consensys 领投，SharpLink 打算用所得款项购买 ETH，并将其作为其主要财库储备资产。
+- [SOL Strategies 2025年Q2净亏损350万美元](https://cointelegraph.com/news/sol-strategies-reports-q2-net-loss-staking-validating-revenue-surge) - 📰 null - 【SOL Strategies 2025年Q2净亏损350万美元】6月3日消息，加拿大全球公开上市公司SOL Strategies，在2025年第二季度录得350万美元净亏损，尽管其质押和验证收入显著增长。财报显示，该公司Q2收入达185万美元，较去年同期的6.7万美元大幅增长，主要来源于Solana和Sui的质押和节点验证奖励，包括自有资产质押以及第三方委托所得佣金。
+- [ARK 21Shares Bitcoin ETF拟于6月16日进行“一拆三”股票拆分](https://www.globenewswire.com/news-release/2025/06/02/3092350/0/en/21Shares-Announces-3-for-1-Share-Split-for-ARK-21Shares-Bitcoin-ETF-ARKB.html) - 📰 null - 【ARK 21Shares Bitcoin ETF拟于6月16日进行“一拆三”股票拆分】金色财经报道，加密货币交易所交易基金发行商21Shares AG关联公司21Shares US LLC宣布对旗下比特币交易所交易基金ARK 21Shares Bitcoin ETF(ARKB) 进行一拆三的股票拆分，旨在让投资者群体更容易获得股票并提高交易效率。据悉，股票拆分交易拟于2025年6月16日生效，拆分后将继续以股票代码“ARKB”在原有的CUSIP框架下交易，ARKB的总资产净值(NAV)不会因拆分而发生变化，同时投资目标、策略和标的持仓保持不变。
+- [广发证券：香港稳定币草案带来短期结构性机会 跨境支付等板块料受益]() - 📰 null - 【广发证券：香港稳定币草案带来短期结构性机会 跨境支付等板块料受益】金色财经报道，广发证券称，香港的稳定币监管框架可能为内地企业通过香港发行人民币锚定的稳定币用于跨境贸易和投资提供合规渠道，增强其在全球市场的竞争力，吸引增量资金进入A股。但考虑到虚拟货币政策环境仍较为严苛，大规模增量资金进入A股的概率偏低。短期内可能给股市带来结构性机会，数字货币、跨境支付、区块链、RWA（现实世界资产通证化）等板块或受提振。稳定币或成为美国捍卫美元地位的战略工具，一定程度上缓解美元和美债的抛售压力。不过由于稳定币规模有限且竞争加剧等原因，短期对美元和美债的提振作用有限。(金十)
+- [某鲸鱼以36美元均价增持超11万枚HYPE，同时以4倍做多HYPE](https://x.com/OnchainLens/status/1929706437410017763) - 📰 null - 【某鲸鱼以36美元均价增持超11万枚HYPE，同时以4倍做多HYPE】金色财经报道，据Onchain Lens监测，一鲸鱼地址花费399万美元以每36美元均价购买了110,824枚HYPE，并以4倍杠杆对HYPE开设了多头头寸。
+- [Wintermute回应James Wynn：一场出色的HL营销活动](https://x.com/EvgenyGaevoy/status/1929545674141413585) - 📰 null - 【Wintermute回应James Wynn：一场出色的HL营销活动】金色财经报道，Wintermute创始人wishful_cynic昨日于社交平台发文称，“但总的来说，我认为wynn只是一个执行得很出色的HL（Hyperliquid）营销活动，干得漂亮。他很优秀。他的推文也很棒” 
+此前早些时候，巨鲸James Wynn在其社交平台发布其比特币多单持仓图，并@ Wintermute官方账号称，“我回来了”。对此加密分析师@ai_9684xtpa表示，“众所周知上一轮BTC多单惨败明显是有人在狙击他，这样公开叫板，莫非这次“猎鲸小分队”就是冬季？的确资金体量和操盘能力是可以匹配上的，又有好戏看了。”
+- [Fasanara Capital 24小时内向交易所存入5,626枚ETH，约合1,434万美元](https://x.com/OnchainDataNerd/status/1929705749716025605) - 📰 null - 【Fasanara Capital 24小时内向交易所存入5,626枚ETH，约合1,434万美元】金色财经报道，据The Data Nerd监测，过去24小时内，Fasanara Capital向多家交易所（包括Coinbase、Copper、Gemini等）累计存入5,626枚ETH（约合1,434万美元），随后将等值USDC提至其钱包。
+- [OSL集团拟以1500万美元收购Evergreen Crest Holdings Ltd 90%的股份](https://t.wind.com.cn/mobwftweb/M/news.html?lan=zh&device=ios&terminaltype=wwt.m&version=25.2.0#/3F2135754FF7297E7C65FAC7BDD1C618&code=826C67011F5F&share=wechat) - 📰 null - 【OSL集团拟以1500万美元收购Evergreen Crest Holdings Ltd 90%的股份】金色财经报道，OSL集团 (00863) 宣布，其全资附属公司OSL Midaspay Limited于5月30日与Lau Shu Ming签订购股协议，以1500万美元（约1.17亿港元）收购Evergreen Crest Holdings Ltd已发行股份总数的90%。交易通过发行代价股份支付，完成后目标公司将成为OSL集团的间接附属公司。 
+目标公司目前正通过旗下附属公司运营数字资产交易所，并持有印尼期货经纪商牌照及加密货币交易商牌照。此次收购将为OSL集团进入印尼数字资产市场提供战略性通道。
+- [阿联酋SCA推出首个“Finfluencer”牌照以规范数字金融内容](https://www.sca.gov.ae/en/media-center/news/28/5/2025/sca-launches-regions-first-finfluencer-license-to-regulate-digital-financial-content.aspx) - 📰 null - 【阿联酋SCA推出首个“Finfluencer”牌照以规范数字金融内容】6月3日消息，据官方公告，阿联酋证券与商品管理局（SCA）正式推出区域首个“Finfluencer”牌照，旨在规范数字平台上的金融内容创作。 
+据悉，该牌照适用于通过数字或传统媒体提供与受监管产品或实体相关的投资建议的个人。申请者需注册并遵守相关法规。为鼓励创新，SCA宣布将在未来三年内免除该服务的注册、续费及法律咨询费用。 
+SCA首席执行官H.E. Waleed Saeed Al Awadhi表示，该牌照不仅是监管措施，更是对数字金融快速发展的战略响应，旨在提升市场诚信、促进透明度，并营造可信赖的金融环境。
+- [比特币反弹后James Wynn高杠杆BTC仓位回本，曾一度浮亏217万美元](https://x.com/EmberCN/status/1929691522179780800) - 📰 null - 【比特币反弹后James Wynn高杠杆BTC仓位回本，曾一度浮亏217万美元】金色财经报道，据余烬监测，James Wynn的高杠杆BTC仓位一度浮亏217万美元、距离清算仅差20美元，然而BTC随后反弹，使其成功回本。该仓位为40倍杠杆多单，持有945枚BTC，总价值约1亿美元，建仓价为105,890美元，清算价为103,622美元。市场曾普遍关注BTC是否会跌破103,610美元触发清算，但目前走势已反转，暂时脱离风险区。
+- [特朗普加密项目WLFI向BitGo发送1000万枚USDC](https://x.com/OnchainLens/status/1929699802297913739) - 📰 null - 【特朗普加密项目WLFI向BitGo发送1000万枚USDC】金色财经报道，据Onchain Lens监测，特朗普加密项目WLFI地址已向BitGo发送1000万枚USDC。BitGo提供机构级数字资产安全、托管和流动性服务。
+- [Tether在TON链上推出跨链黄金稳定币XAUt0](https://financefeeds.com/tether-launches-omnichain-gold-token-xaut0-on-ton-blockchain/) - 📰 null - 【Tether在TON链上推出跨链黄金稳定币XAUt0】金色财经报道，Tether宣布与TON Foundation合作推出XAUt0，这是一种基于LayerZero的Omnichain Fungible Token（OFT）标准的跨链黄金稳定币，XAUt0基于Tether的黄金稳定币XAUt，后者每枚代币由1金衡盎司的实物黄金支持，存储于瑞士金库。XAUt0可在多个区块链间自由流转，无需依赖中间链或进行资产包装，技术上与此前推出的跨链美元稳定币USDT0类似。
+- [Binance US将上线HYPE现货交易](https://x.com/BinanceUS/status/1929622945045139800) - 📰 null - 【Binance US将上线HYPE现货交易】金色财经报道，据官方公告，Binance US宣布即将上线Hyperliquid（HYPE）现货交易，具体开盘时间待公布。HYPE是去中心化交易所Hyperliquid的平台代币。
+- [BTC突破106000美元]() - 📰 null - 【BTC突破106000美元】金色财经报道，行情显示，BTC突破106000美元，现报106010.6美元，24小时涨幅达到0.28%，行情波动较大，请做好风险控制。
+- [James Wynn比特币多单浮亏缩窄至10万美元](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【James Wynn比特币多单浮亏缩窄至10万美元】金色财经报道，据链上数据，James Wynn昨日新开设的40倍比特币多单浮亏已缩窄至10万美元，清算价103,620美元。目前其多单持仓规模达99,984,429.46美元，开仓价为105,890.3美元。昨日晚间，该多单仓位距离被清算一度仅差20美元的空间。
+- [币安前高管Colin Goltra接任Morph CEO](https://x.com/cecilia_hsueh/status/1929567642521948592) - 📰 null - 【币安前高管Colin Goltra接任Morph CEO】6月3日消息，Morph Layer联合创始人兼CEO Cecilia Hsueh在社交媒体发文表示，将正式卸任CEO职位，并将转任顾问角色。Morph Layer的领导权已于3个月前开始交接，目前已完成。接任CEO职位的是Goltra，他曾担任YGG的COO和Binance的高管。Cecilia对Goltra的能力表示信任，并认为他是引领Morph Layer进入下一阶段的合适人选。
+- [Robinhood以2亿美元完成对加密货币交易所Bitstamp的收购](https://cointelegraph.com/news/robinhood-200-million-acquisition-bitstamp) - 📰 null - 【Robinhood以2亿美元完成对加密货币交易所Bitstamp的收购】金色财经报道，Robinhood Markets, Inc.已完成对卢森堡加密货币交易所Bitstamp价值2亿美元的收购。此次收购为其加密货币部门增加了50多个许可证和注册，并带来了成熟的机构客户群。 
+Robinhood于6月2日表示，此次交易对价仍为2亿美元，与2024年6月的初步协议一致，并全部以现金支付。Bitstamp为超过5,000家机构客户和50,000名散户投资者提供服务，其大部分交易量来自机构客户。
+- [金色晨讯 | 6月3日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 6月3日隔夜重要动态一览】21:00-7:00关键词：Circle、Strategy、WisdomTree、SharpLink Gaming 
+1.Circle已上调IPO发行规模和定价区间； 
+2.美联储6月维持利率不变的概率为95.3%； 
+3.SharpLink Gaming完成4.25亿美元私募融资，Consensys领投； 
+4.Strategy拟发行250万股“Stride”优先股，为其比特币战略提供资金； 
+5.美SEC就WisdomTree比特币基金的实物创建和赎回征求反馈意见； 
+6.以太坊基金会重组核心研发团队，聚焦三大战略目标并更名为“Protocol”； 
+7.Tether与Bitfinex向Twenty One Capital投资，合计转入超2.58万枚比特币。
+- [昨日ARKB净流出7390万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流出7390万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流出7390万美元，灰度GBTC净流出1650万美元。
+- [ETH突破2600美元]() - 📰 null - 【ETH突破2600美元】金色财经报道，行情显示，ETH突破2600美元，现报2602.39美元，24小时涨幅达到2.38%，行情波动较大，请做好风险控制。
+- [Coinbase将Ethena (ENA) 列入上币路线图](https://x.com/CoinbaseAssets/status/1929650402972103087) - 📰 null - 【Coinbase将Ethena (ENA) 列入上币路线图】金色财经报道，Coinbase将Ethena (ENA) 列入上币路线图。
