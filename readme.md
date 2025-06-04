@@ -1,30 +1,44 @@
-- [JAN3 CEO：美国政府或被其他国家抢先建立比特币战略储备](https://cointelegraph.com/magazine/us-government-strategic-bitcoin-reserve-pakistan-btc-price-jan3-samson-mow/) - 📰 null - 【JAN3 CEO：美国政府或被其他国家抢先建立比特币战略储备】金色财经报道，JAN3创始人Samson Mow警告，美国政府可能被其他国家抢先建立比特币战略储备。尽管特朗普政府已签署行政令，但美国尚未开始积极收购比特币。Mow建议美国应出售部分黄金储备来购买比特币，称"机会窗口正在迅速关闭"。 
-巴基斯坦已在比特币2025拉斯维加斯大会上宣布计划建立战略比特币储备，英国、巴西、波兰等国也表达了类似兴趣。目前美国持有约198,012枚比特币(价值约206.7亿美元)，主要来自刑事案件没收。 
-Mow预测比特币价格将在一两年内达到100万美元，并强调特朗普政府必须在任期结束前制定明确的比特币积累战略。
-- [Magic Eden联创：Trump钱包将能交易BTC、ETH等主流加密货币和Meme币TRUMP](https://x.com/0xLeoInRio/status/1929955682037731340) - 📰 null - 【Magic Eden联创：Trump钱包将能交易BTC、ETH等主流加密货币和Meme币TRUMP】金色财经报道，NFT平台Magic Eden联合创始人兼首席执行官Jack（@0xLeoInRio）在X平台发文表示，与TRUMP团队合作构建钱包代表了致力于让主流受众更深入地了解加密货币的承诺。用户不仅可以交易BTC/ETH/SOL/ADA/XRP/DOGE等主流货币和Meme币TRUMP ，还能在每条主流链上发现新的资产。这款移动应用将像中心化交易所一样流畅运行，同时完全自主托管，后续将推出更多新用例。
-- [Wintermute已收到2000万枚MELANIA转账，约合662万美元](https://x.com/EmberCN/status/1930066351835815971) - 📰 null - 【Wintermute已收到2000万枚MELANIA转账，约合662万美元】金色财经报道，据余烬监测，特朗普夫人官方Meme币MELANIA已转移了社区钱包中的1.5亿枚MELANIA(约5000万美元)，然后将其中2000万枚(约662万美元)转给了Wintermute
-- [疑似TRUMP Meme团队地址转出约416.7万枚TRUMP并转入多个交易所](https://intel.arkm.com/explorer/address/CDW1AUngA1WorM4xZaSqv8vCbhJd68BSHgV69uxqpCfc) - 📰 null - 【疑似TRUMP Meme团队地址转出约416.7万枚TRUMP并转入多个交易所】金色财经报道，据Arkham监测，疑似TRUMP Meme团队地址: CDW1AU…xqpCfc于本日5:37-5:54（UTC+8）从Squads Vault中取出了416.7万枚TRUMP，价值约4,700万美元，随后将其全部分别转移至Binance Deposit、OKX Deposit、Bybit Deposit和Coinbase Deposit。
-- [西班牙咖啡品牌Vanadi计划筹集11亿美元比特币储备基金](https://beincrypto.com/spain-coffee-chain-bitcoin-investment/) - 📰 null - 【西班牙咖啡品牌Vanadi计划筹集11亿美元比特币储备基金】6月4日消息，西班牙咖啡品牌Vanadi Coffee正在投资11亿美元设立一个比特币储备基金。Vanadi计划未来从咖啡业务转型为BTC业务。Vanadi Coffee董事会主席Salvador Martí表示：“我们将要求董事会发行可转换债券，以创建BTC储备基金。”
-- [某新地址花费400万枚USDC建仓FARTCOIN](https://x.com/OnchainLens/status/1930062823020974231) - 📰 null - 【某新地址花费400万枚USDC建仓FARTCOIN】金色财经报道，据Onchain Lens监测，一个新创建的钱包花费了400万枚USDC，以每枚1.04美元的价格购买了3,845,461枚FARTCOIN。
-- [美国参议院农业委员会将于美东时间6月10日举行CFTC主席提名人Brian Quintenz的提名听证会](https://x.com/EleanorTerrett/status/1930058254798774276) - 📰 null - 【美国参议院农业委员会将于美东时间6月10日举行CFTC主席提名人Brian Quintenz的提名听证会】金色财经报道，据加密记者Eleanor Terrett披露，美国参议院农业委员会已安排在6月10日星期二美国东部时间下午3:00，为美国CFTC主席提名人Brian Quintenz举行提名听证会。
-- [美参议员Lummis：金融安全即国家安全，美国应建立战略性比特币储备]() - 📰 null - 【美参议员Lummis：金融安全即国家安全，美国应建立战略性比特币储备】金色财经报道，美国参议员Cynthia Lummis在社交平台表示，金融安全即国家安全，美国应建立战略性比特币储备。她称美国军方领导人亦支持该主张。
-- [美国众议院民主党指控SEC拒绝提供加密法案关键信息](https://decrypt.co/323521/house-democrats-claim-sec-denying-key-info-crypto-bill) - 📰 null - 【美国众议院民主党指控SEC拒绝提供加密法案关键信息】金色财经报道，美国众议院民主党工作人员周二指控SEC（证券交易委员会）在政治操作中拒绝向其提供CLARITY Act加密法案的关键技术分析，而同时向共和党提供了相关信息。该法案将为美国加密行业创建监管框架并重写部分证券法。民主党人担忧该法案可能超出加密领域，对传统证券市场产生重大影响，并可能创造基于技术的监管漏洞。众议院金融服务委员会排名成员Maxine Waters计划致信SEC主席Paul Atkins，要求向两党提供书面分析。该法案将于6月10日在委员会标记，而SEC的不合作态度可能影响部分亲加密民主党议员对法案的支持。
-- [以太坊联创：公司正与一个"大国"的主权财富基金和银行洽谈合作](https://decrypt.co/323502/ethereum-co-founder-sovereign-wealth-funds-buy-eth) - 📰 null - 【以太坊联创：公司正与一个"大国"的主权财富基金和银行洽谈合作】金色财经报道，Consensys CEO兼以太坊联合创始人Joe Lubin透露，公司正与一个"大国"的主权财富基金和银行洽谈在以太坊生态系统构建基础设施的可能性。Lubin预测，以太坊将迎来去中心化超级周期，并可能成为新全球金融系统的核心。上周，Lubin领导的Consensys投资SharpLink Gaming，为其筹集4.25亿美元建立以太坊国库，使该公司股价飙升400%以上。与此同时，以太坊另一位联合创始人Vitalik Buterin表示，以太坊区块链能力将在未来一年内提升10倍。Lubin称以太坊是"信任的黄金标准"，并认为其价值最终可能超越比特币。
-- [MELANIA Meme与Wintermute达成流动性合作协议](https://x.com/TrueMELANIAmeme/status/1929973793931379184) - 📰 null - 【MELANIA Meme与Wintermute达成流动性合作协议】6月4日消息，据@TrueMELANIAmeme推文，特朗普妻子Meme币项目MELANIA（MELANIA）宣布与做市商Wintermute达成流动性提供协议，相关代币将转移至新钱包。同时，项目方表示正筹备上线全新官方网站。
-- [彭博社：特朗普Meme币钱包引发家族加密阵营分歧](https://www.bloomberg.com/news/articles/2025-06-03/trump-memecoin-wallet-spurs-divide-among-family-s-crypto-camps) - 📰 null - 【彭博社：特朗普Meme币钱包引发家族加密阵营分歧】金色财经报道，据彭博社报道，与美国总统唐纳德·特朗普相关的多个加密实体之间似乎存在分歧。NFT市场Magic Eden周二表示，他们正在与特朗普Meme币背后的团队及其他项目合作，推出一款以特朗普品牌命名的数字钱包和交易应用。但随后特朗普长子表示，市场新推出的TRUMP钱包与特朗普集团毫无关联，WLFI将推出官方钱包。
-- [OpenAI宣布正式向免费用户开放ChatGPT的记忆功能]() - 📰 null - 【OpenAI宣布正式向免费用户开放ChatGPT的记忆功能】金色财经报道，当地时间6月3日，OpenAI宣布正式向免费用户开放ChatGPT的记忆功能，此前该功能仅限付费订阅用户使用。(金十)
-- [德克萨斯州共和党国会议员Brandon Gill买入85万美元的比特币](https://x.com/bitcoinlfgo/status/1930049959753331003) - 📰 null - 【德克萨斯州共和党国会议员Brandon Gill买入85万美元的比特币】金色财经报道，据BITCOINLFG®披露，德克萨斯州共和党国会议员布兰登·吉尔（Brandon Gill）购买了高达85万美元的 比特币。
-- [距James Wynn比特币多单被清算仅300美元空间](https://x.com/EmberCN/status/1930048675398725987) - 📰 null - 【距James Wynn比特币多单被清算仅300美元空间】金色财经报道，据余烬监测，James Wynn的仓位在昨晚滚仓至1.47亿美元后，开仓价到清算价仅1100美元的空间。目前BTC价格在略微回调后，就已距离他的清算价格仅300美元空间。目前，James Wynn以40倍杠杆开多1391枚BTC，名义仓位价值1.47亿美元，开仓价106,073美元，清算价104,976美元，目前浮亏113万美元。
-- [金色晨讯 | 6月4日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 6月4日隔夜重要动态一览】21:00-7:00关键词：Truth Social、Magic Eden、TRUMP、Scalable Capital 
-1.中本聪净资产已超过比尔·盖茨； 
-2.特朗普旗下Truth Social递交比特币ETF申请； 
-3.Vitalik：以太坊在CR和安全性方面处于领先地位； 
-4.美联储博斯蒂克：仍然认为今年可能会有一次降息； 
-5.消息人士：特朗普将推出品牌加密钱包与交易应用程序； 
-6.数字财富管理平台 Scalable Capital 完成 1.55 亿欧元融资； 
-7.市场消息：Magic Eden与TRUMP Meme官方合作共同开发TRUMP钱包； 
-8.特朗普长子：市场新推出的TRUMP钱包与特朗普集团毫无关联，WLFI将推出官方钱包。
-- [昨日ARKB净流入1.399亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入1.399亿美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入1.399亿美元，BITB净流入1450万美元。
-- [马斯克批税改法案“荒谬” 白宫：不影响特朗普立场]() - 📰 null - 【马斯克批税改法案“荒谬” 白宫：不影响特朗普立场】金色财经报道，美国白宫新闻秘书莱维特表示，埃隆·马斯克的批评“不会改变”美国总统特朗普对大规模税收与支出法案的支持。据悉，马斯克当日在社交媒体平台上发布消息称，这项规模庞大的法案“荒谬可笑、充斥着政治操弄”。马斯克称，该法案将使预算赤字大幅增至2.5万亿美元，使美国公民背负难以承受的债务负担。马斯克此前也对该法案提出批评称，特朗普这项“美丽大法案”破坏了他在政府效率部削减成本的努力，并将增加预算赤字。美国白宫管理和预算办公室 (OMB) 主任罗素·沃特回应了该言论称，这项法案不会增加赤字，也不会损害债务。（央视新闻）
-- [美政府提出首份削减开支方案 申请收回94亿美元](https://flash.jin10.com/detail/20250604055651685800) - 📰 null - 【美政府提出首份削减开支方案 申请收回94亿美元】金色财经报道，当地时间6月3日，美国白宫当日向国会提交了一份申请，要求收回已批准的94亿美元支出，其中大部分用于对外援助。美国国会众议院议长迈克·约翰逊对此表示，已正式收到白宫提出的申请，要求收回对美国国际开发署、美国公共广播公司等共94亿美元的浪费性对外援助支出。迈克·约翰逊称众议院将迅速采取行动。据悉，该方案提交后，国会将有45天的时间来处理。
-- [美联储6月维持利率不变的概率为98.8%]() - 📰 null - 【美联储6月维持利率不变的概率为98.8%】金色财经报道，据CME“美联储观察”：美联储6月维持利率不变的概率为98.8%，降息25个基点的概率为1.2%。美联储7月维持利率不变的概率为74.3%，累计降息25个基点的概率为25.4%，累计降息50个基点的概率为0.3%。
+- [马斯克：巨大的过度支出将使美国成为债务奴隶]() - 📰 null - 【马斯克：巨大的过度支出将使美国成为债务奴隶】金色财经报道，马斯克在 X 上发文表示，“巨大的过度支出将使美国成为债务奴隶。”
+- [Anthropic：研究与整合功能已对 Pro 用户开放](https://x.com/AnthropicAI/status/1929950256793563438) - 📰 null - 【Anthropic：研究与整合功能已对 Pro 用户开放】金色财经报道，AI初创公司Anthropic发推表示研究与集成功能已对Pro用户开放，用户可使用远程MCP为任何应用或工具构建自定义集成，或者集成Zapier和 Asana等预置服务器。官方表示，通过整合功能进行研究”意味着Claude能够在网络、Google Workspace以及所有已连接的工具中进行搜索——从各个来源提取信息，为用户提供深入洞见。
+- [OKX将上线USDG(Global Dollar)现货交易](https://www.okx.com/zh-hans/help/okx-to-list-usdg-global-dollar-for-spot-trading) - 📰 null - 【OKX将上线USDG(Global Dollar)现货交易】据官方公告，OKX将上线USDG(Global Dollar)现货交易。据悉，Global Dollar(USDG)是一种基于美元的稳定币，可在以太坊和Solana区块链上使用。USDG由受监管的提供商发行，由安全且流动性强的资产支持，并且始终可以1:1的比例兑换美元。USDG可在众多全球交易所和钱包上使用。具体时间安排如下： 
+USDG开放充币时间：2025年6月4日下午2:00(UTC+8)USDG 
+集合竞价时间段：2025年6月5日下午8:00至9:00(UTC+8)USDG/USDT 
+现货交易开盘时间：2025年6月5日下午9:00(UTC+8)USDG 
+开放提币时间：2025年6月5日下午11:00(UTC+8)
+- [James Wynn：40倍杠杆做多BTC不是赌博，而是为了在美元崩溃前获得更多BTC](https://x.com/JamesWynnReal/status/1930133943938101380) - 📰 null - 【James Wynn：40倍杠杆做多BTC不是赌博，而是为了在美元崩溃前获得更多BTC】金色财经报道，巨鲸James Wynn在社交媒体发文表示，我正尝试以40倍杠杆将通货膨胀的法定货币兑换成有硬上限的通货紧缩的真实货币（BTC），但你们都说我在赌博。时间紧迫，速度很重要。美元正在实时崩溃。我正在尽我所能获取尽可能多的BTC，这样我就不会和沉船一起沉没。
+- [币安质押借币新增HAEDAL、HUMA、SOPH、A、和USD1等可借资产](https://www.binance.com/zh-CN/support/announcement/detail/15282c02d9a2464fac3f5dd0501d6561) - 📰 null - 【币安质押借币新增HAEDAL、HUMA、SOPH、A、和USD1等可借资产】金色财经报道，据官方消息，币安质押借币新增 Vaulta（A）、Haedal Protocol（HAEDAL）、Huma Finance（HUMA）、Sophon（SOPH）和 World Liberty Financial USD（USD1）等可借资产。
+- [慢雾：谷歌浏览器已发布紧急补丁修复一个高危零日漏洞（CVE-2025-5419）]() - 📰 null - 【慢雾：谷歌浏览器已发布紧急补丁修复一个高危零日漏洞（CVE-2025-5419）】金色财经报道，慢雾发布安全警报称，谷歌浏览器（@googlechrome）已发布紧急补丁，修复了一个高危零日漏洞（CVE-2025-5419），该漏洞已被发现正在被积极利用。该缺陷存在于 V8 JavaScript 引擎中，允许远程攻击者通过精心制作的 HTML 页面破坏内存。 
+请立即更新到： 
+Chrome 137.0.7151.68/.69 (Windows/macOS) 
+Chrome 137.0.7151.68 (Linux) 
+使用基于Chromium的浏览器（如 Edge、Brave、Opera、Vivaldi）的用户也应在补丁可用后尽快更新。请保持安全，及时更新。
+- [Coinbase CEO：美国债务危机或使比特币成为全球储备货币](https://decrypt.co/323616/us-debt-crisis-bitcoin-reserve-currency-coinbase-ceo) - 📰 null - 【Coinbase CEO：美国债务危机或使比特币成为全球储备货币】金色财经报道，Coinbase首席执行官布莱恩·阿姆斯特朗警告，如果美国国会未能解决37万亿美元的债务问题，比特币可能取代美元成为全球储备货币。随着特朗普支持的"美丽法案"在5月获得众议院共和党通过，财政压力加剧了对比特币的兴趣。新罕布什尔州和亚利桑那州等州已开始储备比特币，以应对美元贬值风险。六位诺贝尔经济学家警告称，该法案可能进一步加剧债务和不平等问题。阿姆斯特朗表示："我热爱比特币，但一个强大的美国对世界也非常重要。我们需要控制好我们的财政。"
+- [前瞻：印度央行可能连续第三次降息]() - 📰 null - 【前瞻：印度央行可能连续第三次降息】金色财经报道，由于通胀低于预期，为进一步促进经济增长提供了充足的空间，市场普遍预计印度央行将于周五连续第三次降息。路透调查显示，受访的61位经济学家中，53位预计，印度央行将降息25个基点，令回购利率降至5.75%，2位预计央行将降息50个基点，其余6位预计央行将维持利率不变。巴克莱经济学家表示，尽管6月6日没有连续第三次降息的紧迫性，但仍预计央行会降息，并维持宽松的立场。在通胀结果和前景低于预期的情况下，这是一个机会主义的举动。(金十)
+- [H100 Group获得Adam Back提供的210万美元可转换贷款，用于增持比特币](https://x.com/Cointelegraph/status/1930127395459051522 继) - 📰 null - 【H100 Group获得Adam Back提供的210万美元可转换贷款，用于增持比特币】金色财经报道，瑞典医疗公司H100 Group获得由Adam Back提供的210万美元可转换贷款，并有可能追加获得1,280万美元。该笔资金将用于进一步购入比特币。
+- [OKX将调整部分指数成分及权重](https://www.okx.com/zh-hans/help/okx-to-adjust-components-for-several-indexes-20250604) - 📰 null - 【OKX将调整部分指数成分及权重】6月4日消息，据官方消息，OKX计划于2025年6月5日下午12:00~18:00(UTC+8)调整部分指数成分及权重。调整后指数将根据新的成分的价格与各成分对应的新权重加权计算得到。本次调整涉及UMA-USDT、UMA-USD及QTUM-USDT等多个指数。
+- [James Wynn：真正重要的是全球M2货币供应量，其他都是噪音](https://x.com/JamesWynnReal/status/1930120505241341974) - 📰 null - 【James Wynn：真正重要的是全球M2货币供应量，其他都是噪音】金色财经报道，巨鲸 James Wynn 在社交媒体发文表示，当你关注全球M2货币供应量时，你会发现其他一切都只是噪音。 
+并配图显示全球M2货币供应量处于增长趋势。
+- [韩国总统李在明承诺将推动加密ETF和韩元稳定币发展](https://www.theblock.co/post/356855/south-korea-elects-pro-crypto-lee-as-new-president-crypto-etfs-and-krw-stablecoins-on-horizon) - 📰 null - 【韩国总统李在明承诺将推动加密ETF和韩元稳定币发展】金色财经报道，韩国左翼党候选人李在明以49.42%的得票率当选新一任韩国总统，战胜右翼对手金文秀的41.15%。李在明承诺将大力发展韩国加密货币行业，主要政策包括：允许本地采用现货加密货币ETF、建立韩元稳定币市场、完善数字资产监管框架，以及在特定区域减少区块链监管以促进创新。 
+韩国是全球最大的加密货币市场之一，拥有970万交易用户，约占总人口的20%。与前任总统尹锡悦未能兑现的加密友好承诺不同，李在明有望在金融服务委员会态度转变的背景下推动其加密政策落地。
+- [金色午报 | 6月4日午间重要动态一览]() - 📰 null - 【金色午报 | 6月4日午间重要动态一览】7:00-12:00关键词：加州、Vanadi、Launcher Capital 
+1.加州议会全票通过比特币支付法案； 
+2.彭博社：特朗普Meme币钱包引发家族加密阵营分歧； 
+3.SEC主席Paul Atkins承诺对加密货币实施"理性"监管； 
+4.美国众议院民主党指控SEC拒绝提供加密法案关键信息； 
+5.西班牙咖啡品牌Vanadi计划筹集11亿美元比特币储备基金； 
+6.AI游戏初创公司Launcher Capital完成400万美元种子轮融资，a16z CSX领投； 
+7.美国参议院农业委员会将于美东时间6月10日举行CFTC主席提名人Brian Quintenz的提名听证会。
+- [Solidity调试器sol-dbg获以太坊基金会资助](https://x.com/EF_ESP/status/1930107782906425451) - 📰 null - 【Solidity调试器sol-dbg获以太坊基金会资助】6月4日消息，以太坊基金会生态系统支持团队（EF Ecosystem Support Program）在社交平台上表示sol-dbg项目获得资助，由Dimitar Bounov开发。 
+sol-dbg是一个Solidity调试器，以TypeScript库的形式开发，采用实验性的解释器方法，支持任何自Solidity编译器版本0.4.13起生成的优化EVM字节码。
+- [香港联手六地警方拦截1.57亿港元骗款，某洗黑钱集团利用虚拟资产洗钱约1.18亿港元](https://www.wenweipo.com/a/202506/04/AP683f8792e4b0c304808ea329.html) - 📰 null - 【香港联手六地警方拦截1.57亿港元骗款，某洗黑钱集团利用虚拟资产洗钱约1.18亿港元】金色财经报道，香港警务处联同多个国家或地区的反诈骗中心成立反诈骗跨境合作平台“FRONTIER+”并于今年4月28日至5月28日与澳门、新加坡、韩国及泰国等6个国家或地区的反诈骗中心展开首次联合行动，成功拘捕1,858人，冻结逾3.26万个银行账户，以及拦截1.57亿港元骗款。 
+香港警务处商业罪案调查科总警司黄震宇表示，香港今年首4个月共录得逾13,115宗诈骗案，按年升9%，涉及金额减少约30%，一个自去年7月起便活跃于香港与内地的洗黑钱集团，该集团利用逾580个银行户口及虚拟资产清洗约1.18亿港元，警方于上月15日展开行动并成功拘捕12人。
+- [SEC主席Paul Atkins承诺对加密货币实施"理性"监管](https://decrypt.co/323613/paul-atkins-new-day-sec-rational-regulations-crypto) - 📰 null - 【SEC主席Paul Atkins承诺对加密货币实施"理性"监管】金色财经报道，SEC主席保罗·阿特金斯在周二参议院听证会上承诺将为加密资产建立"理性监管框架"，强调将通过规则制定和透明度而非执法行动来实施政策。他表示"明确的规则对保护投资者免受欺诈至关重要"，并批评前任根斯勒时期对创新的抑制。同时，国会议员已提出《CLARITY法案》，旨在将大部分加密资产从SEC管辖范围中移除，建立新的法律框架。阿特金斯还提到SEC新成立的加密任务小组和即将举行的DeFi圆桌会议将支持行业创新，预计将带来效率提升和风险缓解等益处。
+- [Bybit联合Circle、Tether、Solana、Sui推出区块链生态协作百科平台Ecopedia]() - 📰 null - 【Bybit联合Circle、Tether、Solana、Sui推出区块链生态协作百科平台Ecopedia】6月4日消息，Bybit今日宣布联合Circle、Tether、Solana与Sui等生态合作伙伴推出Ecopedia，全球首个开放式区块链生态协作百科平台，旨在为用户提供结构化、权威、互动性强的Web3知识中心。用户可通过Bybit官网Learn页面访问该平台。 
+Ecopedia内容覆盖DeFi、NFT、GameFi、AI、数字身份等热门赛道，涵盖各大公链核心机制与代表性项目，并提供图文教程，帮助用户掌握充值、跨链、质押、交易等操作，大部分内容由生态官方或核心项目团队联合撰写与审核，部分文章由Bybit Learn社区共同参与制作，确保权威性与时效性。
+- [James Wynn于15分钟前减仓189.74枚BTC，亏损13.5万美元](https://x.com/ai_9684xtpa/status/1930100350276776185) - 📰 null - 【James Wynn于15分钟前减仓189.74枚BTC，亏损13.5万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，James Wynn 15分钟前减仓了189.74枚BTC并亏损13.5万美元，目前BTC40x多单仓位价值1.27亿美元 
+-持仓规模：1201.57枚BTC，约1.27亿美元 
+-开仓价格：106,073.6美元 
+-清算价格：104,710美元 
+-当前盈亏：-58万美元
+- [Binance Alpha 2.0总交易量突破5000万笔，交易额超400亿美元](https://dune.com/pandajackson42/binance-alpha-20-purchase-dex-tokens-directly-on-binance-cex) - 📰 null - 【Binance Alpha 2.0总交易量突破5000万笔，交易额超400亿美元】金色财经报道，据链上分析平台Dune数据Panda Jackson(@pandajackson42)面板显示，Binance Alpha 2.0交易总量已突破400亿美元，当前触及40,307,239,063美元，交易总量超过5000万笔，达到50,635,336笔。
+- [ETH ICO 100万枚ETH巨鲸6小时前再次向OKX转入996枚ETH](https://x.com/ai_9684xtpa/status/1930098740054110703) - 📰 null - 【ETH ICO 100万枚ETH巨鲸6小时前再次向OKX转入996枚ETH】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，「ETH ICO 100万枚ETH巨鲸」6小时前再次向OKX充值996枚ETH，价值260万美元，成本低至0.31美元。目前该巨鲸仍持有48748枚ETH，若按照每两天卖960ETH的速度估算，剩余代币将在100天左右全部清仓售出。
