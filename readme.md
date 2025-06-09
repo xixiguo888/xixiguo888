@@ -1,29 +1,25 @@
-- [分析师：主动型Meme ETF明年有望推出](https://cointelegraph.com/news/active-memecoin-etf-good-chance-next-year-analyst) - 📰 null - 【分析师：主动型Meme ETF明年有望推出】金色财经报道，据Cointelegraph披露，彭博社ETF分析师埃里克·巴尔丘纳斯（Eric Balchunas）在6月7日的一篇X（前Twitter）帖子中表示，未来某个时候，一个主动交易Meme币的ETF“很有可能”会出现。他补充说：“首先，我们会看到一系列主动型加密货币ETF”，并预计一个仅投资Meme币的主动型基金很可能在2026年出现。 
-他的评论是为了回应专注于俄罗斯的Meme币团队“Vladcoin”在X上的一篇帖子。Vladcoin团队表示，“应该有一个主动交易Meme币的ETF，根据表现进行买卖。” 
-他们补充说，一个主动交易基金将“持有有前景的币种，并卖出较弱的币种”。
-- [Coinbase首席执行官：比特币是一种比黄金更好的货币形式](https://www.techflowpost.com/newsletter/detail_87553.html) - 📰 null - 【Coinbase首席执行官：比特币是一种比黄金更好的货币形式】金色财经报道，据Cointelegraph报道，Coinbase首席执行官BrianArmstrong表示，比特币是一种比黄金更好的货币形式。
-- [SOL跌破150美元]() - 📰 null - 【SOL跌破150美元】金色财经报道，行情显示，SOL跌破150美元，现报149.98美元，24小时跌幅达到0.01%，行情波动较大，请做好风险控制。
-- [4亿枚USDT通过两笔交易从Aave转至HTX]() - 📰 null - 【4亿枚USDT通过两笔交易从Aave转至HTX】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间今日下午1:43，3亿枚USDT在一笔交易中从Aave转至HTX。随后，13:45，1亿枚USDT在另一笔交易中从Aave转至HTX。
-- [某巨鲸过去8小时将4732枚ETH存入交易所，价值1199万美元](https://x.com/ai_9684xtpa/status/1931949043904864365) - 📰 null - 【某巨鲸过去8小时将4732枚ETH存入交易所，价值1199万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，某巨鲸2021.04-05期间以均价2305美元从Binance提出10900枚ETH，过去8小时将4732枚ETH充值进交易所，价值1199万美元，若卖出将获利108.5万美元。他建仓半年后ETH达到历史新高4,891美元，峰值时浮盈高达2818万美元。
-- [某鲸鱼向HyperLiquid存入250万枚USDC购入7万枚HYPE](https://x.com/OnchainLens/status/1931946827919831105) - 📰 null - 【某鲸鱼向HyperLiquid存入250万枚USDC购入7万枚HYPE】金色财经报道，据Onchain Lens监测，某鲸鱼向HyperLiquid存入了250万枚的USDC，并以35.4美元的价格购买了70,617.6枚HYPE代币。
-- [Plasma：初始存款上线提高至2.5亿美元，个人存款限制为5000万美元](https://x.com/PlasmaFDN/status/1930274719493960157) - 📰 null - 【Plasma：初始存款上线提高至2.5亿美元，个人存款限制为5000万美元】金色财经报道，稳定币项目Plasma官方于X平台发文表示，根据社区反馈，决定把初始存款上限提高到2.5亿美元，以支持公平包容和广泛参与。个人存款将被限制在5000万美元。
-- [数据：CEX现货交易额降至5年低位，市场已转向囤币模式](https://x.com/AxelAdlerJr/status/1931938159513772154) - 📰 null - 【数据：CEX现货交易额降至5年低位，市场已转向囤币模式】金色财经报道，Crypto Quant分析师Axel在社交媒体上发布数据表示，目前中心化交易平台(CEX)的日均现货交易额已降至2020年10月的水平。代币既没有在现货上出售，也没有在链上转移——市场已转向HODL模式。
-- [James Wynn平仓比特币40倍多头并损失85.92美元，转向40倍做空](https://x.com/OnchainLens/status/1931936669474975816) - 📰 null - 【James Wynn平仓比特币40倍多头并损失85.92美元，转向40倍做空】金色财经报道，据链上分析师Onchain Lens（@OnchainLens）监测，交易员James（@JamesWynnReal）已关闭其比特币（BTC）40倍多头仓位，在此次交易中损失85.92美元。同时，James开设了比特币40倍空头仓位。
-- [Upbit宣布Berachain（BERA）分发时间表变更](https://upbit.com/service_center/notice?id=5213) - 📰 null - 【Upbit宣布Berachain（BERA）分发时间表变更】金色财经报道，Upbit宣布，应Berachain（BERA）项目团队要求，对BERA的分发时间表进行了变更。变更前的分发时间表截至2025年2月6日，变更后的分发时间表截至2025年6月9日。
-- [Avalon Labs已销毁8000万枚AVL，占当前流通总量的44%]() - 📰 null - 【Avalon Labs已销毁8000万枚AVL，占当前流通总量的44%】6月9日消息，比特币金融服务平台Avalon Labs宣布，已正式销毁8000万枚治理代币AVL，价值约1600万美元，占当前流通总量的44%。本次销毁的代币主要为空投期间未被用户认领的份额。
-- [Bithumb将暂停IOST充提业务](https://feed.bithumb.com/notice/1648778) - 📰 null - 【Bithumb将暂停IOST充提业务】金色财经报道，韩国交易所Bithumb宣布，因IOST网络迁移至BNB智能链，将从2025年6月9日18:00（KST）起暂停IOST的充提业务，直至代币置换完成。暂停期间，交易不受影响，但用户需注意价格波动。网络迁移完成后，IOST将仅支持BNB智能链网络，现有IOST网络的充提服务将不再支持。
-- [特朗普敦促洛杉矶警察局立即采取行动]() - 📰 null - 【特朗普敦促洛杉矶警察局立即采取行动】金色财经报道，美国总统特朗普在其社交媒体平台“真实社交”上发文称，“洛杉矶警察局局长吉姆·麦克唐纳刚刚表示，抗议者变得越来越激进，他将‘不得不重新评估局势’，以决定是否派遣（美国国民警卫队）部队。他现在就应该采取行动！不要让这些暴徒得逞。”特朗普还表示，“洛杉矶的情况非常糟糕！派军队进来！”、“立即逮捕戴口罩的人！”(金十)
-- [加州州长纽森说将起诉特朗普]() - 📰 null - 【加州州长纽森说将起诉特朗普】金色财经报道，美国加利福尼亚州州长纽森8日晚在社交媒体上说，美国总统特朗普不征求州长意见就调遣加州国民警卫队是“非法和不道德的”，加州将把特朗普告上法庭。(金十)
-- [某以太坊OG地址10小时前再次抛售991枚ETH](https://x.com/ai_9684xtpa/status/1931924449458258147) - 📰 null - 【某以太坊OG地址10小时前再次抛售991枚ETH】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，某个曾参与以太坊ICO的地址10小时前向OKX充值991.67ETH，价值251万美元。自5月26日以来，这个ETH ICO100万枚ETH巨鲸疑似抛售的ETH数量增长至9,845.96枚，总价值2,523万美元，成本低至0.31美元。
-- [日本比特币投资公司Metaplanet推出54亿美元融资计划 股价飙升22%]() - 📰 null - 【日本比特币投资公司Metaplanet推出54亿美元融资计划 股价飙升22%】金色财经报道，日本比特币投资公司Metaplanet计划筹集约54亿美元并增加规模已达10亿美元的比特币储备，该公司股价周一大幅上涨。Metaplanet周五宣布了一项股票收购权计划，据称这是日本资本市场历史上规模最大的一项计划。Metaplanet预计，到2027年底该公司将积累21万枚比特币，是目前持有的8888枚的数倍。Metaplanet周一上午在东京上涨了22%，自2024年初转向加密货币以来，该公司股价波动剧烈。
-- [金色午报 | 6月9日午间重要动态一览]() - 📰 null - 【金色午报 | 6月9日午间重要动态一览】7:00-12:00关键词：ALEX、CLARITY法案、Cetus Protocol 
-1.美联储6月维持利率不变的概率为99.9%； 
-2.数据：比特币网络交易笔数跌至2023年10月以来新低； 
-3.Eleanor Terrett：CLARITY法案的“替代性修正案”已发布； 
-4.ALEX：TGP赔偿申领站点已上线，提醒用户进行安全交互； 
-5.美联储任命Michael Horowitz担任新一任监察长，负责内部监督； 
-6.Cetus Protocol在遭受漏洞攻击后已经重新启动运营，正在计划开源； 
-7.纳斯达克向美SEC申请将XRP、SOL、ADA、XLM添加到加密货币指数中。
-- [数据：上周加密交易所流出6.5万枚比特币，余额创历史新低](https://www.coinglass.com/zh/Balance) - 📰 null - 【数据：上周加密交易所流出6.5万枚比特币，余额创历史新低】金色财经报道，据Coinglass数据，过去一周，各大加密货币交易所累计流出65393.48枚比特币，其中Binance流出8765.65枚，Coinbase Pro流出9324.93枚，Bitfinex流出25711.35枚。目前，加密交易所比特币累计余额为2,092,731.59枚，创历史新低。
-- [Cathie Wood：BTC价格将在未来五年内增长15倍](https://x.com/Cointelegraph/status/1931916770438209815) - 📰 null - 【Cathie Wood：BTC价格将在未来五年内增长15倍】金色财经报道，据Cointelegraph报道，ARK Invest首席执行官Cathie Wood近日表示，BTC价格将在未来五年内增长15倍。“BTC币代表了一种与众不同的全球货币系统，随着越来越多的投资者持有，其波动性正在减少。”
-- [李家超：联系汇率制是香港经济成功的关键因素之一 将继续维持]() - 📰 null - 【李家超：联系汇率制是香港经济成功的关键因素之一 将继续维持】金色财经报道，行政长官李家超近日表示，香港将维持港元与美元挂钩的联系汇率，这是香港经济成功的关键因素之一，不会因为地缘政治紧张局势升级而改变。不过，李家超说，这不意味着香港的金融体系完全依赖联系汇率制度，未来会加强香港作为全球离岸人民币业务中心的主导地位，并提供更加多元化的产品，从而带动更多贸易。他期望未来推出更多人民币业务产品，令持有人民币的海外投资者从中获利，亦会致力加强港币-人民币双柜台模式交易，容许投资者以离岸人民币购买在港上市的人民币计价股票。(金十)
+- [以太坊提出符合欧盟通用数据保护条例的隐私路线图](https://cointelegraph.com/news/ethereum-modular-architecture-gdpr-privacy-proposal) - 📰 null - 【以太坊提出符合欧盟通用数据保护条例的隐私路线图】金色财经报道，以太坊社区成员Eugenio Reggianini于6月9日提出一项新提案，旨在通过模块化架构和隐私增强技术(PETs)使以太坊网络符合欧盟《通用数据保护条例》(GDPR)，同时保持去中心化特性。 
+该提案建议将个人数据推向网络边缘(钱包和DApps)，采用链下存储和元数据擦除技术，并通过加密方式分割角色，从而将GDPR控制器职责集中在少数实体上。技术路线图包括多种隐私保护方案，如proto-danksharding(EIP-4844)、零知识证明(zk-SNARKs)、全同态加密、可信执行环境(TEEs)等。提案还将以太坊网络分为执行层、共识层和数据可用性层，以更好地管理GDPR合规性。 
+该框架的成功将取决于社区采用度、开发者支持以及与欧盟监管机构的协调。
+- [加密钱包Turnkey完成3000万美元B轮融资](https://www.coindesk.com/business/2025/06/09/coinbase-alum-founded-turnkey-raises-30m-series-b-to-grow-engineering-team-report) - 📰 null - 【加密钱包Turnkey完成3000万美元B轮融资】6月9日消息，由Coinbase前员工创立的加密钱包基础设施公司Turnkey完成由Bain Capital Crypto领投的3000万美元B轮融资，Lightspeed Faction与Galaxy Ventures亦参与。Turnkey将利用新资金扩充目前35人的团队，重点加强工程力量，推动API钱包解决方案的普及。
+- [KULR增持118.6枚比特币，总持仓达920枚](https://x.com/michaelmokulr/status/1932048862564511755) - 📰 null - 【KULR增持118.6枚比特币，总持仓达920枚】金色财经报道，KULR科技公司CEO Michael Mo今日在社交媒体宣布，公司近期以约1300万美元（均价约107,861美元/枚）购入118.6枚比特币。截至2025年6月5日，KULR已累计持有920枚比特币，总投资约9100万美元，平均购入价格为98,760美元/枚。
+- [中美经贸磋商机制首次会议在英国伦敦开始举行]() - 📰 null - 【中美经贸磋商机制首次会议在英国伦敦开始举行】金色财经报道，当地时间6月9日，中共中央政治局委员、国务院副总理何立峰与美方在英国伦敦开始举行中美经贸磋商机制首次会议。（新华社）
+- [Tether计划第四季度开源比特币矿机操作系统MOS](https://x.com/paoloardoino/status/1932047179511640231) - 📰 null - 【Tether计划第四季度开源比特币矿机操作系统MOS】金色财经报道，据Tether CEO Paolo Ardoino透露，Tether正推进比特币挖矿操作系统MOS的开源计划，预计将于2025年第四季度上线。MOS具备模块化、IoT架构与高扩展性，支持从树莓派到百万矿机级部署，旨在为中小矿企提供与上市公司公平竞争的平台，并降低对第三方软件依赖。未来还将集成Tether旗下AI分析工具QVAC。
+- [Bitmine Immersion Technologies首次购买100枚比特币]() - 📰 null - 【Bitmine Immersion Technologies首次购买100枚比特币】金色财经报道，美国软件公司Bitmine Immersion Technologies根据其比特币储备策略，首次购买了100枚比特币。
+- [Binance Alpha积分198点以上可申领61枚SERAPH空投]() - 📰 null - 【Binance Alpha积分198点以上可申领61枚SERAPH空投】金色财经报道，据Binance公告，Seraph（SERAPH）已上线Alpha平台。自6月9日20:00（UTC+8）起，持有198点以上Alpha积分的用户可在Alpha Events页面申领61枚SERAPH空投，申领需在24小时内完成，且不扣除积分。
+- [Strategy上周耗资1.1亿美元购入1045枚比特币](https://x.com/saylor/status/1932045860851859842) - 📰 null - 【Strategy上周耗资1.1亿美元购入1045枚比特币】金色财经报道，Strategy于6月2日至8日间以约1.102亿美元收购了1,045个BTC，每个比特币的价格约为105,426美元，并已实现2025年迄今17.1%的BTC收益率。截至2025年6月8日，Strategy持有582,000个BTC，以约407.9亿美元收购，每个比特币的价格约为70,086美元。
+- [币安Alpha上线Seraph (SERAPH)]() - 📰 null - 【币安Alpha上线Seraph (SERAPH)】金色财经报道，据官方页面显示，币安Alpha上线Seraph (SERAPH)。
+- [ProShares 和 Bitwise 提交追踪 Circle 股票的 ETF 申请](https://x.com/EricBalchunas/status/1932037732282384492) - 📰 null - 【ProShares 和 Bitwise 提交追踪 Circle 股票的 ETF 申请】金色财经报道，彭博高级 ETF 分析师 Eric Balchunas 披露，ProShares 和 Bitwise 已经向美 SEC 提交了追踪 Circle 股票的 ETF 申请，分别是：ProShares Ultra CRCL ETF 和 Bitwise CRCL Option Income Strategy ETF、 
+目前交易代码待定，预计生效时间为 8 月 20 日。
+- [两名巨鲸正做空BTC，仓位总价值达1.08亿美元](https://x.com/OnchainLens/status/1932036070436462892) - 📰 null - 【两名巨鲸正做空BTC，仓位总价值达1.08亿美元】金色财经报道，据 Onchain Lens 监测，某巨鲸 以 40 倍杠杆开设比特币空头仓位，价值约 6500 万美元，之前盈利约 758 万美元；另一巨鲸以 35 倍杠杆开设比特币空头仓位，价值约 4300 万美元。
+- [日本时尚品牌ANAP计划于8月前持有超1000枚比特币](https://x.com/BitcoinMagazine/status/1932035781821952080) - 📰 null - 【日本时尚品牌ANAP计划于8月前持有超1000枚比特币】金色财经报道，据Bitcoin Magazine报道，日本时尚品牌ANAP宣布计划在2025年8月前购买并长期持有超过1000枚比特币。
+- [德意志银行：将Robinhood目标价从70美元上调至85美元]() - 📰 null - 【德意志银行：将Robinhood目标价从70美元上调至85美元】金色财经报道，德意志银行：将Robinhood目标价从70美元上调至85美元。
+- [洛杉矶警方称特朗普越级下达指令]() - 📰 null - 【洛杉矶警方称特朗普越级下达指令】金色财经报道，美国洛杉矶的抗议者与部署在该地的国民警卫队人员和警察之间的冲突规模持续扩大。当地时间6月8日晚，洛杉矶市警察局局长吉姆·麦克唐奈在记者会上说，洛杉矶市本有能力掌控局面，但联邦政府部署国民警卫队的行动完全绕过了地方警长系统和常规指挥链，是由总统直接越级下达指令，导致国民警卫队被联邦政府接管。但麦克唐奈同时也表示，现在洛杉矶的情况已经失控，暴力行径令人发指，甚至有人使用可致命的烟花攻击警察，洛杉矶警局已紧急调整战术部署，誓将暴徒绳之以法。（CCTV国际时讯）
+- [Bernstein：以太坊正处于从投机转向真正金融创新的关键转折点](https://www.theblock.co/post/357432/ethereum-critical-inflection-point-bernstein?utm_source=twitter&utm_medium=social) - 📰 null - 【Bernstein：以太坊正处于从投机转向真正金融创新的关键转折点】金色财经报道，Bernstein分析师认为以太坊正处于关键转折点，随着加密行业从投机转向真正的金融创新。虽然比特币ETF在美国取得巨大成功，资产管理规模已超过1200亿美元，但以太坊ETF相对较小，仅有90亿美元。 
+分析师Gautam Chhugani指出，以太坊的价值在于其作为去中心化计算机的地位，支持稳定币和资产代币化等关键应用。近20天内，以太坊ETF流入资金达8.15亿美元，年初至今净流入转为正值，达6.58亿美元。
+- [4.75亿枚USDT从Tether Treasury转入Binance](https://x.com/whale_alert/status/1932031215168634956) - 📰 null - 【4.75亿枚USDT从Tether Treasury转入Binance】金色财经报道，据Whale Alert监测，北京时间19:02:59，4.75亿USDT从Tether Treasury转入Binance交易所。
+- [澳大利亚查获1.9亿澳元加密洗钱案](https://www.ato.gov.au/media-centre/alleged-qld-money-laundering-organisation-dismantled) - 📰 null - 【澳大利亚查获1.9亿澳元加密洗钱案】金色财经报道，澳大利亚执法部门于2025年6月5-6日展开联合行动，成功捣毁一个位于昆士兰州的大型洗钱组织，逮捕四名嫌疑人。该组织涉嫌通过一家安全公司的装甲运输部门，将约1.9亿澳元（约1.25亿美元）的犯罪所得转化为加密货币。 
+调查显示，该组织利用复杂的银行账户网络、企业、快递和加密货币账户，在18个月内洗白数百万非法资金。警方已冻结价值约2100万澳元的资产，包括17处房产、银行账户和车辆。
+- [某交易员于3小时前卖出277枚WBTC，获利236万美元](https://x.com/lookonchain/status/1932027009548591556) - 📰 null - 【某交易员于3小时前卖出277枚WBTC，获利236万美元】金色财经报道，据 Lookonchain 监测，某交易员于 3 小时前卖出 277 枚 WBTC（价值 2929 万美元），获利 236 万美元。
+- [AAVE突破260美元]() - 📰 null - 【AAVE突破260美元】金色财经报道，行情显示，AAVE突破260美元，现报260.03美元，24小时涨幅达到3.01%，行情波动较大，请做好风险控制。
+- [OpenAI创始人Sam Altman宣布将虹膜识别身份技术引入英国](https://fortune.com/europe/2025/06/09/sam-altman-eye-scanning-identity-tech-expands-uk-tools-for-humanity-orb/) - 📰 null - 【OpenAI创始人Sam Altman宣布将虹膜识别身份技术引入英国】金色财经报道，OpenAI联合创始人Sam Altman创办的公司Tools for Humanity宣布将其虹膜识别身份验证技术Orb设备正式引入英国。从本周开始，伦敦居民可以使用这种球形扫描设备验证身份，未来几个月内服务将扩展至曼彻斯特、伯明翰等多个城市。该技术通过扫描虹膜创建名为"World ID"的数字凭证，旨在证明用户是真实人类而非AI。
