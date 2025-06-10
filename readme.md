@@ -1,35 +1,36 @@
-- [某交易员4倍杠杆做多HYPE已浮盈超1000万美元](https://x.com/OnchainLens/status/1932245457616744500) - 📰 null - 【某交易员4倍杠杆做多HYPE已浮盈超1000万美元】金色财经报道，据Onchain Lens监测，随着HYPE接近历史新高，一位传奇交易员在做多HYPE（使用4倍杠杆）的交易中浮盈已超过1000万美元。
-- [分析：Circle收入98%来自储备资产收益，面临大型机构的潜在市场竞争](https://www.morningstar.com/news/marketwatch/2025060941/circles-buzzy-ipo-was-a-big-hit-now-comes-the-hard-part) - 📰 null - 【分析：Circle收入98%来自储备资产收益，面临大型机构的潜在市场竞争】金色财经报道，稳定币发行商Circle在美挂牌上市后，其盈利模式获得披露，其中显示该公司去年收入中98%来自储备资产的投资收益。通常储备需要为优质、短期而流通性高的资产，但Circle提供的数据显示其过去3年储备资产收益率介乎0.14厘至5.17厘，表明现阶段其收入动力相当侧重短债等资产的息率走势。 
-此外，Circle还面临一项潜在的市场竞争风险，即：一旦未来有主权级别机构参与稳定币的发行，可能凭借“零交易对手风险”优势迅速取得一定市占率，分析认为Circle有必要扩阔其加密生态圈。
-- [Strategy比特币持仓市值突破640亿美元，续创新高](https://saylortracker.com/) - 📰 null - 【Strategy比特币持仓市值突破640亿美元，续创新高】金色财经报道，据SaylorTracker，Strategy（原MicroStrategy）的比特币持仓市值突破640亿美元，续创新高。最新数据显示当前Strategy比特币持仓量为582000枚，市值约为64,000,156,710美元，截至目前收益率为56.85%，收益额约为231.9亿美元。
-- [比特币核心开发者计划10月实施OP_RETURN变更](https://protos.com/bitcoin-core-devs-schedule-op_return-change-for-october/) - 📰 null - 【比特币核心开发者计划10月实施OP_RETURN变更】6月10日消息，比特币核心开发者已计划在今年10月发布比特币核心软件第30版，该版本将不再过滤包含大量非金融数据的OP_RETURN输出。这一变更将把默认的数据载体限制从目前的80字节增加至接近4MB，同时允许节点运营商手动修改-datacarrier和-datacarriersize参数。
-- [美国参议院多数党领袖提交GENIUS法案终结辩论动议，本周将进行投票](https://x.com/Cointelegraph/status/1932241367985541554) - 📰 null - 【美国参议院多数党领袖提交GENIUS法案终结辩论动议，本周将进行投票】金色财经报道，据Cointelegraph披露，美国参议院多数党领袖 John Thune 已为 GENIUS 法案及其两党修正案提交终结辩论动议（cloture），该法案将在本周进行投票。
-- [20倍杠杆做多比特币巨鲸向Hyperliquid存入235万美元，或将加仓多单]() - 📰 null - 【20倍杠杆做多比特币巨鲸向Hyperliquid存入235万美元，或将加仓多单】金色财经报道，据Lookonchain监测，昨日开启20倍杠杆做多比特币的巨鲸向Hyperliquid存入235万美元，或将加仓多单。
-- [白宫经济委员会主任：美国政府正在考虑以取消部分出口管制作为交换，换取中方进一步放松稀土出口管制]() - 📰 null - 【白宫经济委员会主任：美国政府正在考虑以取消部分出口管制作为交换，换取中方进一步放松稀土出口管制】金色财经报道，中美经贸磋商机制首次会议开始前的当天上午，CNBC连线白宫经济委员会主任哈塞特进行了采访。他首次透露，美国政府正在考虑以取消部分出口管制作为交换，换取中方进一步放松稀土出口管制。哈塞特表示，本轮会谈“不会很长，但将是一次强有力的握手(a big,stronghandshake)”;如果中国允许大规模出口稀土，“所有美国的出口管制将会立即有所放松”(anyexporcontrols from the US will be eased)随后双方将继续处理一些“较小的问频”(smaller matters)。
-- [米歇尔·鲍曼已宣誓就任美联储理事会监管副主席](https://www.federalreserve.gov/newsevents/pressreleases/other20250609a.htm) - 📰 null - 【米歇尔·鲍曼已宣誓就任美联储理事会监管副主席】金色财经报道，据美联储官方公告，米歇尔·鲍曼于周一宣誓就任美联储理事会监管副主席。宣誓仪式由美联储主席鲍威尔在理事会的新闻发布室主持。 
-特朗普于 2025 年 3 月 24 日提名鲍曼女士担任该职务，随后于 6 月 4 日获得美国参议院确认。她的监管副主席任期将于 2029 年 6 月 9 日结束，作为理事会成员的任期则持续到 2034 年 1 月 31 日。
-- [美国参议院多数党领导人 John Thune 要求围绕稳定币立法问题举行程序性投票](https://www.cls.cn/detail/2052877) - 📰 null - 【美国参议院多数党领导人 John Thune 要求围绕稳定币立法问题举行程序性投票】6月10日消息，据财联社报道，美国参议院多数党领导人 John Thune 要求 6 月 11 日围绕稳定币立法问题举行一场至关重要的程序性投票。该立法草案得到加密数字货币行业和总统特朗普的支持。
-- [特朗普允许美方代表团在关于EDA设计软件、飞机发动机零部件、乙烷和核能设备的潜在出口管制展现灵活性]() - 📰 null - 【特朗普允许美方代表团在关于EDA设计软件、飞机发动机零部件、乙烷和核能设备的潜在出口管制展现灵活性】金色财经报道，《华尔街日报》等媒体援引“知情人士”的消息称，中美经贸磋商机制首次会议于伦敦当地时间周一下午1点过后在兰开斯特宫（Lancaster House）正式开始，特朗普在美方代表团出发前，给予了一定谈判授权，允许在一些问题上展现灵活性——例如，关于EDA设计软件、飞机发动机零部件、乙烷和核能设备的潜在出口管制，美方可酌情调整。
-- [数据：加密基金资产管理规模 5 月份达1670 亿美元，创历史新高]() - 📰 null - 【数据：加密基金资产管理规模 5 月份达1670 亿美元，创历史新高】6月10日消息，加密基金持有的资产在 5 月份创下历史新高。晨星公司对 294 只加密基金的数据显示，这些基金上个月吸引了 70.5 亿美元的净流入，为去年 12 月以来的最高水平，使管理的总资产达到创纪录的 1670 亿美元。与加密基金形成对比的是，Lipper 数据显示，5 月份全球股票基金净流出 59 亿美元，而黄金基金则出现了 15 个月来的首次净流出，金额为 6.78 亿美元。 
-分析师指出，投资者正将加密货币视为多元化投资组合的组成部分，而不仅是高风险资产。市场对美国投资前景的担忧以及美元走弱预期推动了资金流向加密货币。
-- [某鲸鱼高位买入 135 万枚 VERSE ，目前浮亏超 50 万美元]() - 📰 null - 【某鲸鱼高位买入 135 万枚 VERSE ，目前浮亏超 50 万美元】金色财经报道，据Onchain Lens监测，某鲸鱼花费 8,187 枚 SOL（约合 130 万美元）以 0.94 美元的价格购入了 135 万枚 VERSE 代币，该交易发生在 VERSE 价格高点。目前，该鲸鱼持仓已出现超过 50 万美元的浮动亏损。
-- [ETH突破2700美元]() - 📰 null - 【ETH突破2700美元】金色财经报道，行情显示，ETH突破2700美元，现报2702.13美元，24小时涨幅达到7.89%，行情波动较大，请做好风险控制。
-- [美SEC主席：正为DeFi平台制定“创新豁免”政策](https://www.coindesk.com/policy/2025/06/09/u-s-sec-chair-says-working-on-innovation-exemption-for-defi-platforms) - 📰 null - 【美SEC主席：正为DeFi平台制定“创新豁免”政策】金色财经报道，美国证券交易委员会主席Paul Atkins在加密圆桌会议上表示，SEC正在制定针对DeFi平台的“创新豁免”政策。Atkins称已要求工作人员研究修改规则，为链上金融系统提供监管豁免，允许受SEC管辖的实体快速推出链上产品。 
-SEC加密工作组负责人Hester Peirce强调，不应因他人使用代码而追究发布者的责任，但中心化实体不能通过“去中心化”标签规避监管。目前SEC共和党委员以3:1占多数，正推动更友好的加密政策。阿特金斯表示，区块链技术实现了无需中介的金融交易功能，SEC不应阻碍这种创新。
-- [某巨鲸花费997.5万美元建仓HYPE，均价38.46美元](https://x.com/OnchainLens/status/1932227969881411879) - 📰 null - 【某巨鲸花费997.5万美元建仓HYPE，均价38.46美元】金色财经报道，据Onchain Lens监测，某巨鲸向Hyperliquid存入了997.5万枚USDC，并以每枚38.46美元的价格购买了259,367枚HYPE。
-- [某使用1000万枚USDC做多BTC巨鲸仓位已浮盈587万美元](https://x.com/EmberCN/status/1932224418845237477) - 📰 null - 【某使用1000万枚USDC做多BTC巨鲸仓位已浮盈587万美元】金色财经报道，据链上分析师余烬监测，昨天使用1000万USDC明牌开仓做多BTC的巨鲸赢了，BTC又冲上了11万美元。他的仓位目前已经浮盈587万美元。他从昨天下午5点开始建仓后就一直在增加仓位，直到现在都还在增加。他的BTC做多仓位价值现在已经高达2.5亿美元。 
-现在仓位情况：20x做多2276枚BTC，仓位价值2.5亿美元。开仓价格107637美元，清算价格105110美元。目前浮盈587万美元。
-- [昨日ARKB净流入1080万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入1080万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入1080万美元。
-- [金色晨讯 | 6月10日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 6月10日隔夜重要动态一览】21:00-7:00关键词：KULR、巴拉圭、Iurii Gugnin 
-1.美SEC主席：建议对加密资产自托管持更加开放的态度； 
-2.美SEC主席：经济自由、私有财产权等价值观是DeFi的核心； 
-3.英国破产署任命首位加密资产专员，追缴比特币等数字资产； 
-4.上市公司KULR寻求通过普通股发行募资3亿美元增持比特币； 
-5.特朗普：尚未考虑与马斯克进行会谈，不清楚马斯克是否使用过毒品； 
-6.巴拉圭总统X账户遭攻击，“巴拉圭将比特币定为法定货币”系不实信息； 
-7.美检方指控Evita创始人Iurii Gugnin洗钱5亿美元并涉助俄获取敏感技术。
-- [WLFI于2小时前向Aave V3存入多种代币并借出750万枚USDT]() - 📰 null - 【WLFI于2小时前向Aave V3存入多种代币并借出750万枚USDT】金色财经报道，据Onchain Lens监测，2小时前，World Liberty Finance已： 
-- 向Aave V3存入了7,900 枚ETH（2100万美元）、162.69枚WBTC（1791万美元）和5,010 枚stETH（1331万美元）。 
-- 从Aave V3借出了750万枚USDT。 
-- 将750万枚USDT转入BitGo钱包，可能用于提取USD1。
-- [人民日报钟声：中美经贸关系优势互补、共生共赢](https://paper.people.com.cn/rmrb/pc/content/202506/10/content_30078144.html) - 📰 null - 【人民日报钟声：中美经贸关系优势互补、共生共赢】金色财经报道，人民日报钟声10日发布文章指出，中美经贸关系的真实图景是优势互补、共生共赢。只有拆除人为设置的“铁栅栏”，畅通经贸合作的“双向道”，才能推动中美经贸关系稳定健康发展。中美作为全球前两大经济体，加强经贸合作不仅有利于各自发展，也将为全球产业链供应链稳定提供重要保障。我们相信，通过平等协商和务实合作，中美能够找到互利共赢的解决方案。希望双方共同努力，为两国企业开展正常经贸活动创造有利条件，让合作成果更好惠及两国人民，为全球经济复苏和增长作出更大贡献。
+- [数据：质押的以太坊数量达3465万枚，创历史新高](https://x.com/Cointelegraph/status/1932320625634214205) - 📰 null - 【数据：质押的以太坊数量达3465万枚，创历史新高】金色财经报道，据Cointelegraph披露，质押的以太坊数量创下历史新高，达到3465万枚ETH，占当前流通供应量的近30%。
+- [Metalpha以1.8万枚ETH作为抵押借出2000万美元稳定币，再度存入Binance](https://x.com/OnchainLens/status/1932320457283473830) - 📰 null - 【Metalpha以1.8万枚ETH作为抵押借出2000万美元稳定币，再度存入Binance】金色财经报道，据Onchain Lens监测，Metalpha已将1.8万枚ETH存入Spark作为抵押，并借出1200万USDS和800万DAI，将其转换为2000万USDC，然后将其存回Binance。 
+今晨消息，加密资管机构Metalpha2小时前从Binance提取了18,000枚ETH（价值约合4845万美元）。
+- [英国上市公司Smarter Web Company增持45.32枚BTC，目前总持仓量达168.08枚](https://investors.smarterwebcompany.co.uk/investors/_img/pdf/news/2025-06-10-bitcoin-purchase.pdf) - 📰 null - 【英国上市公司Smarter Web Company增持45.32枚BTC，目前总持仓量达168.08枚】金色财经报道，据官方消息，英国上市公司Smarter Web Company向其资金库增持45.32枚BTC，此次增持后，该公司BTC总持有量达到168.08枚。
+- [通信平台Towns Protocol完成330万美元额外融资，Coinbase Ventures和echo领投](https://x.com/TownsProtocol/status/1932105456077685117) - 📰 null - 【通信平台Towns Protocol完成330万美元额外融资，Coinbase Ventures和echo领投】6月10日消息，据官方消息，通信平台Towns Protocol完成330万美元额外融资，此轮融资由Coinbase Ventures和echo领投，融资已于今年4月完成。 
+今年4月，Towns Protocol宣布完成1000万美元B轮融资，本轮融资由a16z crypto领投，Coinbase Ventures、Benchmark等参投。 
+Towns Protocol基于Base网络构建，旨在推动Web3社交与协作工具的发展。Towns希望通过去中心化和Web3创建一个数字城镇广场，成员可以在其中定义边界、制定规则并建立他们想要的世界，用户将成为数字城镇广场的主人。
+- [Canary Capital在特拉华州成立信托基金“Canary Staked INJ ETF”](https://cointelegraph.com/news/canary-capital-delaware-trust-staked-injective-etf) - 📰 null - 【Canary Capital在特拉华州成立信托基金“Canary Staked INJ ETF”】金色财经报道，据Cointelegraph报道，基金经理Canary Capital在特拉华州成立了一个信托基金，名为“Canary Staked INJ ETF”，旨在推出以Injective代币质押为基础的基金。这一举措是推出ETF的第一步，通常在向美国证券交易委员会（SEC）提交进一步文件之前进行。Injective的原生代币INJ在过去24小时内上涨了3.7%，显示出市场对该消息的积极反应。
+- [Cardano创始人在Cardano上推出比特币DeFi协议Cardinal](https://www.cryptotimes.io/2025/06/10/charles-hoskinson-launches-first-bitcoin-defi-protocol-on-cardano/) - 📰 null - 【Cardano创始人在Cardano上推出比特币DeFi协议Cardinal】金色财经报道，Cardano创始人Charles Hoskinson在Cardano上推出首个比特币DeFi协议Cardinal。该协议通过MuSig2多签技术实现非托管跨链，支持用户直接使用比特币UTXO参与Cardano链上借贷和质押操作，同时兼容Ordinals铭文作为抵押品。技术方案包含BitVMX链下验证系统，并支持与以太坊、Solana等公链交互。
+- [Uniswap Labs CEO：美SEC已公开承认DeFi是国家优先事项](https://x.com/haydenzadams/status/1932298054343733664) - 📰 null - 【Uniswap Labs CEO：美SEC已公开承认DeFi是国家优先事项】金色财经报道，美国证券交易委员会主席Paul Atkins在加密圆桌会议上宣布正在制定针对DeFi平台的“创新豁免”政策引起加密社区关注，Uniswap Labs首席执行官Hayden Adams发文表示，DeFi发展如此之快已令人难以置信，Maker、Compound和Uniswap于2018年推出，推动了DeFi运动的开始，在此之前“DeFi”这个词甚至不存在，现在美SEC主席的态度表明美国政府机构公开承认DeFi已是国家优先事项。
+- [加密货币诈骗犯承认参与针对美国人的3700万美元诈骗计划](https://cointelegraph.com/news/5-plead-guilty-multinational-crypto-scam-scheme) - 📰 null - 【加密货币诈骗犯承认参与针对美国人的3700万美元诈骗计划】金色财经报道，五名男子承认参与了一项针对美国人的3690万美元国际加密货币诈骗计划，涉案资金最终被转移至柬埔寨的一家加密货币诈骗中心。美国加利福尼亚州中区检察官办公室周一表示，这些加密货币诈骗犯利用空壳公司和美国银行账户收取盗取的资金，随后将其转换为Tether并转入柬埔寨控制的加密货币钱包。 
+这些认罪协议反映了美国政府对亚洲地区运营的加密货币诈骗和洗钱团伙的打击行动，尤其是与朝鲜国家支持的Lazarus集团有关联的团伙。
+- [韩国新任总统兑现竞选承诺 为稳定币发行开绿灯]() - 📰 null - 【韩国新任总统兑现竞选承诺 为稳定币发行开绿灯】金色财经报道，韩国新任总统李在明正在迅速兑现他的竞选承诺，允许当地公司发行稳定币，进一步推动全球最活跃的数字资产市场之一。李在明一直公开支持采用稳定币。周二，李在明所在的执政党民主党提出了《数字资产基本法》，旨在提高透明度，鼓励加密货币行业的竞争。 
+根据该法案，如果韩国公司拥有至少5亿韩元（367,876美元）的股本，同时确保通过储备金保证退款，就可以发行稳定币。韩国已经是加密货币活动的温室，超过三分之一的人口（约1800万人）参与了数字资产市场。有些时候，国内加密货币交易所的交易量甚至超过了韩国首尔综指和韩国创业板指（KOSDAQ）指数。稳定币是与另一种资产挂钩的加密货币，通常是美元。(金十)
+- [摩根士丹利：预计到2026年底 人民币对美元的升值幅度将相对温和 可能达到7.05]() - 📰 null - 【摩根士丹利：预计到2026年底 人民币对美元的升值幅度将相对温和 可能达到7.05】金色财经报道，今日上午，MSCI中国指数上涨，较4月低点涨幅扩大至20%。从目前的情况来看，中国股市的多头趋势的确在增强。摩根士丹利表示，投资者尤其关注中国市场中的新技术和新商业模式，特别是新消费主题以及人工智能/科技相关主题。对于中国在全球技术竞争中能力的提升，例如在人工智能领域的突破以及电动车、电池、人形机器人等领域的进展，投资者也给予了更多认可，并开始重新思考在多极世界中同时投资中美市场的策略。汇率方面，摩根士丹利已将人民币兑美元的观点从贬值转为升值。这一转变反映了其对美元走弱的预期，预计到2026年底，美元指数可能跌至89。同时，欧元兑美元预计也将升值超过10%。不过，摩根士丹利预计到2026年底，人民币对美元的升值幅度将相对温和，可能达到7.05。(金十)
+- [FARTCOIN突破1.25美元，24小时涨幅达20.4%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/fartcoin) - 📰 null - 【FARTCOIN突破1.25美元，24小时涨幅达20.4%】金色财经报道，行情显示，FARTCOIN突破1.25美元，现报价1.25美元，24小时涨幅达20.4%，行情波动较大，请做好风险控制。
+- [Upbit将上线EPT的USDT交易对](https://upbit.com/service_center/notice?id=5217) - 📰 null - 【Upbit将上线EPT的USDT交易对】金色财经报道，据官方公告，韩国加密交易所Upbit将在USDT市场上线Balance(EPT)。
+- [Metalpha 2小时前从币安提取1.8万枚ETH，约合4845万美元](https://x.com/1462727797135216641/status/1932297863008309699) - 📰 null - 【Metalpha 2小时前从币安提取1.8万枚ETH，约合4845万美元】金色财经报道，据Lookonchain监测，加密资管机构Metalpha 2小时前从Binance提取了18,000枚ETH（价值约合4845万美元）。
+- [Upbit将上线AXL韩元、USDT交易对]() - 📰 null - 【Upbit将上线AXL韩元、USDT交易对】金色财经报道，据官方公告，Upbit将上线AXL韩元、USDT交易对。
+- [Fragmetric联创回应空投传闻，暗示空投比例将大于5%](https://x.com/sangdotsol/status/1932239911509438899) - 📰 null - 【Fragmetric联创回应空投传闻，暗示空投比例将大于5%】金色财经报道，RateX Research昨晚于X发文，以5%的假设空投比例计算了Solana生态在质押项目Fragmetric的空投潜在收益。 
+对此，Fragmetric联合创始人sang.sol回复表示“5%真是个很小的数字”，疑暗示最终空投比例将大于5%。
+- [EDA工具近期悄然恢复向部分中国企业开放](https://www.digitimes.com/news/a20250609PD215/eda-cadence-synopsys-ic-design-beijing.html) - 📰 null - 【EDA工具近期悄然恢复向部分中国企业开放】6月10日消息，北京时间2025年6月5日晚，中美两国高层举行直接通话后，中国半导体和电子设计自动化(EDA)战略出现了微妙的变化。据多位中国本土IC设计工程师和公司反馈，此前因美国出口管制而无法访问的新思科技(Synopsys)技术支持平台“Solv Net Plus”和Cadence的“支持门户”现已恢复访问。然而，Synopsys和Cadence均未正式披露这一变化。目前尚不清楚此次恢复是否仅适用于特定的、敏感度较低的中国客户，并由此引发了人们对美国可能放松对华技术限制的质疑。
+- [Paradigm Capital 9小时前转移1000万枚LDO，或将进行抛售](https://x.com/lookonchain/status/1932287458382938618) - 📰 null - 【Paradigm Capital 9小时前转移1000万枚LDO，或将进行抛售】金色财经报道，据Lookonchain监测，过去一个月，多家机构钱包通过钱包0xC4Db向CEX存入了总计4848万枚LDO（4560万美元）。 
+9小时前，Paradigm Capital向0xC4Db转移了1000万枚LDO（841万美元）——可能还会有更多抛售。
+- [SBI Holdings及其子公司向CircleIPO投资5000万美元](https://thecryptobasic.com/2025/06/09/ripple-ally-sbi-holdings-invests-50m-in-circle-ipo/) - 📰 null - 【SBI Holdings及其子公司向CircleIPO投资5000万美元】金色财经报道，据The Crypto Basic报道，Ripple合作伙伴SBI Holdings及其附属公司SBI Shinsei Bank在Circle首次公开募股后宣布向USDC发行商Circle投资5000万美元。该投资由SBI Holdings和SBI Shinsei Bank各出资2500万美元。 
+此前，SBI于2025年3月成立了合资公司Circle SBI Japan KK，旨在推动USDC在日本市场的采用和流通。
+- [Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序](https://x.com/Cointelegraph/status/1932286712765419845) - 📰 null - 【Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序】Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序 
+金色财经报道，Robinhood首席执行官Vlad Tenev发布了“特朗普账户”计划的模拟应用程序，该计划为每个美国新生儿提供一个由政府资助的1,000美元经纪账户。 
+Tenev表示，Robinhood已“准备就绪”，每年为超过350万名新生儿提供账户服务。
+- [金色午报 | 6月10日午间重要动态一览]() - 📰 null - 【金色午报 | 6月10日午间重要动态一览】7:00-12:00关键词：米歇尔·鲍曼、Strategy、CZ 
+1.米歇尔·鲍曼已宣誓就任美联储理事会监管副主席； 
+2.美SEC主席：正为DeFi平台制定“创新豁免”政策； 
+3.Strategy比特币持仓市值突破640亿美元，续创新高； 
+4.Uniswap基金会推出试点资助计划Hook Design Lab； 
+5.福布斯富豪榜：CZ再次成为华人首富，资产达657亿美元； 
+6.美国参议院多数党领袖提交GENIUS法案终结辩论动议，本周将进行投票。
