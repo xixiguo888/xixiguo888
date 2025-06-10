@@ -1,36 +1,23 @@
-- [数据：质押的以太坊数量达3465万枚，创历史新高](https://x.com/Cointelegraph/status/1932320625634214205) - 📰 null - 【数据：质押的以太坊数量达3465万枚，创历史新高】金色财经报道，据Cointelegraph披露，质押的以太坊数量创下历史新高，达到3465万枚ETH，占当前流通供应量的近30%。
-- [Metalpha以1.8万枚ETH作为抵押借出2000万美元稳定币，再度存入Binance](https://x.com/OnchainLens/status/1932320457283473830) - 📰 null - 【Metalpha以1.8万枚ETH作为抵押借出2000万美元稳定币，再度存入Binance】金色财经报道，据Onchain Lens监测，Metalpha已将1.8万枚ETH存入Spark作为抵押，并借出1200万USDS和800万DAI，将其转换为2000万USDC，然后将其存回Binance。 
-今晨消息，加密资管机构Metalpha2小时前从Binance提取了18,000枚ETH（价值约合4845万美元）。
-- [英国上市公司Smarter Web Company增持45.32枚BTC，目前总持仓量达168.08枚](https://investors.smarterwebcompany.co.uk/investors/_img/pdf/news/2025-06-10-bitcoin-purchase.pdf) - 📰 null - 【英国上市公司Smarter Web Company增持45.32枚BTC，目前总持仓量达168.08枚】金色财经报道，据官方消息，英国上市公司Smarter Web Company向其资金库增持45.32枚BTC，此次增持后，该公司BTC总持有量达到168.08枚。
-- [通信平台Towns Protocol完成330万美元额外融资，Coinbase Ventures和echo领投](https://x.com/TownsProtocol/status/1932105456077685117) - 📰 null - 【通信平台Towns Protocol完成330万美元额外融资，Coinbase Ventures和echo领投】6月10日消息，据官方消息，通信平台Towns Protocol完成330万美元额外融资，此轮融资由Coinbase Ventures和echo领投，融资已于今年4月完成。 
-今年4月，Towns Protocol宣布完成1000万美元B轮融资，本轮融资由a16z crypto领投，Coinbase Ventures、Benchmark等参投。 
-Towns Protocol基于Base网络构建，旨在推动Web3社交与协作工具的发展。Towns希望通过去中心化和Web3创建一个数字城镇广场，成员可以在其中定义边界、制定规则并建立他们想要的世界，用户将成为数字城镇广场的主人。
-- [Canary Capital在特拉华州成立信托基金“Canary Staked INJ ETF”](https://cointelegraph.com/news/canary-capital-delaware-trust-staked-injective-etf) - 📰 null - 【Canary Capital在特拉华州成立信托基金“Canary Staked INJ ETF”】金色财经报道，据Cointelegraph报道，基金经理Canary Capital在特拉华州成立了一个信托基金，名为“Canary Staked INJ ETF”，旨在推出以Injective代币质押为基础的基金。这一举措是推出ETF的第一步，通常在向美国证券交易委员会（SEC）提交进一步文件之前进行。Injective的原生代币INJ在过去24小时内上涨了3.7%，显示出市场对该消息的积极反应。
-- [Cardano创始人在Cardano上推出比特币DeFi协议Cardinal](https://www.cryptotimes.io/2025/06/10/charles-hoskinson-launches-first-bitcoin-defi-protocol-on-cardano/) - 📰 null - 【Cardano创始人在Cardano上推出比特币DeFi协议Cardinal】金色财经报道，Cardano创始人Charles Hoskinson在Cardano上推出首个比特币DeFi协议Cardinal。该协议通过MuSig2多签技术实现非托管跨链，支持用户直接使用比特币UTXO参与Cardano链上借贷和质押操作，同时兼容Ordinals铭文作为抵押品。技术方案包含BitVMX链下验证系统，并支持与以太坊、Solana等公链交互。
-- [Uniswap Labs CEO：美SEC已公开承认DeFi是国家优先事项](https://x.com/haydenzadams/status/1932298054343733664) - 📰 null - 【Uniswap Labs CEO：美SEC已公开承认DeFi是国家优先事项】金色财经报道，美国证券交易委员会主席Paul Atkins在加密圆桌会议上宣布正在制定针对DeFi平台的“创新豁免”政策引起加密社区关注，Uniswap Labs首席执行官Hayden Adams发文表示，DeFi发展如此之快已令人难以置信，Maker、Compound和Uniswap于2018年推出，推动了DeFi运动的开始，在此之前“DeFi”这个词甚至不存在，现在美SEC主席的态度表明美国政府机构公开承认DeFi已是国家优先事项。
-- [加密货币诈骗犯承认参与针对美国人的3700万美元诈骗计划](https://cointelegraph.com/news/5-plead-guilty-multinational-crypto-scam-scheme) - 📰 null - 【加密货币诈骗犯承认参与针对美国人的3700万美元诈骗计划】金色财经报道，五名男子承认参与了一项针对美国人的3690万美元国际加密货币诈骗计划，涉案资金最终被转移至柬埔寨的一家加密货币诈骗中心。美国加利福尼亚州中区检察官办公室周一表示，这些加密货币诈骗犯利用空壳公司和美国银行账户收取盗取的资金，随后将其转换为Tether并转入柬埔寨控制的加密货币钱包。 
-这些认罪协议反映了美国政府对亚洲地区运营的加密货币诈骗和洗钱团伙的打击行动，尤其是与朝鲜国家支持的Lazarus集团有关联的团伙。
-- [韩国新任总统兑现竞选承诺 为稳定币发行开绿灯]() - 📰 null - 【韩国新任总统兑现竞选承诺 为稳定币发行开绿灯】金色财经报道，韩国新任总统李在明正在迅速兑现他的竞选承诺，允许当地公司发行稳定币，进一步推动全球最活跃的数字资产市场之一。李在明一直公开支持采用稳定币。周二，李在明所在的执政党民主党提出了《数字资产基本法》，旨在提高透明度，鼓励加密货币行业的竞争。 
-根据该法案，如果韩国公司拥有至少5亿韩元（367,876美元）的股本，同时确保通过储备金保证退款，就可以发行稳定币。韩国已经是加密货币活动的温室，超过三分之一的人口（约1800万人）参与了数字资产市场。有些时候，国内加密货币交易所的交易量甚至超过了韩国首尔综指和韩国创业板指（KOSDAQ）指数。稳定币是与另一种资产挂钩的加密货币，通常是美元。(金十)
-- [摩根士丹利：预计到2026年底 人民币对美元的升值幅度将相对温和 可能达到7.05]() - 📰 null - 【摩根士丹利：预计到2026年底 人民币对美元的升值幅度将相对温和 可能达到7.05】金色财经报道，今日上午，MSCI中国指数上涨，较4月低点涨幅扩大至20%。从目前的情况来看，中国股市的多头趋势的确在增强。摩根士丹利表示，投资者尤其关注中国市场中的新技术和新商业模式，特别是新消费主题以及人工智能/科技相关主题。对于中国在全球技术竞争中能力的提升，例如在人工智能领域的突破以及电动车、电池、人形机器人等领域的进展，投资者也给予了更多认可，并开始重新思考在多极世界中同时投资中美市场的策略。汇率方面，摩根士丹利已将人民币兑美元的观点从贬值转为升值。这一转变反映了其对美元走弱的预期，预计到2026年底，美元指数可能跌至89。同时，欧元兑美元预计也将升值超过10%。不过，摩根士丹利预计到2026年底，人民币对美元的升值幅度将相对温和，可能达到7.05。(金十)
-- [FARTCOIN突破1.25美元，24小时涨幅达20.4%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/fartcoin) - 📰 null - 【FARTCOIN突破1.25美元，24小时涨幅达20.4%】金色财经报道，行情显示，FARTCOIN突破1.25美元，现报价1.25美元，24小时涨幅达20.4%，行情波动较大，请做好风险控制。
-- [Upbit将上线EPT的USDT交易对](https://upbit.com/service_center/notice?id=5217) - 📰 null - 【Upbit将上线EPT的USDT交易对】金色财经报道，据官方公告，韩国加密交易所Upbit将在USDT市场上线Balance(EPT)。
-- [Metalpha 2小时前从币安提取1.8万枚ETH，约合4845万美元](https://x.com/1462727797135216641/status/1932297863008309699) - 📰 null - 【Metalpha 2小时前从币安提取1.8万枚ETH，约合4845万美元】金色财经报道，据Lookonchain监测，加密资管机构Metalpha 2小时前从Binance提取了18,000枚ETH（价值约合4845万美元）。
-- [Upbit将上线AXL韩元、USDT交易对]() - 📰 null - 【Upbit将上线AXL韩元、USDT交易对】金色财经报道，据官方公告，Upbit将上线AXL韩元、USDT交易对。
-- [Fragmetric联创回应空投传闻，暗示空投比例将大于5%](https://x.com/sangdotsol/status/1932239911509438899) - 📰 null - 【Fragmetric联创回应空投传闻，暗示空投比例将大于5%】金色财经报道，RateX Research昨晚于X发文，以5%的假设空投比例计算了Solana生态在质押项目Fragmetric的空投潜在收益。 
-对此，Fragmetric联合创始人sang.sol回复表示“5%真是个很小的数字”，疑暗示最终空投比例将大于5%。
-- [EDA工具近期悄然恢复向部分中国企业开放](https://www.digitimes.com/news/a20250609PD215/eda-cadence-synopsys-ic-design-beijing.html) - 📰 null - 【EDA工具近期悄然恢复向部分中国企业开放】6月10日消息，北京时间2025年6月5日晚，中美两国高层举行直接通话后，中国半导体和电子设计自动化(EDA)战略出现了微妙的变化。据多位中国本土IC设计工程师和公司反馈，此前因美国出口管制而无法访问的新思科技(Synopsys)技术支持平台“Solv Net Plus”和Cadence的“支持门户”现已恢复访问。然而，Synopsys和Cadence均未正式披露这一变化。目前尚不清楚此次恢复是否仅适用于特定的、敏感度较低的中国客户，并由此引发了人们对美国可能放松对华技术限制的质疑。
-- [Paradigm Capital 9小时前转移1000万枚LDO，或将进行抛售](https://x.com/lookonchain/status/1932287458382938618) - 📰 null - 【Paradigm Capital 9小时前转移1000万枚LDO，或将进行抛售】金色财经报道，据Lookonchain监测，过去一个月，多家机构钱包通过钱包0xC4Db向CEX存入了总计4848万枚LDO（4560万美元）。 
-9小时前，Paradigm Capital向0xC4Db转移了1000万枚LDO（841万美元）——可能还会有更多抛售。
-- [SBI Holdings及其子公司向CircleIPO投资5000万美元](https://thecryptobasic.com/2025/06/09/ripple-ally-sbi-holdings-invests-50m-in-circle-ipo/) - 📰 null - 【SBI Holdings及其子公司向CircleIPO投资5000万美元】金色财经报道，据The Crypto Basic报道，Ripple合作伙伴SBI Holdings及其附属公司SBI Shinsei Bank在Circle首次公开募股后宣布向USDC发行商Circle投资5000万美元。该投资由SBI Holdings和SBI Shinsei Bank各出资2500万美元。 
-此前，SBI于2025年3月成立了合资公司Circle SBI Japan KK，旨在推动USDC在日本市场的采用和流通。
-- [Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序](https://x.com/Cointelegraph/status/1932286712765419845) - 📰 null - 【Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序】Robinhood首席执行官发布“特朗普账户”计划的模拟应用程序 
-金色财经报道，Robinhood首席执行官Vlad Tenev发布了“特朗普账户”计划的模拟应用程序，该计划为每个美国新生儿提供一个由政府资助的1,000美元经纪账户。 
-Tenev表示，Robinhood已“准备就绪”，每年为超过350万名新生儿提供账户服务。
-- [金色午报 | 6月10日午间重要动态一览]() - 📰 null - 【金色午报 | 6月10日午间重要动态一览】7:00-12:00关键词：米歇尔·鲍曼、Strategy、CZ 
-1.米歇尔·鲍曼已宣誓就任美联储理事会监管副主席； 
-2.美SEC主席：正为DeFi平台制定“创新豁免”政策； 
-3.Strategy比特币持仓市值突破640亿美元，续创新高； 
-4.Uniswap基金会推出试点资助计划Hook Design Lab； 
-5.福布斯富豪榜：CZ再次成为华人首富，资产达657亿美元； 
-6.美国参议院多数党领袖提交GENIUS法案终结辩论动议，本周将进行投票。
+- [Michael Saylor：MSTR今年迄今产生76,663枚BTC收益](https://x.com/saylor/status/1932413110490734664) - 📰 null - 【Michael Saylor：MSTR今年迄今产生76,663枚BTC收益】金色财经报道，Strategy 创始人 Michael Saylor 发文称，MSTR 今年迄今已产生 76,663 枚 BTC 收益，价值 84 亿美元。
+- [某巨鲸/机构囤积 28.06 万枚 AAVE，浮盈 4068 万美元](https://x.com/EmberCN/status/1932412806911140168) - 📰 null - 【某巨鲸/机构囤积 28.06 万枚 AAVE，浮盈 4068 万美元】金色财经报道，据分析师余烬监测，某巨鲸/机构在前段时间通过 Wintermute OTC 花费了 3000 万美元资金以 262 美元的价格购买了 11.43 万枚 AAVE。 随着 AAVE 今天大涨，目前他们持有的 AAVE 价值已经高达 8648 万美元，浮盈 4068 万美元。
+- [摩根大通：调查显示美债净多头占比创5月5日以来新高]() - 📰 null - 【摩根大通：调查显示美债净多头占比创5月5日以来新高】金色财经报道，摩根大通美国国债客户调查显示，截至6月9日当周，空头占比下降2个百分点，多头占比保持不变。所有客户调查显示，净多头占比创5月5日以来的最高水平。
+- [LD Capital创始人JackYi发文重申看多ETH及其生态代币]() - 📰 null - 【LD Capital创始人JackYi发文重申看多ETH及其生态代币】金色财经报道，LD Capital 创始人 JackYi 再次发文重申坚定看多以太坊及其生态代币，其表示目前持有 10 万枚 ETH 期权多单，认为以太坊生态被低估原因包括：ETH 代币本身被低估，看好牛市期间 ETH/BTC 汇率对回升；加密政策放开后，有真实收入，用户，产品的项目最先受益传统资本流入；华尔街资金近期正在流入以太坊进行建仓。 
+LD Capital 旗下 Trend Research 明牌看多 ETH，现持币 14.2 万枚 ETH，浮盈 4235 万美元。
+- [路透调查：超六成经济学家预测美联储今年将至少降息两次]() - 📰 null - 【路透调查：超六成经济学家预测美联储今年将至少降息两次】金色财经报道，据路透调查：105位经济学家中，59位认为美联储将在下个季度（可能在9月）恢复降息，超过六成经济学家预测美联储今年将至少降息两次；受调查经济学家预计美国经济2025年将增长1.4%，2026年将增长1.5%（与5月预测相同）。
+- [Web3 安全公司 Hypernative 完成 4000 万美元 B 轮融资](https://www.axios.com/pro/fintech-deals/2025/06/10/crypto-security-hypernative-40-million) - 📰 null - 【Web3 安全公司 Hypernative 完成 4000 万美元 B 轮融资】金色财经报道，Web3 安全公司 Hypernative 完成 4000 万美元 B 轮融资，Ten Eleven Ventures 和 Ballistic Ventures 领投，StepStone Group、Boldstart Ventures 和 IBI Tech Fund 等参投。
+- [OP突破0.7美元]() - 📰 null - 【OP突破0.7美元】金色财经报道，行情显示，OP突破0.7美元，现报0.71美元，24小时涨幅达到14.52%，行情波动较大，请做好风险控制。
+- [币安Alpha 积分达 239 的用户可申领 400 枚 RESOLV 空投]() - 📰 null - 【币安Alpha 积分达 239 的用户可申领 400 枚 RESOLV 空投】金色财经报道，拥有至少 239 个币安 Alpha 积分，可在交易开启时前往 Alpha 活动页面上申领 400 个 RESOLV 代币的空投
+- [某巨鲸增加比特币 20 倍多头仓位，仓位价值超过3亿美元](https://x.com/OnchainLens/status/1932404627104031153) - 📰 null - 【某巨鲸增加比特币 20 倍多头仓位，仓位价值超过3亿美元】金色财经报道，据 Onchain Lens 监测，一位神秘鲸鱼继续增持其20倍杠杆的比特币多头仓位，目前总仓位价值超过3亿美元，浮盈达460万美元。具体持仓为2817.58枚BTC，开仓价为108,100美元，清算价为105,780美元。
+- [UNI突破8美元]() - 📰 null - 【UNI突破8美元】金色财经报道，行情显示，UNI突破8美元，现报8.02美元，24小时涨幅达到22.26%，行情波动较大，请做好风险控制。
+- [德意志银行与蚂蚁国际合作共推代币化存款与稳定币发展](http://www.aastocks.com/sc/stocks/news/infocast-news/IC4511646/1) - 📰 null - 【德意志银行与蚂蚁国际合作共推代币化存款与稳定币发展】金色财经报道，德意志银行与蚂蚁国际今日宣布建立战略合作伙伴关系，双方将结合各自优势，为欧洲和亚洲企业提供创新的跨境支付解决方案。合作内容包括推出代币化存款、稳定币及基于时序Transformer(TST)AI外汇模型的创新方案。
+- [HOME空投数据：13095个账户已卖出，单号收益约为66美元](https://litangdingzhen.me/) - 📰 null - 【HOME空投数据：13095个账户已卖出，单号收益约为66美元】6月10日消息，据 litangdingzhen.me 数据显示，Binance 新一期 Alpha（HOME）活动在门槛之上的人数至多为 32000 个（至少 236 积分），其中 13095 个账户已卖出本期空投代币，单号收益约为 66 美元。本次 Alpha 空投 HOME 总计 8000 万枚，Binance 钱包当前剩余代币 1.2 亿枚。单号币数为 2500 枚，按当前数据计，潜在补发币数为 2514 枚（约合 68 美元），空投总价值约 216 万美元。 
+注：Binance 钱包剩余币数为 Binance 留作后续活动使用，可能与本次空投无直接关联。
+- [AAVE突破310美元]() - 📰 null - 【AAVE突破310美元】金色财经报道，行情显示，AAVE突破310美元，现报310.38美元，24小时涨幅达到20.06%，行情波动较大，请做好风险控制。
+- [Defi App 正式推出 HOME 代币空投及质押服务](https://x.com/defidotapp/status/1932396195944464556) - 📰 null - 【Defi App 正式推出 HOME 代币空投及质押服务】金色财经报道，Defi App 宣布其代币 HOME 空投和质押已上线。
+- [黄立成开始逐步平多HYPE进行止盈，浮盈650万美元](https://x.com/EmberCN/status/1932396944720015729) - 📰 null - 【黄立成开始逐步平多HYPE进行止盈，浮盈650万美元】金色财经报道，据余烬监测，麻吉大哥黄立成开始逐步平多HYPE进行止盈，他目前在HYPE上浮盈650万美元。他在5月份以29.4美元的价格购买了20万枚HYPE现货，然后又通过合约以5x杠杆做多了65万枚HYPE，开仓均价35.6美元。随着HYPE价格上涨突破40美元，他开始逐步关闭他的HYPE多仓止盈。他目前还持有44万枚HYPE多仓和20万枚HYPE现货。
+- [ETH突破2700美元]() - 📰 null - 【ETH突破2700美元】金色财经报道，行情显示，ETH突破2700美元，现报2700.92美元，24小时涨幅达到6.66%，行情波动较大，请做好风险控制。
+- [过去48小时内鲸鱼已购买超过1.2亿个ADA](https://x.com/ali_charts/status/1932394110112973287) - 📰 null - 【过去48小时内鲸鱼已购买超过1.2亿个ADA】金色财经报道，据链上分析师@ali_charts监测，过去48小时内，鲸鱼已购买了超过1.2亿个ADA。
+- [稳定币初创公司Noah完成2200万美元融资](https://fortune.com/crypto/2025/06/10/noah-thijn-lamers-stablecoin-startup-shah-ramezani/) - 📰 null - 【稳定币初创公司Noah完成2200万美元融资】金色财经报道，稳定币初创公司 Noah 完成 2200 万美元融资，本轮融资由欧洲风投机构 LocalGlobe 领投，其他参与者包括 Felix Capital、FJ Labs，以及 Palantir 联合创始人 Joe Lonsdale 和 Adyen 前首席技术官 Alexander Matthey 等天使投资人。 
+金融科技巨头 Adyen 前高管 Thijn Lamers 以联合创始人兼总裁身份加入。
+- [英国金融行为监管局设立新职位以反映其不断扩大的职权范围]() - 📰 null - 【英国金融行为监管局设立新职位以反映其不断扩大的职权范围】金色财经报道，英国金融行为监管局（FCA）：Sarah Pritchard被任命为副首席执行官，设立新职位以反映其不断扩大的职权范围，包括对加密货币公司的监管。
+- [Hyperscale Data披露旗下全资子公司Sentinum签署托管协议]() - 📰 null - 【Hyperscale Data披露旗下全资子公司Sentinum签署托管协议】金色财经报道，纽交所上市公司Hyperscale Data披露旗下全资子公司Sentinum签署托管协议，以扩大其比特币挖矿业务并参与能源削减计划。
