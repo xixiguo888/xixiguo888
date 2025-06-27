@@ -1,34 +1,30 @@
-- [马斯克：X平台将根据广告的垂直尺寸开始收费]() - 📰 null - 【马斯克：X平台将根据广告的垂直尺寸开始收费】金色财经报道，马斯克于X平台发文表示，X平台将根据广告的垂直尺寸开始收费，因此占据整个屏幕的广告将比占据屏幕四分之一的广告费用更高。否则，广告商就会倾向于创建巨型广告来损害用户体验。
-- [Bitcoin Treasury Corporation在多伦多证券交易所上市并完成首笔292.8枚BTC购买](https://www.globenewswire.com/news-release/2025/06/26/3106331/0/en/Bitcoin-Treasury-Corporation-Announces-the-Resumption-of-Trading-of-Its-Common-Shares-on-the-TSX-Venture-Exchange-Closing-of-Common-Share-Offering-and-Initial-Bitcoin-Acquisition.html) - 📰 null - 【Bitcoin Treasury Corporation在多伦多证券交易所上市并完成首笔292.8枚BTC购买】金色财经报道，已在多伦多证券交易所创业板上市的比特币金融公司Bitcoin Treasury Corporation宣布已完成426,650股股发行，加上此前融资交易总计获得1.25亿美元资金。在募资交易结束后，Bitcoin Treasury Corporation公司宣布以43,127,353加元的价格完成首笔292.8枚BTC购买，目前这些比特币已纳入该公司的资产负债表，也意味着该公司的BTCT比特币增持计划正式启动。
-- [自动化比特币财务解决方案Castle完成100万美元Pre-Seed轮融资，Boost VC领投](https://www.prnewswire.com/news-releases/castle-raises-1m-to-bring-automated-bitcoin-treasury-solution-to-us-businesses-302492631.html) - 📰 null - 【自动化比特币财务解决方案Castle完成100万美元Pre-Seed轮融资，Boost VC领投】金色财经报道，自动化比特币财务解决方案Castle宣布完成100万美元Pre-Seed轮融资，Boost VC领投，加密货币交易所Gemini联合创始人创立的Winklevoss Capital、以及Park Rangers Capital、Epoch VC和部分天使投资人参投。Castle目前主要面向中小型企业，其自动化购买和出售解决方案可以让这些公司使用比特币抗通胀，保护和增加财富。
-- [Galaxy和Manifold向HyperLiquid存入总计3000万美元并购入HYPE]() - 📰 null - 【Galaxy和Manifold向HyperLiquid存入总计3000万美元并购入HYPE】金色财经报道，据Onchain Lens监测，两家机构GalaxyDigital和ManifoldTrading已向HyperLiquid存入3000万美元USDC，并开始购买HYPE代币。
-- [某巨鲸/机构过去2周将4.14万枚ETH转入CEX，质押超1年亏损约2880万美元]() - 📰 null - 【某巨鲸/机构过去2周将4.14万枚ETH转入CEX，质押超1年亏损约2880万美元】金色财经报道，据余烬监测，某巨鲸/机构地址在最近2周时间里，共计将4.14万枚ETH(约合1亿美元)分散转进了以HTX为主的多家CEX。据悉，他们在去年3月质押了40,128枚ETH，并在一个月前赎回了这些ETH。不过其去年质押时，ETH价格在3,227美元左右，而现在ETH的价格仅为2417美元。质押一年多时间亏损2880万美元。
-- [某鲸鱼地址将1613枚BTC转入Binance]() - 📰 null - 【某鲸鱼地址将1613枚BTC转入Binance】金色财经报道，据Lookonchain监测，3NVeXm开头鲸鱼地址刚刚向Binance充值了1,613枚BTC（价值1.73亿美元）。
-- [Agora CEO对Anchorage的“稳定币安全矩阵”报告提出异议，该报告将AUSD评为风险显著较高的稳定币](https://www.theblock.co/post/360034/agora-ceo-pushes-back-anchorages-stablecoin-safety-matrix?utm_source=twitter&utm_medium=social) - 📰 null - 【Agora CEO对Anchorage的“稳定币安全矩阵”报告提出异议，该报告将AUSD评为风险显著较高的稳定币】金色财经报道，加密金融服务公司Anchorage周四发布了一份“稳定币安全矩阵”报告，这份报告受到了部分稳定币发行方的强烈反对。其中，Agora创始人兼首席执行官Nickvan Eck对Anchorage的评分提出了特别的质疑。Agora是AUSD稳定币的发行方，其稳定币在报告中获得了极低的评级。 
-Van Eck声称，Anchorage的评分受到了其与某些稳定币公司（包括Paxos）之间“付费参与”安排的偏见影响。据van Eck称，Anchorage以“结构性风险”为由，下架了Agora的AUSD和Circle的USDC代币，理由包括缺乏监管监督和对支持资产的负债管理不善。
-- [AguilaTrades平仓其20倍BTC多单，获利158万美元](https://x.com/OnchainLens/status/1938398398014755152) - 📰 null - 【AguilaTrades平仓其20倍BTC多单，获利158万美元】金色财经报道，据Onchain Lens监测，巨鲸交易员AguilaTrades已平仓其BTC（20倍）多头仓位，获利158万美元。在过去两笔多头交易中，他获利293万美元；然而，总体来看近期仍亏损3239万美元。
-- [Binance新一期Alpha（SAHARA）空投数据：61%账户已卖出，单号收益降至87美元]() - 📰 null - 【Binance新一期Alpha（SAHARA）空投数据：61%账户已卖出，单号收益降至87美元】6月27日消息，据litangdingzhen.me数据显示，Binance新一期Alpha（SAHARA）活动空投总量足够分发给的人数为74950人，其中45411人已卖出空投代币，单号收益降至87美元（受币价下跌影响，开盘后卖出收益约为140美元）。本次Alpha空投SAHARA总计74,950,000枚，Binance钱包剩余代币约46000枚。单号币数为1000枚，潜在二阶段人数为22727人，空投总价值约6,519,752美元。 
-注：Binance钱包剩余币数为Binance留作后续活动使用，并非全部与本次空投活动直接关联。
-- [昨日FBTC净流入3290万美元，BITB净流入2520万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流入3290万美元，BITB净流入2520万美元】金色财经报道，据Farside Investors监测数据，昨日FBTC净流入3290万美元，BITB净流入2520万美元。
-- [灰度更新第三季度Top 20名单，新增AVAX与MORPHO并移除LDO与OP](https://x.com/Grayscale/status/1938330030834393262) - 📰 null - 【灰度更新第三季度Top 20名单，新增AVAX与MORPHO并移除LDO与OP】金色财经报道，据官方公告，Grayscale Research更新了2025年第三季度Top 20资产名单，本季度新增Avalanche（AVAX）与Morpho（MORPHO），分别因链上交易活跃度上升和去中心化借贷增长强劲；被移除的Lido DAO（LDO）和Optimism（OP）则面临中心化质押服务的竞争压力及代币收入分配不确定性。
-- [Tether CEO：正审核计划在萨尔瓦多建造“Tether Tower”的首个设计方案](https://x.com/Cointelegraph/status/1938293722245947413) - 📰 null - 【Tether CEO：正审核计划在萨尔瓦多建造“Tether Tower”的首个设计方案】金色财经报道，据Cointelegraph报道，Tether首席执行官Paolo Ardoino透露，该公司正在审核计划在萨尔瓦多建造的 “Tether Tower” 的首个设计方案。
-- [Coinbase CEO：公司每周都在增持比特币](https://x.com/brian_armstrong/status/1938385593261826349) - 📰 null - 【Coinbase CEO：公司每周都在增持比特币】金色财经报道，针对Bitcoin Magazine CEO David Bailey有关“Coinbase需建立一个合适的比特币金库”的提议，Coinbase首席执行官Brian Armstrong回应称：“我们每周都在增持比特币。”
-- [DWF Labs 合伙人：即将推出加密资产抵押借贷服务平台 Nex meta](https://x.com/ag_dwf/status/1938276054155632991) - 📰 null - 【DWF Labs 合伙人：即将推出加密资产抵押借贷服务平台 Nex meta】6 月 27 日消息，据 DWF Labs 合伙人 Andrei Grachev 推特披露，他们即将推出一项名为 Nex meta 的新产品，该产品允许用户以加密资产作为抵押获取法币贷款、抵押贷款或其他所需的贷款服务。这一服务的主要优势在于用户可以在不出售加密资产的情况下获取资金，从而避免触发税务事件，同时保留加密市场增长带来的上行收益。
-- [PayPal CEO：稳定币在美国市场的普及仍需较长时间](https://www.bloomberg.com/news/articles/2025-06-26/paypal-ceo-says-long-term-adoption-of-stablecoins-will-take-time?srnd=phx-crypto) - 📰 null - 【PayPal CEO：稳定币在美国市场的普及仍需较长时间】金色财经报道，PayPal首席执行官Alex Chriss周四在接受彭博电视采访时表示，稳定币在美国市场的普及仍面临显著障碍，需要较长时间才能实现。Chriss解释道：“从消费者的角度来看，目前并没有一个真正的激励来推动稳定币的普及，这就是为什么我们正在开始推出像奖励机制这样的产品，并开始通过这些方式来激励用户。”
-- [Consensys创始人考虑为以太坊国库公司Sharplink增加杠杆](https://www.bloomberg.com/news/articles/2025-06-26/lubin-considers-adding-leverage-to-ethereum-treasury-firm-sharplink?srnd=phx-crypto) - 📰 null - 【Consensys创始人考虑为以太坊国库公司Sharplink增加杠杆】金色财经报道，根据彭博社周四对以太坊软件基础设施提供商Consensys创始人兼首席执行官Lubin的采访，Lubin正在考虑为他担任董事长的Sharplink GamingInc.引入杠杆。Sharplink Gaming Inc.是一家体育博彩和游戏技术公司，近期已转型为一家以太坊国库公司。 
-Lubin表示：“Sharplink目前没有负债。”但他补充说：“我们可能会采取一些措施，为公司带来一些杠杆，可能是可转换股权。我们将以低利率发行长期债券。我们不会让公司的战略处于风险之中。”
-- [金色晨讯 | 6月27日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 6月27日隔夜重要动态一览】21:00-7:00关键词：Paypal、Ripple、：加密结构法案 
-1.美联储柯林斯：7月降息可能为时过早； 
-2.特朗普：如果美联储降低利率，将会有所帮助； 
-3.Paypal CEO：正为客户创造真正的稳定币用例； 
-4.法官已驳回Ripple和美SEC提出的暂停上诉申请； 
-5.美国众议院通过一项法案，指示商务部推动区块链技术； 
-6.美国参议院银行委员会主席：加密市场结构法案将在9月30日之前完成； 
-7.白宫数字资产政策顾问：美国正着手建设战略性比特币储备的基础设施； 
-8.美国联邦住房金融局、房利美和房地美联合成立了美国金融科技有限责任公司。
-- [美联储卡什卡利：就业市场仍佳，并未急转直下]() - 📰 null - 【美联储卡什卡利：就业市场仍佳，并未急转直下】金色财经报道，美联储卡什卡利：就业市场仍佳，并未急转直下。在我们了解关税相关通胀情况之前，需采取谨慎的步伐。(金十)
-- [Bakkt更新投资政策并公布10亿美元证券发行计划，拟将比特币等数字资产纳入公司财库](https://x.com/BitcoinMagazine/status/1938367145387479059) - 📰 null - 【Bakkt更新投资政策并公布10亿美元证券发行计划，拟将比特币等数字资产纳入公司财库】金色财经报道，据Bitcoin Magzine发布的文件显示，专注于数字资产领域的上市公司 Bakkt 更新投资政策并公布10亿美元证券发行计划，旨在将数字资产纳入公司金库。 
-文件截图显示，为支持此项新战略并为潜在的数字资产收购提供资金灵活性，Bakkt 已提交了一份高达10亿美元的混合证券发行计划。该计划涵盖A类普通股、优先股、债务证券、认股权证及单位等多种证券类型。公司表示，未来可利用发行所得、多余现金或现有资本来源来获取数字资产，但需遵守投资政策中的限制。 
-此外， Bakkt 还计划探索其他机会性融资方案，包括发行可转换票据、债券或其他债务工具，以用于购买数字资产或符合其投资政策的其他目的。
-- [比特币“中本聪时代”矿工在2025年仅售出150枚比特币](https://cointelegraph.com/news/bitcoin-satoshi-era-miners-sold-just-150-btc-in-2025-amid-all-time-highs) - 📰 null - 【比特币“中本聪时代”矿工在2025年仅售出150枚比特币】金色财经报道，随着2025年BTC价格再次创下历史新高，大型矿商正在增加储备，自4月份以来，持有100至1,000枚比特币的矿工们已向其储备中增加了4,000枚BTC。而最老的参与者则大幅削减了与2024年相比的销量。 
-CryptoQuant报告称，“中本聪时代”矿工的抛售量仍然处于低位，截至目前，这些矿工在2025年仅售出了150枚比特币，而2024年则售出了近1万枚比特币。
+- [Across联创发文否认Glue创始人提出的挪用资金和操控投票指控]() - 📰 null - 【Across联创发文否认Glue创始人提出的挪用资金和操控投票指控】金色财经报道，Across 联创 Hart Lambur 发文否认 Glue 创始人提出的挪用资金和操控投票指控。 
+针对“”自提取 2300 万美元用于个人利益”指控，Hart 称 Risk Labs 是一家非营利基金会，受开曼法律约束，资金用于协议开发，Hart 自己年薪仅 10 万美元，且未领取代币奖励。资金使用符合 DAO 惯例，已推动 Across v3 和 v4 开发。 
+针对“治理过程被内部人员操控”指控，Hart 表示团队成员可自由使用自己购买的代币投票，Kevin 的钱包（maxodds.eth）是公开的，Reinis 的投票也合法，提案无反对票通过，过程透明。
+- [Bithumb调整交易警示股，Felaz被警告，Synthetix警告解除](https://feed.bithumb.com/notice/1649070) - 📰 null - 【Bithumb调整交易警示股，Felaz被警告，Synthetix警告解除】金色财经报道，Bithumb宣布，根据《虚拟资产交易警示股指定方针》，自2025年6月27日15:00起，将Felaz（FLZ）指定为交易警示股，暂停其存款服务，因其效用和项目业绩难以确认，链上活动及交易状况不佳。 
+同时，Synthetix（SNX）因警戒指定原因已解决，解除交易警戒股指定，恢复充值服务。Bithumb将持续监督虚拟资产，与外部专家和基金会沟通，维护交易环境。
+- [Vitalik地址将2万亿DOG代币兑换为约4.43枚ETH](https://x.com/PeckShieldAlert/status/1938478101434142744) - 📰 null - 【Vitalik地址将2万亿DOG代币兑换为约4.43枚ETH】金色财经报道，据PeckShield监测，Vitalik的地址将2万亿枚DOG代币兑换为约4.43枚ETH，价值约10.8万美元。
+- [Binance Alpha日交易量暂时止跌，昨日达5.169亿美元](https://dune.com/pandajackson42/binance-alpha-20-purchase-dex-tokens-directly-on-binance-cex) - 📰 null - 【Binance Alpha日交易量暂时止跌，昨日达5.169亿美元】6月27日消息，据@pandajackson42数据面板，6月26日Binance Alpha交易量达5.169亿美元，持续下跌态势暂时得以缓解。其中，BR交易量2.83亿美元，AB交易量3994万美元，ROAM交易量3933万美元居于前列。
+- [不丹王国比特币储备达13亿美元，占GDP近40%](https://coinfomania.com/dennis-porter-highlights-bhutan-bitcoin-reserve-journey-with-1-3b-valuation/) - 📰 null - 【不丹王国比特币储备达13亿美元，占GDP近40%】6月27日消息，不丹比特币储备估值已达13亿美元，约占该国GDP的40%。Satoshi Act Fund首席执行官Dennis Porter将此称为"加密里程碑"。 
+不丹于2020年在国王Jigme Khesar Namgyel Wangchuck的倡议下开始挖矿，利用其丰富的水电资源。五年后，不丹已成为全球第三大比特币政府持有国。
+- [TRM Labs：今年迄今被盗加密货币达21亿美元，其中私钥漏洞和前端协议攻击占80%](https://cointelegraph.com/news/seed-phrase-front-end-hacks-drive-2025-record-crypto-loss) - 📰 null - 【TRM Labs：今年迄今被盗加密货币达21亿美元，其中私钥漏洞和前端协议攻击占80%】金色财经报道，区块链情报公司TRM Labs表示，在2025年上半年，因攻击造成的加密货币损失高达21亿美元，其中大部分是由加密私钥泄露和前端入侵所导致。TRM Labs周四发布报告指出，今年迄今为止发生的75起加密货币黑客事件中，超过80%的被盗资金来自所谓的基础设施攻击。这类攻击平均比其他类型的攻击多卷走10倍的资金。 
+基础设施攻击的目标是系统的技术骨干，目的是获取未经授权的控制权、误导用户或重定向资产。它们包括劫持加密钱包的私钥助记词或利用加密协议的用户界面部分（即前端）。
+- [美国5月核心PCE物价指数今晚20：30公布，机构普遍预期值为+2.6%]() - 📰 null - 【美国5月核心PCE物价指数今晚20：30公布，机构普遍预期值为+2.6%】金色财经报道，美国5月核心PCE物价指数将于今晚20：30公布，包括路透调查，巴克莱、渣打、高盛在内的众多机构普遍预期值为+2.6%。（金十）
+- [Sol Strategies宣布启动战略生态系统储备，初期已收购52,181枚JTO代币](https://x.com/Cointelegraph/status/1938469893084492232) - 📰 null - 【Sol Strategies宣布启动战略生态系统储备，初期已收购52,181枚JTO代币】金色财经报道，据Cointelegraph披露，Solana财库公司Sol Strategies宣布启动战略生态系统储备（Strategic Ecosystem Reserve，SER），这是一项旨在投资和支持Solana生态系统内项目的倡议，初期已收购52,181枚JTO代币。
+- [港股证券板块午后走弱，胜利证券(08540.HK)跌超11%]() - 📰 null - 【港股证券板块午后走弱，胜利证券(08540.HK)跌超11%】金色财经报道，港股证券板块午后走弱，胜利证券(08540.HK)跌超11%，国泰君安国际(01788.HK)跌超10%，国联民生(01456.HK)、光大证券(06178.HK)等跟跌。(金十)
+- [某休眠1年鲸鱼钱包从Binance提取1051枚ETH](https://x.com/OnchainLens/status/1938467180146004461) - 📰 null - 【某休眠1年鲸鱼钱包从Binance提取1051枚ETH】金色财经报道，据Onchain Lens监测，某鲸鱼钱包在休眠超1年后醒来，从Binance中提取了价值258万美元的1051枚ETH。
+- [上市公司Belgravia Hartford获100万美元募资以通过OTC购买比特币](https://www.businesswire.com/news/home/20250626362991/en/Belgravia-Hartford-Completes-USD%241M-Second-Tranche-Drawdown-of-Credit-Facility-from-Round13-Digital-Asset-Fund-LP-to-Further-Expand-Fast-Increasing-Bitcoin-Treasury-) - 📰 null - 【上市公司Belgravia Hartford获100万美元募资以通过OTC购买比特币】金色财经报道，上市公司Belgravia Hartford宣布已从Round13 Digital Asset Fund LP获得100万美元募资，这是Round13 Digital Asset Fund LP对其提供的第二笔资金，Belgravia Hartford将使用这笔资金仅用于通过受监管的场外交易平台购买比特币。
+- [Ionic Digital财报：财库持仓2398.8枚BTC，挖矿收入达1.384亿美元](https://www.businesswire.com/news/home/20250626954899/en/Ionic-Digital-Reports-Preliminary-Fiscal-Year-2024-Earnings) - 📰 null - 【Ionic Digital财报：财库持仓2398.8枚BTC，挖矿收入达1.384亿美元】金色财经报道，比特币矿企Ionic Digital发布2024财年报告，其中披露比特币挖矿收入达1.384亿美元，截至2024年12月31日财库持仓为2398.8枚BTC（此前11个月共出售150.0枚比特币），持有现金和比特币总价值达2.718 亿美元。
+- [分析师：美国股指期货创历史新高，或将推动BTC突破阻力位创下新高](https://cointelegraph.com/news/us-stock-futures-record-sets-bitcoin-all-time-high-analysts) - 📰 null - 【分析师：美国股指期货创历史新高，或将推动BTC突破阻力位创下新高】金色财经报道，据Cointelegraph报道，美国股指期货已达历史高点，分析师预测这可能推动比特币突破阻力位创下新高。标准普尔500期货周四突破至6,145点，超过2月峰值，同时纳斯达克综合指数期货也达到20,180点的新高。自4月8日崩盘以来，标准普尔500已上涨23%，主要受贸易关税冲击缓解和以色列与伊朗停火协议的影响。 
+LVRG Research总监Nick Ruck表示，美国股指期货接近历史高点，加上比特币近期反弹，增加了其在不久将创下新纪录的预期。如果美联储在未来几个月降息，持续的股市动能和机构资金流入可能推动比特币突破109,000美元阻力位。
+- [去中心化证明者网络Succinct宣布进入Prover Network测试网最终阶段](https://blog.succinct.xyz/stage-2-5-2/) - 📰 null - 【去中心化证明者网络Succinct宣布进入Prover Network测试网最终阶段】金色财经报道，去中心化证明者网络Succinct发文推出Stage2.5，标志着其Prover Network测试网的最终阶段，引入顶级零知识证明硬件团队，构建全球最大证明集群。 
+Stage2.5可实现竞争性拍卖、Sybil抗性质押和高吞吐量结算层，支持任何人运行证明节点。测试网将空投PROVE代币，激励社区质押，为主网启动做好准备。
+- [以太坊基金会转移1000枚ETH，接收地址近一个月共收到9000枚ETH](https://x.com/lookonchain/status/1938461722853122288) - 📰 null - 【以太坊基金会转移1000枚ETH，接收地址近一个月共收到9000枚ETH】金色财经报道，据Lookonchain监测，以太坊基金会刚刚向钱包0xc061转入1,000枚ETH（245万美元）。 
+钱包0xc061在过去一个月内从Ethereum基金会共收到9,000枚ETH（2200万美元）。
+- [分析：比特币双顶形态值得警惕，但全面崩盘可能性不大](https://www.coindesk.com/markets/2025/06/27/caution-on-bitcoin-double-top-but-a-full-blown-price-crash-seems-unlikely-sygnum-bank-s-tischhauser-says?utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter) - 📰 null - 【分析：比特币双顶形态值得警惕，但全面崩盘可能性不大】金色财经报道，数字资产银行集团Sygnum的投资研究主管Tischhauser在接受CoinDesk采访时表示：由于基本面估值面临挑战，加密货币市场受情绪驱动；因此，像双顶这样的技术分析信号值得谨慎对待。 
+尽管如此，市场全面崩盘需要像2022年Terra崩盘或FTX暴跌那样的催化剂。除非出现类似的黑天鹅事件，否则基于当前的政治和监管支持以及持续的机构资本流入，我们可能会看到一个长期的牛市周期。
+- [ArkInvest昨日减持价值1250万美元Coinbase股票](https://www.theblock.co/post/360052/ark-invest-sells-coinbase-shares) - 📰 null - 【ArkInvest昨日减持价值1250万美元Coinbase股票】金色财经报道，周四，Cathie Wood的ArkInvest旗下方舟创新ETF(ARKK)基金抛售了价值1250万美元的Coinbase GlobalInc.股票和价值1230万美元的BlockInc.股票，而Coinbase当日收盘价创下了历史新高。
+- [美国现货以太坊ETF昨日净流出2640万美元]() - 📰 null - 【美国现货以太坊ETF昨日净流出2640万美元】金色财经报道，据FarsideInvestors监测数据，美国现货以太坊ETF昨日净流出2640万美元。
+- [Avalon Labs披露其参与美国加密政策倡导进展](https://x.com/avalonfinance_/status/1938434009496776739) - 📰 null - 【Avalon Labs披露其参与美国加密政策倡导进展】金色财经报道，比特币金融服务平台Avalon Labs披露其在美国华盛顿开展加密政策倡导的最新进展，旨在从区块链技术创新、就业机会以及普惠金融的角度，推动政府就加密企业及比特币借贷业务出台更清晰的立法框架。Avalon Labs 坚信，明确且稳定的监管环境将有助于加密企业在美国更安全、合规地运营。 
+此外，Avalon Labs也呼吁政府支持《区块链监管确定性法案》（Blockchain Regulatory Certainty Act），该法案旨在为非托管类加密服务提供法律明确性，助力行业健康发展。
+- [币安Alpha开放SAHARA第二阶段空投申领后，10分钟内跌幅3.63%]() - 📰 null - 【币安Alpha开放SAHARA第二阶段空投申领后，10分钟内跌幅3.63%】据官方页面显示，币安Alpha开放SAHARA第二阶段空投申领后，SAHARA 10分钟内跌幅3.63%，现报0.078美元。
