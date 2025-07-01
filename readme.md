@@ -1,24 +1,33 @@
-- [白宫新闻秘书莱维特：特朗普本周将与贸易团队会面，以确定国家关税税率](https://flash.jin10.com/detail/20250701014436911800) - 📰 null - 【白宫新闻秘书莱维特：特朗普本周将与贸易团队会面，以确定国家关税税率】金色财经报道，白宫新闻秘书莱维特：特朗普本周将与贸易团队会面，以确定国家关税税率。
-- [特朗普：利率应降至1% 鲍威尔及其委员会都难辞其咎](https://flash.jin10.com/detail/20250701011333546800) - 📰 null - 【特朗普：利率应降至1% 鲍威尔及其委员会都难辞其咎】金色财经报道，美国总统特朗普在社交媒体上称：鲍威尔和他的整个委员会都应该为让美国发生这样的事情而感到羞愧。他们的工作是美国最轻松但也是最有声望的工作之一，但他们却失败了，而且还在继续失败。如果他们工作得当，我们的国家就能节省数万亿美元的利息成本。委员会只是坐在那里袖手旁观，因此他们同样难辞其咎。我们的利率应该只有1%，甚至更好！
-- [美国10年期国债收益率创下6月初以来最低水平](https://flash.jin10.com/detail/20250701010854130800) - 📰 null - 【美国10年期国债收益率创下6月初以来最低水平】金色财经报道，美国10年期国债收益率创下6月初以来最低水平，最新下跌4.3个基点，报4.241%。
-- [高盛将美联储降息预期时间从12月提前至9月](https://flash.jin10.com/detail/20250701005633774800) - 📰 null - 【高盛将美联储降息预期时间从12月提前至9月】金色财经报道，高盛将美联储降息预期时间从12月提前至9月。
-- [Arbitrum：Robinhood将在Arbitrum One上推出代币化股票，L2基于Orbit堆栈构建](https://x.com/arbitrum/status/1939710512205582609) - 📰 null - 【Arbitrum：Robinhood将在Arbitrum One上推出代币化股票，L2基于Orbit堆栈构建】金色财经报道，Arbitrum 在 X 平台发文表示，Robinhood 将在 Arbitrum One 上推出代币化股票，L2 则基于 Orbit 堆栈构建，Robinhood 将在 Arbitrum One 上发行 200 多种美国股票和 ETF 代币，供欧盟客户在其 Robinhood 应用程序中直接使用。
-- [Zodia Custody收购Tungsten以拓展阿联酋市场](https://www.nftgators.com/zodia-custody-completes-tungsten-custody-acquisition-to-cement-uae-presence/) - 📰 null - 【Zodia Custody收购Tungsten以拓展阿联酋市场】金色财经报道，Zodia Custody 宣布完成对阿联酋本地机构 Tungsten Custody Solutions 的收购，具体收购金额暂未披露，本次收购交易旨在强化其在阿布扎比全球市场（ADGM）现有牌照基础上的中东布局，并且加速其在阿联酋的业务拓展。
-- [美参议员Lummis：正在修订“大而美”法案，拟消除数字资产税务违规问题](https://x.com/SenLummis/status/1939721334742765605) - 📰 null - 【美参议员Lummis：正在修订“大而美”法案，拟消除数字资产税务违规问题】金色财经报道，美参议员 Cynthia Lummis 在 X 平台发文表示：“美国在金融创新方面处于领先地位，感谢特朗普总统让美国继续保持这一地位，目前正在制定‘大而美’法案的修正案，以确保美国人能够安心使用数字资产，无需担心税务违规。” 
-市场分析，Cynthia Lummis 的“大而美”法案的修正案可能会免除比特币支付的资本利得税。
-- [伊朗武装部队：已准备好应对任何新的侵略行为](https://flash.jin10.com/detail/20250701003655777800) - 📰 null - 【伊朗武装部队：已准备好应对任何新的侵略行为】金色财经报道，当地时间6月30日，伊朗武装部队总参谋部发言人谢卡尔奇表示，伊朗已准备好应对任何新的侵略行为。谢卡尔奇表示，以色列不可信任，伊朗武装部队比过去准备得更加充分，如果以色列进一步对伊朗发动侵略，他们将面临毁灭性和压制性的回击。
-- [Pantera Capital建立Pantera DAT基金，预计将向DAT交易投入1亿美元](https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing/) - 📰 null - 【Pantera Capital建立Pantera DAT基金，预计将向DAT交易投入1亿美元】金色财经报道，据Pantera Capital 2025年6月投资者信，Pantera已建立一个专门提供数字资产财库（Digital Asset Treasury）投资机会的基金“Pantera DAT Fund”，许多新的和现有Pantera LP 已经向 Pantera DAT Fund做出了投资承诺。Pantera预计将向DAT交易投入1亿美元。 
-此前消息，Pantera Capital已参与DeFi Development Corp. (DFDV) 、Cantor Equity Partners (CEP) 、Sharplink Gaming(SBET)、BitMine等DAT公司的基石投资。
-- [Robinhood市值突破800亿美元，股价突破92美元，续创历史新高]() - 📰 null - 【Robinhood市值突破800亿美元，股价突破92美元，续创历史新高】金色财经报道，据行情数据显示，Robinhood（HOOD）股价涨幅扩大至 10.45%，现报 91.69 美元，续创历史新高，公司市值达到 809.6 亿美元。
-- [Coinbase国际站将上线SAHARA和SYRUP永续合约](https://x.com/CoinbaseIntExch/status/1939715652174160146) - 📰 null - 【Coinbase国际站将上线SAHARA和SYRUP永续合约】金色财经报道，Coinbase International Exchange 和 Coinbase Advanced 将上线 Sahara AI 和 Maple Finance 永续期货合约。 SAHARA-PERP 和 SYRUP-PERP 市场将于 2025 年 7 月 3 日上午 9:30（UTC）或之后开放。
-- [Robinhood计划到年底前将支持的代币化美股扩展至“数千种”](https://x.com/faststocknewss/status/1939710646377181305) - 📰 null - 【Robinhood计划到年底前将支持的代币化美股扩展至“数千种”】金色财经报道，Robinhood 首席执行官在主题演讲中称，公司将把美国股票的代币化交易从目前的 200 种，在今年年底前扩展至“数千种”。 
-此前消息，Robinhood 计划推出自有区块链，并在欧盟推出“股票代币”。此外，Robinhood 还允许欧洲用户交易加密货币永续期货，以及支持美国客户质押加密货币（初期支持以太坊和 SOL ）。
-- [Robinhood正向符合条件的欧洲用户赠送OpenAI和SpaceX代币](https://x.com/RobinhoodApp_EU/status/1939709899690098770) - 📰 null - 【Robinhood正向符合条件的欧洲用户赠送OpenAI和SpaceX代币】金色财经报道，Robinhood 发文表示，Robinhood EU 推出了全球首批非上市公司股票代币，包括 OpenAI 和 SpaceX 的代币。Robinhood EU 正在免费赠送 Open AI 和 Space X 的首批私人公司股票代币。如果是 Robinhood 欧盟用户且符合资格，则可以在应用内领取代币，截止日期为 7 月 7 日。
-- [Robinhood旗下Layer 2暂定名为Robinhood Chain](https://x.com/RobinhoodApp/status/1939709086645232006) - 📰 null - 【Robinhood旗下Layer 2暂定名为Robinhood Chain】金色财经报道，Robinhood 基于 Arbitrum 开发的Layer 2暂定名为 Robinhood Chain，目前仍正在开发中，可能会有所变更。其可用性取决于适用法规和未来的上线时间。
-- [市场消息：REX-OSPREY SOL现货ETF将于周三开始交易](https://x.com/Cointelegraph/status/1939708834039390415) - 📰 null - 【市场消息：REX-OSPREY SOL现货ETF将于周三开始交易】金色财经报道，据 Cointelegraph 发文表示，REX-OSPREY  首席执行官宣布，支持质押的 Solana ETF 将于周三开始交易。 
-行情显示，SOL现报154.99美元，24小时涨幅2.5%，行情波动较大，请做好风险控制。
-- [美图公司：授出合共约120.97万股股份奖励](https://flash.jin10.com/detail/20250630225824811800) - 📰 null - 【美图公司：授出合共约120.97万股股份奖励】金色财经报道，美图公司(01357.HK)港交所公告，于2025年7月1日，公司根据股份奖励计划向承授人授出合共约120.97万股股份奖励，即120.97万股股份，占截至本公告日期已发行股份总数约0.03%，惟须待承授人接纳。
-- [花旗：黄金市场的供应缺口预计将在2025年第三季度达到峰值](https://flash.jin10.com/detail/20250630230345111800) - 📰 null - 【花旗：黄金市场的供应缺口预计将在2025年第三季度达到峰值】金色财经报道，花旗：黄金市场的供应缺口预计将在2025年第三季度达到峰值，随后由于投资需求下降而逐渐减弱。
-- [美联储博斯蒂克：关税将在未来进一步影响价格 企业目前有所克制](https://flash.jin10.com/detail/20250630231613209800) - 📰 null - 【美联储博斯蒂克：关税将在未来进一步影响价格 企业目前有所克制】金色财经报道，美联储博斯蒂克周一表示，美国经济尚未面临特朗普总统贸易关税的全面影响。“我认为未来会有更多价格影响，这更多的是时间问题，是何时的问题，而不是是否会出现的问题。”他指出，企业目前在价格上有所克制，原因是寻求透明度，并希望避免价格不断小幅调整，以免激怒客户。
-- [Robinhood：ETH和SOL质押现已向美国用户开放](https://x.com/RobinhoodApp/status/1939706167623602545) - 📰 null - 【Robinhood：ETH和SOL质押现已向美国用户开放】金色财经报道，Robinhood 官方在社交媒体上发文表示，其 ETH 和 SOL 的质押服务现已向美国用户开放。
-- [白宫拟推动将Cynthia Lummis提出的条款纳入《美丽大法案》](https://x.com/EleanorTerrett/status/1939705961695846829) - 📰 null - 【白宫拟推动将Cynthia Lummis提出的条款纳入《美丽大法案》】金色财经报道，据加密记者 Eleanor Terrett 透露，尽管周日出现临时分歧，涉及加密货币税收的《美丽大法案》修正案仍于今日继续审议。据悉白宫已介入此事，正力推将参议员辛西娅·卢米斯（Cynthia Lummis，比特币储备法案提出者）提出的关键条款纳入最终法案版本。
+- [德国Sparkassen 将推出加密交易服务，预计 2026 年上线]() - 📰 null - 【德国Sparkassen 将推出加密交易服务，预计 2026 年上线】金色财经报道，据The Block报道，德国最大银行集团 Sparkassen 将为私人客户账户新增比特币和以太坊等加密货币交易服务，预计于 2026 年夏季正式上线。此前该行因波动性和风险因素曾拒绝涉足该领域，如今在 Dekabank 协助下重启布局，背景是欧盟 MiCA 法规已正式实施。
+- [BTC突破107500美元]() - 📰 null - 【BTC突破107500美元】金色财经报道，行情显示，BTC突破107500美元，现报107508.72美元，24小时跌幅达到1.12%，行情波动较大，请做好风险控制。
+- [ETH突破2500美元]() - 📰 null - 【ETH突破2500美元】金色财经报道，行情显示，ETH突破2500美元，现报2500.01美元，24小时跌幅达到0.48%，行情波动较大，请做好风险控制。
+- [ETH/BTC 期货交易量比逼近 1:1，反映市场对以太坊信心回暖]() - 📰 null - 【ETH/BTC 期货交易量比逼近 1:1，反映市场对以太坊信心回暖】金色财经报道，据 The Block 报道，ETH/BTC 期货交易量比已升至 98%，接近历史高点，显著高于 2024 年 10 月的低点 42%。这表明投资者对以太坊生态的信心正在恢复，主要受益于 Layer2 扩容方案普及、链上 DeFi 活动增长，以及基金会聚焦战略推动。
+- [交易员AguilaTrades近一个月亏损3344.5万美元]() - 📰 null - 【交易员AguilaTrades近一个月亏损3344.5万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，交易员 AguilaTrades 近一个月亏损已高达 3344.5 万美元，昨晚其空转多后又转空，再次亏损 63 万美元。
+- [Amber International完成2550万美元私募融资，Pantera Capital等参投]() - 📰 null - 【Amber International完成2550万美元私募融资，Pantera Capital等参投】金色财经报道，据 PR Newswire 报道，Amber Group 旗下加密金融机构服务和解决方案提供商 Amber International(NASDAQ: AMBR) 宣布已成功签署总额达 2550 万美元的私募配售认购协议，Mile Green、Harvest Capital、Pantera Capital、Choco Up 等参投。募集资金将用于加速 Amber International 在美国和东南亚关键市场的机构级加密服务拓展，重点包括加强其加密储备策略、推进稳定币与现实世界资产（RWA）领域的资产代币化，以及创新的 AI-AgentFi 项目开发。
+- [AguilaTrades 重新20倍做空BTC，仓位价值约3800万美元]() - 📰 null - 【AguilaTrades 重新20倍做空BTC，仓位价值约3800万美元】金色财经报道，链上数据显示，AguilaTrades 重新20倍做空BTC，仓位价值约3800万美元，清算价127708美元，开仓均价107171美元。
+- [特朗普之子支持的American Bitcoin筹资2.2亿美元发展比特币挖矿业务]() - 📰 null - 【特朗普之子支持的American Bitcoin筹资2.2亿美元发展比特币挖矿业务】金色财经报道，据彭博社报道，一家由美国总统特朗普之子埃里克·特朗普支持的加密货币企业 American Bitcoin 已筹集 2.2 亿美元资金，用于购买比特币和数字资产挖矿设备。该公司于上周五向私人投资者发行新股，其中约 1000 万美元的股权以比特币而非美元形式出售。 
+American Bitcoin 的主要股东 Hut 8 Corp 计划通过与 Gryphon Digital Mining Inc 合并的方式将其推向公开市场。Hut 8 此前已将其挖矿设备转让给 American Bitcoin，以换取 80%的股权。
+- [WLFI发布USD1月报：截至4月末代币流通总额2,127,970,380枚](https://x.com/worldlibertyfi/status/1939794918727184389) - 📰 null - 【WLFI发布USD1月报：截至4月末代币流通总额2,127,970,380枚】金色财经报道，特朗普家族加密项目WLFI在X平台发布USD1月报，该报告仅为提高透明度而发布，并且每月发布一次，根据披露数据显示，截至2025年4月30日USD1的代币流通总额2,127,970,380枚，总净资产中可赎回抵押品名义头寸价值2,127,970,380美元，与USD1代币的流通总额一致。WLFI表示，由于测试代币、时间锁定代币或设计限制访问且无法赎回的代币，原生代币的总量可能超过流通的可赎回供应量，截至报告日期不存在任何时间锁定或访问受限的代币。截至报告日期，USD1仅在以太坊和BNB智能链网络上发行和赎回。
+- [疑似黑客地址时隔3个月购回4958枚ETH，约1237万美元]() - 📰 null - 【疑似黑客地址时隔3个月购回4958枚ETH，约1237万美元】金色财经报道，据Lookonchain监测，3个月前，0x17E0开头钱包地址（很可能属于黑客）从THOR Chain和Chainflip收到12,282枚ETH（约2372万美元），并在当时以每枚1932美元的价格卖出。30分钟前，其又以每枚2495美元的价格购回了4958枚ETH（约1237万美元）。
+- [彭博分析师：美SEC今年批准XRP、LTC现货ETF概率极高](https://x.com/EleanorTerrett/status/1939797104659935610) - 📰 null - 【彭博分析师：美SEC今年批准XRP、LTC现货ETF概率极高】金色财经报道，FOX Business记者Eleanor Terrett表示，彭博ETF分析师James Seyffart和Eric Balchunas（他们此前的大多数预测都非常准确）认为，美国证券交易委员会（SEC）今年有95%的概率会批准LTC和XRP的现货ETF。此前报道，REX-OSPREY首席执行官宣布，支持质押的Solana现货ETF将于周三开始交易。
+- [康涅狄格州州长正式签署比特币储备禁令法案]() - 📰 null - 【康涅狄格州州长正式签署比特币储备禁令法案】金色财经报道，据 Bitcoin Laws 报道，美国康涅狄格州州长 Ned Lamont 今日正式签署该州的比特币储备禁令法案。 
+康涅狄格州现已被禁止接受、持有或投资任何数字资产。
+- [两地址花费总计1237万枚DAI买入4957.66枚ETH]() - 📰 null - 【两地址花费总计1237万枚DAI买入4957.66枚ETH】金色财经报道，据 Onchain Lens 监测，与同一实体关联的两个钱包地址总计花费了 1237 万枚 DAI，以每枚 2495 美元的价格购买了 4957.66 枚 ETH。
+- [马斯克旗下xAI通过债务和股权融资筹集100亿美元]() - 📰 null - 【马斯克旗下xAI通过债务和股权融资筹集100亿美元】金色财经报道，据 The Information 报道，摩根士丹利称，埃隆·马斯克旗下 xAI 公司除了筹集 50 亿美元的债务融资外，还筹集了 50 亿美元的股权资金。摩根士丹利是此次债务交易的顾问，但未披露债务或股权投资者的具体名单。 
+xAI 曾于去年 12 月从包括 Andreessen Horowitz、贝莱德、Lightspeed Venture Partners 和 MGX 在内的投资者处筹集了 60 亿美元，用于建设 AI 数据中心，并改进其类 ChatGPT 产品 Grok。随后，xAI 以全股票交易的方式收购了马斯克的社交媒体公司 X，合并后公司估值达 1130 亿美元。 
+据一位知情人士透露，此次债务融资中包括：收益率为 12.5% 的 30 亿美元债券、一笔利率为 12.5% 的 10 亿美元固定利率定期贷款，以及一笔利率为基准利率上浮 7.25 个百分点、以每美元 96 美分折价发售的 10 亿美元定期贷款。
+- [特朗普官方商品商店已支持TRUMP付款](https://x.com/GetTrumpMemes/status/1939844837567557893) - 📰 null - 【特朗普官方商品商店已支持TRUMP付款】金色财经报道，官方消息，特朗普官方商品商店已支持TRUMP付款。
+- [SharpLink Gaming 再次增持 4951 枚 ETH，约 1240 万美元]() - 📰 null - 【SharpLink Gaming 再次增持 4951 枚 ETH，约 1240 万美元】金色财经报道，据余烬监测，SharpLink Gaming 在过去 5 小时内再次增持 4951 枚 ETH，约 1240 万美元。 
+目前，SharpLink Gaming 累计建仓 20.28 万枚 ETH，均价 2606 美元，目前浮亏约 2292 万美元。
+- [美国最高法院拒绝审理加密货币用户数据隐私案]() - 📰 null - 【美国最高法院拒绝审理加密货币用户数据隐私案】金色财经报道，据Decrypt报道，美国最高法院于周一拒绝审理Harper v. Faulkender案，该案本可能重新审视加密货币交易所是否必须向政府提供客户数据。这一决定使Coinbase等加密货币公司受挫，他们曾希望法院能为区块链数据创建类似于手机记录的隐私例外。此案涉及"第三方原则"，该原则长期以来允许政府从银行等服务提供商获取客户记录。 
+该案件涉及James Harper，一位Coinbase的客户，他的个人交易数据被美国国税局(IRS)在一次大规模调查中获取。这次调查中，IRS要求获取超过14,000个加密货币账户的信息。
+- [Solana生态顾问Nikita Bier加入X担任产品主管](https://www.theblock.co/post/360399/solana-advisor-serial-social-media-app-entrepreneur-nikita-bier-joins-x?utm_source=twitter&utm_medium=social) - 📰 null - 【Solana生态顾问Nikita Bier加入X担任产品主管】金色财经报道，据 The Block 报道，社交媒体企业家 Nikita Bier 已加入社交媒体平台 X，担任产品主管。 
+Bier 以创办被 Facebook 和 Discord 收购的社交媒体平台而闻名，今年 3 月加入 Solana Labs 担任顾问，协助拓展该网络的移动应用生态系统。
+- [新西兰银行：现预计新西兰联储将在7月暂停降息]() - 📰 null - 【新西兰银行：现预计新西兰联储将在7月暂停降息】金色财经报道，新西兰银行：现预计新西兰联储将在7月暂停降息。
+- [金色晨讯 | 7月1日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 7月1日隔夜重要动态一览】21:00-7:00关键词：Circle、降息、欧盟、马斯克 
+1.摩根士丹利：美联储近期仍不太可能降息； 
+2.美联储7月维持利率不变的概率为79.8%； 
+3.欧盟：数字相关立法不在与美国贸易谈判议题之列； 
+4.马斯克：如果大而美法案通过，第二天就会成立美国新政党； 
+5.稳定币发行商Circle在美申请设立国家信托银行； 
+6.美民主党参议员提出修正案：拟禁止官员通过推广加密货币获利。
