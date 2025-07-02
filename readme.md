@@ -1,37 +1,33 @@
-- [某以太坊ICO巨鲸再次抛售501枚ETH，仍持有2410枚ETH](https://x.com/lookonchain/status/1940218494542651492) - 📰 null - 【某以太坊ICO巨鲸再次抛售501枚ETH，仍持有2410枚ETH】金色财经报道，据Lookonchain监测，一位参与以太坊首次代币发行（ICO）的早期投资者在9小时前又卖出了501枚ETH。他在以太坊创世阶段通过两个钱包共购入了16,000枚ETH，成本为4,960美元，平均价格约为0.31美元。后来在2017年又通过交易所以每枚459美元的价格购入了804枚ETH（成本36.9万美元）。 
-自2021年4月以来，他已累计出售了14,394枚ETH，套现约5,011万美元，平均售价为每枚3,482美元。他目前仍持有约2410枚ETH，按当前价格约合585万美元。总利润为5,560万美元，回报率高达149倍。
-- [亚利桑那州州长否决“比特币储备”法案HB2324](https://x.com/Bitcoin_Laws/status/1940214522087973067) - 📰 null - 【亚利桑那州州长否决“比特币储备”法案HB2324】金色财经报道，据Bitcoin Laws披露，亚利桑那州州长凯蒂·霍布斯（Katie Hobbs）否决了“比特币储备”法案HB2324。该法案原本将设立一个数字资产储备库，用于存放通过刑事资产没收所得的数字资产。
-- [上市公司Dogecoin Cash成立新子公司以支持DOGE财库策略](https://decrypt.co/328071/high-doge-cannabis-company-dogecoin-treasury-play) - 📰 null - 【上市公司Dogecoin Cash成立新子公司以支持DOGE财库策略】金色财经报道，上市公司Dogecoin Cash Inc.宣布成立全资子公司Dogecoin Treasury Inc.（狗狗币财库公司），并将持有Dogecoin（DOGE）作为财库资产。这家公司此前名为Cannabis Sativa,Inc.，去年11月改名为Dogecoin Cash，标志着其业务从远程医疗等领域，扩展到加密货币和区块链领域。Dogecoin Cash Inc.（代码：DOGP）股价过去5日下跌4.60%，市值暂报414万美元。
-- [上市公司上半年累计购入245,510枚比特币，是同期ETF购入量的两倍多](https://cryptoslate.com/corporate-treasuries-double-etf-bitcoin-buys-in-h1-signaling-aggressive-boardroom-adoption/) - 📰 null - 【上市公司上半年累计购入245,510枚比特币，是同期ETF购入量的两倍多】金色财经报道，在2025年上半年，上市公司共购入245,510枚比特币，是同期ETF购入数量（118,424枚BTC）的两倍多。这一年初至今的数字，相比2024年上半年企业购入的51,653枚BTC，增长了375%。相比之下，ETF的购买量则下降了56%，2024年初期ETF推出时曾购入高达267,878枚BTC。 
-由于ETF每一份份额都由实际比特币支持，其创建数量通常反映了来自散户、对冲基金和注册投资顾问的需求。而企业财务购币则体现了管理层的直接战略决策。因此，这一差距的扩大表明，董事会对于比特币作为储备资产的信心正在不断增强，已经可以与散户和机构投资者的热情相媲美。 
-其中，仅“Strategy”公司就购入了135,600枚BTC，占到所有上市公司购入量的55%。而在2024年同期，该公司占企业购币总量的72%。这表明到了2025年，企业对比特币的需求已经不再集中在单一的领头羊公司身上，而是显著多元化。
-- [特朗普之子支持的American Bitcoin向美SEC提交S-4表格修订注册声明以推进上市进程](https://www.prnewswire.com/news-releases/american-bitcoin-and-gryphon-digital-mining-advance-toward-public-listing-of-american-bitcoin-with-filing-of-amended-registration-statement-on-form-s-4-302496113.html) - 📰 null - 【特朗普之子支持的American Bitcoin向美SEC提交S-4表格修订注册声明以推进上市进程】金色财经报道，特朗普之子支持的American Bitcoin和纳斯达克上市公司比特币挖矿公司Gryphon Digital Mining宣布已就其先前宣布的换股合并交易向美国证券交易委员会（SEC）递交一份经修订的S-4表格注册声明，其中包含与拟议交易相关的初步委托书和招股说明书，旨在推进American Bitcoin上市进程。 
-American Bitcoin此前已与Gryphon达成最终合并协议，后者将以换股合并的方式收购American Bitcoin，交易完成后合并公司将以American Bitcoin品牌运营，预计获得美SEC批准后将在纳斯达克上市，股票代码为“ABTC”，交易预计将于2025年第三季度完成。
-- [尽管受到新加坡法规的约束，币安仍计划维持远程办公模式](https://www.bloomberg.com/news/articles/2025-07-01/binance-to-keep-hundreds-of-remote-workers-in-singapore-despite-crypto-crackdown?srnd=homepage-asia) - 📰 null - 【尽管受到新加坡法规的约束，币安仍计划维持远程办公模式】金色财经报道，尽管新加坡对无牌加密货币交易所出台了当地法规，但币安仍计划维持远程办公模式。 
-新加坡金融管理局（MAS）此前已下令，未持有数字代币服务提供商（DTSP）牌照的本地加密货币公司在6月30日（当地时间）前停止为海外客户提供服务。该媒体援引消息人士的话称：“预计这项规定对币安的运营影响不大。”
-- [Certik：2025年上半年加密黑客攻击与诈骗致损失逾25亿美元](https://www.coindesk.com/business/2025/07/01/crypto-investors-lost-usd2-5b-to-hack-and-scams-in-the-first-half-of-2025) - 📰 null - 【Certik：2025年上半年加密黑客攻击与诈骗致损失逾25亿美元】金色财经报道，据CertiK发布的Hack3d报告披露，2025年上半年加密货币行业因黑客攻击和诈骗共损失逾24.7亿美元，已超过2024年全年总额。其中Bybit漏洞和Cetus协议漏洞合计损失达17.8亿美元。钱包泄露事件占据主因，造成17亿美元损失，网络钓鱼攻击则导致132起事件中共计4.1亿美元损失。以太坊为最常被攻击链，涉及164起事件，损失达15亿美元。尽管如此，第二季度总损失8.01亿美元，环比下降52%。
-- [某巨鲸沉寂3年后向Kraken存入2,450枚ETH，获利280万美元]() - 📰 null - 【某巨鲸沉寂3年后向Kraken存入2,450枚ETH，获利280万美元】金色财经报道，据链上分析师OnchainLens监测，某巨鲸沉寂3年后向Kraken存入了2,450枚ETH，价值600万美元，获利280万美元。
-- [James Wynn连遭四次清算，账户余额仅剩1.06万美元](https://x.com/lookonchain/status/1940208262395343270) - 📰 null - 【James Wynn连遭四次清算，账户余额仅剩1.06万美元】金色财经报道，据Lookonchain监测，巨鲸James Wynn于Hyperliquid开设的比特币多单已连续遭遇四次清算，目前账户中仅剩余1.06万美元。
-- [昨日FBTC净流出1.727亿美元，GBTC净流出1.195亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流出1.727亿美元，GBTC净流出1.195亿美元】金色财经报道，据Farside Investors监测数据，昨日FBTC净流出1.727亿美元，GBTC净流出1.195亿美元。
-- [UniCredit将推出与BlackRock比特币ETF挂钩的零风险投资产品](https://www.bloomberg.com/news/articles/2025-07-01/unicredit-to-offer-blackrock-bitcoin-etf-linked-product-for-some-clients?srnd=phx-crypto) - 📰 null - 【UniCredit将推出与BlackRock比特币ETF挂钩的零风险投资产品】7月2日消息，意大利银行巨头UniCredit SpA宣布将为专业客户提供一款创新的结构性产品，该产品与BlackRock旗下iShares Bitcoin Trust ETF挂钩，并提供100%的资本保护。这款产品为期五年、以美元计价，旨在让投资者在规避风险的同时参与数字资产市场。
-- [2个地址近5个小时在链上抛售820万枚FARTCOIN，约合865万美元](https://x.com/EmberCN/status/1940205211760697351) - 📰 null - 【2个地址近5个小时在链上抛售820万枚FARTCOIN，约合865万美元】金色财经报道，据链上分析师余烬监测，2个地址最近5个小时里在链上抛售820万枚FARTCOIN(865万美元)，致使FARTCOIN下跌5%(1.08美元→1.02美元)。 
-AY4p...7XP4地址2小时前在链上将590万枚FARTCOIN(623万美元)卖出换成40,958枚SOL，46aw...XN14R地址5小时前在链上将230万枚FARTCOIN(242万美元)卖出换成242.3万USDT。
-- [DEX对CEX期货交易量比例达8%，创历史新高]() - 📰 null - 【DEX对CEX期货交易量比例达8%，创历史新高】金色财经报道，据The Block最新数据，2025年6月去中心化交易所(DEX)对中心化交易所(CEX)期货交易量比例达到8%的历史新高，较上月的6.84%和去年同期的4.78%显著攀升。Hyperliquid是主要推动力，尽管其6月交易量环比下降约15%，但市场份额从5月的69.77%增至75%。同时，APX Finance在激励计划推动下6月交易量环比飙升350%，达340亿美元。
-- [特朗普说以色列接受加沙停火必要条件 呼吁哈马斯也接受]() - 📰 null - 【特朗普说以色列接受加沙停火必要条件 呼吁哈马斯也接受】金色财经报道，美国总统特朗普1日说，以色列已同意与哈马斯达成60天停火协议的必要条件，并呼吁哈马斯也接受这项协议。特朗普在社交媒体上发文说，美以当天就加沙地带局势进行长时间会谈，以色列同意达成60天停火协议的必要条件，卡塔尔和埃及将提交协议的最终文本。特朗普说：“我希望哈马斯能够接受这项协议，因为情况不会好转——只会恶化。”据美国媒体报道，特朗普将于7日在白宫会见到访的以色列总理内塔尼亚胡，讨论加沙地带局势和伊朗核问题。这将是内塔尼亚胡自特朗普今年1月重返白宫后第三次访问美国。(金十)
-- [Backed允许交易者在Solana链上交易英伟达（NVDA）和微策略（MSTR）等股票](https://decrypt.co/328052/you-can-trade-stocks-nvda-mstr-solana-how) - 📰 null - 【Backed允许交易者在Solana链上交易英伟达（NVDA）和微策略（MSTR）等股票】金色财经报道，加密货币交易者现在可以将英伟达（Nvidia）、特斯拉（Tesla）和微策略（Strategy）的股票放入他们的 Solana 钱包中，这得益于一项名为 xStocks 的新功能。该功能将与特定上市公司股票 1:1 挂钩的代币引入了 Solana 区块链。 
-代币化公司 Backed 推出的这项功能，本周已在部分地区的中心化交易所 Kraken 和 Bybit 上线，同时也在 Solana 区块链上原生推出，允许交易者在链上获得包括 Meta、Netflix、Coinbase 和麦当劳等热门美国股票的敞口。 
-换句话说，符合条件的用户可以在上述交易所用加密货币或法币兑换股票，或者通过 Jupiter 或 Raydium 等去中心化协议，用任意 Solana 代币兑换他们选择的 xStock。
-- [美国财长贝森特：美联储最迟肯定会在9月降息]() - 📰 null - 【美国财长贝森特：美联储最迟肯定会在9月降息】金色财经报道，美国财长贝森特：（当被问及是否认为美联储主席鲍威尔会在秋季之前降息时）我认为他们可能会比秋季更早采取行动，但最迟肯定会在9月降息。(金十数据APP)
-- [金色晨讯 | 7月2日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 7月2日隔夜重要动态一览】21:00-7:00关键词：《美丽大法案》、Figma、DDC Enterprise、 
-1.美国参议院通过“大而美”法案； 
-2.美SEC批准将灰度“数字大盘股基金”转换为ETF； 
-3.特朗普称愿意推迟“大而美”法案通过的最后期限； 
-4.美SEC或正着手制定加密货币ETF通用上市标准； 
-5.加密税收优惠条款未能纳入特朗普的《美丽大法案》； 
-6.DDC Enterprise 已完成 5.28 亿美元融资，净收益用于购买比特币； 
-7.CZ：个人向Vitalik捐赠价值1000万美元BNB以支持其开源生物科技项目； 
-8.Figma披露持有近7000万美元的比特币ETF，并获批再购3000万美元的BTC。
-- [特朗普：以色列已同意落实加沙停火所需条件]() - 📰 null - 【特朗普：以色列已同意落实加沙停火所需条件】金色财经报道，美国总统特朗普在其社交平台“真实社交”上发文称，美国代表于当日与以色列方面就加沙问题举行了一场“漫长而富有成果”的会议。以色列已同意落实达成60天停火所需的条件。特朗普表示，在此期间，美国将与各方合作，努力结束这场冲突。卡塔尔和埃及一直为推动和平付出了巨大努力，他们将递交这一最终提案。据此前消息，卡塔尔已经向以色列和巴勒斯坦伊斯兰抵抗运动（哈马斯）提交了一份有关加沙停火协议的最新提案，这份提案内容包括在加沙地带实现为期60天的停火。（央视新闻）
-- [DeFi Development拟私募发行1亿美元可转换票据，包括用于增持SOL](https://www.globenewswire.com/news-release/2025/07/01/3108784/0/en/DeFi-Development-Corp-Announces-Proposed-Private-Offering-of-100-Million-of-Convertible-Notes.html) - 📰 null - 【DeFi Development拟私募发行1亿美元可转换票据，包括用于增持SOL】金色财经报道，美国上市公司 DeFi Development Corp.（纳斯达克代码：DFDV）宣布计划私募发行总额1亿美元、2030年到期的可转换优先票据。募集资金将部分用于通过远期合约回购公司普通股，剩余资金拟用于一般企业用途，包括增持 Solana（SOL）。
-- [南非电力公司Eskom寻求支持比特币挖矿和能源密集型技术](https://www.intellinews.com/south-africa-s-power-utility-eskom-seeking-ways-to-support-bitcoin-mining-energy-intensive-technologies-388749/?utm_source=chatgpt.com) - 📰 null - 【南非电力公司Eskom寻求支持比特币挖矿和能源密集型技术】金色财经报道，南非国有电力公司 Eskom 首席执行官丹·马罗卡内 (Dan Marokane) 表示，该公司正在探索支持比特币挖矿、人工智能 (AI) 开发和数据中心的机会，以帮助其未来发展。 
-Marokane 在今年早些时候的 BizNews 大会上指出，数据中心和比特币挖矿正在推动美国的电力需求。
+- [某鲸鱼近2小时从Binance提取1345枚BTC，价值1.4309亿美元](https://x.com/OnchainLens/status/1940293123579814273) - 📰 null - 【某鲸鱼近2小时从Binance提取1345枚BTC，价值1.4309亿美元】金色财经报道，据Onchain Lens监测，过去2小时内，一位鲸鱼从Binance提取了1345枚BTC，价值1.4309亿美元。
+- [币安VIP借币新增NEWT、SAHARA可借资产](https://www.binance.com/en/support/announcement/detail/449d3c03dc5c4c2b899074a4d3b23651) - 📰 null - 【币安VIP借币新增NEWT、SAHARA可借资产】金色财经报道，据官方公告，币安VIP借币新增可借资产：NewtonProtocol（NEWT）、SaharaAI（SAHARA）。
+- [美国银行客户以10周内最快速度抛售美国股票]() - 📰 null - 【美国银行客户以10周内最快速度抛售美国股票】金色财经报道，据金十数据报道，美国银行的客户以10周来最快的速度从美国股市撤资，减少了风险敞口。截至6月底，标普500指数500指数创下了自2023年以来的最佳季度表现。包括吉尔·凯里·霍尔在内的美银量化策略师在周二发布的一份报告中写道，上周，包括机构、散户和对冲基金在内的所有主要客户群体总计从美国股市撤出了13亿美元。在市场出现避险情绪之际，围绕本轮反弹能否持续的不确定性越来越大。本轮反弹已帮助标普500指数从4月份与关税相关的低点反弹，目前徘徊在2024年7月以来的最高超买水平附近。
+- [Virtual更新Genesis积分计划，活动扩展至抖音、小红书等内容平台]() - 📰 null - 【Virtual更新Genesis积分计划，活动扩展至抖音、小红书等内容平台】7月2日消息，Virtual Protocol更新Genesis积分计划，“发帖赚积分”活动不再局限于X平台。贡献者可通过在TikTok/抖音、YouTube、哔哩哔哩、小红书、Instagram、Reddit或个人博客等平台发布内容，包括视频、解说、研究报告及翻译作品、制作播客节目、视觉解析、深度探讨帖文等赚取积分。 
+所有提交内容均将经过人工审核。积分分配依据内容质量，而非发布频率。提交申请与推荐提名通道长期开放。每周进行内容评审，奖励按月逐步发放。
+- [CZ：愿助力美国成为加密之都，其他国家会跟进美国领先的加密政策](https://www.youtube.com/watch?v=PMJJmRtp6KA&t=470s) - 📰 null - 【CZ：愿助力美国成为加密之都，其他国家会跟进美国领先的加密政策】金色财经报道，CZ 在接受加密货币企业家 Anthony Pompliano 采访时表示，对当前行业发展十分看好。机构和企业资金正在通过 ETF 等途径涌入加密。而区块链技术也将突破交易和金融属性，为政府和民生的各个方面（如税务、健康医疗保障等方面）做出贡献。 
+此外，CZ 表示美国当前对加密的政策改善超出其预期，世界其他国家将纷纷效仿跟进美国的加密政策。CZ 称愿意助力美国成为加密之都，但现在仍在很多方面受到限制，期待将来可以做出更多贡献。
+- [BitFuFu公布年中业绩数据：比特币持有量达到1709枚](https://x.com/BitFuFuOfficial/status/1940025093654184122) - 📰 null - 【BitFuFu公布年中业绩数据：比特币持有量达到1709枚】金色财经报道，纳斯达克上市比特币矿企BitFuFu在X平台公布2025年中业绩数据，其中披露今年上半年其哈希率达到34.1 EH/s高点，比特币持有量触及1709枚。此外，由于比特币持仓超过1000枚，BitFuFu公司已被纳入到Bitwise旗下比特币交易所交易基金Bitcoin Standard Corporations ETF的追踪标的。
+- [比特币跌至106,000美元左右，交易者在美国关键数据发布前规避风险]() - 📰 null - 【比特币跌至106,000美元左右，交易者在美国关键数据发布前规避风险】金色财经报道，据The Block的价格页面显示，比特币在过去24小时内下跌了1%，至106,013美元，而以太坊下跌了2.5%，交易价格为2,423美元。衡量前30种加密货币表现的The Block GMCI 30指数下跌了2%。Kronos Research首席信息官Vincent Liu表示：“市场仍处于降温盘整期，参与者正等待7月3日公布的首次申请失业救济人数或更广泛的宏观解决方案带来明朗化。目前，市场流动性依然疲软，仓位保持谨慎。” 
+LVRG Research主管Nick Ruck表示，比特币下跌是因为交易者在美国重要经济数据发布前进行风险规避。此外，特朗普的税收法案在参议院获得通过，引发了对美国赤字和法案有效性的担忧。
+- [股票代币化平台xStocks上线第二日交易额达582万美元，较首日增长超4倍](https://dune.com/hashed_official/xstocks-metrics) - 📰 null - 【股票代币化平台xStocks上线第二日交易额达582万美元，较首日增长超4倍】金色财经报道，据Dune数据显示，Backed创建的股票代币化平台xStocks上线第二日交易额达582万美元，较首日的134万美元增长超4倍。此外，昨日该平台DAU（日活用户）达5641人，实现15,719笔交易。交易品种方面，标普500指数成交量达169万美元，排名第一，其次是特斯拉和Circle股票代币。
+- [美国财政部制裁俄罗斯Aeza Group及其加密钱包，冻结35万美元资产](https://cointelegraph.com/news/us-treasury-sanctions-aeza-group-wallet-leaders) - 📰 null - 【美国财政部制裁俄罗斯Aeza Group及其加密钱包，冻结35万美元资产】金色财经报道，据Cointelegraph报道，美国财政部外国资产控制办公室(OFAC)周二宣布制裁俄罗斯"防弹托管"服务提供商Aeza Group，同时冻结与其关联的一个加密钱包中约35万美元资产。该公司被指控为勒索软件和信息窃取者提供专业服务器和计算机基础设施。制裁对象还包括多家俄罗斯和英国公司，以及四名俄罗斯籍高管。区块链分析公司Chainalysis表示，被制裁的波场(Tron)区块链地址是Aeza的管理钱包，负责处理支付并向各加密交易所转移资金。此举代表美国政府打击网络犯罪基础设施的重要一步。
+- [观点：SEC标准或足够宽松，以使排名前50绝大多数币种都可被ETF化](https://x.com/EricBalchunas/status/1940100610906309006) - 📰 null - 【观点：SEC标准或足够宽松，以使排名前50绝大多数币种都可被ETF化】金色财经报道，彭博高级ETF分析师Eric Balchunas评价“SEC着手制定加密货币ETF通用上市标准”时表示，「(这是)合理的，也是我们如此看好（大多数币种的批准率高达95%）的原因。问题是，标准会是什么？我们认为这些标准可能会足够宽松，以至于绝大多数排名前50的币种都可以被ETF化。
+- [某巨鲸将2,450枚ETH存入Kraken，获利280万美元](https://x.com/nansen_ai/status/1940264175571259616) - 📰 null - 【某巨鲸将2,450枚ETH存入Kraken，获利280万美元】金色财经报道，据OnchainLens监测，一个沉寂了近三年的加密货币巨鲸向Kraken存入了2,450枚ETH，按当前汇率计算价值约600万美元。此次操作使该巨鲸获利约280万美元。
+- [分析：比特币进入季节性疲弱区，市场信心未减](https://cointelegraph.com/news/crypto-sentiment-greed-bitcoin-price-decline-q3-weaker-period) - 📰 null - 【分析：比特币进入季节性疲弱区，市场信心未减】金色财经报道，据Cointelegraph报道，尽管比特币短线回落至10.5万美元附近，市场情绪仍维持强势。据CoinMarketCap数据，BTC日内跌幅约1.79%，报105,560美元，而CryptoFear&Greed指数仍维持在“贪婪”区间，得分63，仅较前一日下降1点。 
+分析人士指出，尽管Q3通常为加密市场表现最弱的季度，但当前市场仍显乐观。CoinGlass数据显示，自2013年以来比特币Q3平均涨幅为5.47%，若延续该趋势，预计本季度末价格或接近历史高点11.1万美元。
+- [金色午报 | 7月2日午间重要动态一览]() - 📰 null - 【金色午报 | 7月2日午间重要动态一览】7:00-12:00关键词：韩国、税改法案、加沙停火 
+1.数据：6月CEX现货交易量创近9个月新低； 
+2.韩国央行预计将把下一次降息推迟到10月份； 
+3.特朗普：以色列已同意落实加沙停火所需条件； 
+4.美国财长贝森特：美联储最迟肯定会在9月降息； 
+5.亚利桑那州州长否决“比特币储备”法案HB2324； 
+3.特朗普税改法案引发美国赤字担忧，美元持续疲软； 
+7.Certik：2025年上半年加密黑客攻击与诈骗致损失逾25亿美元。
+- [美国现货以太坊ETF昨日净流入4070万美元](https://x.com/FarsideUK/status/1940256216011223140) - 📰 null - 【美国现货以太坊ETF昨日净流入4070万美元】金色财经报道，据Farside Investors监测数据，美国现货以太坊ETF昨日净流入4070万美元。
+- [韩国央行预计将把下一次降息推迟到10月份]() - 📰 null - 【韩国央行预计将把下一次降息推迟到10月份】金色财经报道，荷兰国际集团高级经济学家Min Joo Kang表示，韩国央行预计将把下一次降息推迟到10月份，以应对近期国内房价和家庭债务的上涨。Kang指出，韩国央行可以谨慎行事，更多地关注金融稳定，在可预见的未来，通胀率预计将在央行2%的目标附近。该国6月份的总体消费者通胀同比上升2.2%，略高于市场普遍预期的2.1%。剔除波动较大的食品和能源价格的核心通胀率连续第二个月稳定在2.0%。(金十)
+- [Binance Alpha日交易量昨日报4.396亿美元，BR、KOGE、BULLA分列前三](https://dune.com/pandajackson42/binance-alpha-20-purchase-dex-tokens-directly-on-binance-cex) - 📰 null - 【Binance Alpha日交易量昨日报4.396亿美元，BR、KOGE、BULLA分列前三】金色财经报道，据@pandajackson42数据面板，7月1日Binance Alpha交易量达4.396亿美元，自6月8日以来日交易量持续下降。 
+其中，BR交易量3.0729亿美元，KOGE交易量3142万美元，BULLA交易量1814万美元居于前列。
+- [比特币在交易所的供应量已降至14.5%，创七年以来新低](https://x.com/Cointelegraph/status/1940251744304296328) - 📰 null - 【比特币在交易所的供应量已降至14.5%，创七年以来新低】金色财经报道，据Cointelegraph披露，数据显示，比特币在交易所的供应量已降至七年来的低点，为 14.5%
+- [慢雾：Chrome V8 零日漏洞允许攻击者通过网页运行恶意代码]() - 📰 null - 【慢雾：Chrome V8 零日漏洞允许攻击者通过网页运行恶意代码】金色财经报道，慢雾 CISO @im23pds 发推提醒 ChromeV8 引擎漏洞 CVE-2025-6554 允许攻击者通过精心构造的网页运行恶意代码，目前相关利用 PoC 已经公开，正在被利用，用户需注意升级，避免钓鱼攻击导致资产损失。
+- [某鲸鱼向Binance转入1,595枚BTC，价值1.6855亿美元](https://x.com/OnchainLens/status/1940250245985861963) - 📰 null - 【某鲸鱼向Binance转入1,595枚BTC，价值1.6855亿美元】金色财经报道，据Onchain Lens监测，一鲸鱼向Binance转入1,595枚BTC，价值1.6855亿美元。
+- [American Bitcoin与Gryphon Digital Mining提交修订S-4表格，推进合并上市进程](https://www.prnewswire.com/news-releases/american-bitcoin-and-gryphon-digital-mining-advance-toward-public-listing-of-american-bitcoin-with-filing-of-amended-registration-statement-on-form-s-4-302496113.html) - 📰 null - 【American Bitcoin与Gryphon Digital Mining提交修订S-4表格，推进合并上市进程】金色财经报道，美国比特币公司(American Bitcoin Corp.)与Gryphon Digital Mining于2025年7月1日联合宣布，已向美国证券交易委员会(SEC)提交修订后的S-4表格注册声明，推进此前宣布的换股合并交易。 
+根据协议，Gryphon将通过换股方式收购American Bitcoin，合并后的公司将以"American Bitcoin"品牌运营，由American Bitcoin的管理层和董事会领导。合并后公司预计将在纳斯达克上市，股票代码为"ABTC"，交易目标最早于2025年第三季度完成。American Bitcoin是Hut 8的控股子公司，专注于工业规模的比特币挖矿和战略性比特币储备开发。
