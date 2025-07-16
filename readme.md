@@ -1,32 +1,21 @@
-- [美国国会议员爆料：美联储主席鲍威尔即将被解雇]() - 📰 null - 【美国国会议员爆料：美联储主席鲍威尔即将被解雇】金色财经报道，美联储主席解职风波再起。当地时间7月15日，美国国会共和党议员安娜·保利纳（Anna Paulina）在社交媒体X平台爆料称，美联储主席杰罗姆·鲍威尔“即将被解雇”。
-- [ZachXBT：BigONE曾处理大量诈骗相关交易](https://x.com/zachxbt/status/1945365902133727266) - 📰 null - 【ZachXBT：BigONE曾处理大量诈骗相关交易】金色财经报道，ZachXBT在X评论区回复时提到，自己并不同情BigONE团队，因为该中心化交易所曾经处理过大量"杀猪盘"、浪漫骗局和投资诈骗相关交易。
-- [分析师：ETH走强或预示BTC市占率触顶，市场资金正流入以太坊和山寨币](https://cointelegraph.com/news/bitcoin-dominance-high-chance-ceiling-ether-price-surge-crypto-analyst) - 📰 null - 【分析师：ETH走强或预示BTC市占率触顶，市场资金正流入以太坊和山寨币】金色财经报道，加密分析师Matthew Hyland表示，如果以太坊价格持续上涨，比特币的市场主导地位可能已触顶。 
-Hyland周二在X平台发文称：“如果ETH对BTC走出上涨行情并维持强势走势，那么比特币市占率触顶的可能性高达99%。”在过去7天内，比特币市占率下跌了1.85%，加密交易员Ash Crypto表示，这是因为“资金正在流入以太坊和其他山寨币”。 
-通常来说，比特币市占率的上升意味着投资者更青睐比特币而非山寨币，而主导率的下降则可能表明市场对更广泛的山寨币生态信心增强。加密交易员Cas Abbe表示，以太坊当前正处于一轮极为明显的“牛旗”形态中，“并且正在接近突破”。
-- [观点：QQ币和稳定币有本质区别，稳定币脱离SWIFT、CHIPS]() - 📰 null - 【观点：QQ币和稳定币有本质区别，稳定币脱离SWIFT、CHIPS】金色财经报道，《中国经济周刊》专访国家金融与发展实验室的特聘高级研究员朱太辉，他指出QQ币和稳定币有着本质区别，后者能够在全球范围内流通使用。此外，稳定币脱离了美国主导的国际资金清算通信系统SWIFT、全球银行同业支付结算系统CHIPS，不受美国管控，为后续摆脱美国的金融制裁提供了新通道。
-- [分析师：当前市场未出现顶部信号，比特币或仍有上行空间](https://x.com/AxelAdlerJr/status/1945358515448517097) - 📰 null - 【分析师：当前市场未出现顶部信号，比特币或仍有上行空间】金色财经报道，CryptoQuant分析师Axel Adler Jr发推表示，“顶部信号”（The Peak Signal）只会出现在主要市场顶部，而这次并未出现该信号，表明比特币尚未到达顶部区间。
-- [Trend Research 15分钟前向Binance充值1165枚ETH，价值366万美元](https://x.com/ai_9684xtpa/status/1945359779842679109) - 📰 null - 【Trend Research 15分钟前向Binance充值1165枚ETH，价值366万美元】金色财经报道，据链上分析师 Ai姨 (@ai 9684xtpa) 监测，Trend Research 15分钟前向Binance充值1165 ETH，价值366万美元。过去12小时，该机构已累计向交易所转移23453.4 ETH，总价值7220万美元。创始人Jackyi表示此举是为了"牛市FOMO时去借贷杠杆，保持现货等待新机会"。
-- [BigONE黑客已将价值超2700万美元被盗资产兑换为BTC、TRX等代币](https://x.com/lookonchain/status/1945360349269778527) - 📰 null - 【BigONE黑客已将价值超2700万美元被盗资产兑换为BTC、TRX等代币】金色财经报道，据Lookonchain监测，BigONE交易平台遭黑客攻击，损失超2700万美元。 
-目前，黑客已将被盗资产兑换为120枚比特币（约1,415万美元）、2,331.6万枚TRX（约701万美元）、1,272枚以太坊（约400万美元）以及2,625枚SOL（约42.8万美元）。
-- [某钱包沉寂6年后将1042枚BTC转移至新建钱包](https://x.com/lookonchain/status/1945355651515080809) - 📰 null - 【某钱包沉寂6年后将1042枚BTC转移至新建钱包】金色财经报道，据链上分析平台 Lookonchain（@lookonchain）监测，一个钱包在休眠6年后转移了1,042枚比特币（价值1.2254亿美元）至新钱包。该钱包6年前从Braiins Mining和Xapo Bank接收了这些比特币，当时比特币价格为8,746美元。
-- [某鲸鱼于5小时前清仓12.5亿枚PUMP，获利341.6万美元](https://x.com/lookonchain/status/1945352221803339793) - 📰 null - 【某鲸鱼于5小时前清仓12.5亿枚PUMP，获利341.6万美元】金色财经报道，据Lookonchain监测，某鲸鱼8a5nSU通过5个钱包花费500万枚USDC参与PUMP公开销售，购买了12.5亿枚PUMP。5小时前，该鲸鱼以均价0.0067美元全部卖出，共计获得841.6万枚USDC，利润达341.6万美元，回报率为68%。
-- [钧崴电子：未有直接应用于稳定币相关业务的独立产品和服务]() - 📰 null - 【钧崴电子：未有直接应用于稳定币相关业务的独立产品和服务】金色财经报道，钧崴电子在互动平台表示，公司与英伟达保持长期业务合作，但对其终端业务应用尚不明确。公司未有直接应用于稳定币相关业务的独立产品和服务。(金十)
-- [BigONE：热钱包遭未授权访问，平台将全额承担本次事件损失]() - 📰 null - 【BigONE：热钱包遭未授权访问，平台将全额承担本次事件损失】金色财经报道，交易平台BigONE发推表示，热钱包遭遇未经授权的访问。所有用户资产均安全。BigONE将全额承担本次事件造成的所有损失。交易和充值功能将很快恢复，提现将在完成安全升级后开放。此前报道，慢雾在社交媒体上发文表示，交易平台BigONE遭遇供应链攻击，被盗金额超2700万美元。生产网络遭入侵，攻击者修改了与账户及风控相关服务器的运行逻辑，从而实现资金提取。值得注意的是，私钥未被泄露。
-- [加密交易所BigONE遭遇供应链攻击，损失超过2700万美元](https://x.com/SlowMist_Team/status/1945346830222680330) - 📰 null - 【加密交易所BigONE遭遇供应链攻击，损失超过2700万美元】金色财经报道，慢雾发布警告称，加密货币交易所@BigONEexchange遭遇供应链攻击，损失超过2700万美元。其生产网络被攻破，攻击者修改了与账户和风控相关服务器的操作逻辑，从而得以提取资金。值得注意的是，私钥并未泄露。
-- [Binance Alpha昨日交易量3.9257亿美元，BR、KOGE位居前列]() - 📰 null - 【Binance Alpha昨日交易量3.9257亿美元，BR、KOGE位居前列】金色财经报道，据@pandajackson42数据面板，7月15日Binance Alpha交易量达3.9257亿美元，相较巅峰时期仍处于低位水平。其中，BR交易量1.98亿美元，KOGE交易量9000万美元位居前列。
-- [SUN生态系统正式登陆币安钱包](https://x.com/sunpumpmeme/status/1945310638089363962) - 📰 null - 【SUN生态系统正式登陆币安钱包】金色财经报道，据官方公告，SUN生态正式登陆币安钱包，用户现可通过币安钱包DApp板块一键直达SUN.io、SunSwap.com及SunPump.meme三大平台，畅享波场TRON公链带来的高效低费DeFi体验。本次深度整合将为用户提供更加无缝的资产交易以及meme代币交互服务，让波场TRON生态的丰富应用触手可及。
-- [Backpack面向Season 2积分活动所有段位用户发放ES空投](https://x.com/backpack_cn/status/1945335224268886190?s=46) - 📰 null - 【Backpack面向Season 2积分活动所有段位用户发放ES空投】7月16日消息，Backpack面向Season 2积分活动所有段位用户发放了不同数量的$ES空投，用户可检查钱包账户查看。 
-此前消息，Backpack根据Season 1积分活动参与情况向符合条件的用户发放徽章空投，加上本次$ES空投，目前白金段位或以上用户已获得第四次空投。
-- [以太坊市值超过强生公司，全球资产市值排名升至第30位](https://8marketcap.com/) - 📰 null - 【以太坊市值超过强生公司，全球资产市值排名升至第30位】金色财经报道，据8marketcap数据显示，以太坊市值升至3755亿美元，超越强生公司，在全球资产市值中排名升至第30位。
-- [James Wynn：比特币或将于7月底涨至14.5万美元，山寨币牛市即将开启](https://x.com/JamesWynnReal/status/1945328379953340551) - 📰 null - 【James Wynn：比特币或将于7月底涨至14.5万美元，山寨币牛市即将开启】金色财经报道，James Wynn发推表示，我认为我们已经在7月如预期一样见到比特币的短期顶部，月底可能会达到14.5万美元左右。随后，预计会出现一次剧烈回调，回落至11万美元。接下来的1至2个月，将迎来一波强劲的山寨币牛市，也就是大家真正开始FOMO的阶段。 
-比特币的主导地位已经维持太久，山寨币正逐步崛起。等到第四季度，美联储开始降息后，比特币将迎来新一轮上涨，可能涨到16万至24万美元之间。
-- [SharpLink或再次从Galaxy Digital OTC买入1189枚ETH](https://intel.arkm.com/explorer/address/0xCd9e09B30d481cc33937CE33fEB3d94D434F5F75) - 📰 null - 【SharpLink或再次从Galaxy Digital OTC买入1189枚ETH】金色财经报道，据Arkham数据显示，此前多次向SharpLink转移ETH的地址0xCd一小时前从Galaxy Digital收到1189枚ETH，或为OTC买入。
-- [金色午报 | 7月16日午间重要动态一览]() - 📰 null - 【金色午报 | 7月16日午间重要动态一览】7:00-12:00关键词：特朗普、贝森特、GENIUS法案 
-1.潘渡比特币ETF将于7月18日在港交所上市； 
-2.特朗普：贝森特是接替美联储主席一职的备选人； 
-3.特朗普：国会议员一致同意明早投票通过GENIUS法案； 
-4.特朗普：将很快对小国发送关税信函 税率或略高于10%； 
-5.贝莱德：美国CPI显示关税正逐步推高物价 大部分影响还未到来； 
-6.特朗普与共和党强硬派就加密法案达成共识，法案重回通过轨道； 
-7.美国民主党党鞭：今天众议院没有额外的加密货币法案投票计划。
-- [SharpLink Gaming今日再次增持6377枚ETH，约合1,956万美元](https://x.com/lookonchain/status/1945331808423567710) - 📰 null - 【SharpLink Gaming今日再次增持6377枚ETH，约合1,956万美元】金色财经报道，据Lookonchain监测，SharpLink Gaming今日再次增持6,377枚ETH（约合1,956万美元）。在过去7天内，该机构已累计购入91,330枚ETH（约合2.75亿美元）。
+- [特朗普媒体科技集团：将人工智能功能整合到Truth Social的iOS和Android应用程序以及网页版中]() - 📰 null - 【特朗普媒体科技集团：将人工智能功能整合到Truth Social的iOS和Android应用程序以及网页版中】金色财经报道，特朗普媒体科技集团(DJT.O)：将人工智能功能整合到Truth Social的iOS和Android应用程序以及网页版中。
+- [GMX：GLP在Arbitrum上的资金已全部收回](https://x.com/GMX_IO/status/1945457846449312119) - 📰 null - 【GMX：GLP在Arbitrum上的资金已全部收回】金色财经报道，GMX 官方公布 GMX V1 在 Arbitrum 上遭约 4200 万美元漏洞攻击事件后续进展，经过成功协商，GLP 在 Arbitrum 上的资金已全部收回。资金已被退还，目前由 DAO 保管，等待分配给 Arbitrum GLP 金库中的流动性提供者。
+- [美国6月PPI同比增长2.3%]() - 📰 null - 【美国6月PPI同比增长2.3%】金色财经报道，美国6月PPI同比增长2.3%，预估为2.5%，前值为2.6%；6月PPI环比持平，预估为0.2%，前值为0.1%。
+- [某巨鲸向 HypeLiquid 存入 273 万美元并 20 倍杠杆做空 BTC](https://x.com/OnchainLens/status/1945458588169986323) - 📰 null - 【某巨鲸向 HypeLiquid 存入 273 万美元并 20 倍杠杆做空 BTC】金色财经报道，据 Onchain Lens 监测，某巨鲸向 HypeLiquid 存入了 273 万枚 USDC，并以 20 倍杠杆开比特币空仓。
+- [美国众议院金融服务委员会主席：我们拥有足够票数推动稳定币法案]() - 📰 null - 【美国众议院金融服务委员会主席：我们拥有足够票数推动稳定币法案】金色财经报道，美国众议院金融服务委员会主席希尔：我们拥有足够票数推动稳定币法案。众议院拥有推动三项加密货币措施的票数。
+- [LiveOne拟配股募资890万美元以推出比特币收益型财库策略](https://www.globenewswire.com/news-release/2025/07/16/3116349/0/en/LiveOne-Nasdaq-LVO-Announces-Pricing-of-Public-Offering-to-Launch-Bitcoin-Yield-Treasury-Strategy.html) - 📰 null - 【LiveOne拟配股募资890万美元以推出比特币收益型财库策略】金色财经报道，据官方公告，美股上市公司 LiveOne 已为其比特币收益国库策略的启动定价 890 万美元公开募资。该公司计划初始配置 1000 万美元，并已获董事会批准总额高达 5 亿美元的投资额度。
+- [上市公司 Super Copper Corp 拟配置 20% 储备资金为比特币](https://x.com/btcNLNico/status/1945455288330403896) - 📰 null - 【上市公司 Super Copper Corp 拟配置 20% 储备资金为比特币】金色财经报道，据 NLNico 披露，加拿大上市公司 Super Copper Corp 已开始将比特币纳入其资金储备策略，计划将高达 20%的储备资金配置为比特币，以此作为价值存储手段。
+- [USDT 市值突破 1600 亿美元，市占率达 62.51%]() - 📰 null - 【USDT 市值突破 1600 亿美元，市占率达 62.51%】金色财经报道，据 Defillama 数据，USDT市值突破1600亿美元，近七日增长0.76%，在稳定币市场的市占率达 62.51%。
+- [Talos以超1亿美元收购Coin Metrics](https://fortune.com/crypto/2025/07/16/talos-crypto-acquisition-coinmetrics-a16z-general-atlantic-coinbase/) - 📰 null - 【Talos以超1亿美元收购Coin Metrics】金色财经报道，总部位于纽约的数字资产交易基础设施开发公司 Talos 宣布已收购区块链数据提供商 Coin Metrics。据一位知情人士透露，该交易金额超过 1 亿美元。Talos 由华尔街资深人士 Katz 和担任公司首席技术官的 Ethan Feldman 于 2018 年创立，其软件帮助对冲基金和资产管理公司等机构投资者交易比特币和以太坊等数字资产。
+- [Matador计划在 2026 年前积累 1,000 枚比特币](https://www.globenewswire.com/news-release/2025/07/16/3116287/0/en/Matador-Technologies-Inc-Board-Approves-Long-Term-Bitcoin-Treasury-Acquisition-Strategy.html) - 📰 null - 【Matador计划在 2026 年前积累 1,000 枚比特币】金色财经报道，加拿大科技公司 Matador Technologies Inc. 董事会批准了一项长期比特币储备战略，计划在 2027 年前累积最多 6,000 枚比特币，并设定 2026 年前持有最多 1,000 枚比特币的中期目标。该公司目前持有 77.4 枚比特币及比特币等价物。 
+为支持这一战略，Matador 此前已提交了一份 9 亿加元的初步短期基础架构招股说明书，为未来 25 个月提供融资灵活性。公司计划通过多种方式筹集资金，包括场内股权发行、可转换融资、非核心资产剥离、比特币支持的信贷额度以及战略收购或合作。
+- [美股上市公司VCI Global收购V Capital拟推出受监管比特币基金](https://www.globenewswire.com/news-release/2025/07/16/3116296/0/en/VCI-Global-to-Acquire-Licensed-Fund-Manager-in-Malaysia-s-Labuan-Jurisdiction-to-Launch-Regulated-Bitcoin-Fund.html) - 📰 null - 【美股上市公司VCI Global收购V Capital拟推出受监管比特币基金】金色财经报道，纳斯达克上市公司 VCI Global Limited 宣布已签署最终协议收购马来西亚持牌基金管理公司 V Capital Fund Management Limited，据悉 VCI Global 将利用所获得的牌照推出 VCIG 比特币基金，该基金将是一款以美元计价、由专业人士管理的投资工具，旨在为合格投资者提供机构级的比特币投资机会。
+- [特朗普主题Meme币TRUMP疑似正在准备启动游戏项目](https://trumpthegame.gettrumpmemes.com/) - 📰 null - 【特朗普主题Meme币TRUMP疑似正在准备启动游戏项目】金色财经报道，根据网站流出信息显示，特朗普主题 Meme 币 TRUMP 疑似正在准备启动游戏项目。
+- [Binance宣布Bonding Curve TGE将于20:00重新开启]() - 📰 null - 【Binance宣布Bonding Curve TGE将于20:00重新开启】金色财经报道，Binance 官方宣布此前延期的 Bonding Curve TGE 将于 7 月 16 日 20:00 (UTC+8) 重新开启，并于 21:00 (UTC+8) 结束。
+- [Strategy比特币策略经理：即使比特币跌至2万美元仍能偿还所有负债](https://x.com/BitcoinNewsCom/status/1945445558166106448) - 📰 null - 【Strategy比特币策略经理：即使比特币跌至2万美元仍能偿还所有负债】金色财经报道，Strategy公司比特币策略经理Chaitanya Jain表示，即使比特币价格下跌至2万美元，Strategy公司"仍将拥有足够的抵押品来偿还所有负债"。
+- [Pump.Fun近24小时Solana发币平台市场份额报46.9%](https://jup.ag/pro?tab=launchpads) - 📰 null - 【Pump.Fun近24小时Solana发币平台市场份额报46.9%】7月16日消息，据 Jupiter 数据面板，近 24 小时 Solana 发币平台市场份额排名中，Pump.Fun 以 46.9% 排名第一，Letsbonk 则以 44.1% 位列第二，Believe 位列第三，市场份额仅 3.74%。
+- [美股上市公司BTCS被纳入罗素微型股指数](https://x.com/NasdaqBTCS/status/1945438617725293032) - 📰 null - 【美股上市公司BTCS被纳入罗素微型股指数】金色财经报道，采用以太坊财库策略的美股上市公司BTCS在X平台发文宣布，该公司已被纳入罗素微型股指数（Russell Microcap Index），该指数是追踪美国小型上市公司表现的权威基准指数。
+- [摩根大通CEO：涉足稳定币的公司正试图创造银行账户替代品](https://www.marketwatch.com/story/jpmorgans-jamie-dimon-on-stablecoins-i-think-theyre-real-but-why-use-them-b0195bad) - 📰 null - 【摩根大通CEO：涉足稳定币的公司正试图创造银行账户替代品】金色财经报道，摩根大通Jamie Dimon在AlphaSense的电话会议记录中表示，涉足稳定币的金融科技公司“非常聪明”，他们正试图创造出一种银行账户的替代品，并进入支付系统和奖励计划。Jamie Dimon解释说：“摩根大通必须意识到这一点，意识到的方式就是参与，所以会进入这个领域，不断学习，成为其中的一员。”
+- [Soluna Holdings通过配股募资500万美元以支持为BTC挖矿扩展绿色数据中心](https://www.businesswire.com/news/home/20250715525147/en/Soluna-Holdings-Inc.-Announces-Pricing-of-%245-Million-Public-Offering) - 📰 null - 【Soluna Holdings通过配股募资500万美元以支持为BTC挖矿扩展绿色数据中心】金色财经报道，为比特币挖矿和人工智能等密集型计算应用开发绿色数据中心的纳斯达克上市公司Soluna Holdings宣布通过配股募资500万美元，本次交易在满足惯例成交条件后预计于7月17日完成，HC Wainwright & Co.担任此次发行的独家配售代理，新资金将用于支持其拓展数据中心营运及一般公司用途。
+- [以太坊基金会内部转移1000枚ETH]() - 📰 null - 【以太坊基金会内部转移1000枚ETH】金色财经报道，派盾监测显示，以太坊基金会开发账户 EFDev 内部转移 1000 枚 ETH（价值约 315 万美元）至 0xc061 开头 EF2 地址。该地址目前持有 7000 枚 ETH（价值约 2200 万美元）。
+- [受持续增持ETH影响，Sharplink Gaming盘前高开13.08%]() - 📰 null - 【受持续增持ETH影响，Sharplink Gaming盘前高开13.08%】金色财经报道，据行情信息，Sharplink Gaming（SBET）盘前高开 13.08%，报价 32.820 美元。此前消息，SharpLink Gaming 今日再次增持 6,377 枚 ETH（约合 1,956 万美元）。在过去 7 天内，该机构已累计购入 91,330 枚 ETH（约合 2.75 亿美元）。此外，公司公告称仍有约 2.57 亿美元的资本可用于未来的 ETH 收购。
