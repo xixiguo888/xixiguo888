@@ -1,26 +1,40 @@
-- [Trend Research地址10小时前将150万枚FORM转至币安，约合512万美元](https://x.com/EmberCN/status/1947469202283204881) - 📰 null - 【Trend Research地址10小时前将150万枚FORM转至币安，约合512万美元】金色财经报道，据分析师余烬监测，Trend Research地址在10小时前把150万枚FORM（约合512万美元）转进了币安。 他们是在4月底从币安提出900万枚FORM（1920万美元），当时价格2.13美元。 然后在5月底以2.56美元的价格转进了币安300万枚、6月底以2.58美元的价格转进了币安150万枚、7月底（今天）以3.41美元的价格转进了币安150万枚。 转出的这600万枚FORM均价2.78美元，预计盈利390万美元。他们现在还持有300万枚的FORM（约合1044万美元）。
-- [SOL突破200美元]() - 📰 null - 【SOL突破200美元】金色财经报道，行情显示，SOL突破200美元，现报200.05美元，24小时涨幅达到11.55%，行情波动较大，请做好风险控制。
-- [某新建钱包从Bybit中提取189万枚SPX，价值367万美元](https://x.com/OnchainLens/status/1947467590307303614) - 📰 null - 【某新建钱包从Bybit中提取189万枚SPX，价值367万美元】金色财经报道，据OnchaiLens监测，某新创建的钱包从Bybit中提取了189万枚SPX，价值367万美元。
-- [ETH跌破3700美元]() - 📰 null - 【ETH跌破3700美元】金色财经报道，行情显示，ETH跌破3700美元，现报3698.97美元，24小时跌幅达到1.07%，行情波动较大，请做好风险控制。
-- [Volcon首次购入280.14枚BTC，并完成超5亿美元私募融资用于购买比特币](https://x.com/btcNLNico/status/1947404236343677290) - 📰 null - 【Volcon首次购入280.14枚BTC，并完成超5亿美元私募融资用于购买比特币】金色财经报道，美国上市电动汽车公司Volcon首次购入280.14枚BTC，并完成超过5亿美元的私募融资用于购买比特币。 
-此前报道，7月17日，电动汽车公司Volcon宣布将采用比特币财务策略，其已与某些机构和合格投资者达成证券购买协议，以私募方式购买和出售50,142,851 股普通股，价格为每股10美元，预计总收益超过5亿美元，扣除配售代理费和其他发行费用（私募）。Empery担任领投方，此次发行的参与者包括知名加密风险投资公司和基础设施提供商，如FalcolnX、Pantera、Borderless、RK Capital和Relayer Capital，以及传统金融投资者。
-- [Questflow完成650万美元种子轮融资，@CyberFund领投](https://chainwire.org/2025/07/22/questflow-secures-6-5m-seed-round-to-build-ai-agent-economy-for-every-workflow/?mfk=dE6Kxf89oZ6FtA2NNYXFmY9aXBwwSp2ogpq7Kbginqkza77Ia9b6d%2BWaGco5C3P5tUOkgiwx3NWaM9NRJawywf4qMOq0FuWoDX1pNMK8KcwnV9E%3D) - 📰 null - 【Questflow完成650万美元种子轮融资，@CyberFund领投】金色财经报道，Questflow（AI代理经济编排平台）宣布完成650万美元种子轮融资，由@CyberFund领投，Delphi Labs、Systemic Ventures、Animoca Brands、HashKey Capital等知名投资机构参投，同时获得Aptos、Coinbase开发者平台和Virtuals Protocol的资助。
-- [某巨鲸2小时前再增持2.5万枚ETH，总持仓突破7.2万枚](https://x.com/EmberCN/status/1947460345418973647) - 📰 null - 【某巨鲸2小时前再增持2.5万枚ETH，总持仓突破7.2万枚】金色财经报道，据余烬监测，某通过FalconX囤积ETH的地址在2小时前继续囤积25,213枚ETH（约9466万美元），该地址ETH囤积总量达到72,333枚（约2.72亿美元），均价3618美元。
-- [高盛：美联储独立性面临的风险正在上升](https://x.com/NickTimiraos/status/1947461347140116958) - 📰 null - 【高盛：美联储独立性面临的风险正在上升】金色财经报道，高盛表示：“市场参与者似乎一致认为，美联储独立性面临的风险正在上升，因为5年期远期（5y5y）通胀互换利率近期已脱离其与2年期国债收益率之间长期以来的紧密关联，出现上行偏离。”
-- [Mercurity Fintech完成4370万美元注册直接发行，支持加密财务战略](https://www.globenewswire.com/news-release/2025/07/21/3118964/0/en/Mercurity-Fintech-Holding-Inc-Announces-Pricing-of-Registered-Direct-Offering-of-43-70-Million-For-Crypto-Treasury-Strategy.html) - 📰 null - 【Mercurity Fintech完成4370万美元注册直接发行，支持加密财务战略】7月22日消息，Mercurity Fintech Holding Inc.（纳斯达克代码：MFH）于2025年7月21日宣布，已与机构投资者签订证券购买协议，通过注册直接发行方式筹集4370万美元资金。此次发行包括12,485,715股普通股及同等数量的认股权证，每股定价3.50美元，认股权证有效期为五年。参与方包括LTP、Syntax Capital、OGBC Group和Blockstone Capital等数字资产领域投资机构。所筹资金将用于推进公司加密财务战略，包括生态系统质押、代币化收益工具和机构级链上金融基础设施建设。
-- [K Wave Media与Galaxy Digital达成战略合作，加速比特币财资战略](https://www.globenewswire.com/news-release/2025/07/21/3118715/0/en/K-Wave-Media-Announces-Investment-and-Strategic-Partnership-from-Galaxy-Digital-to-Accelerate-Bitcoin-Treasury-Strategy.html) - 📰 null - 【K Wave Media与Galaxy Digital达成战略合作，加速比特币财资战略】7月22日消息，K Wave Media(纳斯达克代码：KWM)宣布与数字资产投资公司Galaxy Digital(纳斯达克代码：GLXY)达成战略合作伙伴关系。根据协议，Galaxy Digital将作为KWM的资产管理者和战略顾问，并对KWM进行投资，以支持其比特币财资战略实施和扩大机构资本准入。KWM已获得接近10亿美元的机构资本支持，并已收购88枚比特币。
-- [某巨鲸近期累计增持32,953枚ETH，均价3552美元]() - 📰 null - 【某巨鲸近期累计增持32,953枚ETH，均价3552美元】金色财经报道，据链上分析师余烬监测，巨鲸 4 小时前从 Cumberland 收到 7487 枚 ETH (约合 2815 万美元)，然后通过抵押 ETH 从 Aave 借款 750 万 USDT 继续购买了 1,989 枚 ETH。 
-该巨鲸以通过加杠杆的方式，在最近 5 天里累计购进了 32,953 枚 ETH (约合 1.17 亿美元)，均价 3552 美元：从 Cumberland 收到 11,003 枚 ETH (约合 4053 万美元) + 链上 7654 万美元购买 21,950 枚 ETH。 
-目前该巨鲸一共持有 5.6 万枚的 ETH (约合 2.11 亿美元)。
-- [以太坊财库公司将通过15亿美元SPAC交易上市](https://www.bloomberg.com/news/articles/2025-07-21/ethereum-crypto-treasury-to-go-public-in-1-5-billion-spac-deal?srnd=phx-crypto) - 📰 null - 【以太坊财库公司将通过15亿美元SPAC交易上市】金色财经报道，据彭博社报道，以太坊财库公司已同意通过与特殊目的收购公司(SPAC)合并的方式公开上市，该交易获得超过15亿美元的加密货币和股票融资支持。根据周一发布的声明，合并后的公司Ether Machine Inc.将由一位联合创始人提供的169,984枚以太坊作为支撑，并获得超过8亿美元的股票融资。此外，合并方Dynamix Corp.信托账户中的最多1.7亿美元现金也将纳入交易。
-- [某巨鲸以3751美元均价抛售超8000枚ETH，获利985万美元]() - 📰 null - 【某巨鲸以3751美元均价抛售超8000枚ETH，获利985万美元】金色财经报道，据Onchain Lens监测，某巨鲸以每枚3751美元的价格卖出8005枚ETH，换得3,000万枚USDT，获利达985万美元。该巨鲸仍持有1,577.54枚ETH，价值约594万美元，仅持仓两周便获得巨额利润。
-- [Bittensor生态公司xTAO将在加拿大上市，获DCG等2280万美元投资](https://www.theblock.co/post/363317/xtao-bittensor) - 📰 null - 【Bittensor生态公司xTAO将在加拿大上市，获DCG等2280万美元投资】金色财经报道，xTAO公司今日宣布已获得最终批准，将于7月23日在加拿大TSX创业交易所（TSXV）上市，股票代码为XTAO.U。同时，该公司完成了2280万美元融资，投资方包括DCG、Animoca Brands、Arca、Borderless Capital和FalconX等知名数字资产风投机构。 
-xTAO由前加拿大加密交易所WonderFi的CEO和董事长Karia Samaroo创立，公司核心目标是通过开发数据、计算和机器学习模型，促进Bittensor生态系统发展。Bittensor被视为"AI领域的比特币"，是一个去中心化AI平台，允许用户通过贡献智能获得TAO代币奖励。
-- [FTX寻求延期回应债权人异议，4.7亿美元海外索赔或被冻结](https://cointelegraph.com/news/ftx-seeks-time-creditors-foreign-freeze-claims) - 📰 null - 【FTX寻求延期回应债权人异议，4.7亿美元海外索赔或被冻结】金色财经报道，据Cointelegraph披露，FTX破产管理团队正寻求德拉华法院延期，以回应超过90项针对其"受限外国司法管辖区"还款暂停提案的异议。该提案影响49个国家的债权人，涉及总额约4.7亿美元的索赔，其中中国债权人占比最大，达82%（约3.8亿美元）。 
-FTX团队表示，向这些国家的债权人还款可能触发罚款、个人责任甚至刑事处罚。然而，多位债权人对此强烈反对，认为此举可能导致其索赔价值归零。据FTX债权人Sunil Kavuri透露，目前仍有约14亿美元的FTX索赔等待解决。
-- [Robinhood CEO：将坚持推进代币化股票计划](https://decrypt.co/331074/robinhood-ceo-openai-crypto-stock-controversy-doubling-down) - 📰 null - 【Robinhood CEO：将坚持推进代币化股票计划】金色财经报道，Robinhood首席执行官Vlad Tenev近日承认公司推出的OpenAI代币化股票引发争议，但表示将坚定扩展此项业务。此前，OpenAI对未经授权的代币化股票表示强烈反对，美国SEC也发出警告称代币化证券仍需遵守联邦证券法。 
-Tenev表示："成为首个实际代币化这些优秀公司的平台是一个重要里程碑。每当你首创有意义的事物，总会有一些争议。"他计划将此模式扩展至数千家私人公司，并与DeFi市场整合。
-- [某新建钱包又从FalconX收到25,213枚ETH，价值9467万美元](https://x.com/OnchainLens/status/1947449669472444469) - 📰 null - 【某新建钱包又从FalconX收到25,213枚ETH，价值9467万美元】金色财经报道，据Onchain Lens监测，某新创建的钱包又从FalconX收到25,213枚ETH，价值9467万美元。过去两天内，该钱包总共收到72,333枚以太坊，价值2.7247亿美元。
-- [白宫首份加密政策报告将在本月底之前向公众公布](https://x.com/EleanorTerrett/status/1947343733487292661) - 📰 null - 【白宫首份加密政策报告将在本月底之前向公众公布】金色财经报道，关于白宫首份加密政策报告的进展，加密记者 Eleanor Terrett 表示：“报告将于明天（当地时间7月22日）正式提交，但白宫官员告诉我，它将在本月底之前向公众公布。”
-- [昨日灰度GBTC净流出3670万美元，灰度ETH净流入5490万美元](https://farside.co.uk/eth/) - 📰 null - 【昨日灰度GBTC净流出3670万美元，灰度ETH净流入5490万美元】金色财经报道，据Farside Investors监测数据，昨日灰度GBTC净流出3670万美元，灰度ETH净流入5490万美元。
-- [华尔街大型做市商Citadel Securities敦促美国SEC在推进证券代币化方面谨慎行事](https://www.bloomberg.com/news/articles/2025-07-21/citadel-securities-asks-sec-to-tread-cautiously-on-tokenization?srnd=phx-crypto) - 📰 null - 【华尔街大型做市商Citadel Securities敦促美国SEC在推进证券代币化方面谨慎行事】金色财经报道，美SEC主席保罗·阿特金斯（Paul Atkins）近期曾表示，可能会简化传统证券法规，以帮助企业发行代币化证券。华尔街大型做市商Citadel Securities在周一致SEC加密货币工作组的一封评论信中表示，这样的举措可能会导致投资者困惑，并在交易所和上市公司之间造成不公平的竞争环境。Citadel Securities希望美国证券交易委员会（SEC）在允许“代币化”证券发展方面行动得更缓慢一些。
+- [Binance Wallet：ZKWASMTGE参与门槛为225分Alpha积分](https://x.com/BinanceWallet/status/1947538993832436018) - 📰 null - 【Binance Wallet：ZKWASMTGE参与门槛为225分Alpha积分】金色财经报道，币安发推表示，Delphinu sLab（ZKWASM）TGE的参与门槛现已公布，用户需达到225分Alpha积分方可参与。参与该活动将消耗15积分。
+- [比特币矿企Mawson已解雇其CEO，因其涉嫌欺诈和不当行为](https://theminermag.com/news/2025-07-22/bitcoin-mawson-mewawalla) - 📰 null - 【比特币矿企Mawson已解雇其CEO，因其涉嫌欺诈和不当行为】金色财经报道，据The Miner Mag报道，比特币挖矿及托管公司Mawson Infrastructure已解雇首席执行官兼总裁Rahul Mewawalla，并撤销其董事会席位，理由为违反信托义务和欺诈行为。Mawson已向特拉华衡平法院提起诉讼，寻求赔偿。 
+Mewawalla此前曾因“高绩效”获发250万美元奖金和120万股限制性股票，年薪升至120万美元。他在回应中否认不当行为，强调其领导下公司收入增长36%、毛利润增长35%。 
+此外，Mawson近期也卷入NYDIG及其母公司Stone Ridge的诉讼，涉托管纠纷，牵涉2万余台矿机、价值3000万美元。
+- [巴西矿商警告：对美报复性关税可能带来10亿美元损失](https://flash.jin10.com/detail/20250722135341538800) - 📰 null - 【巴西矿商警告：对美报复性关税可能带来10亿美元损失】金色财经报道，巴西矿业界警告称，如果政府为了报复美国总统特朗普自8月1日起威胁征收50%关税而采取对等关税措施，将带来严峻的经济后果。 
+巴西矿业协会（Ibram）负责人Raul Jungmann表示，如果特朗普兑现威胁，而巴西采取此类反制措施，矿业部门每年将面临多达10亿美元的额外成本。巴西矿业高管正考虑与美国企业展开对话，推动特朗普政府回到谈判桌前。
+- [4E：Tether市值突破1600亿美元，加密市场结构深化重塑]() - 📰 null - 【4E：Tether市值突破1600亿美元，加密市场结构深化重塑】7月22日消息根据4E观察，全球加密行业正进入政策、资本与市场结构同步演进的深水期，机构持仓创新高、稳定币扩张、头部项目启动IPO，凸显行业正迈入新一轮主流化整合周期。 
+Bitwise最新数据显示，2025年第二季度新增46家上市公司购买比特币，企业合计持仓已达84.7万枚BTC，占比特币总供应量的4.03%，总市值达910亿美元，反映机构正在持续战略性布局加密资产。 
+与此同时，由硅谷投资人Peter Thiel孵化、旗下拥有交易所和媒体业务的Bullish已正式向SEC递交IPO申请，拟于纽交所挂牌。这将是继Coinbase之后又一加密独角兽赴美上市，标志着一级与二级市场的整合趋势进一步增强。 
+政策层面，白宫预计将于7月22日发布首份加密政策报告，美财长贝森特亦公开表示“美元即将上链”，肯定GENIUS法案将为美元在新金融体系中稳固主导地位。美联储主席鲍威尔与欧洲央行行长拉加德本周将相继发表讲话，市场关注其对关税、利率与数字资产监管立场的回应。 
+此外，山寨币季节指数上升至52，表明超过半数前百加密资产在过去90天跑赢BTC，市场风险偏好显著上升。然而，根据Santiment数据，比特币社交媒体讨论占比超43%，分析师提醒需警惕情绪过热引发的短期回调风险。 
+ 
+4E提醒投资者：主流化进程虽可期，市场情绪仍需冷静判断，切忌高位盲目追涨，理性评估风险与收益结构。
+- [BNB Chain基金会：已购入2.5万美元TAG代币](https://x.com/BNBCHAIN/status/1947478701991751926) - 📰 null - 【BNB Chain基金会：已购入2.5万美元TAG代币】金色财经报道，BNB Chain在社交平台发文表示，已将2.5万枚USDT兑换为40421479.45枚TAG，兑换价格为0.0006184830526，这笔交易属于BNBChain此前公布的1亿美元生态激励计划的一部分。
+- [SpaceX三年来首次转移价值1.52亿美元BTC](https://intel.arkm.com/explorer/entity/spacex) - 📰 null - 【SpaceX三年来首次转移价值1.52亿美元BTC】金色财经报道，据Arkham监测，SpaceX于半小时前将1308枚BTC转移至bc1q8开头地址，价值1.52亿美元，系SpaceX三年来首次转移BTC。
+- [AguilaTrades的ETH多头仓位被部分清算，累计亏损再次达到3100万美元](https://x.com/OnchainLens/status/1947525727584456715) - 📰 null - 【AguilaTrades的ETH多头仓位被部分清算，累计亏损再次达到3100万美元】金色财经报道，据Onchain Lens监测，AguilaTrades的ETH多头仓位（15倍杠杆）被部分清算，清算金额为7,160枚ETH，价值2617万美元。AguilaTrades曾面临3500万美元的损失，然后又全部收回亏损，现在亏损再次达到了3100万美元。
+- [10T Holdings与1RoundTable合并成立新实体50T并推出5亿美元新基金](https://www.prnewswire.com/news-releases/50t-launches-500m-growth-equity-fund-consolidates-10t-holdings-and-1roundtable-partners-under-new-unified-brand-302509553.html) - 📰 null - 【10T Holdings与1RoundTable合并成立新实体50T并推出5亿美元新基金】金色财经报道，加密风投机构10T Holdings宣布与1RoundTable Partners (1RT) 合并并更名为50T，该实体将专注于数字资产业务并强调结构化的下行保护投资策略。同时，50T还推出了一只规模达5亿美元的新基金50T Fund，该基金预计将在今年第四季度完成首笔私募融资。
+- [西联汇款：公司正在探索在数字钱包中推出稳定币服务的可能性](https://www.theblock.co/post/363745/western-union-explores-stablecoin-integration) - 📰 null - 【西联汇款：公司正在探索在数字钱包中推出稳定币服务的可能性】金色财经报道，西联汇款（Western Union）首席执行官德文·麦格拉纳汉表示，公司正在探索在数字钱包中推出稳定币服务的可能性，并计划建立入口与出口合作伙伴关系，支持客户购买与出售稳定币。他强调，稳定币是提升跨境转账速度、稳定币与法币兑换、以及动荡经济体中价值储存的三大机遇。 
+这一举措是在《GENIUS法案》签署之后提出，该法案为稳定币确立联邦监管框架，推动其在全球主流金融体系中的合规化发展。
+- [James Wynn的PEPE和DOGE多单被部分清算，浮亏仍超80万美元](https://x.com/OnchainLens/status/1947522110978723995) - 📰 null - 【James Wynn的PEPE和DOGE多单被部分清算，浮亏仍超80万美元】金色财经报道，据Onchain Lens监测，JamesWynn的PEPE（10倍）和DOGE（10倍）多头仓位被部分清算，浮动亏损仍超过80万美元。
+- [灰度增持5196枚LINK，Grayscale Chainlink Trust当前AUM已超2300万美元](https://www.grayscale.com/funds/grayscale-chainlink-trust) - 📰 null - 【灰度增持5196枚LINK，Grayscale Chainlink Trust当前AUM已超2300万美元】金色财经报道，据Arkham监测数据显示，大约六小时前灰度通过旗下Grayscale Chainlink Trust增持5196枚LINK，另据其官网信息，截至7月21日Grayscale Chainlink Trust的资产管理规模已达23,071,570.08美元，每股净资产值为17.26 美元。
+- [交易员Eugene：已平仓大部分多单，锁定收益准备下一轮机会]() - 📰 null - 【交易员Eugene：已平仓大部分多单，锁定收益准备下一轮机会】7月22日消息，交易员EugeneNgAhSio在个人频道发文表示，已经从大部分多头头寸中退出了，以太坊从2500美元涨到3800美元，能在两周内走出这样的行情，已经是我能要求的最好结果了。 
+ETHBTC也刚好触及我设定的中期目标0.03，说明整个交易逻辑几乎完美兑现，现在我选择锁定收益，准备下一轮机会。
+- [两巨鲸约10小时前向CEX存入总计6000万枚ENA，价值约3000万美元]() - 📰 null - 【两巨鲸约10小时前向CEX存入总计6000万枚ENA，价值约3000万美元】金色财经报道，据Lookonchain监测，两位巨鲸在大约10小时前向Binance和Bybit存入总计6000万枚ENA，价值约3000万美元。
+- [摩根大通探索以客户加密货币作为抵押来发放贷款]() - 📰 null - 【摩根大通探索以客户加密货币作为抵押来发放贷款】金色财经报道，摩根大通正在探索以客户的加密货币资产作为抵押发放贷款的可能性，这是美国最大银行之一正在推动加密资产进入主流金融体系的又一迹象。这项政策若最终落实，将标志着摩根大通CEO戴蒙立场的重大转变。八年前，戴蒙曾称比特币是“一场骗局”，声称它“最终会崩盘”，只对毒贩和杀人犯有用。知情人士透露，摩根大通最早可能于明年开始接受比特币和以太币等加密资产作为抵押直接发放贷款，但计划仍可能变动。摩根大通对此拒绝置评。(金十)
+- [LDCapital创始人：加密牛市轮涨定律开启，主流币率先上涨]() - 📰 null - 【LDCapital创始人：加密牛市轮涨定律开启，主流币率先上涨】金色财经报道，LD Capital创始人JackYi在社交媒体上发文表示，牛市轮涨定律开启，XRP、SOL、LTC、UNI等主流币种率先上涨。只要美股不出意外，加密法案通过后，华尔街巨额资金或将集中入场。尽管曾尝试波段操作，但多数“高买低卖”，结果亏多赚少，像天使投资一样，心累还亏损。 
+此前报道，JackYi表示，加密货币牛市中一直有个轮涨规律，BTC和ETH先冲顶，然后是主流中型市值代币类似XRP、LTC、UNI等上涨，最后再是各种实力山寨币上涨，努力投对部分品种争取收益会跑赢大盘。
+- [英国央行考虑搁置数字英镑计划]() - 📰 null - 【英国央行考虑搁置数字英镑计划】金色财经报道，据外媒报道，由于对项目效益的质疑日益增多，英国央行官员正考虑暂缓面向公众的数字英镑计划。这反映出全球范围内对政府支持的数字货币的热情正在消退。据知情人士透露，英国央行已私下敦促银行业加速支付创新，以期在不推出央行数字货币（CBDC）的情况下实现类似效益。英国央行表示，仍希望在必要时保留推出CBDC的能力，但如果私营部门持续推出新的电子支付技术，且其工作人员认为推进数字英镑的收益下降，央行愿意退后一步。(金十)
+- [Binance Wallet：Codatta代币XNY将于明日20:00正式流通，Pre-TGE参与用户可进行交易]() - 📰 null - 【Binance Wallet：Codatta代币XNY将于明日20:00正式流通，Pre-TGE参与用户可进行交易】金色财经报道，Binance Wallet发文表示，Codatta（XNY）代币将于北京时间2025年7月23日20:00正式开始流通。 
+参与CodattaPre-TGE的用户可在BinanceAlpha上交易XNY代币。第1周和第2周Codatta Booster活动的获胜者可在代币流通开始后8小时内领取并交易XNY代币。
+- [金色午报 | 7月22日午间重要动态一览]() - 📰 null - 【金色午报 | 7月22日午间重要动态一览】7:00-12:00关键词：FTX、Yuga Labs、特斯拉 
+1.高盛：美联储独立性面临的风险正在上升； 
+2.以太坊财库公司将通过15亿美元SPAC交易上市； 
+3.Yuga Labs联创发文暗示或将推出NFT财库公司； 
+4.白宫首份加密政策报告将在本月底之前向公众公布； 
+5.韩国将推进"虚拟货币卖空"立法，拟引入股票市场级监管； 
+6.特斯拉餐厅Tesla Diner已向公众开放，或接受DOGE支付； 
+7.FTX寻求延期回应债权人异议，4.7亿美元海外索赔或被冻结。
+- [某新建钱包5天内从FalconX接收3990枚MKR](https://x.com/lookonchain/status/1947504430624215218) - 📰 null - 【某新建钱包5天内从FalconX接收3990枚MKR】金色财经报道，据Lookonchain监测，某新建钱包在过去5天内从FalconX接收3990枚MKR，价值约845万美元。
+- [纳斯达克上市公司DevvStream拟募资3亿美元将建立链上数字资产财库](https://www.businesswire.com/news/home/20250721883278/en/DevvStream-Completes-%2410M-Initial-Funding-to-Launch-%24300M-Asset-Backed-Digital-Infrastructure-and-Sustainability-Strategy) - 📰 null - 【纳斯达克上市公司DevvStream拟募资3亿美元将建立链上数字资产财库】金色财经报道，纳斯达克上市碳管理公司DevvStream宣布已签署证券购买协议，拟通过发行优先担保可转换票据募资3亿美元以建立链上数字资产财库，Cohen & Company Capital Markets担任配售代理。同时该公司还宣布推出可持续发展相关基础设施代币化平台，据悉本次协议的首笔1000万美元融资交易已完成，该公司将把75%的净收益用于购买流动性数字资产，以支持其加密货币储备与现实世界资产代币化。
