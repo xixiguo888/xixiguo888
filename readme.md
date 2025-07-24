@@ -1,24 +1,39 @@
-- [Solana国库公司Accelerate计划筹集15亿美元]() - 📰 null - 【Solana国库公司Accelerate计划筹集15亿美元】7月24日消息，由Asymmetric Financial的创始人兼CEO Joe McCann领导的新Solana加密货币国库公司Accelerate计划通过特殊目的收购公司（SPAC）GoresXHolding进行公开上市，筹集高达15亿美元的资金。该公司计划通过私募股权融资（PIPE）筹集8亿美元，SPAC提供3.588亿美元，通过可转换债务筹集2.5亿美元，以及通过SPAC认股权证出售1.032亿美元。 
-如果融资成功，Accelerate将成为市场上最大的Solana国库公司。然而，这一数字可能会随着其他主要Solana国库公司如DeFi Development Corporation(DFDV)和Sol Strategies(HODL)增加其代币持有量而发生变化。
-- [某质押KAITO巨鲸/机构向Binance转入价值282万美元KAITO]() - 📰 null - 【某质押KAITO巨鲸/机构向Binance转入价值282万美元KAITO】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，两个月前质押KAITO的巨鲸/机构10小时前向Binance转入价值282万美元KAITO，亏损117万美元。其在5月29日以均价2.23美元从Binance提出179万枚KAITO，价值399万美元，期间币价下跌43%。
-- [James Wynn已连续遭遇5次爆仓，其BTC和PEPE多单已亏损约38.6万美元](https://x.com/OnchainLens/status/1948190987068797011) - 📰 null - 【James Wynn已连续遭遇5次爆仓，其BTC和PEPE多单已亏损约38.6万美元】金色财经报道，据Onchain Lens监测，巨鲸James Wynn已连续遭遇5次爆仓。其在BTC(40倍)和PEPE(10倍)的多头仓位已亏损38.5729万美元，目前仍有13.7万美元浮亏。
-- [某合约巨鲸开出约5444枚ETH做空仓位，约合1982万美元](https://x.com/ai_9684xtpa/status/1948188708718715145) - 📰 null - 【某合约巨鲸开出约5444枚ETH做空仓位，约合1982万美元】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，合约巨鲸“先定10个大目标”（@jasonleo）开出5444.155枚ETH的做空仓位，约1982万美元，开仓价3528.85美元，保证金384.5万美元。
-- [Asymmetric逐步关闭Liquid Alpha基金，转向区块链基础设施长期投资](https://www.coindesk.com/markets/2025/07/23/joe-mccann-closes-asymmetric-liquid-fund-after-78-loss-and-solana-treasury-backlash) - 📰 null - 【Asymmetric逐步关闭Liquid Alpha基金，转向区块链基础设施长期投资】金色财经报道，Joe McCann宣布逐步关闭Asymmetric的Liquid Alpha基金，原因是该基金今年价值大幅缩水，据未经证实的传言跌幅达78%。McCann表示该基金策略"已不再符合LP利益"，Asymmetric将放弃流动性交易策略，转而专注区块链基础设施的长期投资。 
-投资者可选择无视锁定期退出，或将资金转入新的非流动性投资结构。尽管Liquid Alpha陷入困境，Asymmetric其他业务部门尤其是风险投资战略仍保持完整，将继续支持早期区块链项目。
-- [某鲸鱼均价0.042美元卖出7364万枚PENGU，获利213万美元](https://x.com/OnchainLens/status/1948188791375794238) - 📰 null - 【某鲸鱼均价0.042美元卖出7364万枚PENGU，获利213万美元】金色财经报道，据Onchain Lens监测，某鲸鱼以0.042美元的价格卖出7364万枚PENGU，换取313万枚USDC，获利213万美元。该鲸鱼三个月前花费100万枚USDC买入这些PENGU。
-- [Pump.fun联创：空投不会立即进行，将尽快分享时间表和详细信息](https://x.com/0xsyste/status/1948114073628852357) - 📰 null - 【Pump.fun联创：空投不会立即进行，将尽快分享时间表和详细信息】金色财经报道，Pump.fun 联合创始人 Alon 在直播中表示，“我们热切希望奖励在过去一年半里一直支持我们平台的社区，我们的目标是确保这一空投活动顺利进行，使其具有实际意义。这将为我们提供一个绝佳的机会，以强化我们的生态系统，提升交易量，并在更长的时期内保持活跃度。这对于重新吸引关注和激发兴趣至为关键。虽然 PUMP 空投不会立即进行，但我们会尽快分享时间表和详细信息。”
-- [某鲸鱼向Hyperliquid存入300万枚USDC，并以20倍杠杆做多ETH](https://x.com/lookonchain/status/1948186347904344100) - 📰 null - 【某鲸鱼向Hyperliquid存入300万枚USDC，并以20倍杠杆做多ETH】金色财经报道，据Lookonchain监测，鲸鱼0x8F93向Hyperliquid存入了300万枚$USDC，并开设了一个20倍杠杆的ETH多头头寸，持仓为7,200枚ETH（约2,630万美元）。
-- [摩根大通：稳定币市场2万亿美元的规模预测“过于乐观”](https://www.bloomberg.com/news/articles/2025-07-23/stablecoin-2-trillion-forecast-is-optimistic-jpmorgan-says?srnd=phx-crypto) - 📰 null - 【摩根大通：稳定币市场2万亿美元的规模预测“过于乐观”】金色财经报道，摩根大通发布报告对稳定币市场2万亿美元的规模预测表示质疑，认为该数字“过于乐观”。分析师指出当前2600亿美元的市场规模可能在几年内仅能实现2-3倍增长，远低于美国财政部长此前提出的2028年突破2万亿的预期。 报告指出，尽管《GENIUS法案》已为稳定币建立监管框架，但支付基础设施和生态系统的完善仍需时间。目前USDT和USDC占据超60%市场份额，但稳定币仅占全球资金流动的1%。分析师认为，由于投资者对现金管理持保守态度，短期内难以将稳定币作为主流流动性替代方案。摩根大通强调，虽然稳定币在跨境支付领域具有即时结算优势，但商户接受度仍高于普通消费者。
-- [某鲸鱼再度向Bybit存入212万枚SPX，约合407万美元](https://x.com/OnchainLens/status/1948184704030826802) - 📰 null - 【某鲸鱼再度向Bybit存入212万枚SPX，约合407万美元】金色财经报道，据Onchain Lens监测，某鲸鱼再度向Bybit存入212万枚SPX，价值约407万美元。
-- [麻吉大哥PUMP多头头寸目前已亏损超580万美元](https://x.com/lookonchain/status/1948183817124282523) - 📰 null - 【麻吉大哥PUMP多头头寸目前已亏损超580万美元】金色财经报道，据Lookonchain监测，随着PUMP代币价格持续下跌，麻吉大哥（@machibigbrother）的PUMP多头头寸目前已亏损超过580万美元。尽管如此，他仍在继续加倍投入，增持更多的PUMP多头仓位。
-- [欧股股指期货走高]() - 📰 null - 【欧股股指期货走高】金色财经报道，受美欧贸易协议有望达成的乐观情绪提振，欧洲斯托克50指数期货涨1.3%，德国DAX指数期货上涨1.2%，英国富时100指数期货上涨0.5%。(金十)
-- [两个新建地址近期囤积超6亿美元ETH](https://x.com/OnchainLens/status/1948180880662622633) - 📰 null - 【两个新建地址近期囤积超6亿美元ETH】金色财经报道，据Onchain Lens监测，新建钱包、鲸鱼/机构正在增持ETH。钱包「0xd47」在过去5天内从Kraken提现32,902枚ETH，价值1.1942亿美元；钱包「0x8eE」从FalconX获得32,368枚ETH，价值1.1672亿美元，过去5天内总计获得138,345枚ETH，价值5.01亿美元。
-- [某PUMP私募参与机构将37.5亿枚PUMP转进Coinbase，约合1430万美元](https://x.com/EmberCN/status/1948180339018641719) - 📰 null - 【某PUMP私募参与机构将37.5亿枚PUMP转进Coinbase，约合1430万美元】金色财经报道，据链上分析师余烬监测，某个使用1500万枚USDC私募37.5亿枚PUMP的机构将37.5亿枚PUMP(约1430万美元)全部转进Coinbase Prime。该机构在PUMP上损失70万美元，1500万枚USDC参与私募当前价值1430万美元。
-- [BTC突破119000美元]() - 📰 null - 【BTC突破119000美元】金色财经报道，行情显示，BTC突破119000美元，现报119035.05美元，24小时跌幅达到0.56%，行情波动较大，请做好风险控制。
-- [稳定币持有者数量超越SOL](https://decrypt.co/331377/stablecoin-owners-outnumber-solana-holders-reown-survey) - 📰 null - 【稳定币持有者数量超越SOL】金色财经报道，Reown最新调查显示，稳定币持有者数量已超过SOL持有者，分别占比38%和37%，表明加密货币正从投机转向实用性应用。比特币和以太坊仍占主导地位，各占用户的48%。 
-调查显示，虽然交易仍是最受欢迎的链上活动(36%)，但支付已跃居第二位(10%)，且14%的用户表示这是他们最期待的未来应用。
-- [今日恐慌与贪婪指数降至71，等级仍为贪婪](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至71，等级仍为贪婪】金色财经报道，今日恐慌与贪婪指数降至71，等级仍为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [LetsBONK宣布将使用协议总收入1%回购生态中顶级Meme代币](https://x.com/bonk_fun/status/1948123326599270404) - 📰 null - 【LetsBONK宣布将使用协议总收入1%回购生态中顶级Meme代币】金色财经报道，据Solana生态代币发行平台LetsBONK官方公告，宣布将使用协议总收入的1%用于回购BONK生态中的顶级Meme代币。近期各项数据均位列Solana生态代币发行平台首位。 
-据Jupiter数据面板，近24小时Solana发币平台市场份额排名中，LetsBONK以48.9%排名第一，Pump.Fun以39.3%位列第二。据Dune数据显示，LetsBONK在过去24小时内代币发行量约23,945种，而Pump.fun约为8,720种。LetsBONK毕业代币数为265个，Pump.fun为66个。
-- [Sixty Six Capital通过ETF间接增持16.02枚比特币](https://www.newsfilecorp.com/release/259826/Sixty-Six-Capital-Announces-Further-BTC-Accumulation) - 📰 null - 【Sixty Six Capital通过ETF间接增持16.02枚比特币】金色财经报道，加拿大上市公司Sixty Six Capital Inc.(CSE:SIX)宣布增持114,000单位BTCC.B（比特币ETF），该ETF相当于16.02枚比特币，总价为2,577,850美元。这将使公司目前的BTC等值持有量达到148.8枚BTC。公司将在合理可行的情况下尽快将这些持有的BTC等值转换为直接持有的BTC。
-- [昨日灰度BTC净流入1050万美元]() - 📰 null - 【昨日灰度BTC净流入1050万美元】金色财经报道，据Farside Investors监测数据，昨日灰度BTC净流入1050万美元，ARKB净流出980万美元。
+- [法官驳回Anton和James兄弟要求撤销2500万美元加密欺诈指控的动议](https://cointelegraph.com/news/brothers-25-million-mev-bots-face-trial-judge-says) - 📰 null - 【法官驳回Anton和James兄弟要求撤销2500万美元加密欺诈指控的动议】金色财经报道，据Cointelegraph报道，美国地区法官Jessica Clarke驳回了Anton和James Peraire-Bueno兄弟的撤诉请求，认定他们通过操纵以太坊网络MEV机器人窃取2500万美元加密货币的行为构成电信欺诈。这对MIT毕业生兄弟仅用12秒就完成了这一前所未有的漏洞利用，他们使用"诱饵、阻断、搜索和传播"四步计划，设立16个以太坊验证者来执行该计划。尽管兄弟辩称其行为符合系统代码规则，但法官认为政府充分指控了他们的行为符合欺诈标准。案件目前处于审前动议阶段，预计将于2025年10月进行审判。
+- [区块链域名注册商Freename完成650万美元A轮融资，Entrée Capital领投](https://www.finsmes.com/2025/07/freename-raises-6-5m-in-series-a-funding.html#google_vignette) - 📰 null - 【区块链域名注册商Freename完成650万美元A轮融资，Entrée Capital领投】金色财经报道，总部位于瑞士苏黎世的区块链域名注册商Freename宣布完成650万美元A轮融资，Entrée Capital领投，Polymorphic Capital 、Sparkle Ventures、Blockchain Founders Fund 和 Golden Record Ventures 以及Coinbase Custody前首席执行官Aaron Schnarch、Target Global联合创始人Mike Lobanov、Rashwan家族办公室等参投，新资金拟用于支持其统一Web2和Polygon、Solana、Base和BNB Chain等链上Web3数字身份生态系统，并以受监管的方式启用传统IP地址和钱包地址。
+- [某鲸鱼止损卖出Base链上一揽子山寨币，亏损500万美元](https://x.com/OnchainLens/status/1948262695473684658) - 📰 null - 【某鲸鱼止损卖出Base链上一揽子山寨币，亏损500万美元】金色财经报道，据OnchainLens监测，在过去48小时内，某鲸鱼在抛售多种Base生态代币时亏损了500万美元，具体交易如下： 
+以187万枚USDC卖出108万枚VIRTUAL，亏损173万美元。 
+以95.1万枚USDC卖出575万枚AIXBT，亏损170万美元。 
+以18.8万枚USDC卖出447万枚GAME，亏损119万美元。 
+以12.3万枚USDC卖出38,443.75枚VVV，亏损37.9万美元。
+- [欧洲投资应用程序Lightyear完成2300万美元融资，拟推出自己的加密产品](https://www.cnbc.com/2025/07/24/european-robinhood-rival-lightyear-raises-23-million.html) - 📰 null - 【欧洲投资应用程序Lightyear完成2300万美元融资，拟推出自己的加密产品】金色财经报道，据CNBC报道，欧洲投资应用程序Lightyear宣布完成2300万美元新一轮融资，NordicNinja领投，打车巨头Bolt联合创始人Markus Villig跟投。其他参投方包括Wise联合创始人Taavet Hinrikus、Checkout.com前CTO Ott Kaukver等爱沙尼亚科技界人士。据知情人士透露，此轮融资后Lightyear估值达2亿至3亿美元，较2022年融资时显著提升。 Lightyear由前Wise员工Martin Sokk和Mihkel Aamer于2021年创立，其应用程序提供全球5000余只股票、ETF和货币市场基金的免佣金交易服务，目前已覆盖25个国家。该公司致力于打造“欧洲版Robinhood”，并计划在两个月内推出自己的加密货币产品。
+- [巴西VERT在XRP Ledger上发行1.3亿美元农业债券](https://www.coindesk.com/business/2025/07/24/xrp-ledger-tapped-for-tokenizing-usd130m-agribusiness-credit-as-brazil-s-rwa-push-accelerates) - 📰 null - 【巴西VERT在XRP Ledger上发行1.3亿美元农业债券】金色财经报道，据CoinDesk报道，巴西证券化公司VERT在XRP Ledger区块链上推出私募信贷平台，并完成首次发行，成功募集7亿巴西雷亚尔（约1.3亿美元）的农业应收款凭证（CRA）。 
+该平台旨在推动巴西2000亿美元规模私募信贷市场的现代化进程，通过区块链技术提升交易透明度与可追溯性，为投资者和监管方提供更可靠的信息。
+- [Solana拟通过SIMD-0286提案将区块上限提升至1亿CU](https://x.com/Cointelegraph/status/1948246991999226116) - 📰 null - 【Solana拟通过SIMD-0286提案将区块上限提升至1亿CU】金色财经报道，据Cointelegraph报道，Solana拟通过SIMD-0286提案进行又一次主要容量提升，提议将区块限制从6000万提升至1亿CU，增幅高达66%。
+- [Zircuit推出AI驱动交易引擎，扩展9.5亿美元存款生态](https://www.zircuit.com/blog/zircuit-ai-trading%20%C2%A0) - 📰 null - 【Zircuit推出AI驱动交易引擎，扩展9.5亿美元存款生态】金色财经报道，Zircuit宣布推出AI交易引擎"Hyperliquid for AI Trading"，在现有9.5亿美元存款金库基础上新增主动交易功能。该引擎支持实时跨链交易与一键执行，将于2025年7月起分阶段上线，实现被动收益与AI主动策略的双模式运行。
+- [The Ether Machine持有约17万枚ETH，超越Coinbase跻身以太坊持仓排名第四位](https://www.strategicethreserve.xyz/) - 📰 null - 【The Ether Machine持有约17万枚ETH，超越Coinbase跻身以太坊持仓排名第四位】金色财经报道，据Strategic ETH Reserve最新数据显示，The Ether Machine目前以太坊持仓价值已达6.199亿美元（约17万枚ETH），超越Coinbase和PulseChain Sac在以太坊持仓量美股上市公司中的排名位列第四。当前以太坊储备超过100枚ETH的头部家机构ETH持有总量已增至约204万枚，价值约合74.5亿美元。华尔街日报此前披露，空白支票公司Dynamix启动实体合并交易成立“The Ether Machine”公司，合并后的公司计划持有超过15亿美元的ETH。
+- [Renzo Protocol采用以太坊储备策略，目前持仓约1050枚ETH](https://x.com/fabdarice/status/1948056487571722596) - 📰 null - 【Renzo Protocol采用以太坊储备策略，目前持仓约1050枚ETH】金色财经报道，再质押和收益策略协议Renzo Protocol已加入采用以太坊储备策略，数据显示该协议当前以太坊持仓量约为1050枚，价值约合380万美元，在采用以太坊储备策略的机构持仓量排名中暂列第39位。
+- [BTC跌破118000美元]() - 📰 null - 【BTC跌破118000美元】金色财经报道，行情显示，BTC跌破118000美元，现报117918美元，24小时跌幅达到0.8%，行情波动较大，请做好风险控制。
+- [灰度比特币迷你信托ETF资产管理规模突破50亿美元](https://www.globenewswire.com/news-release/2025/07/23/3120276/0/en/Grayscale-Investments-Low-Cost-Bitcoin-ETP-Ticker-BTC-Surpasses-5-000-000-000-in-AUM-Within-First-Year-and-Expands-Access-Through-Major-Wealth-Management-Platform.html) - 📰 null - 【灰度比特币迷你信托ETF资产管理规模突破50亿美元】金色财经报道，灰度（Grayscale Investments）宣布旗下在纽约证券交易所上市的灰度比特币迷你信托ETF自2024年7月31日推出以来资产管理规模 (AUM) 已超过50亿美元，截至7月23日触及5,414,771,298.37美元，比特币持仓量达到45,721.6438枚。
+- [分析师：长期持有者正在大规模将比特币转移到市场进行出售，此行为只会减缓其上涨速度](https://x.com/AxelAdlerJr/status/1948237627821330489) - 📰 null - 【分析师：长期持有者正在大规模将比特币转移到市场进行出售，此行为只会减缓其上涨速度】金色财经报道，Cryptoquant分析师Axel Adler Jr发布市场分析表示，当前市场观察到一个异常高的月度资本销毁度（CDD）/年度资本销毁度（CDD）比率，数值高达0.25。这主要发生在比特币价格处于10.6万美元至11.8万美元区间时，这一比率与2014年的历史高点以及2019年的修正期间的水平相当。 
+这意味着那些长期持有者（LTH），即多年来一直让其比特币处于休眠状态的投资者，正在大规模地将其比特币转移到市场进行出售。这种CDD飙升表明经验丰富的市场参与者正在进行积极的派发行为。 
+然而，与此同时，国库需求和比特币ETF资金流入依然保持在高位。因此，尽管长期持有者正在抛售，但这种派发行为不太可能彻底阻止当前的上涨趋势，而只会轻微地减缓其上涨速度。
+- [某巨鲸再次从Kraken提取7.6万枚SOL，价值1450万美元](https://x.com/lookonchain/status/1948232595948409215) - 📰 null - 【某巨鲸再次从Kraken提取7.6万枚SOL，价值1450万美元】金色财经报道，据Lookonchain监测，某鲸鱼今日再次从Kraken提出76,000枚SOL（约合1450万美元）。 
+自7月8日以来，该鲸鱼已从Kraken总计提出164,000枚SOL（约合3014万美元）并进行了质押。
+- [金色午报 | 7月24日午间重要动态一览]() - 📰 null - 【金色午报 | 7月24日午间重要动态一览】7:00-12:00关键词：LetsBONK、Pump.fun、美联储、稳定币 
+1.稳定币持有者数量超越SOL； 
+2.特朗普将于周四访问美联储； 
+3.Solana网络已激活区块上限提高20%升级； 
+4.摩根大通：稳定币市场2万亿美元的规模预测“过于乐观”； 
+5.富达提交文件修改其现货比特币ETF，以允许实物赎回和创建； 
+6.LetsBONK宣布将使用协议总收入1%回购生态中顶级Meme代币； 
+7.Pump.fun联创：空投不会立即进行，将尽快分享时间表和详细信息。
+- [村上隆将在Base链上推出可收藏交易卡NFT系列108 Flowers Revised](https://x.com/takashipom/status/1948173019509383523) - 📰 null - 【村上隆将在Base链上推出可收藏交易卡NFT系列108 Flowers Revised】金色财经报道，知名潮流艺术家村上隆在社交媒体发文表示，其灵感源自实体艺术作品的收藏级交易卡NFT系列《108 Flowers Revised》将于Onchain Summer活动中正式上线。该系列现已上链，用户可通过Baseapp直接铸造。 
+铸造将于日本时间8月1日上午9点（美国太平洋时间7月31日下午5点）正式开启。
+- [Solana网络已激活区块上限提高20%升级](https://x.com/martypartymusic/status/1948044059307561349) - 📰 null - 【Solana网络已激活区块上限提高20%升级】金色财经报道，据@martypartymusic披露，Solana网络昨天根据SIMD-0256提案将区块大小提高了20%。 
+这次升级将区块上限从5000万计算单元（CUs）提升至6000万CUs，使每个区块能够容纳更多交易，从而提升网络吞吐量和整体性能，用户会明显感觉到交易速度提升。
+- [做市商GSR 2小时前从Binance提取了2,708枚ETH](https://x.com/OnchainDataNerd/status/1948227092065480730) - 📰 null - 【做市商GSR 2小时前从Binance提取了2,708枚ETH】金色财经报道，据链上分析师Onchain Lens（@OnchainLens）监测，2小时前，做市商GSR从币安提取2708枚ETH（价值987万美元）并转入0xdE6钱包。目前该GSR关联钱包0xdE6（疑似ETH存储地址）共持有103822枚ETH（价值3.7897亿美元）。
+- [韩国女团Kara成员朴圭利被指控参与Pica Coin加密货币诈骗案](https://cryptonews.com/news/k-pop-star-park-gyuri-of-kara-denies-crypto-wrongdoings-as-ex-lovers-trial-continues/) - 📰 null - 【韩国女团Kara成员朴圭利被指控参与Pica Coin加密货币诈骗案】7月24日消息，Kara成员朴圭利面临更多加密货币相关指控。朴圭利被指控参与朴槿惠前男友宋子浩所涉及的Pica Coin加密货币诈骗案。Pica Coin是一种以艺术为主题的低市值代币。 
+朴圭利在法庭上表示，她并未参与任何非法加密货币计划或操纵代币价格的行为。她声称自己在Pica担任“首席传播官和顾问”期间，只是作为员工参与艺术展览的策划和推广工作，并不了解加密资产相关事务。 
+尽管如此，Pica Coin首席执行官Seong Hae-joong表示，朴圭利的陈述不实，且她曾从Song那里获得过现金补偿。目前，Song因欺诈和违反信任罪被逮捕，检方指控他征集不存在的艺术品投资，并操纵Pica Coin价格以谋取私利。
+- [Arkham：美国政府未出售17万枚BTC，总持有至少19.8万枚](https://x.com/arkham/status/1948043140192952822) - 📰 null - 【Arkham：美国政府未出售17万枚BTC，总持有至少19.8万枚】金色财经报道，Arkham发推表示，美国政府未出售17万枚BTC（约200亿美元）。美国法警局（USMS）称其持有2.8988万枚BTC（约34亿美元），但其他部门如FBI、DOJ、DEA和检察官办公室总计持有至少19.8万枚BTC（约235亿美元），过去4个月未有移动。
+- [多个新地址今日累计买入40,591枚ETH，约合1.48亿美元](https://x.com/lookonchain/status/1948220653842145591) - 📰 null - 【多个新地址今日累计买入40,591枚ETH，约合1.48亿美元】金色财经报道，据Lookonchain监测，多个新创建的钱包今天又累计买入40,591枚以太坊（约合1.48亿美元）。近期，有7个新钱包总计买入466,253枚以太坊（约合17亿美元）。
