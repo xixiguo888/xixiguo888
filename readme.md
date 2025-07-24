@@ -1,39 +1,23 @@
-- [法官驳回Anton和James兄弟要求撤销2500万美元加密欺诈指控的动议](https://cointelegraph.com/news/brothers-25-million-mev-bots-face-trial-judge-says) - 📰 null - 【法官驳回Anton和James兄弟要求撤销2500万美元加密欺诈指控的动议】金色财经报道，据Cointelegraph报道，美国地区法官Jessica Clarke驳回了Anton和James Peraire-Bueno兄弟的撤诉请求，认定他们通过操纵以太坊网络MEV机器人窃取2500万美元加密货币的行为构成电信欺诈。这对MIT毕业生兄弟仅用12秒就完成了这一前所未有的漏洞利用，他们使用"诱饵、阻断、搜索和传播"四步计划，设立16个以太坊验证者来执行该计划。尽管兄弟辩称其行为符合系统代码规则，但法官认为政府充分指控了他们的行为符合欺诈标准。案件目前处于审前动议阶段，预计将于2025年10月进行审判。
-- [区块链域名注册商Freename完成650万美元A轮融资，Entrée Capital领投](https://www.finsmes.com/2025/07/freename-raises-6-5m-in-series-a-funding.html#google_vignette) - 📰 null - 【区块链域名注册商Freename完成650万美元A轮融资，Entrée Capital领投】金色财经报道，总部位于瑞士苏黎世的区块链域名注册商Freename宣布完成650万美元A轮融资，Entrée Capital领投，Polymorphic Capital 、Sparkle Ventures、Blockchain Founders Fund 和 Golden Record Ventures 以及Coinbase Custody前首席执行官Aaron Schnarch、Target Global联合创始人Mike Lobanov、Rashwan家族办公室等参投，新资金拟用于支持其统一Web2和Polygon、Solana、Base和BNB Chain等链上Web3数字身份生态系统，并以受监管的方式启用传统IP地址和钱包地址。
-- [某鲸鱼止损卖出Base链上一揽子山寨币，亏损500万美元](https://x.com/OnchainLens/status/1948262695473684658) - 📰 null - 【某鲸鱼止损卖出Base链上一揽子山寨币，亏损500万美元】金色财经报道，据OnchainLens监测，在过去48小时内，某鲸鱼在抛售多种Base生态代币时亏损了500万美元，具体交易如下： 
-以187万枚USDC卖出108万枚VIRTUAL，亏损173万美元。 
-以95.1万枚USDC卖出575万枚AIXBT，亏损170万美元。 
-以18.8万枚USDC卖出447万枚GAME，亏损119万美元。 
-以12.3万枚USDC卖出38,443.75枚VVV，亏损37.9万美元。
-- [欧洲投资应用程序Lightyear完成2300万美元融资，拟推出自己的加密产品](https://www.cnbc.com/2025/07/24/european-robinhood-rival-lightyear-raises-23-million.html) - 📰 null - 【欧洲投资应用程序Lightyear完成2300万美元融资，拟推出自己的加密产品】金色财经报道，据CNBC报道，欧洲投资应用程序Lightyear宣布完成2300万美元新一轮融资，NordicNinja领投，打车巨头Bolt联合创始人Markus Villig跟投。其他参投方包括Wise联合创始人Taavet Hinrikus、Checkout.com前CTO Ott Kaukver等爱沙尼亚科技界人士。据知情人士透露，此轮融资后Lightyear估值达2亿至3亿美元，较2022年融资时显著提升。 Lightyear由前Wise员工Martin Sokk和Mihkel Aamer于2021年创立，其应用程序提供全球5000余只股票、ETF和货币市场基金的免佣金交易服务，目前已覆盖25个国家。该公司致力于打造“欧洲版Robinhood”，并计划在两个月内推出自己的加密货币产品。
-- [巴西VERT在XRP Ledger上发行1.3亿美元农业债券](https://www.coindesk.com/business/2025/07/24/xrp-ledger-tapped-for-tokenizing-usd130m-agribusiness-credit-as-brazil-s-rwa-push-accelerates) - 📰 null - 【巴西VERT在XRP Ledger上发行1.3亿美元农业债券】金色财经报道，据CoinDesk报道，巴西证券化公司VERT在XRP Ledger区块链上推出私募信贷平台，并完成首次发行，成功募集7亿巴西雷亚尔（约1.3亿美元）的农业应收款凭证（CRA）。 
-该平台旨在推动巴西2000亿美元规模私募信贷市场的现代化进程，通过区块链技术提升交易透明度与可追溯性，为投资者和监管方提供更可靠的信息。
-- [Solana拟通过SIMD-0286提案将区块上限提升至1亿CU](https://x.com/Cointelegraph/status/1948246991999226116) - 📰 null - 【Solana拟通过SIMD-0286提案将区块上限提升至1亿CU】金色财经报道，据Cointelegraph报道，Solana拟通过SIMD-0286提案进行又一次主要容量提升，提议将区块限制从6000万提升至1亿CU，增幅高达66%。
-- [Zircuit推出AI驱动交易引擎，扩展9.5亿美元存款生态](https://www.zircuit.com/blog/zircuit-ai-trading%20%C2%A0) - 📰 null - 【Zircuit推出AI驱动交易引擎，扩展9.5亿美元存款生态】金色财经报道，Zircuit宣布推出AI交易引擎"Hyperliquid for AI Trading"，在现有9.5亿美元存款金库基础上新增主动交易功能。该引擎支持实时跨链交易与一键执行，将于2025年7月起分阶段上线，实现被动收益与AI主动策略的双模式运行。
-- [The Ether Machine持有约17万枚ETH，超越Coinbase跻身以太坊持仓排名第四位](https://www.strategicethreserve.xyz/) - 📰 null - 【The Ether Machine持有约17万枚ETH，超越Coinbase跻身以太坊持仓排名第四位】金色财经报道，据Strategic ETH Reserve最新数据显示，The Ether Machine目前以太坊持仓价值已达6.199亿美元（约17万枚ETH），超越Coinbase和PulseChain Sac在以太坊持仓量美股上市公司中的排名位列第四。当前以太坊储备超过100枚ETH的头部家机构ETH持有总量已增至约204万枚，价值约合74.5亿美元。华尔街日报此前披露，空白支票公司Dynamix启动实体合并交易成立“The Ether Machine”公司，合并后的公司计划持有超过15亿美元的ETH。
-- [Renzo Protocol采用以太坊储备策略，目前持仓约1050枚ETH](https://x.com/fabdarice/status/1948056487571722596) - 📰 null - 【Renzo Protocol采用以太坊储备策略，目前持仓约1050枚ETH】金色财经报道，再质押和收益策略协议Renzo Protocol已加入采用以太坊储备策略，数据显示该协议当前以太坊持仓量约为1050枚，价值约合380万美元，在采用以太坊储备策略的机构持仓量排名中暂列第39位。
-- [BTC跌破118000美元]() - 📰 null - 【BTC跌破118000美元】金色财经报道，行情显示，BTC跌破118000美元，现报117918美元，24小时跌幅达到0.8%，行情波动较大，请做好风险控制。
-- [灰度比特币迷你信托ETF资产管理规模突破50亿美元](https://www.globenewswire.com/news-release/2025/07/23/3120276/0/en/Grayscale-Investments-Low-Cost-Bitcoin-ETP-Ticker-BTC-Surpasses-5-000-000-000-in-AUM-Within-First-Year-and-Expands-Access-Through-Major-Wealth-Management-Platform.html) - 📰 null - 【灰度比特币迷你信托ETF资产管理规模突破50亿美元】金色财经报道，灰度（Grayscale Investments）宣布旗下在纽约证券交易所上市的灰度比特币迷你信托ETF自2024年7月31日推出以来资产管理规模 (AUM) 已超过50亿美元，截至7月23日触及5,414,771,298.37美元，比特币持仓量达到45,721.6438枚。
-- [分析师：长期持有者正在大规模将比特币转移到市场进行出售，此行为只会减缓其上涨速度](https://x.com/AxelAdlerJr/status/1948237627821330489) - 📰 null - 【分析师：长期持有者正在大规模将比特币转移到市场进行出售，此行为只会减缓其上涨速度】金色财经报道，Cryptoquant分析师Axel Adler Jr发布市场分析表示，当前市场观察到一个异常高的月度资本销毁度（CDD）/年度资本销毁度（CDD）比率，数值高达0.25。这主要发生在比特币价格处于10.6万美元至11.8万美元区间时，这一比率与2014年的历史高点以及2019年的修正期间的水平相当。 
-这意味着那些长期持有者（LTH），即多年来一直让其比特币处于休眠状态的投资者，正在大规模地将其比特币转移到市场进行出售。这种CDD飙升表明经验丰富的市场参与者正在进行积极的派发行为。 
-然而，与此同时，国库需求和比特币ETF资金流入依然保持在高位。因此，尽管长期持有者正在抛售，但这种派发行为不太可能彻底阻止当前的上涨趋势，而只会轻微地减缓其上涨速度。
-- [某巨鲸再次从Kraken提取7.6万枚SOL，价值1450万美元](https://x.com/lookonchain/status/1948232595948409215) - 📰 null - 【某巨鲸再次从Kraken提取7.6万枚SOL，价值1450万美元】金色财经报道，据Lookonchain监测，某鲸鱼今日再次从Kraken提出76,000枚SOL（约合1450万美元）。 
-自7月8日以来，该鲸鱼已从Kraken总计提出164,000枚SOL（约合3014万美元）并进行了质押。
-- [金色午报 | 7月24日午间重要动态一览]() - 📰 null - 【金色午报 | 7月24日午间重要动态一览】7:00-12:00关键词：LetsBONK、Pump.fun、美联储、稳定币 
-1.稳定币持有者数量超越SOL； 
-2.特朗普将于周四访问美联储； 
-3.Solana网络已激活区块上限提高20%升级； 
-4.摩根大通：稳定币市场2万亿美元的规模预测“过于乐观”； 
-5.富达提交文件修改其现货比特币ETF，以允许实物赎回和创建； 
-6.LetsBONK宣布将使用协议总收入1%回购生态中顶级Meme代币； 
-7.Pump.fun联创：空投不会立即进行，将尽快分享时间表和详细信息。
-- [村上隆将在Base链上推出可收藏交易卡NFT系列108 Flowers Revised](https://x.com/takashipom/status/1948173019509383523) - 📰 null - 【村上隆将在Base链上推出可收藏交易卡NFT系列108 Flowers Revised】金色财经报道，知名潮流艺术家村上隆在社交媒体发文表示，其灵感源自实体艺术作品的收藏级交易卡NFT系列《108 Flowers Revised》将于Onchain Summer活动中正式上线。该系列现已上链，用户可通过Baseapp直接铸造。 
-铸造将于日本时间8月1日上午9点（美国太平洋时间7月31日下午5点）正式开启。
-- [Solana网络已激活区块上限提高20%升级](https://x.com/martypartymusic/status/1948044059307561349) - 📰 null - 【Solana网络已激活区块上限提高20%升级】金色财经报道，据@martypartymusic披露，Solana网络昨天根据SIMD-0256提案将区块大小提高了20%。 
-这次升级将区块上限从5000万计算单元（CUs）提升至6000万CUs，使每个区块能够容纳更多交易，从而提升网络吞吐量和整体性能，用户会明显感觉到交易速度提升。
-- [做市商GSR 2小时前从Binance提取了2,708枚ETH](https://x.com/OnchainDataNerd/status/1948227092065480730) - 📰 null - 【做市商GSR 2小时前从Binance提取了2,708枚ETH】金色财经报道，据链上分析师Onchain Lens（@OnchainLens）监测，2小时前，做市商GSR从币安提取2708枚ETH（价值987万美元）并转入0xdE6钱包。目前该GSR关联钱包0xdE6（疑似ETH存储地址）共持有103822枚ETH（价值3.7897亿美元）。
-- [韩国女团Kara成员朴圭利被指控参与Pica Coin加密货币诈骗案](https://cryptonews.com/news/k-pop-star-park-gyuri-of-kara-denies-crypto-wrongdoings-as-ex-lovers-trial-continues/) - 📰 null - 【韩国女团Kara成员朴圭利被指控参与Pica Coin加密货币诈骗案】7月24日消息，Kara成员朴圭利面临更多加密货币相关指控。朴圭利被指控参与朴槿惠前男友宋子浩所涉及的Pica Coin加密货币诈骗案。Pica Coin是一种以艺术为主题的低市值代币。 
-朴圭利在法庭上表示，她并未参与任何非法加密货币计划或操纵代币价格的行为。她声称自己在Pica担任“首席传播官和顾问”期间，只是作为员工参与艺术展览的策划和推广工作，并不了解加密资产相关事务。 
-尽管如此，Pica Coin首席执行官Seong Hae-joong表示，朴圭利的陈述不实，且她曾从Song那里获得过现金补偿。目前，Song因欺诈和违反信任罪被逮捕，检方指控他征集不存在的艺术品投资，并操纵Pica Coin价格以谋取私利。
-- [Arkham：美国政府未出售17万枚BTC，总持有至少19.8万枚](https://x.com/arkham/status/1948043140192952822) - 📰 null - 【Arkham：美国政府未出售17万枚BTC，总持有至少19.8万枚】金色财经报道，Arkham发推表示，美国政府未出售17万枚BTC（约200亿美元）。美国法警局（USMS）称其持有2.8988万枚BTC（约34亿美元），但其他部门如FBI、DOJ、DEA和检察官办公室总计持有至少19.8万枚BTC（约235亿美元），过去4个月未有移动。
-- [多个新地址今日累计买入40,591枚ETH，约合1.48亿美元](https://x.com/lookonchain/status/1948220653842145591) - 📰 null - 【多个新地址今日累计买入40,591枚ETH，约合1.48亿美元】金色财经报道，据Lookonchain监测，多个新创建的钱包今天又累计买入40,591枚以太坊（约合1.48亿美元）。近期，有7个新钱包总计买入466,253枚以太坊（约合17亿美元）。
+- [BitMine：ETH总持有量达到566,776枚，价值突破20亿美元](https://www.prnewswire.com/news-releases/bitmine-immersion-eth-holdings-exceed-2-billion-of-ethereum-to-advance-its-ethereum-treasury-strategy-302513073.html) - 📰 null - 【BitMine：ETH总持有量达到566,776枚，价值突破20亿美元】金色财经报道，纽约证券交易所上市公司BitMine Immersion Technologies（BitMine）宣布截至国东部时间7月23日晚上11:59，该公司持有的ETH总数为566,776枚，持仓总价值突破20亿美元，此外该公司还表示正在继续稳步实现收购并质押5%的ETH总供应量的目标。
+- [美国至7月19日当周初请失业金人数21.7万人，预期22.6万人]() - 📰 null - 【美国至7月19日当周初请失业金人数21.7万人，预期22.6万人】金色财经报道，美国至7月19日当周初请失业金人数21.7万人，预期22.6万人，前值22.1万人。
+- [数据：Vine 突破 0.08 美元，24 小时涨幅逾 88%]() - 📰 null - 【数据：Vine 突破 0.08 美元，24 小时涨幅逾 88%】金色财经报道，据行情数据显示，Vine 突破 0.08 美元，24 小时涨幅逾 88%。
+- [马斯克：将以人工智能形式复活 Vine]() - 📰 null - 【马斯克：将以人工智能形式复活 Vine】金色财经报道，马斯克在社交平台发文称，我们将以人工智能形式复活 Vine。
+- [Semler Scientific增持175枚BTC，总持有量达5021枚BTC](https://x.com/btcNLNico/status/1948354548470255925) - 📰 null - 【Semler Scientific增持175枚BTC，总持有量达5021枚BTC】金色财经报道，美股上市公司 Semler Scientific 增持 175 枚 BTC，总持有量达 5021 枚 BTC。
+- [欧洲央行维持利率不变]() - 📰 null - 【欧洲央行维持利率不变】金色财经报道，欧洲央行将存款机制利率维持在 2% 不变，符合市场预期，此前连续七次会议降息。主要再融资利率和边际贷款利率维持在 2.15% 和 2.40% 不变。
+- [ETHA资产规模资产突破100亿美元](https://x.com/EricBalchunas/status/1948352147050930196) - 📰 null - 【ETHA资产规模资产突破100亿美元】金色财经报道，彭博ETF分析师Eric Balchunas表示，ETHA在一年内资产规模刚刚突破100亿美元，成为历史上第三快达到这一里程碑的ETF，仅次于两只比特币ETF：IBIT和FBTC。仅用10天就从50亿美元飙升到100亿美元，目前该基金在过去一个月和一周的资金流入中都跻身前五。
+- [Galaxy CEO：以太坊有望在未来 3-6 个月内跑赢比特币]() - 📰 null - 【Galaxy CEO：以太坊有望在未来 3-6 个月内跑赢比特币】金色财经报道，据CNBC报道，Galaxy Digital 首席执行官 Michael Novogratz 在接受《Squawk Box》节目采访时表示，以太坊有机会在未来 3-6 个月内表现超过比特币。
+- [Binance将接受Circle的稳定币USYC作为机构客户的抵押品]() - 📰 null - 【Binance将接受Circle的稳定币USYC作为机构客户的抵押品】金色财经报道，据《财富》报道，Circle 宣布 Binance 将开始接受 USYC（一种与投资者分享收益的稳定币）作为机构客户的抵押品。虽然许多使用 Binance 等平台的机构交易者会以比特币或其他加密资产作为抵押，但一些传统机构仍然不愿这样做。Binance VIP 及机构业务负责人 Catherine Chen 表示，部分原因是 FTX 的惨淡倒闭让许多人对在交易所提供抵押品心存疑虑。 
+Binance 试图通过一项名为银行三方（Banking Triparty）的服务来解决这一问题。该服务涉及 Binance 与传统银行合作，让它们充当托管人，并将银行持有的资产作为加密货币交易的抵押品。她补充说，许多合作伙伴正在与 Binance 合作整合 USYC，这将提供更快的结算速度。Binance 还宣布将整合另一种收益型稳定币 cUSDO。cUSDO 是 OpenEden OpenDollar 的缩写，由百慕大许可和监管的实体 OpenEden Digital 发行。
+- [deBridge基金会推出储备基金，将用全部协议收入回购DBR代币]() - 📰 null - 【deBridge基金会推出储备基金，将用全部协议收入回购DBR代币】金色财经报道，据The Block报道，deBridge基金会已推出储备基金，将100%协议收入用于在公开市场回购其原生DBR代币。截至7月24日，该基金自6月上线以来已收购了DBR总供应量的1.3%，价值近300万美元。deBridge整体金库现持有3010万美元资产，涵盖DBR、USDC、SOL和ETH。此外，基金还探索收益策略，并已上线公开仪表板，实时追踪资产和收益。
+- [现货黄金跌破3360美元/盎司，日内跌0.80%]() - 📰 null - 【现货黄金跌破3360美元/盎司，日内跌0.80%】金色财经报道，现货黄金跌破3360美元/盎司，日内跌0.80%。
+- [Solana开发者正考虑将网络区块容量提高66%]() - 📰 null - 【Solana开发者正考虑将网络区块容量提高66%】金色财经报道，据Coindesk报道，随着对区块空间需求的增长，Solana开发者正考虑将网络区块容量提高66%。根据核心贡献者本周发布的一份文件，新提案SIMD-0286提议将Solana每个区块的计算单位（CU）上限从6000万提高至1亿。该提案旨在让Solana能处理更多交易，并支持更复杂的应用，如去中心化交易平台（DEX）、MEV系统和再质押协议，而不会触及计算上限。
+- [李强：中方愿同欧方推动经贸合作提质升级 积极拓展人工智能、数字经济等新兴领域合作]() - 📰 null - 【李强：中方愿同欧方推动经贸合作提质升级 积极拓展人工智能、数字经济等新兴领域合作】金色财经报道，7月24日下午，国务院总理李强在北京人民大会堂同欧洲理事会主席科斯塔、欧盟委员会主席冯德莱恩共同主持第二十五次中国-欧盟领导人会晤。李强指出，中欧有着广泛共同利益，没有根本利害冲突。中方愿同欧方推动经贸合作提质升级，巩固深化贸易、投资等传统领域合作，积极拓展人工智能、数字经济、绿色发展等新兴领域合作，取得更多成果。双方可以打造“升级版”中欧出口管制对话机制，保证中欧产供链稳定。双方要坚持通过对话磋商、深化合作，妥善解决分歧摩擦。希望欧方坚持市场原则，为中国企业赴欧投资提供公平、公正、非歧视的营商环境。科斯塔和冯德莱恩表示，欧方致力于同中国发展深化长期稳定的伙伴关系，愿同中方加强对话沟通，增进相互理解，妥处彼此关切，促进贸易、投资等领域合作，加强欧中出口管制合作，共同维护产供链稳定，更好促进各自发展。（新华社）
+- [GMX启动Arbitrum GLP恢复资金分配方案社区投票，拟于7月28日结束](https://snapshot.box/#/s:gmx.eth/proposal/0x8b925b350cfc6c17abd356daadca022b5d41e1b68be822c27502fe7007d26e6a) - 📰 null - 【GMX启动Arbitrum GLP恢复资金分配方案社区投票，拟于7月28日结束】金色财经报道，GMX宣布正式在Snapshot平台启动Arbitrum GLP恢复资金分配方案的社区投票，该提案基于社区反馈，旨在确保用户通过分配追回的资金、赎回剩余的GLP ，投票拟于7月28日结束。GMX确认此前遭黑客攻击的GLP在Arbitrum上的资金已全部收回，目前由DAO保管等待分配给Arbitrum GLP金库中的流动性提供者。GMX V2 不受此漏洞的影响。
+- [价值约23.8亿美元ETH正排队退出以太坊PoS网络，同时约11.4亿美元ETH等待加入]() - 📰 null - 【价值约23.8亿美元ETH正排队退出以太坊PoS网络，同时约11.4亿美元ETH等待加入】金色财经报道，据 validatorqueue 数据显示，目前约有 65.3 万枚 ETH（按当前价格约合 23.8 亿美元）正等待退出以太坊网络，退出等待时间约为 11 天 8 小时。与此同时，排队等待加入网络的 ETH 超过 31.2 万枚，约合 11.4 亿美元，预计激活延迟约为 5 天 10 小时。
+- [分析：今日被激活的BTC远古巨鲸属于一个早期矿工](https://x.com/ai_9684xtpa/status/1948339910051815832) - 📰 null - 【分析：今日被激活的BTC远古巨鲸属于一个早期矿工】金色财经报道，据链上分析师 Ai 姨监测，该地址归属于一个早期矿工，追溯其 TOP3 资金来源发现，比特币均源于挖矿收入。按照成本 0.32 美元估算，其回报率已超 37 万倍。
+- [瑞和数智批准 8000 万港币发展 Web3.0 业务和投资加密货币资产](https://www.zhitongcaijing.com/immediately/detail/6341562.html) - 📰 null - 【瑞和数智批准 8000 万港币发展 Web3.0 业务和投资加密货币资产】金色财经报道，瑞和数智（03680.HK）发布公告，董事会决议在稳固集团现有的人工智能及大数据业务的同时，正式布局 Web3.0 和加密货币资产领域，并批准总额为 8000 万港币的预算，在未来两年期间用于集团发展 Web3.0 业务和投资加密货币资产。
+- [山寨币季节指数回落至37]() - 📰 null - 【山寨币季节指数回落至37】7月24日消息，据Coinmarketcap数据显示，山寨币季节指数（Altcoin SeasonIndex）回落至37，7月21日一度升至55。该指数显示在过去90天内，市值前100加密货币中约47个项目涨幅超越比特币。 
+注：CMC加密货币山寨季指数是一个实时指标，用于判断当前加密货币市场是否处于山寨币主导的季节。该指数基于前100大山寨币在过去90天内相对于比特币的表现
+- [香港将于8月1日起将无牌稳定币推广定为犯罪](https://cointelegraph.com/news/hong-kong-stablecoin-law-august-2025) - 📰 null - 【香港将于8月1日起将无牌稳定币推广定为犯罪】金色财经报道，香港将于 8 月 1 日开始执行《稳定币条例》，规定向散户投资者提供或推广未经许可的法定参考稳定币 (FRS) 属于非法行为。 新法律规定的刑事处罚最高可达五级罚款 50,000 港币（约合 6,300 美元），最高刑期为六个月监禁。  
+香港金融管理局总裁余伟文在警告中表示，即将出台的法规旨在为新兴的稳定币行业带来信誉和稳定性，同时保护投资者免受欺诈和过度投机的侵害。
+- [某包含 3,962 枚比特币的地址在沉睡 14.5 年后重新激活](https://whale-alert.io/transaction/bitcoin/ac74fb6b5e4c8929423ecce564d3d3b665ca7f91af30dd9dc2471f64b56ec0a8) - 📰 null - 【某包含 3,962 枚比特币的地址在沉睡 14.5 年后重新激活】金色财经报道，据 Whale Alert 监测，一个包含 3,962 枚 BTC（价值约 4.68 亿美元）的休眠地址在沉睡 14.5 年后重新激活。
