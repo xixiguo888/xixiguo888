@@ -1,42 +1,26 @@
-- [4E：OSL拟募资逾23亿港元扩张加密版图，Strategy比特币购入计划增至20亿美元]() - 📰 null - 【4E：OSL拟募资逾23亿港元扩张加密版图，Strategy比特币购入计划增至20亿美元】7月25日消息，根据4E观察，OSL集团公告将通过配售及认购协议筹资约23.55亿港元，用于战略性收购、稳定币业务及其他扩张计划，配售价14.90港元，较前收盘价折让15.34%。本次配售资金净额预计约23.36亿港元，为其在数字资产生态布局再添弹药。 
-与此同时，加密投资公司Strategy计划将其用于购入比特币的融资规模从5亿美元上调至20亿美元，进一步加码市场。 
-摩根大通表示，截至目前加密市场已吸引600亿美元资金流入，且投资者对山寨币兴趣持续升温。Bitwise也披露，自5月中旬以来，ETP与上市公司共计买入283万枚ETH，是同期新增发行量的32倍，强劲需求推动ETH价格大幅走高。 
-宏观方面，美国银行分析师称，美联储独立性受到质疑正施压美元表现，投资者开始预期未来政策更趋宽松。美国最新初请失业金人数为21.7万人，低于预期，显示劳动力市场依然稳健。 
-此外，白宫计划允许401(k)账户投资加密资产，黑石总裁预测此举将使头部私募机构受益，进一步推动另类资产进入主流投资组合。 
-4E提醒投资者，当前资金流入强劲与政策动态密集交织，需密切关注市场波动与结构性机会。
-- [Galaxy过去50分钟再次转出5153枚BTC，总价值5.96亿美元](https://x.com/ai_9684xtpa/status/1948626869261410657) - 📰 null - 【Galaxy过去50分钟再次转出5153枚BTC，总价值5.96亿美元】金色财经报道，据链上分析师Ai姨(@ai9684xtpa)监测，Galaxy过去50分钟再次转出5153枚BTC，总价值5.96亿美元。 
-其中明确充值进交易所的有3313枚（3.83亿美元），且仍有USDT持续从交易所中提出；其余BTC转移至新地址，归属尚不明确目前Galaxy Digital链上仍持有26238枚BTC。
-- [上市公司The Smarter Web Company增持225枚比特币，总持仓达1825枚](https://x.com/smarterwebuk/status/1948624473747272082) - 📰 null - 【上市公司The Smarter Web Company增持225枚比特币，总持仓达1825枚】金色财经报道，据官方公告，英国上市公司The Smarter Web Company披露，其已增持225枚比特币，目前总共拥有1825枚比特币。
-- [Binance Alpha Lnfi Network(LN)空投门槛200积分](https://x.com/binancezh/status/1948626379224084506) - 📰 null - 【Binance Alpha Lnfi Network(LN)空投门槛200积分】金色财经报道，据官方公告，Binance Alpha Lnfi Network(LN)交易将于2025年7月25日16:00（UTC+8）开始。 
-交易开始后，持有至少200个币安Alpha积分的用户可申领600个LN代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低10分。
-- [过去一年Solana铸造1800万种代币，Pumpfun占比超六成](https://x.com/Adam_Tehc/status/1948612563169923421) - 📰 null - 【过去一年Solana铸造1800万种代币，Pumpfun占比超六成】金色财经报道，据@Adam_Tehc数据，过去一年Solana网络共创建了约1800万种代币，其中通过Pumpfun创建的代币达1050万种，占比接近60%。 
-值得注意的是，Pumpfun铸造的代币数量已超过Base、BSC、Tron、Polygon、Optimism、Blast、Arbitrum与Ethereum网络的总和。
-- [一虚拟货币平台藏“后门”实施诈骗，涉及7700万元，103人中招](一虚拟货币平台藏“后门”实施诈骗，涉及7700万元，103人中招) - 📰 null - 【一虚拟货币平台藏“后门”实施诈骗，涉及7700万元，103人中招】金色财经报道，湖北省云梦县检察院通报，湖北云梦县检察院起诉的一起“狸猫换太子”式虚拟货币诈骗案于近日二审维持原判。 
-何某等4人通过上线带有“后门”的虚拟货币交易平台，操控币价并将投资人质押的加密资产非法置换为毫无价值的“D币”，共计造成103名投资者损失超7776万元人民币。该案4名被告被判处三年至十三年不等有期徒刑并处罚金，主犯何某上诉被驳回。
-- [欧洲央行管委卡扎克斯：直接决定加息或降息的时代已经结束]() - 📰 null - 【欧洲央行管委卡扎克斯：直接决定加息或降息的时代已经结束】金色财经报道，欧洲央行管委卡扎克斯：直接决定加息或降息的时代已经结束；欧洲央行的许多宽松政策仍在经济中发挥作用。(金十)
-- [美国联邦法院：网红Logan Paul在诈骗诉讼中不能将责任归咎于CryptoZoo联创](https://x.com/Cointelegraph/status/1948616926986379683) - 📰 null - 【美国联邦法院：网红Logan Paul在诈骗诉讼中不能将责任归咎于CryptoZoo联创】金色财经报道，据Cointelegraph披露，美国联邦法院裁定，网红Logan Paul在诈骗诉讼中不能将责任归咎于CryptoZoo的联合创始人，法官已驳回他对联合创始人提出的默认判决请求。
-- [某鲸鱼交易员通过复杂期权操作押注比特币年底突破20万美元](https://www.coindesk.com/markets/2025/07/25/bitcoin-whale-wagers-usd23-7m-on-btc-rally-to-usd140k-usd200-k-by-year-end?utm_content=editorial&utm_term=organic&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main) - 📰 null - 【某鲸鱼交易员通过复杂期权操作押注比特币年底突破20万美元】金色财经报道，比特币巨头正在利用复杂的期权策略进行大规模看涨押注，目标是到年底比特币价格达到20万美元。该交易员在Deribit上同时买入3500份的14万美元12月看涨期权合约，并卖空3,500份20万美元12月看涨期权合约。这意味着如果BTC在到期日之前结算价达到或超过更高的执行价格200,000美元，该策略将实现最大利润。
-- [Galaxy Digital向各大交易所充值2850枚BTC，价值3.3亿美元](https://intel.arkm.com/explorer/entity/galaxy-digital) - 📰 null - 【Galaxy Digital向各大交易所充值2850枚BTC，价值3.3亿美元】金色财经报道，Galaxy Digital过去10分钟又往各大交易所充值了2850枚BTC，价值3.3亿美元。过去12小时累计转入交易所的BTC数量增加至17,123枚。
-- [Aguila Trades再次被清算720枚比特币多单](https://x.com/lookonchain/status/1948611937396555957) - 📰 null - 【Aguila Trades再次被清算720枚比特币多单】金色财经报道，据链上分析平台Lookonchain（@lookonchain）监测，AguilaTrades再次被清算720枚比特币多单。其累计亏损已达3600多万美元。
-- [某鲸鱼向HyperLiquid存入326万USDC，开设BTC和SOL 20倍多单]() - 📰 null - 【某鲸鱼向HyperLiquid存入326万USDC，开设BTC和SOL 20倍多单】金色财经报道，据Onchain Lens监测，某鲸鱼向HyperLiquid存入了326万枚USDC，并开设了多个多头仓位：BTC和SOL使用20倍杠杆，ETH和AAVE使用10倍杠杆。
-- [Binance Alpha将支持Pundi AI(PUNDIAI)合约置换](https://x.com/binance/status/1948604431408529532) - 📰 null - 【Binance Alpha将支持Pundi AI(PUNDIAI)合约置换】金色财经报道，据官方消息，Binance Alpha将支持Pundi AI(PUNDIAI)合约置换。 
-Binance将于7月25日03:35UTC起暂停PUNDIAI的交易并取消所有待完成订单。
-- [蓝港互动创始人王峰：比特币和以太坊的机构化是大势所趋，稳定币将进入所有细分行业](https://x.com/wangfeng_0128/status/1948570036286947590) - 📰 null - 【蓝港互动创始人王峰：比特币和以太坊的机构化是大势所趋，稳定币将进入所有细分行业】7月25日消息，蓝港互动创始人王峰（@wangfeng_0128）发文阐述成立LK Crypto动因。王峰表示，比特币和以太坊的机构化是大势所趋，稳定币迟早进入所有企业或者细分行业，股票代币化不仅将币股合流而是终究以币待股。 
-此外，王峰预测下一步，每一家企业，不仅仅只是上市公司，都会组织加密业务团队。加密货币领域的市场和技术人才像AI人才一样会被高薪争抢。 
-7月16日，蓝港互动成立LK Crypto事业部，统筹管理公司主流加密资产及加速Web3及RWA布局。
-- [Galaxy Digital近15分钟从CEX提取2亿枚USDT，或已部分完成比特币抛售](https://intel.arkm.com/explorer/entity/galaxy-digital) - 📰 null - 【Galaxy Digital近15分钟从CEX提取2亿枚USDT，或已部分完成比特币抛售】金色财经报道，据链上信息，Galaxy Digital近15分钟从CEX提取2亿枚USDT，或已完成部分比特币抛售。据此前统计，Galaxy Digital近8小时已累计向CEX转入超1万枚BTC。
-- [Aguila Trades 20倍比特币多单被部分清算，损失210万美元](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【Aguila Trades 20倍比特币多单被部分清算，损失210万美元】金色财经报道，据Onchain Lens监测，Aguila Trades的BTC(20x)多头仓位被部分清算，平掉了720枚BTC仓位，并在此次交易中损失了210万美元。
-- [经济学家：俄罗斯经济困境加剧，央行或加大降息力度](https://flash.jin10.com/detail/20250725115919325800) - 📰 null - 【经济学家：俄罗斯经济困境加剧，央行或加大降息力度】金色财经报道，随着通胀放缓以及政府和商界对经济陷入衰退的担忧加剧，俄罗斯央行具备进一步下调关键利率的操作空间。 
-机构对经济学家的调查显示，预计俄罗斯央行政策制定者将在周五会议上连续第二次下调基准利率。其中六成受访者预计将降息 200 个基点至 18%，一位分析师预期更大幅度降息，另有三位预测降幅在 100-150 个基点之间。在俄乌冲突持续的背景下，此次利率决议将为下半年政策定调。央行官员们正艰难平衡通胀风险与经济疲软加剧之间的矛盾。 
-莫斯科 Finam 投资公司经济学家 Olga Belenkaya 指出：“俄罗斯央行必须对通胀显著放缓作出反应。否则实际利率上升可能导致经济过度降温，加剧企业财务压力”。
-- [Galaxy Digital近8小时已累计向CEX转入超1万枚BTC，仍持有27,127枚BTC](https://x.com/lookonchain/status/1948596074849206467) - 📰 null - 【Galaxy Digital近8小时已累计向CEX转入超1万枚BTC，仍持有27,127枚BTC】金色财经报道，据Lookonchain监测，Galaxy Digital近8小时已累计向CEX转入超1万枚BTC。这些比特币来自某个中本聪时代的比特币巨鲸。截止发稿，Galaxy Digital该地址仍持有27,127枚比特币。
-- [麻吉大哥于PUMP上单币亏损仅次于FRIEND，成为其第二大亏损项目](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【麻吉大哥于PUMP上单币亏损仅次于FRIEND，成为其第二大亏损项目】金色财经报道，据链上信息，“麻吉大哥”黄立成的5倍PUMP多单已使其浮亏866万美元。这使得PUMP成为其第二大单币亏损项目。排名第一的是FRIEND。 
-去年5月3日至6月8日，黄立成累计花费4975枚ETH（约1560万美元）以平均1.81美元的价格购买了860万枚FRIEND。这笔FRIEND目前仅价值31万美元，已至少浮亏1500万美元。
-- [金色午报 | 7月25日午间重要动态一览]() - 📰 null - 【金色午报 | 7月25日午间重要动态一览】7:00-12:00关键词：尼日利亚、401(k)、稳定币 
-1.纽约法院批准两名比特币绑架案嫌疑人保释； 
-2.中金：稳定币有潜力成为一种新型的基础设施； 
-3.美国加密货币立法推动稳定币供应激增40亿美元； 
-4.尼日利亚SEC总干事：该国向合规的稳定币企业开放； 
-5.前美联储理事沃什：如果我投票，我将支持下周降息； 
-6.前美联储理事沃什：我们需要（美联储）领导层变革； 
-7.白宫将允许401(k)投资加密货币，黑石总裁预计大型私募将主导市场。
+- [加密基金Pure Crypto计划筹资创建第四支基金]() - 📰 null - 【加密基金Pure Crypto计划筹资创建第四支基金】7月25日消息，据《财富》报道，加密基金 Pure Crypto 计划筹资创建第四支基金，具体规模未披露。Pure Crypto 创始人 Jeremy Boynton 和执行合伙人 Zachary Lindquist 表示，Pure Crypto 于 2018 年推出的首只基金已升值近 1000%，截至 2024 年底价值约为 6000 万美元。
+- [Robinhood美国站上线HBAR现货交易]() - 📰 null - 【Robinhood美国站上线HBAR现货交易】金色财经报道，Robinhood 美国站上线 HBAR 现货交易。
+- [Strategy将STRC优先股发行规模从5亿美元上调至25.21亿美元](https://x.com/saylor/status/1948715806155522212) - 📰 null - 【Strategy将STRC优先股发行规模从5亿美元上调至25.21亿美元】金色财经报道，据官方公告，Strategy 于 2025 年 7 月 24 日完成 28,011,111 股可变利率 A 类永久优先股（$STRC）定价，发行价为每股 90 美元，预计将于 7 月 29 日交割，扣除费用后预计募资约 24.74 亿美元。募集资金将用于一般企业用途，包括增持比特币。STRC 初始年化月度分红利率为 9%，并可由公司视市场调整。
+- [现货黄金跌破3340美元/盎司，日内跌0.84%]() - 📰 null - 【现货黄金跌破3340美元/盎司，日内跌0.84%】金色财经报道，现货黄金跌破3340美元/盎司，日内跌0.84%。
+- [Cango 本周新挖 147 枚 BTC，总持仓达 4387.1 枚](https://x.com/Cango_Group/status/1948696602090373536) - 📰 null - 【Cango 本周新挖 147 枚 BTC，总持仓达 4387.1 枚】金色财经报道，据官方公告，美股上市比特币矿企Cango本周新挖147枚比特币，当前比特币总持有量增至4387.1枚。Cango表示已全面进入HODL模式，并宣布新领导团队到位。
+- [MGBX 已上线W/USDT、FARTCOIN/USDT、AERO/USDT、ZORA/USDT和PUMP/USDT](https://support.mgbx.com/hc/zh-cn/articles/13333475470351) - 📰 null - 【MGBX 已上线W/USDT、FARTCOIN/USDT、AERO/USDT、ZORA/USDT和PUMP/USDT】据官方消息，MGBX 已于 2025 年 7 月 24 日上线 W/USDT、FARTCOIN/USDT、AERO/USDT、ZORA/USDT和PUMP/USDT 
+充值开放时间：2025 年 7 月 25 日 19:00（SGT） 
+交易开放时间：2025 年 7 月 25 日 19:30（SGT）
+- [OKX Wallet 以91.25评分，登顶CertiK钱包安全榜榜首](https://skynet.certik.com/leaderboards/wallet) - 📰 null - 【OKX Wallet 以91.25评分，登顶CertiK钱包安全榜榜首】7月25日消息，据 CertiK 最新钱包安全排行榜显示，OKX Wallet 以 91.25 的 Skynet 评分位居榜首，显示出其在网络安全、代码审计、运维及用户安全等多个维度较高水准的安全性能。据悉，Skynet 是衡量加密钱包安全性、市场表现及社交舆情的权威综合指数。
+- [币安钱包 Bitlayer Booster 活动已上线，参与门槛为 61 Alpha 积分](https://x.com/binancezh/status/1948702058120708158) - 📰 null - 【币安钱包 Bitlayer Booster 活动已上线，参与门槛为 61 Alpha 积分】金色财经报道，据官方公告，币安钱包 Bitlayer Booster 活动已上线，Alpha 积分大于等于 61 的用户可参加活动。
+- [BNB突破770美元]() - 📰 null - 【BNB突破770美元】金色财经报道，行情显示，BNB突破770美元，现报770.03美元，24小时涨幅达到0.81%，行情波动较大，请做好风险控制。
+- [Galaxy Digital 1 小时内转移的 3715 枚比特币已有1130 枚流入币安和 Wintermute 热钱包](https://x.com/ai_9684xtpa/status/1948697191532691580) - 📰 null - 【Galaxy Digital 1 小时内转移的 3715 枚比特币已有1130 枚流入币安和 Wintermute 热钱包】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，Galaxy Digital在一小时前向 12 个新地址转移了 3715 枚比特币。截至目前，其中 1130 枚比特币已充值进入币安交易所和 Wintermute 热钱包，价值约 1.31 亿美元。剩余比特币已流转至四个钱包地址中。
+- [数据：澳大利亚 Monochrome 现货比特币 ETF 持仓升至 956 枚 BTC]() - 📰 null - 【数据：澳大利亚 Monochrome 现货比特币 ETF 持仓升至 956 枚 BTC】金色财经报道，据官方公告，澳大利亚 Monochrome 现货比特币 ETF（IBTC）披露截至 7 月 24 日持仓量已达到 956 枚比特币，资产管理规模（AUM）为 1.71 亿澳元。
+- [AguilaTrades将其25倍ETH多单规模加仓至6500万美元]() - 📰 null - 【AguilaTrades将其25倍ETH多单规模加仓至6500万美元】金色财经报道，据HyperInsight监测，合约交易巨鲸Aguila Trades已加仓其25倍ETH多单，目前多单持仓17,500枚ETH（约合6500万美元），强平价格：3,601.35美元。
+- [巴克莱：月末美元抛压预计将温和]() - 📰 null - 【巴克莱：月末美元抛压预计将温和】金色财经报道，巴克莱分析师在报告中表示，在本月末的投资组合再平衡过程中，投资者可能不会大规模抛售美元。 
+该行的月末再平衡模型显示，对美元抛售预计将较为温和。7 月上半月，核心通胀高企、经济活动保持韧性以及劳动力市场强劲共同支撑了美元走势。然而，随着特朗普不断向鲍威尔施压要求降息，这些涨幅随后被完全抵消。 
+美股的积极势头仍在延续，而美债表现则相对逊色。巴克莱通过衡量外国与美国股票和债券之间的相对表现，来评估投资者月末在外汇市场上的潜在需求，尤其是那些希望维持货币风险对冲的投资者行为。
+- [亚利桑那州一女子因协助朝鲜黑客渗透美国加密货币公司被判 8.5 年有期徒刑](https://cointelegraph.com/news/arizona-woman-north-korea-crypto-scheme) - 📰 null - 【亚利桑那州一女子因协助朝鲜黑客渗透美国加密货币公司被判 8.5 年有期徒刑】金色财经报道，美国哥伦比亚特区检察官办公室宣布，亚利桑那州女子 Christina Marie Chapman 因协助朝鲜黑客使用虚假身份渗透美国加密货币和科技公司被判处 102 个月（约 8.5 年）有期徒刑。 
+检方指控 Chapman 与朝鲜特工合作，帮助其在超过 300 家美国公司获得远程 IT 职位，这些朝鲜工作人员冒充美国公民和居民身份，该计划共产生超过 1700 万美元的非法收入。除监禁外，Chapman 还被勒令没收超过 28.4 万美元的涉案资金，并支付近 17.7 万美元的赔偿金。 
+据报道，此案涉及盗用 68 名美国人身份，欺骗 309 家美国企业和 2 家国际公司，是美国司法部起诉的最大规模朝鲜 IT 工作人员渗透案件之一。
+- [澳大利亚 Monochrome 现货比特币 ETF 的 BTC 持仓升至 956 枚](https://x.com/MonochromeAsset/status/1948686413312262305) - 📰 null - 【澳大利亚 Monochrome 现货比特币 ETF 的 BTC 持仓升至 956 枚】金色财经报道，据官方消息，澳大利亚 Monochrome 现货比特币 ETF（IBTC）披露截至 7 月 24 日持仓量已达到 956 枚比特币，持仓市值约为 1.7 亿澳元。
+- [Delabs Games开放DELABS代币空投查询](https://x.com/delabsOfficial/status/1948682498898362853) - 📰 null - 【Delabs Games开放DELABS代币空投查询】金色财经报道，Binance Wallet 第 32 期独家 TGE 项目 Delabs Games 宣布开放 DELABS 代币空投查询，Delabs 游戏资产和小程序活动的快照已于 7 月 15 日 14:00 进行。
+- [BTC突破116000美元]() - 📰 null - 【BTC突破116000美元】金色财经报道，行情显示，BTC突破116000美元，现报116008美元，24小时跌幅达到2.11%，行情波动较大，请做好风险控制。
+- [Binance Wallet独家TGE上线Delabs Games（DELABS）](https://x.com/BinanceWallet/status/1948681506530230319) - 📰 null - 【Binance Wallet独家TGE上线Delabs Games（DELABS）】金色财经报道，Binance Wallet第32期独家TGE活动将于2025年7月28日16:00至18:00（UTC+8）在Binance Wallet通过PancakeSwap举行，项目为DELABS。符合条件的用户需使用币安Alpha积分参与。官方还将为即将到来的活动额外提供1.2亿枚DELABS，更多详情和活动入口即将公布。
+- [Binance将上线ZORA和TAG U本位永续合约]() - 📰 null - 【Binance将上线ZORA和TAG U本位永续合约】金色财经报道，据官方消息，Binance 将上线 ZORA 和 TAG 的 U 本位永续合约。
+- [SOL突破180美元]() - 📰 null - 【SOL突破180美元】金色财经报道，行情显示，SOL突破180美元，现报180.04美元，24小时跌幅达到2.96%，行情波动较大，请做好风险控制。
