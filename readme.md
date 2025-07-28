@@ -1,40 +1,21 @@
-- [英国上市公司Coinsilium Group子公司Forza增持约12枚BTC，总持有量达124枚](https://www.aquis.eu/stock-exchange/announcements/5291951) - 📰 null - 【英国上市公司Coinsilium Group子公司Forza增持约12枚BTC，总持有量达124枚】金色财经报道，据官方公告，英国上市公司Coinsilium Group子公司Forza增持12.4230枚BTC，目前总持有量已达124.4239枚BTC。
-- [比特币财库上市公司The Smarter Web Company配股募资约1968万英镑](https://investors.smarterwebcompany.co.uk/investors/_img/pdf/news/2025-07-28-subscription-tranche-update.pdf) - 📰 null - 【比特币财库上市公司The Smarter Web Company配股募资约1968万英镑】金色财经报道，据官方公告，英国比特币财库上市公司The Smarter Web Company披露配售6,057,914股新普通股，募资约19,680,874英镑（扣除费用前），预计本期配售完成后将签署一份新的认购协议，该公司此前披露截至上周的比特币持仓量已达到1825枚。
-- [欧洲上市公司Capital B收购58枚BTC，总持有量达2,013枚]() - 📰 null - 【欧洲上市公司Capital B收购58枚BTC，总持有量达2,013枚】金色财经报道，据官方公告，欧洲上市公司Capital B以约590万欧元收购58枚BTC。此次收购后，CapitalB的比特币总持有量达到2,013枚。该公司年初至今的BTC收益率达到1,409.8%。
-- [4E：SharpLink Gaming周末购入3亿美元ETH并全部质押；ETH链上活跃度逼近历史高点]() - 📰 null - 【4E：SharpLink Gaming周末购入3亿美元ETH并全部质押；ETH链上活跃度逼近历史高点】7月28日消息，SharpLink Gaming于周末连续购入共计 77,206 枚 ETH（约合 2.96 亿美元），并全部转入质押合约。链上数据显示，Galaxy Digital 从币安提取的 ETH 已悉数转入 SharpLink Gaming 地址，相关资金通过 USDC 转账完成。 
-宏观方面，美国与欧盟达成15%统一关税协议，并宣布6000亿美元欧盟对美投资及采购计划，美元资产或受益；CME数据显示，美联储7月维持利率不变概率高达97.4%，市场对宽松政策的预期升温。 
-根据4E观察，此次 SharpLink Gaming 大额买入并质押 ETH 的行为，释放出两个强烈信号：其一，质押行为强化ETH作为“生产性资产”的市场定位，可能鼓励更多资金长期锁仓、减少市场抛压；其二，Galaxy Digital 等机构的频繁参与，也在支撑 ETH 成为机构主力配置资产。 
-4E提醒投资者：市场流动性与监管预期正在发生重要变化，请警惕追涨杀跌情绪，合理配置风险敞口。
-- [Binance：新一期TGE项目Delabs Games（DELABS）参与门槛为218积分](https://x.com/binancezh/status/1948681058867970431) - 📰 null - 【Binance：新一期TGE项目Delabs Games（DELABS）参与门槛为218积分】金色财经报道，据官方消息，Binance Wallet 新一期 TGE 项目 Delabs Games（DELABS）参与门槛为 218 积分。 
-认购时间：2025年7月28号下午4点到6点(UTC+8)。
-- [特朗普媒体与科技集团已投资3亿美元参与比特币相关证券挂钩的期权的策略](https://www.bloomberg.co.jp/news/articles/2025-07-28/T02ZSRGPFHMX00?t=true) - 📰 null - 【特朗普媒体与科技集团已投资3亿美元参与比特币相关证券挂钩的期权的策略】据彭博社报道，特朗普媒体与科技集团（TMTG）上周透露，已投资3亿美元参与比特币相关证券挂钩的期权的策略。 
-虽然许多细节尚不清楚，但这笔投资表明特朗普媒体正在转向利用比特币价格。特朗普在其社交媒体账户“Truth Social”上的帖子过去曾推高了这种加密货币的价格，而期权策略可以帮助投资者从这种价格波动中获利。 
-Castle Island Ventures合伙人Nick Carter表示，他投票支持特朗普并且仍然支持他，但他与该行业的联系可能会产生利益冲突，尤其是在期权交易带来不同的风险和回报的情况下。
-- [James Wynn：比特币市占率持续下跌，冒险季已到](https://x.com/JamesWynnReal/status/1949704284137787649) - 📰 null - 【James Wynn：比特币市占率持续下跌，冒险季已到】金色财经报道，James Wynn发文表示，比特币市占率正在自由落体（数据显示已跌至60.76%），时机已到，Risk-on（结合其此前言论，可以理解为山寨季）季节已来。 
-7月25日，James Wynn称比特币币价与市占比同步下跌，市场或将过渡至山寨季。
-- [累计盈利超2300万美元的聪明钱近1小时持续减仓25倍ETH多单](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【累计盈利超2300万美元的聪明钱近1小时持续减仓25倍ETH多单】金色财经报道，据链上信息，某聪明钱近1小时持续减仓25倍ETH多单，截止发稿已减少6,913.12枚持仓,持仓金额减少21,048,396.95美元，当前其仍持有价值7133万美元ETH多单，浮盈476万美元。 
-此外，该地址还持有5倍HYPE和PUMP多单。该地址24小时盈利294万美元，累计盈利2347万美元。
-- [ENA短时突破0.7美元，24小时涨幅超10%]() - 📰 null - 【ENA短时突破0.7美元，24小时涨幅超10%】金色财经报道，行情显示，ENA短时突破0.7美元，现报价0.6901美元，24小时涨幅达10.4%。
-- [CZ持仓BNB价值或已超748亿美元](https://cointelegraph.com/news/bnb-all-time-high-cz-holdings-75-billion) - 📰 null - 【CZ持仓BNB价值或已超748亿美元】金色财经报道，Cointelegraph根据《福布斯》2024 年 6 月的一份报告测算，CZ 当时持有约8910万枚 BNB。伴随 BNB 近期连续上涨突破新高，按照 BNB现价840美元计算，这笔BNB的价值约合748.44亿美元。
-- [美银：贸易协议减少不确定性，日本央行本周或调整政策基调]() - 📰 null - 【美银：贸易协议减少不确定性，日本央行本周或调整政策基调】金色财经报道，美国银行的经济学家在一份报告中表示，日本央行可能发出信号，表明立场将转向不太温和的立场。市场普遍预计，在本周的货币政策会议上，日本央行将维持0.5%的政策利率不变。但考虑到日本最近与美国达成的贸易协议，其可能会采取不那么温和的语气。该协议减少了一个巨大的不确定性，日本央行曾指出，这是推迟紧缩政策的一个原因。(金十)
-- [某独立矿工成功打包区块907,465，捕获3.164枚BTC收益](https://mempool.space/zh/block/00000000000000000001e6a5aec8788183793b27370ef638b152b4d02f9f0787) - 📰 null - 【某独立矿工成功打包区块907,465，捕获3.164枚BTC收益】金色财经报道，据mempool数据，今晨5:43:51，某独立比特币矿工成功将区块907,465打包，获得3.164枚BTC区块奖励，价值约合37.58万美元。
-- [摩根大通：将Coinbase(COIN.O)目标价从215美元上调至404美元]() - 📰 null - 【摩根大通：将Coinbase(COIN.O)目标价从215美元上调至404美元】金色财经报道，摩根大通：将Coinbase(COIN.O)目标价从215美元上调至404美元。
-- [某鲸鱼过去3日累计提取6273.5枚ETH，价值2370万美元](https://x.com/OnchainLens/status/1949688941466308905) - 📰 null - 【某鲸鱼过去3日累计提取6273.5枚ETH，价值2370万美元】金色财经报道，据Onchain Lens监测，在过去3天里，一位鲸鱼从Bybit中提取了6,273.5枚ETH，价值2370万美元。目前，该鲸鱼持有6,294枚ETH（2440万美元）。
-- [去中心化边缘云项目ARO Network完成210万美元的Pre-Seed轮融资](https://news.bitcoin.com/aro-network-raises-2-1m-to-scale-the-decentralized-edge-cloud-for-ai-and-content-delivery/) - 📰 null - 【去中心化边缘云项目ARO Network完成210万美元的Pre-Seed轮融资】金色财经报道，去中心化边缘云项目ARO Network宣布完成210万美元的Pre-Seed轮融资，旨在加速其打造专为点对点内容分发与AI计算而生的去中心化边缘云网络。 
-本轮融资由NoLimit Holdings和Dispersion Capital领投，Escape Velocity、Maelstrom以及多位战略天使投资人参与投资。 
-ARO Network是一个去中心化边缘云项目，允许用户通过运行节点将闲置互联网资源转化为收入。用户运行ARO节点可赚取ARO代币，支持实时AI计算。
-- [数据：过去1小时内有2,443.45万USDT转入主流交易所]() - 📰 null - 【数据：过去1小时内有2,443.45万USDT转入主流交易所】金色财经报道，据Coinglass数据显示，过去1小时内共有2,443.45万USDT转入主流交易所。
-- [若ETH跌破3,687美元，主流CEX累计多单清算强度将达28.85亿美元](https://www.coinglass.com/zh) - 📰 null - 【若ETH跌破3,687美元，主流CEX累计多单清算强度将达28.85亿美元】金色财经报道，据Coinglass数据显示，若ETH跌破3,687美元，主流CEX累计多单清算强度将达28.85亿美元。反之，若ETH突破4,062美元，主流CEX累计空单清算强度将达13.14亿美元。
-- [某聪明钱2小时前减仓25倍ETH多单，同时持有比特币40倍多单和SOL 20倍空单](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【某聪明钱2小时前减仓25倍ETH多单，同时持有比特币40倍多单和SOL 20倍空单】金色财经报道，据链上信息，某聪明钱2小时前减仓25倍ETH多单，持仓减少2,368.85枚，目前仅持有价值388.4美元ETH多单。 
-此外，该地址当前仍持有价值1492.5万美元的40倍比特币多单和价值484万美元的SOL 20倍空单。 
-该地址近一周于Hyperliquid上盈利115万美元。
-- [金色午报 | 7月28日午间重要动态一览]() - 📰 null - 【金色午报 | 7月28日午间重要动态一览】7:00-12:00关键词：LINK、稳定币、兴业银行、以太坊现货ETF 
-1.某屯币超1年的LINK鲸鱼向Kraken充值17万枚LINK”； 
-2.兴业银行半年工作会议中提出将研究稳定币； 
-3.Metaplanet增持780枚比特币，价值约9250万美元； 
-4.加密货币或为美欧贸易协议框架的受益者； 
-5.BSC生态DeFi代币普涨，CAKE 24小时涨幅达13.2%； 
-6.以太坊现货ETF上周净流入18.5亿美元，单周净流入创历史第二高。
-- [某黑客组织在 V2EX 伪装招聘进行投毒，以盗取面试者加密货币](https://x.com/evilcos/status/1949678504737673472) - 📰 null - 【某黑客组织在 V2EX 伪装招聘进行投毒，以盗取面试者加密货币】金色财经报道，据慢雾余弦披露，某黑客组织在V2EX平台伪装招聘发布虚假职位信息，通过诱人福利吸引面试者。该组织诱导面试者基于其预先准备的恶意代码仓库作为项目模板开发页面。 
-一旦面试者下载并调试执行相关代码，计算机将被植入恶意软件，可能导致加密货币资产及各类账号权限被盗取。该攻击手段利用了求职者对技术面试的信任，通过看似正常的开发任务实施网络攻击。 
-求职者在参与技术面试时应保持警惕，避免在个人设备上运行来源不明的代码，建议使用虚拟机或沙箱环境进行测试。
+- [美股上市公司Hyperion DeFi宣布新增购入108,594枚HYPE代币](https://www.globenewswire.com/news-release/2025/07/28/3122382/0/en/Hyperion-DeFi-Purchases-Additional-5-Million-in-HYPE-for-Kinetiq-iHYPE-Strategy.html) - 📰 null - 【美股上市公司Hyperion DeFi宣布新增购入108,594枚HYPE代币】金色财经报道，Hyperion DeFi（纳斯达克股票代码：HYPD）宣布新增购入 108,594 枚 HYPE 代币，使其 HYPE 总持仓量达到 1,535,772 枚，平均购入成本为每枚 36.14 美元。此次增持旨在为参与 Kinetiq 平台的 iHYPE（机构级 HYPE）流动性质押池做准备。
+- [Mill City Ventures III, Ltd.宣布进行4.5亿美元私募，启动Sui财务战略](https://www.businesswire.com/news/home/20250728220301/en/Mill-City-Ventures-III-Ltd.-Announces-%24450000000-Private-Placement-to-Initiate-Sui-Treasury-Strategy) - 📰 null - 【Mill City Ventures III, Ltd.宣布进行4.5亿美元私募，启动Sui财务战略】7月28日消息，据Businesswire报道，非银行贷款机构和金融公司Mill City Ventures III, Ltd. (NASDAQ:MCVT)宣布，其已签署证券购买协议，以私人投资方式投资公开股权，以每股5.42美元的价格购买和出售83,025,830股普通股，预计总收益约为4.5亿美元（扣除配售代理费和其他发行费用）。对冲基金Karatage担任领投方，Sui基金会也提供了等额投资。本次发行预计将于2025年7月31日左右完成。公司计划将私募净收益的约98%用于收购Sui区块链的原生代币SUI，并将私募净收益的约2%用于支持公司的短期贷款业务。SUI将作为公司的主要财务储备资产。
+- [CEA Industries和10X Capital在YZi Labs支持下进行5亿美元私募融资](https://www.streetinsider.com/Globe+Newswire/CEA+Industries+and+10X+Capital,+with+the+support+of+YZi+Labs,+announce+$500+Million+Private+Placement+to+Establish+Largest+Publicly-Listed+$BNB+Treasury+Company+in+the+World+(NASDAQ:VAPE)/25102988.html) - 📰 null - 【CEA Industries和10X Capital在YZi Labs支持下进行5亿美元私募融资】7月28日消息，CEA Industries 和 10 X Capital 宣布在 YZi Labs 支持下进行 5 亿美元私募融资以建立 BNB 财库，据悉两家机构将扩大 PIPE 发行规模，据悉超过 140 名认购者参与了此次发行，除 YZi Labs 之外还有 Pantera Capital、Arche Capital、GSR、Borderless、Arrington Capital 、Blockchain.com、Hypersphere Capital、Kenetic 等机构。
+- [MARA Holdings通过发行可转换债券筹集9.5亿美元增持比特币](https://x.com/btcNLNico/status/1949804882346615128) - 📰 null - 【MARA Holdings通过发行可转换债券筹集9.5亿美元增持比特币】金色财经报道，据官方消息，MARA Holdings通过发行0%利率可转换债券成功筹集9.5亿美元资金，用于增持更多比特币，以及偿还5000万美元旧债券及用于一般企业用途。
+- [盈透证券计划发行稳定币](https://www.zhitongcaijing.com/immediately/detail/6351577.html) - 📰 null - 【盈透证券计划发行稳定币】金色财经报道，据智通财经报道，美国电子证券交易公司盈透证券（Interactive Brokers）正考虑为该交易平台的客户们发行稳定币。随着美国政府放松对于加密货币行业的监管，这家大型金融公司正押注于数字代币热潮。
+- [Strategy 上周并未增持 BTC](https://x.com/DeItaone/status/1949802199170650349) - 📰 null - 【Strategy 上周并未增持 BTC】金色财经报道，美股上市公司 Strategy 在 7 月 21 日至 7 月 27 日期间并未增持 BTC。
+- [Immutable Holdings推进HBAR财库战略](https://www.globenewswire.com/news-release/2025/07/28/3122324/0/en/Immutable-Holdings-Announces-Strategic-Update-on-HBAR-Treasury-Strategy-Also-Management-Change.html) - 📰 null - 【Immutable Holdings推进HBAR财库战略】金色财经报道，区块链控股公司Immutable Holdings Inc.(Cboe Canada: HOLD; OTCQB: IHDLF)今日宣布推进其HBAR数字资产财库战略并进行高管变更。公司目前通过全资子公司Immutable Asset Management持有超过4800万HBAR代币，并计划根据资本优先级和市场条件增加对HBAR或其他数字资产的投资。
+- [金涌投资宣布 1000 万美元 Web3.0 及虚拟资产投资计划](https://www.zhitongcaijing.com/immediately/detail/6351480.html) - 📰 null - 【金涌投资宣布 1000 万美元 Web3.0 及虚拟资产投资计划】金色财经报道，金涌投资发布公告，公司已批准总金额为 1000 万美元的预算，供集团发展第三代互联网 (Web3.0) 业务及投资虚拟资产，尤其是以太币 ( 虚拟资产投资计划 )。
+- [美股医疗公司Liminatus Pharma拟筹集部署5亿美元资金投资BNB](https://markets.businessinsider.com/news/stocks/liminatus-pharma-inc-to-launch-american-bnb-strategy-subsidiary-and-target-up-to-500-million-fund-for-bnb-investment-as-part-of-crypto-market-initiative-1034945080) - 📰 null - 【美股医疗公司Liminatus Pharma拟筹集部署5亿美元资金投资BNB】7月28日消息，临床前阶段生物制药公司 Liminatus Pharma, Inc.（纳斯达克股票代码：LIMN）今日宣布，计划战略性拓展至加密货币和区块链领域。公司拟成立名为「American BNB Strategy」（美国 BNB 策略）的子公司，主导其数字资产投资与管理计划。通过这一平台，Liminatus 计划分阶段筹集并部署高达 5 亿美元资金，目标是对 BNB 进行战略性长期投资。
+- [Binance Alpha将于7月30日上线GAIA (GAIA)]() - 📰 null - 【Binance Alpha将于7月30日上线GAIA (GAIA)】金色财经报道，据官方消息，Binance Alpha 将于 7 月 30 日上线 GAIA (GAIA)。符合条件的用户可在 Alpha 活动页面使用 Alpha 积分领取空投，交易开放后即可领取。
+- [日本美甲连锁企业Convano宣布再次融资15亿日元以增持BTC](https://x.com/btcNLNico/status/1949792330220761579) - 📰 null - 【日本美甲连锁企业Convano宣布再次融资15亿日元以增持BTC】7月28日消息，日本美甲连锁企业 Convano 株式会社上周已购入约 80 枚比特币，宣布近日再次融资 15 亿日元（约合 1010 万美元），资金将用于增持比特币。
+- [多个地址过去16小时内囤积超12万枚SOL，价值约2305万美元](https://x.com/lookonchain/status/1949790706828222549) - 📰 null - 【多个地址过去16小时内囤积超12万枚SOL，价值约2305万美元】金色财经报道，据链上分析平台 Lookonchain 监测，多个大型钱包地址在过去16小时内从主流交易所大量提取Solana (SOL)。具体数据显示，四个主要钱包地址合计从Binance和Kraken交易所提取了约123,269枚SOL，总价值约2305万美元。
+- [上市公司BTCS宣布增持14,240枚以太坊](https://x.com/NasdaqBTCS/status/1949787329972863207) - 📰 null - 【上市公司BTCS宣布增持14,240枚以太坊】金色财经报道，据官方公告，纳斯达克上市公司BTCS（$BTCS）宣布增持14,240枚以太坊，使总持有量达70,028枚，按当前3,850美元价格计算，市值约2.7亿美元。
+- [欧洲央行：美元在稳定币中的早期主导地位给美国带来优势]() - 📰 null - 【欧洲央行：美元在稳定币中的早期主导地位给美国带来优势】金色财经报道，欧洲央行：美元在稳定币中的早期主导地位给美国带来了优势，可能会推高欧洲的借贷成本，削弱欧洲央行的自主权，并增加对美国的依赖。
+- [渣打银行旗下加密交易平台Zodia Markets完成1825万美元融资](https://www.bloomberg.com/news/articles/2025-07-28/stanchart-s-crypto-arm-zodia-markets-raises-18-million) - 📰 null - 【渣打银行旗下加密交易平台Zodia Markets完成1825万美元融资】金色财经报道，渣打银行旗下加密交易平台Zodia Markets完成1825万美元融资，由纽约风投机构Pharsalus Capital领投，Circle Ventures、Token Bay Capital、XVC Tech等参投。此轮融资后，渣打银行持股比例从84%降至60%。 
+Zodia Markets成立于2021年，提供加密货币场外经纪服务。新资金将用于拓展东亚、拉美及美国市场，并扩大稳定币业务。公司目前团队规模约50人，强调盈利优先策略，避免不计成本扩张。
+- [Nano Labs 已将其BNB持有量增至 128,000 枚](https://x.com/NanoLabsLtd/status/1949773319026446696) - 📰 null - 【Nano Labs 已将其BNB持有量增至 128,000 枚】金色财经报道，美股上市公司 Nano Labs(Nasdaq: NA)今日宣布将其BNB持有量增至12.8万枚，按当前市价850美元/枚计算，总价值超1.08亿美元。公司近期通过场外交易以平均801美元/枚的价格新增购入8000枚BNB，整体持仓平均成本为713美元/枚。
+- [东南亚网约车巨头 Grab 已在菲律宾接受 BTC 等加密货币支付](https://www.adobomagazine.com/brand-business/grab-ph-users-can-now-cash-in-with-their-cryptocurrency-through-pdax-triple-a-partnership/) - 📰 null - 【东南亚网约车巨头 Grab 已在菲律宾接受 BTC 等加密货币支付】金色财经报道，东南亚网约车巨头 Grab 的菲律宾用户现在可以使用加密货币为 GrabPay 钱包充值。这项功能得益于 Grab 与支付服务提供商 Triple-A 以及本地数字资产交易所 PDAX 的合作。用户可以使用多种加密货币为他们的 GrabPay 钱包充值，包括比特币、以太坊、USDC 和 USDT。
+- [BNB Chain 基金会购入 2.5 万美元 SOLV 和 CA](https://x.com/BNBCHAIN/status/1949780796610433437) - 📰 null - 【BNB Chain 基金会购入 2.5 万美元 SOLV 和 CA】金色财经报道，据官方消息，BNB Chain 基金会激励地址分别买入价值 2.5 万美元的 SOLV 和 CA 代币。
+- [AVAX突破27美元]() - 📰 null - 【AVAX突破27美元】金色财经报道，行情显示，AVAX突破27美元，现报27.01美元，24小时涨幅达到7.87%，行情波动较大，请做好风险控制。
+- [“迷因股”热潮令做空者亏损25亿美元]() - 📰 null - 【“迷因股”热潮令做空者亏损25亿美元】金色财经报道，对于看空美国高风险股票的交易员来说，7月堪称“惨烈”。根据S3 Partners的数据，截至上周四，投资者7月份在美国空头头寸最高的50只上市股票上，已损失25亿美元。这些公司包括“迷因股”代表科尔百货（Kohl’s Corp.）等，做空这些标的的平均亏损是美股整体平均做空损失的4倍。随着散户投资者对投机型股票的热情高涨，多只高度做空的个股被强力拉升，空头因此承压。尽管本周关税截止日期、美联储决议、非农等关键事件对风险偏好情绪构成重大考验，但策略师普遍认为，这轮“迷因股”热潮仍有继续空间。Vanda Research的数据显示，散户对Opendoor和Krispy Kreme等“迷因股”的净买入持续上升，交易活跃度也在加快。
