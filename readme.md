@@ -1,31 +1,27 @@
-- [软件设计巨头FIGMA美股IPO首日持续上涨，现涨超200%]() - 📰 null - 【软件设计巨头FIGMA美股IPO首日持续上涨，现涨超200%】金色财经报道，软件设计巨头FIGMA美股IPO首日持续上涨，现涨超200%，报99.6美元，首次公开募股价格为33美元。 
-此前报道，FIGMA持有近7000万美元的比特币ETF，并获批可追加购买3000万美元的比特币。
-- [以太坊十周年火炬纪念NFT铸造总共消耗价值58.4万美元ETH的Gas](https://x.com/ai_9684xtpa/status/1950954348269428740) - 📰 null - 【以太坊十周年火炬纪念NFT铸造总共消耗价值58.4万美元ETH的Gas】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，781,147 个地址参与了以太坊十周年纪念 NFT 的铸造，总共花费了 153.7 枚 ETH 的 Gas（约 58.4 万美元）。 
-此前报道，以太坊十周年火炬纪念 NFT 铸造已结束，总量超 78 万枚，持有者地址超 66 万。
-- [Arkham：FTX/Alameda已质押价值1.25亿美元的ETH和SOL](https://x.com/arkham/status/1950964955177689505) - 📰 null - 【Arkham：FTX/Alameda已质押价值1.25亿美元的ETH和SOL】金色财经报道，据 Arkham 监测，FTX/Alameda 已质押价值 1.25 亿美元的 ETH 和 SOL。 
-FTX 冷钱包昨晚质押了 4500 万美元的 SOL，而 Alameda 的钱包地址向 Figment 存入了 8000 万美元的 ETH。
-- [美SEC启动Project Crypto计划，推动金融市场实现链上化](https://x.com/bwenews/status/1950958006516253093) - 📰 null - 【美SEC启动Project Crypto计划，推动金融市场实现链上化】金色财经报道，据路透社消息，美国证券交易委员会（SEC）启动 Project Crypto 计划，旨在推动证券法规现代化并使美国金融市场能够实现链上化。
-- [美SEC主席：将制定框架以允许加密证券和非加密证券并行交易](https://flash.jin10.com/detail/20250801004451595800) - 📰 null - 【美SEC主席：将制定框架以允许加密证券和非加密证券并行交易】金色财经报道，美国证交会主席阿特金斯表示，已要求工作人员研究如何调整托管制度，以推动加密资产托管业务的开展，同时指示工作人员制定框架，以允许加密证券和非加密证券并行交易。为适配代币化证券的交易，美国证券交易委员会可能需要考虑修订《全国市场系统规则》。
-- [美SEC主席：多数加密资产并非证券，已指示制定明确规则并落实白宫加密货币建议](https://flash.jin10.com/detail/20250801003913301800) - 📰 null - 【美SEC主席：多数加密资产并非证券，已指示制定明确规则并落实白宫加密货币建议】金色财经报道，美国证交会主席阿特金斯表示，将指示各政策部门与加密货币特别工作组合作，以落实白宫的加密货币相关建议。已指示委员会工作人员起草明确的加密货币分配、托管和交易规则。大多数加密资产并非证券。已指示委员会工作人员制定准则，以确定加密资产在何时属于证券。已要求工作人员为被认定为证券的加密资产提议披露要求和豁免规定，同时已要求工作人员与那些寻求发行代币化证券的公司展开合作。
-- [英伟达深夜回应芯片“后门”问题](https://flash.jin10.com/detail/20250801001708803800) - 📰 null - 【英伟达深夜回应芯片“后门”问题】金色财经报道，7月31日深夜，针对英伟达算力芯片被曝出存在严重安全问题，英伟达回应：“网络安全对我们至关重要。英伟达的芯片不存在‘后门’，并不会让任何人有远程访问或控制这些芯片的途径。”（一财）
-- [沉寂超14年持有3963枚BTC巨鲸再次抛售180枚BTC](https://x.com/ai_9684xtpa/status/1950950968293773737) - 📰 null - 【沉寂超14年持有3963枚BTC巨鲸再次抛售180枚BTC】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，「沉寂 14.5 年持有 3,963 枚 BTC 的远古巨鲸」再次抛售 180 枚 BTC，过去一周已疑似抛售 330 枚 BTC，约 2957 万美元，其成本低至 0.37 美元。 
-半小时前将 180 枚 BTC（约 2125 万美元）转移至做市商关联地址 bc1q5...zr2xn，该地址曾与 B2C2 / Galaxy / Coinbase 等多个机构有过交互。
-- [以太坊十周年火炬纪念NFT铸造已结束，总量超78万枚](https://etherscan.io/token/0x26d85a13212433fe6a8381969c2b0db390a0b0ae#balances) - 📰 null - 【以太坊十周年火炬纪念NFT铸造已结束，总量超78万枚】金色财经报道，以太坊十周年火炬纪念 NFT 铸造已结束，总量超 78 万枚，持有者地址超 66 万。 
-此前报道，以太坊推出「The Torch（火炬）」NFT，用于致敬那些在以太坊第一个十年中塑造其发展的人与价值观，并将助力以太坊未来的建设。在以太坊十周年到来前的 10 天内，这枚 The Torch NFT 将象征性地在钱包之间传递。7 月 30 日 The Torch NFT 将被销毁，以纪念以太坊成立十周年。当天所有人都可以铸造一枚纪念 NFT。
-- [AIverse 获 Enigma Securities 1000 万美元战略投资并正式启动全球训练计划](https://apnews.com/press-release/marketersmedia/enigma-securities-invested-10m-in-aiverse-to-accelerate-the-decentralized-ai-economy-a2402b55d8c3072140ea39090443270b) - 📰 null - 【AIverse 获 Enigma Securities 1000 万美元战略投资并正式启动全球训练计划】金色财经报道，机构级数字资产流动性提供商 Enigma Securities 宣布对去中心化 AI 协议 AIverse 进行 1000 万美元战略投资。本轮资金将加速 AIverse 产品路线图的实施，强化平台流动性基础设施，助力其打造去中心化 AI Agent 经济体。 
-AIverse 正在构建完整的链上 AI 生态系统——一个赋能开发者、创作者与普通用户的去中心化平台，支持 AI Agent 的连接、分发、交易与盈利。平台原生代币 AION 拥有多重应用场景，包括 AI Agent 激活、盘前交易、NFT 授权和开发者激励等。 
-随着 8 月 1 日全球训练计划的启动，平台用户增长和应用落地有望全面加速，进一步推动 AIverse 生态扩展。
-- [pump.fun近24小时市场份额升至29.9%](https://jup.ag/pro?tab=launchpads) - 📰 null - 【pump.fun近24小时市场份额升至29.9%】金色财经报道，据 Jupiter 数据面板，近 24 小时 Solana 发币平台市场份额排名中，Letsbonk 以 53.7% 排名第一，pump.fun 则以 29.9% 排名第二，Jup Studio 以 5.51% 排名第三。
-- [亚特兰大联储GDPNow模型初步预计美国第三季度GDP增速为2.3%](https://flash.jin10.com/detail/20250731232952896800) - 📰 null - 【亚特兰大联储GDPNow模型初步预计美国第三季度GDP增速为2.3%】金色财经报道，亚特兰大联储GDPNow模型初步预计美国第三季度GDP增速为2.3%。
-- [CryptoQuant：比特币迎来本轮牛市第三轮大规模获利了结](https://x.com/cryptoquant_com/status/1950943326657564729) - 📰 null - 【CryptoQuant：比特币迎来本轮牛市第三轮大规模获利了结】金色财经报道，CryptoQuant 发文表示，「比特币刚刚经历了本轮牛市的第三轮大规模获利了结。7 月底，实现利润激增至 60 亿至 80 亿美元，水平与 2024 年 3 月和 12 月的高点相当。本轮在 12 万美元以上抛售的主力是新进场的鲸鱼。」
-- [USDC Treasury在以太坊网络上新铸造1亿枚USDC](https://x.com/whale_alert/status/1950943222441681077) - 📰 null - 【USDC Treasury在以太坊网络上新铸造1亿枚USDC】金色财经报道，据Whale Alert监测，大约10分钟前，USDC Treasury在以太坊网络上新铸造 1 亿枚 USDC。
-- [Securitize与Elixir合作为Hamilton Lane代币化基金提供流动性解决方案](https://www.theblock.co/post/365062/securitize-taps-elixir-to-make-hamilton-lanes-tokenized-hlscope-fund-more-liquid-via-the-deusd-synthetic-dollar?utm_source=twitter&utm_medium=social) - 📰 null - 【Securitize与Elixir合作为Hamilton Lane代币化基金提供流动性解决方案】金色财经报道，Securitize宣布与Elixir达成合作，将为Hamilton Lane高级信贷机会证券化基金（HLSCOPE）提供流动性支持。根据协议，HLSCOPE基金将分配最多5%的实物资产储备用于支持deUSD（一种由stETH和sDAI抵押生成的合成美元）。 
-该合作将实现HLSCOPE基金的全天候铸造和赎回，支持在多个区块链网络上进行代币化基金与稳定币之间的即时互换。HLSCOPE基金目前在Polygon网络上的资产总值约为900万美元，主要投资于北美和欧洲地区的优先担保私人信贷和优先担保贷款。
-- [某交易员10倍做多SOL，当前仓位达4230万美元](https://x.com/lookonchain/status/1950943022415536457) - 📰 null - 【某交易员10倍做多SOL，当前仓位达4230万美元】金色财经报道，据 Lookonchain 监测，某交易员（0x89Da）在一小时前开设了 238,909 枚 SOL（4230 万美元）的多头头寸，目前浮盈 23 万美元。 
-在过去的 20 天里，该交易员进行了 14 笔交易，胜率为 85.71%，总利润超过 290 万美元。
-- [Figma创始人Dylan Field关联地址持有约170万美元的AGLD和238枚Loot NFT](https://etherscan.io/address/0x450638daf0caedbdd9f8cb4a41fa1b24788b123e#nfttransfers) - 📰 null - 【Figma创始人Dylan Field关联地址持有约170万美元的AGLD和238枚Loot NFT】7月31日消息，设计协作平台 Figma 已正式登陆美股市场。链上数据显示，Figma创始人 Dylan Field 以 0x450 开头的公开地址，于 2021 年曾购入约 170 万美元的 AGLD（（Adventure Layer ）代币以及 238 枚 Loot NFT，并至今未出售。目前AGLD代币也是该地址最大持仓。此外，Dylan Field 曾在 X 平台上发文探讨 AGLD 和 Loot NFT 的价值。 
-据悉，Adventure Layer 是 Berachain 上的 L2 层，专为链上 AI 游戏量身定制，由 AGLD DAO 构建。 Loot NFT 是 Adventure Layer 生态 NFT。
-- [Jito Labs等机构联名致信SEC敦促在Solana ETF中纳入流动性质押代币](https://www.sec.gov/files/ctf-written-letter-sec-07312025.pdf) - 📰 null - 【Jito Labs等机构联名致信SEC敦促在Solana ETF中纳入流动性质押代币】金色财经报道，Jito Labs、Bitwise、Multicoin Capital、VanEck 以及 Solana Policy Institute 于 7 月 31 日向美国证券交易委员会 (SEC) 提交公开信，建议在交易所交易产品 (ETP) 中采用流动性质押代币 (LST) 作为质押机制。该建议特别针对今年 6 月提交的 8 份 Solana ETF 申请及 6 月 25 日提交的额外申请。
-- [Bitmine披露持仓：持有62.5万枚ETH和92枚BTC](https://x.com/BitMNR/status/1950935430666338700) - 📰 null - 【Bitmine披露持仓：持有62.5万枚ETH和92枚BTC】金色财经报道，Bitmine 发推表示，其持有 62.5 万枚 ETH 和 92 枚 BTC。
-- [比特币鲸鱼过去4个月累计囤积比特币总流通量的1%](https://decrypt.co/332924/bitcoin-whales-1-percent-circulating-btc-supply) - 📰 null - 【比特币鲸鱼过去4个月累计囤积比特币总流通量的1%】金色财经报道，根据加密市场分析平台 Santiment 的数据，持有 10 至 10,000 枚比特币鲸鱼地址在过去四个月内累计囤积了总供应量的 0.9%。考虑到目前流通中的比特币数量为 19,899,417 枚，这一比例实际上升至 1%。因为还有一部分尚未被挖出的比特币（总供应量为 2100 万枚）。 
-链上分析师 Ali Martinez 表示，仅在过去 48 小时内，比特币鲸鱼就累计增持了 3 万枚 BTC。
+- [数据：Figma 创始人 Dylan 持有超过 170 万美元AGLD 代币](https://intel.arkm.com/explorer/address/0x450638DaF0CAeDBdd9F8cb4A41Fa1b24788b123e) - 📰 null - 【数据：Figma 创始人 Dylan 持有超过 170 万美元AGLD 代币】金色财经报道，据 Arkham 数据显示，Figma 创始人 Dylan 持有超过230 万枚 $AGLD 代币，价值 176 万美元，为该地址第一大持仓，除此以外该地址还持有 ETH, PEOPLE, 及 LOOT NFT。
+- [Coinbase CEO：曾尝试聘用Vitalik，但因美国移民政策未能如愿](https://x.com/brian_armstrong/status/1950581739174453251) - 📰 null - 【Coinbase CEO：曾尝试聘用Vitalik，但因美国移民政策未能如愿】金色财经报道，Coinbase首席执行官Brain Armstrong在X平台发文透露，曾在2013年美国圣何塞比特币会议上见过Vitalik Buterin，当时他正在为比特币杂志Bitcoin Magazine撰稿（他的文章写得很棒），几个月后邀请他来Coinbase位于旧金山的第一个办公室参观，他用笔记本电脑展示了一些很酷的东西，因此决定尝试聘请他，于是联系Vitalik Buterin，看看他是否有兴趣加入Coinbase，但由于一系列原因，包括他无法在美国获得工作签证，最终未能如愿，他不得不返回加拿大。Vitalik Buterin在加拿大滞留期间创建了以太坊，所以，从某种程度上来说，美国不完善的移民制度促成了以太坊的诞生。
+- [某鲸鱼地址3天前开设20倍ETH空单，目前浮盈370万美元]() - 📰 null - 【某鲸鱼地址3天前开设20倍ETH空单，目前浮盈370万美元】金色财经报道，据Lookonchain监测，0xCB92开头鲸鱼于3天前以20倍杠杆做空ETH，目前已浮盈370万美元。
+- [某鲸鱼地址50分钟前从Binance提现约75万枚LINK]() - 📰 null - 【某鲸鱼地址50分钟前从Binance提现约75万枚LINK】金色财经报道，据OnchainLens监测，某鲸鱼地址于50分钟前从Binance提现749,990枚LINK，价值1243万美元。
+- [SOL跌破170美元]() - 📰 null - 【SOL跌破170美元】金色财经报道，行情显示，SOL跌破170美元，现报169.99美元，24小时跌幅达到5.23%，行情波动较大，请做好风险控制。
+- [以太坊基金会再次向其内部地址转账1,000枚ETH，已连续四天操作](https://intel.arkm.com/explorer/entity/ethereum-foundation) - 📰 null - 【以太坊基金会再次向其内部地址转账1,000枚ETH，已连续四天操作】金色财经报道，据Arkham监测数据显示，大约13小时前，以太坊基金会再次向其内部地址转账1,000枚ETH（约合384万美元），历史记录显示以太坊基金会已连续四天执行类似操作，Arkham标记地址显示以太坊基金会转出地址目前持有约199195枚ETH，价值约合7.357亿美元。
+- [合约巨鲸AguilaTrades的40倍BTC多单已爆仓，4000万美元已全部亏损]() - 📰 null - 【合约巨鲸AguilaTrades的40倍BTC多单已爆仓，4000万美元已全部亏损】金色财经报道，据Onchainlens监测，随着比特币跌破115,000美元，合约巨鲸Aguila Trades的BTC（40倍）多头仓位已完全被清算，其存入HyperLiquid的所有资金（约4000万美元）已全部亏损，目前钱包内仅剩下86,000美元。
+- [BTC跌破115000美元]() - 📰 null - 【BTC跌破115000美元】金色财经报道，行情显示，BTC跌破115000美元，现报114982.01美元，24小时跌幅达到2.96%，行情波动较大，请做好风险控制。
+- [TON跌破3.5美元]() - 📰 null - 【TON跌破3.5美元】金色财经报道，行情显示，TON跌破3.5美元，现报3.49美元，24小时涨幅达到1.16%，行情波动较大，请做好风险控制。
+- [Pump.fun于近期注册子域名fee.pump.fun]() - 📰 null - 【Pump.fun于近期注册子域名fee.pump.fun】金色财经报道，据市场消息，Pump.fun 于近期注册了 fee.pump.fun 子域名，预示即将推出费用仪表板或基于交易量的激励计划。
+- [昨日REX-Osprey SOL现货ETF净流入210万美元]() - 📰 null - 【昨日REX-Osprey SOL现货ETF净流入210万美元】金色财经报道，据FarsideInvestors监测，昨日REX-Osprey SOL现货ETF净流入210万美元，上市后累计净流入达1.374亿美元。
+- [内幕交易者@qwatio于5小时前开设40倍BTC空单、25倍ETH空单，目前浮盈190万美元]() - 📰 null - 【内幕交易者@qwatio于5小时前开设40倍BTC空单、25倍ETH空单，目前浮盈190万美元】金色财经报道，据链上数据分析师余烬监测，5 小时前，内幕交易者@qwatio 将 298 万 USDC 转进 Hyperliquid，开设 BTC、ETH 空单，目前已有 190 万美元浮盈。@qwatio 本次开空已动用其本金，之间几次合约操作使用的是盈利，几乎已全部回吐。 
+今天转入的这笔资金已经是他最后的本金。目前其仓位情况：40x 空 1111 枚 BTC，价值 1.28 亿美元，开仓价 117297 美元，清算价 118333 美元；  25x 空 4141 枚 ETH，价值 1528 万美元，开仓价 3724 美元，清算价 4385 美元。
+- [分析师：市场对最新美国关税反应平淡，或早有预料]() - 📰 null - 【分析师：市场对最新美国关税反应平淡，或早有预料】金色财经报道，分析师Henderson表示，到目前为止，市场对最新关税的反应平淡，这可能表明投资者已经为这些事态发展做好了投资组合准备。市场波动相对有序。我们并没有看到投资者对美国股指期货和比特币等成长型资产做出急剧抛售，并转向美元和黄金等避险资产。（金十）
+- [特朗普将对加拿大的关税从25%提高到35%]() - 📰 null - 【特朗普将对加拿大的关税从25%提高到35%】金色财经报道，白宫表示，美国总统特朗普周四签署了一项行政命令，将美墨加协议未涵盖的所有加拿大商品的关税从25%提高到35%。根据白宫的一份情况说明书，为逃避新关税而转运到另一个国家的货物将被征收40%的转运税。白宫表示，增加关税是加拿大“持续不作为和报复”的结果。此前，特朗普告诉记者，加拿大总理卡尼在8月1日关税最后期限之前曾主动联系过，但两人之间并未进行任何对话。美国商务部长卢特尼克此前则表示，如果卡尼“开始采取更友好的态度，并且停止报复行动”，特朗普可能会重新考虑关税政策。(金十)
+- [过去12小时全网爆仓2.91亿美元，主爆多单]() - 📰 null - 【过去12小时全网爆仓2.91亿美元，主爆多单】金色财经报道，据Coinglass数据显示，过去12小时全网爆仓2.91亿美元，全球共有110,469人被爆仓，其中多单爆仓2.72亿美元，空单爆仓1982.2万美元。
+- [香港稳定币牌照申请窗口开启，发钞行有望抢占先机]() - 📰 null - 【香港稳定币牌照申请窗口开启，发钞行有望抢占先机】金色财经报道，8月1日，香港《稳定币条例》正式生效。记者获悉，中国银行(香港)、渣打银行(香港)等香港特区发钞行是其中不可或缺的主体，无论是出于自身发展需要，还是顺应监管推动，大概率会率先申请稳定币发行人牌照。此外，中资银行、沙盒测试企业、大型央国企以及拥有支付牌照的互联网大厂都跃跃欲试。而证券公司在初期将更多承担稳定币的交易、托管、融资、咨询等业务，并提供传统资产代币化相关的数字资产配置服务。目前，已有44家券商等机构升级了虚拟资产交易牌照，相比6月末新增了3家。(证券时报)
+- [以太坊财库公司 The Ether Machine 增持约 1.5 万枚 ETH，约合 5700 万美元]() - 📰 null - 【以太坊财库公司 The Ether Machine 增持约 1.5 万枚 ETH，约合 5700 万美元】金色财经报道，据官方公告，以太坊财库策略公司 The Ether Machine 增持约 15000 枚 ETH，已经购买并承诺持有的 ETH 总量达到了 334,757 枚。官方表示，其剩余资金最高为 4.07 亿美元，可用于进一步购入 ETH。
+- [金色晨讯 | 8月1日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 8月1日隔夜重要动态一览】21:00-7:00关键词：SUI、Strategy、美SEC、Coinbase 
+1.Mill City在完成4.5亿美元私募后购买了7630万枚SUI； 
+2.多家公司提交了SOL ETF注册声明的修订版S-1文件； 
+3.美联储9月降息的概率为38.2%； 
+4.美SEC主席：将制定框架以允许加密证券和非加密证券并行交易； 
+5.Coinbase第二季度增持2,509枚BTC，营收15亿美元略低于预期； 
+6.Strategy二季度收入创历史新高，将募资42亿美元购买更多比特币。
+- [BTC跌破116000美元]() - 📰 null - 【BTC跌破116000美元】金色财经报道，行情显示，BTC跌破116000美元，现报115992.4美元，24小时跌幅达到1.26%，行情波动较大，请做好风险控制。
+- [Mill City在完成4.5亿美元私募后购买了7630万枚SUI](https://www.theblock.co/post/365147/short-term-lender-mill-city-buys-76-3-million-sui-after-closing-450-million-private-placement) - 📰 null - 【Mill City在完成4.5亿美元私募后购买了7630万枚SUI】金色财经报道，Mill City Ventures III 已正式设立 Sui 财库，该举措紧随 4.5 亿美元私募融资完成之后。Mill City 目前共持有 76,271,187 枚 SUI，平均购入价格为每枚 3.6389 美元，其中包括通过与 Sui 基金会签订的场外买卖协议进行的首次购入。此次私募的参与者包括Big Brain Holdings、Galaxy Digital，以及Pantera Capital、M2、Electric Capital和GSR等投资机构。
