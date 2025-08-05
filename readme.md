@@ -1,30 +1,39 @@
-- [Monad联合创始人：Monad共识客户端现已开源]() - 📰 null - 【Monad联合创始人：Monad共识客户端现已开源】8月5日消息，Monad联合创始人James在社交平台发文宣布Monad共识客户端现已开源，用户可以通过github链接进行访问。
-- [某巨鲸过去一天通过FalconX和Galaxy Digital囤积63,838枚ETH，约合2.32亿美元](https://x.com/EmberCN/status/1952541916408758520) - 📰 null - 【某巨鲸过去一天通过FalconX和Galaxy Digital囤积63,838枚ETH，约合2.32亿美元】金色财经报道，据链上分析师余烬监测，一个巨鲸/机构在过去一天里通过FalconX和Galaxy Digital囤积63,838枚ETH(2.32亿美元)。他们通过BitGo的"Wallet Factory"创建了3个地址，随后这3个地址从FalconX和Galaxy Digital共计收到63,838枚ETH(2.32亿美元)，均价3,640美元。
-- [比特币国库负责人David Bailey计划为新政治行动委员会筹集2亿美元](https://protos.com/bitcoin-treasury-chief-david-bailey-wants-200m-for-new-bitcoin-pac/) - 📰 null - 【比特币国库负责人David Bailey计划为新政治行动委员会筹集2亿美元】金色财经报道，比特币国库公司Nakamoto的负责人David Bailey宣布计划成立一个新的政治行动委员会（PAC），并打算筹集1亿至2亿美元的资金，以推动比特币的优先事项，并成为比特币选民平台的一部分。 
-Bailey表示，他希望该PAC以Nakamoto为基础，尽管目前Nakamoto只持有21枚比特币，但计划在8月11日之前购买数亿美元的比特币。Bailey已经筹集了约10亿美元用于投资比特币，此次新PAC的资金将用于影响2026年美国中期选举，其预算可能接近超级PAC总支出的4%。
-- [Coinbase与PayPal坚持发放稳定币奖励，回应《GENIUS法案》监管争议]() - 📰 null - 【Coinbase与PayPal坚持发放稳定币奖励，回应《GENIUS法案》监管争议】金色财经报道，Coinbase首席执行官Brian Armstrong在上周四的财报电话会议上表示，公司将继续向用户发放USDC持有奖励，并称该计划是吸引用户的重要差异化优势。尽管《GENIUS法案》禁止稳定币发行方支付利息或收益，Armstrong澄清称：“我们不是发行方，支付的也不是利息，而是奖励”。Coinbase目前向美国用户提供的USDC存款年化收益率为4.1%。该法案仅针对发行方，如USDC的发行方Circle，而未禁止交易平台提供奖励。一位参议院工作人员解释称，法案旨在防止稳定币被视为传统存款工具。此外，PayPal也在推进类似策略，为持有其稳定币PYUSD的用户提供3.7%的年化收益，以吸引更多客户。
-- [美股上市公司Unitronix Corp增持5.5枚比特币](https://www.prnewswire.com/news-releases/unitronix-corp-acquires-5-5-bitcoin-to-launch-strategic-treasury-mining-partnership-302520978.html) - 📰 null - 【美股上市公司Unitronix Corp增持5.5枚比特币】金色财经报道，美股上市公司Unitronix Corp宣布斥资逾60万美元增持5.5枚比特币以扩充该公司的比特币财库，此外还宣布建立战略比特币挖矿合作关系，将比特币作为长期宏观对冲工具。Unitronix Corp此前已发布加密货币投资组合策略，拟投资BTC、ETH、SOL和Meme币。
-- [分析：朝鲜黑客利用诱导运行恶意程序入侵系统，今年已窃取16亿美元加密货币](https://decrypt.co/333513/north-korean-fake-job-offers-cloud-systems-steal-billions-crypto) - 📰 null - 【分析：朝鲜黑客利用诱导运行恶意程序入侵系统，今年已窃取16亿美元加密货币】8月5日消息，根据Google Cloud与网络安全公司Wiz的研究，朝鲜黑客组织正通过虚假IT职位邀约渗透云系统，预计2025年已窃取价值16亿美元加密货币。研究显示，代号UNC4899的黑客团队（又称TraderTraitor，Jade Sleet或Slow Pisces）通过社交媒体假扮招聘方，诱使目标企业员工运行恶意程序，成功入侵谷歌云和AWS系统并劫持加密货币交易主机。Wiz表示，TraderTraitor代表的是某种类型的威胁活动，而非某个特定的团体，朝鲜支持的实体Lazarus Group、APT38、Blue Noroff和Stardust Chollima都是典型的TraderTraitor攻击的幕后黑手。 
-该攻击模式自2020年持续进化：早期使用JavaScript构建恶意加密应用，2023年引入开源代码漏洞利用，2024年重点针对交易所云基础设施实施攻击，包括造成日本DMM Bitcoin 3.05亿美元损失的入侵事件。专家指出，朝鲜黑客率先采用AI技术生成钓鱼邮件和恶意脚本，其攻击团队规模可能达数千人。
-- [Semler Scientific发布Q2财报：7月底BTC持有量达5,021枚，年收益率31.3%](https://www.prnewswire.com/news-releases/semler-scientific-reports-second-quarter-2025-financial-results-btc-holdings-of-5-021-and-btc-yield-of-31-3-ytd-through-july-31--2025--302521012.html) - 📰 null - 【Semler Scientific发布Q2财报：7月底BTC持有量达5,021枚，年收益率31.3%】金色财经报道，纳斯达克上市公司Semler Scientific发布截至2025年6月30日的第二季度财务业绩报告，其中指出：自第一季度以来该公司已购买约1.954 亿美元的比特币，截至2025年7月31日总持仓量达到5021枚比特币，价值已接近5.862亿美元并产生超过1.104 亿美元的未实现收益，年初至今实现BTC收益8400万美元，比特币收益率为31.3%。
-- [美SEC发布临时性稳定币会计处理指引]() - 📰 null - 【美SEC发布临时性稳定币会计处理指引】金色财经报道，据彭博社报道，美国证券交易委员会（SEC）正在在初步加密货币会计规则的基础上进一步推进，发布了一项新的工作人员指引，说明某些稳定币可以被视为现金处理。这项临时性指导出台之际，SEC正在制定针对加密证券的监管规则。在SEC主席PaulAtkins的领导下，委员会已开始逐步撤销一些更为严格的政策，包括此前被认为阻碍传统放贷机构进入加密市场的会计指引。根据最新指引，持有某些与美元挂钩的稳定币，如果这些稳定币具备有保障的赎回权，且价值锚定于另一类资产，则可以将其归类为现金等价物。
-- [Hyperliquid巨鲸异动：某巨鲸SOL空单大幅减仓扔浮亏2400万美元；两地址单日充值2500万USDC](https://t.me/HyperInsight) - 📰 null - 【Hyperliquid巨鲸异动：某巨鲸SOL空单大幅减仓扔浮亏2400万美元；两地址单日充值2500万USDC】金色财经报道，据HyperInsight监测，市场回暖过去24小时内，2巨鲸地址出现大额资金流转，其中： 
-0x9324A1开头地址巨鲸累计充值约391万USDC 
-0x5b5d51开头地址巨鲸累计充值约2201万USDC 
-衍生品持仓方面：0x4a207d2开头地址巨鲸将130.45枚BTC持仓由空单转为多单，清算价从20.1万美元大幅下调至5.6万美元； 
-同期该地址SOL空单持仓减少121,969.92枚，清算价上调至395.9美元，当前浮亏2422美元。
-- [Benchmark：Coinbase盈利疲软和股价下跌“从大局来看无关紧要”](https://www.theblock.co/post/365459/benchmark-coinbases-soft-earnings?utm_source=twitter&utm_medium=social) - 📰 null - 【Benchmark：Coinbase盈利疲软和股价下跌“从大局来看无关紧要”】金色财经报道，在加密交易所Coinbase披露其收入较上一季度下降26%后，该公司股价在周五暴跌超过15%。本财季的现货交易量和收入也出现下降。尽管交易员抛售该股，但一位分析师称，这份二季度财报“不过是个干扰”，掩盖了Coinbase正在打造一个完整加密生态系统的事实。 
-总收入同比下降26%，交易收入缩水39%，加密现货交易量较第一季度下跌超过30%。该季度的交易总量为2370亿美元，而2024年同期为2260亿美元。与此同时，Coinbase实现净利润14.3亿美元。 
-Benchmark分析师Mark Palmer在周一发给客户的报告中写道：“导致股价下跌的，是公司短期运营数据疲软的‘噪音’，而真正的‘信号’是其数字资产平台的各个组成部分正在逐步融合，为未来的收入增长奠定基础。因此，现在‘逢低买入’是非常合理的选择。”该机构列出了五个理由，建议交易员和投资者无视该股的下跌。
-- [Metaplanet 宣布开设官方周边商品在线商店 PlanetGear](https://x.com/Metaplanet_JP/status/1952524393227202691) - 📰 null - 【Metaplanet 宣布开设官方周边商品在线商店 PlanetGear】金色财经报道，据官方消息，Metaplanet 宣布正式开设官方周边商品在线商店 PlanetGear，致力于将比特币的哲学与文化融入现代生活方式设计，推出相关商品。 
-据介绍，PlanetGear 精选了体现 MetaPlanet 及 Bitcoin Magazine Japan 世界观的服饰、配饰及限定商品，旨在成为比特币文化与日常生活之间的桥梁。
-- [BTC跌破115000美元]() - 📰 null - 【BTC跌破115000美元】金色财经报道，行情显示，BTC跌破115000美元，现报114997.51美元，24小时涨幅达到0.78%，行情波动较大，请做好风险控制。
-- [英国一男子放弃在某垃圾填埋场寻回含有8000枚BTC的硬盘，目前价值约 9.2 亿美元](https://x.com/Cointelegraph/status/1952520060905324604) - 📰 null - 【英国一男子放弃在某垃圾填埋场寻回含有8000枚BTC的硬盘，目前价值约 9.2 亿美元】金色财经报道，据 Cointelegraph 披露，来自英国纽波特的 IT 工程师 James Howells 结束了长达 12 年的寻找，未能找回他认为埋藏在威尔士南部一个市政垃圾场内存有 8000 枚比特币（目前价值约 9.2 亿美元）的硬盘。
-- [ETH跌破3700美元]() - 📰 null - 【ETH跌破3700美元】金色财经报道，行情显示，ETH跌破3700美元，现报3699.34美元，24小时涨幅达到5.93%，行情波动较大，请做好风险控制。
-- [某诈骗者利用AI音频深度伪造和钱包窃取200万美元加密货币](https://protos.com/scammers-using-ai-tools-to-steal-crypto-via-deepfakes-and-wallet-drainers/) - 📰 null - 【某诈骗者利用AI音频深度伪造和钱包窃取200万美元加密货币】金色财经报道，诈骗者正在利用AI工具通过深度伪造和钱包清空器窃取加密货币。去中心化金融（DeFi）开发者Joey Santoro表示，他的一个朋友最近在一场复杂的深度伪造诈骗中损失了200万美元。 
-诈骗者使用了稳定币区块链Plasma创始人Paul Faecks的音频深度伪造，向Santoro的朋友推销顾问职位，并在通话中诱使受害者打开一个文件，从而获取了其密码和私钥。Santoro警告用户，应尽可能将加密货币与日常设备隔离。
-- [The ETF Store总裁：白宫正在准备一项行政命令，旨在惩罚歧视加密货币公司的银行](https://x.com/NateGeraci/status/1952518621638627564) - 📰 null - 【The ETF Store总裁：白宫正在准备一项行政命令，旨在惩罚歧视加密货币公司的银行】金色财经报道，The ETF Store总裁Nate Geraci在X平台发文表示，白宫正在准备一项行政命令，旨在惩罚那些歧视加密货币公司的银行。
-- [REX-Osprey SOL现货ETF昨日无净流量](https://farside.co.uk/sol/) - 📰 null - 【REX-Osprey SOL现货ETF昨日无净流量】金色财经报道，据Farside Investors数据显示，REX-Osprey SOL现货ETF昨日净流量为0。
-- [日本央行会议纪要：一些委员表示，一旦贸易问题稳定下来，日本央行可能会考虑恢复加息]() - 📰 null - 【日本央行会议纪要：一些委员表示，一旦贸易问题稳定下来，日本央行可能会考虑恢复加息】金色财经报道，日本央行会议纪要：一些委员表示，一旦贸易问题稳定下来，日本央行可能会考虑恢复加息。(金十)
-- [两新建钱包已囤积价值1.8357亿美元ETH](https://x.com/OnchainLens/status/1952515718559470029) - 📰 null - 【两新建钱包已囤积价值1.8357亿美元ETH】金色财经报道，据Onchain Lens监测，新创建的钱包正在大量积累以太坊（ETH）。0x86F开头地址从FalconX收到15,000枚ETH，价值约5591万美元。目前该钱包总计持有39,294枚ETH，价值约1.4645亿美元。0x55C开头地址从Galaxy Digital收到9968枚ETH，价值约3712万美元。
-- [马斯克今年身家蒸发750亿美元，首富宝座年内或易主]() - 📰 null - 【马斯克今年身家蒸发750亿美元，首富宝座年内或易主】金色财经报道，马斯克担任“政府效率部”负责人似乎对他的财富造成了比预期更大的打击。据彭博亿万富翁指数，截至目前，马斯克今年财富已缩水超过750亿美元，净资产降至约3570亿美元，远低于2024年底超4500亿美元的峰值。下滑主要源于他所持特斯拉13%股份的表现。特斯拉股价年内已下跌近20%。马斯克全球首富的领先优势已遭对手蚕食：甲骨文创始人拉里·埃里森和Meta CEO扎克伯格正在逼近。目前马斯克与埃里森身价差距仅剩约540亿美元。甲骨文凭借AI战略和云计算业务迎来爆发性增长，股价年内已涨逾50%，使得埃里森财富迅速飙升。若这一趋势持续，马斯克极有可能在年底前失去全球首富宝座。(金十）
+- [《GENIUS法案》通过以来收益型稳定币供应激增](https://cointelegraph.com/news/yield-bearing-stablecoin-supply-surges-after-genius-act) - 📰 null - 【《GENIUS法案》通过以来收益型稳定币供应激增】金色财经报道，据Cointelegraph报道，自7月《GENIUS稳定币法案》通过以来，收益型稳定币供应量激增。数据显示，最大的受益者是Ethena的USDe和Sky的USDS，这两种代币在各自协议中质押时能获得收益。 
+据DefiLlama数据，自7月18日起，USDe流通供应量增长了70%，达到94.9亿美元，使其市值排名所有稳定币中的第三位。同期，USDS 流通供应量上涨了 23%，接近48.1亿美元，市值位列第四。 
+分析公司Artemis联合创始人Anthony Yim表示：尽管《GENIUS法案》禁止在美国发行带收益的稳定币，但此类稳定币的供应量却大幅增长，成为“意外赢家”。CryptoQuant 研究主管 Julio Moreno表示，正是因为《GENIUS法案》禁止发行人直接向持有人提供收益，投资者才转向收益型稳定币或质押型稳定币来获取收益。
+- [Bitwise CIO：Uniswap当前市值偏低，规模相当于全球第400大金融服务公司](https://x.com/Matt_Hougan/status/1952494434811003103) - 📰 null - 【Bitwise CIO：Uniswap当前市值偏低，规模相当于全球第400大金融服务公司】金色财经报道，Bitwise CIO Matt Hougan表示，Uniswap当前60亿美元的市值似乎太小了。如果它是一家公司，将是全球第400大金融服务企业，大致相当于挪威的储蓄与保险公司Storebrand的规模。
+- [Capital B增持62枚BTC，目前总持有量达2,075枚](https://x.com/btcNLNico/status/1952610961489072450) - 📰 null - 【Capital B增持62枚BTC，目前总持有量达2,075枚】金色财经报道，据官方公告，欧洲上市公司Capital B增持62枚BTC，目前总持有量达2,075枚。
+- [4E：SharpLink Gaming增持18,680枚ETH，总持有量达498,884枚]() - 📰 null - 【4E：SharpLink Gaming增持18,680枚ETH，总持有量达498,884枚】8月5日消息，根据4E观察，SharpLink Gaming再度增持18,680枚以太坊，按当前市价约合6,663万美元，使其ETH总持仓达498,884枚，总估值超过18亿美元，进一步巩固其在以太坊生态中的“类微策略”地位。 
+与此同时，BTC Digital宣布将临时股东大会推迟至8月22日。此次会议将审议其全面转向以太坊的战略计划，包含清仓BTC、以ETH为核心资产的运营方向，或标志传统矿企迈入新一代链上企业的关键节点。 
+宏观政策方面，白宫拟签署行政命令，禁止银行基于政治或加密业务拒绝服务客户，并建议明确SEC与CFTC监管边界，助力建立成熟、透明的加密市场体系。 
+《福布斯》指出，随着Circle等加密企业推进IPO，原生项目将迎来资本加速注入周期，资金将向Layer1/2、基础设施和开发工具倾斜。分析人士提醒，加密生态正迈向制度化与金融主流融合，虽然山寨币暴涨难再，但主流资产将受益于资金与信心双重回流。 
+4E提醒投资者：在合规化与机构入场的大势下，关注长期价值资产、警惕短期波动，是布局新周期的核心逻辑。
+- [Peter Schiff：9月降息并非板上钉钉，通胀或将高于预期](https://x.com/PeterSchiff/status/1952456039527318008) - 📰 null - 【Peter Schiff：9月降息并非板上钉钉，通胀或将高于预期】金色财经报道，经济学家兼加密货币批评者Peter Schiff发推表示，9月降息并非板上钉钉，因为从现在到下次美联储会议之间公布的通胀数据可能会高于预期。市场因预期降息而上涨的事实，反而让降息的可能性更低。更强的通胀压力将压倒就业增长放缓的影响。
+- [Animoca Brands联创：计划在公开市场回购TOWER代币](https://x.com/ysiu/status/1952594292548972967) - 📰 null - 【Animoca Brands联创：计划在公开市场回购TOWER代币】金色财经报道，Animoca Brands联合创始人兼执行主席Yat Siu在X平台宣布：“我们公开承诺支持Tower生态系统，首批举措包括启动代币回购。Web3游戏领域充满活力，对链上经济发展至关重要。正如我们今年早些时候针对CTA的声明，我们将在公开市场购入TOWER代币。”
+- [英国男子James Howells否认放弃寻找丢失的8000枚BTC](https://www.theblock.co/post/365551/uk-man-denies-giving-up-lost-bitcoin) - 📰 null - 【英国男子James Howells否认放弃寻找丢失的8000枚BTC】金色财经报道，本周早些时候，社交媒体上出现多条帖子称英国纽波特的IT工程师James Howells已正式结束寻找丢失的8000枚BTC。James Howells在社交平台X上通过私信对The Block表示：“不，我并没有“放弃”。外界流传的故事部分属实，但并不是他们所描述的那样。” 
+Howells解释称，7月1日，他已向纽波特市议会的领导、法律团队及一名议员正式提出收购并开挖纽波特垃圾填埋场的要约，价值在3,300万至4,000万美元之间。为筹集收购资金，Howells曾宣布计划于10月推出一种基于Ordinals的代币，代表丢失钱包价值的21%。据Howells称，尽管报价金额可观，但纽波特方面并未对该要约作出回复或确认收到。所以情况就是这样，如果他们不卖，就没有必要通过代币销售来购买填埋场，我不再寻求购买该填埋场，不再推进挖掘或修复工作，也不再与市议会或其代表进行对话。 
+Howells表示，他只是“转变”了策略，但并未放弃找回丢失的比特币，因为他仍是这8,000枚BTC的合法所有人，并援引了今年1月的高等法院裁决为依据。市议会可能拥有这块硬盘，但他们并不拥有硬盘中的数字内容——这8,000枚比特币在法律上属于我，全球任何人都可以在任何时间验证其余额。Howells称，他现在计划将自己对丢失的8,000枚BTC的法律所有权代币化，发行一种名为CeiniogCoin（INI）的比特币二层智能代币，利用即将到来的网络升级，取消比特币交易中OP_RETURN操作码的80字节上限，从而释放更多功能空间。该代币预计在10月之后推出，并计划于今年晚些时候进行ICO。
+- [Binance将对以太坊主网、Polygon等网络USDC提现进行钱包维护]() - 📰 null - 【Binance将对以太坊主网、Polygon等网络USDC提现进行钱包维护】金色财经报道，据官方消息，Binance将于2025年08月06日15:00（东八区时间）对Ethereum（ETH）、Polygon（POL）、Arbitrum（ARB）、Base（BASE）和Optimism（OP）的USDCoin（USDC）提现业务进行钱包维护。为支持此次维护，Binance将于2025年08月06日15:00（东八区时间）暂停Ethereum（ETH）、Polygon（POL）、Arbitrum（ARB）、Base（BASE）和Optimism（OP）的USDCoin（USDC）的提现业务。维护预计需要2小时，维护完成后将自动恢复提现业务。
+- [印度上市公司Jetking完成1.15亿卢比募资并计划五年内将比特币持仓增至1.8万枚](https://financefeeds.com/jetking-infotrain-becomes-first-indian-public-company-to-build-bitcoin-treasury/) - 📰 null - 【印度上市公司Jetking完成1.15亿卢比募资并计划五年内将比特币持仓增至1.8万枚】金色财经报道，印度上市公司Jetking Infotrain宣布建立比特币财库战略后公布持仓目标，该公司将在2025年底积累210枚比特币，到2030年将比特币持仓量增至1.8万枚。据悉，Jetking Infotrain已经以每股250卢比的价格发行46万股普通股，筹集1.15亿卢比，该公司此前以每枚约110,957美元的价格购入5.9835枚比特币，总支出约663,911美元，当前比特币持有量为21枚。不过，印度对加密货币的监管环境较为严格，加密资产收益需缴纳30%税费，每笔交易需缴纳1%的预扣税 (TDS)。
+- [Thomas Lee：ETH仍将是未来10至15年最大的宏观趋势之一](https://x.com/fundstrat/status/1952379337799348466) - 📰 null - 【Thomas Lee：ETH仍将是未来10至15年最大的宏观趋势之一】金色财经报道，BitMine董事会主席Thomas Lee发推表示，BMNR目前持有833,133枚ETH，价值30亿美元，系全球最大的ETH财库、全球第三大加密货币财库。 
+随着华尔街将区块链金融化，以及人工智能推动机器人资产代币化，ETH仍将是未来10至15年最大的宏观趋势之一。
+- [国际汇款服务公司Remitly将采用稳定币来增强其国际汇款能力](https://www.crowdfundinsider.com/2025/08/247228-global-fintech-remitly-to-leverage-stablecoins-for-cross-border-payments/) - 📰 null - 【国际汇款服务公司Remitly将采用稳定币来增强其国际汇款能力】金色财经报道，据Crowdfundinsider报道，总部位于美国西雅图的数字汇款服务公司Remitly宣布将采用稳定币来增强其国际汇款能力。该公司计划通过区块链技术为其覆盖超过170个国家的客户提供更快速、更具成本效益的跨境支付解决方案。 
+公司首席执行官Matt Oppenheimer在2025年摩根大通会议上表示，这是公司提升客户体验和运营效率整体战略的一部分。
+- [数据：加密市场资金流入过去五天减少100亿美元](https://x.com/ali_charts/status/1952578558993600982) - 📰 null - 【数据：加密市场资金流入过去五天减少100亿美元】金色财经报道，据链上分析师@ali_charts监测，加密市场的资金流入过去五天减少100亿美元。
+- [彭博分析师：自现货比特币ETF推出以来其波动率大幅下降，目前已不到黄金的两倍](https://x.com/EricBalchunas/status/1952346941523701954) - 📰 null - 【彭博分析师：自现货比特币ETF推出以来其波动率大幅下降，目前已不到黄金的两倍】金色财经报道，彭博ETF高级分析师Eric Balchunas在社交媒体发文表示，“自现货比特币ETF上市以来，其波动率已大幅下降。90日滚动波动率首次跌破40，而ETF上市时曾高于60。为了对比，结合了GLD的数据，比特币波动率现在不到黄金的2倍，而过去曾超过3倍。”
+- [金色午报 | 8月5日午间重要动态一览]() - 📰 null - 【金色午报 | 8月5日午间重要动态一览】7:00-12:00关键词：Bitsonic、Coinbase、白宫 
+1.特朗普发文庆祝美股大涨：这样的上涨还会有很多； 
+2.韩国加密货币交易所Bitsonic代表因涉嫌1亿韩元诈骗案再次入狱； 
+3.Coinbase CEO：美国政府将持有超过6000亿美元的比特币储备； 
+4.Benchmark：Coinbase盈利疲软和股价下跌“从大局来看无关紧要”； 
+5.Coinbase与PayPal坚持发放稳定币奖励，回应《GENIUS法案》监管争议； 
+6.Bitcoin Magazine CEO David Bailey计划为新政治行动委员会筹集2亿美元； 
+7.The ETF Store总裁：白宫正在准备一项行政命令，旨在惩罚歧视加密货币公司的银行。
+- [Grok Imagine已上线Grok iOS应用程序](https://x.com/elonmusk/status/1952511344869302739) - 📰 null - 【Grok Imagine已上线Grok iOS应用程序】金色财经报道，马斯克发推表示，Grok Imagine已上线iOS Grok应用程序，并即将上线Grok安卓应用程序。 
+Grok Imagine新功能包括：文本到视频生成（用户可以通过文本提示快速创建带声音的短视频，长度上限为6秒）、图像到视频转换（可将静态图像转化为动态视频，支持动画艺术品、雕塑或其他图片）等。
+- [交易员：印度央行可能在当地现货市场开盘前抛售美元以支撑卢比]() - 📰 null - 【交易员：印度央行可能在当地现货市场开盘前抛售美元以支撑卢比】金色财经报道，交易员：印度央行可能在当地现货市场开盘前抛售美元以支撑卢比。(金十)
+- [Linea：未来几个月将上线原生收益，桥接ETH自动在主网质押](https://linea.build/blog/introducing-native-yield-sustainable-defi-rewards-from-bridged-eth?utm_source=twitter&utm_medium=social&utm_campaign=cmp-3554811-afbf08) - 📰 null - 【Linea：未来几个月将上线原生收益，桥接ETH自动在主网质押】金色财经报道，Linea表示，其未来几个月将上线原生收益，桥接至Linea的ETH未来将通过Lidov3自动在以太坊主网进行质押。生成的质押奖励将回流至Linea生态系统分配给流动性提供者，资助流动性计划并放大收益。
+- [美国现货以太坊ETF昨日净流出4.6577亿美元]() - 📰 null - 【美国现货以太坊ETF昨日净流出4.6577亿美元】金色财经报道，据TraderT监测，美国现货以太坊ETF昨日净流出4.6577亿美元。
+- [某交易者3个月前花费2.28万美元买入2786万枚TROLL，目前浮盈超100倍](https://x.com/lookonchain/status/1952565633180385532) - 📰 null - 【某交易者3个月前花费2.28万美元买入2786万枚TROLL，目前浮盈超100倍】金色财经报道，据Lookonchain监测，某交易者3个月前花费2.28万美元购买了2786万枚TROLL，然后以16.2万美元的价格卖出了128万枚TROLL，目前仍持有2657万枚TROLL（248万美元）。随着TROLL近期的飙升，他的仓位浮盈超100倍，利润接近248万美元。
+- [韩国加密货币交易所Bitsonic代表因涉嫌1亿韩元诈骗案再次入狱](https://www.digitalasset.works/news/articleView.html?idxno=28865) - 📰 null - 【韩国加密货币交易所Bitsonic代表因涉嫌1亿韩元诈骗案再次入狱】金色财经报道，据DigitalAsset报道，韩国加密货币交易所Bitsonic代表因涉及1亿元韩元的诈骗案被判处有期徒刑6个月。此前，该代表已因另一起诈骗案被判处有期徒刑7年。 
+此次诈骗涉及通过虚假公告诱导交易，人为抬高BitsonicCoin（BSC）的交易量和市值，从而骗取客户总计1.6亿元韩元。
