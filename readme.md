@@ -1,41 +1,21 @@
-- [Binance Alpha：INFINIT(IN)空投门槛200积分](https://x.com/binancezh/status/1953341841434132707) - 📰 null - 【Binance Alpha：INFINIT(IN)空投门槛200积分】金色财经报道，据官方公告，Binance Alpha及合约将上线INFINIT(IN)： 
-Alpha交易开放：2025年8月07日17:00(UTC+8)。 
-合约交易开放：2025年8月07日18:30(UTC+8)。 
-交易开始后，持有至少200个Alpha积分的用户可申领500个IN代币空投。先到先得，直至空投池领取完毕或活动结束。
-- [黑客将诈骗合约伪装成加密交易Bot，并通过YouTube视频进行传播](https://www.sentinelone.com/labs/smart-contract-scams-ethereum-drainers-pose-as-trading-bots-to-steal-crypto/?utm_medium=paid-search&utm_source=google&utm_campaign=amer-us-brand&utm_term=sentinelone) - 📰 null - 【黑客将诈骗合约伪装成加密交易Bot，并通过YouTube视频进行传播】金色财经报道，网络安全公司SentinelLABS发布公告称，其发现了一系列加密货币骗局，其中黑客将伪装成交易机器人的恶意智能合约进行传播，以窃取加密用户钱包。 
-黑客通过YouTube视频进行营销，视频解释了加密交易机器人的本质，以及如何在 Remix Solidity 编译器平台（一个基于Web的Web3项目集成开发环境 (IDE)）上部署智能合约。视频说明分享了一个指向托管武器化智能合约代码的外部网站的链接。同时，攻击者会管理YouTube评论区，删除所有负面评论。 
-受害者部署智能合约后，攻击者的钱包会被添加，并通过伪装成交易地址来隐藏。当用户为合约充值后，诈骗者便可以盗取资金。
-- [英国采矿公司ECR Minerals宣布采用比特币财库策略](https://x.com/btcNLNico/status/1953337236709151208) - 📰 null - 【英国采矿公司ECR Minerals宣布采用比特币财库策略】金色财经报道，据英国上市公司ECR Minerals plc(LON:ECR)公告披露，公司董事会已通过比特币和数字资产财务管理政策。根据该政策，ECR将通过其全资子公司ECR Digital Limited持有部分数字资产储备。 
-政策规定，公司将把不超过50%的黄金生产自由现金流用于购买比特币作为长期储备。此外，公司最多可将50%的盈余现金用于比特币投资。政策还允许公司在50%配置额度内将最多15%投资于以太坊等可产生收益的数字资产。
-- [4E：64家财库公司共持超300万枚ETH，ETH交易活跃度逼近历史高位](https://x.com/4E_Global/status/1953337748682879228) - 📰 null - 【4E：64家财库公司共持超300万枚ETH，ETH交易活跃度逼近历史高位】8月7日消息，据4E观察，根据StrategicETHReserve数据，截至8月6日，64家持仓超100枚ETH的机构共持有约304万枚ETH，占总供应量2.52%，总价值约108.7亿美元。Bitmine（83.31万枚）、SharpLink Gaming（52.19万枚）和The Ether Machine（34.54万枚）位居前三。以太坊链上活跃度持续提升。Etherscan显示，昨日ETH日交易量升至187万笔，逼近历史高点。Nansen显示，USDC、Tether与Uniswap活跃交易是主因。DappRadar分析称，《GENIUS法案》提供监管清晰度，提升了稳定币流通信心。 
-美国SEC亦批准Lido和Jito等流动性质押协议豁免证券监管，为DeFi质押服务奠定合规基础。宏观方面，美联储官员暗示9月可能降息，美元走软。渣打银行称ETH资金管理公司优于现货ETF，BitwiseCIO指出机构与政府已开始探讨将BTC纳入储备体系。 
-4E提醒投资者：当前政策与市场双轮驱动，建议关注链上数据与政策变化，稳中求进，做好风险防控。
-- [日本时尚品牌ANAP增持82.33枚BTC，总持仓增至约913.45枚](https://x.com/btcNLNico/status/1953335079146496313) - 📰 null - 【日本时尚品牌ANAP增持82.33枚BTC，总持仓增至约913.45枚】金色财经报道，据官方公告，日本时尚品牌ANAP Holdings披露增持约82.338枚BTC，目前共持有约913.45枚比特币。
-- [韩国线上银行KakaoBank正“积极考虑”在稳定币发行和托管方面的角色](https://www.coindesk.com/policy/2025/08/07/with-cbdc-plans-dead-kakaobank-joins-korea-s-stablecoin-gold-rush) - 📰 null - 【韩国线上银行KakaoBank正“积极考虑”在稳定币发行和托管方面的角色】金色财经报道，韩国线上银行KakaoBank首席财务官Kwon Tae-hoon在周二的上半年财报电话会议上表示，该公司正在“积极考虑”在稳定币发行和托管方面的角色，参与方式与该国不断变化的数字资产政策保持一致。 
-“我们计划根据市场变化积极参与，”Kwon 表示，并补充说 KakaoBank 的内部工作组正在与 Kakao 的其他部门合作巩固战略。
-- [曹操出行日内涨超20%，昨日宣布将探索RWA、稳定币支付与合规数字货币发行]() - 📰 null - 【曹操出行日内涨超20%，昨日宣布将探索RWA、稳定币支付与合规数字货币发行】8月7日消息，据行情信息，曹操出行日内涨超20%，现报价59.25港元。 
-昨日消息，曹操出行与胜利证券达成合作，探索RWA、稳定币支付与合规数字货币发行。
-- [HashFlare创始人因5.77亿美元欺诈案面临10年监禁，而美方要求判刑10年](https://cointelegraph.com/news/hashflare-founders-want-time-served-us-wants-10-years-prison) - 📰 null - 【HashFlare创始人因5.77亿美元欺诈案面临10年监禁，而美方要求判刑10年】金色财经报道，已倒闭的加密矿业服务公司 HashFlare 的两位联合创始人，在承认电信欺诈后，请求美国法官不要判处他们额外的监禁时间；但检察官认为，他们因策划了一场价值5.77亿美元的庞氏骗局，应被判处十年监禁。 
-在周三提交给西雅图联邦法院法官罗伯特·拉斯尼克（Robert Lasnik）的量刑备忘录中，检察官表示，谢尔盖·波塔彭科（Sergei Potapenko）和伊万·图罗金（Ivan Turõgin）应各被判处10年监禁，因为他们犯下了“极其严重的罪行”，导致约3亿美元的受害者损失。
-- [OpenAI或将于北京时间明日凌晨发布GPT-5](https://m.cls.cn/detail/2108417) - 📰 null - 【OpenAI或将于北京时间明日凌晨发布GPT-5】金色财经报道，OpenAI官方账号今日在社交平台X上发文称，将于太平洋时间周四上午10点（北京时间周五凌晨1点）举办直播活动。值得注意的是，官方推文巧妙地将“LIVESTREAM”（意为网络直播）一词的字母“S”替换为数字“5”，让人不禁联想到此前被大力宣传的GPT-5模型。
-- [近一个月参与质押的以太坊减少97,572枚，占流通比例微降0.1%](https://www.validatorqueue.com/) - 📰 null - 【近一个月参与质押的以太坊减少97,572枚，占流通比例微降0.1%】金色财经报道，据验证者队列追踪网站validatorqueue数据，近一个月参与质押的以太坊减少97,572枚，由7月9日的35,530,752枚降至目前的35,433,180枚，尽管7月25日出现骤减，但随后迅速回复至原先水平。对应的参与质押以太坊占整体流通比例由29.39%降至29.29%，整体保持平稳。
-- [卡西欧美国公司宣布“G-SHOCK”与The Sandbox达成合作进军元宇宙市场](https://www.stocktitan.net/news/CSIOY/g-shock-enters-the-metaverse-with-the-sandbox-6giyq6swmwer.html) - 📰 null - 【卡西欧美国公司宣布“G-SHOCK”与The Sandbox达成合作进军元宇宙市场】金色财经报道，卡西欧美国公司宣布旗下手表品牌“G-SHOCK”与The Sandbox达成合作进军元宇宙市场，G-SHOCK拟于今年9月推出互动游戏、独家头像投放和限量版NFT、以及虚拟游乐场“G-SHOCK City”。
-- [Adam Back确认并未抛售比特币财库公司Sequans股份](https://x.com/adam3us/status/1952028451843489842) - 📰 null - 【Adam Back确认并未抛售比特币财库公司Sequans股份】金色财经报道，比特币先驱、Blockstream创始人Adam Back在X平台发文回应社区质疑时表示，自己并没有抛售比特币财库公司Sequans的股份，根据公开信息显示，目前Adam Back持有大约5.76%的Sequans公司股份，他此前还投资了欧洲上市公司The Blockchain Group以推进企业比特币财库战略。
-- [DMG Blockchain：7月挖矿产出26枚BTC，比特币储备持仓达307枚](https://www.globenewswire.com/news-release/2025/08/07/3128854/0/en/DMG-Blockchain-Solutions-Announces-Preliminary-July-Operational-Results-Treasury-Update-Launch-of-Blockseer-Explorer.html) - 📰 null - 【DMG Blockchain：7月挖矿产出26枚BTC，比特币储备持仓达307枚】金色财经报道，上市比特币矿企DMG Blockchain Solutions发布7月初步运营结果报告，其中披露该公司7月挖矿产出为26枚BTC（较6月23枚BTC有所增长），由于上月出售部分BTC支付运营费用和偿还Sygnum银行贷款，截至七月末的比特币储备持仓达到307枚，此外该公司已宣布探索数字资产财库战略，计划收购除BTC之外的其他数字资产。
-- [特朗普：下一任美联储主席的面试程序已开始，3位候选者均来自华尔街](https://x.com/Cointelegraph/status/1953305169971539986) - 📰 null - 【特朗普：下一任美联储主席的面试程序已开始，3位候选者均来自华尔街】金色财经报道，特朗普表示，下一任美联储主席的面试程序已经开始，目前候选人名单已确定为三名，并补充说他们都来自华尔街。
-- [英国加密投资者点赞监管变化 称其为“关键时刻”]() - 📰 null - 【英国加密投资者点赞监管变化 称其为“关键时刻”】金色财经报道，监管改革让英国散户投资者更容易接触到加密货币，这被业内人士誉为市场的“关键时刻”。英国金融市场行为监管局上周决定解除向散户投资者提供加密货币交易所交易产品的禁令，这一决定甚至被比作上世纪80年代的英国金融大改革（Big Bang）。加密货币交易所交易产品发行人21Shares的首席执行官拉塞尔•巴洛表示：“这意义重大，在某种程度上，它可以被视为英国金融市场在更广泛地接受和采用数字资产方面发生巨变的第一步。”WisdomTree数字资产研究主管Dovile Silenskyte表示，英国零售禁令的结束“标志着数字资产更广泛地融入金融体系的关键时刻”。（英国金融时报）
-- [PeckShield：谷歌搜索“Aave”排名首位的结果为钓鱼网站](https://x.com/PeckShieldAlert/status/1953306121172652386) - 📰 null - 【PeckShield：谷歌搜索“Aave”排名首位的结果为钓鱼网站】金色财经报道，据PeckShield监测，一则假冒去中心化借贷协议Aave的钓鱼广告出现在谷歌搜索结果的首位，请勿进行交互。 
-建议用户在访问Web3网站时务必验证网址的真实性，以防止遭受钓鱼攻击。
-- [Magic Eden：第二季空投已发放完毕](https://x.com/MagicEden/status/1953304311431135445) - 📰 null - 【Magic Eden：第二季空投已发放完毕】金色财经报道，Magic Eden在X平台发文表示，第二季空投已发放完毕，如果要查看空投结果需转到Magic Eden网站上的奖励选项卡。
-- [金色午报 | 8月7日午间重要动态一览]() - 📰 null - 【金色午报 | 8月7日午间重要动态一览】7:00-12:00关键词：币安、质押、以太坊财库 
-1.美副总统：我是比特币持有者； 
-2.特朗普：对等关税将于今晚午夜生效； 
-3.币安更新8月储备金证明，BTC储备比率为102.96%； 
-4.美SEC委员：新流动性质押声明或无法反映实际情况； 
-5.韩国金融监督委员会开展虚拟资产立法第二阶段研究； 
-6.美联储探讨使用黄金储备估值收益为比特币战略储备提供资金； 
-7.以太坊财库公司与以太坊现货ETF自六月初以来均买入ETH总供应量的约1.6%。
-- [因消息泄露，在美副总统官邸举行的爱泼斯坦案讨论会取消]() - 📰 null - 【因消息泄露，在美副总统官邸举行的爱泼斯坦案讨论会取消】金色财经报道，知情人士透露，在消息泄露后，在美国副总统万斯官邸举行的高级政府官员晚宴被取消，该晚宴讨论的话题包括特朗普政府对爱泼斯坦案的应对方法。万斯的发言人表示，他们未曾计划举行CNN曝光的这一晚宴。万斯的发言人威廉·马丁说：“从来没有在副总统官邸安排过讨论爱泼斯坦案应对策略的会议。”数周来，特朗普政府一直在努力减轻爱泼斯坦案的政治影响。特朗普曾承诺，如果再次当选总统，他将公开爱泼斯坦案有关的文件。然而今年7月，司法部表示，爱泼斯坦客户名单并不存在，这激怒了特朗普的支持者，他们要求公布更多细节。(金十)
-- [币安更新8月储备金证明，BTC储备比率为102.96%]() - 📰 null - 【币安更新8月储备金证明，BTC储备比率为102.96%】金色财经报道，币安更新8月储备金证明，BTC储备比率为102.96%；USDT储备比率为102.27%；ETH储备比率为100.67%；BNB储备比率为111.74%。 
-同时，对比7月储备报告，Binance 8月储备中以太坊净增持30,475枚，按照现价3662美元计算，价值约合1.116亿美元。 
-值得注意的是，Binance 6月储备报告显示，其当月大幅减持以太坊储备。此外，Binance本月较上月还净增持了约3087枚比特币。
+- [比特币哈希率持续上升，创历史新高]() - 📰 null - 【比特币哈希率持续上升，创历史新高】金色财经报道，据@cryptounfolded发布图表称，比特币哈希率持续上升，创历史新高。
+- [白宫新闻秘书莱维特：特朗普将于今日签署关于401的命令]() - 📰 null - 【白宫新闻秘书莱维特：特朗普将于今日签署关于401的命令】金色财经报道，白宫新闻秘书莱维特：特朗普将于今日签署关于401的命令。
+- [加密货币概念股盘前走强]() - 📰 null - 【加密货币概念股盘前走强】金色财经报道，加密货币概念股盘前走强。Coinbase上涨2.9%，Bitfarms上涨3.1%，Strategy上涨1.6%。
+- [美国至8月2日当周初请失业金人数22.6万人，预期22.1万人]() - 📰 null - 【美国至8月2日当周初请失业金人数22.6万人，预期22.1万人】金色财经报道，美国至8月2日当周初请失业金人数22.6万人，预期22.1万人。
+- [过去24小时全网爆仓2.68亿美元 空单爆仓2.11亿美元]() - 📰 null - 【过去24小时全网爆仓2.68亿美元 空单爆仓2.11亿美元】金色财经报道，据Coinglass数据显示，过去24小时全网爆仓2.68亿美元，其中多单爆仓5691万美元，空单爆仓2.11亿美元，主爆空单。
+- [市场消息：Ripple将斥资2亿美元收购稳定币平台Rail]() - 📰 null - 【市场消息：Ripple将斥资2亿美元收购稳定币平台Rail】金色财经报道，市场消息：Ripple将斥资2亿美元收购稳定币平台Rail。
+- [美股上市公司 Genius Group 回购 100 万股股票](https://www.globenewswire.com/news-release/2025/08/07/3129200/0/en/Genius-Group-executes-buyback-of-one-million-shares-as-part-of-approved-20-share-buyback-mandate.html) - 📰 null - 【美股上市公司 Genius Group 回购 100 万股股票】金色财经报道，美股上市公司Genius Group Limited宣布，在过去三个交易日内，该公司在公开市场上以每股 1.15 美元的平均价格回购了 100 万股股票。
+- [Galaxy 旗下 GK8 推出 Lido stETH 托管服务](https://blog.lido.fi/gk8-galaxy-launches-custody-for-lido-steth/) - 📰 null - 【Galaxy 旗下 GK8 推出 Lido stETH 托管服务】8月7日消息，Galaxy 旗下机构级托管提供商 GK8 宣布推出 Lido stETH 托管服务。通过此次集成，GK8 客户可以使用 GK8 的托管技术（例如用于完全离线存储的 Impenetrable Vault 和快速交易签名的无限多方计算 uMPC) 安全地托管 stETH。
+- [SharpLink通过直接发行融资2亿美元，将用于扩充以太坊财库](https://x.com/SharpLinkGaming/status/1953428209351205352) - 📰 null - 【SharpLink通过直接发行融资2亿美元，将用于扩充以太坊财库】金色财经报道，SharpLink以每股19.50美元的价格，由四家全球机构投资者领投，通过直接发行融资2亿美元。这笔资金将用于扩充以太坊储备，预计全面部署后将超过20亿美元。
+- [Robinhood将上线ONDO现货交易]() - 📰 null - 【Robinhood将上线ONDO现货交易】金色财经报道，据官方公告，Robinhood 将上线 ONDO 现货交易。
+- [英特尔(INTC.O)盘前跌幅扩大至5%]() - 📰 null - 【英特尔(INTC.O)盘前跌幅扩大至5%】金色财经报道，英特尔(INTC.O)盘前跌幅扩大至5%。此前消息，美国总统特朗普表示，英特尔(INTC.O)首席执行官存在严重的利益冲突，必须立即辞职。这个问题没有其他解决办法。
+- [加密交易所Bit2Me获得3000万欧元融资，Tether Ventures领投](https://www.coindesk.com/business/2025/08/07/tether-leads-eur30m-investment-round-in-spanish-crypto-exchange-bit2me) - 📰 null - 【加密交易所Bit2Me获得3000万欧元融资，Tether Ventures领投】金色财经报道，Tether通过旗下Tether Ventures领投西班牙加密交易所Bit2Me 3000万欧元融资，获得少数股权。Bit2Me已获西班牙证券监管机构授权，成为首家获得欧盟MiCA牌照的西班牙语金融科技公司，并计划利用本轮资金扩大在拉美市场的布局，重点拓展阿根廷业务。现有股东包括Telefónica、BBVA和Unicaja等西班牙大型机构。交易具体持股比例及估值未披露。
+- [慢雾 CISO：加密钱包解决方案 HashiCorp Vault 被发现 0-Day 漏洞](https://x.com/im23pds/status/1953422659426853129) - 📰 null - 【慢雾 CISO：加密钱包解决方案 HashiCorp Vault 被发现 0-Day 漏洞】金色财经报道，据慢雾 CISO@im23pds称，加密货币行业钱包解决方案 HashiCorp Vault 被发现0-Day 漏洞，涉及身份验证和授权、远程代码执行等方面，请及时升级。
+- [比特币矿商 Greenidge 将以 390 万美元的价格出售密西西比州的工厂](https://www.theblock.co/post/365966/bitcoin-miner-greenidge-sell-mississippi-facility-3-9-million-usd-financial-strain-trump-tariffs?utm_source=twitter&utm_medium=social) - 📰 null - 【比特币矿商 Greenidge 将以 390 万美元的价格出售密西西比州的工厂】金色财经报道，纳斯达克上市的比特币矿商 Greenidge Generation 正在出售其位于密西西比的矿场，该矿场投入运营仅一年，原因是该公司的财务困境以及美国矿商普遍面临的严峻环境持续对其造成影响。 
+根据周三提交给美国证券交易委员会的 8-K文件，Greenidge 同意以约 390 万美元的价格将位于密西西比州哥伦布市占地 6.4 英亩的工厂（包括某些合同、采矿设备和其他商业资产）出售给 US Digital Mining Mississippi，该公司是其旗下上市公司美国矿业公司 LM Funding America 的附属实体。
+- [特朗普：英特尔CEO必须立即辞职]() - 📰 null - 【特朗普：英特尔CEO必须立即辞职】金色财经报道，美国总统特朗普：英特尔(INTC.O)首席执行官存在严重的利益冲突，必须立即辞职。这个问题没有其他解决办法。
+- [某巨鲸多次减仓ETH空单，目前仓位价值约9556万美元]() - 📰 null - 【某巨鲸多次减仓ETH空单，目前仓位价值约9556万美元】金色财经报道，据分析师余烬监测，[四战 ETH 75% 胜率鲸鱼] 的 7 万枚 ETH 空单遭受清算，并随着 ETH 的继续上涨，他多次止损减仓。 目前他的 ETH 空单仅剩余 2.5 万枚 (9556 万美元)，最新的清算价为 3,876美元。
+- [ZKsync社区发起拨款850万枚ZK提案，用于资助守护者运营](https://forum.zknation.io/t/tpp-x-zksync-guardians-funding-2024-2026/739) - 📰 null - 【ZKsync社区发起拨款850万枚ZK提案，用于资助守护者运营】8月7日消息，ZKsync守护者团队于2025年7月提交一项提案，计划从2024年9月至2026年9月两年间，拨付总计850万枚ZK代币，用于守护者的薪酬和管理开支。该提案将撤销现有尚未铸造的200万枚ZK限额铸币权限（V1），并启用新的850万枚ZK限额铸币权限（V2），由ZKsync守护者管理。其中，375万枚ZK用于2024-2025年度补偿，375万枚ZK用于2025-2026年度，另100万枚ZK用于行政开支。
+- [贝森特：特朗普已经说过他不会解雇鲍威尔]() - 📰 null - 【贝森特：特朗普已经说过他不会解雇鲍威尔】金色财经报道，美国财长贝森特：特朗普已经说过他不会解雇鲍威尔，特朗普对美联储这一机构非常尊重。
+- [美国财长：2026年关税收入有可能超过3000亿美元]() - 📰 null - 【美国财长：2026年关税收入有可能超过3000亿美元】金色财经报道，美国财长贝森特：贸易协议基本达成，美国2026年关税收入有可能超过3000亿美元。（金十）
+- [Cipher Mining第二季度营收4400万美元，净亏损4600万美元](https://www.globenewswire.com/news-release/2025/08/07/3129074/0/en/Cipher-Mining-Provides-Second-Quarter-2025-Business-Update.html) - 📰 null - 【Cipher Mining第二季度营收4400万美元，净亏损4600万美元】金色财经报道，Cipher Mining Inc.今天公布了其 2025 年第二季度的财务业绩，以及其运营和业务战略的最新情况。2025 年第二季度营收 4400 万美元，非公认会计准则调整后收益 3000 万美元。截至第二季度末，全矿机群的自挖矿能力约为 16.8 EH/s，预计到第三季度末将达到 23.5 EH/s。成功完成 1.725 亿美元可转换债券发行。2025 年第二季度净亏损 4600 万美元，即每股 0.12 美元，调整后收益 3000 万美元，即每股摊薄收益 0.08 美元
