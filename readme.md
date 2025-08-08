@@ -1,40 +1,29 @@
-- [英国上市公司The Smarter Web Company增持50枚比特币，总持仓量达2100枚](https://x.com/smarterwebuk/status/1953697848035303537) - 📰 null - 【英国上市公司The Smarter Web Company增持50枚比特币，总持仓量达2100枚】金色财经报道，据官方公告，英国上市公司The Smarter Web Company增持50枚比特币，总持仓量达2100枚。
-- [Binance Alpha将上线Fireverse（FIR），第一阶段空投积分门槛233分](https://x.com/binancezh/status/1953697971343962618) - 📰 null - 【Binance Alpha将上线Fireverse（FIR），第一阶段空投积分门槛233分】金色财经报道，据官方消息，Binance Alpha是首个上线Sidekick（K）的平台，Alpha交易将于2025年8月8日15:00（UTC+8）开始。 
-符合条件的用户可使用Alpha积分，在Alpha活动页面于交易开始后24小时内申领250个K代币空投。 
-Binance Alpha空投将分两阶段发放：第一阶段（前18小时）： 
-持有至少233个Alpha积分的用户可申领。第二阶段（后6小时）： 
-持有至少200个Alpha积分的用户可参与第二阶段空投，先到先得。 
-若活动未结束，则分数门槛将每小时自动降低15分。 
-申领空投将消耗15个币安Alpha积分。用户需在Alpha活动页面于24小时内确认申领，否则视为放弃领取空投。
-- [Peter Schiff：特朗普允许使用养老金投资加密货币，将加剧美国人储蓄远不足以支撑退休生活]() - 📰 null - 【Peter Schiff：特朗普允许使用养老金投资加密货币，将加剧美国人储蓄远不足以支撑退休生活】金色财经报道，经济学家兼加密货币批评者Peter Schiff发推表示，大多数美国人储蓄远不足以支撑退休生活。特朗普允许美国人用他们在401(k)账户中仅有的少量退休储蓄去投资比特币和其他加密货币，这只会让这个问题变得更加严重。
-- [受上线Bithumb影响，TREE短时上涨17%]() - 📰 null - 【受上线Bithumb影响，TREE短时上涨17%】8月8日消息，受上线Bithumb影响，TREE短时上涨触及0.499美元，涨幅达17%，现报价0.46美元。
-- [GreedyBear诈骗团伙将加密货币盗窃升级到“工业化规模”](https://cointelegraph.com/news/greedybear-scam-crypto-theft-industrial-scale-koi-security) - 📰 null - 【GreedyBear诈骗团伙将加密货币盗窃升级到“工业化规模”】金色财经报道，网络安全公司Koi Security表示，一个恶意行动通过数百个浏览器插件、网站和恶意软件，结合三种攻击方式，盗取了逾100万美元的加密货币。 
-Koi Security研究员Tuval Admoni周四表示，该公司将这一恶意团伙命名为“GreedyBear”，他们“重新定义了工业化规模的加密货币盗窃”。 
-“多数团伙会选择单一手段——比如专攻浏览器插件、或专注勒索软件、或运营钓鱼诈骗网站——但GreedyBear却说：‘为什么不三个都来？’结果还真的成功了，非常惊人。”Admoni说。 
-报告指出，GreedyBear所使用的攻击类型过去曾出现过，但如今网络犯罪分子正部署更复杂的多重骗局来瞄准加密用户。Admoni表示，这说明诈骗团伙已经不再“只想着小打小闹”。
-- [Bithumb新增Treehouse（TREE）韩元市场](https://feed.bithumb.com/notice/1649497) - 📰 null - 【Bithumb新增Treehouse（TREE）韩元市场】金色财经报道，据官方公告，Bithumb新增Treehouse（TREE）韩元市场。
-- [Visa首席执行官：加密货币将像“20世纪90年代的电子商务”一样蓬勃发展](https://x.com/pete_rizzo_/status/1953683842398552362) - 📰 null - 【Visa首席执行官：加密货币将像“20世纪90年代的电子商务”一样蓬勃发展】金色财经报道，Visa首席执行官表示，加密货币将像“20世纪90年代的电子商务”一样蓬勃发展，我们或许会在未来十年见证“大规模采用”。它即将到来。
-- [ETH突破3900美元]() - 📰 null - 【ETH突破3900美元】金色财经报道，行情显示，ETH突破3900美元，现报3900.23美元，24小时涨幅达到6.13%，行情波动较大，请做好风险控制。
-- [以太坊基金会执行董事：应更加关注Fusaka升级的任何潜在延迟](https://x.com/tkstanczak/status/1953685193317048558) - 📰 null - 【以太坊基金会执行董事：应更加关注Fusaka升级的任何潜在延迟】金色财经报道，以太坊基金会执行董事Tomasz K. Stańczak发推表示，“Glamsterdam升级（2026年第一季度/第二季度）可能会受到一些关注，但同时我们应该更加关注Fusaka升级（2025年第四季度）的任何潜在延迟。正如我多次说过的，如果我们无法实现始终如一地按时实现目标的协调水平，那么谈论以太坊的路线图和愿景就毫无意义。我知道一些非常有才华的人正在努力解决导致团队建议更改日期的问题。我希望看到大家普遍认同时间表非常重要。非常重要。”
-- [乌克兰央行行长：支持加密货币合法化，但其不应作为支付手段](https://cryptonews.com/news/ukraine-nbu-wants-crypto-legalization-not-as-legal-tender/?feed_id=18962&_unique_id=68958871c19f1) - 📰 null - 【乌克兰央行行长：支持加密货币合法化，但其不应作为支付手段】金色财经报道，据Cryptonews报道，乌克兰国家银行（NBU）行长Andriy Pyshnyy表示，支持加密货币合法化但不支持其作为支付手段。他强调，加密货币合法化不应削弱央行的货币政策工具有效性。 
-同时，Pyshnyy透露NBU正在测试数字货币（CBDC）架构模型，并正在为试点项目做准备。考虑到乌克兰的欧洲一体化进程，NBU 特别关注数字欧元项目的发展，目前已与欧洲央行、德国联邦银行、比利时国家银行、法国银行和新加坡金融管理局展开合作。
-- [数据：鲸鱼过去一个月内买入超180万枚ETH](https://x.com/ali_charts/status/1953686862058389615) - 📰 null - 【数据：鲸鱼过去一个月内买入超180万枚ETH】金色财经报道，据链上分析师@ali_charts监测，鲸鱼过去一个月内买入超180万枚ETH。
-- [白宫：特朗普总统即将就经济问题发表“重大”声明](https://x.com/Cointelegraph/status/1953553041556168988) - 📰 null - 【白宫：特朗普总统即将就经济问题发表“重大”声明】金色财经报道，白宫表示，特朗普总统即将就经济问题发表“重大”声明。
-- [Worksport比特币储备较去年12月翻倍，数字资产组合价值增长约15%]() - 📰 null - 【Worksport比特币储备较去年12月翻倍，数字资产组合价值增长约15%】金色财经报道，据官方公告，美股上市公司 Worksport（WKSP）宣布其比特币储备相较去年12月持有量已翻倍。自首次购买加密货币以来，其现有的数字资产组合—包括比特币和XRP—价值已增长约15%。
-- [价值约17.5亿美元ETH正排队退出以太坊PoS网络，同时约1.5亿美元ETH等待加入](https://www.validatorqueue.com/) - 📰 null - 【价值约17.5亿美元ETH正排队退出以太坊PoS网络，同时约1.5亿美元ETH等待加入】8月8日消息，据验证者队列追踪网站validatorqueue数据，当前以太坊PoS网络退出队列暂报445,845枚，价值约合17.5亿美元，近期峰值74.4万枚，退出等待时间约为7天18小时。 
-与此同时，排队等待加入网络的ETH约39,370枚，价值约合1.5亿美元，较近期峰值43.5万枚ETH已大幅下降。预计激活延迟约为16小时24分钟。
-- [某巨鲸近4日囤积171,015枚ETH，约合6.7亿美元](https://x.com/EmberCN/status/1953676880072388766) - 📰 null - 【某巨鲸近4日囤积171,015枚ETH，约合6.7亿美元】金色财经报道，据链上分析师余烬监测，某巨鲸已经通过6个地址在最近4天时间里囤积了171,015枚ETH，价值高达6.7亿美元。仅在过去1小时里他们就收到了23,424枚ETH(9165万美元)。 
-他们用0x0c3...40e地址通过BitGo创建钱包，然后从FalconX、Galaxy Digital和BitGo等机构业务平台购买并接收ETH。目前已经创建了6个钱包共计接收囤积了171,015枚ETH(6.7亿美元)，均价为3,669美元。
-- [摩根大通：预计美联储将在2025年9月开始降息三次，每次25个基点]() - 📰 null - 【摩根大通：预计美联储将在2025年9月开始降息三次，每次25个基点】金色财经报道，摩根大通表示，预计美联储将在2025年9月开始降息三次，每次25个基点，而此前的预测是12月降息一次。(金十)
-- [某巨鲸低卖高买3358枚ETH，价值约1285万美元](https://x.com/lookonchain/status/1953672575172968628) - 📰 null - 【某巨鲸低卖高买3358枚ETH，价值约1285万美元】金色财经报道，据Lookonchain监测，2天前，鲸鱼0x46DB在下跌期间恐慌性抛售5,504枚ETH（1981万美元），价格为3,599美元。今天，随着ETH反弹，该鲸鱼以3,828美元的价格买入了3,358枚ETH（1,285万美元）。
-- [澳大利亚Monochrome现货比特币ETF的BTC持仓升至969枚](https://x.com/MonochromeAsset/status/1953670310584336684) - 📰 null - 【澳大利亚Monochrome现货比特币ETF的BTC持仓升至969枚】金色财经报道，据官方公告，澳大利亚Monochrome现货比特币ETF（IBTC）披露截至8月5日持仓量已达到969枚比特币，持仓市值约为1.71亿澳元。
-- [币安与西班牙银行BBVA合作，允许客户将资产存于交易所以外](https://www.ft.com/content/b1f596c8-f823-42b9-b634-d0f749a3ccca) - 📰 null - 【币安与西班牙银行BBVA合作，允许客户将资产存于交易所以外】金色财经报道，据英国《金融时报》报道，币安正与西班牙对外银行（BBVA）合作，允许客户将资产托管在该银行而非交易所内。这是币安在2023年被美国当局处以43亿美元创纪录罚款后，为安抚投资者采取的新举措。西班牙第三大银行BBVA近期开始作为少数独立托管机构之一为币安提供服务。此举旨在缓解投资者对交易所安全性的担忧，特别是在2022年FTX破产事件后。BBVA的品牌认可度高于币安现有合作伙伴，可能增强用户信任。根据合作安排，交易者的资金将以美国国债形式存放在BBVA，币安则接受这些资产作为交易保证金。
-- [金色午报 | 8月8日午间重要动态一览]() - 📰 null - 【金色午报 | 8月8日午间重要动态一览】7:00-12:00关键词：以太坊市值、Vitalik、渣打银行 
-1.以太坊市值超越埃克森美孚； 
-2.NFT 7月交易额达5.3亿美元； 
-3.Gemini联创双胞胎兄弟已投资特朗普之子矿企； 
-4.渣打银行与安拟集团、香港电讯申请稳定币牌照； 
-5.Vitalik支持以太坊财库公司，但警告过度杠杆风险； 
-6.日本央行：若美关税影响有限，或于年底前重启加息； 
-7.美联储货币政策或更趋鸽派 亚盘盘初期金一度刷新历史新高； 
-8.以太坊基金会将为Roman Storm的法律辩护事宜再捐赠50万美元。
+- [Verb Technology完成5.58亿美元私募融资拟用于构建TON企业财库](https://www.globenewswire.com/news-release/2025/08/08/3130137/0/en/Verb-Technology-Company-Nasdaq-VERB-Successfully-Closes-558-Million-Private-Placement-to-Launch-First-Publicly-Listed-TON-Treasury-Strategy-Company-in-Partnership-with-Kingsway-Cap.html) - 📰 null - 【Verb Technology完成5.58亿美元私募融资拟用于构建TON企业财库】金色财经报道，纳斯达克上市公司Verb Technology Company宣布已通过发行约5870万股普通股募集5.58亿美元，Kingsway领投，Vy Capital、Blockchain.com、Ribbit Capital和Graticule (GAMA)、CMCC Global、Pantera、ParaFi Capital、Luxor Capital、Arrington Capital、Animoca、Kraken、Primitive Ventures等多家机构参投，该公司计划立即购买TON并将其作为公司的主要财务储备资产，此外该公司还计划更名为TON Strategy Co.。
+- [比特币登上今天《金融时报》的头版]() - 📰 null - 【比特币登上今天《金融时报》的头版】金色财经报道，据@BitcoinNewsCom称，比特币登上今天《金融时报》的头版。
+- [ARB、APT、SEI、STRK、IO本周解锁金额超1.2亿美元]() - 📰 null - 【ARB、APT、SEI、STRK、IO本周解锁金额超1.2亿美元】金色财经报道，据@Tokenomist_ai发布图表称，本周ARB、APT、SEI、STRK、IO迎来一次性代币大额解锁，解锁金额超1.2亿美元。 
+ARB（占流通供应量1.80%）——3863万美元 
+APT（占流通供应量 1.01%）——3031 万美元 
+SEI（占流通供应量0.96%）——1707万美元 
+STRK（占流通供应量 3.31%）——1605 万美元 
+IO（占流通供应量 5.44%）——608 万美元
+- [OpenAI创始人：OpenAI使用了更多合成数据来训练GPT-5]() - 📰 null - 【OpenAI创始人：OpenAI使用了更多合成数据来训练GPT-5】金色财经报道，OpenAI创始人Sam Altman：OpenAI使用了更多合成数据来训练GPT-5。
+- [REX Shares推出追踪加密资管公司Galaxy的交易所交易基金GLXU](https://www.businesswire.com/news/home/20250808299502/en/REX-Shares-and-Tuttle-Capital-Management-Launch-T-REX-2X-Long-GLXY-Daily-Target-ETF-CBOE-GLXU) - 📰 null - 【REX Shares推出追踪加密资管公司Galaxy的交易所交易基金GLXU】金色财经报道，投资管理公司Rex Shares宣布与Tuttle Capital Management共同推出追踪加密资管公司Galaxy的2倍杠杆交易所交易基金T-REX 2X Long Galaxy Digital Daily Target ETF。据悉，REX Shares多只加密货币ETF正在申请中，包括以太坊和SOL的质押型ETF、以及比特币企业财库可转换债券ETF等。
+- [以太坊网络上日交易量再创新高，超2021年峰值]() - 📰 null - 【以太坊网络上日交易量再创新高，超2021年峰值】金色财经报道，据@cryptounfolded发布图表称，以太坊网络上每日交易量再创新高，超过2021年峰值，主要是受稳定币和ETH储备推动的增长。
+- [某新创建的钱包从 Binance 提取 4,000 枚 ETH ，价值 1565 万美元]() - 📰 null - 【某新创建的钱包从 Binance 提取 4,000 枚 ETH ，价值 1565 万美元】金色财经报道，据链上分析师 Onchain Lens 监测，某新创建的钱包从 Binance 提取了 4,000 枚 ETH ，价值 1565 万美元，或将质押到Lido Finance。
+- [Animoca Brands战略投资Cool Cats Group](https://www.animocabrands.com/animoca-brands-and-affiliates-make-strategic-investment-in-cool-cats-group) - 📰 null - 【Animoca Brands战略投资Cool Cats Group】金色财经报道，据官方消息，Animoca Brands及其关联公司宣布战略投资Cool Cats Group，具体金额暂未披露，投资完成后，Animoca Brands和Coin Operated Group将拥有Cool Cats Group的多数股权。据悉，Animoca Brands将任命两名新董事会成员来推进NFT项目Cool Cats的发展：Animoca Brands联合创始人兼执行主席Yat Siu以及 Mocaverse和Moca Network项目负责人Kenneth Shek。
+- [消息人士：WLFI公司股票或将于WLFI代币流通之前上市](https://x.com/0xDylan_/status/1953776049160089899) - 📰 null - 【消息人士：WLFI公司股票或将于WLFI代币流通之前上市】8月8日消息，消息人士 @0xDylan_在 X 平台透露，「很快就会看到 WLFI 公司在美国股票上市的消息，（公司上市）甚至会在 WLFI 代币流通之前。」@0xDylan_还表示，USD1 积分（credits）或将可以获得 WLFI 代币空投。
+- [Core Scientific最大股东反对以全股票形式向CoreWeave出售，称该交易估值过低](https://www.prnewswire.com/news-releases/two-seas-capital-core-scientifics-largest-active-shareholder-announces-intention-to-vote-against-the-proposed-sale-to-coreweave-302524612.html#financial-modal 继续访问) - 📰 null - 【Core Scientific最大股东反对以全股票形式向CoreWeave出售，称该交易估值过低】金色财经报道，Core Scientific最大股东Two Seas Capital宣布将投票反对其以全股票形式出售给 CoreWeave 的交易，称该交易估值过低、结构缺陷严重。今年 7 月，CoreWeave宣布以全股票交易方式收购数字基础设施公司 Core Scientific。此次交易的每股价值为 20.40 美元。商定的换股比例意味着公司估值约为 90 亿美元。
+- [Vitalik：Visa在创立之初就具有与当今DAO相似的去中心化理念](https://x.com/VitalikButerin/status/1953782711807541727) - 📰 null - 【Vitalik：Visa在创立之初就具有与当今DAO相似的去中心化理念】金色财经报道，以太坊联合创始人Vitalik Buterin于8月8日在社交媒体发文，探讨了Visa公司的发展历程对现代去中心化自治组织（DAO）的启示。他指出，Visa在创立之初就具有与当今DAO相似的去中心化理念。然而如今很多人却将其视为压榨性或压迫性的机构。
+- [摩根大通：特朗普任命米兰为美联储理事将令收益率曲线趋陡]() - 📰 null - 【摩根大通：特朗普任命米兰为美联储理事将令收益率曲线趋陡】金色财经报道，摩根大通策略师表示，如果特朗普成功任命美联储关键成员，美国国债收益率曲线可能会从四年来的最高水平变陡。在特朗普选择经济顾问委员会主席斯蒂芬·米兰担任美联储理事后，美国5年期和30年期国债收益率之差在周四扩大。这一任命需要得到参议院的批准。“米兰一直认为，特朗普政府的贸易、移民和放松管制政策都是反通胀的，”以杰伊·巴里为首的摩根大通分析师在周四晚些时候发布的一份报告中写道。“在某种程度上，这支持了更为温和的美联储政策，也支持了今天下午出现的曲线趋陡。”
+- [TeraWulf 2025年第二季度收入为 4760 万美元](https://www.globenewswire.com/news-release/2025/08/08/3130060/0/en/TeraWulf-Reports-Second-Quarter-2025-Results.html) - 📰 null - 【TeraWulf 2025年第二季度收入为 4760 万美元】金色财经报道，比特币矿企TeraWulf Inc.今天公布了截至 2025 年 6 月 30 日的第二季度财务业绩。2025 年第二季度收入为 4760 万美元，而 2024 年第二季度为 3560 万美元。BTC 挖矿能力同比增长 45.5%，达到 12.8 EH/s。在 Lake Mariner 设施自采了 485 个比特币，而 2024 年第二季度为 699 个比特币。 
+截至2025年6月30日，公司持有9000万美元现金、现金等价物以及比特币。未偿还债务总额约为5亿美元，其中包括公司2030年到期、票息率为2.75%的可转换优先票据。截至2025年8月6日，TeraWulf已发行391,926,373股普通股。
+- [Exodus 宣布计划与 Superstate 合作创建普通股代币](https://www.globenewswire.com/news-release/2025/08/08/3130074/0/en/Exodus-Announces-Plan-to-Expand-Blockchains-for-its-Common-Stock-Tokens-with-Superstate.html) - 📰 null - 【Exodus 宣布计划与 Superstate 合作创建普通股代币】金色财经报道，加密货币平台Exodus Movement, Inc.宣布与Superstate达成合作，将在更多主要公共区块链上创建普通股代币，以数字形式代表Exodus的A类股份。Exodus计划利用Superstate的股票代币发行平台Opening Bell，该平台使公司能够在主要区块链上创建股票代币，首先从Solana开始，以数字形式代表股票股份。通过Opening Bell，Exodus将能够在其主要区块链上拥有普通股代币，以补充公司现有的基于Algorand的普通股代币，并推进在以太坊和其他领先区块链上发行普通股代币的计划。
+- [Bags平台创始人以79.3万美元竞得Dogwifhat原版针织帽](https://ord.city/auctions/original-dogwifhat-meme-hat) - 📰 null - 【Bags平台创始人以79.3万美元竞得Dogwifhat原版针织帽】金色财经报道，Bags平台创始人兼首席执行官Finn于8月8日以6.8个比特币（约79.3万美元）的价格，在比特币序号平台Ordcity成功竞得Dogwifhat模因币标志性实物针织帽。该针织帽由柴犬Achi的主人于2018年制作，是Dogwifhat模因币视觉形象的原始物件。
+- [Block美股盘前涨超9%，披露BTC总持仓达8692枚]() - 📰 null - 【Block美股盘前涨超9%，披露BTC总持仓达8692枚】金色财经报道，据RockFlow行情数据，美股盘前Twitter联创Jack Dorsey旗下支付平台BlockInc（XYZ）涨超9%，股价现报83.86美元。根据周四披露的最新季度财报，Block第二季度实现毛利润25.4亿美元，同比增长14%。Block增持108枚BTC，总持仓达8692枚。
+- [奥瑞德完成首期算力RWA发行，资产规模数千万元人民币](https://mp.weixin.qq.com/s/mJB8VHN9bJxdaftbzQJWcQ) - 📰 null - 【奥瑞德完成首期算力RWA发行，资产规模数千万元人民币】金色财经报道，8月8日，奥瑞德在蚂蚁数科的支持下成功完成基于AI服务器资产的RWA首期发行，资产规模数千万元人民币。该项目底层资产为奥瑞德子公司深圳市智算力数字科技有限公司持有的AI服务器，为全国首单算力资产RWA。在本次RWA发行过程中，合作双方对上链资产的合规性、收益质量及状况进行了严格筛选，确保资产的真实性和数据的可溯源性。 
+奥瑞德一方面依托蚂蚁链技术，完成AI服务器运营信息的技术上链，确保资产链上数据安全、透明和不可篡改，保障收益的透明度和可验证性；另一方面，本次RWA通过合规渠道在境外进行发行，有效吸引了境外资金，为跨境融资开辟了新的路径。
+- [分析：比特币的看涨期权需求已接近 118,000 美元](https://www.theblock.co/post/366147/crypto-markets-edge-higher-as-etf-inflows-return-policy-updates-and-ripple-case-closure-add-tailwinds?utm_source=twitter&utm_medium=social) - 📰 null - 【分析：比特币的看涨期权需求已接近 118,000 美元】金色财经报道，SoSoValue 的数据显示，周四美国现货比特币 ETF 净流入约 2.81 亿美元，其中贝莱德旗下 IBIT 领涨。此前，在连续四天资金流出后，周三资金有所回升。 
+BRN 研究主管Timothy Misir表示：“ETF 资金流入正在暂时回升，在短期波动性缓和的情况下提供了结构性支柱。”政策背景也变得明朗。特朗普总统签署了一项行政命令，指示劳工部和美国证券交易委员会为 401(k) 退休金计划中的数字资产铺平道路。他还单独签署了一项旨在遏制对加密货币友好型公司“不公平地去银行化”的命令，这些措施可能会扩大主流市场对受监管加密货币产品的获取。与此同时，美国证券交易委员会和瑞波币同意放弃各自的上诉，结束法律纠纷，保留先前的法院裁决，该裁决将某些机构销售与程序化销售区分开来。此次谈判将在更大范围内消除瑞波币和美国加密货币政策长期以来的悬而未决的问题。 
+Misir 指出，下行对冲仍然存在，但比特币的看涨期权需求已重建至接近 118,000 美元，以太币的看涨期权需求则达到 4,000 美元。
+- [BIO Protocol：质押功能现已锁定超过1亿枚BIO](https://x.com/BioProtocol/status/1953746535344115805) - 📰 null - 【BIO Protocol：质押功能现已锁定超过1亿枚BIO】金色财经报道，DeSci 协议 BIO Protocol 宣布，自 BIO 代币以及质押功能在以太坊主网上线以来，现已锁定超过 1 亿枚 BIO。此前消息，Coinbase 在以太坊网络上添加对 Bio Protocol (BIO) 的支持。
+- [港股上市公司金涌投资持有527枚ETH，均价约为3714.91美元]() - 📰 null - 【港股上市公司金涌投资持有527枚ETH，均价约为3714.91美元】金色财经报道，金涌投资 (01328.HK) 发布公告，截至公告日期，集团持有 527.2048 枚以太坊，总成本约 195.85 万美元，每个以太坊的平均成本约为 3714.91 美元。（智通财经）
