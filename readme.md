@@ -1,34 +1,39 @@
-- [Cosmos Health 完成 100 万美元 ETH 初始购买](https://www.globenewswire.com/news-release/2025/08/12/3131832/0/en/Cosmos-Health-Makes-Initial-1M-Ethereum-Purchase-Under-Digital-Asset-Treasury-Strategy.html) - 📰 null - 【Cosmos Health 完成 100 万美元 ETH 初始购买】8月13日消息，医疗保健集团 Cosmos Health Inc.（NASDAQ: COSM）宣布已开始购买以太坊（ETH），作为其数字资产储备战略的一部分。根据与美国机构投资者的 3 亿美元融资协议，Cosmos Health 完成了其初始 100 万美元的 ETH 购买。 
-公司首席执行官 Greg Siokas 表示：“我们很高兴通过这次首次购买开始构建我们的 ETH 储备。通过充分利用我们的融资设施，我们旨在将 Cosmos 打造成加密领域的强大力量。我们相信 ETH 具有强大的增值潜力，其被机构投资者的广泛采用、纳入 ETF、拟议中的退休计划中加密货币的扩展以及基于以太坊的企业应用的增加都增强了我们对这一战略举措的信心。”
-- [OpenEden 与纽约梅隆银行合作管理代币化的美国国债资产]() - 📰 null - 【OpenEden 与纽约梅隆银行合作管理代币化的美国国债资产】金色财经报道，RWA平台 OpenEden 与纽约梅隆银行（The Bank of New York Mellon Corporation，简称 BNY Mellon）达成合作，后者将为 OpenEden 旗舰代币化美国国债产品 TBILL 提供底层资产的管理与托管服务。 
-OpenEden 于周三宣布了这一合作，将华尔街规模最大、历史最悠久的托管机构之一引入不断增长的代币化国债市场。OpenEden 表示，TBILL 是首个获得穆迪（Moody’s）“A”评级、并由全球托管机构管理资产的代币化美国国债基金。
-- [某巨鲸20 倍杠杆做空以太坊已亏损超 2600 万美元](https://x.com/lookonchain/status/1955434886002774279) - 📰 null - 【某巨鲸20 倍杠杆做空以太坊已亏损超 2600 万美元】金色财经报道，据Lookonchain监测，地址为 0x8c58 的巨鲸以 20 倍杠杆做空以太坊（$ETH），已亏损超 2600 万美元。如果他未能及时追加保证金，当以太坊价格达到 5002.3 美元时，他将面临平仓。
-- [DeFi Developmen目前持有130万枚SOL，总价值近2.5亿美元](https://www.theblock.co/post/366674/solana-treasury-firm-defi-development-corp-estimates-it-earns-63k-per-day-in-sol-denominated-revenue-on-its-1-3m-token-stockpile?utm_source=twitter&utm_medium=social) - 📰 null - 【DeFi Developmen目前持有130万枚SOL，总价值近2.5亿美元】金色财经报道，DeFi Development Corp（DDC）周二发布股东信，披露公司目前持有超过130万枚SOL代币，总价值接近2.5亿美元。报告显示，公司仅在8月前两周就增持了4,500枚SOL。 
-DDC第二季度财务数据显示，季度收入为198万美元，同比增长395%；净利润达1,540万美元，相比去年同期亏损80万美元。公司预计其验证器和质押业务可实现10%的年化收益率，按目前持币量计算，约产生每日6.3万美元的SOL计价收入。
-- [Russell Verbeeten关联钱包于3小时前向Kraken充值444.653枚ETH，约合205万美元](https://x.com/ai_9684xtpa/status/1955431292574765381) - 📰 null - 【Russell Verbeeten关联钱包于3小时前向Kraken充值444.653枚ETH，约合205万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，Russell Verbeeten(@rverbee)关联钱包于3小时前向Kraken充值444.653枚ETH，约205万美元。他曾担任ConsenSys大使，也是以太坊生态的早期参与者，这是该地址时隔11个月以来的首次ETH操作。
-- [比特币ATM运营商Bitcoin Depot第二季度利润达1230万美元，同比增长183%](https://decrypt.co/334792/bitcoin-depot-profits-jump-btc-rebound) - 📰 null - 【比特币ATM运营商Bitcoin Depot第二季度利润达1230万美元，同比增长183%】金色财经报道，比特币自助终端运营商Bitcoin Depot（股票代码：BTM）发布2025年第二季度财报。报告显示，公司季度利润达1230万美元，同比增长183%。截至6月30日，公司持有100枚比特币，价值1150万美元，较去年同期增长666%。 
-公司第二季度营收为1.72亿美元，同比增长6%，增长主要来自终端设备部署增加及客户平均交易规模提升。
-- [某巨鲸以44.48美元的价格买入114,545枚HYPE](https://x.com/OnchainLens/status/1955429886602121274) - 📰 null - 【某巨鲸以44.48美元的价格买入114,545枚HYPE】金色财经报道，据Onchain Lens监测，一位鲸鱼将509万美元的USDC存入HyperLiquid，并以44.48美元的价格购买了114,545枚HYPE。在之前的HYPE交易中，这位鲸鱼赚了超过64万美元。
-- [昨日FETH净流入1.449亿美元](https://farside.co.uk/eth/) - 📰 null - 【昨日FETH净流入1.449亿美元】金色财经报道，据Farside Investors监测数据，昨日FETH净流入1.449亿美元。
-- [特朗普加密货币投资已产生24亿美元收益](https://x.com/Cointelegraph/status/1955419107446198286) - 📰 null - 【特朗普加密货币投资已产生24亿美元收益】金色财经报道，据Cointelegraph统计，自2022年以来，特朗普总统的加密货币投资已产生24亿美元的收益。报道称，这笔收入占他政治生涯中积累的个人财富的43.5%，其中包括NFT、WorldLibertyFinancial和比特币挖矿投资的收益。
-- [更新：以太坊基金会关联地址再度卖出1100枚ETH]() - 📰 null - 【更新：以太坊基金会关联地址再度卖出1100枚ETH】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，过去5分钟以太坊基金会关联地址再次以均价4602.1美元卖出1100ETH，约506万美元。近两个小时已累计抛售2794.87ETH（价值1278万美元），平均卖出价格4574.4美元。
-- [以太坊财库公司ETHZilla涨超200％]() - 📰 null - 【以太坊财库公司ETHZilla涨超200％】金色财经报道，以太坊财库公司ETHZilla（原180 Life Sciences）（纳斯达克股票代码：ATNF）涨超200%。 
-昨日消息，亿万富翁投资者彼得·泰尔（PeterThiel）披露持有以太坊财库公司ETHZilla（原180 Life Sciences）7.5%股份。
-- [数据：比特币矿工近3日抛售超2000枚比特币]() - 📰 null - 【数据：比特币矿工近3日抛售超2000枚比特币】8 月 13 日消息，据 CryptoQuant 数据，比特币矿工近 3 日抛售超 2000 枚比特币。
-- [pump.fun于5小时前出售8.6万枚SOL，系发币后首次出售SOL]() - 📰 null - 【pump.fun于5小时前出售8.6万枚SOL，系发币后首次出售SOL】金色财经报道，据余烬监测，pump.fun团队在5小时前出售了8.6万枚SOL换成1628万USDC，这应该是他们在发币后第一次出售SOL。pump.fun在凌晨2点半的时候，从手续费钱包跟前段时间执行过PUMP回购的一个钱包一共把8.6万枚SOL转进Kraken。随后这些SOL又从Kraken提出并在链上以189美元的均价出售换成1628万USDC，再转回Kraken。
-- [以太坊基金会关联地址过去2小时抛售1694.8枚ETH，约合772万美元]() - 📰 null - 【以太坊基金会关联地址过去2小时抛售1694.8枚ETH，约合772万美元】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，以太坊基金会关联地址过去2小时在链上抛售1694.8枚ETH，约772万美元。抛售地址目前仍持有1500ETH，曾在8年前收到EthereumFundation的20756枚ETH，再往前追溯可至10年前，当时ETH币价仅0.875美元。
-- [今日恐慌与贪婪指数升至73，等级仍为贪婪]() - 📰 null - 【今日恐慌与贪婪指数升至73，等级仍为贪婪】金色财经报道，今日恐慌与贪婪指数升至73，等级仍为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [日经225指数首破43000点]() - 📰 null - 【日经225指数首破43000点】金色财经报道，日经225指数升至历史新高，首次突破43,000点关口，日内涨超1%。(金十)
-- [Monad测试网已完成升级，支持WebSockets等功能]() - 📰 null - 【Monad测试网已完成升级，支持WebSockets等功能】金色财经报道，Monad于社交平台发文表示，“Monad测试网已完成升级： 
-区块时间缩短至400毫秒 
-MonadBFT上线 
-支持WebSockets、预编译、JIT EVM等更多功能。”
-- [AguilaTrades再次开仓做多ETH，同时做空BTC](https://app.hyperliquid.xyz/join/NTOD) - 📰 null - 【AguilaTrades再次开仓做多ETH，同时做空BTC】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，AguilaTrades再次开仓做多ETH，同时做空BTC。 
-BTC：40x空单，持仓50枚（6011万美元），开仓价119,484.8美元，浮亏42万美元； 
-ETH：15x多单，持仓10,000枚（4596万美元），开仓价4588.44美元，浮赢9.8万美元。
-- [特朗普长子：正与弟弟Eric Trump共同推动WLFI发展，期待WLFI改变加密领域的游戏规则](https://x.com/DonaldJTrumpJr/status/1955304490304741587) - 📰 null - 【特朗普长子：正与弟弟Eric Trump共同推动WLFI发展，期待WLFI改变加密领域的游戏规则】8月13日消息，特朗普长子小唐纳德·特朗普（Donald Trump Jr.）在X发文表示，正与兄弟Eric Trump共同推动WLFI发展。作为增长最快的稳定币，“WLFI的USD1与ALT5 Sigma的尖端资金管理策略的强强联手，是市场前所未有的，此次合作堪称真正的突破。” 
-特朗普长子还确认，WLFI代币一旦上线，将在主要的CEX和去中心化平台上可用，从而确保全球治理的覆盖范围和流动性。“期待WLFI改变加密领域的游戏规则”。 
-昨日消息，ALT5Sigma宣布15亿美元私募以启动WLFI财库策略，EricTrump进入ALT5Sigma董事会。
-- [Heritage Distilling与Story Foundation宣布启动3.6亿美元IP代币储备，a16z crypto等参与]() - 📰 null - 【Heritage Distilling与Story Foundation宣布启动3.6亿美元IP代币储备，a16z crypto等参与】金色财经报道，Heritage Distilling Holding Company,Inc.宣布进行2.2亿美元私募股权融资（PIPE），以建立以IP（Story网络的原生代币）为核心的财政储备战略。Heritage将从私募股权融资（PIPE）所得中拨出8,200万美元，以每枚IP代币3.40美元的固定价格，从Story Foundation购买IP代币。 
-Story Foundation计划在交易完成后，将其从向Heritage出售IP代币中获得的100%净现金收益，用于在不超过90天的时间内，在公开市场上战略性回购IP代币。 
-Story Foundation是Story项目的运营主体，该项目是面向80万亿美元¹知识产权经济的AI原生区块链基础设施。本次合作旨在扩大Heritage在该网络中的相关业务活动。本次交易由Cantor Fitzgerald&Co.与Roth Capital Partners担任联合配售代理及财务顾问。
+- [Abraxas Capital持有的空头头寸目前浮亏2.4478亿美元](https://x.com/OnchainLens/status/1955513858824736945) - 📰 null - 【Abraxas Capital持有的空头头寸目前浮亏2.4478亿美元】金色财经报道，据Onchain Lens监测，Abraxas Capital在两个不同的钱包中持有BTC、ETH、SOL、HYPE和SUI的空头头寸，目前面临2.4478亿美元的浮亏。其中，大部分亏损来自ETH，合计超过1.887亿美元。
+- [神秘团体“7 Siblings”过去15小时内卖出19,461枚ETH，价值8,820万美元](https://x.com/lookonchain/status/1955509708351300046) - 📰 null - 【神秘团体“7 Siblings”过去15小时内卖出19,461枚ETH，价值8,820万美元】金色财经报道，据Lookonchain监测，神秘团体“7 Siblings”持有121万枚ETH（56亿美元）正在抛售ETH。在过去15小时内，“7 Siblings”以平均每枚4,532美元的价格，卖出了19,461枚ETH（8,820万美元）。 
+今年早些时候，他们曾在2月3日至4月7日之间，以每枚2,219美元的价格买入103,543枚ETH（2.297亿美元）。
+- [H100 Group再次筹集约684万美元，用于其比特币财库战略]() - 📰 null - 【H100 Group再次筹集约684万美元，用于其比特币财库战略】金色财经报道，瑞典上市公司H100 Group完成定向增发，筹集约6,530万瑞典克朗（684万美元）。发行价格为每股7.94瑞典克朗。自推出比特币财库策略以来，公司累计募集总额已达约11.81亿瑞典克朗（1.24亿美元）。
+- [上市公司BTCS已购买3个Pudgy Penguins NFT](https://x.com/pudgypenguins/status/1955339767123415493) - 📰 null - 【上市公司BTCS已购买3个Pudgy Penguins NFT】金色财经报道，Pudgy Penguins 披露，纳斯达克上市公司BTCS已购买了3个Pudgy Penguins NF 来其财库。BTCS的以太坊储备价值约3亿美元。
+- [“麻吉大哥”黄立成已平仓ETH和HYPE多单，总利润3383万美元](https://x.com/OnchainLens/status/1955502111493591176) - 📰 null - 【“麻吉大哥”黄立成已平仓ETH和HYPE多单，总利润3383万美元】金色财经报道，据Onchain Lens监测，“麻吉大哥”黄立成已平掉 ETH和 HYPE多头仓位，总利润为 3383 万美元。
+- [Eden Network宣布停止运营，启动代币退出计划](https://x.com/EdenNetwork/status/1955361724217094458) - 📰 null - 【Eden Network宣布停止运营，启动代币退出计划】ETH基础设施服务提供商Eden Network宣布停止运营。该项目将通过代币退出计划向EDEN代币持有者分配2,000个ETH的储备资金。退出计划将持续至2025年9月30日，兑换比率为1 EDEN = 0.00001506 ETH。 
+Eden Network原为Archer DAO，成立于2020年，主要为ETH矿工提供最大可提取价值（MEV）收益服务。ETH合并后，项目转型为MEV-Boost中继运营商，但因市场竞争加剧和运营成本上升未能维持运营。 
+项目方已终止所有相关服务，包括Eden RPC、Eden Bundles等产品，并建议用户转向Flashbots等替代服务。本次退出计划仅面向非美国居民，项目方已销毁所有未流通的代币。
+- [odin.fun 联创：公司资金不足以弥补损失，平台上剩余资金安全](https://x.com/BobBodily/status/1955477887701881007) - 📰 null - 【odin.fun 联创：公司资金不足以弥补损失，平台上剩余资金安全】8 月 13 日消息，odin.fun 联创在 X 平台发文回应此前被盗消息，称“在其最新的流动性 AMM（自动做市商）更新中发现了一个重大漏洞。一些恶意用户（主要与中国境内的犯罪团伙有关）利用此漏洞从平台窃取了大量 BTC。其仍在评估损失的 BTC 具体金额，公司的资金不足以弥补损失。平台上剩余的资金是安全的。我们已经确定了几个利用该漏洞获利的团体，并将追捕他们并提起诉讼（尤其考虑到我们掌握的证据数量，包括他们钱包的活动）。” 
+此前报道，odin.fun 平台疑似出现漏洞，被转移走约 58.2 枚 BTC。
+- [某鲸鱼从Binance转出29万枚LINK，约合708万美元](https://x.com/OnchainLens/status/1955495131517423773) - 📰 null - 【某鲸鱼从Binance转出29万枚LINK，约合708万美元】金色财经报道，据Onchain Lens监测，某鲸鱼沉寂2年后于19分钟前从Binance转出29万枚LINK，价值约708万美元。
+- [币安Alpha将在8月15日上线TCOM Global(TCOM)](https://x.com/binancezh/status/1955494899798904973) - 📰 null - 【币安Alpha将在8月15日上线TCOM Global(TCOM)】金色财经报道，据官方公告，币安Alpha将在8月15日上线TCOM Global(TCOM)。符合条件的用户可于Alpha交易开放后，前往Alpha活动页面使用币安Alpha积分领取空投。具体详情将另行公布。
+- [实体"7Siblings"今日已卖出19,957枚ETH换成9044万USDC](https://x.com/EmberCN/status/1955493143111143611) - 📰 null - 【实体"7Siblings"今日已卖出19,957枚ETH换成9044万USDC】金色财经报道，据链上分析师余烬监测，在去年8/5大跌中大手笔以约2,270美元的价格买入10万枚ETH的实体"7Siblings"，今天在卖出ETH了。 
+他们今天到目前已经卖出了19,957枚ETH换成9044万USDC，出售均价在4,532美元。 
+他们目前应该还持有着约28万枚的ETH(13亿美元)，他们此前在两次大跌中都有抄底买进ETH： 
+去年8/5ETH下跌15%+，他们以约2,270美元的价格买入了10万枚ETH； 
+今年4/7ETH下跌10%+，他们以约1,700美元的价格买入了2.5万枚ETH。
+- [美国银行业团体呼吁修补GENIUS法案稳定币收益漏洞](https://cointelegraph.com/news/us-bankers-want-stablecoin-yield-loophole-closed) - 📰 null - 【美国银行业团体呼吁修补GENIUS法案稳定币收益漏洞】金色财经报道，据Cointelegraph报道，美国银行政策研究所（BPI）等多家银行业团体向国会发出警告，要求关闭GENIUS法案中关于稳定币收益的监管漏洞。该漏洞允许稳定币发行机构通过关联公司向持有者提供收益。银行业团体表示，这可能导致高达6.6万亿美元的存款从传统银行体系流出，影响信贷供给并推高借贷成本。
+- [纳斯达克上市的比特币金融服务公司FoldHoldings总持有 1,492枚比特币](https://www.globenewswire.com/news-release/2025/08/12/3132131/0/en/Fold-Holdings-Inc-NASDAQ-FLD-Announces-Second-Quarter-2025-Results.html) - 📰 null - 【纳斯达克上市的比特币金融服务公司FoldHoldings总持有 1,492枚比特币】金色财经报道，纳斯达克上市的比特币金融服务公司FoldHoldings公布第二季度财报，收入820万美元，同比增长59%；净收入1340万美元。 
+Fold董事长兼首席执行官Will Reeves表示：我们的比特币投资资金目前接近1,500 BTC，截至2025年8月12日，价值近1.8亿美元。在Fold，我们始终坚定地相信比特币，并将稳健的资金战略视为创造股东价值的根本。展望2025年，我们计划利用这笔增强的财务能力来增强我们的比特币持仓，同时继续执行我们的增长计划。
+- [14个以太坊财库公司目前共持有250万枚ETH，价值112.5亿美元](https://x.com/SERdotxyz/status/1955458142977810600) - 📰 null - 【14个以太坊财库公司目前共持有250万枚ETH，价值112.5亿美元】金色财经报道，据Strategic ETH Reserve披露，14个以太坊财库公司目前共持有250万枚ETH（价值112.5亿美元），约占以太坊总供应量的2.08%。
+- [SOL突破200美元]() - 📰 null - 【SOL突破200美元】金色财经报道，行情显示，SOL突破200美元，现报200.04美元，24小时涨幅达到13.79%，行情波动较大，请做好风险控制。
+- [加密交易平台Bullish将于今日在纽交所上市]() - 📰 null - 【加密交易平台Bullish将于今日在纽交所上市】8月13日消息，由亿万富翁PeterThiel支持的加密交易平台Bullish将于8月13日在纽交所上市，股票代码为BLSH。该公司在8月4日提交的监管文件中表示，将以每股28至31美元的价格出售2030万股股票，最高可达6.293亿美元。此外，承销商自招股说明书发布之日起有30天的时间再购买304.5万股。 
+8月11日，Bullish扩大其首次公开募股（IPO）规模，现目标估值高达48.2亿美元，较上周的42亿美元目标大幅提升。新的计划以每股32至33美元的价格出售3000万股。在最高价位，Bullish可能筹集约9.9亿美元。 
+Bullish由Block.one（EOS背后的区块链公司）于2020年推出，贝莱德（BlackRock）和凯西·伍德（Cathie Wood）的ARK已表示计划购买2亿美元股份。资产方面，Bullish在申报文件中指出，公司目前持有超过30亿美元的流动性资产，其中包括：24,000枚BTC、12,600枚ETH、4.18亿美元的现金与稳定币。该公司运营数字资产交易平台，并拥有知名加密货币媒体CoinDesk。
+- [OKX USDT简单赚币（活期）APR飙升至39%]() - 📰 null - 【OKX USDT简单赚币（活期）APR飙升至39%】8月13日消息，据OKX数据显示，OKX平台USDT“简单赚币”（活期）产品的年化利率（APR）在过去一小时冲高至39%。自昨晚以来，该利率在5%至46%区间大幅波动，并于今日凌晨5时左右触及46%高点。 
+据悉，OKX此类活期理财利率的快速飙升，通常出现行情大幅波动阶段。今日ETH持续上行，突破4,600美元关口，创下自2022年以来的新高。
+- [Binance下架ANIME/FDUSD、HYPER/FDUSD和STO/BNB交易对](https://www.binance.com/zh-CN/support/announcement/detail/b021b76f70af4465a0b5add81d751de7) - 📰 null - 【Binance下架ANIME/FDUSD、HYPER/FDUSD和STO/BNB交易对】金色财经报道，Binance将于2025年8月15日11:00下架ANIME/FDUSD、HYPER/FDUSD和STO/BNB交易对。用户仍可通过其他交易对交易相应代币。请注意，交易机器人服务将于同一时间停止。
+- [慢雾CISO：疑似朝鲜黑客组织Kimsuky APT成员遭数据泄露，暴露内部工具与行动细节](https://x.com/im23pds/status/1955478755935392201) - 📰 null - 【慢雾CISO：疑似朝鲜黑客组织Kimsuky APT成员遭数据泄露，暴露内部工具与行动细节】金色财经报道，慢雾首席信息安全官23pds发推表示，“疑似朝鲜黑客组织Kimsuky APT一名成员遭遇重大数据泄露，泄露数百GB的内部文件和工具。入侵大概发生在2025年6月初，暴露该组织复杂的后门、网络钓鱼框架和侦察行动，根据对泄露档案的分析，内部转储源自化名为“KIM”的Kimsuky操作员的两个受损系统。一个是运行Deepin20.9的Linux开发工作站；另一个是用于鱼叉式网络钓鱼活动的面向公众的VPS。”
+- [巴克莱：美联储新理事米兰可能是美联储主席的黑马人选]() - 📰 null - 【巴克莱：美联储新理事米兰可能是美联储主席的黑马人选】金色财经报道，巴克莱银行公共政策高级研究分析师迈克尔·麦克莱恩指出，特朗普提名接替库格勒的斯蒂芬·米兰可能成为下一任美联储主席的黑马人选。如果得到参议院的批准，米兰可能会在任期届满后无限期留任。特朗普本可以让库格勒的席位空缺，但他却选择迅速提名米兰，这显然在为其铺路。米兰深得特朗普信任，始终坚定支持总统及其政策。此外，包括格林斯潘、伯南克和耶伦在内的多位前美联储主席，都曾担任过白宫经济顾问委员会主席。而且与其他候选人相比，米兰将拥有货币政策发言权和FOMC投票权这些优势。(金十)
+- [金色午报 | 8月13日午间重要动态一览]() - 📰 null - 【金色午报 | 8月13日午间重要动态一览】7:00-12:00关键词：IP、Odin、TOWNS 
+1.白俄罗斯央银起草规则允许加密货币付款； 
+2.美国现货以太坊ETF昨日净流入5.2343亿美元； 
+3.Bithumb 新增上线Towns（TOWNS）韩元市场； 
+4.PeckShield：Odin协议遭黑客攻击，损失58.2枚比特币； 
+5.Solana联创已九次躲避律师事务所Burwick Law送达的pump.fun诉讼文件； 
+6.Thumzup Media Corporation完成5000万配股融资以积累加密货币和挖矿设备； 
+7.Heritage Distilling与Story Foundation宣布启动3.6亿美元IP代币储备，a16z crypto等参与。
