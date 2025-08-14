@@ -1,30 +1,45 @@
-- [Bitfarms购买美国土地用于高性能计算开发，关闭阿根廷矿场](https://theminermag.com/news/2025-08-13/bitfarms-bitcoin-hpc-land) - 📰 null - 【Bitfarms购买美国土地用于高性能计算开发，关闭阿根廷矿场】8月14日消息，加拿大比特币矿企Bitfarms已签署协议，分别以190万美元和350万美元的价格购买了位于美国华盛顿州的3英亩土地和宾夕法尼亚州的181英亩土地，用于潜在的高性能计算（HPC）开发。 
-与此同时，该公司决定关闭其位于阿根廷的比特币矿场，原因是自5月12日以来，该矿场因能源供应商Generacion Mediterranea S.A.（GMSA）的债务重组而面临电力供应中断。Bitfarms与GMSA达成协议，将在2026年1月开始的18个月内分期收回350万美元的能源押金，并取消与该国租赁土地相关的280万美元资产退役义务。
-- [Gavin Wood将于8月下旬重返ParityCEO职位](https://x.com/paritytech/status/1955617027239878698) - 📰 null - 【Gavin Wood将于8月下旬重返ParityCEO职位】金色财经报道，据Parity Technologies官方消息，Parity联合创始人Gavin Wood宣布将于8月下旬重返CEO岗位，接替将离任的BjörnWagner。GavinWood曾于2022年卸任CEO专注协议研发，并表示如今架构基础已完成，市场已具备条件，重返CEO岗位能更快推动下一阶段增长。Björn在任三年间带领团队在熊市中持续交付并拓展新领域，为Parity奠定坚实基础。官方称团队与项目日常运作不变，未来将迎来战略升级。
-- [某鲸鱼地址以47.14美元均价买入16.68万枚HYPE](https://x.com/OnchainLens/status/1955798065992098166) - 📰 null - 【某鲸鱼地址以47.14美元均价买入16.68万枚HYPE】金色财经报道，据Onchain Lens监测，某鲸鱼地址将800万枚USDC存入HyperLiquid，并以47.14美元均价购买了166,820枚HYPE。该鲸鱼地址此前在HYPE笔交易中赚取了785万美元利润。
-- [Compound领投方Bain Capital拟出售34.9万枚COMP，约合1885万美元]() - 📰 null - 【Compound领投方Bain Capital拟出售34.9万枚COMP，约合1885万美元】金色财经报道，据分析师余烬监测，Compound Protocol领投机构之一Bain Capital Ventures近期将34.9万枚COMP（约1885万美元）转入机构业务平台。其中87,250枚COMP（约473万美元）已转入Binance、OKX、Bybit和Gate等交易所。这批COMP代币来源于该机构5年前从Compound部署地址获得的投资份额。
-- [OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展](https://x.com/star_okx/status/1955793263585321224) - 📰 null - 【OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展】8月14日消息，OKX CEO Star在X平台发文称，X Layer已完成升级，网络性能提升至5,000 TPS、Gas费几乎为零，并将OKB总量固定为2,100万枚。他表示，X Layer将以“一条链、一个代币”的模式推动DeFi、全球支付及RWA发展，致力于打造让一切上链的核心基础设施。
-- [Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH](https://x.com/OnchainLens/status/1955794985913368704) - 📰 null - 【Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH】金色财经报道，据链上分析师Onchain Lens监测，Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH，换得约1183万美元DAI。该平台曾于2024年10月17日遭遇黑客攻击，损失约5300万美元。
-- [某波段鲸鱼1周前以均价3835美元卖出1万枚ETH，8小时前以均价4715美元买回](https://x.com/EmberCN/status/1955789152722780527) - 📰 null - 【某波段鲸鱼1周前以均价3835美元卖出1万枚ETH，8小时前以均价4715美元买回】金色财经报道，据链上数据分析师余烬监测，一个ETH波段鲸鱼地址一周前(8月7日)在链上出售了10,256枚ETH换成3933.6万USDT，均价3,835美元。 
-8小时前，他在链上用5059.6万USDT重新买回了10,730枚ETH，均价4,715美元。
-- [特朗普家族支持的矿企ABTC加速增持比特币，目前储备量达2130枚BTC](https://theminermag.com/news/2025-08-13/abtc-bitcoin-acquisition) - 📰 null - 【特朗普家族支持的矿企ABTC加速增持比特币，目前储备量达2130枚BTC】金色财经报道，特朗普家族支持的美国比特币公司（ABTC）近期加速了比特币的收购，于7月1日至8月6日期间以加权平均价格约119,120美元/枚的价格，额外购入了1,726枚BTC，总价值2.056亿美元。ABTC是Hut8 Corp.的控股子公司，此次收购使其战略比特币储备量增至约2,130枚BTC，按当前市场价格计算，价值约2.54亿美元。 
-此次收购是在ABTC于6月底完成2.2亿美元私募股权融资后进行的，该公司计划通过与Gryphon Digital Mining的合并上市，该交易已获得美国证券交易委员会的批准，预计本月晚些时候将进行股东投票。
-- [Ark Invest多支基金买入253.2万股BLSH，价值1.72亿美元](https://x.com/ArkkDaily/status/1955783838765854922) - 📰 null - 【Ark Invest多支基金买入253.2万股BLSH，价值1.72亿美元】金色财经报道，据Ark Invest Daily数据显示，Cathie Wood旗下Ark Invest多支基金昨日共计买入2,532,693股Bullish(BLSH)，以收盘价68美元计算，其仓位规模目前价值1.722亿美元。其中： 
-ARKK买入1,714,522股BLSH 
-ARKW买入545,416股BLSH 
-ARKF买入272,755股BLSH
-- [某巨鲸/机构再次增持50,896枚ETH，约合2.4172亿美元](https://x.com/OnchainLens/status/1955790254033838521) - 📰 null - 【某巨鲸/机构再次增持50,896枚ETH，约合2.4172亿美元】金色财经报道，据Onchain Lens监测，某巨鲸/机构近日再增持50,896枚ETH，价值约2.4172亿美元，其总持仓已升至379,316枚ETH，价值约18亿美元，分布在来自FalconX、Galaxy Digital和BitGo的12个钱包。
-- [某波段巨鲸高价买回10,730枚ETH]() - 📰 null - 【某波段巨鲸高价买回10,730枚ETH】金色财经报道，据分析师余烬监测，某ETH波段巨鲸在8月7日以3,835美元的价格出售10,256枚ETH，获得3,933.6万USDT。该地址在8小时前以4,715美元的均价重新买入10,730枚ETH，花费5,059.6万USDT。
-- [Abits Group发布2025年上半年财报：矿业运营利润达213.8万美元，比特币产量为40.27枚](https://www.globenewswire.com/news-release/2025/08/13/3132651/0/en/Abits-Group-Inc-Reports-Unaudited-Financial-Results-for-the-First-Half-of-2025.html) - 📰 null - 【Abits Group发布2025年上半年财报：矿业运营利润达213.8万美元，比特币产量为40.27枚】8月14日消息，Abits Group（纳斯达克：ABTS）今日发布2025年上半年未经审计财务报告。报告显示，尽管受比特币减半影响，公司上半年矿业运营利润达213.8万美元，同比增长近6%。期内比特币产量为40.27枚，较去年同期的61.53枚下降，但受益于比特币均价上涨至95,843美元及孟菲斯托管业务的贡献，部分抵消了产量下降的影响。 
-由于新增设备折旧费用增加及孟菲斯投资相关贷款利息支出，公司录得税前经营亏损34万美元。
-- [BTC突破124000美元，续创历史新高]() - 📰 null - 【BTC突破124000美元，续创历史新高】金色财经报道，行情显示，BTC突破124000美元，续创历史新高，现报124050美元，24小时涨幅达到3.4%，行情波动较大，请做好风险控制。
-- [昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元。
-- [Galaxy Digital关联地址过去2天将1.25亿USDC存入Hyperliquid，买入现货并做空进行对冲](https://x.com/lookonchain/status/1955785512008212695) - 📰 null - 【Galaxy Digital关联地址过去2天将1.25亿USDC存入Hyperliquid，买入现货并做空进行对冲】金色财经报道，据Lookonchain监测，某Galaxy Digital关联钱包地址(0xcaC1)在过去两天向Hyperliquid存入1.25亿USDC。他们随后买入了ETH、HYPE、BTC、PUMP和FARTCOIN现货，同时做空BTC、ETH、DOGE、PUMP、FARTCOIN和S进行对冲。
-- [美国破获百万美元支付欺诈案，涉及加密货币洗钱](https://www.justice.gov/usao-ndca/pr/eight-defendants-charged-nationwide-scheme-defraud-two-mobile-shopping-service) - 📰 null - 【美国破获百万美元支付欺诈案，涉及加密货币洗钱】金色财经报道，据官方文件，美国北加州联邦检察官办公室8月13日宣布，一起涉及加密货币洗钱的大规模支付欺诈案告破。检方指控8名嫌疑人通过网络钓鱼手段入侵移动购物服务平台账户系统，利用虚假订单和数字支付卡套取资金后，通过购买礼品卡转换为加密货币进行洗钱，最终将资金兑换为美元。涉案金额超过100万美元。 
-所有被告已被逮捕并获准保释，将于8月25日在奥克兰联邦地区法院接受审理。
-- [SOLOWIN将与Antalpha联合推出1亿美元比特币量化基金](https://www.globenewswire.com/news-release/2025/08/13/3132536/0/en/SOLOWIN-to-Jointly-Launch-US-100M-Bitcoin-Quantitative-Fund-with-Antalpha.html) - 📰 null - 【SOLOWIN将与Antalpha联合推出1亿美元比特币量化基金】金色财经报道，金融服务公司SOLOWIN HOLDINGS（纳斯达克代码：SWIN）今日宣布计划与Antalpha共同推出一只比特币量化基金。该基金目标管理资产规模（AUM）为1亿美元，将采用数据驱动的算法交易策略投资比特币。 
-Antalpha是一家金融科技公司，为数字资产行业的机构提供融资、技术和风险管理解决方案。
-- [今日恐慌与贪婪指数升至75，等级仍为贪婪](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至75，等级仍为贪婪】金色财经报道，今日恐慌与贪婪指数升至75，等级仍为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [蓝港互动公布加密货币持仓，并计划募资1亿美元投资加密资产]() - 📰 null - 【蓝港互动公布加密货币持仓，并计划募资1亿美元投资加密资产】8月14日消息，港股上市公司蓝港互动（HK8267）发布公告“有关加密货币的持有量及LKCrypto资产管理及募资计划”，公告显示，截至8月14日，蓝港互动集团及其附属公司持有比特币97.08枚（平均成本73,015美元）、以太坊913.63枚（平均成本3155美元）、Solana 7692枚（平均成本为165美元）。同时集团参股公司亦持有比特币96枚、以太坊794枚、Solana 6365枚。 
-另外，蓝港互动集团拟通过LKCrypto启动总规模为1亿美元的资产管理及募资计划。该计划将整合本集团现有资金及持有的加密资产，并向市场开放引入外部投资者共同参与。
-- [比特币市值超越Google，全球资产市值排名升至第5位](https://8marketcap.com/#google_vignette) - 📰 null - 【比特币市值超越Google，全球资产市值排名升至第5位】金色财经报道，据8market数据显示，比特币市值超越Google，达到2.457万亿美元，全球资产市值排名升至第5位。
+- [Placeholder合伙人：10月市场或见顶，比特币可达到142,690美元，以太坊可达6900美元](https://x.com/cburniske/status/1955692515861946864) - 📰 null - 【Placeholder合伙人：10月市场或见顶，比特币可达到142,690美元，以太坊可达6900美元】金色财经报道，前Ark Invest加密负责人、现Placeholder VC合伙人Chris Burniske预测加密主流品种10月份的最高价如下： 
+比特币：142,690美元； 
+以太坊：6900-8000美元； 
+SOL：420美元。 
+Chris Burniske同时指出，8、9、10月的价格越疯狂，就越坚信10月会见顶。如果市场能尽快大幅回调，并保持低迷，或许这轮牛市还能持续更久。
+- [Binance Alpha：Overlay Protocol (OVL)空投门槛为200分](https://x.com/binance/status/1955874844207407155) - 📰 null - 【Binance Alpha：Overlay Protocol (OVL)空投门槛为200分】金色财经报道，据官方公告，Binance Alpha将于2025年8月14日07:30(UTC)上线Overlay Protocol(OVL)。交易开始后，拥有至少200个Binance Alpha积分的用户即可领取111个OVL代币的空投，先到先得。如果奖励池未完全分配完毕，积分门槛将每小时自动降低15分。
+- [MGBX将于8月14日16:00（SGT）上线XCX（Xeleb Protocol）现货交易](https://support.mgbx.com/hc/zh-cn/articles/13500010533391) - 📰 null - 【MGBX将于8月14日16:00（SGT）上线XCX（Xeleb Protocol）现货交易】据官方消息，MGBX即将2025年8月14日16:00（SGT）上线XCX（Xeleb Protocol）现货交易 
+充值开放时间：2025年8月14日15:00（SGT）  
+交易开放时间：2025年8月14日16:00（SGT）  
+提现开放时间：2025年8月17日19:00（SGT）  
+Xeleb协议是一个AI代理启动平台，旨在推动AI影响力经济的未来发展。
+- [BTC跌破122000美元]() - 📰 null - 【BTC跌破122000美元】金色财经报道，行情显示，BTC跌破122000美元，现报121953.07美元，24小时涨幅达到2.43%，行情波动较大，请做好风险控制。
+- [Lixte Biotechnology周三收盘下跌16%，此前计划将财库25%资金投资加密货币](https://decrypt.co/335127/biotech-stock-plunges-bitcoin-plans-ethereum-treasuries-stay-hot) - 📰 null - 【Lixte Biotechnology周三收盘下跌16%，此前计划将财库25%资金投资加密货币】金色财经报道，据雅虎财经数据显示，临床阶段制药公司Lixte Biotechnology（股票代码：LIXT）周三收盘报4.06美元/股，下跌16%。此前，该公司宣布计划将最多25%的储备资金配置到比特币储备中。 
+LIXT的抛售潮出现之际，投资者似乎正从比特币转向以太坊储备类公司，因为ETH近期借助市场顺风表现优于全球最古老的加密货币。比特币储备类公司直到最近还备受追捧，但随着一批新公司开始持有ETH，这显然也助推了ETH近期的涨势。 
+“2025年是以太坊储备战略之年。”Bitwise研究分析师丹尼·尼尔森（Danny Nelson）在接受采访时表示。
+- [Binance：CherryAI（AIBOT）TGE活动参与门槛224分](https://x.com/binancezh/status/1955200208868085968) - 📰 null - 【Binance：CherryAI（AIBOT）TGE活动参与门槛224分】金色财经报道，据官方消息，Binance Alpha积分大于等于224的用户，可通过Alpha活动页面参与CherryAI（AIBOT）TGE活动。参与该活动将消耗15积分。
+- [慢雾余弦：MyStonks平台冻结用户620万美元资产大部分源于币安提币](https://x.com/evilcos/status/1955856746402210027) - 📰 null - 【慢雾余弦：MyStonks平台冻结用户620万美元资产大部分源于币安提币】金色财经报道，慢雾团队创始人余弦对MyStonks平台冻结用户620万美元资产事件进行了链上分析。数据显示，涉事资金主要来源于币安交易所的提币操作，用户通过SOL地址7QQ8N8S在去中心化交易所进行STONKS与USDT的交易。如果MyStonks平台此次配合执法部门的风控请求属实，后续调查重点或将转向该用户在币安平台的资金往来记录。
+- [BTC跌破123000美元]() - 📰 null - 【BTC跌破123000美元】金色财经报道，行情显示，BTC跌破123000美元，现报122994.01美元，24小时涨幅达到3.07%，行情波动较大，请做好风险控制。
+- [Coinbase开发者：AI agents将成为以太坊的“最大使用者”](https://cointelegraph.com/news/ai-agents-ethereums-biggest-power-user) - 📰 null - 【Coinbase开发者：AI agents将成为以太坊的“最大使用者”】金色财经报道，据Cointelegraph披露，以太坊基金会在周三分享了Coinbase开发团队成员Kevin Leffew和Lincoln Murr撰写的一篇“客座文章”，其中提到，约30年前定义的休眠状态HTTP402“Payment Required”（需要付款），结合以太坊改进提案3009，使得AI代理能够在无需人工干预的情况下进行稳定币转账。 
+两位开发者在X帖子中表示，自主代理可能会成为以太坊的“最大使用者”。根据Coinbase的GitHub账户显示，该公司已经通过“x402支付协议”实施了HTTP402标准。
+- [中国贵州省纪委辟谣女官员“挖出327枚比特币”：系自媒体利用AI生成](https://mp.weixin.qq.com/s/ADJjduHX-_pZXr46NlYngw) - 📰 null - 【中国贵州省纪委辟谣女官员“挖出327枚比特币”：系自媒体利用AI生成】金色财经报道，8月14日，中国贵州省纪委监委宣传部的一位工作人员向《中国新闻周刊》表示，原贵州省大数据发展管理局局长景亚萍利用政府服务器挖出327枚比特币的消息“是谣言”。据其了解，景亚萍的案情并不涉及比特币。 
+上述工作人员表示，此消息最初是一些自媒体利用AI（人工智能）生成的，目的是博流量。后来被一家媒体报道了，相关部门已就此事进行了沟通。
+- [某新建钱包地址于8小时前提取3,606枚ETH和141万枚WLD](https://x.com/lookonchain/status/1955851670052855827) - 📰 null - 【某新建钱包地址于8小时前提取3,606枚ETH和141万枚WLD】金色财经报道，据Lookonchain监测，一个新创建的钱包地址0xd537于8小时前提取了3,606枚ETH（1,706万美元）和141万枚WLD（155万美元）。
+- [某鲸鱼近2小时从Binance提取210,924枚LINK，价值505万美元](https://x.com/OnchainLens/status/1955848543815786698) - 📰 null - 【某鲸鱼近2小时从Binance提取210,924枚LINK，价值505万美元】金色财经报道，据Onchain Lens监测，一位鲸鱼从Binance中提取了210,924枚LINK，价值505万美元。
+- [现货以太坊ETF连续7天净流入总额达31亿美元，占该ETF推出以来总流入量的10%](https://x.com/SERdotxyz/status/1955847982043050380) - 📰 null - 【现货以太坊ETF连续7天净流入总额达31亿美元，占该ETF推出以来总流入量的10%】金色财经报道，据Strategic ETH Reserve披露，现货以太坊ETF连续7天录得资金净流入，总额达31亿美元，占该ETF自推出以来总流入量的10%。
+- [安全研究员：Coinbase因与0x合约交互配置错误，被MEV机器人套利30万美元](https://www.theblock.co/post/366872/coinbase-loses-300000-mev-bots-0x?utm_source=twitter&utm_medium=social) - 📰 null - 【安全研究员：Coinbase因与0x合约交互配置错误，被MEV机器人套利30万美元】金色财经报道，Coinbase因与0xProject的“swapper”合约交互配置错误，导致累计约30万美元的代币手续费被MEV机器人截走。 
+Venn Network的安全研究员、“X”用户deeberiroz周三披露，Coinbase与去中心化点对点交易平台0x的“swapper”智能合约发生了交互，而该合约从未被设计用于代币授权操作。 
+0xProject提供的“swapper”合约是用于执行代币兑换的。该合约是无许可的，任何人都可以调用它来执行任意操作，没有所有权限制。然而，它并不是为接收代币授权而设计的，因为这样做可能会让资金面临风险。 
+研究员表示，这种设计在过去就曾引发已知问题，例如在BaseLayer2网络上涉及Zora空投领取的事件。
+- [Eric Trump：多家美国银行未经通知关闭其数百个账户，促使他转向加密货币](https://x.com/Cointelegraph/status/1955842114493014115) - 📰 null - 【Eric Trump：多家美国银行未经通知关闭其数百个账户，促使他转向加密货币】金色财经报道，特朗普次子Eric Trump在接受FOX采访时表示，包括Capital One、摩根大通、美国银行和第一共和银行在内的美国主要银行在没有任何警告的情况下关闭了他的数百个账户，促使他转向加密货币。
+- [金色午报 | 8月14日午间重要动态一览]() - 📰 null - 【金色午报 | 8月14日午间重要动态一览】7:00-12:00关键词：美联储、SpaceX、Ark Invest 
+1.机构：美联储9月会议必将出现反对意见； 
+2.SpaceX持有8,285枚BTC，价值超10亿美元； 
+3.韩国政府加快推动加密改革，稳定币监管成重点； 
+4.比特币市值超越Google，全球资产市值排名升至第5位； 
+5.以太坊基金会：昨日卖出2794枚ETH的地址不属于基金会； 
+6.Ark Invest多支基金买入253.2万股BLSH，价值1.72亿美元； 
+7.美财长贝森特警告：日本央行落后于形势，预计将加息控通胀； 
+8.特朗普家族支持的矿企ABTC加速增持比特币，目前储备量达2130枚BTC。
+- [某巨鲸三小时前向多家CEX存入130,000枚SOL，价值2645万美元](https://x.com/lookonchain/status/1955840591251783733) - 📰 null - 【某巨鲸三小时前向多家CEX存入130,000枚SOL，价值2645万美元】金色财经报道，据链上分析平台Lookonchain（@lookonchain）监测，某巨鲸三小时前向多家CEX存入130,000枚SOL，价值2645万美元。
+- [某ETH波段鲸鱼在过去半小时里再次用2000万枚USDT购买了4,201枚ETH](https://x.com/EmberCN/status/1955835669970084040) - 📰 null - 【某ETH波段鲸鱼在过去半小时里再次用2000万枚USDT购买了4,201枚ETH】金色财经报道，据分析师余烬监测，某ETH波段鲸鱼在过去半小时里再次用2000万枚USDT购买了4,201枚ETH。他在一周前以3,835美元的价格卖掉ETH后，已经在今天用7059.6万USDT重新买回了14,931枚ETH，均价4,728美元。
+- [Coinbase DEX率先向1%用户开放，后续将逐步扩大覆盖范围](https://x.com/shaaa256/status/1955607980876915074) - 📰 null - 【Coinbase DEX率先向1%用户开放，后续将逐步扩大覆盖范围】金色财经报道，Coinbase新任上币团队负责人shaaa表示，Coinbase DEX已率先向1%用户开放，后续将逐步向更多用户推广。
+- [爱沙尼亚银行家Rain Lõhmus丢失的以太坊钱包目前价值超过10亿美元](https://decrypt.co/335150/estonian-bankers-lost-ethereum-wallet-now-holds-over-1-billion-in-eth) - 📰 null - 【爱沙尼亚银行家Rain Lõhmus丢失的以太坊钱包目前价值超过10亿美元】金色财经报道，两年前，爱沙尼亚银行家 Rain Lõhmus 告诉爱沙尼亚公共广播电台，他已经丢失了在2014年预售期间购买的大量以太坊的访问权限。Lõhmus 当时说：“我有一个存有 25 万以太坊的钱包，这已经不是什么秘密了；任何人都可以自己计算出它的价值。” 
+随着以太坊在周三短暂突破 4,700 美元，并飙升回到 2021 年的高点，Lõhmus 丢失的持仓目前价值约为 12 亿美元。这几乎是 2023 年 10 月以太坊交易价格约为 1,600 美元时其价值的三倍。 
+根据 Arkham Intelligence 的数据显示，除了几笔小额的以太坊转账之外，该钱包至今仍未被动用。
