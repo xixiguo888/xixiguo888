@@ -1,21 +1,30 @@
-- [美联储博斯蒂克：关税可能导致结构性变化](https://flash.jin10.com/detail/20250814020255775800) - 📰 null - 【美联储博斯蒂克：关税可能导致结构性变化】金色财经报道，美联储博斯蒂克：由于劳动力市场依然强劲，我们今天有足够的时间等待政策调整。关税可能导致结构性变化。失业率仍然非常低。
-- [Choreo已向多个比特币ETF投资650万美元](https://x.com/BitcoinNewsCom/status/1955655609665442186) - 📰 null - 【Choreo已向多个比特币ETF投资650万美元】金色财经报道，财富管理公司 Choreo 披露已向多个比特币 ETF 投资 650 万美元。该公司最大的持股是贝莱德 iShares 比特币ETF (IBIT) 的 51,679 股，截至 6 月 30 日价值超过 300 万美元。
-- [美联储古尔斯比：如果通胀方向错误，美联储将不得不采取行动](https://flash.jin10.com/detail/20250814015833493800) - 📰 null - 【美联储古尔斯比：如果通胀方向错误，美联储将不得不采取行动】金色财经报道，美联储古尔斯比：如果通胀方向错误，美联储将不得不采取行动。劳动力市场存在一些警告信号，也需要密切关注。
-- [美联储固定利率逆回购操作规模跌至四年来新低](https://flash.jin10.com/detail/20250814012651586800) - 📰 null - 【美联储固定利率逆回购操作规模跌至四年来新低】金色财经报道，美联储在固定利率逆回购操作中总计接纳了21个对手方的572.02亿美元，规模跌至四年来的新低。
-- [美联储古尔斯比：美联储的独立性很重要](https://flash.jin10.com/detail/20250814011603002800) - 📰 null - 【美联储古尔斯比：美联储的独立性很重要】金色财经报道，美联储古尔斯比：美联储的独立性很重要，因为我们不希望通货膨胀卷土重来。
-- [特朗普：若“特普会”顺利 将进行美俄乌三方会晤](https://www.cls.cn/detail/2114534) - 📰 null - 【特朗普：若“特普会”顺利 将进行美俄乌三方会晤】金色财经报道，据央视新闻，当地时间8月13日，美国总统特朗普表示，如果15日与俄罗斯总统普京的会晤顺利，将很快举行第二次会晤。特朗普表示，第二次会晤将有乌克兰总统泽连斯基参加。特朗普还表示，如果不停止冲突，俄罗斯将面临后果。当天，特朗普与欧洲领导人及泽连斯基举行了视频会议。知情人士称，特朗普与参会方讨论了“特普会”后与泽连斯基和普京可能会面的地点。
-- [Bullish美国IPO首日盘中涨超197%]() - 📰 null - 【Bullish美国IPO首日盘中涨超197%】金色财经报道，CoinDesk母公司加密货币交易所Bullish(BLSH.N)美国IPO首日盘中一度涨超197%，报109美元/股，盘中多次因波动性触发停牌。此前给出的发行价为每股37美元——融资11.1亿美元。
-- [Squads与Coinbase达成战略合作，以加速USDC的采用](https://squads.xyz/blog/squads-announces-strategic-partnership-with-coinbase-to-accelerate-usdc-adoption) - 📰 null - 【Squads与Coinbase达成战略合作，以加速USDC的采用】金色财经报道，Squads宣布与Coinbase建立战略合作伙伴关系，以加速USDC的推广与应用。当前，Squads产品中已托管超10亿美元USDC，占Solana链上总供应量近15%，并将USDC设为其产品套件的默认稳定币。
-- [特朗普重申利率应该降至1%](https://flash.jin10.com/detail/20250814002511255800) - 📰 null - 【特朗普重申利率应该降至1%】金色财经报道，美国总统特朗普：美联储应该降低利率。我们的利率应该降至1%。
-- [特朗普：将尽早任命美联储新主席](https://flash.jin10.com/detail/20250814002621257800) - 📰 null - 【特朗普：将尽早任命美联储新主席】金色财经报道，美国总统特朗普：将尽早任命美联储新主席，人选只剩三到四人。
-- [USDC Treasury新增铸造2.5亿枚USDC](https://x.com/whale_alert/status/1955664111582200097) - 📰 null - 【USDC Treasury新增铸造2.5亿枚USDC】金色财经报道，据Whale Alert监测，过去10分钟内，USDC Treasury新增铸造2.5亿枚USDC。
-- [某用户20倍杠杆开多8500万美元SOL，24小时浮盈460万美元](https://x.com/nansen_ai/status/1955646553248645431) - 📰 null - 【某用户20倍杠杆开多8500万美元SOL，24小时浮盈460万美元】金色财经报道，据Nansen监测，一位30天智能交易者以20倍杠杆持有价值8500万美元的SOL多头头寸，过去24小时未实现收益达460万美元，涨幅109%。 
-此外，该交易者在BTC和ETH多头交易中获利数百万美元。
-- [Canary TRUMP ETF已在特拉华州注册]() - 📰 null - 【Canary TRUMP ETF已在特拉华州注册】金色财经报道，据市场消息，Canary TRUMP COIN ETF 已在美国特拉华州注册。
-- [某鲸鱼向HyperLiquid存入336万美元以做空BTC、ETH和SOL](https://x.com/OnchainLens/status/1955653311098658998) - 📰 null - 【某鲸鱼向HyperLiquid存入336万美元以做空BTC、ETH和SOL】金色财经报道，据 Onchain Lens 监测，一鲸鱼地址向 HyperLiquid 存入了 336 万美元的 USDC，并开设了空头头寸：BTC（40 倍杠杆）、ETH（10 倍杠杆）和 SOL（20 倍杠杆）。
-- [Offchain Labs收购智能账户开发团队ZeroDev](https://x.com/OffchainLabs/status/1955645881505456342) - 📰 null - 【Offchain Labs收购智能账户开发团队ZeroDev】金色财经报道，Offchain Labs 发文宣布已收购智能账户开发团队 ZeroDev。ZeroDev 目前支持超过 500 万个智能账户，覆盖 30 余条链，为包括 ApeCoin、Conduit、Crossmint 等在内的多个加密项目提供工具。
-- [某鲸鱼地址30分钟内向币安转入超5,000枚以太坊，价值约2,360万美元](https://x.com/OnchainLens/status/1955647940023976404) - 📰 null - 【某鲸鱼地址30分钟内向币安转入超5,000枚以太坊，价值约2,360万美元】金色财经报道，据链上分析师 Onchain Lens（@OnchainLens）监测，某鲸鱼地址向币安交易所转入 5,054.5 枚以太坊（ETH），价值约 2,360 万美元。
-- [某鲸鱼过早卖出WLFI损失超500万美元潜在利润](https://x.com/lookonchain/status/1955645849608028225) - 📰 null - 【某鲸鱼过早卖出WLFI损失超500万美元潜在利润】金色财经报道，据 lookonchain 监测，WLFI 在 Whales Market 的预售市场价格已达到 0.37 美元，较首次预售价格上涨约 25 倍。鲸鱼地址 0xe267 两周前以约 0.17 美元的均价卖出了约 440 万美元的 WLFI，错失了超过 500 万美元的潜在利润。与此同时，鲸鱼地址 0xebe 以约 0.169 美元的均价买入了约 62.8 万美元的 WLFI，目前的浮盈约为 75 万美元。
-- [BTC持有量排名前五的比特币储备实体，总共持有772,359枚BTC]() - 📰 null - 【BTC持有量排名前五的比特币储备实体，总共持有772,359枚BTC】金色财经报道，据@BTCTN发布图文称，按比特币（Bitcoin）持有量排名前五的比特币储备实体，总共持有772,359枚BTC。排名前100的实体总共持有951,323枚BTC。
-- [H100 Group增持45.8枚比特币，总持有量升至809.1枚](https://x.com/H100Group/status/1955637831881183353) - 📰 null - 【H100 Group增持45.8枚比特币，总持有量升至809.1枚】8月13日消息，H100 Group 发文宣布增持 45.8 枚比特币，总持有量升至 809.1 枚。
-- [Pudgy Penguins首席执行官的Instagram账户遭黑客入侵]() - 📰 null - 【Pudgy Penguins首席执行官的Instagram账户遭黑客入侵】金色财经报道，Pudgy Penguins首席执行官的Instagram账户遭黑客入侵，用于推广Pump Fun代币。
+- [Bitfarms购买美国土地用于高性能计算开发，关闭阿根廷矿场](https://theminermag.com/news/2025-08-13/bitfarms-bitcoin-hpc-land) - 📰 null - 【Bitfarms购买美国土地用于高性能计算开发，关闭阿根廷矿场】8月14日消息，加拿大比特币矿企Bitfarms已签署协议，分别以190万美元和350万美元的价格购买了位于美国华盛顿州的3英亩土地和宾夕法尼亚州的181英亩土地，用于潜在的高性能计算（HPC）开发。 
+与此同时，该公司决定关闭其位于阿根廷的比特币矿场，原因是自5月12日以来，该矿场因能源供应商Generacion Mediterranea S.A.（GMSA）的债务重组而面临电力供应中断。Bitfarms与GMSA达成协议，将在2026年1月开始的18个月内分期收回350万美元的能源押金，并取消与该国租赁土地相关的280万美元资产退役义务。
+- [Gavin Wood将于8月下旬重返ParityCEO职位](https://x.com/paritytech/status/1955617027239878698) - 📰 null - 【Gavin Wood将于8月下旬重返ParityCEO职位】金色财经报道，据Parity Technologies官方消息，Parity联合创始人Gavin Wood宣布将于8月下旬重返CEO岗位，接替将离任的BjörnWagner。GavinWood曾于2022年卸任CEO专注协议研发，并表示如今架构基础已完成，市场已具备条件，重返CEO岗位能更快推动下一阶段增长。Björn在任三年间带领团队在熊市中持续交付并拓展新领域，为Parity奠定坚实基础。官方称团队与项目日常运作不变，未来将迎来战略升级。
+- [某鲸鱼地址以47.14美元均价买入16.68万枚HYPE](https://x.com/OnchainLens/status/1955798065992098166) - 📰 null - 【某鲸鱼地址以47.14美元均价买入16.68万枚HYPE】金色财经报道，据Onchain Lens监测，某鲸鱼地址将800万枚USDC存入HyperLiquid，并以47.14美元均价购买了166,820枚HYPE。该鲸鱼地址此前在HYPE笔交易中赚取了785万美元利润。
+- [Compound领投方Bain Capital拟出售34.9万枚COMP，约合1885万美元]() - 📰 null - 【Compound领投方Bain Capital拟出售34.9万枚COMP，约合1885万美元】金色财经报道，据分析师余烬监测，Compound Protocol领投机构之一Bain Capital Ventures近期将34.9万枚COMP（约1885万美元）转入机构业务平台。其中87,250枚COMP（约473万美元）已转入Binance、OKX、Bybit和Gate等交易所。这批COMP代币来源于该机构5年前从Compound部署地址获得的投资份额。
+- [OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展](https://x.com/star_okx/status/1955793263585321224) - 📰 null - 【OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展】8月14日消息，OKX CEO Star在X平台发文称，X Layer已完成升级，网络性能提升至5,000 TPS、Gas费几乎为零，并将OKB总量固定为2,100万枚。他表示，X Layer将以“一条链、一个代币”的模式推动DeFi、全球支付及RWA发展，致力于打造让一切上链的核心基础设施。
+- [Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH](https://x.com/OnchainLens/status/1955794985913368704) - 📰 null - 【Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH】金色财经报道，据链上分析师Onchain Lens监测，Radiant Capital攻击者以每枚4,741美元的价格出售2496枚ETH，换得约1183万美元DAI。该平台曾于2024年10月17日遭遇黑客攻击，损失约5300万美元。
+- [某波段鲸鱼1周前以均价3835美元卖出1万枚ETH，8小时前以均价4715美元买回](https://x.com/EmberCN/status/1955789152722780527) - 📰 null - 【某波段鲸鱼1周前以均价3835美元卖出1万枚ETH，8小时前以均价4715美元买回】金色财经报道，据链上数据分析师余烬监测，一个ETH波段鲸鱼地址一周前(8月7日)在链上出售了10,256枚ETH换成3933.6万USDT，均价3,835美元。 
+8小时前，他在链上用5059.6万USDT重新买回了10,730枚ETH，均价4,715美元。
+- [特朗普家族支持的矿企ABTC加速增持比特币，目前储备量达2130枚BTC](https://theminermag.com/news/2025-08-13/abtc-bitcoin-acquisition) - 📰 null - 【特朗普家族支持的矿企ABTC加速增持比特币，目前储备量达2130枚BTC】金色财经报道，特朗普家族支持的美国比特币公司（ABTC）近期加速了比特币的收购，于7月1日至8月6日期间以加权平均价格约119,120美元/枚的价格，额外购入了1,726枚BTC，总价值2.056亿美元。ABTC是Hut8 Corp.的控股子公司，此次收购使其战略比特币储备量增至约2,130枚BTC，按当前市场价格计算，价值约2.54亿美元。 
+此次收购是在ABTC于6月底完成2.2亿美元私募股权融资后进行的，该公司计划通过与Gryphon Digital Mining的合并上市，该交易已获得美国证券交易委员会的批准，预计本月晚些时候将进行股东投票。
+- [Ark Invest多支基金买入253.2万股BLSH，价值1.72亿美元](https://x.com/ArkkDaily/status/1955783838765854922) - 📰 null - 【Ark Invest多支基金买入253.2万股BLSH，价值1.72亿美元】金色财经报道，据Ark Invest Daily数据显示，Cathie Wood旗下Ark Invest多支基金昨日共计买入2,532,693股Bullish(BLSH)，以收盘价68美元计算，其仓位规模目前价值1.722亿美元。其中： 
+ARKK买入1,714,522股BLSH 
+ARKW买入545,416股BLSH 
+ARKF买入272,755股BLSH
+- [某巨鲸/机构再次增持50,896枚ETH，约合2.4172亿美元](https://x.com/OnchainLens/status/1955790254033838521) - 📰 null - 【某巨鲸/机构再次增持50,896枚ETH，约合2.4172亿美元】金色财经报道，据Onchain Lens监测，某巨鲸/机构近日再增持50,896枚ETH，价值约2.4172亿美元，其总持仓已升至379,316枚ETH，价值约18亿美元，分布在来自FalconX、Galaxy Digital和BitGo的12个钱包。
+- [某波段巨鲸高价买回10,730枚ETH]() - 📰 null - 【某波段巨鲸高价买回10,730枚ETH】金色财经报道，据分析师余烬监测，某ETH波段巨鲸在8月7日以3,835美元的价格出售10,256枚ETH，获得3,933.6万USDT。该地址在8小时前以4,715美元的均价重新买入10,730枚ETH，花费5,059.6万USDT。
+- [Abits Group发布2025年上半年财报：矿业运营利润达213.8万美元，比特币产量为40.27枚](https://www.globenewswire.com/news-release/2025/08/13/3132651/0/en/Abits-Group-Inc-Reports-Unaudited-Financial-Results-for-the-First-Half-of-2025.html) - 📰 null - 【Abits Group发布2025年上半年财报：矿业运营利润达213.8万美元，比特币产量为40.27枚】8月14日消息，Abits Group（纳斯达克：ABTS）今日发布2025年上半年未经审计财务报告。报告显示，尽管受比特币减半影响，公司上半年矿业运营利润达213.8万美元，同比增长近6%。期内比特币产量为40.27枚，较去年同期的61.53枚下降，但受益于比特币均价上涨至95,843美元及孟菲斯托管业务的贡献，部分抵消了产量下降的影响。 
+由于新增设备折旧费用增加及孟菲斯投资相关贷款利息支出，公司录得税前经营亏损34万美元。
+- [BTC突破124000美元，续创历史新高]() - 📰 null - 【BTC突破124000美元，续创历史新高】金色财经报道，行情显示，BTC突破124000美元，续创历史新高，现报124050美元，24小时涨幅达到3.4%，行情波动较大，请做好风险控制。
+- [昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入3660万美元，灰度BTC净流入1140万美元。
+- [Galaxy Digital关联地址过去2天将1.25亿USDC存入Hyperliquid，买入现货并做空进行对冲](https://x.com/lookonchain/status/1955785512008212695) - 📰 null - 【Galaxy Digital关联地址过去2天将1.25亿USDC存入Hyperliquid，买入现货并做空进行对冲】金色财经报道，据Lookonchain监测，某Galaxy Digital关联钱包地址(0xcaC1)在过去两天向Hyperliquid存入1.25亿USDC。他们随后买入了ETH、HYPE、BTC、PUMP和FARTCOIN现货，同时做空BTC、ETH、DOGE、PUMP、FARTCOIN和S进行对冲。
+- [美国破获百万美元支付欺诈案，涉及加密货币洗钱](https://www.justice.gov/usao-ndca/pr/eight-defendants-charged-nationwide-scheme-defraud-two-mobile-shopping-service) - 📰 null - 【美国破获百万美元支付欺诈案，涉及加密货币洗钱】金色财经报道，据官方文件，美国北加州联邦检察官办公室8月13日宣布，一起涉及加密货币洗钱的大规模支付欺诈案告破。检方指控8名嫌疑人通过网络钓鱼手段入侵移动购物服务平台账户系统，利用虚假订单和数字支付卡套取资金后，通过购买礼品卡转换为加密货币进行洗钱，最终将资金兑换为美元。涉案金额超过100万美元。 
+所有被告已被逮捕并获准保释，将于8月25日在奥克兰联邦地区法院接受审理。
+- [SOLOWIN将与Antalpha联合推出1亿美元比特币量化基金](https://www.globenewswire.com/news-release/2025/08/13/3132536/0/en/SOLOWIN-to-Jointly-Launch-US-100M-Bitcoin-Quantitative-Fund-with-Antalpha.html) - 📰 null - 【SOLOWIN将与Antalpha联合推出1亿美元比特币量化基金】金色财经报道，金融服务公司SOLOWIN HOLDINGS（纳斯达克代码：SWIN）今日宣布计划与Antalpha共同推出一只比特币量化基金。该基金目标管理资产规模（AUM）为1亿美元，将采用数据驱动的算法交易策略投资比特币。 
+Antalpha是一家金融科技公司，为数字资产行业的机构提供融资、技术和风险管理解决方案。
+- [今日恐慌与贪婪指数升至75，等级仍为贪婪](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至75，等级仍为贪婪】金色财经报道，今日恐慌与贪婪指数升至75，等级仍为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [蓝港互动公布加密货币持仓，并计划募资1亿美元投资加密资产]() - 📰 null - 【蓝港互动公布加密货币持仓，并计划募资1亿美元投资加密资产】8月14日消息，港股上市公司蓝港互动（HK8267）发布公告“有关加密货币的持有量及LKCrypto资产管理及募资计划”，公告显示，截至8月14日，蓝港互动集团及其附属公司持有比特币97.08枚（平均成本73,015美元）、以太坊913.63枚（平均成本3155美元）、Solana 7692枚（平均成本为165美元）。同时集团参股公司亦持有比特币96枚、以太坊794枚、Solana 6365枚。 
+另外，蓝港互动集团拟通过LKCrypto启动总规模为1亿美元的资产管理及募资计划。该计划将整合本集团现有资金及持有的加密资产，并向市场开放引入外部投资者共同参与。
+- [比特币市值超越Google，全球资产市值排名升至第5位](https://8marketcap.com/#google_vignette) - 📰 null - 【比特币市值超越Google，全球资产市值排名升至第5位】金色财经报道，据8market数据显示，比特币市值超越Google，达到2.457万亿美元，全球资产市值排名升至第5位。
