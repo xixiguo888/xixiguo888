@@ -1,27 +1,43 @@
-- [哈马斯确认已同意加沙地带停火最新提议](https://flash.jin10.com/detail/20250819014630091800) - 📰 null - 【哈马斯确认已同意加沙地带停火最新提议】金色财经报道，巴勒斯坦伊斯兰抵抗运动（哈马斯）18日发表声明说，包括哈马斯在内的多个巴勒斯坦派别已宣布同意加沙地带停火谈判调解方埃及和卡塔尔关于停火方案的最新提议。（新华社）
-- [特朗普：如果一切顺利 将举行美俄乌三边会谈](https://flash.jin10.com/detail/20250819013932656800) - 📰 null - 【特朗普：如果一切顺利 将举行美俄乌三边会谈】金色财经报道，北京时间今天（8月19日）凌晨，美国总统特朗普在白宫会见乌克兰总统泽连斯基时表示，如果一切顺利，他们将举行美俄乌三边会谈。他相信俄罗斯总统普京希望这场战争结束，美国将与乌克兰及其他各方合作，确保和平持续。特朗普称，俄乌战争将会结束，但他无法告知何时结束。美国将与俄罗斯和乌克兰合作，在安全领域提供大量帮助。
-- [美SEC推迟对多支加密ETF的申请做出决议](https://www.theblock.co/post/367274/sec-delays-decisions-on-truth-socials-bitcoin-and-ethereum-etf-along-with-xrp-and-litecoin-funds?utm_source=twitter&utm_medium=social) - 📰 null - 【美SEC推迟对多支加密ETF的申请做出决议】金色财经报道，美国证券交易委员会（SEC）推迟了对特朗普媒体与技术集团旗下社交平台 Truth Social 申请比特币和以太坊 ETF 的审批决定。 
-根据周一提交的文件，SEC 将 Truth Social ETF 的审批截止期延至 10 月 8 日，这是该机构评估数十个加密货币 ETF 提案的常规程序。 
-同日被推迟审批的还包括 CoinShares 莱特币 ETF、CoinShares 瑞波币 ETF 以及 21Shares 瑞波币 ETF，这些产品的决定期限均被延至 10 月下旬。SEC 在文件中表示：“委员会认为有必要延长审议时间，以便充分评估提案内容及相关问题。”
-- [Starknet v0.14.0升级提案获社区批准，将于9月1日上线主网](https://x.com/Starknet/status/1957465610654191951) - 📰 null - 【Starknet v0.14.0升级提案获社区批准，将于9月1日上线主网】金色财经报道，Starknet 社区正式通过 v0.14.0 版本升级提案，该版本计划于 2025 年 9 月 1 日正式部署至主网。该版本将引入多项关键功能：包括多序列器架构与 Tendermint 共识机制、提升用户体验的亚秒级交易“预确认”功能，以及基于 EIP-1559 的改进型费用市场。
-- [特朗普政府称将讨论收购英特尔10%的股份](https://flash.jin10.com/detail/20250819004002744800) - 📰 null - 【特朗普政府称将讨论收购英特尔10%的股份】金色财经报道，据一位白宫官员和其他知情人士透露，特朗普政府正在讨论收购英特尔(INTC.O)约10%的股份，此举可能使美国成为这家陷入困境的芯片制造商的最大股东。知情人士表示，联邦政府正在考虑对英特尔进行潜在投资，这将涉及将该公司从《美国芯片与科学法案》获得的部分或全部拨款转换为股权。英特尔此前已被安排获得109亿美元的《芯片法案》拨款，用于商业和军事生产。这个数字大致足以支付目标持股。以英特尔目前的市值计算，该芯片制造商10%的股份价值约105亿美元。知情人士说，股权的确切规模，以及白宫是否选择推进该计划，仍在变动之中。
-- [Longling Capital关联地址过去3日将1.3万枚ETH存入Binance](https://x.com/OnchainLens/status/1957475611607494893) - 📰 null - 【Longling Capital关联地址过去3日将1.3万枚ETH存入Binance】金色财经报道，据 Onchain Lens 监测，某个与 Longling Capital 关联的地址将 5,000 枚 ETH（约合 2173 万美元）存入 Binance。过去 3 天，该钱包共计将 13,000 枚 ETH（约合 5338 万美元）存入 Binance。目前，该钱包仍持有 74,090 枚 ETH（约合 3.226 亿美元）。
-- [Coinbase国际站上线MNT、RSR、SUPER永续合约](https://x.com/CoinbaseIntExch/status/1957472694837944430) - 📰 null - 【Coinbase国际站上线MNT、RSR、SUPER永续合约】金色财经报道，Coinbase国际站宣布上线MNT、RSR、SUPER永续合约，交易将于UTC时间2025年8月21日上午9:30开始。
-- [Google在TeraWulf的备考股权比例增至14%](https://www.theblock.co/post/367257/googles-pro-forma-stake-in-fifth-largest-bitcoin-miner-terawulf-grows-to-14-as-the-miner-plans-400-million-fundraising-plan) - 📰 null - 【Google在TeraWulf的备考股权比例增至14%】金色财经报道，随着比特币矿企 TeraWulf 计划进行 4 亿美元融资，Google 在该公司的备考股权已增长至 14%，使其成为 TeraWulf 的主要股东之一。TeraWulf 是第五大比特币矿企。
-- [WisdomTree RWA基金总锁仓价值突破9.3亿美元，近三月涨幅逾700%](https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-rwa-fund-surges-over-700-since-may-to-usd931m) - 📰 null - 【WisdomTree RWA基金总锁仓价值突破9.3亿美元，近三月涨幅逾700%】金色财经报道，WisdomTree 旗下的现实世界资产 ( RWA ) 货币市场数字基金 (WTGXX) 近期表现亮眼，过去三个月内资产规模持续攀升。该基金上周单日新增锁仓价值达 3.3 亿美元，推动总锁仓价值达到 9.31 亿美元，较上月增长 90%，自 5 月份以来累计涨幅高达 722%。 
-该基金主要基于以太坊区块链运营，当前在以太坊网络上的锁仓价值为 9.19 亿美元，剩余部分则分布在 Arbitrum 和 Stellar 等其他区块链网络上。
-- [Circle收购高性能共识引擎Malachite以支持其Arc网络](https://chainwire.org/2025/08/18/informal-systems-announces-malachite-acquisition-by-circle-to-power-new-arc-blockchain-network/?mfk=9K%2F1%2FQO%2FLFj%2FRIF5DMVja8D4fa4t4aSqfK7DALv%2FEBieBSQz%2F1fks3LQHmiQSSY%2FMfDfrBKv%2Be3ucRt%2FNbQStMJdV4nRE%2FOFNCDis2) - 📰 null - 【Circle收购高性能共识引擎Malachite以支持其Arc网络】金色财经报道，Informal Systems 今日宣布，其高性能共识引擎 Malachite 已被全球金融科技公司 Circle Internet Group（CRCL）收购，将用于支持专为稳定币金融设计的 Layer-1 区块链网络 Arc 的启动。 
-Circle 对 Malachite 的整合将提升稳定币支付的性能、可靠性与安全性，进一步实现低成本、无国界可信金融基础设施的愿景。Malachite 代码库将继续保持 Apache 2.0 开源许可，确保行业持续创新。
-- [BTC突破116000美元]() - 📰 null - 【BTC突破116000美元】金色财经报道，行情显示，BTC突破116000美元，现报116014.13美元，24小时跌幅收窄至1.88%，行情波动较大，请做好风险控制。
-- [Coinbase已上线SOL和XRP永续合约](https://x.com/cbFutures/status/1957464095923270005) - 📰 null - 【Coinbase已上线SOL和XRP永续合约】金色财经报道，Coinbase Futures 官方在社交媒体上发文表示，美国交易员现已可在 Coinbase 金融市场上访问 SOL 和 XRP 永续期货合约，在安全和受监管的环境中获得 5 倍杠杆。
-- [某巨鲸将400万枚USDC存入Hyperliquid，并3倍杠杆做空HYPE](https://x.com/OnchainLens/status/1957455156850970923) - 📰 null - 【某巨鲸将400万枚USDC存入Hyperliquid，并3倍杠杆做空HYPE】金色财经报道，据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸将 400 万枚 USDC 存入 Hyperliquid ，并 3 倍杠杆做空 HYPE ，并TWAP 订单，在现货市场上购买价值250万美元的 HYPE 。
-- [报告：Core Scientific面临估值差异，目标价上调至22美元](https://www.coindesk.com/markets/2025/08/18/core-scientific-faces-valuation-disconnect-pt-hiked-to-usd22-jefferies) - 📰 null - 【报告：Core Scientific面临估值差异，目标价上调至22美元】金色财经报道，投资银行Jefferies发布研究报告指出，比特币矿企Core Scientific (CORZ)与人工智能云服务提供商CoreWeave的拟议合并正面临估值差异。该行将Core Scientific目标股价从16美元上调至22美元，以反映收购带来的价值，并维持"买入"评级。 
-根据报告，按照目前CoreWeave 99.97美元的股价计算，全股票交易对应的Core Scientific估值约为12.35美元，显著低于Jefferies预估的16至23美元的公允价值区间。分析师建议，如果CoreWeave股价在投票前无法回升，可能需要重新协商交易条款，将交换比率提升至0.16至0.20区间，或增加保护条款以应对股价波动。
-- [Tom Lee：历史性机遇正在以太坊生态上演，未来将见证前所未有的创新浪潮]() - 📰 null - 【Tom Lee：历史性机遇正在以太坊生态上演，未来将见证前所未有的创新浪潮】金色财经报道，BitMine新任董事会主席Tom Lee在社交媒体上发文表示，1971年美国脱离金本位制时，许多人将目光聚焦在黄金上，但真正的赢家其实是华尔街——随着交易体系和金融基础设施的蓬勃发展，现代金融格局由此奠定。 
-如今，随着白宫《GENIUS法案》和美国证交会Project Crypto的推进，同样的历史性机遇正在以太坊生态上演。当这套数字金融基础设施建成之时，我们将见证前所未有的创新浪潮。
-- [LINK突破25美元]() - 📰 null - 【LINK突破25美元】金色财经报道，行情显示，LINK突破25美元，现报25.01美元，24小时跌幅达到2.19%，行情波动较大，请做好风险控制。
-- [IVIX在B轮融资中筹集6000万美元](https://www.finsmes.com/2025/08/ivix-raises-60m-in-series-b-funding.html) - 📰 null - 【IVIX在B轮融资中筹集6000万美元】金色财经报道，IVIX 是一家总部位于纽约的公司，其开发的人工智能驱动平台旨在利用大型语言模型（LLMs）帮助全球各国政府大规模打击金融犯罪。该公司在 B 轮融资中筹集到 6000 万美元。 
-此轮融资由 O.G. 风险投资伙伴公司（OGVP）牵头，Insight Partners、花旗创投、Team8、Disruptive AI、Cardumen Capital 和 Cerca 等机构也参与了投资。
-- [数据：上周机构累计买入超47亿美元ETH]() - 📰 null - 【数据：上周机构累计买入超47亿美元ETH】金色财经报道，稳定币市场规模扩张67.2亿美元，其中以太坊网络上的USDT和USDC增加44.6亿美元。去中心化交易所表现活跃，现货交易量达1,242.64亿美元，环比增长29.47%；永续合约交易量达1,646.84亿美元，环比增长48.64%。
-- [俄罗斯SYZRAN炼油厂在上周遭无人机袭击后，已暂停原油生产和进口]() - 📰 null - 【俄罗斯SYZRAN炼油厂在上周遭无人机袭击后，已暂停原油生产和进口】金色财经报道，据消息人士称，俄罗斯SYZRAN炼油厂在上周遭无人机袭击后，已暂停原油生产和进口。
-- [数据：Cumberland向Coinbase转入逾2.48万枚ETH，约合1.07亿美元]() - 📰 null - 【数据：Cumberland向Coinbase转入逾2.48万枚ETH，约合1.07亿美元】金色财经报道，据WhaleAlert监测，Cumberland向Coinbase Institutional转移24810枚以太坊，价值约合1.07亿美元。
+- [机构以太坊持仓一览：BMNR持有150万枚ETH位列第一](https://www.strategicethreserve.xyz/) - 📰 null - 【机构以太坊持仓一览：BMNR持有150万枚ETH位列第一】8月19日消息，据strategicethreserve数据，近30日以太坊持仓变动较大的财库公司及机构如下： 
+Bitmine Immersion Tech（BMNR）位列第一，当前持有150万枚ETH，价值约65.3亿美元，近30日持仓增加406.68%； 
+SharpLink Gaming（SBET）位列第二，当前持有72.88万枚ETH，价值约31.2亿美元，近30日持仓增加159.72%； 
+The Ether Machine（DYNX）位列第三，当前持有34.54万枚ETH，价值约14.8亿美元，近30日持仓增加8.01%； 
+以太坊基金会位列第四，持有23.16万枚ETH，价值约9.93亿美元，近30日持仓减少3.3%； 
+Bit Digital（BTBT）位列第七，持有12.03万枚ETH，价值约5.07亿美元，近30日持仓未变动； 
+ETHZilla（ETHZ）位列第十，持有9.49万枚ETH，价值约4.05亿美元，近30日持仓增加15.2%； 
+BTC SInc（BTCS）位列第十一，持有7万枚ETH，价值约3亿美元，近30日持仓增加113.16%。
+- [某鲸鱼8 小时前从FalconX获得 300 枚BTC，价值3485 万美元]() - 📰 null - 【某鲸鱼8 小时前从FalconX获得 300 枚BTC，价值3485 万美元】金色财经报道，据Lookonchain监测，鲸鱼 bc1qgf 8 小时前从FalconX获得 300 枚BTC （3485 万美元）。这位鲸鱼在过去一个月内从FalconX积累了 1,521 枚BTC （1.794 亿美元），平均价格为 117,921 美元。
+- [今日恐慌与贪婪指数降至56，等级仍为贪婪](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至56，等级仍为贪婪】金色财经报道，今日恐慌与贪婪指数降至56，等级仍为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [TD Cowen维持Strategy 680美元看涨目标价，预测2027年其将持有BTC总供应量4.3%](https://www.theblock.co/post/367333/td-cowen-maintains-strategys-680-price-target-after-firm-purchases-another-51-4-million-in-bitcoin?utm_source=twitter&utm_medium=social) - 📰 null - 【TD Cowen维持Strategy 680美元看涨目标价，预测2027年其将持有BTC总供应量4.3%】金色财经报道，投行TD Cowen维持对Strategy680美元的看涨目标价，预测到2027年底，Strategy将积累比特币总供应量的4.3%（即90万枚），比特币的价格将达到23.2万美元。当前MSTR的交易价格为363美元，比特币价格在11.6万美元上方。 
+今日Strategy宣布已放宽其股权出售融资限制，允许在股价低于其对应比特币持有量2.5倍时发行普通股，以为Strategy提供更多灵活性来筹集资金增持BTC。此举引发市场争议，而道明银行分析师对此表示，融资限制最初是为了保护储备资产价值而采取的防御性策略，如今已演变为旨在加速创造股东价值的机会主义策略。
+- [某鲸鱼出售3075枚ETH套现1325万美元，目前仍持有1.57万枚](https://x.com/OnchainLens/status/1957602373561643240) - 📰 null - 【某鲸鱼出售3075枚ETH套现1325万美元，目前仍持有1.57万枚】金色财经报道，据Onchain Lens监测，某鲸鱼以均价4310美元出售3075枚ETH，套现1325万美元DAI。目前其仍持有15,708枚ETH，价值约6782万美元，后续可能继续出售。
+- [TeraWulf宣布增发8.5亿美元可转换债券并确定发行价格](https://www.globenewswire.com/news-release/2025/08/18/3135373/0/en/TeraWulf-Inc-Announces-Upsize-and-Pricing-of-850-Million-Convertible-Notes-Offering.html) - 📰 null - 【TeraWulf宣布增发8.5亿美元可转换债券并确定发行价格】金色财经报道，纳斯达克上市比特币矿企TeraWulf今日宣布，其拟发行的2031年到期、票面利率1.00%的可转换优先债券（以下简称“可转换债券”）已确定增发规模与发行价格，该债券总本金金额为8.5亿美元。本次可转换债券将通过私募方式发行，认购对象为依据经修订的《1933年证券法》第144A条认定的合格机构投资者。 
+发行8.5亿美元票面利率1.00%的可转换优先债券（转换溢价率32.50%）。针对2031年到期、票面利率1.00%的可转换债券签订上限期权交易协议，初始上限价格为普通股每股18.76美元，较TeraWulf普通股2025年8月18日收盘价溢价100% 
+TeraWulf已授予本次可转换债券的初始购买方一项为期13天的期权，该期权允许其额外购买总本金金额不超过1.5亿美元的可转换债券。本次发行预计于2025年8月20日完成，具体取决于惯常成交条件的满足情况。
+- [昨日BITB净流入1270万美元，ARKB净流出6570万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日BITB净流入1270万美元，ARKB净流出6570万美元】金色财经报道，据Farside Investors监测数据，昨日BITB净流入1270万美元，ARKB净流出6570万美元。
+- [The ETF Store总裁：SEC不应继续拖延批准现货以太坊ETF的质押功能](https://x.com/NateGeraci/status/1957598026878398708) - 📰 null - 【The ETF Store总裁：SEC不应继续拖延批准现货以太坊ETF的质押功能】金色财经报道，The ETF Store总裁Nate Geraci发文表示，美国SEC不应继续拖延批准现货以太坊ETF的质押功能。他认为，即使IRS尚未出台质押奖励的具体税收指引，也不构成SEC阻碍的理由，因为两者分属不同监管机构。他指出，该功能本应在现货以太坊ETF上线时就获批。
+- [ETH跌破4300美元]() - 📰 null - 【ETH跌破4300美元】金色财经报道，行情显示，ETH跌破4300美元，现报4299美元，24小时跌幅达到3.53%，行情波动较大，请做好风险控制。
+- [BTC跌破116000美元]() - 📰 null - 【BTC跌破116000美元】金色财经报道，行情显示，BTC跌破116000美元，现报115988.51美元，24小时跌幅达到1.16%，行情波动较大，请做好风险控制。
+- [Figure Technology提交拟首次公开募股注册声明](https://www.businesswire.com/news/home/20250818159849/en/Figure-Technology-Solutions-Inc.-Files-Registration-Statement-for-Proposed-Initial-Public-Offering) - 📰 null - 【Figure Technology提交拟首次公开募股注册声明】金色财经报道，金融科技公司Figure Technology今日宣布，已向美国证券交易委员会（SEC）提交Form S-1注册声明，拟进行其A类普通股的首次公开募股。拟发行股数及价格区间尚未确定。本次拟发行取决于市场及其他条件，无法保证发行是否或何时完成，亦无法保证发行的实际规模或条款。Figure已申请其在纳斯达克全球市场的A类普通股上市，股票代码为“FIGR”。 
+高盛集团有限责任公司（Goldman Sachs & Co. LLC）、杰富瑞（Jefferies）和美银证券（BofA Securities）担任牵头簿记管理人。
+- [某新建钱包从FalconX收到15,752枚以太坊，约合6,824万美元]() - 📰 null - 【某新建钱包从FalconX收到15,752枚以太坊，约合6,824万美元】金色财经报道，据链上分析师Onchain Lens监测，一个新建钱包从加密货币交易平台FalconX收到了15,752个以太坊（ETH），价值约6,824万美元。
+- [Soluna Holdings公布Q2财务业绩：收入620 万美元，净亏损同比下降 140 万美元](https://www.businesswire.com/news/home/20250815180089/en/Soluna-Reports-Q225-Results) - 📰 null - 【Soluna Holdings公布Q2财务业绩：收入620 万美元，净亏损同比下降 140 万美元】金色财经报道，为比特币挖矿和人工智能等密集型计算应用开发绿色数据中心的纳斯达克上市公司Soluna Holdings宣布了截至2025年6月30日的第二季度财务业绩： 
+净亏损同比下降 140 万美元，调整后 EBITDA 同比下降 300 万美元（2024 Q2 对比 2025 Q2） ，主要受 2024 年 4 月比特币减半及哈希价格波动影响（约 60 万美元），同时 Dorothy 1B 上线机器数量减少、效率下降。专业费用增加 20 万美元，包括与备用股权购买协议相关的法律费用和合规成本。 
+2025 年第二季度收入为 620 万美元，同比下降 350 万美元。四个主要因素导致下降：比特币减半及随后的哈希价格波动（200 万美元）、商业模式向更多利润分成转变（完全由成本下降 80 万美元抵消，对毛利无影响）、矿机可用性和效率下降导致自营挖矿减少（60 万美元）、需求响应服务下降（10 万美元，主要因 ERCOT 参与率增加）。
+- [美联储终止针对加密货币与分布式账本技术的监管项目](https://www.ledgerinsights.com/federal-reserve-drops-supervision-program-that-targeted-crypto-dlt/) - 📰 null - 【美联储终止针对加密货币与分布式账本技术的监管项目】金色财经报道，周五，美国联邦储备委员会（简称 “美联储”）关闭了其于 2023 年设立的 “新型业务活动” 监管项目。该项目推出时，监管机构曾表示，其目的是 “确保与创新相关的风险得到妥善应对”。该项目主要适用于分布式账本技术（DLT）、加密资产、为加密货币领域提供支持的银行，以及银行与非银行机构之间由复杂技术驱动的合作关系。 
+美联储表示，目前其对相关风险已有更充分的了解，因此这些业务活动可纳入常规监管流程。今年 4 月，美联储还撤销了多份针对加密货币与分布式账本技术的监管信函，其中包括一份要求相关业务活动启动前需获得 “不反对函” 的信函。 
+该项目的限制性监管方式对区块链银行业务计划产生了实际影响。向美国联邦存款保险公司（FDIC）提交的信息自由请求显示，该项目阻碍了 “美国社区银行间支付联盟（USDF Consortium）” 的启动 —— 该联盟旨在推动社区银行间的同业支付，最终因受阻而放弃了这一计划。而抱有此类（推动区块链同业支付）目标的并非只有该联盟一家。
+- [美国财长：稳定币将扩大全球美元使用渠道，并导致对美国国债的需求激增](https://x.com/CoinDesk/status/1957492909512523990) - 📰 null - 【美国财长：稳定币将扩大全球美元使用渠道，并导致对美国国债的需求激增】8月19日消息，美国财政部长贝森特表示，“实施《GENIUS法案》对于确保美国在数字资产领域的领导地位至关重要。稳定币将扩大全球数十亿美元的美元使用渠道，并导致对美国国债的需求激增。” 
+自7月《GENIUS法案》通过以来，收益型稳定币供应量激增。数据显示，最大的受益者是Ethena的USDe和Sky的USDS，这两种代币在各自协议中质押时能获得收益。据DefiLlama数据，自7月18日起，USDe流通供应量增长了70%，突破100亿美元，使其市值排名所有稳定币中的第三位。同期，USDS流通供应量上涨了23%，接近48.1亿美元，市值位列第四。
+- [金色晨讯 | 8月19日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 8月19日隔夜重要动态一览】21:00-7:00关键词：ETF、Strategy、KindlyMD、BNC 
+1.特朗普：俄乌不必非得有停火协议； 
+2.美SEC推迟对多支加密ETF的申请做出决议； 
+3.Strategy放宽股票出售规则以增加融资灵活性； 
+4.KindlyMD完成2亿美元可转债融资拟增持比特币； 
+5.“BNB版微策略”BNC扩充BNB持仓量至32.5万枚； 
+6.美国财政部征求公众意见，探索打击数字资产违法活动的新方法； 
+7.Bitfinex报告：比特币价格上周创历史新高，但因对宏观市场敏感目前处于盘整。
+- [英特尔(INTC.O)美股盘后涨超3%]() - 📰 null - 【英特尔(INTC.O)美股盘后涨超3%】金色财经报道，英特尔(INTC.O)美股盘后涨超3%，消息面上，软银集团与英特尔(INTC.O)签署20亿美元投资协议。(金十)
+- [软银集团与英特尔(INTC.O)签署20亿美元投资协议]() - 📰 null - 【软银集团与英特尔(INTC.O)签署20亿美元投资协议】金色财经报道，软银集团与英特尔(INTC.O)签署20亿美元投资协议，软银将以每股23美元的价格购买英特尔普通股。(金十)
+- [Chamath新成立的SPAC将投资包括DeFi在内的四个领域](https://x.com/bwenews/status/1957562598007926876) - 📰 null - 【Chamath新成立的SPAC将投资包括DeFi在内的四个领域】金色财经报道，Social Capital首席执行官Chamath Palihapitiya成立新的名为“American Exceptionalism”的SPAC，估值2.5亿美元，发行2500万股，每股10美元。该SPAC将在包括DeFi在内的四个领域进行投资。
+- [Strategy放宽股票出售规则以增加融资灵活性](https://www.cryptotimes.io/2025/08/19/michael-saylor-eases-stock-sale-rules-as-bitcoin-premium-shrinks/) - 📰 null - 【Strategy放宽股票出售规则以增加融资灵活性】金色财经报道，Michael Saylor领导的Strategy Inc.调整了融资政策，不再坚持此前“股价需高于比特币持仓价值的2.5倍”才能增发普通股的限制，而是允许在低于该水平时也可发行，以便在需要时灵活融资。分析人士认为，这为公司提供了更多操作空间，包括把握比特币买入机会。
