@@ -1,26 +1,38 @@
-- [知情人士：Anthropic正在洽谈筹集高达100亿美元的新资金](https://flash.jin10.com/detail/20250822013601731800) - 📰 null - 【知情人士：Anthropic正在洽谈筹集高达100亿美元的新资金】金色财经报道，据知情人士透露，Anthropic即将达成新一轮融资至多100亿美元的协议，这一金额高于预期，也是迄今为止人工智能初创公司最大的一笔巨额融资之一。知情人士称，谈判仍在进行中，最终金额可能会有所变化。此前有报道称，Anthropic正在进行深入讨论，计划在本轮融资中筹集50亿美元，其估值为1700亿美元。知情人士表示，由于投资者需求强劲，这一数额大幅增加。据悉，投资公司Iconiq Capital将领投该轮融资。知情人士透露，其他预计的参与者包括TPG Inc.、光速创投、Spark Capital和Menlo Ventures。Anthropic还与卡塔尔投资局和新加坡主权基金新加坡政府投资公司（GIC）就加入这一轮谈判进行了讨论。
-- [Kraken调查：65%受访者看好加密资产未来10年表现超越股票](https://www.coindesk.com/markets/2025/08/21/majority-of-dual-asset-investors-see-crypto-outpacing-stocks-over-next-decade-kraken-survey) - 📰 null - 【Kraken调查：65%受访者看好加密资产未来10年表现超越股票】金色财经报道，据Kraken最新调查显示，65%的同时持有加密资产和股票的投资者认为，加密资产将在未来十年内实现比股票更强劲的增长，仅35%更看好股票表现。 
-此外，过去12个月内，42%的双资产投资者表示加密资产表现优于其股票投资，而31%则认为股票表现更好。调查还发现，在全球不确定性时期，33%的投资者倾向于将新增资本分配至加密资产，超过股票和现金的比例。
-- [韩国女演员黄正音因挪用公司资金投资加密货币被判三年有期徒刑](https://www.yna.co.kr/view/AKR20250617111400005) - 📰 null - 【韩国女演员黄正音因挪用公司资金投资加密货币被判三年有期徒刑】金色财经报道，据韩联社，因涉嫌挪用公司 42 亿韩元（约 307 万美元）资金并投资虚拟货币而被起诉的韩国女演员黄正音（音译）在济州地方法院接受量刑听证，被判处 3 年有期徒刑。 
-此前，黄正音于 2022 年左右从训民正音娱乐公司套取 43.4 亿韩元，并将其中的 42 亿韩元投资于虚拟货币，涉嫌违反《特定经济犯罪加重处罚等相关法律》（挪用公款）。
-- [BTCS与EST合作推出以ETH支付的区块链股息平台Bividend](https://x.com/NasdaqBTCS/status/1958576606168945099) - 📰 null - 【BTCS与EST合作推出以ETH支付的区块链股息平台Bividend】金色财经报道，美股以太坊战略储备公司 BTCS Inc. 与 Equity Stock Transfer（EST）合作推出区块链股息平台 Bividend，以 ETH 支付。
-- [特朗普：大约两周内将知道俄乌问题的进展](https://flash.jin10.com/detail/20250822005608065800) - 📰 null - 【特朗普：大约两周内将知道俄乌问题的进展】金色财经报道，美国总统特朗普：（就俄乌问题）我们将在大约两周内知道进展，两周后，我们可能会不得不采取其他策略。
-- [SOL跌破180美元]() - 📰 null - 【SOL跌破180美元】金色财经报道，行情显示，SOL跌破180美元，现报179.95美元，24小时跌幅2.37%，行情波动较大，请做好风险控制。
-- [YZY Money：未来几日将为YZY用户推出新功能](https://x.com/YZY_MNY/status/1958561178453672382) - 📰 null - 【YZY Money：未来几日将为YZY用户推出新功能】8月22日消息，Kanye West 推出的 YZY MONEY 发推表示，「未来几天，将开始为 YZY 用户 推出新功能。正在短期内打造创新项目，长期稳健发展。」
-- [Coinbase将上线USD1](https://x.com/CoinbaseAssets/status/1958572537295589801) - 📰 null - 【Coinbase将上线USD1】金色财经报道，Coinbase 将新增对以太坊网络上 World Liberty Financial USD (USD1) 的支持。如果满足流动性条件，交易将于今天晚些时候开始。
-- [特朗普：在纽约州总检察长一案上获得大胜利](https://flash.jin10.com/detail/20250822000707168800) - 📰 null - 【特朗普：在纽约州总检察长一案上获得大胜利】金色财经报道，美国总统特朗普发文称，在纽约州总检察长Letitia James一案上获得大胜！我非常尊重法院有勇气推翻这一非法和可耻的决定，这一决定损害了整个纽约州的商业。其他人则不敢在那里做生意。包括利息和罚款在内，金额超过5.5亿美元。从商业意义上讲，这是一场政治迫害，前所未见。这是市政府和州政府干涉选举的一个案例，他们试图非法地表明，我做错了事情，而事实上，我做的一切都是绝对正确的，甚至是完美的。
-- [灰度：已通过iCapital Marketplace为金融专业人士提供主动管理型加密货币收入策略](https://www.globenewswire.com/news-release/2025/08/21/3137176/0/en/Grayscale-s-Actively-Managed-Crypto-Income-Strategy-Now-Available-on-the-iCapital-Marketplace-Enabling-Broad-Access-to-Crypto-Staking-Opportunities.html) - 📰 null - 【灰度：已通过iCapital Marketplace为金融专业人士提供主动管理型加密货币收入策略】金色财经报道，数字资产管理平台灰度（Grayscale Investments）宣布其首个主动管理型投资策略现已通过iCapital Marketplace提供给金融专业人士，将灰度的覆盖范围扩大到更广泛的金融顾问网络，为合格投资者提供加密货币质押等非传统投资机会，据悉该策略的目标是将 质押奖励货币化，并按季度以美元形式分配给投资者。
-- [某比特币巨鲸向HyperLiquid存入2,000万枚USDC，并以6倍杠杆做多ETH](https://x.com/OnchainLens/status/1958543179088904533) - 📰 null - 【某比特币巨鲸向HyperLiquid存入2,000万枚USDC，并以6倍杠杆做多ETH】金色财经报道，据 Onchain Lens 监测，某比特币 OG 巨鲸已向 HyperLiquid 存入 2,000 万枚 USDC，并在新钱包中以 6 倍杠杆开设 ETH 多头头寸。
-- [道富银行接入摩根大通数字债务服务，推动区块链债务证券托管](https://www.businesswire.com/news/home/20250821857834/en/State-Street-Becomes-First-Third-Party-Custodian-to-Launch-on-J.P.-Morgans-Digital-Debt-Service-Bringing-Blockchain-Based-Debt-Securities-Custody-to-Institutional-Clients) - 📰 null - 【道富银行接入摩根大通数字债务服务，推动区块链债务证券托管】金色财经报道，道富银行 (State Street)宣布成为首家接入摩根大通数字债务服务的第三方托管机构，为机构客户提供基于区块链的债务证券托管服务。 
-摩根大通的数字债务服务通过Kinexys数字资产平台支持债券的发行、结算和生命周期管理，采用区块链技术实现精准的T+0结算和自动化操作。首笔交易由State Street投资管理部门完成，购买了1亿美元的商业票据，标志着短期债务市场的现代化进程。
-- [CryptoQuant：比特币鲸鱼在过去7日BTC回调期间累计增持超1.6万枚BTC](https://x.com/cryptoquant_com/status/1958555433288827190) - 📰 null - 【CryptoQuant：比特币鲸鱼在过去7日BTC回调期间累计增持超1.6万枚BTC】金色财经报道，CryptoQuant 分析师 Cauê Oliveira 表示，「过去七天，比特币鲸鱼钱包累计增持超过 16,000 枚 BTC，这表明在比特币价格下跌时鲸鱼在逢低买入。」
-- [Coinbase研究负责人：预测2028年稳定币市值将达到1.2万亿美元](https://x.com/Dav1dDuong/status/1958523569245450591) - 📰 null - 【Coinbase研究负责人：预测2028年稳定币市值将达到1.2万亿美元】金色财经报道，Coinbase研究负责人David Duong表示，Coinbase研究团队采用随机建模方法，通过运行数千次蒙特卡罗式模拟和自回归建模，预测到2028年稳定币市值将达到1.2万亿美元。该模型基于最新观察到的水平和月度增长数据，模拟了20,000条月度增长路径。
-- [美国司法部官员敦促美联储主席鲍威尔撤换理事库克](https://flash.jin10.com/detail/20250821232940799800) - 📰 null - 【美国司法部官员敦促美联储主席鲍威尔撤换理事库克】金色财经报道，美国司法部官员敦促美联储主席鲍威尔撤换理事库克。
-- [某巨鲸/机构近24小时卖出2,070枚BTC，并买入30,367枚ETH、合约开多7.8万枚ETH](https://x.com/EmberCN/status/1958548130548596780) - 📰 null - 【某巨鲸/机构近24小时卖出2,070枚BTC，并买入30,367枚ETH、合约开多7.8万枚ETH】金色财经报道，据链上分析师余烬监测，持有 10,606 枚 BTC 长达 7 年之久盈利 11.2 亿美元的巨鲸/机构，已经在最近 24 小时里卖出了 2,070 枚 BTC (2.35 亿美元)。 
-出售 BTC 所获资金一部分买进了 30,367 枚 ETH (1.31 亿美元) 现货；一部分通过合约开多了 7.8 万枚 ETH (仓位价值 3.36 亿美元)。而他现在还有 8,437 枚 BTC (9.6 亿美元)，可能还会继续的换仓到 ETH。
-- [Verb Technology：持有价值7.13亿美元TON和6700万美元现金](https://www.businesswire.com/news/home/20250821238938/en/Verb-Technology-Announces-%24780-Million-in-Treasury-Assets-to-Advance-its-TON-Treasury-Strategy) - 📰 null - 【Verb Technology：持有价值7.13亿美元TON和6700万美元现金】金色财经报道，Verb Technology Company, Inc.（纳斯达克代码：VERB，将更名为 Ton Strategy Company）今日宣布，公司财库资产已超过 7.8 亿美元，其中包括 7.13 亿美元的 Toncoin（TON），以及 6,700 万美元现金。 
-此前，Verb Technology 于 8 月 8 日完成 5.58 亿美元的私募配售，参与投资者超过 110 家机构及加密原生投资者。公司将私募配售所得的大部分资金用于 购入 TON，作为主要财库储备资产。目标是囤积超过 5% 的 TON 流通供应量。
-- [AI初创公司EliseAI完成2.5亿美元E轮融资](https://techstartups.com/2025/08/21/eliseai-raises-250m-in-series-e-funding-led-by-andreessen-horowitz-doubling-valuation-to-2-2b/) - 📰 null - 【AI初创公司EliseAI完成2.5亿美元E轮融资】金色财经报道，垂直领域 AI 初创公司 EliseAI 完成 2.5 亿美元 E 轮融资，A16z 领投，Bessemer Venture Partners、Sapphire Ventures 和 Navitas Capital 参投。公司估值翻倍至 超过 22 亿美元。 
-EliseAI 由 Minna Song（CEO）和 Tony Stoyanov（CTO）于 2017 年创立，一直致力于打造垂直领域专用 AI 系统。
-- [美联储哈玛克：我们认为距离达到中性水平还有一定距离](https://flash.jin10.com/detail/20250821230952409800) - 📰 null - 【美联储哈玛克：我们认为距离达到中性水平还有一定距离】金色财经报道，美联储哈玛克表示，我们认为距离达到中性水平还有一定距离。
-- [美联储哈玛克：根据现有数据来看，九月不会降息](https://flash.jin10.com/detail/20250821231053446800) - 📰 null - 【美联储哈玛克：根据现有数据来看，九月不会降息】金色财经报道，美联储哈玛克表示，根据现有数据来看，九月不会降息。
+- [Bullish 和 Gemini 的 IPO 文件利用新的 GAAP 规则来提升收入]() - 📰 null - 【Bullish 和 Gemini 的 IPO 文件利用新的 GAAP 规则来提升收入】金色财经报道，加密货币交易所 Gemini 和 Bullish 最近提交了 IPO 文件，但结果并不好看。尽管在 Circle 重磅上市之后，加密货币 IPO 市场异常火热，但这两份文件却揭示出，即便是行业内的主要公司，盈利能力也十分低迷。 
+在 Bullish 最近提交的 F-1 文件中，如果不是利用了加密行业游说团体推动的新规——即 FASB 的 ASU 2023-08，允许企业将单纯持有数字资产产生的收益计入利润表，那么其过去两个财年的业绩本应是负数。 
+2025 年上半年，Gemini 报告的净亏损为 2.825 亿美元，尽管公司通过“加密资产及应收款的已实现和未实现收益、已抵押的加密资产以及作为收入收到的加密资产”抵消了更大的亏损。更具体地说，Gemini 承认其 2025 年上半年净亏损（仍然是明显的负数）被 3780 万美元的“加密资产及应收款的已实现和未实现收益、已抵押的加密资产”所减轻。 
+在 2023 年和 2024 年的经营业绩报告中，Gemini 也使用了同一类别，分别计入 3.681 亿美元和 2.538 亿美元，相当于各年度收入的 375% 和 341%。
+- [首位YZY买家身份曝光，曾靠TRUMP获利超1亿美元](https://x.com/bubblemaps/status/1958604074640695424) - 📰 null - 【首位YZY买家身份曝光，曾靠TRUMP获利超1亿美元】8月22日消息，据Bubblemaps链上分析显示，YZY的首位买家为Naseem——一名今年花费110万美元投资TRUMP并最终获利超1亿美元的交易员。 
+YZY于8月17日部署至链上，首笔实际交易发生在8月21日，即当时AwY1V开头地址购买了价值25万美元的YZY。Bubblemaps在链上发现AwY1V开头地址与此前与Naseem相关的钱包存在强关联，其中包括曾抢购过Libra和Trump的地址，基于这些证据，有理由相信AwY1V开头地址就是Naseem。 
+截至目前，Naseem已从首笔购买中套现80万美元，仍持有60万美元YZY，并可能使用了其他地址进行交易。
+- [Ark Invest昨日减持价值约158万美元Robinhood股票](https://x.com/ArkkDaily/status/1958690666516463803) - 📰 null - 【Ark Invest昨日减持价值约158万美元Robinhood股票】金色财经报道，据Ark Invest Daily监测，Cathie Wood旗下Ark Invest于昨日共减持14,914股Robinhood股票，按收盘价计算，其价值约158万美元。
+- [欧洲刑警组织对俄罗斯加密勒索软件团伙的悬赏实为骗局]() - 📰 null - 【欧洲刑警组织对俄罗斯加密勒索软件团伙的悬赏实为骗局】金色财经报道，一则所谓欧洲刑警组织（Europol）悬赏5万美元以追踪俄罗斯勒索软件团伙Qilin管理员的消息，其实只是一个Telegram骗局。这一虚假悬赏消息欺骗了多家网络安全新闻媒体，使其误以为Europol将向任何能够提供Qilin两名管理员Haise和XORacle信息的人支付奖励。 
+据称，这两人负责“协调附属组织并监督勒索活动”，而Europol希望获得能“直接导致识别或定位这些管理员”的情报。 
+然而，Europol向Security Week确认，这个所谓的悬赏其实是一个“骗局”，该机构从未发布过此类悬赏。
+- [REX-Osprey SOL现货ETF昨日净流出290万美元](https://farside.co.uk/sol/) - 📰 null - 【REX-Osprey SOL现货ETF昨日净流出290万美元】金色财经报道，据Farside Investors监测，REX-Osprey SOL现货ETF昨日净流出290万美元。
+- [“滚仓做多ETH”鲸鱼重新开启1710万美元ETH多头仓位](https://x.com/EmberCN/status/1958689205401657465) - 📰 null - 【“滚仓做多ETH”鲸鱼重新开启1710万美元ETH多头仓位】金色财经报道，据链上分析师余烬监测，一位此前曾将12.5万美元获利至4300万美元的“滚仓做多ETH”鲸鱼，在将资金从Hyperliquid提出后，于今日重新转入74万美元USDC。该鲸鱼随后以25倍杠杆开设了4,026个ETH的多头仓位，总值约1710万美元，开仓价格为4247美元，清算价位于4146美元。
+- [分析：鲍威尔不太可能给出明确信号]() - 📰 null - 【分析：鲍威尔不太可能给出明确信号】金色财经报道，澳大利亚联邦银行经济学家卡普索说，美联储主席鲍威尔在杰克逊霍尔年度研讨会上发表的讲话将成为美元走势的下一个催化剂。不过，不要指望鲍威尔会在任何一个方向上发出明确的信号。卡普索说，他可能会保留自己的选择，等待更多的数据。但如果鲍威尔表示愿意降息，预计市场将更充分地定价9月份的降息，美元将温和下跌。他说，9月份的降息概率目前在70%左右，这为鲍威尔脱离市场预期设定了一个很高的门槛。(金十)
+- [Upbit将上线AERO韩元、USDT、BTC交易对]() - 📰 null - 【Upbit将上线AERO韩元、USDT、BTC交易对】金色财经报道，据官方公告，Upbit将上线AERO韩元、USDT、BTC交易对。
+- [某远古巨鲸已卖出3100枚BTC并买入50,522枚ETH，5倍杠杆做多13.5万枚ETH](https://x.com/EmberCN/status/1958684547929067686) - 📰 null - 【某远古巨鲸已卖出3100枚BTC并买入50,522枚ETH，5倍杠杆做多13.5万枚ETH】金色财经报道，据余烬监测，某个持有10,606枚BTC长达7年之久盈利11.2亿美元的巨鲸/机构目前已经卖出3100枚BTC（价值3.48亿美元），并买入50,522枚ETH现货（价值2.13亿美元）。 
+此外，其花费1.2亿美元保证金以整体5倍杠杆做多13.5万枚ETH，目前仍持有7537枚BTC（价值8.46亿美元）。
+- [Camp Network基金会已开放空投资格检查工具](https://x.com/Camp_FND/status/1958609692001017918) - 📰 null - 【Camp Network基金会已开放空投资格检查工具】8月22日消息，据Camp Network基金会官方消息，已上线CAMP代币空投资格检查工具，用户需在美东时间8月25日23:59前完成注册，验证是否符合Camp第一季空投资格。
+- [今日恐慌与贪婪指数为50，等级仍为中性](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数为50，等级仍为中性】金色财经报道，今日恐慌与贪婪指数为50，等级仍为中性。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [XRP Ledger开发人员反驳其在区块链安全排名中垫底的评价](https://decrypt.co/336095/xrp-ledger-developers-refute-last-place-security-ranking) - 📰 null - 【XRP Ledger开发人员反驳其在区块链安全排名中垫底的评价】金色财经报道，XRP Ledger的开发人员正在对研究公司Kaiko最近的一项排名结果提出反驳。该排名涵盖十余条区块链网络，并将XRP Ledger的安全性评为倒数第一。这一结果重新点燃了关于该加密货币平台去中心化程度及整体可信度的长期争论。 
+Kaiko于8月13日发布的《区块链生态系统排名》中，XRP Ledger的安全得分为41分（满分100分），在15条入榜的区块链中排名垫底。以太坊以83分高居榜首，其后紧跟的是以太坊二层网络Arbitrum和一层网络Solana。 
+然而，RippleX工程主管Ayo Akinyele在接受采访时表示，XRP Ledger的低分具有误导性，并强调该网络有着长期稳定的安全记录。
+- [Meta Platforms与谷歌达成逾100亿美元云计算协议]() - 📰 null - 【Meta Platforms与谷歌达成逾100亿美元云计算协议】金色财经报道，Meta Platforms(META.O)与谷歌(GOOG.O)达成逾100亿美元云计算协议。（The Information）
+- [金色晨讯 | 8月22日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 8月22日隔夜重要动态一览】21:00-7:00关键词：Pham、Verb Technology、宾夕法尼亚 
+1.美联储9月降息的概率为75%； 
+2.美联储哈玛克：暂不支持9月降息； 
+3.交易员减少对美联储今年两次降息的押注； 
+4.宾夕法尼亚议员提议禁止公职人员交易加密货币； 
+5.美联储柯林斯：如果劳动力市场前景恶化 短期内可能适宜降息； 
+6.美CFTC代理主席Pham宣布启动新一轮加密冲刺计划，以落实特朗普政府数字资产战略； 
+7.Verb Technology（将更名为Ton Strategy）：持有价值7.13亿美元TON和6700万美元现金。
+- [美SEC任命Margaret Ryan法官为执法部门主任](https://www.sec.gov/newsroom/press-releases/2025-108-sec-names-judge-margaret-ryan-director-division-enforcement) - 📰 null - 【美SEC任命Margaret Ryan法官为执法部门主任】金色财经报道，美国证券交易委员会（SEC）宣布，法官玛格丽特·“梅格”·瑞安 (Margaret “Meg” Ryan) 被任命为执法部门主任，该任命自 2025 年 9 月 2 日起生效。执法部门代理主任萨姆·沃尔登 (Sam Waldon) 将恢复其先前的职务，担任该部门的首席法律顾问。
+- [Coinbase cbBTC供应突破3万枚，wBTC市场份额下滑](https://www.theblock.co/post/367490/synthetic-btc-market-share-shifts-as-cbbtc-supply-tops-30k-while-wbtc-slides) - 📰 null - 【Coinbase cbBTC供应突破3万枚，wBTC市场份额下滑】金色财经报道，Coinbase的合成比特币产品cbBTC自2024年9月上线以来增长迅速，截至目前供应量已超过30,500枚，2025年累计增长超过160%。与此同时，wBTC供应自cbBTC推出后下降17%，全年下降4%。 
+值得注意的是，尽管cbBTC增长显著，但以太坊上合成比特币总供应量仅上升约3%，显示cbBTC的扩张主要是市场份额内部的替代效应，而非新资金整体流入。cbBTC的增长原因在于Coinbase可以通过自身托管、交易所渠道直接吸引BTC持有者，降低操作摩擦，相比第三方铸造更便捷。
+- [美国抵押贷款利率处于去年10月以来的最低水平](https://flash.jin10.com/detail/20250822004323560800) - 📰 null - 【美国抵押贷款利率处于去年10月以来的最低水平】金色财经报道，美国抵押贷款利率在连续四周下降后保持稳定。房地美在一份声明中表示，30年期固定贷款的平均利率为6.58%，与上周持平，上周降至去年10月以来的最低水平。在过去的几个月里，利率已经降得足够低，可能会吸引一些犹豫不决的购房者放弃观望。在房源积压的部分地区，卖家愿意进行谈判，在成交费用和其他让步方面提供帮助。但负担能力仍然是一个严重的障碍，尤其是对首次购房者而言。另有数据显示，由于价格上涨放缓，7月份二手房销售攀升。但这并不意味着市场变得可以负担得起：有机构表示，自2020年初以来，房价已经飙升了50%以上。Realtor.com的首席经济学家Danielle Hale表示：“更高的利率削弱了典型美国家庭的实际购买力。这种动态迫使许多买家调整他们的预期，要么意味着寻找更小的房子，搬到更远的地方，要么干脆推迟买房的梦想。”
+- [宾夕法尼亚议员提议禁止公职人员交易加密货币](https://cointelegraph.com/news/pennsylvania-bill-ban-public-officials-crypto) - 📰 null - 【宾夕法尼亚议员提议禁止公职人员交易加密货币】金色财经报道，宾夕法尼亚州民主党众议员Ben Waxman提出法案（HB1812），拟禁止公职人员及其直系家属在任期内通过加密货币获利，包括发行、推广或交易其持有财务利益的数字资产。法案规定，相关人士任期内及卸任一年内不得进行超过1000美元的加密货币交易，并须在法案生效90天内清仓持有，加重违规可处5年监禁或最高5万美元罚款。Waxman提出此法案回应特朗普及其家族被指利用公职获利的争议。
+- [美联储9月降息的概率为75%](https://flash.jin10.com/detail/20250822061552273800) - 📰 null - 【美联储9月降息的概率为75%】金色财经报道，据CME“美联储观察”：美联储9月维持利率不变的概率为25%，降息25个基点的概率为75%。美联储10月维持利率不变的概率为13.3%，累计降息25个基点的概率为51.5%，累计降息50个基点的概率为35.3%。
+- [美联储柯林斯：如果劳动力市场前景恶化 短期内可能适宜降息](https://www.cls.cn/detail/2122423) - 📰 null - 【美联储柯林斯：如果劳动力市场前景恶化 短期内可能适宜降息】金色财经报道，美联储柯林斯表示，如果劳动力市场前景恶化，短期内可能适宜降息；不能等到通胀完全明朗才考虑降息；预计通胀将持续上升至年底，然后在2026年恢复早前的下降趋势。
