@@ -1,29 +1,26 @@
-- [Bithumb新增Stether(SD)韩元交易对]() - 📰 null - 【Bithumb新增Stether(SD)韩元交易对】金色财经报道，Bithumb交易所上新公告：市场新增Stader（代币代码：SD）新增韩元交易市场； 
-SD 市值：3600 万美元。
-- [在第二季度，1inch在DEX聚合器领域的市场份额从32.5%提升至59.1%]() - 📰 null - 【在第二季度，1inch在DEX聚合器领域的市场份额从32.5%提升至59.1%】金色财经报道，据@cryptounfolded发布第二季度1inch协议相关数据：在第二季度（Q2），1inch 在去中心化交易所（DEX）聚合器领域的市场份额从 32.5% 提升至 59.1%。该协议第二季度的平均路由交易量（routed volume）达 286 亿美元，环比（QoQ）增长 134.7%。
-- [分析师：美联储未来方向充满不确定性]() - 📰 null - 【分析师：美联储未来方向充满不确定性】金色财经报道，在美国总统特朗普因涉嫌抵押贷款申请信息欺诈而解雇美联储理事丽莎·库克后，美国五年及以上期限的国债收益率在亚洲交易中上升。丹斯克银行分析师Asger Wilhelm Dalsjo在一份报告中表示：“这一前所未有的举动可能会考验美联储的独立性，而库克的离职将使特朗普能够进一步重塑美联储理事会，可能会影响未来的货币政策。”库克否认了这些指控。市场的反应是美国国债收益率的变化，反映出潜在的政策变化和美联储未来方向的不确定性。(金十)
-- [4E：ETH技术面预期反弹，宏观与市场情绪多空交织]() - 📰 null - 【4E：ETH技术面预期反弹，宏观与市场情绪多空交织】8月26日消息，据4E观察， Tom Lee团队分析师Mark Newton指出，以太坊（ETH）在4300美元附近具备良好风险回报比。若牛市趋势延续，ETH有望在此触底反弹，突破5100美元，并向5400-5450区间攀升，具有重要技术意义。Newton曾于上周准确预测ETH在4070美元附近筑底。 
-宏观方面，美国政治风险加剧。特朗普签署行政令罢免美联储理事库克，引发市场对美联储独立性的担忧，美元走弱、非美货币和黄金大幅上行。中金与瑞银均提示，鲍威尔在Jackson Hole的讲话不应被视为一系列宽松的起点，美联储政治化可能推高实际借贷成本。 
-机构对ETH长期逻辑仍然看多。富达在最新报告中表示，以太坊有潜力成为全球协作核心，但仍需应对竞争链与模块化带来的价值捕获挑战。 
-4E提醒投资者：ETH技术面与机构预期向好，但短期波动加剧，叠加宏观与政策不确定性，建议投资者关注支撑与阻力区间，把握仓位节奏。
-- [上市公司Smarter Web Company筹集370万英镑来用于​购买更多比特币](https://x.com/btcNLNico/status/1960221625367908767) - 📰 null - 【上市公司Smarter Web Company筹集370万英镑来用于​购买更多比特币】金色财经报道，据NLNico披露，上市公司Smarter Web Company筹集了370万英镑（约500万美元）来用于​购买更多比特币。
-- [经济学家：美联储的政治化愈演愈烈]() - 📰 null - 【经济学家：美联储的政治化愈演愈烈】金色财经报道，加拿大皇家银行资本市场驻澳大利亚和新西兰首席经济学家王素林说，美联储的政治化在最近几个月愈演愈烈，加剧了美国较高的风险溢价，而预算赤字和债务不断上升、政府难以预测、投资者正在重新评估美元敞口，都加剧了这种溢价。尽管库克事态发展的条件反射性反应对国债的前端收益率略有正面影响，但如果在特朗普政府的胁迫下，美联储最终妥协，在通胀居高不下的背景下降息，这种情况将不会持续下去。
-- [以太坊验证者退出队列规模激增至91.6万枚ETH以上，创一年新高]() - 📰 null - 【以太坊验证者退出队列规模激增至91.6万枚ETH以上，创一年新高】金色财经报道，据etherscan.eth发布图表称，以太坊验证者退出队列规模激增至91.6万枚ETH以上，创下一年多以来的最高水平。
-- [摩根士丹利：预计美联储将在2026年3月、6月、9月和12月各降息25个基点]() - 📰 null - 【摩根士丹利：预计美联储将在2026年3月、6月、9月和12月各降息25个基点】金色财经报道，摩根士丹利：预计美联储将在2026年3月、6月、9月和12月各降息25个基点，使利率最终目标区间降至2.75%-3.0%。
-- [Bio Protocol：将于8月27日进行AUBRAITGE](https://x.com/BioProtocol/status/1960075957965853094) - 📰 null - 【Bio Protocol：将于8月27日进行AUBRAITGE】金色财经报道，Bio Protocol表示其首个BioAgentLaunch项目Aubrai（AUBRAI）不会在认购结束后立即进行TGE，而是在24小时后，即8月27日星期三开始交易。 
-据官网显示，Aubrai已超额认购11.6倍。
-- [欧洲最大的数字资产交易所之一奥地利集团正积极考虑上市]() - 📰 null - 【欧洲最大的数字资产交易所之一奥地利集团正积极考虑上市】金色财经报道，据英国金融时报发布市场消息：Austrian group奥地利集团（作为欧洲最大的数字资产交易所之一）正积极考虑上市，但 “上市地点不会是伦敦”。
-- [Binance Alpha将上线Alttown(TOWN)，持有至少200个Alpha积分的用户可申领1,600枚TOWN代币空投](https://x.com/binancezh/status/1960215950692843738) - 📰 null - 【Binance Alpha将上线Alttown(TOWN)，持有至少200个Alpha积分的用户可申领1,600枚TOWN代币空投】金色财经报道，据官方消息，Binance Alpha是首个上线Alttown(TOWN)的平台，Alpha交易将于2025年8月26日15:00（UTC+8）开始。交易开始后，持有至少200个Alpha积分的用户可申领1,600个TOWN代币空投。先到先得。 
-若活动未结束，则分数门槛将每小时自动降低15分。申领空投将消耗15个Alpha积分。用户需在Alpha活动页面于24小时内确认申领，否则视为放弃领取空投。
-- [观点：美联储的独立性是美国国债和美元保持避险地位的关键因素]() - 📰 null - 【观点：美联储的独立性是美国国债和美元保持避险地位的关键因素】金色财经报道，美林驻澳大利亚前首席经济学家索尔·埃斯莱克表示，美联储理事丽莎·库克被解职标志着，在特朗普总统推动重塑美国联邦政府及其机构之后，白宫干预的明显升级。 
-他补充说，忠诚似乎是继续担任高级公职的一个标准。美联储的独立性是美国国债和美元保持避险地位的关键因素。美联储现在正受到全面的攻击，这样做不会有什么好结果。(金十)
-- [Tom Lee预测ETH底部将在未来几个小时内出现]() - 📰 null - 【Tom Lee预测ETH底部将在未来几个小时内出现】金色财经报道，据@Cointelegraph发布市场消息：BitMine新任董事会主席Tom Lee预测ETH底部将在未来几个小时内出现。
-- [Polymarket上预测鲍威尔今年被免去美联储主席职务的概率降至10%]() - 📰 null - 【Polymarket上预测鲍威尔今年被免去美联储主席职务的概率降至10%】金色财经报道，据官网数据，Polymarket 上预测鲍威尔在2025年被免去美联储主席职务的概率降至 10%。
-- [某鲸鱼向HyperLiquid存入749万美元，做空ETH和HYPE同时买入ETH和HYPE现货]() - 📰 null - 【某鲸鱼向HyperLiquid存入749万美元，做空ETH和HYPE同时买入ETH和HYPE现货】金色财经报道，据Onchain Lens监测，在过去的40分钟内，某鲸鱼向HyperLiquid存入749万枚USDC，开设了ETH(20倍杠杆)和HYPE(10倍杠杆)空头仓位，还在现货市场上买入ETH和HYPE。
-- [昨日贝莱德以太坊ETF交易量达24亿美元]() - 📰 null - 【昨日贝莱德以太坊ETF交易量达24亿美元】金色财经报道，据@thepfund发布图表称，8月25日贝莱德以太坊ETF（代码：ETHA） 
-净流入：67,899 枚以太坊（价值3.1492亿美元） 
-交易量：24 亿美元
-- [高盛集团目前持有的比特币已达4.7亿美元]() - 📰 null - 【高盛集团目前持有的比特币已达4.7亿美元】金色财经报道，据@pete_rizzo_发布市场消息，管理资产规模达3万亿美元的高盛集团（Goldman Sachs）购入价值 1.94 亿美元的比特币（BITCOIN），目前该集团持有的比特币价值已达4.7亿美元。
-- [日本首相：比特币和加密货币是“百年一遇的机遇”]() - 📰 null - 【日本首相：比特币和加密货币是“百年一遇的机遇”】金色财经报道，据@pete_rizzo_发布市场消息，日本首相表示，比特币和加密货币是“百年一遇的机遇”。
-- [AAVE突破330美元]() - 📰 null - 【AAVE突破330美元】金色财经报道，行情显示，AAVE突破330美元，现报330.02美元，24小时跌幅达到3.49%，行情波动较大，请做好风险控制。
-- [密码朋克传奇人物Adam Back称比特币将在 “未来一千年” 取代黄金]() - 📰 null - 【密码朋克传奇人物Adam Back称比特币将在 “未来一千年” 取代黄金】金色财经报道，据@pete_rizzo_发布市场消息，密码朋克传奇人物亚当・拜克（Adam Back）称，比特币（BITCOIN）将在 “未来一千年” 取代黄金。
+- [ETH突破4500美元]() - 📰 null - 【ETH突破4500美元】金色财经报道，行情显示，ETH突破4500美元，现报4500.71美元，24小时跌幅达到2.38%，行情波动较大，请做好风险控制。
+- [特朗普媒体集团计划以64.2亿美元收购CRO DIGITAL](twitter.com/bwenews/status/1960319151156986135) - 📰 null - 【特朗普媒体集团计划以64.2亿美元收购CRO DIGITAL】金色财经报道，据彭博社报道，特朗普媒体集团计划以64.2亿美元收购CRO DIGITAL。
+- [21Shares 将其现货以太坊 ETF 产品更名为 21Shares Ethereum ETF (TETH)](https://www.globenewswire.com/news-release/2025/08/26/3139190/0/en/21Shares-Renames-Spot-Ethereum-Product.html) - 📰 null - 【21Shares 将其现货以太坊 ETF 产品更名为 21Shares Ethereum ETF (TETH)】金色财经报道，21 Shares US 宣布将其现货以太坊交易所交易基金产品 21 Shares Ethereum Core ETF (CETH) 更名为 "21 Shares Ethereum ETF (TETH)"，该更名将于 2025 年 8 月 28 日起生效，不影响投资目标、主要投资策略或任何其他运营方面。客户持仓将不受更名影响。
+- [白宫经济委员会主任：美联储可能在9月会议上降息25个基点]() - 📰 null - 【白宫经济委员会主任：美联储可能在9月会议上降息25个基点】金色财经报道，白宫经济委员会主任布雷纳德：美联储可能在9月会议上降息25个基点。
+- [白宫经济委员会主任：特朗普解雇库克的举动可能导致美国通胀和长期利率上升]() - 📰 null - 【白宫经济委员会主任：特朗普解雇库克的举动可能导致美国通胀和长期利率上升】金色财经报道，白宫经济委员会主任布雷纳德表示，特朗普解雇美联储理事库克的举动可能导致美国通胀和长期利率上升。
+- [币安将上线 BAS U本位永续合约]() - 📰 null - 【币安将上线 BAS U本位永续合约】金色财经报道，据官方公告，币安宣布将于 2025 年 08 月 26 日 21:30（东八区时间）上线 BASUSDT 永续合约，最高杠杆可达 50 倍。
+- [SharpLink增持56533枚以太坊，持仓量达797,704枚](https://x.com/SharpLinkGaming/status/1960313701317419149) - 📰 null - 【SharpLink增持56533枚以太坊，持仓量达797,704枚】金色财经报道，据官方公告，SharpLink以约4,462美元的价格收购了56,533枚ETH。截至2025年8月26日，SharpLink持有797,704枚ETH，价值约37亿美元。
+- [区块链支付基础设施Kira完成670万美元种子轮融资](https://www.prnewswire.com/news-releases/kira-raises-6-7m-to-help-companies-launch-embedded-ai-fintech-products-302538874.html) - 📰 null - 【区块链支付基础设施Kira完成670万美元种子轮融资】金色财经报道，区块链支付基础设施Kira宣布完成670万美元种子轮融资，Blockchange Ventures、Vamos Ventures、Stellar Blockchain、Grit Ventures、Credibly Neutral Ventures、 Michael Seibel和Oso Trava参投，该公司目前利用Stellar区块链实现快速、低成本的支付服务，目前专注于拉丁美洲市场，并且支持大型企业或初创企业推出嵌入式金融产品。
+- [贝莱德CEO：我成为了一名比特币信徒](https://x.com/BitcoinNewsCom/status/1960310174842827030) - 📰 null - 【贝莱德CEO：我成为了一名比特币信徒】金色财经报道，据Bitcoin Magazine报道，贝莱德首席执行官Larry Fink表示，我成为了一名比特币信徒。
+- [Mitosis（MITO）将于8月28日上线币安Alpha和币安合约]() - 📰 null - 【Mitosis（MITO）将于8月28日上线币安Alpha和币安合约】金色财经报道，据官方公告，Mitosis（MITO）将于2025年8月28日在币安Alpha和币安合约上线。
+- [可编程层项目 Hemi 完成 1500 万美元新一轮融资](https://www.theblock.co/post/368234/hemi-raises-15-million-ahead-of-token-launch-for-bitcoin-programmability-layer) - 📰 null - 【可编程层项目 Hemi 完成 1500 万美元新一轮融资】金色财经报道，比特币可编程层项目 Hemi 完成 1500 万美元新一轮融资，使其累计融资达 3000 万美元。YZi Labs、Republic Digital 和 HyperChain Capital 领投，Breyer Capital、Big Brain Holdings、Crypto.com、DNA Fund、Selini Capital、Protein Capital、Quantstamp 和 Web 3.com 等参投。 
+Hemi 计划在即将到来的代币发行事件前，进一步推进网络开发，其核心技术包括 Hemi 虚拟机（hVM）、跨链“Tunnels”以及基于创始人 Maxwell Sanchez 的 proof-of-proof 共识设计，旨在在保持比特币安全性的同时实现类以太坊智能合约功能。
+- [吴杰庄：韩企有意参与香港虚拟资产市场发展](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=95&episode_id=1042920&livetime=20250825000000&share=facebook) - 📰 null - 【吴杰庄：韩企有意参与香港虚拟资产市场发展】金色财经报道，香港立法会议员吴杰庄在接受香港电台网站一桶金之财经新思维节目采访时表示，韩国企业有意参与香港虚拟资产市场发展。据悉，今年四月韩国金融监督院院长李卜铉与香港证监会行政总裁梁凤仪举行会谈时就香港在虚拟资产交易与监管的最新动态进行交流，并商定今后在虚拟资产监管方面保持紧密合作。
+- [摩根士丹利预计美联储将于9月开始降息](https://x.com/DeItaone/status/1960306723253621213) - 📰 null - 【摩根士丹利预计美联储将于9月开始降息】金色财经报道，据Walter Bloomberg报道，在美联储主席杰罗姆·鲍威尔于杰克逊霍尔会议上暗示对劳动力市场风险担忧加剧后，摩根士丹利目前预计美联储将于9月开始降息。该行预测美联储将于下个月降息25个基点，12月再次降息，之后每季度再降息25个基点，到2026年底将最终利率降至2.75-3.0%。这比之前的预测更早，但幅度略小。不过，9月份降息并非必然——强劲的就业数据或关税驱动的通胀可能会推迟降息。
+- [VersaBank USA 在美国启动代币化存款试点项目](https://www.prnewswire.com/news-releases/versabank-announces-versabank-usa-launch-of-tokenized-deposit-pilot-program-in-united-states-302538837.html) - 📰 null - 【VersaBank USA 在美国启动代币化存款试点项目】金色财经报道，纳斯达克上市数字银行及网络安全技术解决方案提供商 VersaBank 宣布其子公司 VersaBank USA 在美国启动代币化存款试点项目“USDVB 试点项目”，旨在验证 VersaBank USA DDR 在美元环境下的功能性、安全性和运行完整性，并确保其符合美国银行业法规。
+- [分析：比特币财务策略类似于加密世界里的担保债务凭证](https://www.ft.com/content/478ea5bc-ea18-44f7-9da1-602ebe283fca) - 📰 null - 【分析：比特币财务策略类似于加密世界里的担保债务凭证】金色财经报道，英国《金融时报》撰文分析指出比特币财务公司可能是“愚人的天堂”，因为在一旦遭遇加密寒冬投资者可能会遭受痛苦的后果。从某种意义上说，比特币财务公司就像加密货币世界的担保债务凭证（CDO），后者是一种被炒作的资产类别，其基本价值很低。技术设计师、营销公司或教育咨询公司放弃了日常工作转而投资比特币，对于投资者来说主要的吸引力似乎在于可以利用内置杠杆来抓住加密货币估值上升势头，然而下一次寒冬来临时BTC投资者很可能会发现痛苦也随之而来。
+- [彭博社：特朗普解雇库克之举或为「大规模」改组美联储铺路](https://www.bloomberg.com/news/newsletters/2025-08-26/how-trump-s-move-to-fire-cook-could-open-door-to-momentous-fed-overhaul?taid=68ad9561f3b52800011c5bc3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) - 📰 null - 【彭博社：特朗普解雇库克之举或为「大规模」改组美联储铺路】8月26日消息，据彭博社报道，特朗普以指控美联储理事库克伪造抵押贷款文件为由，决定将其免职。这一举动标志着他在掌控美联储之战上的进一步升级，并可能为更大范围的改组美联储理事会拉开序幕。此举可能使特朗普有机会任命新人进入美联储理事会，并在该机构中获得四人多数席位。
+- [某钱包抛售 4026 万美元的 HYPE并以 15 倍杠杆开多 ETH](https://x.com/EmberCN/status/1960294280708464805) - 📰 null - 【某钱包抛售 4026 万美元的 HYPE并以 15 倍杠杆开多 ETH】金色财经报道，据链上分析师余烬监测，某钱包在 10 天前以约 45.5 美元价格买入 90 万枚 HYPE 代币（约 4026 万美元），并于近 24 小时内以约 43.5 美元价格全部出售获得 3926 万 USDT，亏损约 180 万美元。 
+该地址随后以 15 倍杠杆开多 51,691 枚ETH，总价值约 2.29 亿美元，开仓价格为 4,630 美元，清算价为 4,076 美元。
+- [BTC跌破110000美元]() - 📰 null - 【BTC跌破110000美元】金色财经报道，行情显示，BTC跌破110000美元，现报109988.17美元，24小时跌幅达到1.03%，行情波动较大，请做好风险控制。
+- [资管公司CI Global推出CI Solana Fund和交易所交易基金CCCX](https://www.businesswire.com/news/home/20250826550649/en/CI-Global-Asset-Management-Simplifies-Access-to-Digital-Assets-with-Expanded-Lineup) - 📰 null - 【资管公司CI Global推出CI Solana Fund和交易所交易基金CCCX】金色财经报道，资产管理公司CI Global Asset Management宣布推出多只数字资产投资基金，包括： 
+1、投资于BTC、ETH和SOL的CI Galaxy Core Multi-Crypto ETF，目前已在多伦多证券交易所上市； 
+2、推出CI Solana Fund，通过投资CI Galaxy Solana ETF为投资者提供投资机会； 
+3、在现有ETF和共同基金中引入加拿大元对冲系列； 
+4、拟于8月27日开始在CI Galaxy Ethereum ETF中部署执行质押策略。
+- [Monex正考虑在日本发行与日元挂钩的稳定币]() - 📰 null - 【Monex正考虑在日本发行与日元挂钩的稳定币】金色财经报道，据东京电视台：Monex证券正考虑在日本发行与日元挂钩的稳定币。Monex董事长Matsumoto表示，公司正在考虑收购一家欧洲加密公司，预计将在“几天内”宣布消息。
