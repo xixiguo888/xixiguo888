@@ -1,22 +1,27 @@
-- [万事达卡与Circle公司扩大合作助力在EEMEA实现USDC与EURC结算]() - 📰 null - 【万事达卡与Circle公司扩大合作助力在EEMEA实现USDC与EURC结算】金色财经报道，据Cointelegraph发布市场消息，万事达卡（Mastercard）与 Circle 公司扩大合作，助力在中东欧、中东及非洲地区（EEMEA）实现 USDC 与 EURC 结算。
-- [美财长呼吁美联储进行内部审查 点名库克抵押贷款欺诈问题]() - 📰 null - 【美财长呼吁美联储进行内部审查 点名库克抵押贷款欺诈问题】金色财经报道，美国财长贝森特周三再次呼吁美联储主席鲍威尔对美联储进行内部审查，并将针对美联储理事库克的抵押贷款欺诈指控列入审查范围。贝森特在接受福克斯商业频道采访时表示：“我鼓励鲍威尔主席在进行外部审查之前先进行内部审查。”“这是一件需要解决的事情，”他指的是库克事件。贝森特称：“我们没有听到她说‘不是我干的’，她只是不停地说，总统不能罢免她。”他表示，他的观点是，“如果一名美联储官员犯有抵押贷款欺诈罪”，他们就不应该在美国主要金融监管机构之一任职。“美联储是一个不负责任的机构，它与美国人民的关系依赖于高度信任，而像这样的事件破坏了这种信任。”
-- [USDC Treasury在Solana链上新增铸造2.5亿枚USDC]() - 📰 null - 【USDC Treasury在Solana链上新增铸造2.5亿枚USDC】金色财经报道，据 Whale Alert 监测，USDC Treasury 刚刚在 Solana 链上新增铸造 2.5 亿枚 USDC。
-- [知情人士：特朗普政府正考虑多种方案，以加强对美联储 12 家地区性银行的影响力]() - 📰 null - 【知情人士：特朗普政府正考虑多种方案，以加强对美联储 12 家地区性银行的影响力】金色财经报道，据彭博社《Odd Lots》播客节目（主创 / 参与）人员之一Joe Weisenthal称，特朗普政府正考虑多种方案，以加强对美联储 12 家地区性银行的影响力 —— 知情人士透露，这些方案或使其影响力突破华盛顿层面的人事任命范畴，进一步扩大覆盖范围。
-- [Willy Woo：资金正从比特币流向以太坊，以太坊每日资金流入规模达9亿美元]() - 📰 null - 【Willy Woo：资金正从比特币流向以太坊，以太坊每日资金流入规模达9亿美元】金色财经报道，加密分析师 Wiv Woo 表示，资金正从比特币流向以太坊。目前，以太坊每日资金流入规模达9亿美元，接近比特币水平。这一趋势始于 Tom Lee 旗下以太坊财库公司 BitMine 开始增持以太坊。
-- [某巨鲸今日抛售4,000枚比特币，并购入96,533枚以太坊]() - 📰 null - 【某巨鲸今日抛售4,000枚比特币，并购入96,533枚以太坊】金色财经报道，据CryptOpus发布图表称，某巨鲸今日抛售了4,000枚比特币，并购入96,533枚以太坊。仅一周时间，他已抛售27,000枚比特币，并购入价值30亿美元的以太坊。
-- [贝森特：库克相关事件削弱了美联储在民众心中的公信力]() - 📰 null - 【贝森特：库克相关事件削弱了美联储在民众心中的公信力】金色财经报道，据*Walter Bloomberg发布市场消息，美国财长贝森特：库克相关事件削弱了美联储在民众心中的公信力。
-- [贝森特：我们将向特朗普提交3至4名美联储主席候选人]() - 📰 null - 【贝森特：我们将向特朗普提交3至4名美联储主席候选人】金色财经报道，美国财长贝森特：关于美联储主席（人选）一事，接下来将与候选人进行沟通。我们将向特朗普提交3至4名美联储主席候选人。
-- [币安HODLer空投项目Dolomite联合创始人为WLFI CTO](https://www.linkedin.com/in/corey-caplan/) - 📰 null - 【币安HODLer空投项目Dolomite联合创始人为WLFI CTO】金色财经报道，据领英资料显示，币安HODLer空投项目Dolomite联合创始人Corey Caplan为World Liberty Financial CTO。 
-此前报道，币安HODLer空投现已上线第33期项目–Dolomite(DOLO)。
-- [Unified Ventures 宣布完成 3000 万美元募资]() - 📰 null - 【Unified Ventures 宣布完成 3000 万美元募资】金色财经报道，Unified Ventures 宣布已完成 3,000 万美元募资，将重点布局 RWA（现实世界资产）与稳定币相关赛道。该基金已投资复星集团旗下新项目 FinChain，以及由前华夏基金数字资产负责人创立的 AlloyX。 
-Web3caff 研究员“菠菜”（@bocaibocai_）在社交媒体发文表示，其已成为 Unified Ventures 创始合伙人。
-- [24小时内流入AVAX的资金规模超过SOL]() - 📰 null - 【24小时内流入AVAX的资金规模超过SOL】金色财经报道，据DiscoverCrypto发布图表称，24小时内流入AVAX的资金规模超过SOL。
-- [BTR已上线Kraken]() - 📰 null - 【BTR已上线Kraken】金色财经报道，据官方公告，BTR 已上线 Kraken 交易所，BTR是专为 DeFi、dApps 和 BTCFi 打造的比特币第二层解决方案。
-- [美国财长贝森特：美国入股英伟达似乎“不在讨论范围内”]() - 📰 null - 【美国财长贝森特：美国入股英伟达似乎“不在讨论范围内”】金色财经报道，美国财长贝森特：（被问及美国政府是否会入股英伟达）不认为英伟达(NVDA.O)需要财务支持。美国入股英伟达(NVDA.O)似乎“不在讨论范围内”。
-- [多名委内瑞拉官员因利用虚拟货币逃避制裁或洗钱被美国起诉](https://www.ft.com/content/dc68b9c5-e2f7-4403-8887-e2895265afb0) - 📰 null - 【多名委内瑞拉官员因利用虚拟货币逃避制裁或洗钱被美国起诉】金色财经报道，据英国金融时报披露，加密货币正在委内瑞拉从边缘领域蜕变为经济支柱，商家纷纷通过币安（Binance）、Airtm等数字钱包平台收款，部分企业甚至用加密货币支付员工薪酬，甚至部分委内瑞拉政府高官也涉足加密货币，多名官员因利用虚拟货币逃避制裁或洗钱被美国起诉。一名当地用户称，收到大量玻利瓦尔时会在币安购买USDT，虽然短期亏损，但长期来看是赚的。
-- [韩国金融集团 Mirae Asset 增持 Strategy 股票，持仓价值达 1.53 亿美元]() - 📰 null - 【韩国金融集团 Mirae Asset 增持 Strategy 股票，持仓价值达 1.53 亿美元】金色财经报道，据 BitcoinTreasuries 消息，资产管理规模达 6140 亿美元的韩国金融集团 Mirae Asset 增加了其在 Strategy（MSTR）的持仓量，增幅达 25%，目前持有价值 1.53 亿美元的 MSTR 股票。
-- [美联储理事丽莎·库克最早将于今天（就特朗普解雇一事）提起诉讼]() - 📰 null - 【美联储理事丽莎·库克最早将于今天（就特朗普解雇一事）提起诉讼】金色财经报道，据CNBC：消息人士透露，美联储理事丽莎·库克最早将于今天（就特朗普解雇一事）提起诉讼。
-- [欧盟提议取消对美国工业产品的所有关税，以满足特朗普的要求]() - 📰 null - 【欧盟提议取消对美国工业产品的所有关税，以满足特朗普的要求】金色财经报道，据Watcher.Guru发布市场消息：欧盟提议取消对美国工业产品的所有关税，以满足特朗普总统的要求。
-- [受上线Binance现货影响，DOLO短时涨超40%]() - 📰 null - 【受上线Binance现货影响，DOLO短时涨超40%】8月27日消息，据行情数据显示，受上线Binance现货影响，DOLO短时涨超40%，现报价0.307美元，较Binance发布公告时仍有14%涨幅。
-- [Paypal(PYPL.O)美股盘前跌幅扩大至3%]() - 📰 null - 【Paypal(PYPL.O)美股盘前跌幅扩大至3%】金色财经报道，行情显示，Paypal(PYPL.O)美股盘前跌幅扩大至3%。
-- [Binance将上线Dolomite(DOLO)现货交易]() - 📰 null - 【Binance将上线Dolomite(DOLO)现货交易】金色财经报道，据官方公告，币安HODLer空投现已上线第33期项目–Dolomite(DOLO)。用户在2025年08月03日08:00至2025年08月07日07:59期间，使用BNB申购保本赚币或链上赚币产品，将获得DOLO空投分配。币安将于2025年08月28日00:00上市DOLO，并开通对USDT、USDC、BNB、FDUSD和TRY的交易对，适用种子标签交易规则。DOLO充值通道将于2025年08月27日20:30开放。
+- [SOL突破210美元]() - 📰 null - 【SOL突破210美元】金色财经报道，行情显示，SOL突破210美元，现报210.16美元，24小时涨幅达到8.35%，行情波动较大，请做好风险控制。
+- [OpenAI与Anthropic互测模型幻觉与安全性等问题](https://flash.jin10.com/detail/20250828012514135800) - 📰 null - 【OpenAI与Anthropic互测模型幻觉与安全性等问题】金色财经报道，OpenAI和Anthropic近日互相对对方的模型进行了评估，以期发现自身测试中可能遗漏的问题。两家公司周三在各自的博客上表示，今年夏天，它们针对对方公开可用的AI模型进行了安全性测试，并检验了模型是否存在幻觉倾向，以及所谓“失准”（misalignment）的问题，即模型未按开发者预期运行。这些评估是在OpenAI推出GPT-5，以及Anthropic在8月初发布Opus 4.1之前完成的。Anthropic由前OpenAI员工创立。
+- [MetaMask已支持域名.sol](https://x.com/MetaMask/status/1960731578029760775?t=v1id1AggjxNlIWSApz8F5Q&s=19) - 📰 null - 【MetaMask已支持域名.sol】金色财经报道，MetaMask 发推表示已支持域名.sol，用户需更新至最新版。
+- [Tom Lee预言以太坊5年内达到6万美元，年底前有超2倍上涨空间](https://x.com/MarioNawfal/status/1960667045088891236) - 📰 null - 【Tom Lee预言以太坊5年内达到6万美元，年底前有超2倍上涨空间】金色财经报道，BitMine 董事会主席 Tom Lee 在接受 Mario Nawfal 专访时称，“金融系统将基于区块链重构，让人想起 1971 年美元脱离金本位的那一刻，以太坊将成为主要受益者之一。我仍然非常看好比特币，比特币有可能达到 20 万美元甚至更高。对于以太坊，我认为它有更大的上涨空间，因为随着区块链和人工智能的发展，它具备了更多的潜力。因此我们将以太坊称为未来 10 至 15 年最大的宏观交易。我认为从现在到年底，比特币有 2 倍的上涨空间，而以太坊则有超过 2 倍的上涨空间。但长期来看，我们进行了一些研究并设想了为期五年的实验，结果预测以太坊最终价格约为 60,000 美元左右。” 
+2017 年，Tom Lee 曾首次公开预测比特币将在五年内（即到 2022 年）达到 25,000 美元，他表示，比特币正在侵蚀黄金的需求，并将其视为数字黄金，具有稀缺性和价值储存潜力。
+- [美财长：美联储主席候选人有11位](https://flash.jin10.com/detail/20250828003655661800) - 📰 null - 【美财长：美联储主席候选人有11位】金色财经报道，美国财长贝森特：美联储主席候选人有11位，实力强劲。劳动节过后，我们将开始面试，并向特朗普提交最终名单。
+- [Cumberland向Coinbase转移22,289枚ETH](https://x.com/whale_alert/status/1960743531233911204) - 📰 null - 【Cumberland向Coinbase转移22,289枚ETH】金色财经报道，据 Whale Alert 监测，Cumberland 约 3 分钟前向 Coinbase Institutional 转移 22,289 枚 ETH，价值约 1.03 亿美元。 
+此前报道，Cumberland 约 3 个半小时前向 Coinbase Institutional 转移 25,200 枚 ETH，价值约 1.16 亿美元。
+- [Tether与Circle今日共计新增铸造12.5亿美元稳定币](https://x.com/lookonchain/status/1960740824729444630) - 📰 null - 【Tether与Circle今日共计新增铸造12.5亿美元稳定币】金色财经报道，据 Lookonchain 统计，Tether 今日新增铸造 10 亿枚 USDT，Circle 今日新增铸造 2.5 亿枚 USDC。过去一个月，Tether 和 Circle 共新增铸造了价值 87.5 亿美元的稳定币。 
+链上新增铸造的稳定币数量增加通常反映了市场对稳定币需求的增长以及用户参与度提高，往往与加密市场的看涨情绪相关，更多资金正在流入加密生态系统。
+- [黑客利用Anthropic AI工具发动勒索攻击](https://flash.jin10.com/detail/20250828001901030800) - 📰 null - 【黑客利用Anthropic AI工具发动勒索攻击】金色财经报道，人工智能公司Anthropic表示，黑客利用Anthropic的技术实施了一场大规模网络犯罪行动，至少影响了17家机构，这是攻击者将商业AI工具大范围武器化“前所未有”的案例。根据Anthropic报告，这名黑客使用Anthropic的代理式编码工具Claude Code，在过去一个月内对政府、医疗、应急服务和宗教机构发动了数据窃取与勒索攻击，导致医疗数据、金融信息及其他敏感记录被泄露，赎金要求从7.5万美元到50万美元不等，以加密货币支付。
+- [Circle和Paxos正在测试全新加密货币发行验证技术](https://www.bloomberg.com/news/articles/2025-08-27/circle-paxos-trial-know-your-issuer-tech-to-weed-out-copycats) - 📰 null - 【Circle和Paxos正在测试全新加密货币发行验证技术】金色财经报道，稳定币巨头 Circle 和 Paxos 正在测试全新加密货币发行验证技术，以帮助实体验证其数字资产持有量。 
+Circle 和 Paxos 与由乔治城法学院教授 Chris Brummer 创立的金融科技初创公司 Bluprynt 合作，利用密码学和区块链技术，在实体发行稳定币时提供发行者验证，将能够追溯代币直到经过验证的发行方。
+- [Solana生态LST协议Sanctum上线V2版本](https://x.com/sanctumso/status/1960727723716084084) - 📰 null - 【Solana生态LST协议Sanctum上线V2版本】金色财经报道，据市场消息，Solana 生态 LST 协议 Sanctum 上线 V2 版本，涵盖新产品更新、全新网站以及专门主页。
+- [Bankless联创：ETH是机构级投资标的，打开TradFi广阔天地将达到新的高度](https://x.com/RyanSAdams/status/1960727232592175210) - 📰 null - 【Bankless联创：ETH是机构级投资标的，打开TradFi广阔天地将达到新的高度】金色财经报道，据 Bankless 联合创始人 Ryan Sean Adams 表示，「在本轮周期中，ETH 证明了自己是一种优质流动性资产（HQLA），就像美国国债、黄金和比特币一样。这将打开 TradFi 资本的广阔天地，推动 ETH 达到新的高度，ETH 是机构级别的投资标的。」
+- [Tether Treasury在以太坊新增铸造10亿枚USDT](https://whale-alert.io/transaction/ethereum/0x3ffb5dd054fcee6bdb2f27c8898938eacdaa3984dc4364290301cc5b136d9014) - 📰 null - 【Tether Treasury在以太坊新增铸造10亿枚USDT】金色财经报道，据Whale Alert监测，北京时间23:23，Tether Treasury在以太坊网络新增铸造10亿枚USDT。
+- [某新建钱包将1500万枚DOLO转入币安，价值447万美元](https://intel.arkm.com/explorer/address/0xCFFeF0A2E9feEe42FED0489fdD0D1Ee5eED62Cd8) - 📰 null - 【某新建钱包将1500万枚DOLO转入币安，价值447万美元】金色财经报道，据Arkham监测数据显示，大约14分钟前，某新建钱包将1500万枚DOLO转入币安，价值447万美元。
+- [美CFTC计划采用纳斯达克监控系统扩大加密货币监管](https://www.theblock.co/post/368490/us-cftc-taps-nasdaq-surveillance-system-as-expands-crypto-oversight?utm_source=twitter&utm_medium=social) - 📰 null - 【美CFTC计划采用纳斯达克监控系统扩大加密货币监管】金色财经报道，美国商品期货交易委员会（CFTC）今日发表声明称，将采用纳斯达克的监控系统扩大加密货币监管，以保护市场免受欺诈、滥用和操纵的影响。如果国会通过目前在两院审议的立法，CFTC 在加密货币监管中的角色可能显著扩大。 
+CFTC 代理主席 Caroline Pham 表示，新监控系统将为该机构提供自动警报和「跨市场分析」功能，包括获取全面的订单簿数据，以支持实时分析和决策，防止和检测传统及加密资产市场滥用。而 CFTC 也用时在为加密货币市场的增长做准备。本月早些时候，CFTC 启动了「加密冲刺」计划，重点关注加密期货交易以及总统数字资产市场工作小组提出的建议。
+- [Avail宣布收购链抽象协议Arcana](https://www.theblock.co/post/368483/founders-fund-backed-avail-acquires-arcana-offering-xar-token-holders-41-swap-into-avail) - 📰 null - 【Avail宣布收购链抽象协议Arcana】金色财经报道，模块化区块链基础设施项目 Avail 已收购链抽象协议 Arcana。根据收购协议，Avail 基金会将获得 Arcana 的全部 XAR 代币供应量，现有 XAR 持有者可以 4:1 的比例将代币置换为 AVAIL。 
+置换后的代币将在 6 个月和 12 个月内分阶段解锁，而 Arcana 团队的代币将在 3 年内逐步解锁。Arcana 的链抽象和开发者工具将被整合到 Avail 的技术栈中，其大部分团队成员也将加入 Avail。
+- [USDC Treasury于以太坊链上新增铸造5150万枚USDC](https://x.com/whale_alert/status/1960718303107650021) - 📰 null - 【USDC Treasury于以太坊链上新增铸造5150万枚USDC】金色财经报道，据 Whale Alert 监测，USDC Treasury 于以太坊链上新增铸造 5150 万枚 USDC。
+- [巨鲸地址刚买入 6900 万美元以太坊]() - 📰 null - 【巨鲸地址刚买入 6900 万美元以太坊】金色财经报道，据Arkham监测，4 个巨鲸地址刚刚从 FalconX 平台购入价值 6940 万美元的以太坊（ETH），其持仓总额由此增至 1.4 亿美元。
+- [BTC突破112000美元]() - 📰 null - 【BTC突破112000美元】金色财经报道，行情显示，BTC突破112000美元，现报112014.5美元，24小时涨幅达到1.46%，行情波动较大，请做好风险控制。
+- [美国三大股指全部转涨，道指涨 0.27%]() - 📰 null - 【美国三大股指全部转涨，道指涨 0.27%】金色财经报道，美国三大股指全部转涨，其中道琼斯工业平均指数上涨 0.27%，标准普尔 500 指数上涨 0.17%，纳斯达克综合指数上涨 0.11%。
+- [消息人士：字节跳动新一轮员工股票回购将使公司估值超过 3300 亿美元](https://x.com/DeItaone/status/1960708831639470309) - 📰 null - 【消息人士：字节跳动新一轮员工股票回购将使公司估值超过 3300 亿美元】金色财经报道，据Walter Bloomberg报道，据消息人士称，字节跳动新一轮员工股票回购将使公司估值超过 3300 亿美元，高于上一轮的 3150 亿美元。 
+字节跳动第二季度营收增长 25%，达到约 480 亿美元。字节跳动的 TikTok 美国业务仍处于亏损状态。
