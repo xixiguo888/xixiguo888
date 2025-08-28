@@ -1,35 +1,28 @@
-- [Arthur Hayes：随着稳定币的扩张，ETHFI和ENA将分别上涨34倍和51倍](https://ns3.ai/en/GjxZEeRKpl) - 📰 null - 【Arthur Hayes：随着稳定币的扩张，ETHFI和ENA将分别上涨34倍和51倍】金色财经报道，前BitMEX首席执行官亚瑟·海耶斯（Arthur Hayes）预测，两个代币——Ether.fi的ETHFI和Ethena的ENA——具有巨大的潜在涨幅。 
-Ether.fi(ETHFI)：Hayes的预测基于Ether.fi Cash这一与Visa合作的信用卡产品。他认为，该产品的全球商业化将大幅增加其基于存款的收入模式，从而推动ETHFI价格上涨34倍。 
-Ethena(ENA)：Ethena的稳定币USDe正在通过其衍生品套利机制迅速抢占市场份额。Hayes认为，如果USDe的市场份额扩大到25%，ENA代币的价格可能会上涨51倍。
-- [上海检察公布一起“GDFC”虚拟货币欺诈案件，涉案金额共计人民币3500余万元](https://mp.weixin.qq.com/s?__biz=MzA4MjY5MDIyMA==&mid=2652293371&idx=1&sn=69cca3878f1bbd14d424ac86e7c5cde2&poc_token=HBfyr2ijYMQH4ivRlWmEALjd90tMp6KQ7Xdi-CpM) - 📰 null - 【上海检察公布一起“GDFC”虚拟货币欺诈案件，涉案金额共计人民币3500余万元】金色财经报道，上海检察系列新闻发布会昨日举行并通报相关案例，其中显示虚拟货币、数字藏品等以技术创新为幌子实施的犯罪逐渐涌现，在一起以投资购买虚拟货币为名骗取被害人钱款的新型金融领域诈骗犯罪案例中，被告人吴某等人在经营上海某电子商务有限公司期间自行发行、不具有实际价值的“空气币”GDFC骗取被害人资金共计人民币3500余万元，相关钱款流入涉案人员个人账户，其行为构成诈骗罪，目前上海闵行区检察院以诈骗罪已对其提起公诉。
-- [OKX日本分支机构okj.com获FSA监管许可，跻身日本前三大交易所]() - 📰 null - 【OKX日本分支机构okj.com获FSA监管许可，跻身日本前三大交易所】8月28日消息，据OKX CEO Star在X平台发文表示，“日本是Web3普及最重要的市场之一，OKX日本分支机构（okj.com）已获得日本金融厅（FSA）的全面监管许可，并跻身日本前三大交易所之列。我们也很自豪能够与合作伙伴共同举办“Sei东京塔专场”等活动，积极支持建设者、创业者和社区。携手各方力量，我们正共同推动日本区块链的未来。”
-- [上市公司LQWD已将其比特币财库中的19.75枚BTC部署至闪电网络](https://x.com/BTCtreasuries/status/1960821293579952503) - 📰 null - 【上市公司LQWD已将其比特币财库中的19.75枚BTC部署至闪电网络】金色财经报道，据@BTCtreasuries披露，加拿大上市公司LQWD已将其比特币财库中的19.75枚BTC部署到闪电网络（Lightning Network）上。 
-报道称，通过收取路由费用，这些比特币产生了高达24%的有效年化收益率。
-- [The Smarter Web Company增持45枚比特币，总持仓量达2440枚](https://x.com/btcNLNico/status/1960945878287454320) - 📰 null - 【The Smarter Web Company增持45枚比特币，总持仓量达2440枚】金色财经报道，据NLNico披露，英国上市公司The Smarter Web Company增持45枚比特币，总持仓量达2440枚。
-- [比特币首位接收者哈尔·芬尼逝世11周年](https://x.com/WatcherGuru/status/1960934802162327877) - 📰 null - 【比特币首位接收者哈尔·芬尼逝世11周年】金色财经报道，据Watcher.Guru报道，今天是比特币首位接收者哈尔·芬尼（HalFinney）去世11周年纪念日。
-- [上市公司LQWD已将其比特币金库中的19.75枚BTC部署至闪电网络](https://x.com/BTCtreasuries/status/1960821293579952503) - 📰 null - 【上市公司LQWD已将其比特币金库中的19.75枚BTC部署至闪电网络】金色财经报道，据@BTCtreasuries披露，加拿大上市公司LQWD已将其比特币金库中的19.75枚BTC部署到闪电网络（Lightning Network）上。通过收取路由费用，这些比特币产生了高达24%的有效年化收益率。
-- [MGBX将于8月28日16:00（SGT）上线LIGHT（Light）现货交易](https://support.mgbx.com/hc/zh-cn/articles/13616869504399) - 📰 null - 【MGBX将于8月28日16:00（SGT）上线LIGHT（Light）现货交易】据官方消息，MGBX即将2025年8月28日16:00（SGT）上线LIGHT（Light）现货交易 
-充值开放时间：2025年8月28日15:00（SGT）  
-交易开放时间：2025年8月28日16:00（SGT）  
-提现开放时间：2025年8月31日19:00（SGT）  
-Heaven是一个部署在Solana区块链上的混合型代币发行平台和自动做市商 (AMM)。其核心功能围绕其原生代币LIGHT展开，该代币支持参与代币发行并在AMM上提供流动性。
-- [以太坊储备实体及现货ETF持币量已超当前以太坊供应量9%](https://www.strategicethreserve.xyz/) - 📰 null - 【以太坊储备实体及现货ETF持币量已超当前以太坊供应量9%】金色财经报道，据strategicethreserve数据，以太坊储备实体及现货ETF持币量已超当前以太坊供应量9%，现为9.2%。其中： 
-70家以太坊储备实体共持有总量3.6%的ETH，价值约合199.6亿美元； 
-以太坊现货ETF则持有总量5.6%的ETH，价值约合309.9亿美元。
-- [TREE上线MGBX后上涨突破0.61 USDT，24 H涨幅超100%](https://www.mgbx.com/spot/trade/TREE_USDT) - 📰 null - 【TREE上线MGBX后上涨突破0.61 USDT，24 H涨幅超100%】8月28日消息。MGBX行情显示，TREE 短时上涨超100%，上涨触及0.61 USDT，现报价0.6 USDT。 
-Treehouse是一个去中心化金融 (DeFi) 协议，专注于在区块链生态系统中提供固定收益产品。它引入了一种名为“去中心化提供利率 (DOR)”的独特金融工具，这是一种基准利率，旨在为去中心化应用提供准确透明的利率。
-- [分析：当前价格下，BitMine尚需再投入约190亿美元才能达到“5%以太坊供应量”目标](https://x.com/crypto_iso/status/1960859360302649837) - 📰 null - 【分析：当前价格下，BitMine尚需再投入约190亿美元才能达到“5%以太坊供应量”目标】8月28日消息，据CryptoISO，BitMine目前已报告持有逾170万枚ETH，若要达到以太坊供应量5%的储备目标，还需额外购入约430万枚ETH。在当前价格（4534美元）下，这笔交易需耗资约195亿美元，当ETH价格接近4200美元时，这一成本将下降至约182亿美元。而ETH每日交易量估算为300亿至500亿美元。 
-分析指出，相比于Michael Saylor过去常常以5-10亿美元大单扫货，每次都能把比特币价格瞬间推高2%以上。Tom Lee显然更老练，不过这也意味着ETH在4060的低点之后，大概率在4200～4400区间会有一道“隐形地板”。
-- [Webull在澳大利亚推出加密货币服务]() - 📰 null - 【Webull在澳大利亚推出加密货币服务】金色财经报道，美国交易应用 Webull 周三在澳大利亚推出加密货币服务，向用户提供数百种不同的数字资产。专家表示，此举将迫使当地交易所降低费用，否则就有可能失去客户。 
-此次上线是通过 Coinbase Prime 实现的，使澳大利亚成为 Webull 继美国和巴西之后的第三个加密市场。根据声明，该公司承诺提供 30个基点的点差。 
-业内专家预测，Webull 的进入将对澳大利亚的加密货币交易市场带来竞争压力，因为当地的交易费用相比国际市场一直居高不下。
-- [BTC突破113000美元]() - 📰 null - 【BTC突破113000美元】金色财经报道，行情显示，BTC突破113000美元，现报113002.25美元，24小时涨幅达到1.24%，行情波动较大，请做好风险控制。
-- [Upbit将上线TREE韩元、BTC及USDT交易对](https://upbit.com/service_center/notice?id=5456) - 📰 null - 【Upbit将上线TREE韩元、BTC及USDT交易对】金色财经报道，据官方公告，Upbit将上线TREE韩元、BTC及USDT交易对。
-- [某巨鲸正在增加其以太坊的多头头寸，目前持仓总额已达86,845枚ETH](https://x.com/lookonchain/status/1960929646444470635) - 📰 null - 【某巨鲸正在增加其以太坊的多头头寸，目前持仓总额已达86,845枚ETH】金色财经报道，据Lookonchain监测，一个被标记为“巨鲸”的地址0xa523正在持续增加其以太坊（ETH）的多头头寸，目前持仓总额已达86,845枚ETH，价值约2.977亿美元。该头寸的预估清算价格为4,342.8美元。
-- [香港证监会：Q2首批虚拟资产现货ETF市值上升73%，持牌虚拟资产平台增至11家]() - 📰 null - 【香港证监会：Q2首批虚拟资产现货ETF市值上升73%，持牌虚拟资产平台增至11家】金色财经报道，香港证监会发布2025年4月至6月《季度报告》，其中披露截至7月底，香港证监会持牌虚拟资产交易平台数目已增加至11家，而获允许提供虚拟资产交易服务的持牌法团有57家。截至6月底，亚洲首批6只香港证监会认可的虚拟资产现货ETF自上市以来的市值及日均成交额分别上升73%及13%，目前香港证监会认可的虚拟资产现货ETF数目增至9只。
-- [Hut 8从Two Prime和Coinbase获得3.3亿美元信贷，当前持有超过1万枚比特币](https://news.bitcoin.com/hut-8-secures-330m-credit-from-two-prime-coinbase-to-back-1-5-gw-us-expansion/) - 📰 null - 【Hut 8从Two Prime和Coinbase获得3.3亿美元信贷，当前持有超过1万枚比特币】金色财经报道，The Miner Mag报道，加密货币矿企Hut8宣布获得3.3亿美元信贷支持，用于在美国建设四个大型基础设施项目，总计扩展1.53GW容量。 
-这些项目分布于路易斯安那州、德克萨斯州和伊利诺伊州，规模从50 MW到1000 MW不等。融资来源包括与Two Prime达成的2亿美元循环信贷，以及Coinbase提供的1.3亿美元扩展信贷，平均成本为8.4%。此外，Hut8还启动了10亿美元股票发行计划，并与银行洽谈项目融资方案。公司当前持有超过1万枚比特币，价值约12亿美元，作为流动性储备。
-- [BTC突破113000美元]() - 📰 null - 【BTC突破113000美元】金色财经报道，行情显示，BTC突破113000美元，现报113032.23美元，24小时涨幅达到1.24%，行情波动较大，请做好风险控制。
-- [SOL突破210美元]() - 📰 null - 【SOL突破210美元】金色财经报道，行情显示，SOL突破210美元，现报210.05美元，24小时涨幅达到2.42%，行情波动较大，请做好风险控制。
-- [pump.fun：过去一周买入价值约1065万美元PUMP代币](https://x.com/pumpdotfun/status/1960793858180010092) - 📰 null - 【pump.fun：过去一周买入价值约1065万美元PUMP代币】金色财经报道，pump.fun发文表示，其过去一周买入约1065万美元PUMP代币，相当于该期间（8月20日至8月26日）总收入的99.32%。 
-截至目前，pump.fun已购买共超5813万美元的PUMP代币，占流通供应量的4.261%。
+- [美国第二季度实际GDP年化季率修正值为3.3%]() - 📰 null - 【美国第二季度实际GDP年化季率修正值为3.3%】金色财经报道，美国第二季度实际GDP年化季率修正值为3.3%，预期3.1%，前值3.0%。
+- [分析：比特币的MVRV比率跌破365日均线，表明可能出现周期疲软和长期修正](https://x.com/BitcoinNewsCom/status/1961043085091106821) - 📰 null - 【分析：比特币的MVRV比率跌破365日均线，表明可能出现周期疲软和长期修正】金色财经报道，据Bitcoin.comNews披露，比特币的MVRV比率跌破365日均线，表明可能出现周期疲软和长期修正。
+- [美国至8月23日当周初请失业金人数22.9万人，预期23万人]() - 📰 null - 【美国至8月23日当周初请失业金人数22.9万人，预期23万人】金色财经报道，美国至 8 月 23 日当周初请失业金人数 22.9 万人，预期 23 万人，前值由 23.5 万人修正为 23.4 万人。(金十)
+- [AirNet Technology 完成 1.8 亿美元融资，融资款项全部以数字资产支付](https://www.prnewswire.com/news-releases/airnet-technology-inc-completes-us180-0-million-registered-direct-offering-302540933.html) - 📰 null - 【AirNet Technology 完成 1.8 亿美元融资，融资款项全部以数字资产支付】金色财经报道，纳斯达克上市公司 AirNet Technology Inc.（股票代码：ANTE）宣布完成其此前公布的定向增发，通过出售 80,826,225 股普通股及附带认股权证，筹集资金总额约 1.8 亿美元。 
+值得注意的是，本次融资款项全部以数字资产支付，包括约 819.07 枚比特币和 19,928.91 枚以太坊（未扣除发行费用）。AirNet 首席执行官 Dan Shao 表示，这笔融资标志着公司的新篇章，公司已聘请一支经验丰富的加密货币专业团队，为公司制定全面的发展策略。
+- [SharpLink：超过一半的稳定币供应量存在于以太坊上，这对ETH来说是看涨的](https://x.com/SharpLinkGaming/status/1961038305744855135) - 📰 null - 【SharpLink：超过一半的稳定币供应量存在于以太坊上，这对ETH来说是看涨的】金色财经报道，SharpLink发文称，稳定币是最大的金融革命之一，也是区块链最清晰的用例。美国财政部长斯科特·贝森特认为，到 2030 年，稳定币的供应量将从目前的 2500 亿美元飙升至 3.7 万亿美元的市值。 
+目前超过一半的供应量已经存在于以太坊上。不断增长的稳定币基础=对以太坊区块空间的更多需求。这对以太坊来说是利好消息，这对ETH来说是看涨的。
+- [Tether宣布将在RGB上推出USDT]() - 📰 null - 【Tether宣布将在RGB上推出USDT】金色财经报道，据官方公告，泰达公司（Tether）今日宣布，计划在 RGB 协议（一款基于比特币网络发行数字资产的下一代协议）上推出 USDT。 
+RGB 协议近期已通过 0.11.1 版本正式上线主网，其设计初衷是让比特币突破 “价值存储工具” 的单一属性。通过支持私密、可扩展且由用户自主控制的资产发行功能，RGB 为稳定币在比特币网络实现 “原生存在” 打开了通道。对泰达而言，这意味着 USDT 将可在全球最安全、最去中心化的网络（比特币网络）上直接完成交易，为全球数十亿用户提供高速、私密且轻量化的支付服务。
+- [稳定币基础设施公司 M0 完成 4000 万美元融资](https://fortune.com/crypto/2025/08/28/m0-series-b-40-million-polychain-ribbit-capital-stablecoins/) - 📰 null - 【稳定币基础设施公司 M0 完成 4000 万美元融资】8月28日消息，据 Fortune 报道，稳定币基础设施开发公司 M0 宣布完成 4000 万美元 B 轮融资，由 Polychain 和 Ribbit Capital 领投，Endeavor Catalyst、Pantera 和 Bain Capital Crypto 等参投。 
+M0 正在构建一个网络层，使不同的稳定币发行方能够实现互操作性和流动性互通。M0 联合创始人兼首席执行官 Luca Prosperi 表示，公司未来 2-5 年将专注于扩大网络规模。值得注意的是，加密货币钱包 MetaMask 最近宣布与 M0 合作推出其稳定币。
+- [Robinhood 上线 TON 现货交易]() - 📰 null - 【Robinhood 上线 TON 现货交易】金色财经报道，据官方消息，Robinhood 上线 TON 现货交易。
+- [多家机构集体提高英伟达目标价 美银给出235美元的最高目标价]() - 📰 null - 【多家机构集体提高英伟达目标价 美银给出235美元的最高目标价】金色财经报道，英伟达公布第二季度业绩报告后，多家投行更新其对这家人工智能巨头的最新评级及目标价格。美银将英伟达目标价从220美元上调至235美元；摩根士丹利将英伟达目标价从206美元上调至210美元；花旗银行将英伟达目标价从190美元上调至210美元；摩根大通将英伟达目标价从170美元上调至215美元；伯恩斯坦将英伟达目标价从185美元上调至225美元；杰富瑞将英伟达目标价从200美元上调至205美元；德意志银行将英伟达目标价从155美元上调至180美元；TRUIST证券将英伟达目标价从210美元上调至228美元；Argus Research将英伟达目标价从150美元大幅上调至220美元。
+- [韩国央行行长：已与Circle高管会面讨论该公司的稳定币业务]() - 📰 null - 【韩国央行行长：已与Circle高管会面讨论该公司的稳定币业务】金色财经报道，据市场消息，韩国央行行长表示，在与 Circle 公司高管会面期间讨论了该公司的稳定币业务。
+- [Vitalik：量子计算机在 2030 年前破解现代密码学的概率为 20%](https://x.com/Cointelegraph/status/1961029525501866302) - 📰 null - 【Vitalik：量子计算机在 2030 年前破解现代密码学的概率为 20%】金色财经报道，以太坊联合创始人 Vitalik Buterin 表示，量子计算机在 2030 年底前破解现代密码学的可能性为 20%。
+- [BitMart 已撤回香港虚拟资产服务提供商牌照申请](https://cointelegraph.com/news/bitmart-withdraw-hong-kong-crypto-exchange-license) - 📰 null - 【BitMart 已撤回香港虚拟资产服务提供商牌照申请】金色财经报道，加密货币交易所 BitMart 已撤回其在香港的虚拟资产服务提供商（VASP）牌照申请。根据香港证券及期货事务监察委员会（SFC）的记录显示，BitMart 于周四撤回申请。此前，Bybit、OKX 和 Gate 等多家主要交易所也在 2024 年 5 月底相继撤回申请。
+- [David Sharbutt 将加入 BitMine (BMNR) 董事会](https://www.prnewswire.com/news-releases/david-sharbutt-to-join-bitmine-bmnr-board-of-directors-302540618.html) - 📰 null - 【David Sharbutt 将加入 BitMine (BMNR) 董事会】金色财经报道，BitMine今天宣布， David Sharbutt已当选为公司董事会成员。截至美国东部时间8 月 27 日下午5 点，该公司持有的加密货币包括 1,792,690 枚ETH 、192 枚BTC以及价值7.75 亿美元的未支配现金。BitMine 的加密货币+现金持有量超过90 亿美元。 
+David 是 Alamosa Holdings 的创始人、董事长兼首席执行官，该公司于 2000 年上市，并迅速发展成为 22 个州的业务，营收超过10 亿美元。
+- [纳斯达克上市公司Caliber宣布建立重点支持LINK的数字资产战略财库](https://www.globenewswire.com/news-release/2025/08/28/3140686/0/en/Caliber-Establishes-LINK-Token-Digital-Asset-Treasury.html) - 📰 null - 【纳斯达克上市公司Caliber宣布建立重点支持LINK的数字资产战略财库】金色财经报道，纳斯达克上市房地产资产管理公司Caliber宣布其董事会已正式批准建立数字资产战略财库，并将特别支持Chainlink协议的LINK代币，该公司计划将部分资金用于购买加密货币，重点收购LINK代币并通过质押获得收益，此外该公司董事会还批准成立Caliber加密货币咨询委员会，指导数字资产战略、数字资产政策及相关数字资产计划的实施、监督和持续发展。
+- [币安：DEXLAB（XLAB）代币空投活动将延期举行]() - 📰 null - 【币安：DEXLAB（XLAB）代币空投活动将延期举行】金色财经报道，币安宣布，DEXLAB（XLAB）代币空投活动将延期举行，具体时间待定。 
+此前消息，Binance Alpha 宣布将于 8 月 29 日上线 Dexlab (XLAB)。
+- [1.2亿枚USDT从Bitfinex 转入 Tether财库]() - 📰 null - 【1.2亿枚USDT从Bitfinex 转入 Tether财库】金色财经报道，据Whale Alert监测，19:06分，120,000,000枚USDT（120,099,258 美元）从Bitfinex 转入 Tether财库。
+- [加密卡发行商Rain完成5800万美元B轮融资](https://www.theinformation.com/briefings/stablecoin-card-startup-rain-raises-58-million-led-sapphire-ventures) - 📰 null - 【加密卡发行商Rain完成5800万美元B轮融资】金色财经报道，加密卡发行商 Rain 完成 5800 万美元 B 轮融资，Sapphire Ventures 领投，Dragonfly、Galaxy Ventures、Endeavor Catalyst、Samsung Next 和 Lightspeed 参投。据另一位知情人士透露，Rain 支持的银行卡年化消费额已超过 10 亿美元。
+- [Solana 政策研究所捐赠 50 万美元用于Tornado Cash开发人员的法律辩护](https://www.theblock.co/post/368539/solana-policy-institute-donates-500000-tornado-cash-developers-legal-defense?utm_source=twitter&utm_medium=social) - 📰 null - 【Solana 政策研究所捐赠 50 万美元用于Tornado Cash开发人员的法律辩护】金色财经报道，Solana 政策研究所已捐赠 50 万美元用于 Tornado Cash 软件开发人员 Roman Storm 和 Alexey Pertsev 的法律辩护。根据 8 月 11 日提交的文件，Roman Storm本月早些时候因转移资金罪被判有罪，预计将在审判后提交动议以推翻该判决。
+- [《财富》：SharpLink 等加密财库公司疑似存在内幕交易迹象](https://fortune.com/crypto/2025/08/28/digital-asset-treasury-companies-insider-trading-front-running/) - 📰 null - 【《财富》：SharpLink 等加密财库公司疑似存在内幕交易迹象】8月28日消息，据 《财富》报道，今年以来已有 184 家上市公司宣布购入总值近 1320 亿美元的加密货币。然而，研究发现部分小型上市公司在宣布加密货币储备计划前出现可疑的股价异动。 
+报道指出，SharpLink 在宣布计划购入价值 4.25 亿美元的以太坊前三个交易日，股价在没有任何重大信息披露的情况下（未向SEC提交文件或发布新闻稿）从 3 美元涨至 6 美元。另外 5 家在加密货币购买前股价出现异常波动的公司——MEI Pharma、Kindly MD、Empery Digital、Fundamental Global 和 180 Life Sciences Corp。 
+德克萨斯农工大学金融学教授 Peter Cziraki 表示，这种模式与传统并购交易中的内幕交易情况类似。为应对信息泄露风险，部分公司如 CEA Industries 已采取新措施，在市场收盘后才向投资者披露股票代码，以降低消息提前泄露的可能性。
+- [BNB突破870美元]() - 📰 null - 【BNB突破870美元】金色财经报道，行情显示，BNB突破870美元，现报870.02美元，24小时涨幅达到1.5%，行情波动较大，请做好风险控制。
