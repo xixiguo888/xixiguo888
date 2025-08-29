@@ -1,32 +1,42 @@
-- [某鲸鱼创建4个钱包并将1000万枚USDC存入Hyperliquid以做多XPL](https://x.com/lookonchain/status/1961233776513819082) - 📰 null - 【某鲸鱼创建4个钱包并将1000万枚USDC存入Hyperliquid以做多XPL】金色财经报道，据Lookonchain监测，过去3个小时内，一位鲸鱼（可能是上次的同一名鲸鱼）创建了4个钱包，并将1000万枚USDC存入Hyperliquid以做多XPL。
-- [Gryphon股价因“American Bitcoin”合并获批消息上涨11%](https://theminermag.com/news/2025-08-28/gryphon-bitcoin-american-merger) - 📰 null - 【Gryphon股价因“American Bitcoin”合并获批消息上涨11%】金色财经报道，Gryphon Digital Mining（纳斯达克代码：GRYP）股价在周四盘前交易中上涨11%，此前路透社报道称，该公司与American Bitcoin的全股票合并预计将在未来几周内完成。 
-据路透社报道，股东已批准这笔交易，合并后Gryphon将与American Bitcoin合二为一。American Bitcoin是由Hut8与小唐纳德·特朗普（Donald Trump Jr.）及埃里克·特朗普（Eric Trump）今年早些时候共同创立的挖矿企业。新公司将保留American Bitcoin的名称，并主要由Hut8与特朗普兄弟掌控，他们合计将持有约98%的股份。新股票代码“ABTC”预计将于9月初开始交易。
-- [Circle于Solana链过去24小时新增铸造7.5亿枚USDC](https://x.com/Cointelegraph/status/1961209926488875401) - 📰 null - 【Circle于Solana链过去24小时新增铸造7.5亿枚USDC】金色财经报道，Circle于Solana链过去24小时新增铸造7.5亿枚USDC，截止目前Circle本周在Solana上新增铸造达12.5亿枚。
-- [DeFi Development Corp.增持407,247枚SOL，价值7700万美元](https://x.com/Cointelegraph/status/1961225026742505638) - 📰 null - 【DeFi Development Corp.增持407,247枚SOL，价值7700万美元】金色财经报道，据Cointelegraph披露，DeFi Development Corp.增持407,247枚SOL，价值7700万美元 ，使其总持有量达到1,831,011枚SOL。该公司仍持有超过4000万美元的净收益，以备将来购买SOL。
-- [马斯克旗下X公司遭Eliza Labs提起反垄断诉讼](https://www.reuters.com/legal/litigation/musks-x-hit-with-antitrust-lawsuit-by-software-startup-eliza-labs-2025-08-28/) - 📰 null - 【马斯克旗下X公司遭Eliza Labs提起反垄断诉讼】8月29日消息，软件开发公司Eliza Labs起诉埃隆·马斯克的X Corp，指控其在暂停Eliza账户并推出模仿AI产品前，获取了公司关键技术信息。 
-Eliza及其创始人兼原告Shaw Walters表示，X诱导其分享关于在社交平台运行的AI代理的技术细节，并强迫开发者支付高额企业许可费以继续运营。 
-诉讼文件中称，X滥用社交媒体主导地位打压竞争对手，违反反垄断法。Eliza强调，其被逐出平台并非出版决策，而是“精心策划且狡诈”的行为，损害了公司与客户关系并限制了公司的发展。案件目前已在旧金山联邦法院受理，X和Eliza的代表暂未回应置评请求。
-- [某地址从OKX提出17,836枚ETH，价值7977万美元]() - 📰 null - 【某地址从OKX提出17,836枚ETH，价值7977万美元】金色财经报道，据链上分析师余烬监测，某地址从OKX提出了17,836枚ETH(价值7977万美元)，均价4,472美元。
-- [M^ZERO完成4000万美元B轮融资，Polychain Capital及Ribbit Capital领投](https://www.cypherhunter.com/en/e/m0-xyz-raised-funding-2025-08-28/) - 📰 null - 【M^ZERO完成4000万美元B轮融资，Polychain Capital及Ribbit Capital领投】金色财经报道，DeFi平台M^ZERO完成4000万美元B轮融资，此次融资由Polychain Capital、Ribbit Capital领投，PANTERA Capital、Bain Capital Crypto、Endeavor Catalyst等机构参与投资。
-- [某新建钱包从Kraken热钱包接收329,444枚ETH，价值14.8亿美元](https://x.com/OnchainLens/status/1961213745109352944) - 📰 null - 【某新建钱包从Kraken热钱包接收329,444枚ETH，价值14.8亿美元】金色财经报道，据Onchain Lens监测，一个建立仅一周的钱包，从Kraken的热钱包中接收了329,444枚ETH，价值14.8亿美元。该钱包的归属尚未确认，可能属于Kraken本身。
-- [昨日ARKB净流入7980万美元，BITB净流入2500万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入7980万美元，BITB净流入2500万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入7980万美元，BITB净流入2500万美元。
-- [美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题]() - 📰 null - 【美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题】金色财经报道，美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题。(金十)
-- [金色晨讯 | 8月29日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 8月29日隔夜重要动态一览】21:00-7:00关键词：库克、美国GDP、aPriori、Coinbase 
-1.美联储理事丽莎·库克起诉美国总统特朗普； 
-2.链上市场执行层 aPriori 完成 2000 万美元融资； 
-3.美国商务部将GDP数据哈希值发布到9条公链上； 
-4.Susquehanna比特币ETF持仓规模刚增至23.4亿美元； 
-5.美国计划将GDP数据接入区块链，目标覆盖9条区块链； 
-6.Coinbase 成为美国经济数据上链的加密基础设施合作伙伴； 
-7.美国商务部和Chainlink合作，将美国政府宏观经济数据上链； 
-8.美CFTC发布外国交易平台注册框架指导意见，为非美国交易平台回流美国提供监管明确性。
-- [美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进]() - 📰 null - 【美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进】金色财经报道，美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进，只是问题在于我们能多快达到那里。(金十)
-- [美国加州退休基金CalPERS二季度买入价值1850万美元Strategy股票](https://x.com/BTCtreasuries/status/1961129372230062557) - 📰 null - 【美国加州退休基金CalPERS二季度买入价值1850万美元Strategy股票】金色财经报道，美国加州公职员工退休基金（CalPERS）在第二季度买入价值 1850 万美元的Strategy（MSTR）股票。目前，该基金持有 410,596 股 MSTR，总价值超过 1.42 亿美元。
-- [特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行](https://flash.jin10.com/detail/20250829063809223800) - 📰 null - 【特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行】金色财经报道，美联储参议院银行委员会表示，特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行。
-- [USDC Treasury过去7小时内共计铸造18.92亿枚USDC](https://x.com/whale_alert/status/1961147904111886771) - 📰 null - 【USDC Treasury过去7小时内共计铸造18.92亿枚USDC】金色财经报道，据Whale Alert监测，过去7小时内，USDC Treasury共计（分7笔）铸造1,892,131,597枚USDC。 
-此前大约两小时前，10亿枚USDC从USDC Treasury转至Coinbase。
-- [美联储理事沃勒：7月会议时便希望降息，如今对此立场更为坚定](https://flash.jin10.com/detail/20250829063253702800) - 📰 null - 【美联储理事沃勒：7月会议时便希望降息，如今对此立场更为坚定】金色财经报道，美联储理事沃勒表示，7月会议时便希望降息，如今对此立场更为坚定。
-- [美联储理事沃勒：支持9月降息25个基点，未来3至6个月将进一步降息](https://flash.jin10.com/detail/20250829063110330800) - 📰 null - 【美联储理事沃勒：支持9月降息25个基点，未来3至6个月将进一步降息】金色财经报道，美联储理事沃勒表示，支持美联储9月会议降息25个基点，预计未来3—6个月将进一步降息；除非8月份就业报告显示经济大幅疲软且通胀保持良好控制，否则不认为9月份需要更大幅度的降息。剔除关税的暂时影响，潜在通胀率接近2%；政策利率“适度限制”，预计比中性利率高出1.25至1.50个百分点。
-- [法国上市公司CBI正在筹集414万美元，用于购买更多比特币](https://x.com/BTCtreasuries/status/1961188291773972559) - 📰 null - 【法国上市公司CBI正在筹集414万美元，用于购买更多比特币】金色财经报道，法国上市公司 Crypto Blockchain Industries (CBI) 正在筹集 414 万美元，用于购买更多比特币资产，支持其财务战略。
-- [21Shares申请Sei ETF并计划探索质押功能，SEC仍审查山寨币ETF](https://www.theblock.co/post/368732/21shares-files-for-sei-etf-with-possible-staking-as-sec-reviews-altcoin-funds?utm_source=twitter&utm_medium=social) - 📰 null - 【21Shares申请Sei ETF并计划探索质押功能，SEC仍审查山寨币ETF】金色财经报道，21Shares已向美国证券交易委员会（SEC）提交S-1注册声明，拟推出Sei ETF，并在招股说明书中表示希望探索对部分SEI代币进行质押以获取奖励的可能性。目前SEC尚未批准ETF质押功能。此前，Grayscale、BlackRock及21Shares提出的以太坊现货ETF质押计划也未获批准。SEC近期表示，部分流动质押活动不涉及证券，这或为ETF质押提供空间。SEI ETF将直接跟踪Sei网络原生加密货币SEI的价格，同时SEC还在审查其他山寨币ETF申请，包括莱特币、Solana、Dogecoin、XRP等。
-- [美联储9月降息概率为86.2%]() - 📰 null - 【美联储9月降息概率为86.2%】金色财经报道，据CME“美联储观察”：美联储9月维持利率不变的概率为13.8%，降息25个基点的概率为86.2%。美联储10月维持利率不变的概率为6.7%，累计降息25个基点的概率为49.1%，累计降息50个基点的概率为44.2%。
+- [4E：ETH八月涨幅逾20%，SOL或迎黄金交叉行情]() - 📰 null - 【4E：ETH八月涨幅逾20%，SOL或迎黄金交叉行情】8干29日消息，据4E观察，目前美国市场上备案或申请的加密资产ETP产品已达92个，显示传统金融对加密市场工具的持续探索。与此同时，链上数据显示，比特币盈利钱包数量突破5,500万，创下历史新高，平均持币时长达4.4年。 
+宏观政策层面，美国商务部首次将GDP数据上链，覆盖比特币、以太坊、Solana等九条主流公链，并通过Pyth与Chainlink预言机同步分发，标志区块链在官方数据传输中的进一步应用。美国短期国债价格因强劲经济数据承压，市场对美联储9月降息的预期有所分化。 
+市场行情方面，Solana出现黄金交叉形态，分析人士指出其走势或与2021年、2023年类似，引发超10倍涨幅的潜力。同时，Galaxy Digital等机构计划为Solana基金筹集10亿美元，为价格进一步上涨提供资金支撑。以太坊8月迄今涨幅达20.6%，若保持当前水平，将录得历史上第四个正收益8月；相对之下，比特币则下跌4.58%，或连续第四年录得8月负回报。 
+分析人士认为，资金正逐步从BTC向ETH与高Beta山寨币转移，市场进入山寨季的概率正提升。4E提醒投资者：机构布局与资金轮动加速了市场节奏，但短期波动风险仍存，投资者应关注宏观数据与链上信号，合理把握仓位节奏。
+- [香港OSL交易所上半年财报：总收入达1.954亿港元，同比增长58%](https://www.theblock.co/post/368739/hong-kong-osl-revenue) - 📰 null - 【香港OSL交易所上半年财报：总收入达1.954亿港元，同比增长58%】金色财经报道，据The Block报道，香港加密货币交易所OSL集团发布2025年上半年财报。数据显示，公司总收入达1.954亿港元（约2510万美元），同比增长58%。其中，今年4月推出的OSL Pay贡献收入5590万港元，占比29%。 
+然而，由于全球扩张导致人员成本增加，公司运营亏损同比扩大至2030万港元。期内，OSL完成对日本CoinBest交易所的收购，并斥资1500万美元收购印尼交易所90%股权，员工规模从去年同期的167人增至568人。
+- [WLFI：部分用户钱包仍待解锁，合规团队持续审核中](https://x.com/worldlibertyfi/status/1960762707008794855?t=Bx_gHLLhnevb_HuEYasKIw&s=19) - 📰 null - 【WLFI：部分用户钱包仍待解锁，合规团队持续审核中】特朗普家族项目 World Liberty Financial（WLFI）官方发推表示，部分用户目前仍无法连接钱包，其合规团队正在持续审核并逐步解锁更多钱包。如钱包尚未激活，用户可稍后重试，或发送邮箱获取协助。
+- [GAIA上线MGBX后，上涨突破0.148 USDT，24 H涨幅超110%]() - 📰 null - 【GAIA上线MGBX后，上涨突破0.148 USDT，24 H涨幅超110%】8月29日消息，MGBX行情数据行情显示，GAIA上涨突破 0.148 USDT，现报0.12 USDT，24 H 涨幅超 115%，累计涨幅超150%，流通市值超1000万美金。 
+GaiaNet 是一个去中心化的网络，提供安全、抗审查且可货币化的 AI 代理。这些代理整合了每个人的专有知识和技能，同时确保隐私。
+- [Binance Hemi Booster第1阶段活动奖励现已开放领取]() - 📰 null - 【Binance Hemi Booster第1阶段活动奖励现已开放领取】金色财经报道，Binance宣布Hemi Booster第1阶段活动奖励现已开放领取。
+- [MGBX将于9月17日20:00（SGT）上线FDC现货交易](https://support.mgbx.com/hc/zh-cn/articles/13627288243215) - 📰 null - 【MGBX将于9月17日20:00（SGT）上线FDC现货交易】据官方消息，MGBX即将2025年9月17日20:00（SGT）上线FDC现货交易 
+充值开放时间：2025年9月17日19:00（SGT） 
+交易开放时间：2025年9月17日20:00（SGT） 
+提现开放时间：2025年9月17日22:00（SGT）
+- [Bithumb将上线CAMP韩元交易对](https://t.co/NBF4mAIn1F) - 📰 null - 【Bithumb将上线CAMP韩元交易对】金色财经报道，据官方公告，Bithumb将上线CAMP韩元交易对。
+- [赵长鹏：DAT利好加密货币，但需警惕模式差异与市场周期风险]() - 📰 null - 【赵长鹏：DAT利好加密货币，但需警惕模式差异与市场周期风险】金色财经现场报道，8月29日，在香港举办的BitcoinAsia活动现场，币安创始人赵长鹏表示，DAT（Digital Asset Treasury）对加密货币及比特币而言是积极存在，其让传统股权市场投资者得以通过购买上市公司股票接触加密资产，将加密资产这一小众资产类别推向了更广泛受众，且这一现象不仅在美国出现，在中国香港、日本等有股权市场的国家和地区均有发生。 
+同时，赵长鹏提到不同DAT业务模式各异，其中部分有良好的加密货币管理方式，部分持有加密货币篮子且结构复杂，还有的会将筹集资金用于投资公司等。市场存在周期波动，未来难免遭遇熊市，届时股价可能下跌、价格会有波动，多数DAT公司会需经历市场寒冬，投资者需留意相关风险。
+- [Lightning Labs CEO提交2亿美元SPAC申请](https://x.com/Cointelegraph/status/1961292987159154946) - 📰 null - 【Lightning Labs CEO提交2亿美元SPAC申请】金色财经报道，Lightning Labs首席执行官Ryan Gentry已提交申请，计划成立一家名为Bitcoin Infrastructure Acquisition Corp的2亿美元SPAC（特殊目的收购公司），目标瞄准数字金融基础设施类企业。董事会成员来自DeFi Dev Corp和Nakamoto(Kindly)。
+- [某鲸鱼向HyperLiquid存入300万枚USDC并以1倍杠杆做空XPL](https://x.com/OnchainLens/status/1961288260661252543) - 📰 null - 【某鲸鱼向HyperLiquid存入300万枚USDC并以1倍杠杆做空XPL】金色财经报道，据Onchain Lens监测，一位鲸鱼向HyperLiquid存入了300万枚USDC，并以1倍杠杆做空了XPL。
+- [DeSci生态AI代理yesnoerror宣布进入公测阶段](https://x.com/yesnoerror/status/1960842236465439223) - 📰 null - 【DeSci生态AI代理yesnoerror宣布进入公测阶段】8月29日消息，DeSci生态AI代理yesnoerror宣布进入公测阶段，团队正在使用由YNE代币支持的最新AI模型，审核和分析每篇关于AI和计算机科学主题的新论文（每天超500篇）。yesnoerror未来计划将YNE代币跨链至Base（即将公告，技术开发已完成）、扩展审计范围至arXiv以外的期刊、开发个性化研究AI代理。
+- [阿根廷反对党投票决定重启对总统米莱伊的LIBRA丑闻调查](https://cryptoslate.com/argentinas-opposition-party-votes-to-reopen-investigation-into-president-milei-over-libra-scandal/) - 📰 null - 【阿根廷反对党投票决定重启对总统米莱伊的LIBRA丑闻调查】金色财经报道，据Cryptoslate消息，阿根廷反对党重启了对总统哈维尔·米莱伊在LIBRA丑闻中所扮演角色的调查，并抓住了在十月大选前几周令政府感到不安的新腐败指控。 
+尽管遭到米莱伊盟友的反对，但代表众议院257名议员中的136名的五个反对党仍投票决定重启此案。该委员会设定的报告截止日期为11月10日，即阿根廷选民投票几周后。 
+该委员会最初于4月份成立，但由于官僚主义和国会障碍而基本陷入瘫痪。在泄露的录音指控米莱和他的妹妹卡琳娜(Karina)参与了另一项贿赂计划后，该委员会于8月28日重新启动。
+- [金色午报 | 8月29日午间重要动态一览]() - 📰 null - 【金色午报 | 8月29日午间重要动态一览】7:00-12:00关键词：CalPERS、Eliza Labs、DeFi Development 
+1.马斯克旗下X公司遭Eliza Labs提起反垄断诉讼； 
+2.彭博社：Coinbase正迅速成为比特币矿企的首选贷款方； 
+3.以太坊执行层核心开发者会议 (ACDE) 第219次会议总结； 
+4.DeFi Development Corp.增持407,247枚SOL，价值7700万美元； 
+5.美国加州退休基金CalPERS二季度买入价值1850万美元Strategy股票； 
+6.美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进； 
+7.Galaxy Research：除BTC与ETH外，目前共有10种代币符合ETF快速上市标准。
+- [多位巨鲸近期大量积累WLD、AAVE及UNI，总价值约2684万美元](https://x.com/lookonchain/status/1961275954925638111) - 📰 null - 【多位巨鲸近期大量积累WLD、AAVE及UNI，总价值约2684万美元】金色财经报道，鲸鱼0xF436在过去两天内从交易所提取了43,123枚AAVE，价值1387万美元。 
+新钱包0xC0D9于11小时前从Binance提取了932.5万枚WLD，价值886万美元。 
+新钱包0x4940于4小时前从Binance提取了408,557枚UNI，价值411万美元。
+- [ETH突破4500美元]() - 📰 null - 【ETH突破4500美元】金色财经报道，行情显示，ETH突破4500美元，现报4500.54美元，24小时跌幅达到0.9%，行情波动较大，请做好风险控制。
+- [某鲸鱼过去1小时内向Binance存入5,125枚ETH，获利940万美元](https://x.com/lookonchain/status/1961273554949083293) - 📰 null - 【某鲸鱼过去1小时内向Binance存入5,125枚ETH，获利940万美元】金色财经报道，据Lookonchain监测，鲸鱼0x746b在过去一小时内向Binance存入了5,125枚ETH（2295万美元），获利约940万美元。
+- [Solana政策研究所捐赠50万美元为Tornado Cash开发人员提供法律辩护资金](https://x.com/Cointelegraph/status/1961270328044237176) - 📰 null - 【Solana政策研究所捐赠50万美元为Tornado Cash开发人员提供法律辩护资金】金色财经报道，Solana政策研究所捐赠50万美元，为Tornado Cash开发人员Roman Storm和Alexey Pertsev提供法律辩护资金。
+- [Luxxfolio计划筹资7300万美元扩展莱特币财库策略](https://decrypt.co/337295/luxxfolio-files-73m-litecoin-treasury-plans) - 📰 null - 【Luxxfolio计划筹资7300万美元扩展莱特币财库策略】8月29日消息，加拿大公司Luxxfolio计划筹资7300万美元扩展莱特币（LTC）财库策略，莱特币创始人Charlie Lee于6月底加入了其顾问委员会。 
+值得注意的是，该公司在第二季度报告零收入，净亏损19.7万美元，现金储备仅剩11.2万美元，累计亏损接近1900万美元。
+- [韩国在野党推动韩元稳定币法律框架](https://ns3.ai/en/W6N1zP7dM9) - 📰 null - 【韩国在野党推动韩元稳定币法律框架】金色财经报道，韩国在野党国民力量党（PPP） 已将一项关于制定韩元计价稳定币法律框架 的法案，列为9月国会会议的首要立法议程。该立法旨在为与韩元挂钩的稳定币的发行与流通建立法律指引，从而可能促进韩国加密市场在更有监管的环境下发展。
+- [Galaxy Research：除BTC与ETH外，目前共有10种代币符合ETF快速上市标准](https://www.jinse.cn/blockchain/3720104.html) - 📰 null - 【Galaxy Research：除BTC与ETH外，目前共有10种代币符合ETF快速上市标准】金色财经报道，Galaxy Research发文表示，目前审查了市值排名前 100 位的代币，以确定哪些代币符合上述标准，或即将符合ETF快速上市条件（BTC 和 ETH 已被排除在以下分析之外，因为它们已经有 ETF）。总共有10种代币符合快速上市标准：DOGE、BCH、LTC、LINK、XLM、AVAX、SHIB、DOT、SOL和HBAR。 
+此外，ADA和XRP也将很快符合条件，因为它们在首次上币后必须在指定合约市场 (DCM) 上交易满六个月。
