@@ -1,25 +1,32 @@
-- [Kraken：美国商务部已选择公司作为合作伙伴，参与一项旨在提升经济数据透明度的计划](https://flash.jin10.com/detail/20250829012929907800) - 📰 null - 【Kraken：美国商务部已选择公司作为合作伙伴，参与一项旨在提升经济数据透明度的计划】金色财经报道，美国加密货币交易所、金融科技公司Kraken：美国商务部已选择公司作为合作伙伴，参与一项旨在提升经济数据透明度的计划。
-- [美SEC推迟对灰度现货以太坊ETF增加质押功能作出决定](https://x.com/Crypto_Briefing/status/1961123370918977969) - 📰 null - 【美SEC推迟对灰度现货以太坊ETF增加质押功能作出决定】金色财经报道，据市场消息，美SEC推迟对灰度现货以太坊ETF增加质押功能作出决定。
-- [美元指数DXY短线走低，现跌0.43%，报97.75]() - 📰 null - 【美元指数DXY短线走低，现跌0.43%，报97.75】金色财经报道，美元指数DXY短线走低，现跌0.43%，报97.75。美元兑日元USD/JPY日内跌超0.50%，现报146.68。
-- [美国10年期国债收益率降至4.203%，创8月5日以来新低]() - 📰 null - 【美国10年期国债收益率降至4.203%，创8月5日以来新低】金色财经报道，美国10年期国债收益率降至4.203%，创8月5日以来新低。
-- [离岸人民币兑美元涨破7.12关口，创10个月以来新高]() - 📰 null - 【离岸人民币兑美元涨破7.12关口，创10个月以来新高】金色财经报道，离岸人民币兑美元涨破7.12关口，创10个月以来新高，日内涨近0.5%。
-- [Multipli完成500万美元新融资，总融资额达到2150万美元](https://chainwire.org/2025/08/28/multipli-hits-21-5m-in-total-funding-as-it-expands-institutional-yield-for-crypto-rwa-assets/?mfk=CE2tpZFSQRqYX4kV88tdGX2DoGBWOvP2eQSIeGmk%2F7k4hTiPWf4WoLltYWUsL6T1g%2FkhzQo8KpuHsqNqbvgEMpdooRikueDikqM9vhF0HUns%2Fw%3D%3D) - 📰 null - 【Multipli完成500万美元新融资，总融资额达到2150万美元】金色财经报道，由 Pantera Capital 和 Sequoia 支持的 Real Yield 协议 Multipli 宣布完成500万美元新融资，使总融资额达到2150万美元，其中包括从前身 Brine Fi 战略调配的1650万美元资金。本轮融资将推动 Multipli 为机构投资者提供收益产品，覆盖比特币及代币化黄金等资产。
-- [BNB突破880美元]() - 📰 null - 【BNB突破880美元】金色财经报道，行情显示，BNB突破880美元，现报880.49美元，24小时涨幅1.94%，行情波动较大，请做好风险控制。
-- [美CFTC发布外国交易平台注册框架指导意见，为非美国交易平台回流美国提供监管明确性](https://www.cftc.gov/PressRoom/PressReleases/9111-25) - 📰 null - 【美CFTC发布外国交易平台注册框架指导意见，为非美国交易平台回流美国提供监管明确性】金色财经报道，美国商品期货交易委员会（CFTC）市场监管部今日发布了一则关于外国交易平台（FBOT）注册框架的指导意见，适用于在美国境外合法组建并运营、希望向位于美国境内的个人提供直接交易平台访问的非美国实体。CFTC 的 FBOT 注册框架适用于所有市场，无论资产类别，包括传统资产和数字资产市场。 
-代理主席 Caroline D. Pham 表示：“今天发布的 FBOT 指导意见，为那些因过去几年『执法式监管』而离开美国的交易活动提供了合法回流美国的监管明确性。通过重申 CFTC 长期以来的做法，为美国交易者提供多样选择并接触全球最深、最具流动性的市场，以及丰富的产品和资产类别，那些被迫在外国设立业务以开展加密资产交易的美国公司，现在有机会重返美国市场。”
-- [美法官定于本周五就库克起诉特朗普举行听证会](https://flash.jin10.com/detail/20250829004204916800) - 📰 null - 【美法官定于本周五就库克起诉特朗普举行听证会】金色财经报道，据CNBC，一名法官已定于周五举行听证会，审理美联储理事库克提出的请求，以阻止特朗普解雇她。这一听证会安排在库克起诉特朗普、质疑其罢免决定的数小时后。案件分配给由前总统拜登在2021年底任命的联邦法官贾·科布（Jia Cobb）。库克要求科布宣布特朗普的罢免令“非法且无效”，并确认她仍是理事会成员。她还希望法官裁定关于房贷的指控不构成“正当理由”。
-- [CyberKongz：KONG 2%空投给2023年以来在OpenSea买入1万美元以太坊NFT的地址](https://x.com/CyberKongz/status/1961093966469722591) - 📰 null - 【CyberKongz：KONG 2%空投给2023年以来在OpenSea买入1万美元以太坊NFT的地址】金色财经报道，以太坊 NFT 与游戏项目 CyberKongz 宣布 KONG 总供应量的 2% 将空投给自 2023 年（熊市）以来活跃的 OpenSea 用户。自 2023 年 1 月 1 日起，在 OpenSea 上购买总额达 10,000 美元以太坊 NFT 的地址均有资格参与空投。更多信息即将公布。 
-此前报道，8 月 20 日，CyberKongz 宣布将发行全新代币 KONG，作为其生态系统的流动性层，全面取代原有代币 BANANA，代币将仅于以太坊主网上发行，总量 10 亿枚，BANANA 可按 1:25 转换为 KONG（于 TGE 时开放）。空投计划为 2% 代币总供应将空投给以太坊 NFT 社区，详情待公布。
-- [特朗普威胁对征收数字税国家施加重大关税 扎克伯格白宫游说](https://flash.jin10.com/detail/20250829003556067800) - 📰 null - 【特朗普威胁对征收数字税国家施加重大关税 扎克伯格白宫游说】金色财经报道，特朗普威胁将对征收数字税的国家施加重大关税。而就在几天前，Meta Platforms(META.O)首席执行官扎克伯格在白宫会晤中对这一税种表达担忧。知情人士透露，扎克伯格上周晚些时候与特朗普私下会面，讨论了数字服务税问题。Meta在声明中确认了两人的会面：“马克·扎克伯格上周访问白宫，讨论Meta在美国的基础设施投资，以及推动美国科技在海外的领导地位。”白宫发言人未予回应。
-- [Solana Mobile宣布将于9月8日开启Seeker Season](https://x.com/solanamobile/status/1961097884885270653) - 📰 null - 【Solana Mobile宣布将于9月8日开启Seeker Season】金色财经报道，Solana Mobile 宣布将于 9 月 8 日开启 Seeker Season。Seeker Season 是下一代链上移动应用的催化剂，自 9 月 8 日 起，将每周推出专为 Seeker 用户打造的精选 dApp、奖励及独家链上移动体验。
-- [四鲸鱼过去2日买入价值3.572亿美元ETH](https://x.com/arkham/status/1961099504578412874) - 📰 null - 【四鲸鱼过去2日买入价值3.572亿美元ETH】金色财经报道，据 Arkham 监测，四鲸鱼过去 2 日买入价值 3.572 亿美元 ETH，且他们都在相似的时间段从 FalconX 处收到的 ETH。
-- [观点：比特币或取代房地产成投资新选择，未来房地产将回归公共实用属性]() - 📰 null - 【观点：比特币或取代房地产成投资新选择，未来房地产将回归公共实用属性】金色财经现场报道，2025年8月28日，在香港举行的Bitcoin Asia活动现场，Network School创始人Balaji Srinivasan，在主题演讲中表示，从资产属性来看，比特币展现出全球避险特质。当下，西方债券并非真正无风险， 2008 年金融危机后，西方通过印钞购买抵押贷款税等操作，还可能对人口征税，这使得住房问题备受关注。而比特币具有真正的价值，人们正逐渐停止将房屋作为投资品，转而选择持有比特币，未来房地产或将回归其作为公共实用属性。
-- [CZ：持有大量BNB，相当大一部分财富与其挂钩](https://x.com/BNBCHAINZH/status/1961092732933558282) - 📰 null - 【CZ：持有大量BNB，相当大一部分财富与其挂钩】金色财经报道，东京站 BNB Day 炉边谈话中，CZ 表示 BNB Chain 主要由社区驱动。自己做得并不多，主要是发推和鼓励人们 BUILD。并透露其持有大量 BNB。相当大一部分财富都与它挂钩。 
-若年轻 20 岁，CZ 表示会选择开发 AI 交易代理与注重隐私的永续 DEX，DEX 交易量未来会超过 CEX，DeFi 是未来。并认为 RWA 尚处早期阶段，但具有很高潜力。希望日本有一支专门的 BNB Chain 团队。日本非常适合技术发展，并拥有良好的商业文化。希望看到更多 AI+机器人项目出现在 BNB Chain 上。 
-CZ 认为数字资产国库（DAT）通过公开市场使加密货币投资变得更容易接触，如果管理得当，是可持续的。单一资产国库是最简单的，而篮子策略则高度依赖于管理。加密领域下一个重大突破或将来自区块链中的 AI，RWA 和稳定币。
-- [摩根大通：预计年底前比特币价格将上涨至12.6万美元](https://www.theblock.co/post/368653/jpmorgan-says-current-bitcoin-price-too-low-sees-upside-to-126000-by-year-end) - 📰 null - 【摩根大通：预计年底前比特币价格将上涨至12.6万美元】金色财经报道，摩根大通分析师表示，比特币的当前价格与黄金相比“太低”，因为其波动性已跌至历史最低水平；比特币的波动性已从年初的近 60 % 降至目前的约 30 %，创历史新低。分析师表示，比特币的公允价值约为 12.6 万美元，预计这一目标将在年底前实现。
-- [ETH跌破4500美元]() - 📰 null - 【ETH跌破4500美元】金色财经报道，行情显示，ETH跌破4500美元，现报4498.5美元，24小时跌幅达到3.3%，行情波动较大，请做好风险控制。
-- [比特币持有者盈利钱包数量逾5500万，创历史新高](https://x.com/BitcoinNewsCom/status/1961081347067326557) - 📰 null - 【比特币持有者盈利钱包数量逾5500万，创历史新高】金色财经报道，据 Bitcoin News 披露，比特币持有者盈利钱包数量已超过 5500 万，创历史新高，钱包比特币的平均持有时间为 4.4 年。
-- [比特币优先协议Portal to Bitcoin完成5000万美元新融资](https://www.coindesk.com/business/2025/08/28/a-bitcoin-startup-raised-usd50m-to-allow-users-to-trade-with-bitcoin-grade-security) - 📰 null - 【比特币优先协议Portal to Bitcoin完成5000万美元新融资】金色财经报道，比特币优先协议 Portal to Bitcoin 已获得由 Paloma Investments 领投的 5000 万美元新融资，这使得该项目融资总额达到 9200 万美元。 
-这笔资金将用于支持该公司适配器 BitScaler 的扩张。BitScaler 无需使用包装代币、托管桥接，也无需“消息传递或其他不安全的替代方案”，即可对原生比特币进行扩展。Portal 计划利用这笔新资金扩大其资助计划，并吸纳机构和社区流动性提供者。目前，该公司还正在与钱包和托管平台进行试点集成，以展示非托管式代币交换。
-- [美财长：关税并未影响物价或消费者支出](https://flash.jin10.com/detail/20250828233036070800) - 📰 null - 【美财长：关税并未影响物价或消费者支出】金色财经报道，美国财长贝森特：在特朗普总统的“美丽大法案”的推动下，资本支出增加，GDP被上修。数据显示，关税并未影响物价或消费者支出。
+- [某鲸鱼创建4个钱包并将1000万枚USDC存入Hyperliquid以做多XPL](https://x.com/lookonchain/status/1961233776513819082) - 📰 null - 【某鲸鱼创建4个钱包并将1000万枚USDC存入Hyperliquid以做多XPL】金色财经报道，据Lookonchain监测，过去3个小时内，一位鲸鱼（可能是上次的同一名鲸鱼）创建了4个钱包，并将1000万枚USDC存入Hyperliquid以做多XPL。
+- [Gryphon股价因“American Bitcoin”合并获批消息上涨11%](https://theminermag.com/news/2025-08-28/gryphon-bitcoin-american-merger) - 📰 null - 【Gryphon股价因“American Bitcoin”合并获批消息上涨11%】金色财经报道，Gryphon Digital Mining（纳斯达克代码：GRYP）股价在周四盘前交易中上涨11%，此前路透社报道称，该公司与American Bitcoin的全股票合并预计将在未来几周内完成。 
+据路透社报道，股东已批准这笔交易，合并后Gryphon将与American Bitcoin合二为一。American Bitcoin是由Hut8与小唐纳德·特朗普（Donald Trump Jr.）及埃里克·特朗普（Eric Trump）今年早些时候共同创立的挖矿企业。新公司将保留American Bitcoin的名称，并主要由Hut8与特朗普兄弟掌控，他们合计将持有约98%的股份。新股票代码“ABTC”预计将于9月初开始交易。
+- [Circle于Solana链过去24小时新增铸造7.5亿枚USDC](https://x.com/Cointelegraph/status/1961209926488875401) - 📰 null - 【Circle于Solana链过去24小时新增铸造7.5亿枚USDC】金色财经报道，Circle于Solana链过去24小时新增铸造7.5亿枚USDC，截止目前Circle本周在Solana上新增铸造达12.5亿枚。
+- [DeFi Development Corp.增持407,247枚SOL，价值7700万美元](https://x.com/Cointelegraph/status/1961225026742505638) - 📰 null - 【DeFi Development Corp.增持407,247枚SOL，价值7700万美元】金色财经报道，据Cointelegraph披露，DeFi Development Corp.增持407,247枚SOL，价值7700万美元 ，使其总持有量达到1,831,011枚SOL。该公司仍持有超过4000万美元的净收益，以备将来购买SOL。
+- [马斯克旗下X公司遭Eliza Labs提起反垄断诉讼](https://www.reuters.com/legal/litigation/musks-x-hit-with-antitrust-lawsuit-by-software-startup-eliza-labs-2025-08-28/) - 📰 null - 【马斯克旗下X公司遭Eliza Labs提起反垄断诉讼】8月29日消息，软件开发公司Eliza Labs起诉埃隆·马斯克的X Corp，指控其在暂停Eliza账户并推出模仿AI产品前，获取了公司关键技术信息。 
+Eliza及其创始人兼原告Shaw Walters表示，X诱导其分享关于在社交平台运行的AI代理的技术细节，并强迫开发者支付高额企业许可费以继续运营。 
+诉讼文件中称，X滥用社交媒体主导地位打压竞争对手，违反反垄断法。Eliza强调，其被逐出平台并非出版决策，而是“精心策划且狡诈”的行为，损害了公司与客户关系并限制了公司的发展。案件目前已在旧金山联邦法院受理，X和Eliza的代表暂未回应置评请求。
+- [某地址从OKX提出17,836枚ETH，价值7977万美元]() - 📰 null - 【某地址从OKX提出17,836枚ETH，价值7977万美元】金色财经报道，据链上分析师余烬监测，某地址从OKX提出了17,836枚ETH(价值7977万美元)，均价4,472美元。
+- [M^ZERO完成4000万美元B轮融资，Polychain Capital及Ribbit Capital领投](https://www.cypherhunter.com/en/e/m0-xyz-raised-funding-2025-08-28/) - 📰 null - 【M^ZERO完成4000万美元B轮融资，Polychain Capital及Ribbit Capital领投】金色财经报道，DeFi平台M^ZERO完成4000万美元B轮融资，此次融资由Polychain Capital、Ribbit Capital领投，PANTERA Capital、Bain Capital Crypto、Endeavor Catalyst等机构参与投资。
+- [某新建钱包从Kraken热钱包接收329,444枚ETH，价值14.8亿美元](https://x.com/OnchainLens/status/1961213745109352944) - 📰 null - 【某新建钱包从Kraken热钱包接收329,444枚ETH，价值14.8亿美元】金色财经报道，据Onchain Lens监测，一个建立仅一周的钱包，从Kraken的热钱包中接收了329,444枚ETH，价值14.8亿美元。该钱包的归属尚未确认，可能属于Kraken本身。
+- [昨日ARKB净流入7980万美元，BITB净流入2500万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入7980万美元，BITB净流入2500万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入7980万美元，BITB净流入2500万美元。
+- [美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题]() - 📰 null - 【美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题】金色财经报道，美联储理事沃勒：Genius法案是良好开端，后续我们将逐步解决问题。(金十)
+- [金色晨讯 | 8月29日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 8月29日隔夜重要动态一览】21:00-7:00关键词：库克、美国GDP、aPriori、Coinbase 
+1.美联储理事丽莎·库克起诉美国总统特朗普； 
+2.链上市场执行层 aPriori 完成 2000 万美元融资； 
+3.美国商务部将GDP数据哈希值发布到9条公链上； 
+4.Susquehanna比特币ETF持仓规模刚增至23.4亿美元； 
+5.美国计划将GDP数据接入区块链，目标覆盖9条区块链； 
+6.Coinbase 成为美国经济数据上链的加密基础设施合作伙伴； 
+7.美国商务部和Chainlink合作，将美国政府宏观经济数据上链； 
+8.美CFTC发布外国交易平台注册框架指导意见，为非美国交易平台回流美国提供监管明确性。
+- [美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进]() - 📰 null - 【美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进】金色财经报道，美联储理事沃勒：降息速度没有既定顺序，我们知道我们正朝着中性利率迈进，只是问题在于我们能多快达到那里。(金十)
+- [美国加州退休基金CalPERS二季度买入价值1850万美元Strategy股票](https://x.com/BTCtreasuries/status/1961129372230062557) - 📰 null - 【美国加州退休基金CalPERS二季度买入价值1850万美元Strategy股票】金色财经报道，美国加州公职员工退休基金（CalPERS）在第二季度买入价值 1850 万美元的Strategy（MSTR）股票。目前，该基金持有 410,596 股 MSTR，总价值超过 1.42 亿美元。
+- [特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行](https://flash.jin10.com/detail/20250829063809223800) - 📰 null - 【特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行】金色财经报道，美联储参议院银行委员会表示，特朗普提名的美联储人选米兰的听证会定于北京时间9月4日晚22点举行。
+- [USDC Treasury过去7小时内共计铸造18.92亿枚USDC](https://x.com/whale_alert/status/1961147904111886771) - 📰 null - 【USDC Treasury过去7小时内共计铸造18.92亿枚USDC】金色财经报道，据Whale Alert监测，过去7小时内，USDC Treasury共计（分7笔）铸造1,892,131,597枚USDC。 
+此前大约两小时前，10亿枚USDC从USDC Treasury转至Coinbase。
+- [美联储理事沃勒：7月会议时便希望降息，如今对此立场更为坚定](https://flash.jin10.com/detail/20250829063253702800) - 📰 null - 【美联储理事沃勒：7月会议时便希望降息，如今对此立场更为坚定】金色财经报道，美联储理事沃勒表示，7月会议时便希望降息，如今对此立场更为坚定。
+- [美联储理事沃勒：支持9月降息25个基点，未来3至6个月将进一步降息](https://flash.jin10.com/detail/20250829063110330800) - 📰 null - 【美联储理事沃勒：支持9月降息25个基点，未来3至6个月将进一步降息】金色财经报道，美联储理事沃勒表示，支持美联储9月会议降息25个基点，预计未来3—6个月将进一步降息；除非8月份就业报告显示经济大幅疲软且通胀保持良好控制，否则不认为9月份需要更大幅度的降息。剔除关税的暂时影响，潜在通胀率接近2%；政策利率“适度限制”，预计比中性利率高出1.25至1.50个百分点。
+- [法国上市公司CBI正在筹集414万美元，用于购买更多比特币](https://x.com/BTCtreasuries/status/1961188291773972559) - 📰 null - 【法国上市公司CBI正在筹集414万美元，用于购买更多比特币】金色财经报道，法国上市公司 Crypto Blockchain Industries (CBI) 正在筹集 414 万美元，用于购买更多比特币资产，支持其财务战略。
+- [21Shares申请Sei ETF并计划探索质押功能，SEC仍审查山寨币ETF](https://www.theblock.co/post/368732/21shares-files-for-sei-etf-with-possible-staking-as-sec-reviews-altcoin-funds?utm_source=twitter&utm_medium=social) - 📰 null - 【21Shares申请Sei ETF并计划探索质押功能，SEC仍审查山寨币ETF】金色财经报道，21Shares已向美国证券交易委员会（SEC）提交S-1注册声明，拟推出Sei ETF，并在招股说明书中表示希望探索对部分SEI代币进行质押以获取奖励的可能性。目前SEC尚未批准ETF质押功能。此前，Grayscale、BlackRock及21Shares提出的以太坊现货ETF质押计划也未获批准。SEC近期表示，部分流动质押活动不涉及证券，这或为ETF质押提供空间。SEI ETF将直接跟踪Sei网络原生加密货币SEI的价格，同时SEC还在审查其他山寨币ETF申请，包括莱特币、Solana、Dogecoin、XRP等。
+- [美联储9月降息概率为86.2%]() - 📰 null - 【美联储9月降息概率为86.2%】金色财经报道，据CME“美联储观察”：美联储9月维持利率不变的概率为13.8%，降息25个基点的概率为86.2%。美联储10月维持利率不变的概率为6.7%，累计降息25个基点的概率为49.1%，累计降息50个基点的概率为44.2%。
