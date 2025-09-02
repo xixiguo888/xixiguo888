@@ -1,37 +1,24 @@
-- [MGBX将于9月2日15：00（SGT）上线BTC/USDC、 ETH/USDC现货交易](https://support.mgbx.com/hc/zh-cn/articles/13660120961295) - 📰 null - 【MGBX将于9月2日15：00（SGT）上线BTC/USDC、 ETH/USDC现货交易】据官方消息，MGBX将于2025年9月2日15：00（SGT） 上线BTC/USDC 、ETH/USDC现货交易 
-交易开放时间：2025年9月2日15：00（SGT）
-- [韩国启动全球加密货币交易数据共享计划](https://ns3.ai/en/bVNg1m1Wpv) - 📰 null - 【韩国启动全球加密货币交易数据共享计划】金色财经报道，韩国正准备与国家税务部门共享来自国内外加密货币交易所的详细交易数据，以全面落实经合组织（OECD）的“加密资产报告框架”（CARF）。这项新规将要求本土平台（如Upbit和Bithumb）报告非居民的交易信息，同时，海外平台也需要向全球税务机构报告韩国投资者的交易记录。 
-数据交换将于明年正式启动，并计划在2027年前全面运行，旨在严厉打击匿名交易和海外避税行为。
-- [ETH突破4400美元]() - 📰 null - 【ETH突破4400美元】金色财经报道，行情显示，ETH突破4400美元，现报4400.95美元，24小时涨幅达到0.55%，行情波动较大，请做好风险控制。
-- [币安：QuackAI（Q）空投申领门槛为220分Alpha积分](https://www.binance.com/zh-CN/square/post/29133512781250) - 📰 null - 【币安：QuackAI（Q）空投申领门槛为220分Alpha积分】金色财经报道，币安钱包在币安广场发布公告称，拥有至少220个币安Alpha积分的用户可以按照先到先得的原则领取6000个 Quack AI (Q) 代币的空投。如果奖励未被完全分发，分数阈值将每小时自动减少15分。 
-币安Alpha交易将于2025-09-02 07:00 (UTC) 开启 
-币安期货交易将于2025-09-02 07:30 (UTC) 开启 
-请注意，领取空投将消耗15个币安Alpha积分。用户必须在24小时内确认他们在Alpha活动页面上的申请，否则将视为用户放弃领取空投。
-- [韩国领导人提议采用银行主导的稳定币发行模式](https://ns3.ai/en/3dxldRd7x8) - 📰 null - 【韩国领导人提议采用银行主导的稳定币发行模式】金色财经报道，韩国执政党共同民主党院内代表 金炳基（Kim Byung-kee） 提出，稳定币应由银行主导的财团发行，其中可包括加密货币交易所和其他金融机构。他认为，这种模式能够降低由交易所单独发行金融产品所带来的风险。此举凸显出在快速发展的加密货币领域中，建立更完善的稳定币发行监管框架的必要性。
-- [某巨鲸在HyperLiquid出售150枚BTC换取7531枚ETH](https://x.com/OnchainLens/status/1962753179239752059) - 📰 null - 【某巨鲸在HyperLiquid出售150枚BTC换取7531枚ETH】金色财经报道，据OnchainLens监测，某巨鲸在HyperLiquid出售150枚BTC(价值1652万美元)换取7531枚ETH，并在AaveV3上将ETH供应用于借贷。 
-该巨鲸总计出售425枚BTC(价值4679万美元)换取10567枚ETH，均价为4428美元。
-- [欧洲央行施纳贝尔全球加息或将提前到来]() - 📰 null - 【欧洲央行施纳贝尔全球加息或将提前到来】金色财经报道，欧洲央行执委施纳贝尔表示，全球加息可能比人们想象的更早到来。（金十）
-- [日本央行副行长：如果明确美国关税对日本经济的影响不会显现，这将有利于加息]() - 📰 null - 【日本央行副行长：如果明确美国关税对日本经济的影响不会显现，这将有利于加息】金色财经报道，日本央行副行长冰见野良三：如果明确美国关税对日本经济的影响不会显现，这将有利于加息。(金十)
-- [BlockSec Phalcon：以太坊网络上发现一笔针对Bunni协议合约的可疑交易，损失约230万美元](https://x.com/Phalcon_xyz/status/1962743751568433416) - 📰 null - 【BlockSec Phalcon：以太坊网络上发现一笔针对Bunni协议合约的可疑交易，损失约230万美元】金色财经报道，据BlockSec Phalcon监测，以太坊网络上发现一笔针对Bunni协议（@bunni_xyz）合约的可疑交易，造成约230万美元损失。
-- [Starknet：目前正遭遇宕机，团队正积极调查此问题](https://x.com/Starknet/status/1962740091937317247) - 📰 null - 【Starknet：目前正遭遇宕机，团队正积极调查此问题】金色财经报道，Starknet在社交媒体发文表示，其目前正遭遇宕机，团队正积极调查此问题，并全力以赴尽快恢复全部功能。将在获取更多信息后第一时间同步进展。
-- [某巨鲸过去4日卖出425枚BTC换仓为10,567枚ETH](https://x.com/lookonchain/status/1962739910647095341) - 📰 null - 【某巨鲸过去4日卖出425枚BTC换仓为10,567枚ETH】金色财经报道，据Lookonchain监测，某巨鲸0xFf15在过去4天内卖出了425枚BTC（4650万美元），买入了10,567枚ETH（4650万美元）。
-- [Sky创始人：Sky Core简化大幅降低支出，当前协议年化利润达3.38亿美元](https://x.com/RuneKek/status/1962554802694426986) - 📰 null - 【Sky创始人：Sky Core简化大幅降低支出，当前协议年化利润达3.38亿美元】9月2日消息，Sky（原MakerDAO）创始人Rune Christensen在社交平台上表示，“在Sky Core简化大幅降低核心开支后，利润页面已更新，基于近三月费用年化计算，并实时显示稳定费用收入与储蓄率支出，当前年化利润达3.38亿美元。”
-- [Galaxy Digital过去5日向Coinbase转入50万枚SOL，约合1.03亿美元](https://x.com/lookonchain/status/1962736834884313279) - 📰 null - 【Galaxy Digital过去5日向Coinbase转入50万枚SOL，约合1.03亿美元】金色财经报道，据Lookonchain监测，Galaxy Digital在过去5日向Coinbase存入50万枚SOL（约1.03亿美元）。
-- [印度将自2027年4月起遵循经合组织的全球加密货币税收申报规则](https://x.com/simplykashif/status/1962725030477095347) - 📰 null - 【印度将自2027年4月起遵循经合组织的全球加密货币税收申报规则】金色财经报道，Bitinning创始人Kashif Raza在X平台发文称，印度将自2027年4月起遵循 经合组织（OECD） 的全球加密货币税收申报规则。 
-印度将实施OECD的加密税收规则（CARF）； 
-印度居民的海外加密货币持有将被征税； 
-印度将在明年签署新的全球税务信息共享协议（MCAA）； 
-加密货币需要单独的协议（此前2015年的协议仅适用于银行账户）。
-- [财新：数名华人参与了特朗普家族加密项目WLFI](https://finance.caixin.com/2025-09-02/102357973.html) - 📰 null - 【财新：数名华人参与了特朗普家族加密项目WLFI】金色财经报道，据财新网披露，与美国总统特朗普及其家族关联的World Liberty Financial项目代币WLFI已于美东时间2025年9月1日在币安（Binance）、OKX、Coinbase等几乎所有中心化加密货币交易所上线，值得注意的是不少华人也参与了该项目，包括跨链平台Ankr创始人Ryan Fang、交易所Paxos联合创始人Rich Teo、以太坊扩容项目Scroll创始人Sandy Peng、具有华人背景的做市商DWF Labs投资的交易所Falcon Finance等，此外孙宇晨已向World Liberty Financial项目投资了7500万美元。
-- [特朗普将于本周三凌晨2点在白宫发表讲话]() - 📰 null - 【特朗普将于本周三凌晨2点在白宫发表讲话】金色财经报道，特朗普将于美国东部时间周二下午 2:00（北京时间周三凌晨 2 点）在白宫发表讲话。(金十)
-- [瑞·达利欧：国际投资者已开始从美国国债转向黄金]() - 📰 null - 【瑞·达利欧：国际投资者已开始从美国国债转向黄金】金色财经报道，桥水基金创始人瑞·达利欧：国际投资者已开始从美国国债转向黄金，多年的巨额赤字和不可持续的债务增长已将美国经济推向债务危机的边缘。财富差距、价值观差距和信任崩溃正在推动美国实施“更加极端”的政策。(金十)
-- [以太坊8月活跃地址数达1945万，创2021年5月以来新高](https://x.com/eth_everstake/status/1962543408222031995) - 📰 null - 【以太坊8月活跃地址数达1945万，创2021年5月以来新高】金色财经报道，据everstake.eth披露，以太坊8月活跃地址数达1945万，创2021年5月（2027万）以来新高。
-- [以太坊基金会宣布在Fusaka升级两周后关闭Holesky测试网](https://x.com/Cointelegraph/status/1962719875761049794) - 📰 null - 【以太坊基金会宣布在Fusaka升级两周后关闭Holesky测试网】金色财经报道，据Cointelegraph消息，以太坊基金会宣布在Fusaka升级两周后关闭Holesky测试网。
-- [金色午报 | 9月2日午间重要动态一览]() - 📰 null - 【金色午报 | 9月2日午间重要动态一览】7:00-12:00关键词：WLFI、Metaplanet、现货黄金 
-1.现货黄金突破3500美元，再创历史新高； 
-2.欧盟监管机构：代币化股票可能会误导散户投资者； 
-3.WLFI TOP10个人持有者中有80%选择部分/全部止盈； 
-4.WSJ：特朗普家族在WLFI发行后积累50亿美元账面财富； 
-5.ZachXBT称超100名加密货币网红接推广却未披露付费广告； 
-6.Metaplanet股东批准38亿美元增资计划，资金将用于收购比特币； 
-7.全球现货比特币ETF目前持有比特币供应量的7%，约合150万枚BTC。
+- [美国股指期货跌幅扩大，纳斯达克100指数期货下跌1.2%]() - 📰 null - 【美国股指期货跌幅扩大，纳斯达克100指数期货下跌1.2%】金色财经报道，美国股指期货跌幅扩大，标普500指数期货跌幅达1%，纳斯达克100指数期货下跌1.2%，道指期货下跌0.7%。
+- [云锋金融公开市场购买 10,000 枚 ETH，总投资成本 4,400 万美元]() - 📰 null - 【云锋金融公开市场购买 10,000 枚 ETH，总投资成本 4,400 万美元】金色财经报道，云锋金融公告，公司董事会已批准于公开市场购买 ETH 作为储备资产。截至公告日期，集团已于公开市场累计购买 10,000 枚 ETH，总投资成本（含费用及开支）为 4,400 万美元。此次购买资金来自集团内部现金储备，所购 ETH 在集团财务报表中列为投资资产。
+- [CEA Industries增持BNB至38.8万枚](https://www.globenewswire.com/news-release/2025/09/02/3142642/0/en/CEA-Industries-BNC-Expands-Holdings-to-388-888-BNB-330M-USD-Targets-1-Supply-by-Year-End.html) - 📰 null - 【CEA Industries增持BNB至38.8万枚】金色财经报道，CEA Industries Inc.(纳斯达克:BNC)宣布新增购买38,888枚BNB(约3300万美元)，使其总持有量达到388,888枚BNB(约3.3亿美元)，进一步巩固其作为全球最大BNB企业持有者的地位。公司公开表示，计划在2025年底前持有BNB总供应量的1%。
+- [AI区块链初创公司 Kite 完成 1800 万美元 A 轮融资](https://fortune.com/crypto/2025/09/02/kite-ai-blockchain-paypal-general-catalyst-18-million/) - 📰 null - 【AI区块链初创公司 Kite 完成 1800 万美元 A 轮融资】金色财经报道，人工智能区块链初创公司 Kite 宣布完成 1800 万美元 A 轮融资，PayPal 和 General Catalyst 领投，8 VC、Samsung Next 和 Alumni Ventures 等参投。
+- [SharpLink增持39,008枚以太坊，总持仓达837,230枚](https://x.com/SharpLinkGaming/status/1962848502666691043) - 📰 null - 【SharpLink增持39,008枚以太坊，总持仓达837,230枚】金色财经报道，SharpLink以约4,531美元均价增持39,008枚以太坊，使其总持仓量达到837,230枚以太坊，价值约36亿美元。截至2025年8月31日当周，SharpLink通过ATM融资工具筹集了4,660万美元，并质押了这些新增的以太坊。
+- [ETHZilla计划将1亿美元ETH部署至EtherFi进行再质押](https://www.prnewswire.com/news-releases/ethzilla-plans-to-deploy-100-million-in-eth-to-etherfi-for-restaking-initiatives-302543423.html) - 📰 null - 【ETHZilla计划将1亿美元ETH部署至EtherFi进行再质押】金色财经报道，纳斯达克上市公司ETHZilla Corporation(Nasdaq: ETHZ)今日宣布计划将约1亿美元的以太坊(ETH)部署到流动性再质押协议EtherFi，以提高其财库收益率。该公司目前持有102,246枚ETH，总价值约4.56亿美元，平均收购价格为3,948.72美元。
+- [Strategy上周以总价4.493亿美元购入4,048枚比特币](https://x.com/Strategy/status/1962849198144893425) - 📰 null - 【Strategy上周以总价4.493亿美元购入4,048枚比特币】金色财经报道，Strategy(MSTR.O)在8月26日至9月1日期间以约4.493亿美元收购了4,048个BTC，每个比特币的价格约为110,981美元，并且到2025年迄今已实现25.7%的BTC收益率。 
+截至2025年9月1日，Strategy持有636,505个BTC，以约469.5亿美元收购，每个比特币的价格约为73,765美元。
+- [Hyperscale Data 正筹集 1.45 亿美元来购买更多比特币](https://x.com/BTCtreasuries/status/1962847450852438171) - 📰 null - 【Hyperscale Data 正筹集 1.45 亿美元来购买更多比特币】金色财经报道，上市公司 Hyperscale Data 正在通过普通股 ATM 筹集 1.45 亿美元来购买更多比特币。
+- [Bitmine上周买入 153,075 枚 ETH，价值 6.68 亿美元](https://x.com/lookonchain/status/1962845772116009396) - 📰 null - 【Bitmine上周买入 153,075 枚 ETH，价值 6.68 亿美元】金色财经报道，据Lookonchain监测，Bitmine上周又买入了 153,075 枚 ETH（价值 6.68 亿美元），目前持有 1,866,974 枚 ETH（价值 81.5 亿美元）。
+- [BitMine：持有187万枚ETH，加密货币和现金持有量达 89.8 亿美元](https://www.prnewswire.com/in/news-releases/bitmine-immersion-bmnr-announces-release-of-august-investor-presentation-and-latest-video-message-from-tom-lee-chairman-302543477.html) - 📰 null - 【BitMine：持有187万枚ETH，加密货币和现金持有量达 89.8 亿美元】金色财经报道，BitMine 宣布其加密货币和现金持有量达 89.8 亿美元。截至 8 月 31 日，该公司的加密货币持有量包括 1,866,974 枚 ETH，均价 4,458 美元、192 枚比特币以及 6.35 亿美元的未支配现金。
+- [Gemini 宣布启动首次公开募股](https://www.prnewswire.com/news-releases/gemini-announces-launch-of-initial-public-offering-302543703.html) - 📰 null - 【Gemini 宣布启动首次公开募股】金色财经报道，加密货币平台 Gemini 今日宣布，根据向美国证券交易委员会提交的 S-1 表格注册声明，首次公开发行 16,666,667 股 A 类普通股。与此次发行相关，Gemini 及其出售股东计划授予承销商 30 天期权，分别最多可额外购买 2,396,348 股和 103,652 股 A 类普通股，以弥补超额配售。目前预计首次公开发行价格为每股 A 类普通股17.00 美元至19.00 美元。Gemini已申请以“GEMI”为代码在纳斯达克上市。GoldmanSachs、Citigroup等为主承销商。
+- [Starknet再度出现宕机，工程师正修复相关问题](https://x.com/Starknet/status/1962834863599317055) - 📰 null - 【Starknet再度出现宕机，工程师正修复相关问题】金色财经报道，Starknet官推发文称，Starknet网络再次发生宕机，工程师团队已着手修复，目前尚未公布详细原因，后续将持续更新进展。
+- [Hyperscale Data：将在资产负债表中增持价值2000万美元的比特币](https://www.prnewswire.com/news-releases/hyperscale-data-announces-plan-to-add-20-million-in-bitcoin-to-its-balance-sheet-302543406.html) - 📰 null - 【Hyperscale Data：将在资产负债表中增持价值2000万美元的比特币】金色财经报道，纽约证券交易所上市公司Hyperscale Data宣布将在资产负债表中增加约2000 万美元的比特币，该公司表示将比特币纳入资产负债表将使股东更清晰地了解公司资产负债表上不断增长的硬资产，并成为评估公司普通股价值的额外手段。
+- [币安：Somnia（SOMI）第一阶段空投门槛为235分](https://x.com/binancezh/status/1962833559326204270) - 📰 null - 【币安：Somnia（SOMI）第一阶段空投门槛为235分】金色财经报道，据官方公告，币安 Alpha 将于 2025 年 9 月 2 日 21:30（UTC+8）上线Somnia（SOMI）。 符合条件的币安用户可使用币安 Alpha 积分，在 Alpha 活动页面于交易开始后 24 小时内申领 100 个 SOMI 代币空投。 
+币安 Alpha 空投将分两阶段发放： 第一阶段（前 18 小时）：持有至少 235 个 Alpha 积分的用户可申领。 第二阶段（后 6 小时）：持有至少 220 个 Alpha 积分的用户可参与第二阶段空投，先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。 
+请注意，申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
+- [分析：Venus及时暂停合约，被盗资金或有希望找回](https://x.com/Super4DeFi/status/1962819975170924705) - 📰 null - 【分析：Venus及时暂停合约，被盗资金或有希望找回】金色财经报道，据推特用户benmo.eth发推称，Venus协议攻击损失事件是因为一个小时前某大户（尾号2008） 地址签署了一笔 setDelegate 交易，将地址权限授权给了攻击合约，攻击合约取走了大户地址内的大部分仓位。事实上并非Venus受到攻击，另外Venus很及时的暂停了合约，所以这笔资金还在平台内，是有希望找回的。
+- [Cango Inc. 8月开采663.7个比特币，总量达5,193.4个](https://www.prnewswire.com/news-releases/cango-inc-announces-august-2025-bitcoin-production-and-mining-operations-update-302543682.html) - 📰 null - 【Cango Inc. 8月开采663.7个比特币，总量达5,193.4个】金色财经报道，比特币矿企Cango Inc.今天发布了2025年8月比特币生产和采矿运营更新。8月开采了663.7个比特币，比特币金库突破了5,000个，达5,193.4个。
+- [美股上市公司 Sequans 增持 34 枚 BTC](https://x.com/btcNLNico/status/1962818675972477015) - 📰 null - 【美股上市公司 Sequans 增持 34 枚 BTC】金色财经报道，据官方公告，美股上市公司 Sequans 购买了 34 个 BTC，目前总共拥有 3,205 个 BTC。
+- [Ether Machine通过私人融资筹集价值6.54亿美元的以太坊](https://www.reuters.com/business/ether-machine-raises-654-million-private-ether-financing-nasdaq-debut-nears-2025-09-02/) - 📰 null - 【Ether Machine通过私人融资筹集价值6.54亿美元的以太坊】金色财经报道，据路透社报道，Ether Machine已通过私人融资筹集了价值6.54亿美元的以太坊，这家加密货币公司正在扩大其财务战略，准备在今年晚些时候在纳斯达克上市。 
+该公司表示，由以太坊长期支持者Jeffrey Berns投资的150,000个以太坊将于本周晚些时候存入其钱包。Jeffrey Berns还将加入该公司董事会。
+- [美国监管机构推迟或缩减对银行的审查]() - 📰 null - 【美国监管机构推迟或缩减对银行的审查】金色财经报道，美国货币监理署、美联储和消费者金融保护局已推迟、缩减或取消了对银行的审查，监管机构已缩小审查范围。这些调整影响大型和中型银行。（金十）
+- [美国30年期国债收益率上涨至4.98%]() - 📰 null - 【美国30年期国债收益率上涨至4.98%】金色财经报道，美国30年期国债收益率上涨至4.98%，为7月以来的最高水平。（金十）
