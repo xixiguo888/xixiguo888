@@ -1,40 +1,23 @@
-- [Ripple与Chipper Cash、VALR及Yellow Card合作，将稳定币RLUSD的使用范围扩大至非洲机构](https://x.com/Cointelegraph/status/1963486173667447034) - 📰 null - 【Ripple与Chipper Cash、VALR及Yellow Card合作，将稳定币RLUSD的使用范围扩大至非洲机构】金色财经报道，据Cointelegraph披露，Ripple通过与Chipper Cash、VALR和Yellow Card的合作，将其稳定币RLUSD的使用范围扩大至非洲机构。
-- [比特币财库公司The Smarter Web Company将发行2100万股普通股](https://www.londonstockexchange.com/news-article/market-news/new-subscription-agreement-signed/17214729) - 📰 null - 【比特币财库公司The Smarter Web Company将发行2100万股普通股】金色财经报道，据官方公告，比特币财库公司The Smarter Web Company宣布，已签署一项新的认购协议，将发行2100万股普通股。新认购协议的条款与2025年6月19日公布的先前认购协议相同。 
-公司认为，现行认购协议在为公司筹集额外资本方面已取得成效。同时，继公司2025年8月26日公告后，根据6月认购协议发行的大部分普通股已完成配售。
-- [澳大利亚Monochrome现货比特币ETF的BTC持仓升至1028枚](https://x.com/MonochromeAsset/status/1963482659432337652) - 📰 null - 【澳大利亚Monochrome现货比特币ETF的BTC持仓升至1028枚】金色财经报道，据官方公告，澳大利亚Monochrome现货比特币ETF（IBTC）披露截至9月3日持仓量已达到1028枚比特币，持仓市值约为1.74亿澳元。
-- [中国金融发展：公链SimpleChain2.0测试网和官网已上线](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0903/2025090301663_c.pdf) - 📰 null - 【中国金融发展：公链SimpleChain2.0测试网和官网已上线】金色财经报道，据港交所公告，港股上市中国金融发展有限公司宣布旗下SimpleChain2.0公链登记网已发布，用户帐户激活已完成，SimpleChain2.0官网已上线，测试网已上线。此外，中国金融发展有限公司还表示拟推出新一代链上资产平台，探索内地、香港、国际三级通证市场。
-- [Coinbase任命Cat Ferdon为首席营销官](https://x.com/coinbase/status/1963300989106073943) - 📰 null - 【Coinbase任命Cat Ferdon为首席营销官】金色财经报道，据官方消息，Coinbase宣布任命Cat Ferdon为首席营销官。 
-Cat Ferdon此前是Block（前身为Square）旗下CashApp的营销和品牌主管。
-- [James Wynn以太坊多头仓位再次遭遇部分清算](https://x.com/lookonchain/status/1963479662673170656) - 📰 null - 【James Wynn以太坊多头仓位再次遭遇部分清算】金色财经报道，据链上分析平台Lookonchain（@lookonchain）监测，交易员James Wynn（@JamesWynnReal）的以太坊多头仓位再次遭遇部分清算。目前该仓位的清算价位已调整至4,361美元。
-- [财新网：消息人士称香港对“港股加密财库”方向认可度不高](https://finance.caixin.com/2025-09-04/102358638.html) - 📰 null - 【财新网：消息人士称香港对“港股加密财库”方向认可度不高】9月4日消息，据财新网报道，新火科技CEO翁晓奇称，DAT、加密货币ETF，以及传统的虚拟资产交易所，三者本质上都提供了资金进入加密货币交易的入口；在加密货币ETF出现之前，交易所是主流，但现在加密货币交易的载体正在向轻量级的方式演进，当前DAT就是传统投资人进入加密世界的最轻量级方式。 
-一位不愿具名的数字资产资深投资人士对财新称，港股DAT虽也可为，但经与香港监管当局的沟通发现，香港对这个方向认可度不高，市场参与者或许还需要去游说本地监管。
-- [汇丰：上调标普500指数年底目标至6500点]() - 📰 null - 【汇丰：上调标普500指数年底目标至6500点】金色财经报道，汇丰发表报告称，继8月初后，再度调高标普500指数年底目标，由6400点升至6500点，不足一个月两度上调目标，主因是第二季企业盈利胜预期等带动。汇丰表示，次季企业业绩势头强劲，尤其科技和金融股，企业表明关税的影响温和，另外，汇丰预计美联储将在9月减息，预期至2026年共减息0.75厘，市场普遍预期累减逾1.25厘。汇丰也调高标指今年每股盈利增长预测，由9%调高至12%，市场平均料升11%，因应调高每股盈利增长预测，故上调标指年底目标，最牛仍维持7000点，最熊则为5700点。(金十)
-- [某新建钱包从FalconX收到15,000枚ETH，价值约6611万美元](https://x.com/OnchainLens/status/1963469538504446234) - 📰 null - 【某新建钱包从FalconX收到15,000枚ETH，价值约6611万美元】金色财经报道，据Onchain Lens监测，又有一个新创建的钱包从FalconX接收了15,000枚ETH，价值约6611万美元。至此，共有4个新创建的钱包总计提取了80,662枚ETH，总价值约3.5285亿美元。
-- [BTC跌破111000美元]() - 📰 null - 【BTC跌破111000美元】金色财经报道，行情显示，BTC跌破111000美元，现报110972.95美元，24小时跌幅达到0.05%，行情波动较大，请做好风险控制。
-- [Syndicate 将于本月发行代币，2%用于社区空投](https://x.com/syndicateio/status/1963309641590603779) - 📰 null - 【Syndicate 将于本月发行代币，2%用于社区空投】9月4日消息，应用链基础设施Syndicate在X宣布将于本月发布代币SYND，总发行量为10亿枚，其中2%用于向社区空投，15.89%归属于投资者，24.99%归属于团队。SYND是Syndicate Network的原生Gas代币，为应用链提供动力。 
-此前，Syndicate曾获得a16z领投的多轮融资，其他投资者包括IDEO CoLab Ventures、Coinbase Ventures、Robot Ventures、Variant Fund、Alliance DAO、Electric Capital、Delphi Digital、CoinFund、Archetype。
-- [Uniswap社区投票通过“建立DUNI法律实体”温度检查提案，将在链上进行第二次投票](https://snapshot.box/#/s:uniswapgovernance.eth/proposal/0xf9f99fe0f9425c2b2e624185860bcc38ac00bda6abe330e9c123f5c5c29dfbac) - 📰 null - 【Uniswap社区投票通过“建立DUNI法律实体”温度检查提案，将在链上进行第二次投票】9月4日消息，据Snapshot治理页面显示，Uniswap社区投票通过“建立DUNI法律实体”温度检查提案，将在链上进行第二次投票。提案中称，Uniswap拟采用注册于怀俄明州的去中心化非注册非营利协会（DUNA）作为治理协议的法律结构，并成立名为“DUNI”的法律实体。 
-DUNI旨在保持去中心化治理结构的同时，支持链下操作，如签订合同、聘用服务提供商及履行监管和税务义务。该实体将承认链上治理提案的约束效力，为成员提供法律结构和责任保护的确定性，同时不影响Uniswap协议、UNI代币或链上治理的核心机制。 
- 在Uniswap治理演进的愿景中，治理能够开启协议费用、资助创新、建立合作伙伴关系，并自信地应对法律义务。
-- [Sui上线去中心化私有管理服务Seal](https://x.com/Mysten_Labs/status/1963287060237988336) - 📰 null - 【Sui上线去中心化私有管理服务Seal】金色财经报道，Mysten Labs发推表示，Sui已上线去中心化私有管理（DSM）服务Seal。Seal通过Move支持可编程的、特定于应用程序的访问控制逻辑，并使用基于身份和阈值的加密技术，使客户端加密 / 解密流程无缝且安全地运行。
-- [DeFi TVL第三季度上涨41%，创三年以来新高](https://thedefiant.io/news/defi/defi-tvl-surges-41-in-q3-to-three-year-high) - 📰 null - 【DeFi TVL第三季度上涨41%，创三年以来新高】金色财经报道，据DeFillama数据，DeFi总锁仓金额在今年第三季度已经上涨41%，自2022年5月以来首次超过1600亿美元。 
-其中，以太坊与Solana领涨（以太坊TVL自7月的540亿增至965亿美元，Solana由100亿至130亿）；协议层面，DeFi借贷协议平台Aave约410亿（较7月+58%）、Liquid质押平台Lido近390亿（+77%）、再质押协议平台EigenLayer超200亿（+66%）。
-- [高盛：如果美联储的信誉受损，金价可能会升至近5,000美元/盎司]() - 📰 null - 【高盛：如果美联储的信誉受损，金价可能会升至近5,000美元/盎司】金色财经报道，市场消息：高盛表示，如果美联储的信誉受损，投资者将一小部分美国国债换成黄金，金价可能会升至近5,000美元/盎司。(金十)
-- [金色午报 | 9月4日午间重要动态一览]() - 📰 null - 【金色午报 | 9月4日午间重要动态一览】7:00-12:00关键词：Galaxy Digital、关税、稳定币 
-1.某包含479枚BTC的休眠地址在12.8年后被激活； 
-2.比特币网络昨日算力达1.279 ZH/s，创历史新高； 
-3.特朗普向最高法院上诉，要求保留其全面关税政策； 
-4.Bitmine再次从Galaxy Digital处收到14665.5枚ETH； 
-5.以太坊验证者待质押量逾86万枚ETH，创两年新高； 
-6.英格兰银行副行长：系统性稳定币可持有“部分”政府债券； 
-7.韩国金融委员会将动用数百亿韩元操纵币价的“大型鲸鱼”移送检察机关； 
-8.印度、美国和巴基斯坦位居Chainalysis 2025年全球加密货币采用指数榜首。
-- [随着现货黄金上涨，代币化黄金市场规模一度达到25亿美元](https://coingeek.com/tokenized-gold-market-now-worth-more-than-2-5-billion/) - 📰 null - 【随着现货黄金上涨，代币化黄金市场规模一度达到25亿美元】金色财经报道，据 Coingeek 报道，黄金价格的近期上涨一度推动代币化黄金市场规模突破25亿美元。 
-目前，代币化黄金市场主要由泰达（TETHer）旗下的XAUT与Paxos旗下的PAXG主导。仅在8月，XAUT就新增发行约4.37亿美元，而PAXG在6月吸引资金约1.415亿美元。 
-截至目前，PAXG总市值已达9.85亿美元，位居榜首，其次是XAUT，市值约8.59亿美元。代币化黄金允许投资者在不购买、运输和储存实物资产的情况下，获得实物黄金的敞口。
-- [4E：American Bitcoin上市首日大涨，特朗普家族持仓曝光]() - 📰 null - 【4E：American Bitcoin上市首日大涨，特朗普家族持仓曝光】9月4日消息，据4E观察，特朗普家族相关矿企American Bitcoin披露其持有2443枚BTC，总价值约2.73亿美元，较首次披露文件中的152枚大幅增加，显示其储备扩张速度惊人。American Bitcoin（纳斯达克代码：ABTC）上市首日上涨近17%，收报8.04美元，盘中一度触及14美元高点，全天成交量超2900万股。相比之下，近期更高估值上市的Circle与Bullish首日交易量分别为4600万股与5800万股。分析称，本次成功上市令Eric Trump 所持股份市值已超过5亿美元。 
-货币政策方面，美联储理事沃勒明确表态支持在下次会议上 降息，称可能进入多次降息周期。同时，美联储宣布将于10月召开数字资产专题会议，讨论稳定币与金融产品代币化。特朗普近日尝试解雇美联储理事Lisa Cook引发法律与市场震动，逾600名经济学家警告若削弱美联储独立性，政策不确定性将显著上升。 
-QCP指出，市场焦点正从单纯的降息预期转向美联储 独立性风险，投资者加大对黄金与比特币的避险配置。 
-4E提醒投资者： 美国监管与政治风险正在加速塑造市场叙事，比特币与黄金短期或受益，但波动性依旧高企，建议投资者关注宏观与政策面的联动影响。
-- [ETH跌破4400美元]() - 📰 null - 【ETH跌破4400美元】金色财经报道，行情显示，ETH跌破4400美元，现报4399.78美元，24小时涨幅达到1.65%，行情波动较大，请做好风险控制。
-- [分析师：获利回吐让金价迅速从历史高位回落，市场聚集美国就业数据]() - 📰 null - 【分析师：获利回吐让金价迅速从历史高位回落，市场聚集美国就业数据】金色财经报道，金价在周四走软，因在预期美国降息触及历史高位后遭遇获利了结，同时投资者期待本周将公布的美国关键就业数据。现货黄金日内最新下跌1%，跌至接近3510美元/盎司的位置。GoldSilver Central董事总经理Brian Lan表示：“我们看到了一些获利回吐，但目前黄金仍处于牛市。降息预期和对美联储独立性的担忧将增加避险需求，即使金价在短期内升至3800美元甚至更高，我们也不会感到意外。”(金十)
+- [美SEC发布2025年春季监管议程：涵盖与加密资产发行和交易相关的潜在规则提案](https://www.sec.gov/newsroom/speeches-statements/atkins-2025-regulatory-agenda-090425) - 📰 null - 【美SEC发布2025年春季监管议程：涵盖与加密资产发行和交易相关的潜在规则提案】9月4日消息，美 SEC 发布 2025 年春季监管议程，该议程涵盖了与加密资产发行和交易相关的潜在规则提案，旨在帮助明确加密资产的监管框架，并为市场提供更大的确定性。 
+美 SEC 主席 Paul S. Atkinsb 表示，在他担任主席期间的一项重要任务是明确加密资产发行、托管和交易的规则，同时继续阻止不良行为者违法。报告还涵盖了一系列设想中的放松监管规则提案，旨在减轻合规负担并促进资本形成，包括简化融资途径和投资者进入私营企业的渠道。报告还讨论了修订现有规则，使其更加完善和现代化，并解决信息披露负担问题。
+- [GameSquare：截至8月末持有15,731.07枚ETH](https://www.prnewswire.com/news-releases/gamesquare-announces-initial-onchain-yield-for-august-2025-of-approximately-8-or-5-4-million-annualized-302545848.html) - 📰 null - 【GameSquare：截至8月末持有15,731.07枚ETH】金色财经报道，纳斯达克上市公司GameSquare发布启动以太坊财库战略后的初始月度业绩报告，其中披露该公司截至8月31日持有15,731.07枚ETH，按照4,391.91美元价格计算，其持有的ETH价值约合69,089,444美元。GameSquare澄清，其ETH持仓及收益数据不包括其他链上资产，包括公司的 NFT 投资组合，截至八月末该公司持有的NFT成本基数约为715万美元。
+- [美国至8月30日当周初请失业金人数 23.7万人]() - 📰 null - 【美国至8月30日当周初请失业金人数 23.7万人】金色财经报道，美国至8月30日当周初请失业金人数 23.7万人，预期23万人，前值22.9万人。
+- [Grayscale推出以太坊备兑看涨期权ETF（ETCO）](https://etfs.grayscale.com/etco) - 📰 null - 【Grayscale推出以太坊备兑看涨期权ETF（ETCO）】9月4日消息，Grayscale投资公司推出新产品Ethereum Covered Call ETF（代码：ETCO），当前市价35.01美元（截至2025年9月3日）。该基金通过系统化备兑看涨期权策略，并提供每月两次（15日和30日）的固定分红。ETCO不直接投资以太坊，而是通过持有以太坊ETP的衍生品获得间接敞口。
+- [美国8月ADP就业人数5.4万人，预期6.5万人]() - 📰 null - 【美国8月ADP就业人数5.4万人，预期6.5万人】金色财经报道，美国 8 月 ADP 就业人数 5.4 万人，预期 6.5 万人，前值 10.4 万人。
+- [美国10年期国债收益率跌至4.18%，为5月1日以来的最低水平]() - 📰 null - 【美国10年期国债收益率跌至4.18%，为5月1日以来的最低水平】金色财经报道，美国10年期国债收益率跌至4.18%，为5月1日以来的最低水平。(金十)
+- [Trend Research将1005万枚NEIROETH转入Bybit](https://x.com/EmberCN/status/1963573837544788156) - 📰 null - 【Trend Research将1005万枚NEIROETH转入Bybit】金色财经报道，据链上分析师余烬监测，在 Bybit 发布下架 NEIROETH 永续合约公告后，LD Capital 旗下 Trend Research 再次将 1005 万枚 NEIROETH (61 万美元) 转入 Bybit。 
+Trend Research 今天已经累计转进 Bybit  1.39 亿枚 NEIROETH (1064 万美元)。链上地址则还持有 5.31 亿枚 NEIROETH (3623 万美元)，占总量的 53.1%。
+- [ADP公布前：美联储9月降息概率为97.6%]() - 📰 null - 【ADP公布前：美联储9月降息概率为97.6%】金色财经报道，据CME“美联储观察”：美联储9月维持利率不变的概率为2.4%，降息25个基点的概率为97.6%。美联储10月维持利率不变的概率为1.1%，累计降息25个基点的概率为46.7%，累计降息50个基点的概率为52.1%。
+- [Bit Digital持有121,252枚ETH，质押量达105031枚](https://x.com/BitDigital_BTBT/status/1963573681348640938) - 📰 null - 【Bit Digital持有121,252枚ETH，质押量达105031枚】金色财经报道，Bit Digital 发推表示，该公司的 ETH 持有总量已达到 121,252 枚，价值 5.325 亿美元，ETH 质押数量达到 105031 枚，已获得 249 枚 ETH 质押奖励。
+- [币安 Alpha 已上线 TRADOOR]() - 📰 null - 【币安 Alpha 已上线 TRADOOR】金色财经报道，据官方页面显示，币安 Alpha 已上线 TRADOOR。
+- [贝莱德向 Coinbase Prime 存入 33,884 枚 ETH，价值约1.486 亿美元](https://x.com/lookonchain/status/1963571197372735946) - 📰 null - 【贝莱德向 Coinbase Prime 存入 33,884 枚 ETH，价值约1.486 亿美元】金色财经报道，据链上分析平台 Lookonchain 监测，2 小时前，贝莱德向 Coinbase Prime 存入了 33,884 枚 ETH，价值约1.486 亿美元。
+- [Bitwise在瑞士证券交易所上市五种加密货币ETP，覆盖BTC、XRP、SOL等](https://www.globenewswire.com/news-release/2025/09/04/3144208/0/en/Bitwise-expands-access-to-its-products-in-Swiss-markets-listing-five-flagship-ETPs-on-Six-Swiss-Exchange.html) - 📰 null - 【Bitwise在瑞士证券交易所上市五种加密货币ETP，覆盖BTC、XRP、SOL等】金色财经报道，数字资产管理公司Bitwise宣布在瑞士证券交易所Six Swiss Exchange上市五种加密货币ETP，分别是：Bitwise Core Bitcoin ETP、Bitwise Ethereum Staking ETP、Bitwise Solana Staking ETP、Bitwise Physical XRP ETP、以及Bitwise MSCI Digital Assets Select 20 ETP，截至目前Bitwise在Six Swiss Exchange上市的加密货币ETP数量已达到十个。
+- [美国就业顾问公司：截至目前，今年企业已宣布裁员892,362人]() - 📰 null - 【美国就业顾问公司：截至目前，今年企业已宣布裁员892,362人】金色财经报道，美国就业顾问公司Challenger Gray：截至目前，今年企业已宣布裁员892,362人，是自2020年（当年裁员1,963,458人）以来年初至今的最高水平。与去年前八个月宣布的536,421人相比增加了66%，也比2024年全年裁员总数761,358人高出17%。(金十)
+- [孙宇晨转移 5000 万枚 WLFI 至新钱包，或将存入 HTX](https://x.com/OnchainLens/status/1963567020206862519) - 📰 null - 【孙宇晨转移 5000 万枚 WLFI 至新钱包，或将存入 HTX】金色财经报道，据链上分析师 Onchain Lens 监测，孙宇晨将价值 912 万美元的 5000 万枚 WLFI 转移至一个新钱包，该资金可能将存入 HTX。
+- [全球上市公司持有的比特币正式超过100万枚]() - 📰 null - 【全球上市公司持有的比特币正式超过100万枚】金色财经报道，据The Bitcoin Historian发布市场消息，全球公开上市交易的公司持有的比特币（BITCOIN）正式超过100万枚。
+- [最近7天链上费用排行榜：以太坊位居榜首，费用达1249万美元]() - 📰 null - 【最近7天链上费用排行榜：以太坊位居榜首，费用达1249万美元】金色财经报道，据Nansen发布图表称，最近7 天链上费用排行榜：以太坊（Ethereum）位居榜首，费用达 1249 万美元（+26%）；波场 DAO（TRONDAO）紧随其后，费用为1030万美元；比特币（Bitcoin）费用为341万美元，增长 41%。
+- [White Star Capital拟募资5000万美元，已完成首轮2500万美元融资](https://www.prnewswire.com/news-releases/white-star-capital-completes-first-close-of-new-50m-north-american-seed-fund-302545760.html) - 📰 null - 【White Star Capital拟募资5000万美元，已完成首轮2500万美元融资】金色财经报道，多阶段科技投资公司White Star Capital宣布拟募资5000万美元，目前已经完成首轮2500万美元融资，Fonds de solidarité FTQ领投。目前White Star Capital旗下拥有早期增长基金、以及专注于加密和区块链初创企业的数字资产基金等，今年二月参投了人工智能区块链风险管理平台Lockchain.ai的A轮融资。
+- [Wintermute 敦促 SEC 将网络代币排除在证券规则之外](https://cointelegraph.com/news/wintermute-sec-network-tokens-not-securities) - 📰 null - 【Wintermute 敦促 SEC 将网络代币排除在证券规则之外】金色财经报道，交易公司和做市商 Wintermute 要求美国证券交易委员会 (SEC) 确认网络代币不应归类为证券。该公司表示，有必要对代币的安全状况进行明确的指导，以避免证券法的误用并确保加密市场的持续增长。  
+Wintermute 表示，“网络代币”与“去中心化网络或协议的功能有着内在联系”，是区块链网络的必要技术投入。正因如此，该公司表示，它们与金融产品或证券有着根本的区别。
+- [欧洲央行准备应对欧洲下一场主权债务危机]() - 📰 null - 【欧洲央行准备应对欧洲下一场主权债务危机】金色财经报道，据据知名财经新闻与分析网站ZeroHedge发布市场消息，欧洲央行准备应对欧洲下一场主权债务危机。
+- [巴克莱银行：AI浪潮有望催生千亿美元以上级并购交易]() - 📰 null - 【巴克莱银行：AI浪潮有望催生千亿美元以上级并购交易】金色财经报道，巴克莱首席并购专家指出，人工智能领域的竞赛正推高到明年此时达成1000亿美元以上级并购交易的可能性。“在更广泛的人工智能领域，将会出现超乎想象的交易，”该行全球并购业务主管Andrew Woeber在接受采访时表示。“未来一年内出现1000亿美元以上级交易也不必惊讶。大型平台将进行重大押注。”包括马斯克旗下xAI和Meta Platforms Inc.在内的科技公司，已承诺大量投入建设数据中心及相关基础设施，以支撑人工智能浪潮。
