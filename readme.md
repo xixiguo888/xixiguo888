@@ -1,41 +1,23 @@
-- [市场消息：欧盟考虑对俄罗斯实施新制裁，以打击其银行业和石油贸易]() - 📰 null - 【市场消息：欧盟考虑对俄罗斯实施新制裁，以打击其银行业和石油贸易】金色财经报道，市场消息：欧盟考虑对俄罗斯实施新制裁，以打击其银行业和石油贸易。
-- [Sonic升级代币经济学，将发行6.339亿枚新S代币](https://crypto.news/sonic-crypto-tokenomics-u-s-expansion-strategy-2025/) - 📰 null - 【Sonic升级代币经济学，将发行6.339亿枚新S代币】金色财经报道，Sonic Labs正在推出代币经济学调整，以支持其在美国的扩张和机构采用计划。相关细节由Tokenomist于9月7日在X平台发布，他梳理了8月31日以近乎全票通过的治理提案后，新的发行与供应动态。 
-据Tokenomist称，Sonic将发行6.339亿枚新的S代币，价值约1.965亿美元。分配方案分为三类： 
-1.5亿枚用于Sonic在美国的业务运营； 
-3.226亿枚预留给一家纳斯达克私募投资工具，至少锁定三年； 
-1.613亿枚则指定用于未来与BitGo托管合作的ETF项目。
-- [日本30年期国债收益率升至3.285%，创历史新高]() - 📰 null - 【日本30年期国债收益率升至3.285%，创历史新高】金色财经报道，日本30年期国债收益率升至3.285%，创历史新高。
-- [Aster公布ASTER代币经济学，社区空投占比超50%](https://medium.com/asterdex/all-need-to-know-about-aster-airdrop-24b2e914b025) - 📰 null - 【Aster公布ASTER代币经济学，社区空投占比超50%】9 月 8 日消息，据官方公告，Aster正式公布其原生代币$ASTER的代币经济学模型。ASTER总供应量为80亿枚，采用BEP-20格式在币安智能链上发行。代币分配比例为：社区空投53.5%(约42.8亿枚)，其中8.8%(7.04亿枚)将于2025年9月17日TGE当天解锁； 
-生态系统与社区30%(24亿枚)，将在20个月内线性释放； 
-国库储备7%(5.6亿枚)，完全锁定直至治理机制批准使用；团队与顾问5%(4亿枚)， 
-首年100%锁定后40个月线性释放； 
-流动性与上市4.5%(3.6亿枚)，TGE时完全解锁。
-- [Binance 9月净储备以太坊减持超3万枚，持续加仓比特币]() - 📰 null - 【Binance 9月净储备以太坊减持超3万枚，持续加仓比特币】金色财经报道，Binance公布了其9月储备金报告，对比8月储备报告，Binance9月储备中再次减持以太坊，净持有量由8月的30,475枚，降至9月初的113枚。按照现价4300美元计算，减持了价值约合1.305亿美元以太坊。此前，Binance6月储备报告显示，其当月大幅减持以太坊储备。 
-与此相对，Binance本月继续增持比特币，较上月净增持了约3779枚比特币，现净持有量为21,256枚。按现价11.1万美元计算，净增持价值约合4.19亿美元。
-- [数据：多达37%的流通比特币或已永远丢失](https://www.zerohedge.com/crypto/bitcoins-hidden-scarcity-lost-coins-and-silent-supply-shock) - 📰 null - 【数据：多达37%的流通比特币或已永远丢失】金色财经报道，尽管比特币的固定上限为2100万枚，旨在对抗法币通胀并模拟黄金的稀缺性，但大量永久丢失的比特币进一步收紧了供应。 
-链上分析估计，大约230万至惊人的780万枚比特币（约占总供应量的11%—37%）可能已经永远消失，被困在丢失的钱包、遗忘的私钥，或因意外去世而被遗弃的地址中。这些“僵尸币”或“幽灵币”实际上将比特币的有效流通供应量从当前的1990万枚减少至仅1210万至1760万枚之间。
-- [The Smarter Web Company宣布已完成2,043,000股普通股配售](https://x.com/smarterwebuk/status/1964932078543229075) - 📰 null - 【The Smarter Web Company宣布已完成2,043,000股普通股配售】金色财经报道，总部位于伦敦的上市科技公司The Smarter Web Company宣布，根据2025年6月19日公布的认购协议条款，公司已完成2,043,000股普通股的配售（“认购股份”）。 
-此次认购股份配售的总募集资金为2,612,340英镑（未扣除费用），相当于每股约1.28英镑，公司将在本周初收到约97%的资金结算。根据2025年6月19日公布的认购协议，尚未完成配售的普通股余额为548,799股。
-- [某聪明钱再次向Hyperliquid存入295万枚USDC 累计花费860万美元建仓HYPE]() - 📰 null - 【某聪明钱再次向Hyperliquid存入295万枚USDC 累计花费860万美元建仓HYPE】金色财经报道，据链上分析师Ai姨监测，某聪明钱两小时前又充值了295万枚USDC进Hyperliquid。目前已累计花费860万美元建仓HYPE，持仓175,645枚，平均成本48.96美元。
-- [6MV创始人MikeDudas：基金已加仓HYPE，Hyper liquid生态即将起飞]() - 📰 null - 【6MV创始人MikeDudas：基金已加仓HYPE，Hyper liquid生态即将起飞】金色财经报道，TheBlock联创、6MV创始人Mike Dudas于X发文表示，6MV已经加仓大量HYPE，本周末的事件清楚地表明Hyper liquid生态已经准备好起飞。
-- [Alexander Choi披露遭遇近百万美元加密资产被盗]() - 📰 null - 【Alexander Choi披露遭遇近百万美元加密资产被盗】金色财经报道，加密交易社区 Fortune Collective 创始人 Alexander Choi 发文表示，近日在 X 平台通过私信与虚假社区项目建立联系，在第三方电话会议过程中误点诈骗链接，导致损失近 100 万美元资金。
-- [今日BSC生态链上活跃度较高，新meme币Jobless和Bdog成交活跃]() - 📰 null - 【今日BSC生态链上活跃度较高，新meme币Jobless和Bdog成交活跃】9月8日消息，据GMGN行情，今日BSC生态链上活跃度较高，新meme币Jobless和Bdog成交量活跃。截止发稿，Jobless上线13小时，成交额突破1180万美元，市值现报400万美元。Bdog上线11小时，成交额突破990万美元，市值现报150万美元。meme 币无实际用途，价格波动大，用户投资需谨慎。
-- [WLD突破1.3美元，24小时涨幅达27.64%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/worldcoin) - 📰 null - 【WLD突破1.3美元，24小时涨幅达27.64%】金色财经报道，行情显示，WLD突破1.3美元，现报价1.2995美元，24小时涨幅达27.64%，行情波动较大，请做好风险控制。
-- [比特币鲸鱼近一个月抛售115,000枚BTC，创2022年年中以来最大规模抛售](https://cointelegraph.com/news/bitcoin-whales-dumped-115000-btc-largest-selloff-since-mid-2022) - 📰 null - 【比特币鲸鱼近一个月抛售115,000枚BTC，创2022年年中以来最大规模抛售】金色财经报道，据Cointelegraph披露，根据分析师的说法，比特币巨鲸（whale）在过去一个月里已卖出高达价值127亿美元的比特币，如果抛售持续，可能会在未来几周内进一步打压其价格。 
-CryptoQuant分析师“caueconomy”在上周五指出：“主要比特币网络参与者减少持仓的趋势正在持续加剧，达到了今年最大规模的代币分发。”他们补充说，在过去的三十天里，巨鲸的储备减少了超过100,000枚比特币，这“预示着大型投资者之间存在强烈的避险情绪”。 
-这种抛售压力“在短期内正在惩罚价格结构”，最终将价格推低至108,000美元以下。根据CryptoQuant数据，截至上周六，这是自2022年7月以来最大规模的巨鲸抛售，30天内的变动量为114,920枚比特币，按当前市场价格计算，价值约127亿美元。
-- [HashKey拟推加密财库基金，首募规模超5亿美元](https://finance.caixin.com/2025-09-08/102360182.html) - 📰 null - 【HashKey拟推加密财库基金，首募规模超5亿美元】金色财经报道，HashKey Group于9月8日公布，有计划推出亚洲最大的多币种DAT生态基金，首期募资规模预计超过5亿美元，将重点聚焦以太坊（ETH）和比特币（BTC）生态的DAT项目。 
-HashKey披露，该公司拟推的上述基金将专注于DAT策略，投资于一篮子专注于主流加密资产的DAT项目，来构建一个多元化的投资组合；独特之处在于，它将是一只可以定期申购赎回的开放式基金，用以匹配DAT长期运营目标和流动性。
-- [4E：SEC与CFTC首次联手，市场多空分歧加剧](https://x.com/4e_zh/status/1964904651549184390?s=46) - 📰 null - 【4E：SEC与CFTC首次联手，市场多空分歧加剧】据4E观察，美国 SEC 与 CFTC 罕见联合发布两大声明，称将协作推动加密资产、DeFi、预测市场、永续合约与投资组合保证金的发展，并计划通过延长交易时段、缩小监管空白与创新豁免机制，提升美国市场竞争力。双方还预告将于 9 月 29 日召开联合圆桌会议，讨论定义协调、资本与利润框架调整等议题，被视为美国加密监管体系全面转向的重要信号。 
-与此同时，特朗普家族财富在上周因 American Bitcoin 上市与 World Liberty Financial 代币交易合计增加 13 亿美元，其中 WLFI 单独贡献 6.7 亿美元。Eric Trump 持有的 ABTC 股份一度估值逾 5 亿美元，尽管股价随后回落逾 50%。 
-链上数据显示，某巨鲸在此前 ETH 多头浮亏 3,584 万美元后转为做空 BTC 与 ETH，目前总持仓规模超 2 亿美元，浮盈约 150 万美元。市场关注其空头仓位能否形成连锁反应。 
-宏观层面，萨尔瓦多总统布克勒宣布为纪念“比特币日”增持 21 枚 BTC，使该国总持仓增至 6,312 枚以上。香港市场方面，已有获国企投资的基金正在筹划币股联动项目，尝试通过购买持有 BTC 的上市公司股票间接参与加密市场。 
-ETF 市场则录得积极信号，上周美国比特币现货 ETF 净流入 2.5 亿美元，显示机构资金仍在持续入场。 
-4E提醒投资者： 监管政策加速转向与资本入局可能推升市场情绪，但市场多空分歧加剧，建议投资者保持谨慎，合理控制杠杆与仓位。
-- [分析师：市场已经消化一定程度的政策宽松，降息无法带动比特币反弹超过12万美元](https://www.theblock.co/post/369743/bitcoin-rate-cut-may-not-spark-rally?utm_source=twitter&utm_medium=social) - 📰 null - 【分析师：市场已经消化一定程度的政策宽松，降息无法带动比特币反弹超过12万美元】金色财经报道，BTC Markets加密货币分析师Rachael Lucas表示：“疲软的美国就业报告确实引发了人们对美联储将采取更鸽派立场的预期，这通常会对比特币等风险资产起到支撑作用。然而，市场已经消化了一定程度的政策宽松。与此同时，我们看到机构投资者正在获利了结，而ETF资金流则保持相对平稳。比特币阻力位在113,400美元，进一步的阻力位在115,400美元和117,100美元。突破这些阻力位表明市场已经消化了近期的抛售压力，并准备重新测试高点。” 
-Kronos Research首席信息官Vincent Liu也表示，即使美联储决定降低利率，比特币价格仍可能保持低迷。“降息可能反映出经济疲软，而通胀持续高企和谨慎的风险情绪则限制了风险偏好。如果没有更强劲的ETF流入或真正的流动性扩张，12万美元以上仍将是一道难以逾越的障碍。”
-- [麦格理：预计美联储将在9月和10月各降息25个基点]() - 📰 null - 【麦格理：预计美联储将在9月和10月各降息25个基点】金色财经报道，麦格理：预计美联储将在9月和10月各降息25个基点，此前预期为9月和12月降息。
-- [700枚比特币从Coinbase交易所转移至未知钱包]() - 📰 null - 【700枚比特币从Coinbase交易所转移至未知钱包】金色财经报道，据WhaleAlert监测，12:11分，700枚比特币（价值77,715,052美元）从Coinbase交易所转移至未知钱包。
-- [巴克莱将美联储年内降息次数上调至3次]() - 📰 null - 【巴克莱将美联储年内降息次数上调至3次】金色财经报道，巴克莱：预计美联储将在2025年三次下调利率，每次下调25个基点，分别在9月、10月和12月，高于此前预测的9月和12月两次25个基点的幅度。
-- [Chainlink CEO与美SEC主席会面讨论资产链上化合规路径](https://www.coindesk.com/policy/2025/09/05/chainlink-ceo-sees-tokenization-as-sector-s-rising-future-after-meeting-sec-s-atkins) - 📰 null - 【Chainlink CEO与美SEC主席会面讨论资产链上化合规路径】金色财经报道，Chainlink CEO Sergey Nazarov与美国SEC主席Paul Atkins会面，讨论资产链上化合规路径。Nazarov表示，SEC正加快推动区块链资产纳入现有证券法规，预计明年中或实现全面合规。 
-SEC最近与CFTC联合发布政策，支持特定加密资产现货交易，并启动“Project Crypto”计划。Chainlink网络已被美国商务部用于发布经济数据，显示链上化应用加速落地。
+- [币安理财、一键买币、闪兑、杠杆、合约上线OpenLedger（OPEN）]() - 📰 null - 【币安理财、一键买币、闪兑、杠杆、合约上线OpenLedger（OPEN）】金色财经报道，据官方公告，币安将于2025年09月08日21:00（东八区时间）上线OPEN 1-75倍 U本位永续合约。此外，币安理财、一键买币、闪兑交易平台、杠杆亦将上线OpenLedger（OPEN）。
+- [OKX Boost 正式上线首期 X Launch项目 Linea](https://web3.okx.com/ul/WyAh6N) - 📰 null - 【OKX Boost 正式上线首期 X Launch项目 Linea】据官方消息，OKX Wallet 已在 OKX Boost 正式上线首期 X Launch 活动，本期项目为 Linea（LINEA）。符合资格的用户可参与瓜分 162,022,478 枚 LINEA 代币奖池。 
+据悉，Linea 由 ConsenSys 开发与运营，是基于 zkEVM 的以太坊 Layer 2 扩容方案，兼容以太坊开发工具与智能合约，兼具低交易成本与以太坊级安全性。作为行业领先的一站式 Web3 入口，OKX Wallet 目前已支持 140+ 热门公链，为用户参与链上创新提供便捷通道。OKX提示，加密资产波动较大，请在充分了解规则与风险后参与。
+- [币安：第 1 阶段 OpenLedger Booster 活动奖励现已可以领取]() - 📰 null - 【币安：第 1 阶段 OpenLedger Booster 活动奖励现已可以领取】金色财经报道，据官方公告，币安第 1 阶段 OpenLedger Booster 活动奖励现已可以领取。
+- [Rectitude Holdings募资3260万美元用于购买比特币](https://www.globenewswire.com/news-release/2025/09/08/3146065/0/en/Rectitude-Holdings-Announces-32-6-Million-Standby-Equity-Purchase-Agreement-to-Launch-a-Bitcoin-Treasury-Strategy.html) - 📰 null - 【Rectitude Holdings募资3260万美元用于购买比特币】金色财经报道，纳斯达克上市公司 Rectitude Holdings（大德控股）宣布与 Constantinople Limited 签署 3,260 万美元备用股权购买协议启动比特币财库战略，募资所得资金将用于购买比特币并长期持有。
+- [ETHZilla基金持有约2.13亿美元的美元现金等价物]() - 📰 null - 【ETHZilla基金持有约2.13亿美元的美元现金等价物】金色财经报道，ETHZilla基金：除以太坊外，ETHZilla基金持有约2.13亿美元的美元现金等价物。
+- [某巨鲸将451.6万枚FTT存入币安，浮亏441.6万美元]() - 📰 null - 【某巨鲸将451.6万枚FTT存入币安，浮亏441.6万美元】金色财经报道，据Onchain Lens监测，某巨鲸将451.6万枚FTT存入币安，价值353万美元，面临441.6万美元亏损。
+- [加密货币概念股BTCS批准5000万美元股票回购计划]() - 📰 null - 【加密货币概念股BTCS批准5000万美元股票回购计划】金色财经报道，根据SEC文件披露，加密货币概念股BTCS于9月4日批准5000万美元股票回购计划。
+- [CoinShares 将通过业务合并在美国上市](https://www.prnewswire.com/news-releases/coinshares-to-go-public-in-the-us-through-us1-2-billion-business-combination-302549034.html) - 📰 null - 【CoinShares 将通过业务合并在美国上市】金色财经报道，数字资产管理公司CoinShares以及上市特殊目的收购公司 Vine Hill Capital Investment Corp.宣布双方已达成最终业务合并协议，这将允许 CoinShares 在美国纳斯达克股票市场公开上市。预计此次交易将推动 CoinShares 的战略性国际扩张，并使美国投资者能够更直接地参与其全球增长，包括预期的美国增长。此次交易对 CoinShares 的估值为12 亿美元，使其成为全球最大的公开交易纯数字资产管理公司之一。 
+此外，该公司还计划以每股10.04美元的价格向私募投资者私募发行5,000,000股普通股，已募资约5000万美元。
+- [纳斯达克向美国 SEC 提交提案拟允许交易代币化证券](https://x.com/bwenews/status/1965022459444580446) - 📰 null - 【纳斯达克向美国 SEC 提交提案拟允许交易代币化证券】金色财经报道，据路透社报道，纳斯达克（NASDAQ）已向美国证券交易委员会（SEC）提交提案，拟修订规则以允许在纳斯达克交易所交易以传统数字或代币化形式上市的证券。
+- [5 个新建地址从 Kraken 提取 7.5 万枚 ETH，价值 3.22 亿美元](https://x.com/OnchainLens/status/1965020187733987710) - 📰 null - 【5 个新建地址从 Kraken 提取 7.5 万枚 ETH，价值 3.22 亿美元】金色财经报道，据 Onchain lens 监测，5 个新创建的钱包已从 Kraken 总计提币 75,000 枚 ETH，价值 3.2283 亿美元。
+- [宇树回应IPO估值500亿元：消息不实]() - 📰 null - 【宇树回应IPO估值500亿元：消息不实】金色财经报道，9月8日晚间，针对“宇树科技期望的IPO估值高达500亿元”的消息，宇树科技相关负责人回复称：“截至目前，公司内外没有讨论过IPO估值的事情，相关估值信息不实。”（一财）
+- [Valour管理资产规模达9.74亿美元，年初至今净流入9170万美元](https://www.prnewswire.com/news-releases/defi-technologies-provides-monthly-corporate-update-valour-reports-us974-million-in-aum-and-year-to-date-net-inflows-of-us91-7-million-among-other-key-developments-302548783.html) - 📰 null - 【Valour管理资产规模达9.74亿美元，年初至今净流入9170万美元】金色财经报道，加密货币金融科技公司 DeFi Technologies 发布最新运营数据。其子公司 Valour 截至 8 月 29 日的管理资产规模（AUM）达 9.74 亿美元，环比增长 2.85%。今年以来，Valour 的交易所交易产品（ETP）净流入达 9170 万美元，8 月单月净流入 130 万美元。 
+其中，Valour 最大规模的 ETP 产品为 Solana ETP，规模为 3.15 亿美元，其次是比特币 ETP 为 2.69 亿美元，以太坊 ETP 为 9470 万美元。
+- [Exodus Movement：比特币持仓量达到2,116枚](https://www.globenewswire.com/news-release/2025/09/08/3146006/0/en/Exodus-Movement-Inc-August-2025-Treasury-Update-and-Monthly-Metrics.html) - 📰 null - 【Exodus Movement：比特币持仓量达到2,116枚】金色财经报道，纽约证券交易所上市公司Exodus Movement披露在增持29枚BTC后截至2025年8月31日的比特币持仓量达到2,116枚，此外该公司还持有2756枚ETH和43,738枚SOL。
+- [BitMine上周增持202,469枚ETH，总持有量超206万枚ETH](https://www.prnewswire.com/news-releases/bitmine-immersion-bmnr-eth-holdings-exceed-2-069-million-reigning-as-the-1-eth-treasury-in-the-world-2nd-largest-crypto-treasury-globally-302548699.html) - 📰 null - 【BitMine上周增持202,469枚ETH，总持有量超206万枚ETH】金色财经报道，纽约证券交易所上市以太坊财库公司BitMine Immersion宣布，截至美国东部时间9月7日晚上8:30，该公司的加密货币持有量包括2,069,443枚ETH（较上周公布时增持202,469枚）和192枚比特币，此外该公司还拥有价值2.66亿美元的未支配现金。BitMine的加密货币持有量位居以太坊财库第一、加密财库规模仅次于Strategy。此外，该公司还披露已向Eightco Holdings进行2000万美元战略投资，后者已将Worldcoin (WLD)代币作为其主要资产。
+- [消息人士：宇树科技IPO估值或达500亿元人民币]() - 📰 null - 【消息人士：宇树科技IPO估值或达500亿元人民币】金色财经报道，消息人士：宇树科技IPO估值或达500亿元人民币（约合70亿美元）。
+- [Strategy上周斥资2.174亿美元买入1,955枚比特币](https://x.com/saylor/status/1965007866450096228) - 📰 null - 【Strategy上周斥资2.174亿美元买入1,955枚比特币】金色财经报道，Strategy(MSTR.O)在9月2日至9月7日期间以约2.174亿美元收购了1,955个BTC，价格约为每比特币111,196美元，并已实现2025年迄今25.8%的BTC收益率。截至2025年9月7日，Strategy持有638,460个BTC，以约471.7亿美元收购，价格约为每比特币73,880美元。
+- [IREN：8月挖矿产出668枚比特币](https://www.globenewswire.com/news-release/2025/09/08/3145927/0/en/IREN-August-2025-Monthly-Update.html) - 📰 null - 【IREN：8月挖矿产出668枚比特币】金色财经报道，纳斯达克上市比特币矿企IREN发布2025年8月的月度更新报告，其中披露上个月挖矿产出668枚比特币，较七月份的728枚比特币挖矿产出有较大幅度减少，此外IREN披露该公司已获得英伟达（NVIDIA）合作伙伴地位，并且将扩展包括Together AI、Hume和Fluidstack在内的AI生态。
+- [某交易者向 HyperLiquid 存入 200 万枚 USDC 开启比特币 40 倍多头仓位](https://x.com/OnchainLens/status/1965002678402228660) - 📰 null - 【某交易者向 HyperLiquid 存入 200 万枚 USDC 开启比特币 40 倍多头仓位】金色财经报道，据链上分析师 Onchain Lens 监测，一位交易者向 HyperLiquid 协议存入 200 万美元 USDC，并以 40 倍杠杆开启比特币多头仓位。该交易者此前平仓其比特币、PEPE 和狗狗币多头仓位，共计亏损 133 万美元。
+- [Eightco完成2.5亿美元私募融资，并启动WLD财库策略]() - 📰 null - 【Eightco完成2.5亿美元私募融资，并启动WLD财库策略】金色财经报道，据unfolded.发布市场消息，Eightco宣布完成2.5亿美元私募融资，同时获得BITMINE 2000万美元战略投资，将用于启动首个Worldcoin(WLD)财库策略。
+- [MYX突破6.5美元，24小时涨超260%]() - 📰 null - 【MYX突破6.5美元，24小时涨超260%】金色财经报道，据行情数据，MYX突破6.5美元，现报价6.53美元，24小时涨幅264.76%。
