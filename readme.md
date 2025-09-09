@@ -1,28 +1,29 @@
-- [OpenSea将推出OS AI移动端、旗舰系列等新功能，SEA代币详情将于10月初公布](https://x.com/HollanderAdam/status/1965098349800853956) - 📰 null - 【OpenSea将推出OS AI移动端、旗舰系列等新功能，SEA代币详情将于10月初公布】金色财经报道，OpenSea 在 X 平台发文表示，将推出以下新功能及更新： 
-OS Mobile App：由人工智能驱动的移动端，优化并集成交易体验； 
-Flagship Collection：纪念 Web 3 文化遗产的系列，承诺投入超过 1,000,000 美元用于收购历史性 NFT 和新兴艺术家的作品； 
-Final Rewards Phase：平台费用的 50 % 将用于资助代币和 NFT 奖品； 
-Pre-TGE Reward 最后阶段：设置价值 1,000,000 美元奖池，包括代币和 NFT，用户通过交易和完成任务升级宝箱并获得奖励； 
-SEA 代币更新：详情将于 10 月初公布。
-- [Tom Lee：对OCTO 2000万美元投资是Bitmine“登月计划”战略的一部分]() - 📰 null - 【Tom Lee：对OCTO 2000万美元投资是Bitmine“登月计划”战略的一部分】金色财经报道，BitMine 董事会主席 Tom Lee 在社交媒体上发文表示，Bitmine（BMNR）以每股 1.46 美元的价格购买了 1370 万股 OCTO ，总计 2000 万美元，这是 BitMine 的“登月计划”战略的一部分，这直接使 BitMine 股东受益，因为这项投资目前对 BMNR 股东来说价值 11 亿美元。
-- [Coinbase将上线SPX6900 (SPX) 和Flock（FLOCK）](https://x.com/CoinbaseAssets/status/1965101991929020816) - 📰 null - 【Coinbase将上线SPX6900 (SPX) 和Flock（FLOCK）】金色财经报道，Coinbase 将新增对以太坊网络上的 SPX6900（SPX，ERC-20 代币）以及 Base 网络上的 Flock（FLOCK）的支持。
-- [瑞典比特币财库公司H100 Group宣布配股募资1000万瑞典克朗](https://x.com/H100Group/status/1965093913041207351) - 📰 null - 【瑞典比特币财库公司H100 Group宣布配股募资1000万瑞典克朗】金色财经报道，瑞典比特币财库公司H100 Group宣布其董事会已批准发行最多1,792,114股公司新股，每股认购价5.58瑞典克朗，拟配股募资1000万瑞典克朗，投资方为TOBAM Bitcoin Alpha Fund，新资金将使该公司能够在其比特币资金战略框架内寻求投资机会，同时保持灵活均衡的资本结构。
-- [前Symbolic合伙人Sam Lehman加入Pantera Capital担任初级合伙人](https://blockworks.co/news/lehman-joins-pantera-crypto-ai) - 📰 null - 【前Symbolic合伙人Sam Lehman加入Pantera Capital担任初级合伙人】金色财经报道，前 Symbolic Capital 合伙人 Sam Lehman 已加入 Pantera Capital，担任初级合伙人一职。
-- [Bitdeer将赎回其所有未偿还2029年到期可转换优先票据，本金总额约770万美元](https://www.globenewswire.com/news-release/2025/09/08/3146117/0/en/Bitdeer-Announces-Cleanup-Redemption-of-All-of-its-Outstanding-Convertible-Senior-Note-due-2029.html) - 📰 null - 【Bitdeer将赎回其所有未偿还2029年到期可转换优先票据，本金总额约770万美元】金色财经报道，纳斯达克上市比特币矿企Bitdeer宣布已发布清算赎回通知，将赎回其所有未偿还的2029年到期、票面利率为8.50%的可转换优先票据，本金总额为7,700,000美元，清算赎回日期为2025年9月23日。据悉，Bitdeer已选择在清仓赎回期间通过交付A类普通股（如适用）来结算任何票据转换，以代替交付任何零碎的A类普通股。
-- [纽约联储：就业市场紧张影响消费者信心](https://flash.jin10.com/detail/20250908234445815800) - 📰 null - 【纽约联储：就业市场紧张影响消费者信心】金色财经报道，今年夏天疲软的劳动力市场影响了美国人对经济前景的看法。纽约联储最新消费者预期调查显示，8月消费者对未来就业前景和失业率的看法恶化，同时短期通胀预期上升。8月，预计未来一年失业率会上升的人口比例从7月的37.4%上升了1.7个百分点，达到39.1%。与此同时，人们对自己如果失去目前工作，找到新工作的可能性预期下降了5.8个百分点，至44.9%——这是自纽约联储于2013年6月开始追踪该数据以来的最低值。对劳动力市场的悲观情绪或许是有道理的。自5月份以来，招聘一直疲软。8月份，美国仅增加了22,000个就业岗位，远低于经济学家预期的增加76,500个就业岗位。失业率升至4.3%，为2021年以来的最高水平，而8月份申请失业救济的人数稳步上升。
-- [美SEC确认收到Canary Spot Staked SEI ETF申请文件]() - 📰 null - 【美SEC确认收到Canary Spot Staked SEI ETF申请文件】金色财经报道，据市场消息，美 SEC 确认收到 Canary Spot Staked SEI ETF 申请文件。
-- [某沉睡4年的以太坊巨鲸转移47,507枚ETH，价值约2.07亿美元](https://x.com/lookonchain/status/1965077493507149942) - 📰 null - 【某沉睡4年的以太坊巨鲸转移47,507枚ETH，价值约2.07亿美元】金色财经报道，据链上分析平台 Lookonchain 监测，地址为"0x67f7"的以太坊巨鲸在沉睡 4 年后，将 47,507 枚 ETH（约 2.07 亿美元）转移至两个新钱包地址。 
-该巨鲸此前于 6 年前从 Bitfinex 交易所收到 123,687 枚 ETH，当时 ETH 价格为 154 美元（约 1,904 万美元），目前价值已达 5.4 亿美元。 
-此外，该地址还向 Tornado Cash 存入了 2,900 枚 ETH。
-- [韩国加密货币交易所Upbit将推出“GIWA”链](https://x.com/zoomerfied/status/1965075028761825408) - 📰 null - 【韩国加密货币交易所Upbit将推出“GIWA”链】金色财经报道，据市场消息，韩国加密货币交易所 Upbit 将推出 “GIWA” 链。
-- [易理华：以太坊调整行情即将结束](https://x.com/Jackyi_ld/status/1965074143491285487) - 📰 null - 【易理华：以太坊调整行情即将结束】金色财经报道，Liquid Capital（前 LD Capital）创始人易理华在 X 平台发文表示：“调整即将结束，ETH 变盘在即，宏观基本面底层逻辑完美，坚持牛市趋势投资，尤其是可能降息 50 个点情况下，依旧设定 4100-4300 为最佳抄底区间。”“
-- [贝莱德地址于4小时前疑似卖出7.23万枚ETH、266枚BTC](https://x.com/lookonchain/status/1965068064434905365) - 📰 null - 【贝莱德地址于4小时前疑似卖出7.23万枚ETH、266枚BTC】金色财经报道，据 Lookonchain 监测，贝莱德地址于 4 小时前将 72,370 枚 ETH（约合 3.12 亿美元）和 266.79 枚 BTC（约合 2988 万美元）转至 Coinbase Prime 疑似卖出。
-- [市场分析：黄金再创新高有五大原因](https://flash.jin10.com/detail/20250908230729159800) - 📰 null - 【市场分析：黄金再创新高有五大原因】金色财经报道，金价创下新高，站上3640美元/盎司，日内涨近1.5%。美国财经网站investinglive分析师Adam Button表示，自突破了4月至9月的盘整区间后，黄金价格呈现抛物线上升走势。这背后并没有什么真正的秘密，主要有以下五个原因：1.特朗普正试图掌控美联储并压低利率，使其降至原本不会达到的水平。2.全球贸易秩序正在瓦解。3.围绕军事干预的全球秩序正在崩溃（参考美国副总统万斯周末关于击毙委内瑞拉公民的言论）。4.财政支出失控。5.技术面一致支撑。
-- [Pendle在Hyperliquid上的TVL从零在一个月内增长至约10亿美元](https://x.com/tokenterminal/status/1965068477527732508?t=F6tTZT7vs6mIcVuHCVeKtw&s=09) - 📰 null - 【Pendle在Hyperliquid上的TVL从零在一个月内增长至约10亿美元】金色财经报道，据 Token Terminal 数据，Pendle 在 Hyperliquid 上的锁仓量（TVL）从零在一个月内增长至约 10 亿美元。
-- [某鲸鱼地址从Binance提币5000枚ETH，近期已累计提币1.22万枚ETH]() - 📰 null - 【某鲸鱼地址从Binance提币5000枚ETH，近期已累计提币1.22万枚ETH】金色财经报道，据 Lookonchain 监测，某 0x19bA 开头鲸鱼地址刚刚从 Binance 提币 5,000 枚 ETH（约合 2177 万美元）。自 8 月 20 日以来，该鲸鱼地址已从 Binance 累计提币 12,200 枚 ETH（约合 5218 万美元）。
-- [美国最高法院法官暂时允许特朗普罢免联邦贸易委员会委员]() - 📰 null - 【美国最高法院法官暂时允许特朗普罢免联邦贸易委员会委员】金色财经报道，市场消息：美国最高法院法官暂时允许美国总统特朗普罢免联邦贸易委员会委员。
-- [现货黄金站上3640美元]() - 📰 null - 【现货黄金站上3640美元】金色财经报道，现货黄金持续走高，站上3640美元/盎司，续创历史新高，日内涨近1.5%。
-- [美国OFAC对缅甸克伦民族军庇护的一个主要诈骗中心实施制裁](https://home.treasury.gov/news/press-releases/sb0237?s=09) - 📰 null - 【美国OFAC对缅甸克伦民族军庇护的一个主要诈骗中心实施制裁】金色财经报道，据美国财政部官网显示，美国财政部外国资产控制办公室 (OFAC) 对东南亚庞大的诈骗中心网络实施制裁，这些中心利用强迫劳动和暴力手段窃取美国人数十亿美元的资金。此次制裁对象包括位于缅甸瑞沟谷的九个目标，该地是臭名昭著的虚拟货币投资诈骗中心，受到OFAC指定的克伦民族军 (KNA) 的保护；此外，还有十个目标位于柬埔寨。  
-财政部今日的制裁目标是缅甸克伦民族军（KNA）庇护的一个主要诈骗中心。克伦民族军总部位于缅甸东南部克伦邦妙瓦底镇瑞沟沟，毗邻泰国边境。通过与缅甸军方合作，克伦民族军控制了缅甸东部克伦邦的领土。克伦民族军领导人通过跨国犯罪活动牟利，包括利用贩运劳工运营的网络诈骗中心，以及出售用于为这些诈骗活动提供能源的公用事业。
-- [巴西中央电力公司将在巴伊亚州启动比特币挖矿业务]() - 📰 null - 【巴西中央电力公司将在巴伊亚州启动比特币挖矿业务】金色财经报道，市场消息：巴西中央电力公司（Eletrobras）将在巴伊亚州启动比特币挖矿业务。
-- [币安：LINEA HODLer空投代币总量占代币最大供应量的1%]() - 📰 null - 【币安：LINEA HODLer空投代币总量占代币最大供应量的1%】金色财经报道，币安公布LINEA HODLer空投详情，LINEA代币最大供应量为72,009,990,000枚，HODLer空投代币总量为720,099,900枚LINEA（占代币最大供应量的1%）。额外180,024,975枚LINEA将在现货上市后用于市场活动；另有360,049,950枚LINEA将在上市6个月后用于市场活动。在币安上市时的流通供应量为15,482,147,850枚LINEA，占代币最大供应量的21.50%。
+- [某地址于9小时前抄底建仓911.8枚ETH和35.28枚WBTC](https://x.com/ai_9684xtpa/status/1965220765684613383) - 📰 null - 【某地址于9小时前抄底建仓911.8枚ETH和35.28枚WBTC】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，地址0x22a...6a2A0在九小时前的下跌趋势中建仓，累计花费800万枚USDT买入了911.8枚ETH和35.28枚WBTC，成本分别为4386.8美元和113353美元。
+- [Binance：HoloworldAI（HOLO）将于9月11日下午6点开始交易](https://x.com/binancezh/status/1965218723981316565) - 📰 null - 【Binance：HoloworldAI（HOLO）将于9月11日下午6点开始交易】金色财经报道，据Binance公告，HoloworldAI（HOLO）代币流通开始时间：2025-09-11 18:00(UTC+8)参与过Holoworld Pre-TGE的用户，可在开始时间后在币安Alpha进行HOLO代币交易。第1阶段Holo Booster活动的获胜者可以在代币流通开始后8小时内领取并交易您的HOLO代币。
+- [某巨鲸9小时前通过Aave协议借出1100万枚USDT并买入ETH](https://x.com/ai_9684xtpa/status/1965217116430401965) - 📰 null - 【某巨鲸9小时前通过Aave协议借出1100万枚USDT并买入ETH】金色财经报道，据链上分析师Ai姨(@ai9684xtpa)监测，某巨鲸9小时前通过Aave协议借出1100万枚USDT，随后在链上以均价4,396.5美元买入2502枚ETH。据链上数据显示，该地址目前已抵押10,345枚ETH，并借出总计2008万美元的稳定币，账户健康度为1.84。
+- [加州男子因3700万美元加密诈骗案被判51个月监禁](https://decrypt.co/338558/california-man-sentenced-crypto-scam-doj-crackdown) - 📰 null - 【加州男子因3700万美元加密诈骗案被判51个月监禁】金色财经报道，美国司法部宣布，一名加州拉彭特居民因参与全球加密诈骗洗钱3,700万美元，被判处51个月监禁，并需赔偿2,690万美元。其与同伙利用巴哈马公司Axis Digital接收资金，将受害者资金转入德尔特银行账户后兑换为USDT转至诈骗钱包。该案为司法部持续打击跨国“杀猪盘”加密诈骗及洗钱网络的一部分。
+- [GIWA链基于OPStack打造](https://docs.giwa.io/) - 📰 null - 【GIWA链基于OPStack打造】金色财经报道，据官方文档，GIWA链基于OPStack打造，定位为以太坊Layer2，目标是降低Web3使用门槛。 
+据官方介绍，GIWA链具备1秒出块、EVM完全兼容等特性，开发者可直接迁移Solidity合约并沿用以太坊工具。
+- [Arthur Hayes过去8小时买入价值101万美元的ENA](https://x.com/EmberCN/status/1965213032252166299) - 📰 null - 【Arthur Hayes过去8小时买入价值101万美元的ENA】金色财经报道，据链上分析师余烬监测，在上次购买了BIO后，BitMEX联创Arthur Hayes今天在过去8小时里购买了价值101万美元的ENA：他把101万枚USDC转到Binance和Flowdesk，然后收到139.5万枚ENA。购买价格0.73美元。
+- [美国货币监理署将采取行动消除"去银行化"现象](https://www.bloomberg.com/news/articles/2025-09-08/us-bank-regulator-moves-to-further-eliminate-so-called-debanking?srnd=phx-crypto) - 📰 null - 【美国货币监理署将采取行动消除"去银行化"现象】金色财经报道，美国货币监理署(OCC)周一宣布将采取措施消除所谓的"去银行化"现象，回应行业团体和共和党人关于结束这一被视为不公平做法的呼吁。OCC负责人乔纳森·古尔德(Jonathan Gould)表示："OCC正采取措施终止金融系统的武器化"，并补充称机构将致力于根除银行基于政治或宗教信仰对客户进行非法歧视的活动。
+- [VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易](https://x.com/BTCTN/status/1965211578908676579) - 📰 null - 【VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易】金色财经报道，据Bitcoin.com News披露，XRP财库公司VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易。
+- [蚂蚁数科将价值84亿美元能源资产上链](https://www.bloomberg.com/news/articles/2025-09-09/ant-digital-arm-puts-8-billion-energy-assets-on-its-blockchain?srnd=phx-crypto) - 📰 null - 【蚂蚁数科将价值84亿美元能源资产上链】金色财经报道，蚂蚁集团旗下企业解决方案部门Ant Digital Technologies正将价值约84亿美元(600亿元人民币)的能源基础设施连接至其区块链平台AntChain。 
+据报道，该平台已追踪约1500万台新能源设备(包括风力涡轮机和太阳能电池板)的电力输出和潜在故障数据，并将这些数据上传至区块链系统。
+- [Bitmine再次从Galaxy Digital收到2139枚ETH](https://x.com/OnchainLens/status/1965211144081277130) - 📰 null - 【Bitmine再次从Galaxy Digital收到2139枚ETH】金色财经报道，据Onchain Lens监测，Bitmine再次从Galaxy Digital收到2139枚ETH（约1016万美元）。过去11小时内，Bitmine累计已从Galaxy Digital收到10319枚ETH（约4457万美元）。
+- [美议会要求财政部制定比特币战略储备托管方案](https://x.com/BitcoinMagazine/status/1965171036103811398) - 📰 null - 【美议会要求财政部制定比特币战略储备托管方案】金色财经报道，美国国会已提出H.R.5166法案，要求财政部就联邦政府收购的比特币（包括战略比特币储备）制定托管和管理方案。法案由俄亥俄州的Joyce议员于2025年9月5日提交，内容涉及2026财年金融服务和政府拨款。
+- [Ark Invest昨日增持价值446万美元BMNR](https://x.com/ArkkDaily/status/1965204524496556135) - 📰 null - 【Ark Invest昨日增持价值446万美元BMNR】金色财经报道，据Ark Invest Tracker监测，Cathie Wood旗下Ark Invest于本周三通过其三支基金增持101,950股Bitmine Immersion（BMNR）股票，价值446万美元，其中：ARKK增持67700股、ARKW增持21890股、ARKF增持12360股。
+- [Sky加入Hyperliquid旗下USDH稳定币发行权竞争](https://x.com/RuneKek/status/1965194847855272175) - 📰 null - 【Sky加入Hyperliquid旗下USDH稳定币发行权竞争】金色财经报道，Sky（原MakerDAO）加入Hyperliquid旗下USDH稳定币发行权竞争。Sky联合创始人Rune在X平台发文表示：“Sky为Hyperliquid提供USDH的主要优势： 
+·USDH将获得22亿美元USDC的即时流动性用于链下兑付； 
+·Sky可将其超80亿美元的资产负债表部署到Hyperliquid； 
+·Hyperliquid上所有USDH可获得4.85%的收益率，高于国债收益率，所有USDH产生的4.85%收益将用于HYPE回购基金； 
+·Sky可提供2500万美元资金创建独立的Hyperliquid Star项目，自主发展Hyperliquid DeFi； 
+·Sky可将其回购系统转移到Hyperliquid，利用每年超过2.5亿美元的利润构建USDH流动性。”
+- [今日恐慌与贪婪指数降至48，等级仍为中性](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至48，等级仍为中性】金色财经报道，今日恐慌与贪婪指数降至48，等级仍为中性。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [美SEC加密货币工作组将于10月17日举办金融监管与隐私圆桌会议](https://www.sec.gov/newsroom/press-releases/2025-114-sec-crypto-task-force-host-roundtable-financial-surveillance-privacy) - 📰 null - 【美SEC加密货币工作组将于10月17日举办金融监管与隐私圆桌会议】金色财经报道，据官方消息，美SEC加密货币工作组宣布将于10月17日星期五下午1点至4点在SEC总部举办关于金融监管与隐私的公开圆桌会议。 
+在此前举办的“春季加速加密货币明晰度”系列圆桌会议、总统数字资产行政命令以及总统数字资产工作组报告之后，委员HesterM.Peirce指示加密货币工作组采取额外措施，以在保护经济自由的同时，促进美国在数字资产和金融科技领域的领导地位。本次金融监管与隐私圆桌会议旨在保护个人隐私的技术，并就金融监管相关政策进行深入讨论。本次圆桌会议向公众开放，将在华盛顿特区F街100号SEC总部举行。
+- [两钱包从Coinbase提取2万枚ETH并质押至ether.fi](https://x.com/OnchainLens/status/1965201839634481247) - 📰 null - 【两钱包从Coinbase提取2万枚ETH并质押至ether.fi】金色财经报道，据Onchain Lens报道，两个疑似关联的钱包地址从Coinbase Prime提取共计20,000枚ETH，价值约8,600万美元，并已将全部资产质押至ether.fi平台。
+- [BTC跌破112000美元]() - 📰 null - 【BTC跌破112000美元】金色财经报道，行情显示，BTC跌破112000美元，现报111989美元，24小时涨幅达到0.62%，行情波动较大，请做好风险控制。
+- [美民主党议员要求米兰必须辞去白宫顾问一职]() - 📰 null - 【美民主党议员要求米兰必须辞去白宫顾问一职】金色财经报道，美国参议院银行委员会民主党议员要求，在共和党控制的参议院银行委员会采取进一步措施推进对米兰的提名之前，他必须承诺在9月8日前辞去白宫首席经济顾问一职。米兰在上周的提名确认听证会上表示，他只需要从白宫经济顾问委员会休无薪假，因其美联储职位只持续到明年1月底。民主党参议员指出，米兰的任期可能会更长，这取决于确认其继任者所需的时间，米兰作为美联储理事和特朗普顾问的双重角色造成了潜在的冲突。民主党议员在致米兰的信中表示：“认为你可以对货币政策和金融监管进行独立判断的说法是荒谬的。没有这样的承诺，我们认为委员会不应该推进你的提名。”(金十)
+- [特朗普政府拟在近期发布抨击劳工统计局的报告]() - 📰 null - 【特朗普政府拟在近期发布抨击劳工统计局的报告】金色财经报道，消息人士称，在特朗普总统解雇美国劳工统计局负责人五周后，其顾问们正在准备一份报告，列出劳工统计局就业数据存在的缺陷。这份报告对劳工统计局进行了批判性的审视，并对该机构就业数据修订的历史概况进行了概述。特朗普政府正考虑在未来几周公布这份由经济顾问委员会撰写的研究报告。美国劳工统计局今晚（9日）将发布非农年度基准修正数据。(金十)
+- [ZachXBT：Aqua疑似Rug Pull，涉及金额约465万美元]() - 📰 null - 【ZachXBT：Aqua疑似Rug Pull，涉及金额约465万美元】金色财经报道，ZachXBT于其个人频道发文称，Solana项目Aqua疑似Rug Pull（卷款跑路），涉及金额为21,770枚SOL（约465万美元）。此前该项目曾得到Meteora、Quill Audits、Helius、SYMMIO、Dialect以及多位KOL推广。 
+几小时前，相关资金被拆分成四部分，先转至中间地址，再流入多家交易平台。目前，该团队已在X（Twitter）上关闭了所有帖子的评论功能。
