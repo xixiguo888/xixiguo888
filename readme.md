@@ -1,29 +1,39 @@
-- [某地址于9小时前抄底建仓911.8枚ETH和35.28枚WBTC](https://x.com/ai_9684xtpa/status/1965220765684613383) - 📰 null - 【某地址于9小时前抄底建仓911.8枚ETH和35.28枚WBTC】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，地址0x22a...6a2A0在九小时前的下跌趋势中建仓，累计花费800万枚USDT买入了911.8枚ETH和35.28枚WBTC，成本分别为4386.8美元和113353美元。
-- [Binance：HoloworldAI（HOLO）将于9月11日下午6点开始交易](https://x.com/binancezh/status/1965218723981316565) - 📰 null - 【Binance：HoloworldAI（HOLO）将于9月11日下午6点开始交易】金色财经报道，据Binance公告，HoloworldAI（HOLO）代币流通开始时间：2025-09-11 18:00(UTC+8)参与过Holoworld Pre-TGE的用户，可在开始时间后在币安Alpha进行HOLO代币交易。第1阶段Holo Booster活动的获胜者可以在代币流通开始后8小时内领取并交易您的HOLO代币。
-- [某巨鲸9小时前通过Aave协议借出1100万枚USDT并买入ETH](https://x.com/ai_9684xtpa/status/1965217116430401965) - 📰 null - 【某巨鲸9小时前通过Aave协议借出1100万枚USDT并买入ETH】金色财经报道，据链上分析师Ai姨(@ai9684xtpa)监测，某巨鲸9小时前通过Aave协议借出1100万枚USDT，随后在链上以均价4,396.5美元买入2502枚ETH。据链上数据显示，该地址目前已抵押10,345枚ETH，并借出总计2008万美元的稳定币，账户健康度为1.84。
-- [加州男子因3700万美元加密诈骗案被判51个月监禁](https://decrypt.co/338558/california-man-sentenced-crypto-scam-doj-crackdown) - 📰 null - 【加州男子因3700万美元加密诈骗案被判51个月监禁】金色财经报道，美国司法部宣布，一名加州拉彭特居民因参与全球加密诈骗洗钱3,700万美元，被判处51个月监禁，并需赔偿2,690万美元。其与同伙利用巴哈马公司Axis Digital接收资金，将受害者资金转入德尔特银行账户后兑换为USDT转至诈骗钱包。该案为司法部持续打击跨国“杀猪盘”加密诈骗及洗钱网络的一部分。
-- [GIWA链基于OPStack打造](https://docs.giwa.io/) - 📰 null - 【GIWA链基于OPStack打造】金色财经报道，据官方文档，GIWA链基于OPStack打造，定位为以太坊Layer2，目标是降低Web3使用门槛。 
-据官方介绍，GIWA链具备1秒出块、EVM完全兼容等特性，开发者可直接迁移Solidity合约并沿用以太坊工具。
-- [Arthur Hayes过去8小时买入价值101万美元的ENA](https://x.com/EmberCN/status/1965213032252166299) - 📰 null - 【Arthur Hayes过去8小时买入价值101万美元的ENA】金色财经报道，据链上分析师余烬监测，在上次购买了BIO后，BitMEX联创Arthur Hayes今天在过去8小时里购买了价值101万美元的ENA：他把101万枚USDC转到Binance和Flowdesk，然后收到139.5万枚ENA。购买价格0.73美元。
-- [美国货币监理署将采取行动消除"去银行化"现象](https://www.bloomberg.com/news/articles/2025-09-08/us-bank-regulator-moves-to-further-eliminate-so-called-debanking?srnd=phx-crypto) - 📰 null - 【美国货币监理署将采取行动消除"去银行化"现象】金色财经报道，美国货币监理署(OCC)周一宣布将采取措施消除所谓的"去银行化"现象，回应行业团体和共和党人关于结束这一被视为不公平做法的呼吁。OCC负责人乔纳森·古尔德(Jonathan Gould)表示："OCC正采取措施终止金融系统的武器化"，并补充称机构将致力于根除银行基于政治或宗教信仰对客户进行非法歧视的活动。
-- [VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易](https://x.com/BTCTN/status/1965211578908676579) - 📰 null - 【VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易】金色财经报道，据Bitcoin.com News披露，XRP财库公司VivoPower旗下Tembo将接受Ripple的RLUSD用于全球交易。
-- [蚂蚁数科将价值84亿美元能源资产上链](https://www.bloomberg.com/news/articles/2025-09-09/ant-digital-arm-puts-8-billion-energy-assets-on-its-blockchain?srnd=phx-crypto) - 📰 null - 【蚂蚁数科将价值84亿美元能源资产上链】金色财经报道，蚂蚁集团旗下企业解决方案部门Ant Digital Technologies正将价值约84亿美元(600亿元人民币)的能源基础设施连接至其区块链平台AntChain。 
-据报道，该平台已追踪约1500万台新能源设备(包括风力涡轮机和太阳能电池板)的电力输出和潜在故障数据，并将这些数据上传至区块链系统。
-- [Bitmine再次从Galaxy Digital收到2139枚ETH](https://x.com/OnchainLens/status/1965211144081277130) - 📰 null - 【Bitmine再次从Galaxy Digital收到2139枚ETH】金色财经报道，据Onchain Lens监测，Bitmine再次从Galaxy Digital收到2139枚ETH（约1016万美元）。过去11小时内，Bitmine累计已从Galaxy Digital收到10319枚ETH（约4457万美元）。
-- [美议会要求财政部制定比特币战略储备托管方案](https://x.com/BitcoinMagazine/status/1965171036103811398) - 📰 null - 【美议会要求财政部制定比特币战略储备托管方案】金色财经报道，美国国会已提出H.R.5166法案，要求财政部就联邦政府收购的比特币（包括战略比特币储备）制定托管和管理方案。法案由俄亥俄州的Joyce议员于2025年9月5日提交，内容涉及2026财年金融服务和政府拨款。
-- [Ark Invest昨日增持价值446万美元BMNR](https://x.com/ArkkDaily/status/1965204524496556135) - 📰 null - 【Ark Invest昨日增持价值446万美元BMNR】金色财经报道，据Ark Invest Tracker监测，Cathie Wood旗下Ark Invest于本周三通过其三支基金增持101,950股Bitmine Immersion（BMNR）股票，价值446万美元，其中：ARKK增持67700股、ARKW增持21890股、ARKF增持12360股。
-- [Sky加入Hyperliquid旗下USDH稳定币发行权竞争](https://x.com/RuneKek/status/1965194847855272175) - 📰 null - 【Sky加入Hyperliquid旗下USDH稳定币发行权竞争】金色财经报道，Sky（原MakerDAO）加入Hyperliquid旗下USDH稳定币发行权竞争。Sky联合创始人Rune在X平台发文表示：“Sky为Hyperliquid提供USDH的主要优势： 
-·USDH将获得22亿美元USDC的即时流动性用于链下兑付； 
-·Sky可将其超80亿美元的资产负债表部署到Hyperliquid； 
-·Hyperliquid上所有USDH可获得4.85%的收益率，高于国债收益率，所有USDH产生的4.85%收益将用于HYPE回购基金； 
-·Sky可提供2500万美元资金创建独立的Hyperliquid Star项目，自主发展Hyperliquid DeFi； 
-·Sky可将其回购系统转移到Hyperliquid，利用每年超过2.5亿美元的利润构建USDH流动性。”
-- [今日恐慌与贪婪指数降至48，等级仍为中性](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至48，等级仍为中性】金色财经报道，今日恐慌与贪婪指数降至48，等级仍为中性。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [美SEC加密货币工作组将于10月17日举办金融监管与隐私圆桌会议](https://www.sec.gov/newsroom/press-releases/2025-114-sec-crypto-task-force-host-roundtable-financial-surveillance-privacy) - 📰 null - 【美SEC加密货币工作组将于10月17日举办金融监管与隐私圆桌会议】金色财经报道，据官方消息，美SEC加密货币工作组宣布将于10月17日星期五下午1点至4点在SEC总部举办关于金融监管与隐私的公开圆桌会议。 
-在此前举办的“春季加速加密货币明晰度”系列圆桌会议、总统数字资产行政命令以及总统数字资产工作组报告之后，委员HesterM.Peirce指示加密货币工作组采取额外措施，以在保护经济自由的同时，促进美国在数字资产和金融科技领域的领导地位。本次金融监管与隐私圆桌会议旨在保护个人隐私的技术，并就金融监管相关政策进行深入讨论。本次圆桌会议向公众开放，将在华盛顿特区F街100号SEC总部举行。
-- [两钱包从Coinbase提取2万枚ETH并质押至ether.fi](https://x.com/OnchainLens/status/1965201839634481247) - 📰 null - 【两钱包从Coinbase提取2万枚ETH并质押至ether.fi】金色财经报道，据Onchain Lens报道，两个疑似关联的钱包地址从Coinbase Prime提取共计20,000枚ETH，价值约8,600万美元，并已将全部资产质押至ether.fi平台。
-- [BTC跌破112000美元]() - 📰 null - 【BTC跌破112000美元】金色财经报道，行情显示，BTC跌破112000美元，现报111989美元，24小时涨幅达到0.62%，行情波动较大，请做好风险控制。
-- [美民主党议员要求米兰必须辞去白宫顾问一职]() - 📰 null - 【美民主党议员要求米兰必须辞去白宫顾问一职】金色财经报道，美国参议院银行委员会民主党议员要求，在共和党控制的参议院银行委员会采取进一步措施推进对米兰的提名之前，他必须承诺在9月8日前辞去白宫首席经济顾问一职。米兰在上周的提名确认听证会上表示，他只需要从白宫经济顾问委员会休无薪假，因其美联储职位只持续到明年1月底。民主党参议员指出，米兰的任期可能会更长，这取决于确认其继任者所需的时间，米兰作为美联储理事和特朗普顾问的双重角色造成了潜在的冲突。民主党议员在致米兰的信中表示：“认为你可以对货币政策和金融监管进行独立判断的说法是荒谬的。没有这样的承诺，我们认为委员会不应该推进你的提名。”(金十)
-- [特朗普政府拟在近期发布抨击劳工统计局的报告]() - 📰 null - 【特朗普政府拟在近期发布抨击劳工统计局的报告】金色财经报道，消息人士称，在特朗普总统解雇美国劳工统计局负责人五周后，其顾问们正在准备一份报告，列出劳工统计局就业数据存在的缺陷。这份报告对劳工统计局进行了批判性的审视，并对该机构就业数据修订的历史概况进行了概述。特朗普政府正考虑在未来几周公布这份由经济顾问委员会撰写的研究报告。美国劳工统计局今晚（9日）将发布非农年度基准修正数据。(金十)
-- [ZachXBT：Aqua疑似Rug Pull，涉及金额约465万美元]() - 📰 null - 【ZachXBT：Aqua疑似Rug Pull，涉及金额约465万美元】金色财经报道，ZachXBT于其个人频道发文称，Solana项目Aqua疑似Rug Pull（卷款跑路），涉及金额为21,770枚SOL（约465万美元）。此前该项目曾得到Meteora、Quill Audits、Helius、SYMMIO、Dialect以及多位KOL推广。 
-几小时前，相关资金被拆分成四部分，先转至中间地址，再流入多家交易平台。目前，该团队已在X（Twitter）上关闭了所有帖子的评论功能。
+- [Peter Schiff回应Tom Lee：不能简单把比特币近期未能上涨归咎于美联储](https://www.newsbtc.com/news/bitcoin/tom-lee-predicts-200k-bitcoin-peter-schiff-isnt-buying-it/) - 📰 null - 【Peter Schiff回应Tom Lee：不能简单把比特币近期未能上涨归咎于美联储】金色财经报道，针对Tom Lee此前表示美联储暂缓加息两个月是比特币在此期间未能上涨的原因，经济学家Peter Schiff在X平台发文回应称，比特币并没有跟随黄金的脚步，因为金价在美联储即将降息之前上涨了10%并触及3650美元历史高点，所以Tom Lee不能简单把比特币近期未能上涨的原因归咎于美联储，同样地，Tom Lee认为如果美联储降息比特币可以轻松涨至20万美元的想法也过于简单，比特币存在跌破10万美元的可能性。
+- [4E：纳斯达克递交代币化股票申请，Strategy或跻身标普500](https://x.com/4e_zh/status/1965292763366490123?s=46) - 📰 null - 【4E：纳斯达克递交代币化股票申请，Strategy或跻身标普500】9月9日消息，据4E观察，纳斯达克已向SEC提交提案，拟修订规则以允许代币化证券在交易所挂牌交易。文件显示，若代币化证券被视为与基础证券具备同等效力且股东权利一致，则将适用与传统证券相同的执行规则和文件要求。纳斯达克强调，代币化资产必须明确标注属性，以便清算及结算环节顺利执行，并将获得与传统证券同等的订单优先级。市场认为，此举或为代币化股票合法合规进入主流市场铺路。 
+与此同时，Strategy公司凭借近700亿美元的比特币持仓，已满足跻身标普500指数的各项技术要求。该公司上季度实现140亿美元未实现收益，在特朗普政府放松加密监管背景下，市场人士对其进入标普500的可能性愈发关注。 
+资金流向方面，Cathie Wood旗下Ark Invest于周三通过三支基金合计增持Bitmine Immersion（BMNR）101,950股，价值约446万美元。数据显示，ARKK 增持 6.77 万股，ARKW 增持 2.19 万股，ARKF 增持 1.24 万股。 
+美国国会方面，议员Joyce于9月5日提交H.R. 5166法案，要求财政部就战略比特币储备制定托管与管理方案，为联邦政府持有的BTC建立制度化保障。 
+4E提醒投资者： 代币化股票、比特币储备与机构增持均显示传统金融与加密市场正在深度融合，但市场预期与政策落地仍存变量，投资者需保持理性判断与灵活应对。
+- [SwissBorg CEO：社区不会承担任何损失，所有资金缺口将由公司全额补偿](https://x.com/Cyrus_Fazel/status/1965284154402111623) - 📰 null - 【SwissBorg CEO：社区不会承担任何损失，所有资金缺口将由公司全额补偿】金色财经报道，SwissBorg CEO Cyrus Fazel公开声明，该公司正在全力调查昨日发生的安全事件。Fazel强调，此次并非SwissBorg平台本身被攻击，而是一个用于运营SOL Earn策略的外部DeFi钱包遭到了漏洞利用。公司承诺SwissBorg社区不会承担任何损失，所有资金缺口将由公司全额补偿。据悉，此次事件仅影响SOL Earn策略，其他策略及用户资金完全安全。SwissBorg已与多家安全机构合作，包括SEAL、zachxbt、Chainalysis和Fireblocks等，共同应对此次事件。 
+此前消息，SwissBorg SOL Earn Program遭攻击，超19万枚SOL被盗。
+- [佳士得关闭旗下处理NFT的数字艺术部门](https://cointelegraph.com/news/auction-christies-shuts-digital-art-nft-division) - 📰 null - 【佳士得关闭旗下处理NFT的数字艺术部门】金色财经报道，英国拍卖巨头佳士得宣布关闭其专门处理NFT销售的数字艺术部门，今后将通过更广泛的20/21世纪艺术类别继续销售数字艺术品。据报道，这一"战略决定"伴随着两名员工的裁员，包括其数字艺术副总裁，但至少一名数字艺术专家将继续留任。此举可能与全球艺术市场萎缩有关，2024年全球艺术销售额下降12%至570亿美元，拍卖行公私合计销售额下降20%至230亿美元。
+- [币安将上线FLOCK和SKY U本位永续合约]() - 📰 null - 【币安将上线FLOCK和SKY U本位永续合约】金色财经报道，据官方公告，币安将于2025年9月9日6：45（UTC）上线FLOCK USDT永续合约，支持最高75倍杠杆；并于同日7：00（UTC）上线SKY USDT永续合约，同样支持最高75倍杠杆。
+- [法国AI公司Mistral AI完成17亿欧元C轮融资，荷兰光刻机巨头阿斯麦领投]() - 📰 null - 【法国AI公司Mistral AI完成17亿欧元C轮融资，荷兰光刻机巨头阿斯麦领投】金色财经报道，荷兰光刻机制造商阿斯麦(ASML.O)宣布向法国人工智能初创公司Mistral AI投资13亿欧元，作为战略合作的一部分。根据周二发布的声明，阿斯麦将以11%的持股比例成为Mistral的最大股东。 
+此次投资属于Mistral 17亿欧元融资轮的一部分，使其估值约为117亿欧元，跻身欧洲最有价值的私营公司之一。这一联盟为欧洲唯一有实力挑战OpenAI等AI巨头的企业提供了来自欧洲最大、最具影响力科技公司的支持。不过，阿斯麦首席执行官Christophe Fouquet表示，此次交易的主要目的在于将AI融入公司内部。他指出，投资和合作将使公司能够在其设备和运营中集成Mistral的生成式AI服务。
+- [某新建地址从Kraken提取5万枚AAVE和15枚ETH]() - 📰 null - 【某新建地址从Kraken提取5万枚AAVE和15枚ETH】金色财经报道，据链上分析师 Onchain Lens监测，某新创建地址从Kraken提取5万枚AAVE和15枚ETH，总价值1513万美元。
+- [Dora Factory发布MACI XL，实现DAO-as-a-Service]() - 📰 null - 【Dora Factory发布MACI XL，实现DAO-as-a-Service】据官方消息，Dora Factory发布新产品MACI XL（大号抗共谋治理协议），初步实现”DAO-as-a-Service”的核心产品基建。任何组织可以通过此产品建立去中心化社区。 
+据官方显示，MACI XL具有三个特点: 1. 无Web3用户体验。用户在使用产品的全程不需要钱包交互即可完成链上操作; 2. 协议主体在用户本地设备运行，确保隐私和安全性; 3. 保留了MACI协议隐私和抗共谋的特点。
+- [OKX Wallet：未受第三方组件安全事件影响，APP、插件端以及Web端均可安全使用]() - 📰 null - 【OKX Wallet：未受第三方组件安全事件影响，APP、插件端以及Web端均可安全使用】9月9日消息，针对「NPM供应链攻击」事件，OKX Wallet表示，OKX始终将系统安全置于首位，在产品研发与上线全流程中严格管控第三方组件使用风险。经内部核查与评估，OKXAPP基于安卓与iOS原生框架开发，不存在相关安全风险；OKX插件、Web应用及移动端DApp浏览器均未使用受影响版本的第三方组件，平台各项服务运行正常，用户可继续安心使用。 
+据悉，攻击者通过钓鱼邮件（伪装为npmjs支持）窃取了开发者qix的NPM账户凭证，进而向其发布的18个热门JavaScript包（包括chalk、debug-js等，周下载量超20亿次）注入恶意代码。此攻击被认为是史上最大规模的供应链攻击。 
+值得注意的是，该恶意代码并未尝试在本地环境植入木马或窃取文件，而是专门针对Web3场景：如果检测到浏览器环境中存在window.ethereum，便会劫持交易请求。恶意代码通过篡改浏览器的Ethereum和Solana交易请求，将资金重定向至攻击者控制的地址（如以太坊地址0xFc4a4858...），并通过替换JSON响应中的加密地址窃取资产。尽管页面显示正常交易地址，实际资金被转至攻击者地址。
+- [SUP上线MGBX后上涨突破0.084 USDT，24H涨幅超45%](https://www.mgbx.com/spot/trade/SUP_USDT) - 📰 null - 【SUP上线MGBX后上涨突破0.084 USDT，24H涨幅超45%】9月9日消息，MGBX现货行情数据显示，SUP上涨突破0.084 USDT，现报0.078 USDT，24H涨幅超45%，累计涨幅超180%，流通市值超7700万美元。 
+项目介绍：Superp是一个链上交易基础设施，旨在为交易者提供无与伦比的灵活性和创新性。
+- [币安比特币期货交易量已突破700万亿美元，超过全球房地产市场的总价值]() - 📰 null - 【币安比特币期货交易量已突破700万亿美元，超过全球房地产市场的总价值】金色财经报道，据Coin Bureau发布图表称，币安比特币期货交易量已突破700万亿美元，超过全球房地产市场的总价值。
+- [Suilend宣布暂停IKA借款](https://x.com/suilendprotocol/status/1965248791738728881) - 📰 null - 【Suilend宣布暂停IKA借款】9月9日消息，Sui生态借贷协议Suilend官方宣布，暂停IKA借款直至另行通知。今晨IKA从0.04美元飙升至0.47美元，部分IKA借贷以过高的估值被清算，导致头寸随后陷入亏损，产生37.9万美元资金缺口，IKA存款人受到影响，每位IKA存款人的IKA存款余额将减少6%。 
+此前报道，IKA于今晨5:11“插针”上涨700%后回落，IKA24小时爆仓221.89万美元，其中空单爆仓211.57万美元。
+- [BTC突破112000美元]() - 📰 null - 【BTC突破112000美元】金色财经报道，行情显示，BTC突破112000美元，现报112012.12美元，24小时涨幅达到0.83%，行情波动较大，请做好风险控制。
+- [金色午报 | 9月9日午间重要动态一览]() - 📰 null - 【金色午报 | 9月9日午间重要动态一览】7:00-12:00关键词：黄金、Sky、Aqua 
+1.蚂蚁数科将价值84亿美元能源资产上链； 
+2.现货黄金站上3650美元/盎司 再创历史新高； 
+3.美议会要求财政部制定比特币战略储备托管方案； 
+4.Sky加入Hyperliquid旗下USDH稳定币发行权竞争； 
+5.Sharplink计划在Linea上质押ETH未获投资者积极响应； 
+6.ZachXBT：Aqua疑似Rug Pull，涉及金额约465万美元； 
+7.美SEC加密货币工作组将于10月17日举办金融监管与隐私圆桌会议。
+- [CZ评论“NPM供应链安全事件”：Web3将重新定义Web2安全性](https://x.com/cz_binance/status/1965165038320451920) - 📰 null - 【CZ评论“NPM供应链安全事件”：Web3将重新定义Web2安全性】9月9日消息，今晨Binance创始人CZ就“NPM供应链安全事件”发文表示，如今即使是开源软件也不安全，Web3将重新定义Web2的安全性，我们尚处于早期阶段。 
+今晨Ledger首席技术官Charles Guillemet发文称，“目前正在发生一起大规模供应链攻击：一名知名开发者的NPM账号遭到入侵。受影响的包下载量已超过10亿次，这意味着整个JavaScript生态系统都可能面临风险。恶意代码的工作原理是在后台静默篡改加密货币地址，以此窃取资金。”
+- [本周期内持有100至1000枚比特币的地址数量在增加]() - 📰 null - 【本周期内持有100至1000枚比特币的地址数量在增加】金色财经报道，据Cryptoquant分析师Maartunn发布图表称，本周期内，持有 1000 枚以上比特币的地址数量正迅速下降。与此同时，持有 100 至 1000 枚比特币的地址数量在增加。这反映出比特币的供应正从大型实体向规模较小的 ETF 托管钱包转移。
+- [Ronin采用Optimism的OP Stack作为L2解决方案提供者](https://x.com/Ronin_Network/status/1965220031320793442) - 📰 null - 【Ronin采用Optimism的OP Stack作为L2解决方案提供者】金色财经报道，Ronin于X平台发文表示，其治理验证者投票于上周通过，决定采用Optimism的OP Stack作为L2方案，实现回归以太坊。升级后，Ronin将进一步强化其作为以太坊游戏化引擎的地位。
+- [Camp Network宣布集成Pyth Network](https://x.com/campnetworkxyz/status/1965086005113094382) - 📰 null - 【Camp Network宣布集成Pyth Network】金色财经报道，Camp Network宣布与Pyth Network完成集成，将实时价格数据引入Camp生态系统。此次合作使开发者能够访问来自120多个交易所和做市商的1,600多个数据源，为Camp平台上的应用程序和智能代理提供实时金融信号。
+- [ETH突破4300美元]() - 📰 null - 【ETH突破4300美元】金色财经报道，行情显示，ETH突破4300美元，现报4303.19美元，24小时跌幅达到0.12%，行情波动较大，请做好风险控制。
+- [Virtuals Protocol：已完成临时安全维护](https://x.com/virtuals_io/status/1965252143868510537) - 📰 null - 【Virtuals Protocol：已完成临时安全维护】金色财经报道，Virtuals Protocol宣布完成历时5小时的临时安全维护，所有网站现已恢复上线。在完成全面安全扫描和升级周期后，Virtuals Protocol确认不存在与某知名开发者NPM账号遭到入侵攻击相关的任何风险或漏洞。
