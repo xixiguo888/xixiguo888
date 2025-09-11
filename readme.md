@@ -1,25 +1,38 @@
-- [甲骨文与OpenAI签署价值3000亿美元算力协议]() - 📰 null - 【甲骨文与OpenAI签署价值3000亿美元算力协议】金色财经报道，甲骨文据悉与OpenAI签署价值3000亿美元的算力协议。
-- [资深律师回归美SEC，执掌IPO和信披审查部门](https://flash.jin10.com/detail/20250911003703559800) - 📰 null - 【资深律师回归美SEC，执掌IPO和信披审查部门】金色财经报道，美国证交会（SEC）主席保罗·阿特金斯周三为其领导团队任命了一位关键成员，执掌审查企业IPO及公司信息披露的部门。美国证交会表示，吉布森律所的合伙人詹姆斯·莫洛尼将从下月起出任证交会公司融资部负责人。莫洛尼曾在1994年至2000年间在证交会任职，先后负责并购事务及公司融资部相关工作。公司融资部负责审阅企业提交的财务报告，确保企业向投资者充分披露潜在风险。该部门还就如何遵守证交会规则发布指引，例如高管薪酬披露、或对非通用会计准则（non-GAAP）盈利指标的报告要求。莫洛尼声明称：“前方工作繁重，我期待重返公司融资部，与同事们一道制定明智、务实且有效的监管规则，助力企业发展，使投资者从中受益。”
-- [Polygon：完成针对交易最终确认问题的更新](https://x.com/0xPolygonFdn/status/1965819439288386009) - 📰 null - 【Polygon：完成针对交易最终确认问题的更新】金色财经报道，Polygon 基金会宣布完成针对交易最终确认问题的更新，硬分叉已成功完成，里程碑和状态同步现已正常进行。检查点正在处理中，Polygon PoS 的共识最终确定已完全恢复。 
-10 日下午 Polygon 基金会表示：“最终确认出现临时延迟。尽管区块链仍在持续运行，且区块与检查点不断生成，但由于里程碑问题，目前交易最终确认存在 10 至 15 分钟的延迟。已找到解决方案，并正将其向所有验证节点和服务提供商推送部署。”
-- [《加密市场结构法案》获参议院通过概率增大，两党合作前景乐观](https://www.cryptoinamerica.com/p/senate-democrats-framework-boosts) - 📰 null - 【《加密市场结构法案》获参议院通过概率增大，两党合作前景乐观】金色财经报道，据加密记者 Eleanor Terrett 表示，今日美国参议院民主党发布了全面的《加密市场结构法案》框架，引发了加密行业人士和部分共和党领袖的乐观情绪，加密货币市场结构改革可能在参议院找到两党合作的路径。由 12 名民主党人组成的联盟公布了一份详细框架，表明民主党已准备加入此前主要由共和党推动的建立明确加密市场规则的努力。共和党方面重要推手、参议员 Cynthia Lummis 对这一跨党派努力表示赞赏。 
-民主党框架基于七大关键支柱，目标明确代币管辖权、加强对交易平台和发行人的监管、打击非法金融活动和利益冲突，并为监管机构提供更多执法资源。这些优先事项与共和党强调的重点多有重合。两党达成协议的关键在于细节，尤其是关于监管力度的分歧。共和党历来倾向于较宽松的监管，而民主党则更倾向于严格规则。 
-此前报道，参议院银行委员会预计将于 9 月底前对市场结构讨论草案进行标记修订，同时参议院农业委员会也将在近期发布涵盖 CFTC 监管部分的草案，预计市场结构法案将在今年圣诞节前由特朗普总统签署成为法律。
-- [美SEC推迟对贝莱德现货以太坊ETF增加质押功能作出决定](https://www.sec.gov/files/rules/sro/nasdaq/2025/34-103936.pdf) - 📰 null - 【美SEC推迟对贝莱德现货以太坊ETF增加质押功能作出决定】金色财经报道，美 SEC 推迟对贝莱德现货以太坊 ETF 增加质押功能作出决定。
-- [美SEC推迟审核富兰克林现货XRP ETF申请](https://www.sec.gov/files/rules/sro/cboebzx/2025/34-103933.pdf) - 📰 null - 【美SEC推迟审核富兰克林现货XRP ETF申请】金色财经报道，美 SEC 推迟审核富兰克林现货 XRP ETF 申请，由原定截止日期 9 月 15 日推迟至 2025 年 11 月 14 日。
-- [Coinbase将上线LAYER现货交易](https://x.com/CoinbaseMarkets/status/1965815596693532736) - 📰 null - 【Coinbase将上线LAYER现货交易】金色财经报道，Coinbase 将上线 Solayer (LAYER)  现货交易。
-- [法官阻止罢免美联储理事库克，特朗普政府火速上诉](https://flash.jin10.com/detail/20250911003058791800) - 📰 null - 【法官阻止罢免美联储理事库克，特朗普政府火速上诉】金色财经报道，特朗普政府周三迅速采取行动，就一名联邦法官此前裁定暂时阻止其罢免美联储理事库克的决定提起上诉。此举旨在推进特朗普解除库克职务的举措。美国司法部提交了一份简要通知，正式对周二晚间美国地方法院法官贾·科布的裁决提出上诉。科布法官在裁决中指出，特朗普声称库克在就职前曾犯下房贷欺诈行为，但这一理由很可能不足以构成合法解职依据。科布的临时禁令禁止美联储执行对库克的解聘程序，直至其诉讼案审理结束。在司法部提起上诉前，白宫发言人Kush Desai表示，特朗普已依法以正当理由解除了库克的职务，并称“这一裁决不会是最终定论”。此案很可能最终将提交至最高法院审理，其结果将深远影响美联储是否能独立制定利率政策、不受政治干预的能力。
-- [LINEA短时最高涨至0.04353美元，现报0.0323美元]() - 📰 null - 【LINEA短时最高涨至0.04353美元，现报0.0323美元】金色财经报道，LINEA在币安现货交易开盘后最高涨至0.04353美元，现报0.0323美元。行情波动较大，请做好风险控制。
-- [Hyperliquid完成LINEA盘前永续合约转换](https://x.com/HyperliquidX/status/1965812375371805165) - 📰 null - 【Hyperliquid完成LINEA盘前永续合约转换】金色财经报道，Hyperliquid 宣布 LINEA 盘前永续合约已转换为常规永续合约，最高支持三倍杠杆。
-- [Linea：为本周流动性激励追加1200万枚LINEA奖励](https://x.com/LineaBuild/status/1965808745046532159) - 📰 null - 【Linea：为本周流动性激励追加1200万枚LINEA奖励】金色财经报道，Linea 宣布为本周 Linea Ignition 流动性激励追加 1200 万枚 LINEA 奖励，提供给 Etherex 上 ETH/LINEA 交易对的存款 LP。 
-此前 9 月 7 日消息，Linea 宣布本周 Linea Ignition 流动性激励计划将分发 1.6 亿枚 LINEA 代币作为激励，此前原计划为 1.5 亿枚。Aave、Euler 借贷池中 USDC、USDT、ETH 总奖励为 1.28 亿枚 LINEA 代币，使用 Etherex 交易（交易对包括 USDC/ETH、WBTC/ETH、USDT/ETH、ETH/REX）的总奖励为 3200 万枚 LINEA 代币。
-- [Coinbase将上线KMNO与DOLO现货交易](https://x.com/CoinbaseMarkets/status/1965807819615011094) - 📰 null - 【Coinbase将上线KMNO与DOLO现货交易】金色财经报道，Coinbase 将上线 Kamino (KMNO) 和 Dolomite (DOLO) 现货交易。
-- [亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.1%](https://flash.jin10.com/detail/20250910235524979800) - 📰 null - 【亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.1%】金色财经报道，亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.1%，此前预计为3.0%。
-- [甲骨文埃里森总财富达4019亿美元 成为史上第二个净资产突破4000亿美元的人](https://finance.sina.cn/2025-09-10/detail-infpzraw7448735.d.html) - 📰 null - 【甲骨文埃里森总财富达4019亿美元 成为史上第二个净资产突破4000亿美元的人】金色财经报道，福布斯实时富豪榜显示，甲骨文的联合创始人拉里·埃里森总财富达4019亿美元，日增1100亿美元或37%，成为史上第二个净资产突破4000亿美元大关的人。榜单显示，特斯拉首席执行官、太空探索技术公司（SpaceX）创始人埃隆·马斯克的最新财富为4404亿美元，依然是全球首富。不过，由于统计口径不同，也有榜单认为埃里森已经超越马斯克成全球首富，根据彭博亿万富豪指数最新数据，拉里·埃里森（Larry Ellison）的财富达到3930亿美元，凭借此，其超越马斯克（3850亿美元）成为全球首富。
-- [Strategy宣布优先股STRF、STRC和STRD期权已上市交易](https://x.com/saylor/status/1965771943023706225) - 📰 null - 【Strategy宣布优先股STRF、STRC和STRD期权已上市交易】金色财经报道，Strategy 宣布其优先股 STRF、STRC 和 STRD 期权已上市交易。
-- [抵押贷款机构LitFinancial在以太坊上推出稳定币litUSD，简化抵押贷款流程](https://www.coindesk.com/business/2025/09/10/litfinancial-introduces-stablecoin-on-ethereum-to-streamline-mortgage-lending) - 📰 null - 【抵押贷款机构LitFinancial在以太坊上推出稳定币litUSD，简化抵押贷款流程】金色财经报道，总部位于密歇根州的抵押贷款机构LitFinancial在以太坊区块链上推出了其美元稳定币——litUSD。该公司表示，计划利用该代币降低融资成本，优化资金管理运营，同时探索抵押贷款支付的链上结算。这款名为litUSD的稳定币作为ERC-20代币部署在以太坊区块链上，由储备中的现金及现金等价物按1:1比例提供支持。Brale负责代币的发行与赎回管理，而咨询公司Stably则提供代币经济学支持，并推动其与DeFi的集成。消费者可通过银行转账或Circle的USDC稳定币，经由Brale的认证企业账户进行litUSD的铸造与赎回。
-- [币安理财、一键买币、闪兑、杠杆、合约上线Linea（LINEA）](https://www.binance.com/zh-CN/support/announcement/detail/6bca91b1c0514e25bfb6332a03ed9918) - 📰 null - 【币安理财、一键买币、闪兑、杠杆、合约上线Linea（LINEA）】金色财经报道，币安理财、一键买币、闪兑、杠杆、合约上线Linea（LINEA）。 
-币安全仓、逐仓杠杆将于2025年09月11日00:00（东八区时间）新增LINEA可借资产，以及LINEA/USDT、LINEA/USDC 全仓、逐仓杠杆交易对。
-- [今日美国比特币ETF净流入524枚BTC，以太坊ETF净流入15071枚ETH](https://x.com/lookonchain/status/1965795458472943803) - 📰 null - 【今日美国比特币ETF净流入524枚BTC，以太坊ETF净流入15071枚ETH】金色财经报道，据链上数据分析平台 Lookonchain 监测，今日 10 只美国比特币 ETF 净流入 524 枚 BTC；9 只以太坊 ETF 净流入 15071 枚 ETH。
-- [市场分析：甲骨文是新的英伟达](https://flash.jin10.com/detail/20250910231722612800) - 📰 null - 【市场分析：甲骨文是新的英伟达】金色财经报道，华尔街日报文章称，甲骨文在一个模糊的业务上给出了清晰的数字，这点值得赞赏。甲骨文的大胆预测有力地表明，这家拥有48年历史、已经是全球最大软件供应商之一的公司，未来3年的总收入可能会增加一倍以上。这有点像人工智能芯片巨头英伟达，后者迅速从一家视频游戏芯片的小众供应商转变为全球唯一一家市值超过4万亿美元的公司。甲骨文的收入前景在某种程度上更为确定，因为其增长主要与推理相关——即向AI模型发出查询并获取答案的过程。随着AI关注点从训练更好的模型转向向数以千万计的新用户部署，这类活动预计将会增加。甲骨文面临大量竞争，但分析师认为，甲骨文也有自身的强大优势。丰业银行分析师Patrick Colville指出，甲骨文拥有“顶尖的技术专长、资本获取能力、来自英伟达的深度支持，以及独立性，因此在抓住AI训练与推理需求爆发方面处于有利位置”。
-- [甲骨文股价创下1992年以来最大涨幅](https://flash.jin10.com/detail/20250910230722121800) - 📰 null - 【甲骨文股价创下1992年以来最大涨幅】金色财经报道，甲骨文(ORCL.N)股价创下1992年以来最大涨幅，此前该公司公布了其云业务的积极前景，巩固了这家软件制造商在支持人工智能计算需求的竞争中的地位。周三纽约股市早盘，该公司股价飙升41%，市值达到9,470亿美元。芯片开发商英伟达和亚洲供应商等人工智能相关股票也上涨。甲骨文以其数据库软件而闻名，最近在炙手可热的云计算市场取得了成功，并正在成为人工智能计算能力的主要提供商，与云计算领导者亚马逊公司、微软公司和谷歌(GOOG.O)展开竞争。今年夏天早些时候，它与ChatGPT运营商OpenAI签署了一项前所未有的协议，为其提供价值4.5千兆瓦的数据中心容量。
+- [某鲸鱼向CEX存入527,590枚SOL，约合1.175亿美元](https://x.com/lookonchain/status/1965946158016233968) - 📰 null - 【某鲸鱼向CEX存入527,590枚SOL，约合1.175亿美元】金色财经报道，据Lookonchain监测，某鲸鱼在过去16小时内向中心化交易平台存入527,590枚SOL（约1.175亿美元）。
+- [Strategy股东撤销针对加密货币会计准则影响的董事会诉讼](https://news.bloomberglaw.com/securities-law/strategy-shareholders-drop-board-suit-over-crypto-accounting-hit) - 📰 null - 【Strategy股东撤销针对加密货币会计准则影响的董事会诉讼】金色财经报道，Strategy Inc. 的股东同意结束一场诉讼，该诉讼指控公司管理层允许其自称为「比特币财库」的业务淡化加密货币会计准则变更所带来的预期影响。 
+股东们自愿放弃针对现任和前任董事会成员及高管的股东派生诉讼，但保留重新提起诉讼的权利。美国弗吉尼亚东区联邦地区法院的 Anthony J. Trenga 法官已签署了股东与前 MicroStrategy Inc. 部分领导人达成的联合协议，并于周三正式驳回该案。
+- [Chainlink Data Streams已上线Sei](https://x.com/Cointelegraph/status/1965943535166742962) - 📰 null - 【Chainlink Data Streams已上线Sei】金色财经报道，据Cointelegraph披露，Chainlink Data Streams现已上线 Sei，可提供美国股票、GDP以及300多种资产的实时数据源，为机构级市场提供支持。
+- [Ethena托管钱包向Coinbase Prime转入2.46亿枚ENA，约合1.96亿美元](https://x.com/EmberCN/status/1965942935255658565) - 📰 null - 【Ethena托管钱包向Coinbase Prime转入2.46亿枚ENA，约合1.96亿美元】金色财经报道，据余烬监测，过去8个小时内，2.46亿枚ENA(约1.96亿美元)从Ethena的托管钱包转入Coinbase Prime。
+- [Gavin Wood：Vitalik的成功曾让他感到困扰，但现在只专注于打造优秀产品]() - 📰 null - 【Gavin Wood：Vitalik的成功曾让他感到困扰，但现在只专注于打造优秀产品】金色财经报道，据Cointelegraph披露，以太坊和波卡联合创始人Gavin Wood承认，Vitalik Buterin的成功曾让他感到困扰……但现在他只想专注于打造优秀的产品。
+- [PENGU项目方转出1.716亿枚PENGU并转入Binance和Bybit](https://x.com/EmberCN/status/1965939928493379799) - 📰 null - 【PENGU项目方转出1.716亿枚PENGU并转入Binance和Bybit】金色财经报道，据链上分析师余烬监测，时隔一个月，PENGU项目方在最近一天多里继续从代币布署地址转出了1.716亿枚PENGU(600万美元)，然后进入了Binance和Bybit。 
+他们每次的转出都是当时价值300万美元的代币，然后分散进入多家CEX。从7/12以来，他们一共已经把26亿枚的PENGU(7286万美元)从代币布署地址转移到CEX里。
+- [蚂蚁数科发布通证化全栈解决方案，支持实体资产数字化](https://www.hkej.com/instantnews/hongkong/article/4192446/%E8%9E%9E%E8%9F%BB%E6%95%B8%E7%A7%91%E7%99%BC%E5%B8%83DT+Tokenization+Suite) - 📰 null - 【蚂蚁数科发布通证化全栈解决方案，支持实体资产数字化】9月11日消息，据《信报》报道，蚂蚁数科日前发布“DT Tokenization Suite(通证化全栈解决方案)”，该方案为机构提供覆盖实体资产全生命周期的数字化服务，旨在促进实体资产通证化(RWA)的标准化与规模化发展。 
+据介绍，该解决方案建立在蚂蚁链技术基础上，结合Web2与Web3功能。其区块链平台Jovay具备每秒10万笔交易处理能力和300毫秒级响应时间，适用于金融交易场景。 
+方案采用TEE与零知识证明(ZK)的验证机制确保交易安全性，日均调用量达20亿次，支持资产跨链转移。该平台提供资产上链、通证发行、链上流通、风险管理及投资者生态连接等服务，相关金融服务由持牌金融机构提供。
+- [Arthur Hayes买入57.89万枚ENA，约合46.77万美元]() - 📰 null - 【Arthur Hayes买入57.89万枚ENA，约合46.77万美元】金色财经报道，据Onchain Lens监测，Arthur Hayes从Binance买入57.89万枚ENA，价值约46.77万美元，其当前共持有502万枚ENA，市值约391万美元。
+- [美股上市公司LIXTE斥资260万美元购入加密货币](https://www.globenewswire.com/news-release/2025/09/10/3148226/0/en/LIXTE-Biotechnology-Holdings-Makes-2-6-Million-Initial-Purchase-of-Digital-Currency-to-Diversify-Treasury-and-for-Potential-Acquisitions.html) - 📰 null - 【美股上市公司LIXTE斥资260万美元购入加密货币】金色财经报道，纳斯达克上市公司LIXTE Biotechnology Holdings（股票代码：LIXT和LIXTW）于9月10日宣布，已首次购入10.5个比特币和300个以太坊，总价值约260万美元，作为其资金多元化战略的一部分。 
+据公告，加密货币目前占LIXTE资金持有量的43.6%，公司董事会已批准将加密货币的资金配置比例提高至50%。LIXTE董事长兼CEO Geordan Pursglove表示，此举旨在构建均衡灵活的数字资产战略，增强公司在数字经济中的适应能力和长期增长潜力。 
+此前消息，美股上市生物科技公司LIXTE计划将最多25%的资金储备配置于比特币等数字资产。
+- [Gemini IPO 30%股份将分配给散户投资者]() - 📰 null - 【Gemini IPO 30%股份将分配给散户投资者】金色财经报道，由Cameron和Tyler Winklevoss创立的Gemini Space Station Inc.将在本周五登陆美股市场，公司计划在首次公开募股中将高达30%的股份分配给散户投资者。根据周二更新的招股文件，这些股份将通过Robinhood、Moomoo和Webull等在线经纪平台向小额投资者开放，为普通投资者提供了难得的机会参与这家亿万富翁支持的加密货币交易所上市前投资。
+- [SEC加密工作组与Mysten Labs会面讨论监管问题](https://x.com/Cointelegraph/status/1965618892476174629) - 📰 null - 【SEC加密工作组与Mysten Labs会面讨论监管问题】9月11日消息，美国SEC加密货币工作组于9月9日与Sui开发团队Mysten Labs会面，探讨应对加密资产监管相关问题的方案。
+- [BitMine从BitGo收到46,255枚ETH，约合2.01亿美元](https://x.com/OnchainLens/status/1965931400504422497) - 📰 null - 【BitMine从BitGo收到46,255枚ETH，约合2.01亿美元】金色财经报道，据Onchain Lens监测，BitMine已从BitGo收到46,255枚以太坊（ETH），价值约2.01亿美元。
+- [美国CFTC主席提名人Brian Quintenz称温克莱沃斯兄弟试图干预其提名确认程序](https://cointelegraph.com/news/brian-quintenz-cftc-texts-gemini-tyler-winklevoss) - 📰 null - 【美国CFTC主席提名人Brian Quintenz称温克莱沃斯兄弟试图干预其提名确认程序】金色财经报道，美国总统唐纳德·特朗普提名担任美国商品期货交易委员会（CFTC）主席的布莱恩·昆滕兹（Brian Quintenz），公开了他与 Gemini 联合创始人卡梅隆和泰勒·温克尔沃斯（Cameron and Tyler Winklevoss）之间的几条短信。此举暗示了这对双胞胎兄弟可能试图干预他获得该机构提名的原因。 
+在周三发布的一条 X 帖子中，昆滕兹表示，他之所以公开这些短信，是出于对特朗普“可能被”Gemini 联合创始人“误导”的担忧。短信内容显示，泰勒·温克尔沃斯在发送给昆滕兹的信息中提到了 Gemini 与 CFTC 的民事案件，该案已于一月份以500万美元罚款达成和解。 
+“CFTC 完全滥用了审议过程特权以及许多其他滥权行为，以至于我们甚至无法在法庭上公正地为自己辩护，”温克尔沃斯在7月25日发给昆滕兹的短信中写道。 
+据这位未来的 CFTC 主席称，这对兄弟正在寻求某些保证，以避免他们所说的该机构“法律战式的战利品追逐”（lawfare trophy hunting），而他表示自己不愿意提供这些保证。
+- [某新建钱包向Hyperliquid存入1000万枚USDC，买入现货并开设10倍杠杆做空HYPE对冲仓位](https://x.com/OnchainLens/status/1965928209859621156) - 📰 null - 【某新建钱包向Hyperliquid存入1000万枚USDC，买入现货并开设10倍杠杆做空HYPE对冲仓位】金色财经报道，据Onchain Lens监测，某新建钱包向Hyperliquid转入1,000万枚USDC，部分资金在现货买入HYPE，同时开设10倍杠杆的HYPE空单。目前该钱包仍持有约900万美元资金。
+- [Rex-Osprey加密货币ETF已通过美SEC为期75天的审查窗口，预计将于周五交易](https://x.com/Cointelegraph/status/1965928439879282716) - 📰 null - 【Rex-Osprey加密货币ETF已通过美SEC为期75天的审查窗口，预计将于周五交易】金色财经报道，据Cointelegraph披露，彭博社的埃里克·巴尔丘纳斯（Eric Balchunas）表示，Rex-Osprey 加密货币 ETF（其中包括 $BTC、$XRP、$DOGE、$BONK 和 $TRUMP 等产品）已经通过了美国证券交易委员会（SEC）为期75天的审查窗口，预计将于周五开始交易。
+- [REX-Osprey SOL现货ETF昨日净流入340万美元](https://farside.co.uk/sol/) - 📰 null - 【REX-Osprey SOL现货ETF昨日净流入340万美元】金色财经报道，据Farside Investors监测，REX-Osprey SOL现货ETF昨日净流入340万美元。
+- [马斯克重新夺回首富头衔 但仅领先10亿美元]() - 📰 null - 【马斯克重新夺回首富头衔 但仅领先10亿美元】金色财经报道，马斯克的“全球首富”头衔曾短暂旁落，被甲骨文(ORCL.N)联合创始人拉里・埃里森夺走。据报道，周二晚间甲骨文发布极为强劲的财报后，埃里森的身家在周三暴涨890亿美元，达到3832亿美元。埃里森是甲骨文最大的个人股东。周三，他的净资产增长使其在数小时内成为全球首富，短暂超过了马斯克的身家。但截至周三收盘，马斯克的净资产为3842亿美元，以10亿美元的优势超越埃里森，重新夺回首富头衔。(金十)
+- [美SEC延长纳斯达克以太坊信托质押提案审查期限至10月底](https://www.sec.gov/files/rules/sro/nasdaq/2025/34-103936.pdf) - 📰 null - 【美SEC延长纳斯达克以太坊信托质押提案审查期限至10月底】金色财经报道，美国SEC文件显示，纳斯达克交易所已向美国证券交易委员会（SEC）提交提案，拟修订iShares Ethereum Trust相关规则，允许该信托持有的以太坊进行质押。SEC已决定延长审查期限，最迟将于10月30日前对该提案作出批准、否决或启动进一步审查程序。
+- [金色晨讯 | 9月11日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 9月11日隔夜重要动态一览】21:00-7:00关键词：米兰、标普500、CEA Industries 
+1.德意志银行警告标普500指数存在泡沫风险； 
+2.币安与富兰克林邓普顿携手推动数字资产产品与计划； 
+3.美SEC推迟对FRANKLIN现货SOLANA ETF的审批决定； 
+4.CEA Industries 增持 3 万枚 BNB，总持仓量达 418,888 枚； 
+5.美国参议院银行委员会以13比11票通过对米兰的美联储理事提名； 
+6.美SEC推迟对贝莱德、富达现货以太坊ETF增加质押功能作出决定； 
+7.Asset Entities批准与Strive合并，成立价值15亿美元的BTC财务公司； 
+8.美国《加密市场结构法案》获参议院通过概率增大，两党合作前景乐观。
+- [VanEck计划申请Hyperliquid现货质押ETF](https://blockworks.co/news/vaneck-hyperliquid-staking-etf/) - 📰 null - 【VanEck计划申请Hyperliquid现货质押ETF】金色财经报道，据市场消息，VanEck计划在美国申请Hyperliquid现货质押ETF，并在欧洲推出相关交易产品。 
+Hyperliquid是2023年上线的Layer-1区块链，近期网络营收连续四周居首。VanEck表示，产品净利润或将部分用于HYPE代币回购，目前该代币未在美国主流交易所上线。该ETF及ETP产品仍需监管批准。
