@@ -1,23 +1,39 @@
-- [某鲸鱼地址质押26.8万枚SOL，价值6070万美元](https://x.com/OnchainLens/status/1966307120229556565) - 📰 null - 【某鲸鱼地址质押26.8万枚SOL，价值6070万美元】金色财经报道，据Onchain Lens监测，某鲸鱼地址质押268,395枚SOL，价值6070万美元。该地址最初从Coinbase提币27万枚SOL（当时价值6022万美元），钱包中仍有1,605枚SOL。
-- [某鲸鱼1个月亏损超4340万美元，超越三大破产交易员成为Hyperliquid上最大输家]() - 📰 null - 【某鲸鱼1个月亏损超4340万美元，超越三大破产交易员成为Hyperliquid上最大输家】金色财经报道，据Lookonchain监测，随着比特币重回116,000美元上方，为了避免清算，鲸鱼0xa523再次卖出152枚ETH（约合679美元）以增加保证金，并亏本平仓了部分BTC空头头寸。 
-短短一个月时间，该地址已经亏损了4340万美元，超越AguilaTrades、内幕交易员qwatio以及James Wynn，成为Hyperliquid上最大的输家。
-- [Multicoin联创：除去基金对Forward Industries的联合领投外，个人额外投资2500万美元](https://x.com/KyleSamani/status/1966176452304580679) - 📰 null - 【Multicoin联创：除去基金对Forward Industries的联合领投外，个人额外投资2500万美元】9月12日消息，Multicoin Capital联合创始人KyleSamani于X发文表示，除去Multicoin Capital对Forward Industries的联合领投外，其个人还出资了2,500万美元。 
-此前消息，纳斯达克上市公司Forward Industries正式宣布，已获得总额16.5亿美元的现金与稳定币承诺，将通过一项PIPE交易启动以SOL为核心的数字资产财库战略。本次融资由Galaxy Digital、Jump Crypto和Multicoin Capital领投，该公司现有最大股东之一C/M Capital Partners参投。
-- [Galaxy Digital增持706,790枚SOL，价值1.6亿美元](https://x.com/lookonchain/status/1966304410516205901) - 📰 null - 【Galaxy Digital增持706,790枚SOL，价值1.6亿美元】金色财经报道，据Lookonchain监测，Galaxy Digital增持706,790枚SOL（价值1.6亿美元）。在过去的24小时里，他们总共购买了高达2,159,182枚SOL（价值4.86亿美元）。
-- [某鲸鱼向HyperLiquid存入800万枚USDC购入HYPE和PUMP](https://x.com/OnchainLens/status/1966303635706622222) - 📰 null - 【某鲸鱼向HyperLiquid存入800万枚USDC购入HYPE和PUMP】金色财经报道，据Onchain Lens监测，某鲸鱼近2小时前向HyperLiquid平台存入800万枚USDC，随后斥资450万美元购入79,257枚HYPE币，同时以270万美元买入4.67亿枚PUMP币。该投资者仍有80万美元未结订单，计划继续增持HYPE币。
-- [鲸鱼过去24小时内出售4000万枚XRP](https://x.com/ali_charts/status/1966301734822629673) - 📰 null - 【鲸鱼过去24小时内出售4000万枚XRP】金色财经报道，据链上分析师@ali_charts监测，鲸鱼在过去24小时内出售了4000万枚XRP。
-- [SOL突破230美元]() - 📰 null - 【SOL突破230美元】金色财经报道，行情显示，SOL突破230美元，现报230.06美元，24小时涨幅达到2.3%，行情波动较大，请做好风险控制。
-- [ETH突破4500美元]() - 📰 null - 【ETH突破4500美元】金色财经报道，行情显示，ETH突破4500美元，现报4503.63美元，24小时涨幅达到3.58%，行情波动较大，请做好风险控制。
-- [FTX/Alameda于7小时前从质押中赎回19.2万枚SOL，约合4356万美元](https://x.com/EmberCN/status/1966301625016004833) - 📰 null - 【FTX/Alameda于7小时前从质押中赎回19.2万枚SOL，约合4356万美元】金色财经报道，据链上分析师余烬监测，又到FTX/Alameda每月十来号的SOL固定转出时间了。他们在7小时前从质押里赎回了19.2万枚SOL(4356万美元)，应该会和以前一样在今天晚些时间分发转移给多个地址。然后这些收到SOL的多数地址后续会把SOL转进Coinbase或Binance。 
-FTX/Alameda质押地址从2023年11月以来，已经通过上面这种方式累计赎回并转出了898万枚SOL(12.02亿美元)，转出均价134美元。目前FTX/Alameda质押地址还有418.4万枚SOL(9.6亿美元)在质押中。
-- [AAVE突破310美元]() - 📰 null - 【AAVE突破310美元】金色财经报道，行情显示，AAVE突破310美元，现报310.05美元，24小时涨幅达到3.2%，行情波动较大，请做好风险控制。
-- [昨日FBTC净流入1.347亿美元](https://farside.co.uk/btc/) - 📰 null - 【昨日FBTC净流入1.347亿美元】金色财经报道，据Farside Investors监测数据，昨日FBTC净流入1.347亿美元。
-- [Patricio Worthalter出售2,000枚ETH兑换成885万枚USDC](https://x.com/OnchainLens/status/1966298137393508565) - 📰 null - 【Patricio Worthalter出售2,000枚ETH兑换成885万枚USDC】金色财经报道，据Onchain Lens监测，Patricio Worthalter在持有2年后，以4,423美元的价格出售了2,000枚ETH，兑换成885万枚USDC。他通过出售这些ETH获利537万美元，目前仍持有41,135枚ETH，价值1.8327亿美元。
-- [REX-Osprey DOGE ETF再次推迟至下周周中上市](https://x.com/EricBalchunas/status/1966236513517338749) - 📰 null - 【REX-Osprey DOGE ETF再次推迟至下周周中上市】金色财经报道，彭博社ETF分析师Eric Balchunas在社交媒体上发文表示，REX-OspreyDOGEETF（DOJE）再次推迟，该ETF最初预计于本周四推出，首次推迟于周五，目前已推迟至下周周中推出（可能是下周四）。
-- [Robinhood发布8月运营数据：平台总资产达3040亿美元，同比增长112%]() - 📰 null - 【Robinhood发布8月运营数据：平台总资产达3040亿美元，同比增长112%】金色财经报道，Robinhood Markets, Inc.（纳斯达克股票代码：HOOD）发布2025年8月运营数据。截至8月底，平台总资产达3040亿美元，较上月增长2%，同比大幅增长112%。资金客户数量为2670万，虽较7月略减1万（受约18万低余额账户强制归还影响），但同比增加240万。8月净存款为48亿美元，过去12个月累计净存款达616亿美元。交易方面，股票名义交易量为1992亿美元（同比+107%），期权合约交易量1.955亿份（同比+33%）。加密货币方面，Robinhood应用交易量137亿美元（同比+154%），Bitstamp交易所交易量144亿美元（环比+21%）。保证金余额125亿美元（同比+127%），证券借贷收入5300万美元（同比+165%）。
-- [BTC突破115500美元]() - 📰 null - 【BTC突破115500美元】金色财经报道，行情显示，BTC突破115500美元，现报115508.77美元，24小时涨幅达到1.46%，行情波动较大，请做好风险控制。
-- [Galaxy CEO：加密市场正进入"Solana季节"](https://www.theblock.co/post/370380/galaxys-novogratz-season-of-sol-solana?utm_source=twitter&utm_medium=social) - 📰 null - 【Galaxy CEO：加密市场正进入"Solana季节"】金色财经报道，Galaxy Digital首席执行官Mike Novogratz在CNBC表示，加密市场正进入"Solana季节"，认为Solana区块链因其高速度和高交易容量特别适合金融市场应用。他强调了监管环境的积极转变，特别是美国SEC主席Paul Atkins近期表示将推动证券规则现代化以支持市场链上化，并明确"大多数加密代币不是证券"。同时，纳斯达克已向SEC申请允许代币化股票和ETF与传统版本在同一订单簿交易，若获批准，最早可能于2026年第三季度启用区块链结算。Novogratz预测比特币长期将"只涨不跌"。
-- [某鲸鱼沉寂13年后转移逾230枚BTC](https://x.com/OnchainLens/status/1966293474661245128) - 📰 null - 【某鲸鱼沉寂13年后转移逾230枚BTC】金色财经报道，据Onchain Lens报道，一地址在沉寂13.1年后将232.16枚BTC（约合2,656万美元）转至新地址。该地址曾在BTC价格仅12.11美元时以2,812美元购入全部BTC。
-- [今日恐慌与贪婪指数升至57，等级由中性转为贪婪](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至57，等级由中性转为贪婪】金色财经报道，今日恐慌与贪婪指数升至57，等级由中性转为贪婪。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [马斯克再度对37万亿美元规模国债发出警告](https://www.forbes.com/sites/digital-assets/2025/09/11/were-toast-tesla-ceo-elon-musk-issues-serious-37-trillion-us-debt-warning-after-bitcoin-surprise/) - 📰 null - 【马斯克再度对37万亿美元规模国债发出警告】9月12日消息，马斯克再度就美国37万亿美元螺旋上升的债务发出警告：“归根结底，我们高得离谱的国债...利息支出已超过国防部预算且持续增长，如果AI和机器人不能解决国债问题，我们就完了，”他在AllIn峰会上受访时表示。今年美国债务总额激增至37万亿美元，疫情时期巨额支出与利率上升的双重压力，恐将引发美元“危机”。
-- [CleanCore Solutions扩大DOGE持仓至5亿枚](https://www.theblock.co/post/370387/cleancore-solutions-buys-more-doge-as-first-dogecoin-etf-draws-near?utm_source=twitter&utm_medium=social) - 📰 null - 【CleanCore Solutions扩大DOGE持仓至5亿枚】金色财经报道，CleanCore Solutions已将其狗狗币持仓量增至超过5亿DOGE，距首次购买仅3天。该公司周一宣布计划在30天内收购高达10亿枚狗狗币，并设立了长期目标——持有DOGE流通供应量的5%。CleanCore首席投资官Marco Margiotta表示，公司愿景是将狗狗币建立为优质储备资产，同时支持其在支付和全球汇款等领域的应用。与此同时，首个现货狗狗币ETF（REX-Osprey DOGE ETF，代码DOJE）预计将于下周在华尔街上市。
+- [瑞银：将黄金2025年底目标价格上调3800美元/盎司]() - 📰 null - 【瑞银：将黄金2025年底目标价格上调3800美元/盎司】金色财经报道，瑞银：将黄金2025年底目标价格上调3800美元/盎司（此前为3500美元/盎司），并预计到2026年年中将达到3900美元/盎司（此前为3700美元/盎司）。(金十)
+- [币安：Unibase（UB）空投门槛为200分](https://x.com/binancezh/status/1966381309829566566) - 📰 null - 【币安：Unibase（UB）空投门槛为200分】金色财经报道，据官方公告，币安Alpha将于2025年9月12日16:00(UTC+8)上线Unibase（UB），合约交易开放：2025年9月12日18:30(UTC+8)。交易开始后，持有至少200个币安Alpha积分的用户可申领4,000个UB代币空投。先到先得。 
+若活动未结束，则分数门槛将每小时自动降低15分。请注意，申领空投将消耗15个币安Alpha积分。用户需在Alpha活动页面于24小时内确认申领，否则视为放弃领取空投。
+- [RWA板块市值创历史新高至760亿美元，链上资产规模突破290亿美元](https://cointelegraph.com/news/rwa-tokens-surge-11-percent-onchain-value-hits-ath) - 📰 null - 【RWA板块市值创历史新高至760亿美元，链上资产规模突破290亿美元】金色财经报道，据CoinMarketCap数据，过去一周RWA板块代币整体上涨11%，市值由670亿美元增至历史新高的760亿美元。RWA相关项目包括预言机提供商Chainlink、L1公链Avalanche以及机构级RWADeFi平台Ondo Finance等，其中Ondo单日上涨9%。 
+RWA.xyz数据显示，链上代币化资产总规模本周首次突破290亿美元，年初以来已接近翻倍，其中逾一半为代币化私人信贷，约四分之一为代币化美债，其余为大宗商品、另类基金、股票及债券。
+- [4E：43亿美元比特币期权到期临近，市场看涨情绪升温]() - 📰 null - 【4E：43亿美元比特币期权到期临近，市场看涨情绪升温】9月12日消息，据4E观察，周四甲骨文（ORCL）发布利好消息后，比特币价格一度飙升至 11.4 万美元，创两周新高。市场预期，周五到期的 43 亿美元 BTC 期权或将成为推动行情进一步上攻的重要催化剂。本周期权结构上，看跌合约价值 23.5 亿美元，看涨合约价值 19.3 亿美元，但随着 BTC 自 9 月初低点反弹，看涨头寸逐渐占据优势。部分分析师预计，若行情延续，BTC 有望冲击 12 万美元关口。 
+美国监管方面，参议院民主党近日发布《加密市场结构法案》框架，引发业界及共和党领袖的乐观回应。该框架强调代币管辖权、交易平台监管及执法资源配备，显示跨党派合作空间扩大。参议员 Lummis 称，这是加密立法跨党派努力的积极一步。 
+资产管理巨头贝莱德则计划下月在英国推出比特币 ETF，延续其全球化布局。摩根大通最新报告亦指出，机构采用仍处早期，但势头增强，CME 加密衍生品持仓创历史新高。 
+香港财经事务局局长许正宇提醒，目前仅“认许提供者”可发行受监管稳定币，投资者购买非持牌稳定币需自担风险。 
+4E提醒投资者： 衍生品到期与政策预期可能放大短期波动，投资者应关注宏观与监管信号，谨慎管理仓位。
+- [Ethena旗下两大稳定币USDe和USDtb的发行总规模已超150亿枚](https://app.ethena.fi/dashboards/transparency) - 📰 null - 【Ethena旗下两大稳定币USDe和USDtb的发行总规模已超150亿枚】金色财经报道，Ethena官方数据显示，该协议旗下两大稳定币USDe和USDtb的发行总规模已超150亿枚，其中USDe发行规模为132亿枚，USDtb发行规模为18.1亿枚。
+- [Bill Ackman将向FBI提供100万美元资金，以悬赏Charlie Kirk案凶手](https://x.com/BillAckman/status/1966369096993309049) - 📰 null - 【Bill Ackman将向FBI提供100万美元资金，以悬赏Charlie Kirk案凶手】金色财经报道，美国对冲基金Pershing Square首席执行官Bill Ackman发推表示，其将向FBI提供100万美元资金，以悬赏Charlie Kirk案凶手。
+- [Coinbase研究主管：加密财库“轻松赚钱”的时代结束，或利好加密市场]() - 📰 null - 【Coinbase研究主管：加密财库“轻松赚钱”的时代结束，或利好加密市场】金色财经报道，Coinbase表示，购买加密货币的上市公司正进入“玩家对玩家”（player vs player）阶段，各公司将更加激烈地争夺投资者资金，这可能推动加密市场价格上涨。 
+Coinbase研究主管David Duong和研究员Colin Basco周三在报告中表示：“轻松赚钱和保证NAV（净资产价值倍数）溢价的日子已经结束。” 
+两人指出，数字资产国库（DATs）正处于“玩家对玩家”阶段，“战略布局得当的参与者将会脱颖而出”，并预计加密市场将“从这些资金流入中受益，从而提升回报”。 
+分析师也对加密购买公司市场的饱和度表示担忧，认为许多公司可能长期无法生存。NYDIG周五表示，尽管比特币上涨，许多加密国库公司的价值仍出现下跌。
+- [Holoworld AI宣布HOLO质押现已上线](https://x.com/HoloworldAI/status/1966363026954592375) - 📰 null - 【Holoworld AI宣布HOLO质押现已上线】9月12日消息，Holoworld AI宣布HOLO质押现已上线，质押即可预赚取Holo积分，无最低质押限额。
+- [分析：市场已完全消化年底前三次各降息25个基点的预期](https://x.com/KobeissiLetter/status/1966121685649674669) - 📰 null - 【分析：市场已完全消化年底前三次各降息25个基点的预期】金色财经报道，交易资讯平台Kobeissi Letter指出，市场目前预计年底前利率将总计下调75个基点，尽管消费者物价指数(CPI)通胀持续上升，但劳动力市场却过于疲软不容忽视。同时，10年期美债收益率自4月4日以来首次正式跌破4.00%，市场目前已完全消化年底前三次各降息25个基点的预期。
+- [用户报告指出Telegram多项功能出现故障](https://downdetector.com/status/telegram/) - 📰 null - 【用户报告指出Telegram多项功能出现故障】金色财经报道，据Downdetector报道，Telegram近期遭遇大量用户反馈故障，主要问题包括网站无法访问、App崩溃、服务器连接异常及消息发送失败。部分用户反映登录验证、实时翻译及多媒体下载功能持续受影响，且问题已持续多日。Downdetector数据显示，网站相关故障占比达68%，App问题占20%，服务器连接问题占11%。Telegram官方暂未发布修复进展。
+- [新型恶意软件ModStealer可绕过杀毒软件窃取加密钱包](https://decrypt.co/339153/researchers-undetectable-malware-drain-crypto-browser-wallets) - 📰 null - 【新型恶意软件ModStealer可绕过杀毒软件窃取加密钱包】金色财经报道，安全公司Mosyle披露，研究人员发现了一种新型恶意软件，它能够绕过杀毒软件检查，从Windows、Linux和macOS系统上的加密货币钱包窃取数据，这款被称为ModStealer的恶意软件，在披露时已经在主流杀毒引擎下潜伏了近一个月而未被发现，其传播方式是通过针对开发者的虚假招聘广告投放。 
+Mosyle表示，通过虚假招聘广告进行传播是有意为之，因为目标是那些可能已经在使用Node.js环境的开发者。
+- [日本30年期国债收益率下降1.5个基点至3.21%]() - 📰 null - 【日本30年期国债收益率下降1.5个基点至3.21%】金色财经报道，日本30年期国债收益率下降1.5个基点至3.21%。(金十)
+- [Tether Treasury于以太坊链新铸造10亿枚USDT](https://whale-alert.io/transaction/ethereum/0x2ca358b51143c4738f1f294dcf02ecb4ec535a8fb884a704e6f032cc123b160d) - 📰 null - 【Tether Treasury于以太坊链新铸造10亿枚USDT】金色财经报道，据市场消息，Tether Treasury于以太坊链新铸造10亿枚USDT。
+- [欧洲央行管委Patsalides：欧洲央行无需进一步降息即可实现2%通胀目标]() - 📰 null - 【欧洲央行管委Patsalides：欧洲央行无需进一步降息即可实现2%通胀目标】金色财经报道，欧洲央行管委Patsalides：欧洲央行无需进一步降息即可实现2%通胀目标。(金十)
+- [361度：公司近期正探索使用稳定币支付和结算的解决方案]() - 📰 null - 【361度：公司近期正探索使用稳定币支付和结算的解决方案】金色财经报道，361度(01361.HK)公告，公司近期正探索使用稳定币支付和结算的解决方案，用于本集团在中国大陆以外地区的产品销售，涵盖境外线下门店、电子商务销售、供应链服务和数位生态业务。采用稳定币支付方式可提升支付效率并降低成本，从而更好地满足跨境电商客户需求，预计该支付方式还有助降低本集团与中国大陆以外客户交易时面临的汇率风险。(金十)
+- [金色午报 | 9月12日午间重要动态一览]() - 📰 null - 【金色午报 | 9月12日午间重要动态一览】7:00-12:00关键词：Gemini、马斯克、FTX/Alameda 
+1.Gemini在IPO中筹集了4.25亿美元； 
+2.SOL市值突破1260亿美元，超越BNB； 
+3.Galaxy CEO：加密市场正进入"Solana季节"； 
+4.马斯克再度对37万亿美元规模国债发出警告； 
+5.FTX/Alameda于7小时前从质押中赎回19.2万枚SOL； 
+6.特朗普请求上诉法院允许他在下次美联储会议之前解雇库克； 
+7.WLFI开放“将100%协议自有流动性费用用于回购销毁”提案投票。
+- [摩根大通：预计欧洲央行将在12月降息]() - 📰 null - 【摩根大通：预计欧洲央行将在12月降息】金色财经报道，摩根大通：预计欧洲央行将在12月降息，此前预测为10月。(金十)
+- [某鲸鱼2小时前将BTC清算价格拉高至117,510美元](https://x.com/EmberCN/status/1966345603803394163) - 📰 null - 【某鲸鱼2小时前将BTC清算价格拉高至117,510美元】金色财经报道，据链上分析师余烬监测，2小时前BTC突破11.6万美元那会，做多ETH亏损3584万美元后转头做空的鲸鱼为避免他的BTC做空仓位被清算，止损减了一部分仓位，把清算价格拉高到了117,510美元。 
+该鲸鱼这反指属性还是相当厉害的：从上个月15号开始做多ETH到月底，结果那段时间ETH一直震荡回调，他多次追高再止损，亏掉3584万美元。做多亏钱，他在9月初转头做空BTC。结果这段时间行情又好起来了，这让他在BTC空上现在又已经亏掉了579万美元。
+- [Galaxy Digital近24小时从CEX提取237.9万枚SOL，约合5.54亿美元](https://x.com/OnchainDataNerd/status/1966342472537346412) - 📰 null - 【Galaxy Digital近24小时从CEX提取237.9万枚SOL，约合5.54亿美元】金色财经报道，据The Data Nerd监测，2小时前，Galaxy Digital从交易所提取22万枚SOL，约合5031万美元。 
+在近24小时内，Galaxy提取的SOL数量增至237.9万枚，约合5.54亿美元。
+- [Radiant Capital黑客过去一小时内将5933枚ETH通过Tornado Cash转移](https://x.com/EmberCN/status/1966339152959647777) - 📰 null - 【Radiant Capital黑客过去一小时内将5933枚ETH通过Tornado Cash转移】金色财经报道，据分析师余烬监测，Radiant Capital黑客在过去1小时内将5933枚ETH（约2670万美元）通过Tornado Cash转移。该黑客曾在8月份通过3次低买高卖ETH的波段交易，额外获利约510万美元。
