@@ -1,20 +1,27 @@
-- [Circle：原生USDC和CCTP V2已在HyperEVM上线](https://x.com/circle/status/1967928959947116873) - 📰 null - 【Circle：原生USDC和CCTP V2已在HyperEVM上线】金色财经报道，Circle宣布原生USDC和CCTP V2已在HyperEVM上线，HyperEVM是Hyperliquid高性能生态系统的一部分，开发人员、机构和交易者现在可以在 HyperEVM 上访问USDC。Circle还宣布即将推出HyperEVM和HyperCore的直接连接，据悉HyperEVM上的USDC与HyperCore上目前可用的USDC不同，但现有交易流程不会受到影响。
-- [摩根大通美国国债客户调查显示净多头创三周最高]() - 📰 null - 【摩根大通美国国债客户调查显示净多头创三周最高】金色财经报道，摩根大通截至9月15日当周的美国国债客户调查显示，空头比例减少2个百分点，转为中性，多头比例保持不变。所有客户调查还显示，净多头比例创下8月25日以来最高水平。
-- [币安：STBL (STBL)空投出现延迟]() - 📰 null - 【币安：STBL (STBL)空投出现延迟】金色财经报道，币安披露STBL (STBL)代币空投目前遇到延迟，具体领取时间请等待后续官方公告。
-- [被套近 4 年的 ETH 巨鲸将 1427 枚 ETH 转入 Binance]() - 📰 null - 【被套近 4 年的 ETH 巨鲸将 1427 枚 ETH 转入 Binance】金色财经报道，据链上分析师Ai姨监测，某地址曾于 2021 年 10 月至 2022 年 2 月以均价 4141 美元购入 1337 枚 ETH，持仓四年后将 1427 枚 ETH（约 644 万美元）转入 Binance。若全部卖出，将实现约 50.1 万美元利润。该地址此前最大回撤达 74.4%，上月刚回本。
-- [以太坊财库公司The Ether Machine已向美SEC提交S-4表格申请](https://www.globenewswire.com/news-release/2025/09/16/3150756/0/en/The-Ether-Machine-Announces-Confidential-Submission-of-a-Draft-Registration-Statement-on-Form-S-4-with-the-SEC.html) - 📰 null - 【以太坊财库公司The Ether Machine已向美SEC提交S-4表格申请】金色财经报道，以太坊财库公司The Ether Machine已向美SEC提交S-4表格注册声明申请，以寻求和纳斯达克上市公司Dynamix Corporation业务合并，成为一家在美股上市的以太坊财库公司，据悉The Ether Machine目前还聘请了毕马威 (KPMG) 启动审计工作。
-- [Hyperscale Data：将出售全部XRP持仓转为纯BTC财库策略](https://www.prnewswire.com/news-releases/hyperscale-data-reports-bitcoin-treasury-update-as-of-sunday-september-14-100-million-bitcoin-treasury-strategy-underway-302557245.html) - 📰 null - 【Hyperscale Data：将出售全部XRP持仓转为纯BTC财库策略】金色财经报道，纽约证券交易所旗下NYSE American上市公司Hyperscale Data宣布将出售现有的XRP持仓，转型为一家纯粹实施比特币财库战略的公司，这也是该公司启动1亿美元比特币资金策略的第一步，该公司披露先持有15.0022枚比特币，市值约为1,731,000美元，后续将通过公开市场购买比特币。
-- [白宫发言人：特朗普政府将就法院对库克的裁决提出上诉]() - 📰 null - 【白宫发言人：特朗普政府将就法院对库克的裁决提出上诉】金色财经报道，白宫发言人：特朗普政府将就法院对美联储理事丽莎·库克的裁决提出上诉。
-- [SharpLink宣布回购100万股SBET股票](https://x.com/SharpLinkGaming/status/1967921749485555802) - 📰 null - 【SharpLink宣布回购100万股SBET股票】金色财经报道，SharpLink(SBET)宣布回购100万股$SBET股票，作为其15亿美元回购计划的一部分。截至2025年9月14日，公司持有838,152枚ETH，价值约38.6亿美元，零负债。自6月2日以来，公司已获得3,240枚ETH质押奖励，ETH集中度上升至3.97（增长99%）。目前SharpLink总回购量已达1,938,450股。
-- [巴克莱银行、Revolut、Coinbase、币安等多家公司在伦敦举行会议]() - 📰 null - 【巴克莱银行、Revolut、Coinbase、币安等多家公司在伦敦举行会议】金色财经报道，据市场消息，巴克莱银行、Revolut、Coinbase、币安等多家公司在伦敦举行会议。高盛、汇丰银行、美国银行也参与了此次活动。
-- [纽约时报公司股价盘前下跌1.3%]() - 📰 null - 【纽约时报公司股价盘前下跌1.3%】金色财经报道，纽约时报公司股价盘前下跌1.3%，此前美国总统特朗普以诽谤和名誉侵权提起150亿美元的诉讼。
-- [桑坦德银行旗下Openbank为散户推出加密货币交易](https://x.com/cryptounfolded/status/1967918753531740385) - 📰 null - 【桑坦德银行旗下Openbank为散户推出加密货币交易】金色财经报道，桑坦德银行旗下的在线银行子公司Openbank为散户推出加密货币交易。
-- [Soluna获得1亿美元信贷融资，Generate Capital参投](https://www.businesswire.com/news/home/20250916279022/en/Soluna-Secures-%24100M-Facility-from-Generate-Capital-to-Expand-Green-Data-Centers) - 📰 null - 【Soluna获得1亿美元信贷融资，Generate Capital参投】金色财经报道，为比特币挖矿和人工智能等密集型计算应用开发绿色数据中心的纳斯达克上市公司Soluna Holdings宣布已获得1亿美元信贷融资，Generate Capital参投，首笔1260万美元资金将用于建设现有数据中心项目。
-- [英国智能手机厂商Nothing完成2亿美元融资]() - 📰 null - 【英国智能手机厂商Nothing完成2亿美元融资】金色财经报道，英国智能手机制造商Nothing宣布完成2亿美元C轮融资，估值为13亿美元。该公司目标明年推出首批AI驱动的新型设备。
-- [比特币财库公司Strive收购Web3媒体平台MSTR True North](https://www.globenewswire.com/news-release/2025/09/16/3150662/0/en/Strive-Announces-Acquisition-of-MSTR-True-North-Inc-Appoints-Jeff-Walton-as-Chief-Risk-Officer-CEO-of-True-North.html) - 📰 null - 【比特币财库公司Strive收购Web3媒体平台MSTR True North】金色财经报道，纳斯达克上市的比特币财库公司Strive宣布收购Web3媒体平台MSTR True North，包括旗下比特币播客和分销渠道，具体收购金额暂未披露，据悉交易完成后True North创始人Jeff Walton讲出人Strive首席风险官。Strive此前披露已持有69枚BTC，并启动4.5亿美元配股募资以进一步增持比特币。
-- [美国财长贝森特：25个基点降息的预期已被消化]() - 📰 null - 【美国财长贝森特：25个基点降息的预期已被消化】金色财经报道，美国财长贝森特：25个基点降息的预期已被消化。他还指出，目前，美国国债收益率曲线最前端是倒置的，曲线的长端锚定得很好。
-- [币安：STBL (STBL) 空投门槛为200分]() - 📰 null - 【币安：STBL (STBL) 空投门槛为200分】金色财经报道，币安 Alpha 将于 2025 年 9 月 16 日 20:30（UTC+8）上线 STBL (STBL) 。交易开始后，持有至少 200 个币安 Alpha 积分的用户可申领 4,000 个 STBL 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。 请注意，申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
-- [Nature：科学家实现3000量子比特系统的连续运行](https://www.nature.com/articles/s41586-025-09596-6) - 📰 null - 【Nature：科学家实现3000量子比特系统的连续运行】金色财经报道，Nature杂志9月15日发表的一篇论文显示，来自哈佛大学和MIT的科研团队展示了一种用于高速重载和大规模原子阵列系统的连续操作的实验架构，同时实现量子信息的相干存储和操控。科研人员借助每秒30万个原子的光摄重载速率，实现了每秒创建超过3万个初始化量子比特的生成，并以此组装并维持一个包含超过3000个原子的阵列，持续运行时间超过两个小时。本研究的科学家表示，这项成果为开发大规模连续运行的容错量子计算机奠定了基础。
-- [美国财长贝森特：特朗普认为美联储落后于形势]() - 📰 null - 【美国财长贝森特：特朗普认为美联储落后于形势】金色财经报道，美国财长贝森特：特朗普认为美联储落后于形势。收益率曲线的前端出现倒挂，预计我们将看到通胀开始下降。如果特朗普总统认为通胀是一个问题，他会愿意接受加息。
-- [Mirror 将于未来一个月内逐步关闭](https://paragraph.com/@blog/bringing-the-best-of-mirror-to-paragraph) - 📰 null - 【Mirror 将于未来一个月内逐步关闭】金色财经报道，Mirror和Paragraph宣布合并整合，将在未来一个月内逐步关闭Mirror平台。所有Mirror上的文章和订阅者将自动迁移至Paragraph，无需作者手动操作。此次整合旨在打造互联网上最佳的阅读和写作平台，Paragraph已推出多项新功能，包括"帖子币"、"重混"功能和"作家币"等，为作家提供更多被读者支持的方式。访问Mirror博客的读者将自动重定向至作者在Paragraph的新主页，确保内容持续可访问。
-- [币安将上线 AIA 永续合约及 Alpha 交易]() - 📰 null - 【币安将上线 AIA 永续合约及 Alpha 交易】金色财经报道，币安将于 2025 年 9 月 18 日 16：00（UTC+8）在 Binance Alpha 开放 DeAgent AI（AIA）交易，并于 16：30（UTC+8）上线 AIA USDT 永续合约（50 倍杠杆）。此外，币安将向符合条件的用户提供专属空投，用户需在 2025 年 9 月 18 日 08：00 至 19 日 16：00（UTC+8）期间使用 Binance Alpha 积分在活动页面领取。
+- [美联储隔夜逆回购协议（RRP）周二使用规模为188.17亿美元](https://www.cls.cn/detail/2147100) - 📰 null - 【美联储隔夜逆回购协议（RRP）周二使用规模为188.17亿美元】金色财经报道，美联储隔夜逆回购协议（RRP）周二使用规模为188.17亿美元，上个交易日报169.54亿美元。
+- [SOL突破240美元]() - 📰 null - 【SOL突破240美元】金色财经报道，行情显示，SOL突破240美元，现报240.11美元，24小时涨幅达到3.99%，行情波动较大，请做好风险控制。
+- [ETH突破4500美元]() - 📰 null - 【ETH突破4500美元】金色财经报道，行情显示，ETH突破4500美元，现报4500.17美元，24小时涨幅达到0.02%，行情波动较大，请做好风险控制。
+- [BNB突破950美元]() - 📰 null - 【BNB突破950美元】金色财经报道，行情显示，BNB突破950美元，现报950.3美元，24小时涨幅达到3.52%，行情波动较大，请做好风险控制。
+- [BTC突破116500美元]() - 📰 null - 【BTC突破116500美元】金色财经报道，行情显示，BTC突破116500美元，现报116516.93美元，24小时涨幅达到1.47%，行情波动较大，请做好风险控制。
+- [Binance接近达成协议，以解除美司法部强加的合规监督]() - 📰 null - 【Binance接近达成协议，以解除美司法部强加的合规监督】金色财经报道，据市场消息，Binance 接近达成协议，以解除美国司法部（DOJ）强加的合规监督。 
+关于是否移除 Binance 监督员的最终决定尚未作出，司法部一直在审查和解协议中的合规监督安排。
+- [英国和美国料将宣布在加密数字货币领域展开更加紧密的合作](https://flash.jin10.com/detail/20250917010043647800) - 📰 null - 【英国和美国料将宣布在加密数字货币领域展开更加紧密的合作】金色财经报道，英国和美国料将宣布在加密数字货币领域展开更加紧密的合作。
+- [Movement Labs转型为L1区块链并推出Move 2.0]() - 📰 null - 【Movement Labs转型为L1区块链并推出Move 2.0】金色财经报道，据市场消息，Movement Labs 宣布正式转型为一条 L1 区块链，以提升网络性能并支持原生质押。同时，项目方同步推出 Move 2.0，以进一步增强开发和生态能力。
+- [Bitwise提交稳定币与代币化ETF申请](https://x.com/JSeyff/status/1967993171700486321) - 📰 null - 【Bitwise提交稳定币与代币化ETF申请】金色财经报道，据彭博 ETF 分析师 James Seyffart 消息，Bitwise 已向监管机构提交一只稳定币与代币化 ETF 申请。 
+该 ETF 将同时投资于相关上市公司股票及加密资产，旨在覆盖稳定币生态与代币化市场的发展机遇。
+- [Galaxy Digital计划推出多链代币化货币市场基金](https://www.coindesk.com/business/2025/09/16/galaxy-digital-said-to-plan-its-own-tokenized-money-market-fund) - 📰 null - 【Galaxy Digital计划推出多链代币化货币市场基金】金色财经报道，Mike Novogratz领导的数字资产投资公司Galaxy Digital正准备推出代币化货币市场基金，该基金将陆续在以太坊、Solana和Stellar三大区块链上线，预计未来几个月内推出。 
+据知情人士透露，Anchorage Digital将担任该基金的托管机构。Galaxy Digital此举旨在为市场带来更具加密原生特色的产品，以补充BlackRock的BUIDL(市值约22亿美元)和Franklin Templeton的BENJI等传统金融机构推出的代币化基金。 
+Galaxy Digital代表拒绝就该基金置评。该基金将致力于通过代币化技术提供即时流动性，并从现有产品中汲取经验，优化用户参与方式。
+- [Coinbase将上线AVNT、WLFI、SKY和CRO永续合约](https://x.com/CoinbaseMarkets/status/1967981879090716713) - 📰 null - 【Coinbase将上线AVNT、WLFI、SKY和CRO永续合约】金色财经报道，Coinbase将上线Avantis（AVNT）、World Liberty Financial（WLFI）、Sky（SKY）和Cronos（CRO）永续期货。
+- [美银调查：英镑成近十年最高估货币](https://flash.jin10.com/detail/20250916234157564800) - 📰 null - 【美银调查：英镑成近十年最高估货币】金色财经报道，美国银行9月全球基金经理调查显示，英镑被认为是近十年来估值最高的货币。调查结果显示，目前有12%的投资者（净比例）认为英镑被高估，而一个月前这一数据为净3%的投资者认为英镑被低估，估值预期出现显著反转。这意味着，英镑当前的高估程度已达到2015年12月以来的峰值。伦敦证券交易所集团（LSEG）的数据显示，截至本月（调查相关统计时段），英镑兑美元汇率已上涨约1%；今年以来，英镑兑美元累计涨幅更是达到9%。
+- [分析师：美联储若确认多次降息 金价或再攀高峰](https://flash.jin10.com/detail/20250916234055393800) - 📰 null - 【分析师：美联储若确认多次降息 金价或再攀高峰】金色财经报道，周二，受美元走弱及市场对美联储将实施降息的明确预期推动，黄金价格一度飙升突破每盎司3700美元，创下历史新高。经纪公司Exness策略师Eric Chia表示：“若美联储的政策指引未能达到市场对鸽派立场的预期，黄金短期内可能面临抛售压力。但只要美联储确认将进行多次降息，就会为金价涨势提供支撑，有望推动其再创历史新高。”此外，各国央行持续购金、黄金ETF（交易所交易基金）资金流入，以及地缘政治紧张局势加剧了市场对避险资产和抗通胀资产的需求，这些因素也共同支撑了此次金价上涨。
+- [YZi Labs晋升Alex Odagiu为投资合伙人](https://x.com/yzilabs/status/1967979797172326629) - 📰 null - 【YZi Labs晋升Alex Odagiu为投资合伙人】金色财经报道，据YZi Labs称，Alex Odagiu由投资总监晋升为投资合伙人，将进一步主导公司在代币、股权及战略投资领域的布局。自2021年加入以来，Alex参与推动了DeFi、稳定币、RWA等Web3投资，并主导多个重点项目。
+- [某新建地址两日内从OKX提取900枚BTC，价值逾1亿美元](https://x.com/OnchainLens/status/1967979878936191069) - 📰 null - 【某新建地址两日内从OKX提取900枚BTC，价值逾1亿美元】金色财经报道，据 OnchainLens 监测，某新创建地址在过去两日内累计从 OKX 提取 900.34 枚 BTC，价值约 1.0362 亿美元。
+- [LimeWire收购“Fyre Festival”品牌，计划于2026年以加密形式重启](https://x.com/CoinDesk/status/1967976570359886113) - 📰 null - 【LimeWire收购“Fyre Festival”品牌，计划于2026年以加密形式重启】金色财经报道，LimeWire 宣布已收购曾因争议出名的“Fyre Festival”品牌，计划在 2026 年推动该音乐节以加密驱动的形式重启。官方称，重启方案将整合 LMWR 代币，并为早期门票持有者提供 NFT 兑换机制，以实现票务权益。
+- [特朗普家族旗下比特币矿企ABTC今日已在纳斯达克敲钟上市]() - 📰 null - 【特朗普家族旗下比特币矿企ABTC今日已在纳斯达克敲钟上市】金色财经报道，特朗普家族旗下比特币矿企 American Bitcoin（ABTC）今日已在纳斯达克敲钟上市。
+- [现货黄金下破3680美元，日内涨幅几乎抹平]() - 📰 null - 【现货黄金下破3680美元，日内涨幅几乎抹平】金色财经报道，现货黄金失守3680美元/盎司，日内涨幅几乎抹平，此前一度站上3700美元/盎司。
+- [疑似GSR标记地址将148.9万枚ENA转入币安，价值104万美元](https://intel.arkm.com/explorer/address/0x651aF8E9FF216bd8F1624B3a584ff612710b5d92) - 📰 null - 【疑似GSR标记地址将148.9万枚ENA转入币安，价值104万美元】金色财经报道，据Arkham监测数据显示，大约八分钟前，疑似GSR Markets标记地址将148.9万枚ENA转入币安，价值104万美元。
+- [Strategy已将470亿美元固定收益和股权资本证券化为比特币](https://x.com/Strategy/status/1967973013485392293) - 📰 null - 【Strategy已将470亿美元固定收益和股权资本证券化为比特币】金色财经报道，Strategy公司作为"第一个且最大的比特币财库公司"，已成功将470亿美元的固定收益和股权资本证券化为比特币，巩固了其在比特币财库领域的领先地位。公司资本结构包括： 
+固定收益：已发行106亿美元债务（其中82亿美元本金尚未偿还）； 
+股权：已发行309亿美元股票，另有58亿美元优先股； 
+现金：资产负债表上有8.36亿美元超额现金投资。
