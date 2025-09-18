@@ -1,32 +1,23 @@
-- [加密沙皇David Sacks否认其作为特别政府雇员超过130天工作日上限的指控](https://x.com/Cointelegraph/status/1968555709206790416) - 📰 null - 【加密沙皇David Sacks否认其作为特别政府雇员超过130天工作日上限的指控】金色财经报道，据Cointelegraph披露，在参议员伊丽莎白·沃伦的审查下，加密货币与人工智能“沙皇”大卫·萨克斯（David Sacks）否认了他作为特别政府雇员（Special Government Employee,SGE）超过130天工作日上限的指控。他的发言人表示，萨克斯严格管理自己的SGE工作天数，以确保不超过规定上限。
-- [疑似朝鲜黑客数月前攻陷Coinbase印度外包公司，导致用户资产损失逾4亿美元](https://x.com/cryptobraveHQ/status/1968551830532854059) - 📰 null - 【疑似朝鲜黑客数月前攻陷Coinbase印度外包公司，导致用户资产损失逾4亿美元】金色财经报道，币安联合创始人赵长鹏于X平台发文提醒称，加密项目方需注意朝鲜黑客安全威胁。他表示，在几个月前，一家印度大型外包服务公司遭到黑客攻击，泄露了一家美国大型交易所的用户数据，导致用户资产损失超过4亿美元。 
-加密无畏引用此推文并表示，结合之前的报道和公开信息，这家美国大型交易所应该是Coinbase。 
-另据链上侦探Zachxbt披露，每年Coinbase用户因社交工程诈骗造成的损失高达3亿美元。
-- [Crypto Quant分析师：BTC期货交易价格高于现货，表明市场处于看涨状态](https://x.com/AxelAdlerJr/status/1968553138568286561) - 📰 null - 【Crypto Quant分析师：BTC期货交易价格高于现货，表明市场处于看涨状态】金色财经报道，Crypto Quant分析师Axel Adler Jr发推表示，BTC期货交易价格高于现货，基差持续为正，且7天基差高于30天基差，表明市场处于看涨状态。在FOMC会议召开前，市场出现了过热/背离信号，短期过热（基差上涨且成交量较小），表明市场走势已进入后期阶段。 
-未来两周的基本情况（~70%)：逐步上升趋势/横盘整理。如果未来几天出现一组绿色趋势确认信号（价格上涨+基差上涨+OI上涨），则表明有新的多头参与，并增加创下新高的可能性。
-- [美联储释放明确信号，Bolvin称将采取审慎降息举措]() - 📰 null - 【美联储释放明确信号，Bolvin称将采取审慎降息举措】金色财经报道，Bolvin财富管理集团总裁Gina Bolvin表示，美联储25个基点的降息释放了明确信号。她指出，劳动力市场疲软与顽固通胀已推动政策制定者采取行动，但步伐是渐进的。Bolvin强调这并非政策转向，而是审慎举措，未来通胀和就业数据将决定后续路径。（金十）
-- [Ripple CEO：有信心XRP将被纳入白宫的加密储备，XRPETF或于年底前获批](https://watcher.guru/news/ripple-ceo-hints-xrp-will-be-part-of-white-house-crypto-stockpile-etf) - 📰 null - 【Ripple CEO：有信心XRP将被纳入白宫的加密储备，XRPETF或于年底前获批】金色财经报道，据Watcher.guru报道，Ripple首席执行官Brad Garlinghouse在接受彭博社采访时表示，他有信心XRP将被纳入白宫的加密货币储备。 
-Garlinghouse还强调，美SEC可能会在年底前批准XRPETF。Garlinghouse表示，XRPETF的出现“不可避免”。 
-目前，SEC有超过11份XRP ETF待审申请，其中包括富兰克林邓普顿、Bitwise和Canary等公司的申请。SEC已将富兰克林邓普顿的申请推迟到今年11月。
-- [美联储2026年政策观点分化或加剧市场波动]() - 📰 null - 【美联储2026年政策观点分化或加剧市场波动】金色财经报道，富兰克林邓普顿投资组合经理Jack McIntyre表示，美联储对2026年的政策观点存在显著分歧，这可能意味着明年金融市场将出现更多波动。他指出，本次降息属于风险管理式操作，表明美联储正更加关注劳动力市场疲软。投资策略师Larry Hatheway认为，尽管市场已消化美联储大幅宽松的预期，但投资者面临的挑战在于，美联储尚未愿意认可市场预期的未来低利率路径。（金十）
-- [某巨鲸24小时内投入570万USDC购买10.16万枚HYPE代币](https://x.com/OnchainLens/status/1968549390274150488) - 📰 null - 【某巨鲸24小时内投入570万USDC购买10.16万枚HYPE代币】金色财经报道，据链上分析师OnchainLens（@OnchainLens）监测，某巨鲸进一步向HyperLiquid存入309万USDC购买54,225枚HYPE代币。 
-该巨鲸在过去24小时内总计花费570万USDC购买101,615枚HYPE代币，平均价格为56.19美元。
-- [澳大利亚监管机构放宽稳定币中介机构规则](https://decrypt.co/340096/australias-regulator-eases-rules-stablecoin-intermediaries) - 📰 null - 【澳大利亚监管机构放宽稳定币中介机构规则】金色财经报道，澳大利亚证券和投资委员会（ASIC）宣布，将给予稳定币中介机构监管豁免。根据新规定，如果这些中介机构分发由已获得澳大利亚牌照的提供商发行的加密货币，则无需单独持有金融服务牌照。一位专家对此评价称，监管机构的做法“务实”。 
-这项于周四宣布的、史无前例的“类别豁免”允许中介机构在分发由持有澳大利亚金融服务（AFS）牌照的发行商发行的稳定币时，无需单独申请AFS、市场或清算设施牌照。 
-ASIC在其声明中表示：“ASIC今天宣布了重要一步，旨在促进数字资产和支付行业的增长和创新。”
-- [某巨鲸过去2小时从币安提取1.52万枚ETH，价值7044万美元](https://x.com/lookonchain/status/1968543734452339039) - 📰 null - 【某巨鲸过去2小时从币安提取1.52万枚ETH，价值7044万美元】9月18日消息，据Lookonchain监测，某巨鲸在过去2小时内从币安提取了15,200枚ETH，价值70,440,000美元。
-- [USDC在以太坊链8月转账量达1.1万亿美元，创历史新高](https://x.com/Cointelegraph/status/1968540599952331040) - 📰 null - 【USDC在以太坊链8月转账量达1.1万亿美元，创历史新高】金色财经报道，据Cointelegraph披露，USDC在以太坊上的使用量创历史新高，8月的月度转账量达1.1万亿美元，转账笔数为1020万笔。
-- [印度证券交易委员会与印度储备银行在加密货币监管问题上存在分歧](https://financefeeds.com/sebi-and-rbi-diverge-on-crypto-regulation-in-india/) - 📰 null - 【印度证券交易委员会与印度储备银行在加密货币监管问题上存在分歧】金色财经报道，印度在如何处理加密货币的问题上，暴露出其两大金融监管机构之间日益扩大的分歧：印度证券交易委员会（SEBI）和印度储备银行（RBI）。SEBI 已经表示愿意监管加密交易的某些方面，而 RBI 则坚决反对赋予数字资产合法地位，理由是其可能对金融稳定构成风险。两者在立场上的分歧凸显了印度在全球加密货币快速普及之际，仍然对数字资产态度不明朗、不确定的现状。
-- [Wemade将于明年推出韩元稳定币专用主网](https://www.yna.co.kr/view/AKR20250918091500017?section=market-plus/cryptocurrency) - 📰 null - 【Wemade将于明年推出韩元稳定币专用主网】金色财经报道，韩国游戏公司Wemade将于明年第一季度正式推出用于韩元稳定币的专用主网。 
-据Wemade介绍，“Stable One”与以太坊100%兼容，即使是为其他稳定币打造的服务，只要基于以太坊，就可以无需额外修改便迁移到Stable One。 
-此外，该平台支持直接使用计划发行的稳定币支付交易手续费的“原生手续费”功能。
-- [巴林央行推出稳定币监管框架，拟允许法币抵押型稳定币](https://financefeeds.com/bahrain-introduces-comprehensive-stablecoin-oversight-framework/) - 📰 null - 【巴林央行推出稳定币监管框架，拟允许法币抵押型稳定币】9月18日消息，巴林央行（CBB）推出稳定币发行和发售（SIO）监管模块，成为海湾合作委员会（GCC）地区首个此类综合监管框架。 
-该框架仅允许法币抵押型稳定币，可锚定巴林第纳尔、美元或其他央行明确批准的法币，禁止算法型或商品抵押型稳定币。发行方需获得央行许可证，满足严格的审慎标准，包括在高质量流动性资产中维持储备金，并接受定期外部审计。监管范围涵盖整个生态系统，包括托管方、钱包提供商和支付服务商。框架与国际标准保持一致，特别强调反洗钱和反恐融资要求。
-- [贝莱德：美联储降息前景取决于劳动力市场疲软程度]() - 📰 null - 【贝莱德：美联储降息前景取决于劳动力市场疲软程度】金色财经报道，贝莱德投资研究所主管Jean Boivin表示，美联储的降息前景很可能取决于劳动力市场是否保持足够疲软。他指出，鲍威尔称美联储最新降息是出于对就业市场疲软迹象加剧的“风险管理”，这可能意味着未来的政策行动将高度依赖数据表现。Boivin认为，劳动力市场的进一步疲软将为美联储更多降息提供依据。（金十）
-- [贝莱德：美联储降息前景或将取决于劳动力市场持续疲软]() - 📰 null - 【贝莱德：美联储降息前景或将取决于劳动力市场持续疲软】金色财经报道，贝莱德投资研究所主管Jean Boivin表示，美联储的降息前景很可能取决于劳动力市场是否保持足够疲软。他指出，鲍威尔称美联储最新降息是出于对就业市场疲软迹象加剧的“风险管理”，这可能意味着未来的政策行动将高度依赖数据表现。Boivin认为，美联储在控制通胀和债务偿付成本方面可能面临压力——虽然这些压力正在消散，但若降息提振企业信心和招聘活动，通胀可能轻易复燃。在此背景下，劳动力市场的进一步疲软将为美联储更多降息提供依据。(金十)
-- [OKX上线空投赚币，首期活动可领BARD空投与赚币利息]() - 📰 null - 【OKX上线空投赚币，首期活动可领BARD空投与赚币利息】9月18日消息，据官方公告，OKX正式推出全新“空投赚币”产品，空投赚币是一款创新型赚币产品，支持用USDT 或 其他主流币申购，不仅可赚取基础币种收益，并获得额外新币空投。 
-据悉，首期活动已确定为 Lombard (BARD) 空投赚币。活动时间为 2025 年 9 月 18 日 19:00 至 9 月 21 日 19:00 (UTC+8)，用户可通过 USDT 或 BTC 进行申购，瓜分 640,000 BARD 奖励。奖池分为 USDT 与 BTC 两部分，各 320,000 BARD，两者的申购门槛低至 100 USDT 、以及 0.001 BTC，上限则分别为 10,000 USDT 与 1 BTC。OKX提醒用户，需完成身份认证方可参与，本次活动不适用于子账户和机构账户。
-- [Coinbase CEO：推动加密市场结构立法通过，确保不出现另一个Gary Gensler](https://x.com/brian_armstrong/status/1968480348960080083) - 📰 null - 【Coinbase CEO：推动加密市场结构立法通过，确保不出现另一个Gary Gensler】金色财经报道，Coinbase首席执行官Brain Armstrong在X平台发文表示，他正在华盛顿努力推动加密市场结构（MARKET STRUCTURE）立法的通过，该法案确保加密货币行业在美国蓬勃发展，推动创新，保护消费者权益，更重要的是确保加密行业不会再出现另一个Gary Gensler（注：美国证券交易委员会前主席，任内曾严厉打压加密行业）。Brain Armstrong透露，市场结构法案已经得到美国两党的大力支持，同时呼吁加密社区帮助完成这项工作。
-- [欧洲央行出售超过1.5亿欧元Worldline债券](https://x.com/financialjuice/status/1968526344947380595) - 📰 null - 【欧洲央行出售超过1.5亿欧元Worldline债券】金色财经报道，欧洲央行出售超过1.5亿欧元Worldline债券。（FT）
-- [野村证券：预计美国联储将在10月和12月各降息25个基点]() - 📰 null - 【野村证券：预计美国联储将在10月和12月各降息25个基点】金色财经报道，野村证券预计美国联储将在10月和12月各降息25个基点，此前预测为在12月降息；预计美联储将在2026年3月、6月和9月每次降息25个基点。（金十）
-- [Binance Alpha将于9月19日上线Ark of Panda（AOP）](https://x.com/BinanceWallet/status/1968525776225190271) - 📰 null - 【Binance Alpha将于9月19日上线Ark of Panda（AOP）】金色财经报道，据官方公告，Binance Alpha将于9月19日首发上线Ark of Panda（AOP）。符合条件的用户可在交易开启后，通过Alpha活动页面使用Binance Alpha积分领取空投。更多详情将随后公布。
+- [日本公司Remixpoint再增持77.15枚比特币，持有的比特币总量达到1350枚]() - 📰 null - 【日本公司Remixpoint再增持77.15枚比特币，持有的比特币总量达到1350枚】金色财经报道，据市场消息，日本公司Remixpoint再增持77.15枚比特币（BTC），使其持有的比特币总量达到1350枚。“Remixpoint” 是日本知名企业（业务涉及IT及加密货币投资。
+- [美国上周首次申领失业救济人数为23.1万人]() - 📰 null - 【美国上周首次申领失业救济人数为23.1万人】金色财经报道，美国上周首次申领失业救济人数为23.1万人，预估为24万，前值为26.3万。
+- [TWT短时拉升超8%]() - 📰 null - 【TWT短时拉升超8%】9月18日消息，据行情信息，TWT近1小时拉升超8%，现报价0.8796美元。此前消息，TrustWallet表示将通过独家TGE前空投和Trust Alpha提升TWT持有者收益。
+- [Trust Wallet：将通过独家TGE前空投和Trust Alpha提升TWT持有者收益](https://trustwallet.com/blog/announcements/trust-wallet-next-era-new-roadmap-and-renewed-vision-for-twt) - 📰 null - 【Trust Wallet：将通过独家TGE前空投和Trust Alpha提升TWT持有者收益】9月18日消息，TrustWallet更新其路线图，表示拟通过独家TGE前空投和TrustAlpha提升TWT持有者收益。公告称，到2030年，预计将有超过10亿人接入区块链。TrustWallet将陪伴未来十亿用户迈入链上经济。让加密货币不仅可用，更无缝衔接，新构建的路线图不仅止步于实用性，更致力于持续增长。 
+其中TWT位于核心位置。围绕它，三层层递进：日常金融、高级交易、盈利机会。每个阶段都相互强化，形成一个积极的反馈循环，使应用和实用性相互促进。具体而言：通过个性化的质押和借贷机会实现收益最大化，持有TWT并积极参与产品活动，有机会提升收益。持币者还可以通过参与核心功能获得专属TGE空投。通过TrustAlpha（Launchpool2.0），新项目可以利用我们的社区获得知名度——并有可能进入更广泛的Binance生态系统。
+- [《金融时报》：Eric Trump淡化家族加密货币相关业务所带来的经济收益](https://x.com/FT/status/1968647524794683458) - 📰 null - 【《金融时报》：Eric Trump淡化家族加密货币相关业务所带来的经济收益】金色财经报道，在接受英国《金融时报》（FT）采访时，埃里克·特朗普（Eric Trump）淡化了家族加密货币相关业务所带来的经济收益，并为今年早些时候推出MELANIA和TRUMP两种迷因币（memecoins）进行辩护，称其只是“图个乐子”。
+- [Mantra主网升级将原生EVM与CosmWasm整合](https://cointelegraph.com/news/rwa-friendly-l1-blockchain-adds-native-evm-and-cosmwasm-with-protocol-level-compliance) - 📰 null - 【Mantra主网升级将原生EVM与CosmWasm整合】金色财经报道，L1区块链Mantra已升级其主网，以原生运行以太坊虚拟机和CosmWasm，将MultiVM架构引入以RWA为中心的第1层，以便开发人员可以在针对标记化进行调整的链上使用熟悉的工具。此次升级在协议层面嵌入了特定要求，并得到了迪拜虚拟资产监管局(VARA)颁发的Mantra Finance虚拟资产服务提供商(VASP)许可证的支持。
+- [NBA球星凯文・杜兰特曾在Coinbase平台购买过比特币](https://x.com/Cointelegraph/status/1968646358157381842) - 📰 null - 【NBA球星凯文・杜兰特曾在Coinbase平台购买过比特币】金色财经报道，据市场消息，NBA 球星凯文・杜兰特（Kevin Durant）曾在 Coinbase 平台购买过比特币，却因忘记密码无法取出该资产。
+- [Circle CCTP V2 即将在 Stellar 上线](https://stellar.org/blog/foundation-news/circle-cctp-v2-is-coming-to-stellar) - 📰 null - 【Circle CCTP V2 即将在 Stellar 上线】9月18日消息，Stellar 宣布 Circle 跨链传输协议 CCTP V2 即将上线，此次升级将增强 Stellar 生态系统中 USDC 的转账功能，目前 Stellar 生态系统已支持原生发行的 USDC。
+- [Robinhood US将上线CRV]() - 📰 null - 【Robinhood US将上线CRV】金色财经报道，据市场消息：Robinhood US 将上线 CRV。
+- [白宫经济顾问哈塞特拒谈美联储主席提名何时公布]() - 📰 null - 【白宫经济顾问哈塞特拒谈美联储主席提名何时公布】金色财经报道，白宫经济顾问哈塞特拒谈美联储主席提名何时公布。
+- [DeFi Technologies 子公司推出实物支持的 BTC 质押 ETP](https://www.globenewswire.com/news-release/2025/09/18/3152314/0/en/DeFi-Technologies-Subsidiary-Valour-Digital-Securities-Limited-Launches-the-First-Bitcoin-Staking-ETP-on-the-London-Stock-Exchange.html) - 📰 null - 【DeFi Technologies 子公司推出实物支持的 BTC 质押 ETP】金色财经报道，纳斯达克上市的 DeFi Technologies 旗下子公司 Valour Digital Securities Limited 宣布在伦敦证券交易所推出实物支持的比特币质押交易所交易产品 “1 Valour Bitcoin Physical Staking”，为投资者提供独特的比特币质押收益敞口，据悉该产品以 1:1 的比例支持实物比特币。
+- [黄仁勋：英伟达AI和英特尔CPU紧密结合在一起]() - 📰 null - 【黄仁勋：英伟达AI和英特尔CPU紧密结合在一起】金色财经报道，英伟达将向英特尔注资50亿美元，作为两家科技巨头合作开发定制数据中心和个人计算产品的一部分。英特尔将打造英伟达定制的x86 CPU，英伟达将把这些CPU集成到其人工智能基础设施平台中，英特尔还将打造一个芯片系统，用于为个人电脑提供动力的英伟达小芯片。英伟达首席执行官黄仁勋表示：“这项历史性的合作将英伟达的人工智能和加速计算堆栈与英特尔的CPU和庞大的x86生态系统紧密结合在一起。”(金十)
+- [Caliber 已斥资 650 万美元购买 LINK 代币](https://www.globenewswire.com/news-release/2025/09/18/3152317/0/en/Caliber-Purchases-6-5-Million-in-Chainlink-LINK-Tokens-Aligning-Treasury-With-Chainlink-Reserve.html) - 📰 null - 【Caliber 已斥资 650 万美元购买 LINK 代币】金色财经报道，纳斯达克上市公司 Caliber 宣布已斥资 650 万美元购买 LINK 代币，作为其数字资产财库（DAT）战略的一部分，总计购买 278,011 枚 LINK 代币，购买均价为 23.38 美元，该公司先持有的 LINK 代币总价值达到 670 万美元。
+- [白宫经济顾问：美联储降息是朝着大幅降息的正确方向]() - 📰 null - 【白宫经济顾问：美联储降息是朝着大幅降息的正确方向】金色财经报道，白宫经济顾问哈塞特表示，美联储降息是朝着大幅降息的正确方向，过去三个月的通胀情况比此前所见的更为严重。
+- [稳定币协议STBL：将基于富兰克林邓普顿的BENJI代币铸造1亿枚稳定币USST](https://www.coindesk.com/business/2025/09/18/tether-tokenization-pioneers-unveil-startup-focused-on-genius-aligned-digital-dollars) - 📰 null - 【稳定币协议STBL：将基于富兰克林邓普顿的BENJI代币铸造1亿枚稳定币USST】金色财经报道，稳定币协议STBL首席执行官Avtar Sehra宣布，协议下一步的目标包括使用富兰克林邓普顿的BENJI代币铸造1亿枚稳定币USST，并宣布与包括一家美国支付公司在内的多家公司建立合作伙伴关系。该协议预计将于第四季度向公众开放。
+- [分析：比特币在11.7万美元价位附近形成一个关键阻力区](https://x.com/glassnode/status/1968630296661598560) - 📰 null - 【分析：比特币在11.7万美元价位附近形成一个关键阻力区】金色财经报道，据glassnode发布图表称，比特币（Bitcoin）的 CBD 热力图显示，其供应量在 11.7 万美元价位附近高度集中，形成一个关键阻力区。突破该价位可能会为后续向上触及流动性更稀薄的区域扫清障碍，而若突破失败，则可能面临盘整周期延长或价格回落的风险。
+- [欧洲央行管委：稳定币的大规模扩张可能加强美元]() - 📰 null - 【欧洲央行管委：稳定币的大规模扩张可能加强美元】金色财经报道，欧洲央行管委艾斯克里瓦：稳定币的大规模扩张可能加强美元。
+- [Aave V4计划于Q4发布，将引入ERC-4626标准进行资产核算](https://governance.aave.com/t/aave-v4-development-update/23043) - 📰 null - 【Aave V4计划于Q4发布，将引入ERC-4626标准进行资产核算】9月18日消息，据官方公告，Aave 发布路线图更新，表示 V4 将于今年第四季度发布。 
+V4 将引入 ERC-4626 标准进行资产核算，并推出模块化的 Hub‑and‑Spoke 框架，以实现控制复杂性的同时最大限度地提高利用率。 
+据悉，ERC-4626 是一种代币标准，它改进了收益型保险库的技术参数。它为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。
+- [Bitcoin Treasury Corporation在美国场外证券交易市场OTC Markets上市](https://www.globenewswire.com/news-release/2025/09/18/3152269/0/en/OTC-Markets-Group-Welcomes-Bitcoin-Treasury-Corporation-to-OTCQX.html) - 📰 null - 【Bitcoin Treasury Corporation在美国场外证券交易市场OTC Markets上市】金色财经报道，总部位于加拿大的比特币财库公司Bitcoin Treasury Corporation宣布，该公司已在受监管的美国场外证券交易市场OTC Markets上市，股票代码为“BTCFF”，美国投资者现在可以查看财务披露信息和实时二级报价。
+- [100个比特币在沉睡了12年后发生了转移]() - 📰 null - 【100个比特币在沉睡了12年后发生了转移】金色财经报道，据Maartun发布图表称，100个比特币在沉睡了12年后发生了转移。
