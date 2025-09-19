@@ -1,46 +1,30 @@
-- [Solana联创：比特币社区须尽快采取行动，以在2030年前应对量子计算威胁](https://cointelegraph.com/news/bitcoin-quantum-computing-breakthrough-2030-prediction-solana-founder) - 📰 null - 【Solana联创：比特币社区须尽快采取行动，以在2030年前应对量子计算威胁】金色财经报道，Solana联合创始人Anatoly Yakovenko敦促比特币社区加快采取行动，以防范量子攻击。他认为，量子计算领域的重大突破可能比预期来得更早。 
-在周五发布到YouTube的2025年All-In峰会上，Yakovenko表示：“我感觉在五年内，量子计算有50%的可能会取得突破。”他补充道：“我们应该将比特币迁移到一种抗量子签名的方案上。” 
-Yakovenko的预测是基于多种技术正在融合，以及人工智能从研究论文到实际应用加速发展的惊人速度。他表示：“这非常惊人，我将鼓励大家加快行动。”
-- [币安：JOJO独家TGE活动参与门槛为210Alpha积分](https://x.com/binancezh/status/1968616110145831420) - 📰 null - 【币安：JOJO独家TGE活动参与门槛为210Alpha积分】据官方公告，币安Alpha积分大于等于210的用户，可通过Alpha活动页面参与JOJOTGE活动。参与该活动将消耗15积分。
-- [SunCar科技集团宣布计划投资至多1000万美元于现实世界资产加密货币](https://www.businesswire.com/news/home/20250918963730/en/SunCar-Announces-Its-Plans-to-Invest-up-to-%2410-Million-in-Several-Leading-Real-World-Asset-RWA-Cryptocurrencies) - 📰 null - 【SunCar科技集团宣布计划投资至多1000万美元于现实世界资产加密货币】金色财经报道，SunCar科技集团有限公司（纳斯达克股票代码：SDA）宣布，其董事会已授权公司投资至多1000万美元于精选的主流加密货币，这些加密货币预计将受益于现实世界资产（RWA）代币化的快速发展。根据Ripple与波士顿咨询集团2025年4月发布的报告，到2033年，RWA市场规模有望从2025年年中的约250亿美元增长至19万亿美元。 
-成立于2007年的SunCar正在重塑中国汽车保险和服务的客户体验。SunCar开发并运营基于云的数字化平台，通过全国性的销售伙伴网络，将车主与各类汽车服务和保险保障选项无缝连接。由此，SunCar已在中国汽车电动汽车电子保险市场以及B2B汽车服务市场确立了行业领先地位。
-- [火币HTX将于今日15时首发上线ASTER (Aster)]() - 📰 null - 【火币HTX将于今日15时首发上线ASTER (Aster)】9月19日消息，据火币HTX公告显示，火币HTX将于9月19日14:00 (GMT+8) 开放ASTER的充币业务。ASTER/USDT现货交易将于9月19日15:00 (GMT+8) 开放。ASTER的提币业务将于9月20日15:00 (GMT+8) 开放。 
-据悉，Aster 是新一代去中心化交易所，提供永续合约和现货交易，为全球加密交易者打造一站式的链上交易平台。其简易模式（Simple Mode） 中支持无MEV干扰的一键执行，而专业模式（Pro Mode）则增加了7×24小时股票永续合约、隐藏挂单和网格交易功能，并支持在 BNB Chain、Ethereum、Solana 和 Arbitrum 上使用。
-- [Bithumb上线Kamino Finance(KMNO)韩元现货交易对]() - 📰 null - 【Bithumb上线Kamino Finance(KMNO)韩元现货交易对】9月19日消息，据官方公告，Bithumb上线Kamino Finance(KMNO)韩元现货交易对。
-- [4E：Eric Trump称加密将“拯救美元”，多国加紧稳定币监管]() - 📰 null - 【4E：Eric Trump称加密将“拯救美元”，多国加紧稳定币监管】9月19日消息，据4E观察，特朗普之子Eric Trump日前表示，加密货币有望通过吸引全球资本流入美国数字资产市场，间接支撑美元地位。他强调，一个对数字资产友好的美国将成为全球资本避风港，从而提升美元资产需求。 
-Coinbase CEO Brian Armstrong同样释放积极信号，他指出，加密市场结构相关立法在两党支持下“很有可能得以推进落实”，为行业带来更明确的规则框架。 
-在监管层面，香港会计师公会预计将于 2026 年上半年推出虚拟资产会计和审计指引，以支持本地创科及数字资产生态。彭博分析师Eric Balchunas 则预计，若通用上市标准落地，未来12个月内或将出现超100只加密ETF上市。 
-与此同时，加拿大央行呼吁建立稳定币监管框架，强调需提升支付系统安全与竞争力，避免落后于其他司法辖区；澳大利亚则放宽中介分销监管，允许其分销持牌机构发行的稳定币而无需额外牌照，被视为稳定币监管改革前的过渡安排。 
-4E提醒投资者：美元、监管与稳定币的叙事正交织推进，加密市场的政策预期持续改善。但在各国规则落地之前，市场仍处在政策试点与过渡阶段，建议投资者关注跨境监管差异和政策落地节奏。
-- [分析师：日本央行资产出售计划预示10月加息在即]() - 📰 null - 【分析师：日本央行资产出售计划预示10月加息在即】金色财经报道，分析师表示，在日本央行出人意料地释放鹰派信号后，日元对G10货币及亚洲货币普遍走强。StoneX高级市场分析师Matt Simpson指出，尽管央行如预期维持利率不变，但宣布开始缩减超大规模的ETF和REIT持仓。 
-“这标志着正式摆脱安倍经济学时代超宽松政策的重要象征性一步，”他表示，“关键要点在于日本央行已正式开始缩减非常规资产持有规模。”Simpson补充称，这也可能是央行10月加息的先兆。(金十)
-- [币安：River BuildKey TGE第一阶段参与门槛为209 Alpha积分](https://x.com/binancezh/status/1968910581441687636) - 📰 null - 【币安：River BuildKey TGE第一阶段参与门槛为209 Alpha积分】金色财经报道，据官方公告，要参与River的BuildKey TGE，用户必须满足以下Binance Alpha Points要求： 
-第一阶段（BuildKey充值）：需要至少209个Alpha 积分。参与第一阶段将扣除15个积分。 
-第二阶段（BuildKey交易）：需要至少61点Alpha积分。参与第二阶段不会扣除Alpha积分。 
-参与第二阶段不会扣除Alpha积分。 
-时间安排： 
-BuildKey认购时间：2025年9月19日15:00–17:00（UTC+8）； 
-BuildKey交易时间：2025年9月19日17:00–2025年9月22日17:00（UTC+8）； 
-TGE&BuildKey兑换时间：2025年9月22日17:00（UTC+8）。
-- [币安CEO：在加密领域学得越多，对波动性的恐惧就越少](https://x.com/_RichardTeng/status/1968903434796474862) - 📰 null - 【币安CEO：在加密领域学得越多，对波动性的恐惧就越少】金色财经报道，币安首席执行官Richard Teng发推表示，最好的alpha？是教育。在加密领域，你学得越多，你对波动性的恐惧就越少。
-- [现货黄金向上触及3660美元/盎司，日内涨0.43%]() - 📰 null - 【现货黄金向上触及3660美元/盎司，日内涨0.43%】金色财经报道，现货黄金向上触及3660美元/盎司，日内涨0.43%。（金十）
-- [过去90天pump.funApp日活用户涨超450%]() - 📰 null - 【过去90天pump.funApp日活用户涨超450%】9月19日消息，据官方数据显示，过去90天内pump.funApp的日活用户上涨超450%。
-- [TWT短时突破1.3美元，24小时涨幅达47.36%]() - 📰 null - 【TWT短时突破1.3美元，24小时涨幅达47.36%】金色财经报道，行情显示，TWT短时突破1.3美元，现报价1.17美元，24小时涨幅达47.36%，行情波动较大，请做好风险控制。 
-此前消息，CZ评价Trust Wallet更新路线图称，“TWT代币正在扩张用例。”
-- [Binance推出Solayer(LAYER)第四轮HODLer空投]() - 📰 null - 【Binance推出Solayer(LAYER)第四轮HODLer空投】金色财经报道，据官方公告，Binance现将推出作为18,000,000 LAYER空投计划一部分的第四轮HODLer空投。6,000,000枚LAYER将在本次第四轮HODLer空投中发放；符合资格的用户：2025年09月12日08:00至2025年09月15日07:59（东八区时间）期间，使用BNB申购保本赚币(定期和/或活期)或链上赚币产品的用户，将获得空投分配。空投发放时间：将在本公告发布后24小时内完成分发。
-- [日本央行维持利率不变]() - 📰 null - 【日本央行维持利率不变】金色财经报道，日本央行维持基准利率在0.5%不变，为连续第五次会议按兵不动，符合市场预期。(金十)
-- [Binance上线 Solayer (LAYER) 空投活动](https://www.binance.com/zh-CN/support/announcement/detail/2367baa4db2241f796eabd455c13ca0f) - 📰 null - 【Binance上线 Solayer (LAYER) 空投活动】金色财经报道，Binance于2025年9月19日上线Solayer(LAYER)空投活动，符合资格的用户需在2025年9月12日08:00至9月15日07:59期间使用BNB申购保本赚币产品。此次空投将发放6,000,000LAYER，空投奖励将在公告发布后24小时内完成分发。
-- [金色午报 | 9月19日午间重要动态一览]() - 📰 null - 【金色午报 | 9月19日午间重要动态一览】7:00-12:00关键词：Kalshi、HB 4087、OpenVPP 
-1.灰度数字大盘基金将于周五开始交易； 
-2.数据：Kalshi预测市场月交易额突破10亿美元； 
-3.美国议员就波场在纳斯达克上市向SEC提出质疑； 
-4.密歇根州比特币储备法案 HB 4087 推进至众议院二读； 
-5.The ETF Store总裁：首只基于指数的现货加密货币ETF或将于明天上线； 
-6.Bubblemaps：OpenVPP代币存在严重操纵行为，80%供应量被集中控制； 
-7.美参议员Warren及多位国会同僚要求披露特朗普政府与币安会面的相关信息； 
-8.Upbit将上线Ether.fi(ETHFI)、Resolv(RESOLV)、Initia(INIT)、Spark(SPK)的BTC和USDT交易对。
-- [Sky社区启动“MKR升级至SKY延迟升级罚金”提案投票](https://x.com/SkyEcosystem/status/1968764056191619291) - 📰 null - 【Sky社区启动“MKR升级至SKY延迟升级罚金”提案投票】9月19日消息，据官方公告，针对MKR升级至SKY实施延迟升级罚金的投票已正式启动。如果投票通过，从2025年9月22日开始，所有MKR升级至SKY的操作将适用1%的升级罚金。此后，延迟升级罚金将以每三个月增加1个百分点的速度逐步提高。
-- [BTC跌破117000美元]() - 📰 null - 【BTC跌破117000美元】金色财经报道，行情显示，BTC跌破117000美元，现报116987.83美元，24小时跌幅达到0.59%，行情波动较大，请做好风险控制。
-- [密歇根州比特币储备法案 HB 4087 推进至众议院二读](https://x.com/Cointelegraph/status/1968880328451248373) - 📰 null - 【密歇根州比特币储备法案 HB 4087 推进至众议院二读】金色财经报道，密歇根州比特币储备法案 HB 4087 自 2 月以来首次取得进展，进入众议院二读并提交政府运营委员会。 
-该法案允许最多 10% 的国家资金投资于加密货币。
-- [高盛：不再预计英国央行将在2025年降息]() - 📰 null - 【高盛：不再预计英国央行将在2025年降息】金色财经报道，高盛：不再预计英国央行将在2025年降息，此前预测为11月降息。(金十)
+- [华沙证券交易所已推出波兰首只比特币ETF](https://x.com/BitcoinNewsCom/status/1969015617580839181) - 📰 null - 【华沙证券交易所已推出波兰首只比特币ETF】金色财经报道，据市场消息，华沙证券交易所（The Warsaw Stock Exchange）已推出波兰首只比特币ETF。
+- [Grayscale CoinDesk Crypto 5 ETF（股票代码：GDLC）在纽交所 Arca 上市交易](https://www.globenewswire.com/news-release/2025/09/19/3153116/0/en/Grayscale-CoinDesk-Crypto-5-ETF-Ticker-GDLC-Begins-Trading-on-NYSE-Arca.html) - 📰 null - 【Grayscale CoinDesk Crypto 5 ETF（股票代码：GDLC）在纽交所 Arca 上市交易】金色财经报道，数字资产投资平台灰度宣布，Grayscale CoinDesk Crypto 5 ETF（股票代码：GDLC）（前身为Grayscale Digital Large Cap Fund）已作为多资产ETP在纽约证券交易所Arca上市交易，这是美国首个此类产品。 
+GDLC 是首个多资产加密货币 ETP，提供对五大市值最高、流动性最强的加密货币的投资机会——比特币（权重占比72.09%）、以太坊（权重占比17.08%）、瑞波币（权重占比5.67%）、Solana（权重占比4.12%）和ADA（权重占比1.04%）。它为投资者提供广泛的数字资产市场投资渠道，同时将战略重点放在市值和流动性最成熟的五大资产上。该基金每季度进行一次调整，以保持与加密货币市场领先资产的一致性，并追踪由领先的加密货币指数提供商 CoinDesk Indices 开发的 CoinDesk 5 指数。
+- [以太坊生态稳定币供应量达1660亿美元，创历史新高]() - 📰 null - 【以太坊生态稳定币供应量达1660亿美元，创历史新高】金色财经报道，据unfolded.发布图表称，以太坊生态稳定币供应量达1660亿美元，创历史新高，进一步巩固其作为去中心化金融（DeFi）结算基础的地位。
+- [欧盟委员会主席：限制性措施将打击加密货币平台]() - 📰 null - 【欧盟委员会主席：限制性措施将打击加密货币平台】金色财经报道，欧盟委员会主席冯德莱恩表示，欧盟加大针对制裁规避行为的打击力度，限制性措施将打击加密货币平台。
+- [FG NEXUS 增持 1,087 枚 ETH，总持仓量升至 49,715 枚](https://www.globenewswire.com/news-release/2025/09/19/3153099/0/en/FG-NEXUS-ACCELERATES-TOTAL-ETH-HOLDINGS-TO-49-715.html) - 📰 null - 【FG NEXUS 增持 1,087 枚 ETH，总持仓量升至 49,715 枚】金色财经报道，纳斯达克上市公司 FG NEXUS 宣布已经以平均价格 4,598 美元增持 1,087 枚 ETH，总持仓量增至 49,715 枚，总价值约为 2.29 亿美元。
+- [哈佛大学持有的比特币ETF规模，超过其持有的谷歌股票规模](https://x.com/BitcoinMagazine/status/1969002798567068063) - 📰 null - 【哈佛大学持有的比特币ETF规模，超过其持有的谷歌股票规模】金色财经报道，据BitcoinMagazine消息，哈佛大学持有的比特币ETF规模，超过其持有的谷歌（Google）股票规模。
+- [布拉德：放弃2%的通胀目标将是愚蠢的]() - 📰 null - 【布拉德：放弃2%的通胀目标将是愚蠢的】金色财经报道，前美联储官员布拉德表示，放弃 2% 的通胀目标将是愚蠢的。
+- [比特币财库公司Treasury增持111枚BTC，总持仓量达到1111枚](https://x.com/BitcoinForCorps/status/1968998559291683309) - 📰 null - 【比特币财库公司Treasury增持111枚BTC，总持仓量达到1111枚】金色财经报道，比特币财库公司Treasury宣布增持111枚BTC，总持仓量达到1111枚比特币，该公司由 Winklevoss Capital 和 Nakamoto 支持，目前在全球比特币财库公司持仓量排名中位列第43位。
+- [本周（团队、创始人、私募投资者）代币解锁金额超2.422亿美元](https://x.com/Tokenomist_ai/status/1968995922815386093) - 📰 null - 【本周（团队、创始人、私募投资者）代币解锁金额超2.422亿美元】金色财经报道，据Tokenomist发布图表，9月15日 - 21日本周（团队、创始人、私募投资者）代币解锁金额超2.422亿美元； 
+解锁代币一览： 
+ALT（占比2.38%）——349万美元 
+BLAST （占比 1.90%）——231 万美元 
+AVAIL （占比2.88%）——157万美元 
+VENOM （占比 0.50%）——158 万美元 
+PARTI （占比 2.91%）——122 万美元
+- [WLFI通过100%手续费回购销毁提案](https://vote.worldlibertyfinancial.com/#/proposal/0x21cb61f1d9256335e656d2a63d8ac0ceddb1313ad490c95b713bbef9e313fda2) - 📰 null - 【WLFI通过100%手续费回购销毁提案】9月19日消息，特朗普家族支持的加密项目World Liberty Financial（WLFI）已通过提案，将协议自有流动性产生的全部手续费用于WLFI代币的市场回购并永久销毁。投票结果显示，99.84%的投票支持该提案。
+- [Polymarket上美联储10月降息25个基点概率升至86%]() - 📰 null - 【Polymarket上美联储10月降息25个基点概率升至86%】金色财经报道，Polymarket上“美联储 10 月决议？”降息25个基点概率升至86%。
+- [OKX推出「SOL套利质押」限时活动](https://www.okx.com/zh-hans/campaigns/smartarbitrage-onchain?pagesourcefrom=medianews) - 📰 null - 【OKX推出「SOL套利质押」限时活动】据官方公告，OKX上线「SOL套利质押」限时福利活动。在2025年9月18日16:00（UTC+8）至2025年10月15日23:59（UTC+8）期间，用户即刻创建SOL智能套利策略并参与质押，即可参与瓜分 300,000 Layer币奖池。活动采用五档梯度奖励机制，投入越多，奖励越高，年化收益最高可达15%。
+- [美联储卡什卡利：今年再降息两次是合适的]() - 📰 null - 【美联储卡什卡利：今年再降息两次是合适的】金色财经报道，美联储卡什卡利：今年再降息两次是合适的。
+- [币安合约将上线 ASTERUSDT 和 TRADOORUSDT U 本位永续合约]() - 📰 null - 【币安合约将上线 ASTERUSDT 和 TRADOORUSDT U 本位永续合约】金色财经报道，币安合约平台将于 2025 年 9 月 19 日 20:00 上线 ASTERUSDT 永续合约，最高杠杆可达 50 倍；同日 20:30 上线 TRADOORUSDT 永续合约，最高杠杆可达 50 倍。用户可留意后续公告以获取更多信息。
+- [500枚比特币已从OKEX转移至未知钱包地址](https://x.com/whale_alert/status/1968985894372720979) - 📰 null - 【500枚比特币已从OKEX转移至未知钱包地址】金色财经报道，据Whale Alert监测，500枚比特币（价值 5826.0015 万美元）已从 OKEX 平台转移至未知钱包地址。
+- [Kraken宣布推出Kraken Launch](https://x.com/krakenfx/status/1968684838472253949) - 📰 null - 【Kraken宣布推出Kraken Launch】金色财经报道，据官方公告，Kraken宣布与LEGION合作推出Kraken Launch。 
+Kraken Launch一个专注于独家代币销售的全新平台，公平准入，透明披露，并有 Kraken 14 年的信任背书作为支撑。
+- [Binance Wallet首期BuildKey TGE项目RIVER已开放盘前交易，2小时超额认购993倍]() - 📰 null - 【Binance Wallet首期BuildKey TGE项目RIVER已开放盘前交易，2小时超额认购993倍】9月19日，据官方消息，Binance Wallet 首期 BuildKey TGE 项目 RIVER 已开放盘前交易，2 小时超额认购 993 倍，总计 1 亿美元 BNB 存入；认购收益率达约 800%。Binance Wallet 于 9 月 19 日正式上线的首期 BuildKey TGE 项目$RIVER，累计获得 1 亿美元 BNB 存入，最终以 993 倍超额完成认购，共吸引 3.3 万个地址参与。 
+$RIVER BuildKey 在 Aspecta 平台开放交易后，7 分钟内从$0.011 上涨至$0.09，涨幅约达 800%。9 月 22 日代币生成（TGE）前，用户可随时在盘前市场交易已持有的 BuildKey，并可在 TGE 后的任意时间将 BuildKey 按特定比例兑换为 RIVER 代币。
+- [币安已经完成Alpha APX（APX）代币与ASTER DEX（ASTER）的代币置换](https://x.com/BinanceWallet/status/1968982312705556960) - 📰 null - 【币安已经完成Alpha APX（APX）代币与ASTER DEX（ASTER）的代币置换】金色财经报道，据官方公告，币安已经完成了Alpha APX（APX）代币与ASTER DEX（ASTER）的代币置换。置换比例为1 APX = 1 ASTER。 
+Alpha交易已于2025年9月19日08:00（UTC）对ASTER开放。
+- [欧元集团主席多诺霍：数字欧元是欧洲未来的重要组成部分]() - 📰 null - 【欧元集团主席多诺霍：数字欧元是欧洲未来的重要组成部分】金色财经报道，欧元集团主席多诺霍：数字欧元是欧洲未来的重要组成部分。
+- [某沉寂三年的巨鲸以每枚4,544美元的价格出售2,086枚ETH](https://x.com/OnchainLens/status/1968971761258737804) - 📰 null - 【某沉寂三年的巨鲸以每枚4,544美元的价格出售2,086枚ETH】金色财经报道，据链上分析师 Onchain Lens 监测，一个沉寂3年的以太坊钱包今日重新活跃，以每枚4,544美元的价格出售2,086枚ETH，共计获得948万美元的稳定币（包括DAI、USDC和RLUSDC）。该钱包目前仍持有2,779枚ETH，价值约1,260万美元。
