@@ -1,26 +1,29 @@
-- [加密货币短线崩盘后反弹，缺乏明显催化剂]() - 📰 null - 【加密货币短线崩盘后反弹，缺乏明显催化剂】金色财经报道，机构评估加密货币走势显示，从北京时间9月22日13:59开始，比特币面临沉重的抛售压力，短时间内下跌超过2%，以太坊下跌5%。其他加密货币也受到影响，Solana在3分钟内下跌7%。尽管比特币跌至111,900的关键水平，但随后价格反弹，因逢低买入的买家重新涌入。（金十）
-- [Capital B增持551枚比特币，总持有量升至2800枚](https://x.com/_ALCPB/status/1970007091143221377) - 📰 null - 【Capital B增持551枚比特币，总持有量升至2800枚】金色财经报道，据官方公告，法国上市公司Capital B增持551枚比特币，总持有量升至2800枚。
-- [加密货币总市值跌破4万亿美元]() - 📰 null - 【加密货币总市值跌破4万亿美元】金色财经报道，据CoinGecko数据，加密货币总市值跌破4万亿美元，现报3.992万亿美元，24小时跌幅4.0%。其中，BTC市占率为56.4%，ETH市占率为12.5%。
-- [币安：RIVER TGE兑换将于今晚17:00开启](https://x.com/binancezh/status/1970008164969193708) - 📰 null - 【币安：RIVER TGE兑换将于今晚17:00开启】金色财经报道，据官方公告，币安表示，RIVER TGE兑换将于今晚17:00开启。 
-BuildKey持有者可：兑换为RIVER代币；按当前价格卖回流动池。同时，兑换的RIVER将可在币安Alpha转账与交易。
-- [The Smarter Web Company宣布已完成3,826,799股普通股配售](https://x.com/smarterwebuk/status/1970005474863989232) - 📰 null - 【The Smarter Web Company宣布已完成3,826,799股普通股配售】金色财经报道，总部位于伦敦的上市科技公司The Smarter Web Company宣布，根据2025年6月19日及2025年9月4日公布的认购协议（“认购股份”），已完成3,826,799股普通股的配售。 
-此次认购股份配售的总募资额为4,956,905英镑（扣除费用前），折合每股约1.30英镑，公司将在本周初收到约97%的认购款项结算。 
-截至目前，2025年6月19日公布的认购协议项下的全部普通股已完成配售，而2025年9月4日公布的认购协议项下尚未完成配售的普通股余额为17,722,000股。
-- [过去1小时爆仓超10.26亿美元，主爆多单]() - 📰 null - 【过去1小时爆仓超10.26亿美元，主爆多单】金色财经报道，数据显示，过去1小时，全网爆仓金额达到10.26亿美元，其中多单爆仓金额约为10.07亿美元，空单爆仓金额约为1936.99万美元。
-- [BTC跌破113000美元]() - 📰 null - 【BTC跌破113000美元】金色财经报道，行情显示，BTC跌破113000美元，现报112985.01美元，24小时跌幅达到2.33%，行情波动较大，请做好风险控制。
-- [ETH跌破4100美元]() - 📰 null - 【ETH跌破4100美元】金色财经报道，行情显示，ETH跌破4100美元，现报4097.01美元，24小时跌幅达到8.54%，行情波动较大，请做好风险控制。
-- [BNB跌破1000美元]() - 📰 null - 【BNB跌破1000美元】金色财经报道，行情显示，BNB跌破1000美元，现报999.9美元，24小时跌幅达到6.4%，行情波动较大，请做好风险控制。
-- [SOL跌破220美元]() - 📰 null - 【SOL跌破220美元】金色财经报道，行情显示，SOL跌破220美元，现报219.86美元，24小时跌幅达到8.54%，行情波动较大，请做好风险控制。
-- [BTC跌破113500美元]() - 📰 null - 【BTC跌破113500美元】金色财经报道，行情显示，BTC跌破113500美元，现报113463.84美元，24小时跌幅达到1.88%，行情波动较大，请做好风险控制。
-- [ETH跌破4200美元]() - 📰 null - 【ETH跌破4200美元】金色财经报道，行情显示，ETH跌破4200美元，现报4190美元，24小时跌幅达到6.42%，行情波动较大，请做好风险控制。
-- [UNI跌破8.5美元]() - 📰 null - 【UNI跌破8.5美元】金色财经报道，行情显示，UNI跌破8.5美元，现报8.48美元，24小时跌幅达到7.83%，行情波动较大，请做好风险控制。
-- [Aria 通过 Story Protocol 推出 1 亿美元韩国音乐 IP 代币化项目]() - 📰 null - 【Aria 通过 Story Protocol 推出 1 亿美元韩国音乐 IP 代币化项目】金色财经报道，Aria 通过 Story Protocol 推出 Aria PRIME，将价值 1 亿美元的韩国音乐版权目录进行代币化，把文化知识产权引入机构投资市场。 
-Aria 于 9 月 22 日宣布这一消息，并推出其面向机构的高价值知识产权管理和投资平台 Aria PRIME。此次与 Story Protocol 和 Contents Technologies 合作的上线，将使投资者能够以代币化形式接触音乐版权，这些版权占据了韩国全球音乐发行市场的一半以上。
-- [BTC跌破114000美元]() - 📰 null - 【BTC跌破114000美元】金色财经报道，行情显示，BTC跌破114000美元，现报113969.99美元，24小时跌幅达到1.43%，行情波动较大，请做好风险控制。
-- [数据：币安储备资产规模达1,430亿美元](https://x.com/CryptoOnchain/status/1970002194188456351) - 📰 null - 【数据：币安储备资产规模达1,430亿美元】金色财经报道，CryptoQuant分析师CryptoOnchain表示，币安储备资产规模达1,430亿美元，拉大了与Coinbase（970亿美元）和其他竞争对手的差距。 
-币安市场份额：34%（高于2024年10月的27%） 
-转折点：2024年11月
-- [产业链人士证实：目前OpenAI已就相关项目与国内供应链展开合作]() - 📰 null - 【产业链人士证实：目前OpenAI已就相关项目与国内供应链展开合作】金色财经报道，日前，有消息称OpenAI已与立讯精密等企业签署协议，共同打造一款消费级设备，立讯精密已获得至少一款设备的组装合同。对此传闻，立讯精密方面未予正面回应。不过有产业链人士向财联社记者证实，目前OpenAI已就具体项目与国内供应链展开合作。
-- [Arthur Hayes：选择抛售HYPE因其即将面临重大解锁压力](https://x.com/CryptoHayes/status/1969995647073059271) - 📰 null - 【Arthur Hayes：选择抛售HYPE因其即将面临重大解锁压力】金色财经报道，BitMEX联合创始人Arthur Hayes今日抛售$HYPE代币，或因其即将面临重大解锁压力。据Maelstrom基金报告，从11月29日起，将有总值119亿美元（237.8M个HYPE）的代币在24个月内线性解锁，每月解锁约5亿美元。当前回购能力仅能消化17%，意味着每月将有约4.1亿美元的供应过剩。虽然包括Sonnet在内的DAT项目已筹集5.83亿美元HYPE代币和3.05亿美元现金，但规模仍难以应对即将到来的解锁压力。尽管如此，Hayes表示仍看好HYPE到2028年实现126倍增长的可能性。
-- [Metaplanet超越Bullish跻身全球第五大比特币财库上市公司](https://bitcointreasuries.net/) - 📰 null - 【Metaplanet超越Bullish跻身全球第五大比特币财库上市公司】金色财经报道，据Bitcoin Treasuries数据显示，在宣布增持5419枚比特币后，日本上市比特币财库公司Metaplanet的比特币持仓总量已超越Bullish，目前跻身成为全球第五大比特币财库上市公司，仅次于Strategy、MARA、XXI和Bitcoin Standard Treasury Company。
-- [Upbit将上线0G现货交易]() - 📰 null - 【Upbit将上线0G现货交易】金色财经报道，Upbit将上线0G韩元、BTC及USDT交易对。
+- [以太坊财库公司ETHZilla将通过发行新的可转换债券额外筹集3.5亿美元](https://www.prnewswire.com/news-releases/ethzilla-announces-350-million-add-on-convertible-debenture-investment-and-provides-business-update-302562888.html) - 📰 null - 【以太坊财库公司ETHZilla将通过发行新的可转换债券额外筹集3.5亿美元】9月22日消息，据美通社报道，以太坊财库公司ETHZilla（纳斯达克代码：ETHZ）宣布，ETHZilla与现有可转换债券投资者合作，对现有可转换债券的条款进行修订，并通过发行新的可转换债券额外筹集3.5亿美元。截至2025年9月19日，ETHZilla当前持有ETH及ETH等价物总量为102,264枚，价值约4.62亿美元。
+- [数据：0G于Upbit短时触及19.4美元，开盘以来涨幅逾400%]() - 📰 null - 【数据：0G于Upbit短时触及19.4美元，开盘以来涨幅逾400%】9月22日消息，据Upbit行情显示，0G盘中一度上涨至约19.4079美元（约合27000韩元），现报约13.35美元（约合18580韩元），自开盘以来累计涨幅超400%。
+- [甲骨文任命两位新 CEO Clay magouyark 和 Mike Sicilia]() - 📰 null - 【甲骨文任命两位新 CEO Clay magouyark 和 Mike Sicilia】金色财经报道，甲骨文(ORCL.N)宣布，提拔Clay magouyark和Mike Sicilia为首席执行官。 
+作为甲骨文云工程团队的创始成员之一，马古尔克领导了OCI第二代平台的设计、实施及商业成功。在他的领导下，OCI实现了前所未有的增长，已成为AI训练和推理的首选平台。 
+Mike Sicilia，在垂直领域应用和应用型AI方面拥有深厚的专业知识。其领导的工程团队率先采用基于意图的应用生成技术，取代传统编码方式来构建甲骨文应用程序。他的团队还为甲骨文在医疗、银行、通信、公用事业、酒店和零售等行业的应用套件中，集成了高度复杂的AI智能体。 
+甲骨文董事会主席兼首席技术官埃里森表示，Clay和Mike都是经过验证的杰出领导者，我期待在未来的岁月里与他们并肩工作。甲骨文的未来一片光明。
+- [Michael Saylor：Strategy 今年迄今比特币收益率达 26%](https://x.com/saylor/status/1970096282543783964) - 📰 null - 【Michael Saylor：Strategy 今年迄今比特币收益率达 26%】金色财经报道，Michael Saylor在X平台发文表示，Strategy持有639,835枚比特币，今年迄今的比特币收益率达26%，购买均价约为73,971美元。
+- [Strategy上周增持850枚比特币]() - 📰 null - 【Strategy上周增持850枚比特币】金色财经报道，据官方公告，Strategy在9月15日至9月21期间，以约9970万美元收购了850枚比特币，平均每枚比特币约117,344美元。截至2025年9月21日，Strategy总计持有639,835枚比特币，总收购成本约473.3亿美元，平均每枚比特币约73,971美元。
+- [0G短时突破7美元 当前涨幅超460%]() - 📰 null - 【0G短时突破7美元 当前涨幅超460%】金色财经报道，据行情数据显示，0G上涨短时突破7美元，现报价5.779美元。
+- [富途证券、老虎证券进一步关闭中国内地居民开户通道](https://www.yicai.com/brief/102836044.html) - 📰 null - 【富途证券、老虎证券进一步关闭中国内地居民开户通道】9月22日消息，据第一财经报道，根据最新监管要求，富途证券开户条件有所变更，目前中国内地客户开户需持有海外永居身份证明。富途牛牛客服强调，现在公司正在进行系统升级，现阶段仅支持有中国香港或澳门身份证的客户开户；待系统升级完成后，客户可使用内地身份证+海外永居身份证明进行开户。 
+第一财经记者以客户身份咨询时，老虎证券客服也表示，应监管最新要求，公司调整了关于中国内地居民的开户政策，自上周开始不再接受中国内地居民通过提供境外工作或生活相关证明文件开户，仅接受持有非中国内地身份证件的客户申请开户。 
+不过，22日晚间，记者拨打富途证券、老虎证券客服电话时，二者自动语音服务提示音中，关于中国内地居民的开户条件仍维持此前政策，尚未进行更换。
+- [美股上市公司Helius开始购买SOL代币，现持有超76万枚SOL](https://www.globenewswire.com/news-release/2025/09/22/3153779/0/en/Helius-NASDAQ-HSDT-Begins-Purchases-of-SOL-the-Native-Asset-of-Solana-Blockchain.html) - 📰 null - 【美股上市公司Helius开始购买SOL代币，现持有超76万枚SOL】金色财经报道，据市场消息，Helius Medical Technologies, Inc. (NASDAQ: HSDT) 宣布首次购入 Solana （SOL）代币，作为其数字资产库战略的一部分。公司目前持有超过 760,190 枚 SOL，平均成本基数为 231 美元。 
+此外，公司还持有超过 3.35 亿美元的现金，计划用于进一步推进其数字资产库战略。此前消息，Helius 与 Pantera Capital 等合作融资超 5 亿美元，将推出 SOL 财库公司。
+- [Trend Research从币安提出4,243万枚USDT用于偿还Aave借款](https://x.com/ai_9684xtpa/status/1970090151914410220) - 📰 null - 【Trend Research从币安提出4,243万枚USDT用于偿还Aave借款】金色财经报道，据链上分析师Ai姨监测，Trend Research过去半小时从币安提出了4,243万枚USDT用于偿还Aave借款。
+- [BNB财库公司CEA Industries已提交5亿美元PIPE注册声明](https://www.globenewswire.com/news-release/2025/09/22/3153614/0/en/CEA-Industries-Files-Registration-Statement-for-its-500M-PIPE-CEO-David-Namdar-Releases-Letter-to-Shareholders.html) - 📰 null - 【BNB财库公司CEA Industries已提交5亿美元PIPE注册声明】金色财经报道，据市场消息，美股上市BNB财库公司CEA Industries披露，该公司已提交了5亿美元普通股私募股权投资（PIPE）及高达7.5亿美元认股权证交易的S-3自动注册声明。其首席执行官David Namdar表示：“我们每天都在购买BNB，且拥有大量未动用资金以继续构建我们的资产储备。”
+- [Coinbase信用卡合作方Cardless完成6000万美元融资，Spark Capital领投]() - 📰 null - 【Coinbase信用卡合作方Cardless完成6000万美元融资，Spark Capital领投】9月22日消息，据彭博社报道，专注于联名信用卡的初创公司Cardless完成6000万美元融资，新融资资金将用于增加功能并与知名品牌客户合作开发项目，部分用于与Coinbase GlobalInc.和BiltRewards的合作。本轮融资由Spark Capital领投，Activant Capital、Industry Ventures和Pear VC参投。 
+值得注意的是，Cardless和Coinbase之间存在战略合作伙伴关系，Coinbase是其首个合作伙伴。今年6月，Cardless推出嵌入式信用卡平台，Coinbase利用该平台开发并发行了CoinbaseOneCard。
+- [ZOOZ股东批准此前宣布的 1.8 亿美元私募和比特币储备策略相关提案](https://www.globenewswire.com/news-release/2025/09/19/3153193/0/en/ZOOZ-Shareholders-Approve-Previously-Announced-180-Million-Private-Placement-and-Bitcoin-Treasury-Reserve-Strategy-Along-with-All-Related-Proposals.html) - 📰 null - 【ZOOZ股东批准此前宣布的 1.8 亿美元私募和比特币储备策略相关提案】9月22日消息，能源管理解决方案巨头ZOOZ PowerLtd.（纳斯达克和TASE：ZOOZ）宣布，在其特别股东大会上，股东投票批准了与公司先前宣布的1.8亿美元私募（“PIPE”）和比特币财库储备策略相关的所有提案。 
+获得批准后，ZOOZ预计将于2025年完成PIPE，但须遵守惯例成交条件和最终文件。PIPE的收益将主要用于启ZOOZ的比特币国库储备策略。公司计划将约95%的净收益（偿还未偿还本票后）用于购买并持有比特币。
+- [BitMine：目前持有超2%的ETH代币供应量，总资产达114亿美元](https://www.prnewswire.com/news-releases/bitmine-immersion-bmnr-announces-eth-holdings-exceed-2-of-ethereum-network-with-eth-holdings-exceeding-2-4-million-tokens-and-total-crypto-and-cash-holdings-of-11-4-billion-302562794.html) - 📰 null - 【BitMine：目前持有超2%的ETH代币供应量，总资产达114亿美元】金色财经报道，据BitMine Immersion Technologies, Inc. 披露，该公司目前持有超过240万枚ETH代币，以太坊持仓已超过以太坊网络总量的2%。总加密货币和现金持有量达到114亿美元。
+- [纳斯达克上市公司CEA Industries拟通过PIPE募资5亿美元支持增持BNB](https://www.globenewswire.com/news-release/2025/09/22/3153614/0/en/CEA-Industries-Files-Registration-Statement-for-its-500M-PIPE-CEO-David-Namdar-Releases-Letter-to-Shareholders.html) - 📰 null - 【纳斯达克上市公司CEA Industries拟通过PIPE募资5亿美元支持增持BNB】金色财经报道，纳斯达克上市公司CEA Industries披露已于上周五向美国证券交易委员会提交S-3注册声明拟通过PIPE方式募资5亿美元以支持增持BNB，此外该公司还披露还将进行最高7.5亿美元的认股权证交易。
+- [花旗：黄金牛市在短期内可能会持续]() - 📰 null - 【花旗：黄金牛市在短期内可能会持续】金色财经报道，花旗研究的分析师表示，黄金牛市在短期内可能会继续。分析师指出，周期性因素（如美国劳动力市场持续疲软）以及结构性因素（如对美联储独立性的担忧）在短期内预计将继续对黄金形成利好。他们补充道：目前几乎所有因素都在利好黄金牛市。 
+此前，花旗对未来三个月黄金的目标价为每盎司3800美元。(金十)
+- [分析师：美联储降息提升市场风险偏好]() - 📰 null - 【分析师：美联储降息提升市场风险偏好】金色财经报道，在上周美联储降息之后，市场对风险资产的需求继续上升。Capital网站分析师Monte Safieddine在一份报告中表示，投资者对股票和外汇的兴趣正在增强，因为回调带来了机会，而对黄金等避险资产的需求正在下降。（金十）
+- [美股上市公司AGRI拟融资5.5亿美元转型AVAX财库策略](https://www.stocktitan.net/news/AGRI/agri-force-growing-systems-agri-to-launch-as-first-publicly-traded-d8nr7l9sv6r2.html) - 📰 null - 【美股上市公司AGRI拟融资5.5亿美元转型AVAX财库策略】金色财经报道，据市场消息：AgriFORCE Growing Systems (AGRI) 将成为纳斯达克首家专注于 Avalanche 的上市公司，并制定了 5.5 亿美元的融资策略
+- [Trend Research再次从Binance转出17,256枚ETH](https://x.com/EmberCN/status/1970078712743047179) - 📰 null - 【Trend Research再次从Binance转出17,256枚ETH】金色财经报道，据链上分析师余烬监测，了得资本关联机构 Trend Research 10 分钟前再次从 Binance 提出 17,256 枚 ETH (7200 万美元)。他们上午转进 Binance 的 1.68 万枚 ETH 可能没有出售，或者先卖出了又再买回，波段获利 456 枚 ETH (190 万美元)。
+- [28,495枚以太坊从未知钱包转移至欧易（OKEX）](https://x.com/whale_alert/status/1970076780158394848) - 📰 null - 【28,495枚以太坊从未知钱包转移至欧易（OKEX）】金色财经报道，据Whale Alert监测，28,495枚以太坊（价值118,476,697 美元）从未知钱包转移至欧易（OKEX）。
+- [路透社：中国证券监管机构已建议部分券商暂停在香港的RWA业务](https://x.com/cryptounfolded/status/1970078058137723187) - 📰 null - 【路透社：中国证券监管机构已建议部分券商暂停在香港的RWA业务】金色财经报道，知情人士透露，中国证券监督管理委员会已建议部分本土券商暂停在香港的现实世界资产（RWA）代币化业务。消息人士称，至少两家头部券商在近几周收到了中国证监会的非正式指导，要求其避免在海外开展 RWA 业务。该监管指导旨在加强新业务的风险管理，确保公司声明有强有力的合法业务支撑。（路透社）
