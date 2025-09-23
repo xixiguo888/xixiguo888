@@ -1,26 +1,34 @@
-- [德意志银行：黄金持续创新高表明股市中蕴藏着恐慌](https://flash.jin10.com/detail/20250923015930446800) - 📰 null - 【德意志银行：黄金持续创新高表明股市中蕴藏着恐慌】金色财经报道，黄金价格刚刚再次创下历史新高，这与更广泛市场的乐观基调不符。毕竟，黄金通常在经济不安时期扮演避险资产的角色。德意志银行分析师Henry Allen表示，这表明股市中潜伏着恐慌，投资者既看好股市，又担心存在重大下行风险。Allen表示：“虽然金价有许多驱动因素，但其中之一是它被视为投资者在恐惧时购买的避险资产。当下市场预期未来几年美国通胀将徘徊在目标上方，而这远非 ‘完美’，这与持续的关税担忧相联系，制药和半导体等行业的审查仍在进行中。而且市场认为月底美国政府停摆的可能性越来越大。除此之外，市场显然也担心就业增长放缓。”
-- [消息人士：与英伟达的交易不会改变OpenAI的任何算力计划](https://flash.jin10.com/detail/20250923014437251800) - 📰 null - 【消息人士：与英伟达的交易不会改变OpenAI的任何算力计划】金色财经报道，消息人士：与英伟达的交易不会改变OpenAI的任何算力计划，包括与微软(MSFT.O)的合作或其自主研发芯片的努力。
-- [现货黄金站上3740美元/盎司]() - 📰 null - 【现货黄金站上3740美元/盎司】金色财经报道，现货黄金震荡上行，站上3740美元/盎司，再创历史新高，日内涨超50美元。
-- [英伟达拟分阶段对OpenAI进行股权投资 不获控制权](https://flash.jin10.com/detail/20250923005214227800) - 📰 null - 【英伟达拟分阶段对OpenAI进行股权投资 不获控制权】金色财经报道，消息人士：英伟达(NVDA.O)正在分阶段对OpenAI进行股权投资，根据分阶段投资计划，当部署第一个吉瓦级算力时，英伟达将投资10%。英伟达对OpenAI的股权投资并不赋予其控制权，OpenAI的非营利性母公司将保留多数治理控制权。
-- [CFTC宣布Aptos Labs CEO Avery Ching等成为全球市场咨询委员会下属小组新成员](https://x.com/CarolineDPham/status/1969105168827380166) - 📰 null - 【CFTC宣布Aptos Labs CEO Avery Ching等成为全球市场咨询委员会下属小组新成员】金色财经报道，美国商品期货交易委员会（CFTC）代理主席 Caroline D. Pham 公布了全球市场咨询委员会（Global Markets Advisory Committee，简称 GMAC）及其下属小组的新成员名单，并祝贺 Aptos Labs 联合创始人兼 CEO Avery Ching 出任数字资产市场小组委员。 
-GMAC 是 CFTC 最重要的咨询对象之一，由传统金融和数字资产领域的专家组成，长期为 CFTC 提供政策建议，不仅塑造了美国的监管决策，也为全球市场结构和数字资产监管的国际讨论提供了重要参考。Pham 表示，期待与 Avery 、摩根大通数字资产市场负责人 Scott Lucas 及富兰克林邓普顿执行副总裁 Sandy Kaul 等业界领袖共同合作，推动数字资产市场的有序发展。 
-Avery 拥有十余年构建大规模基础设施的经验，创立 Aptos 前曾在 Meta 负责区块链开发、钱包基础设施和 Diem 区块链项目的技术建设。Avery 的加入标志着 Web3 技术构建者在全球监管对话中的影响力不断上升。
-- [Worldcoin团队钱包从以太坊主网转出1.1亿枚WLD代币](https://x.com/EmberCN/status/1970153757788065889) - 📰 null - 【Worldcoin团队钱包从以太坊主网转出1.1亿枚WLD代币】金色财经报道，据链上分析师余烬监测，Worldcoin 团队钱包在半小时前从以太坊主网转出了 1.1 亿枚 WLD 代币，价值约 1.44 亿美元。其中 8500 万枚（价值 1.11 亿美元）跨链转入 World Chain，2500 万枚（价值 3275 万美元）转入 Kraken 交易所。
-- [UXLINK疑似遭遇攻击，损失超1100万美元](https://x.com/CyversAlerts/status/1970167036002132425) - 📰 null - 【UXLINK疑似遭遇攻击，损失超1100万美元】金色财经报道，安全公司 Cyvers 的系统检测到涉及 UXLINK 的 1130 万美元可疑交易。 
-一个以太坊地址执行了 delegateCall，移除了管理员权限，并调用了“addOwnerWithThreshold”，然后转出了 400 万枚 USDT、50 万枚 USDC、3.7 枚 WBTC 和 25 枚 ETH。 
-所有的 USDC/USDT 在以太坊网络上被兑换成 DAI，而在 Arbitrum 网络上的 USDT 被兑换成 ETH 并跨链转移到以太坊网络。几分钟后，另一个地址收到了 1000 万枚 UXLINK（约 300 万美元），并开始兑换，目前仍持有约 220 万美元未兑换（交易仍在进行中）。
-- [美联储巴尔金表示，经济的迷雾开始消散](https://www.cls.cn/detail/2152620) - 📰 null - 【美联储巴尔金表示，经济的迷雾开始消散】金色财经报道，美联储巴尔金表示，经济的迷雾开始消散，但企业对新投资仍持谨慎态度，企业乐观情绪再度回升。
-- [美联储哈玛克：预计将会看到通胀继续上升](https://flash.jin10.com/detail/20250923001459184800) - 📰 null - 【美联储哈玛克：预计将会看到通胀继续上升】金色财经报道，美联储哈玛克：预计将会看到通胀继续上升。
-- [OpenAI和英伟达宣布建立战略合作伙伴关系](https://flash.jin10.com/detail/20250923000425230800) - 📰 null - 【OpenAI和英伟达宣布建立战略合作伙伴关系】金色财经报道，市场消息：OpenAI和英伟达(NVDA.O)宣布建立战略合作伙伴关系，将部署10吉瓦的英伟达系统，英伟达计划向OpenAI投资高达1000亿美元。
-- [美联储米兰：联邦基金利率适当水平大约在2%至2.5%](https://www.cls.cn/detail/2152616) - 📰 null - 【美联储米兰：联邦基金利率适当水平大约在2%至2.5%】金色财经报道，美联储理事米兰表示，当前的利率水平“非常具有限制性”，联邦基金利率适当水平大约在2%至2.5%，几乎比当前水平低两个百分点。美联储仍致力于将通货膨胀率持续稳定在2%的水平。
-- [LayerZero：基金会已从早期投资者手中回购5000万枚ZRO代币](https://x.com/LayerZero_Core/status/1970152700735336612) - 📰 null - 【LayerZero：基金会已从早期投资者手中回购5000万枚ZRO代币】金色财经报道，据 LayerZero 官方披露，LayerZero 基金会已从早期投资者处执行回购 5000 万枚 ZRO 代币，占代币总供应量的 5%。
-- [Tether新增铸造10亿枚USDT](https://x.com/whale_alert/status/1970152655667204433) - 📰 null - 【Tether新增铸造10亿枚USDT】金色财经报道，大约 3 分钟前，Tether Treasury 新增铸造了  1,000,000,000 枚 USDT 。
-- [市场消息：持有ASTER可在合约交易中享受5%的手续费折扣]() - 📰 null - 【市场消息：持有ASTER可在合约交易中享受5%的手续费折扣】9月22日消息，据市场消息，Aster 文档已更新：持有 ASTER 可在 Aster 平台的永续合约交易中享受 5% 的手续费折扣。
-- [现货黄金站上3730美元/盎司]() - 📰 null - 【现货黄金站上3730美元/盎司】金色财经报道，现货黄金站上3730美元/盎司，再创历史新高，今年迄今涨超1105美元。
-- [汇丰启动跨境代币化存款服务](https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2025/hsbc-debuts-cross-border-tokenized-deposit-offering/) - 📰 null - 【汇丰启动跨境代币化存款服务】金色财经报道，汇丰控股已启动代币化存款服务，以支持其企业客户安全地跨境转帐。这家英国银行本月利用区块链技术完成香港和新加坡之间的首笔跨境美元交易。汇丰称，这笔跨境交易建立在其现有境内支付产品的基础之上，该产品今年早些时候在中国香港和新加坡先推出，之后扩展至英国和卢森堡，以支持包括英镑和欧元在内的其他货币。
-- [OKX将上线AVNTUSDT永续合约](https://www.okx.com/zh-hans/help/okx-to-list-perpetual-futures-for-avnt-crypto?pagesourcefrom=medianews) - 📰 null - 【OKX将上线AVNTUSDT永续合约】金色财经报道，据官方公告，OKX将于 2025 年 9 月 22 日下午 11:30 (UTC+8) 在网页端、App 端及 API 正式上线 AVNTUSDT永续合约。据悉，Avantis 是 Base 生态的链上永续合约 DEX，提供 LP 高级风险管理、交易员亏损保护，以及对加密与合成现实资产的杠杆交易。
-- [Sky：SKY与MKR代币兑换延迟惩罚机制已激活](https://x.com/SkyEcosystem/status/1970141201463435379) - 📰 null - 【Sky：SKY与MKR代币兑换延迟惩罚机制已激活】9月22日消息，据官方公告，Sky 在社交媒体上发文表示，SKY与MKR 代币兑换延迟惩罚已激活。 
-自今日起，所有 MKR 到 SKY 的升级都将受到 1% 的罚款。该罚款将每三个月增加 1 个百分点。
-- [美国财长贝森特：本周晚些时候将再面试两名美联储候选人](https://flash.jin10.com/detail/20250922231306913800) - 📰 null - 【美国财长贝森特：本周晚些时候将再面试两名美联储候选人】金色财经报道，美国财长贝森特：本周晚些时候将再面试两名美联储候选人，下周末结束前将面试11名候选人中的10名。
-- [Coinbase：Mag7 + 加密股票指数期货产品现已上线](https://x.com/CoinbaseMarkets/status/1970139671528378450) - 📰 null - 【Coinbase：Mag7 + 加密股票指数期货产品现已上线】金色财经报道，据官方消息，Coinbase推出的美国首支同时涵盖股票与加密货币的上市衍生品期货合约Mag7+加密资产股票指数期货现已上线。 
-指数构成包括：·美股七巨头：苹果(AAPL)、微软(MSFT)、谷歌(GOOGL)、亚马逊(AMZN)、英伟达(NVDA)、Meta(META)、特斯拉(TSLA)·Coinbase股票(COIN)·加密货币ETF：贝莱德比特币信托(IBIT)、以太坊信托(ETHA)。
+- [UXLINK：发现多签钱包安全漏洞，已联系交易平台冻结可疑存款并报案以追回资金](https://x.com/UXLINKofficial/status/1970181382107476362) - 📰 null - 【UXLINK：发现多签钱包安全漏洞，已联系交易平台冻结可疑存款并报案以追回资金】9月23日消息，UXLINK官方发文表示，已发现涉及其多签钱包的安全漏洞，导致大量加密货币被非法转入CEX和DEX。团队正与安全专家合作查明原因并控制事态，已联系交易平台冻结可疑UXLINK存款，并向警方及相关主管部门报案以推动法律追责和资产追回。UXLINK将持续透明更新最新进展。此前报道，UXLINK遭遇攻击损失超1100万美元。
+- [SOL财库公司DeFi Development披露其韩国实体名称为“DFDV Korea”](https://x.com/defidevcorp/status/1970132811115053249) - 📰 null - 【SOL财库公司DeFi Development披露其韩国实体名称为“DFDV Korea”】金色财经报道，SOL财库公司DeFi Development在X平台发文披露其与Solana生态再质押协议Fragmetric合作成立的韩国实体名称为“DFDV Korea”，据悉该实体还将拓展其Treasury Accelerator财库加速器计划，Fragmetric管理团队将负责领导该实体，而DFDV则获得该实体股权并提供资产管理、技术服务、以及会计/财务支持。
+- [美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项](https://x.com/Cointelegraph/status/1970292074885906521) - 📰 null - 【美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项】金色财经报道，据Cointelegraph披露，美国证监会（SEC）和商品期货交易委员会（CFTC）将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项。
+- [慢雾余弦：UXLINK遭遇黑客攻击，疑因Safe多签私钥泄露导致资金被盗](https://x.com/evilcos/status/1970290151269314756) - 📰 null - 【慢雾余弦：UXLINK遭遇黑客攻击，疑因Safe多签私钥泄露导致资金被盗】金色财经报道，慢雾余弦于X平台发文表示，“看了下UXLINK被盗情况，大概率是UXLINK有关Safe多签的几把私钥泄露了，关键的黑客操作好几个，把目标Safe多签的owner改为：0x2EF43c1D0c88C071d242B6c2D0430e1751607B87 
+接着0x2EF43c完成后续有关资金的转移操作。我们@SlowMist_Team、@MistTrack_io、@im23pds正在协助项目方跟进调查此事。”
+- [麻吉大哥在ETH、HYPE和PUMP上的多头仓位浮亏已超2000万美元](https://x.com/OnchainLens/status/1970289193479032845) - 📰 null - 【麻吉大哥在ETH、HYPE和PUMP上的多头仓位浮亏已超2000万美元】金色财经报道，据Onchain Lens监测，在市场下跌的情况下，麻吉大哥在ETH（15倍杠杆）、HYPE和PUMP（5倍杠杆）上的多头仓位浮亏已超过2000万美元。为了避免被强制平仓，麻吉大哥被迫部分平掉这些仓位以止损。
+- [Clanker拒绝Rainbow收购提议](https://x.com/JackDishman/status/1970255672517201980) - 📰 null - 【Clanker拒绝Rainbow收购提议】9月23日消息，Clanker团队成员Jack Dishman发文表示，上个月，Rainbow曾接触Clanker探讨潜在收购事宜。经过一番讨论后，Clanker团队认为该合作不合适，并在上周四告知对方。 
+然而在上周五，Rainbow再次联系，威胁如果Clanker团队不回应就会公开发布一封信。当Clanker再次明确表示不会推进交易后，他们仍在未经同意的情况下，于今天发布了拟收购Clanker的公开信。Clanker对与Rainbow合作并不感兴趣，尤其是在经历了这种对待之后，因此不打算继续相关谈判。
+- [Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全](https://x.com/VitalikButerin/status/1970258498996048247) - 📰 null - 【Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全】金色财经报道，Vitalik于X平台发文表示，“Base正在以正确的方式运作：它是建立在以太坊之上的二层网络（L2），利用其中心化特性来提供更强的用户体验，同时依托以太坊去中心化的基础层来保障安全。Base并不托管用户资金，他们既无法盗取资金，也不能阻止用户提取资金（这符合L2beat的Stage 1定义）。 
+我感觉很多人因近期一些愤世嫉俗的声音而感到困惑，认为L2beat类似于某种“极客版的清规戒律机构”。事实并非如此。L2所提供的安全性，以及L2beat 所衡量的指标，反映的是一些具体的机制，这些机制能切实保护用户免遭“跑路”风险。 
+我们所说的L2非托管的含义：它们是以太坊的延伸，而不是仅仅提交哈希的“高级服务器”。在以太坊L1的智能合约逻辑中，已经实现了具体的通道，并且已经在实际案例中成功使用，确保了L2用户的资金最终受L1控制，L2运营方既不能盗取，也不能阻止用户提取资金。”
+- [Rainbow拟收购Clanker，承诺RNBW总量4%分配给CLANKER持有者](https://x.com/rainbowdotme/status/1970183714304032855) - 📰 null - 【Rainbow拟收购Clanker，承诺RNBW总量4%分配给CLANKER持有者】9月23日消息，Web3移动端钱包Rainbow发布收购Clanker提案公开信，并提议将CLANKER代币持有者纳入其收购Clanker的更广泛计划之中。 
+Rainbow基金会表示，若成功收购Clanker，则RNBW总量的4%将分配给CLANKER代币持有者，约占代币生成事件（TGE）时流通供应量的20%；Rainbow将管理自Clanker代币推出以来作为流动性提供（LP）费用累积的100% CLANKER代币；Rainbow基金会在接管Clanke后，将帮助社区把该协议打造成以太坊上最大的Launchpad平台。
+- [某巨鲸在HyperLiquid以5倍杠杆做多AVAX，仓位价值1771万美元](https://x.com/OnchainLens/status/1970283148845191463) - 📰 null - 【某巨鲸在HyperLiquid以5倍杠杆做多AVAX，仓位价值1771万美元】金色财经报道，据Onchain Lens监测，某巨鲸此前在 HyperLiquid 存入 329 万枚USDC，并开设 AVAX 的 5 倍杠杆多单，仓位价值约1771万美元。目前浮盈约140万美元，4 小时前，该巨鲸再次存入 700 万美元 USDC，用于追加该仓位的保证金。
+- [Solana金库Forward Industries将通过Superstate平台实现股权上链](https://www.theblock.co/post/371685/solana-treasury-forward-tokenize-stock-superstates-opening-bell) - 📰 null - 【Solana金库Forward Industries将通过Superstate平台实现股权上链】9月23日消息，Solana最大数字资产金库Forward Industries宣布将通过Superstate的Opening Bell平台对其FORD股票进行上链代币化。 
+Forward由Galaxy Digital、Jump Crypto和Multicoin Capital支持，曾完成16.5亿美元私募融资。Forward将与Solana生态借贷协议Drift、Kamino和Jupiter Lend合作，FORD代币将作为新抵押品选项。Forward还计划持有Superstate股权，推动双方产品开发。
+- [过去24小时全网爆仓17.96亿美元，主爆多单](https://www.coinglass.com/zh/LiquidationData) - 📰 null - 【过去24小时全网爆仓17.96亿美元，主爆多单】金色财经报道，数据显示，过去24小时全网爆仓17.96亿美元，其中多单爆仓16.51亿美元，空单爆仓1.45亿美元，主爆多单。其中ETH爆仓5.23亿美元，BTC爆仓3.01亿美元。
+- [今日恐慌与贪婪指数降至43，等级仍为恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至43，等级仍为恐慌】金色财经报道，今日恐慌与贪婪指数降至43，等级仍为恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [Coinbase将CFG、TROLL列入上币路线图](https://www.coinbase.com/zh-cn/blog/increasing-transparency-for-new-asset-listings-on-coinbase) - 📰 null - 【Coinbase将CFG、TROLL列入上币路线图】金色财经报道，据官方公告，Coinbase将CFG、TROLL列入上币路线图。
+- [美议员敦促SEC执行特朗普行政令，以允许401(k)养老金投资加密货币](https://x.com/CoinDesk/status/1970217824296554930) - 📰 null - 【美议员敦促SEC执行特朗普行政令，以允许401(k)养老金投资加密货币】9月23日消息，美国立法者敦促美国证券交易委员会（SEC）落实特朗普8月7日签署的行政命令，以允许401(k)养老金投资于比特币和加密货币。
+- [金色晨讯 | 9月23日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 9月23日隔夜重要动态一览】21:00-7:00关键词：Stable、GENIUS法案、AgriFORCE 
+1.Tether新增铸造10亿枚USDT； 
+2.68家以太坊财库实体总持仓突破500万枚 ETH； 
+3.21Shares狗狗币ETF已在DTCC列出，代码为TDOG； 
+4.Paypal宣布投资Tether旗下稳定币Layer 1项目Stable； 
+5.美联储米兰：联邦基金利率适当水平大约在2%至2.5%； 
+6.美联储官员：在实施GENIUS法案时必须遵守稳定币支付利息的限制； 
+7.纳斯达克上市公司AgriFORCE更名AVAX One，启动5.5亿美元Avalanche投资计划。
+- [ETH突破4200美元]() - 📰 null - 【ETH突破4200美元】金色财经报道，行情显示，ETH突破4200美元，现报4200.89美元，24小时跌幅达到5.6%，行情波动较大，请做好风险控制。
+- [数据：鲸鱼过去24小时内买入3000万枚XRP](https://x.com/ali_charts/status/1970262080227012949) - 📰 null - 【数据：鲸鱼过去24小时内买入3000万枚XRP】金色财经报道，据链上分析师@ali_charts监测，过去24小时内，鲸鱼买入了3000万枚XRP。
+- [美联储理事米兰：在大幅降息之后 预计2026年和2027年将进一步小幅降息](https://www.cls.cn/detail/2152625) - 📰 null - 【美联储理事米兰：在大幅降息之后 预计2026年和2027年将进一步小幅降息】金色财经报道，美联储理事米兰表示，最好迅速将政策调整至中性水平，但对当前政策状况并不“恐慌”；50 个基点的系列降息将 “重新调整” 政策。在大幅降息之后，预计2026年和2027年将进一步小幅降息。
+- [CleanSpark获Coinbase Prime 1亿美元比特币质押信贷](https://www.coindesk.com/business/2025/09/22/cleanspark-shares-rise-after-getting-usd100m-bitcoin-backed-credit-from-coinbase-prime) - 📰 null - 【CleanSpark获Coinbase Prime 1亿美元比特币质押信贷】金色财经报道，比特币矿业公司CleanSpark宣布与Coinbase Prime达成1亿美元比特币质押信用额度，可在不出售比特币的情况下获取资金。公司计划利用资金扩展能源业务、扩大比特币挖矿规模，并投资高性能计算（HPC）能力，以支持AI和计算密集型业务发展。CleanSpark强调通过非稀释性融资推动增长和股东价值，同时探索比特币挖矿之外的收入机会。消息公布后，公司股价盘后上涨近6%。
+- [Canary披露现货HBAR ETF的费用为1.95%](https://x.com/bwenews/status/1970176722768408713) - 📰 null - 【Canary披露现货HBAR ETF的费用为1.95%】金色财经报道，Canary 披露其现货 HBAR ETF 的费用为 1.95%。 
+此前 9 月 16 日，Canary 披露其现货莱特币 ETF 的管理费为 0.95%。
