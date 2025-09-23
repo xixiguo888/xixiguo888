@@ -1,34 +1,38 @@
-- [UXLINK：发现多签钱包安全漏洞，已联系交易平台冻结可疑存款并报案以追回资金](https://x.com/UXLINKofficial/status/1970181382107476362) - 📰 null - 【UXLINK：发现多签钱包安全漏洞，已联系交易平台冻结可疑存款并报案以追回资金】9月23日消息，UXLINK官方发文表示，已发现涉及其多签钱包的安全漏洞，导致大量加密货币被非法转入CEX和DEX。团队正与安全专家合作查明原因并控制事态，已联系交易平台冻结可疑UXLINK存款，并向警方及相关主管部门报案以推动法律追责和资产追回。UXLINK将持续透明更新最新进展。此前报道，UXLINK遭遇攻击损失超1100万美元。
-- [SOL财库公司DeFi Development披露其韩国实体名称为“DFDV Korea”](https://x.com/defidevcorp/status/1970132811115053249) - 📰 null - 【SOL财库公司DeFi Development披露其韩国实体名称为“DFDV Korea”】金色财经报道，SOL财库公司DeFi Development在X平台发文披露其与Solana生态再质押协议Fragmetric合作成立的韩国实体名称为“DFDV Korea”，据悉该实体还将拓展其Treasury Accelerator财库加速器计划，Fragmetric管理团队将负责领导该实体，而DFDV则获得该实体股权并提供资产管理、技术服务、以及会计/财务支持。
-- [美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项](https://x.com/Cointelegraph/status/1970292074885906521) - 📰 null - 【美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项】金色财经报道，据Cointelegraph披露，美国证监会（SEC）和商品期货交易委员会（CFTC）将于9月29日联合举办圆桌会议，讨论两机构之间的监管协调优先事项。
-- [慢雾余弦：UXLINK遭遇黑客攻击，疑因Safe多签私钥泄露导致资金被盗](https://x.com/evilcos/status/1970290151269314756) - 📰 null - 【慢雾余弦：UXLINK遭遇黑客攻击，疑因Safe多签私钥泄露导致资金被盗】金色财经报道，慢雾余弦于X平台发文表示，“看了下UXLINK被盗情况，大概率是UXLINK有关Safe多签的几把私钥泄露了，关键的黑客操作好几个，把目标Safe多签的owner改为：0x2EF43c1D0c88C071d242B6c2D0430e1751607B87 
-接着0x2EF43c完成后续有关资金的转移操作。我们@SlowMist_Team、@MistTrack_io、@im23pds正在协助项目方跟进调查此事。”
-- [麻吉大哥在ETH、HYPE和PUMP上的多头仓位浮亏已超2000万美元](https://x.com/OnchainLens/status/1970289193479032845) - 📰 null - 【麻吉大哥在ETH、HYPE和PUMP上的多头仓位浮亏已超2000万美元】金色财经报道，据Onchain Lens监测，在市场下跌的情况下，麻吉大哥在ETH（15倍杠杆）、HYPE和PUMP（5倍杠杆）上的多头仓位浮亏已超过2000万美元。为了避免被强制平仓，麻吉大哥被迫部分平掉这些仓位以止损。
-- [Clanker拒绝Rainbow收购提议](https://x.com/JackDishman/status/1970255672517201980) - 📰 null - 【Clanker拒绝Rainbow收购提议】9月23日消息，Clanker团队成员Jack Dishman发文表示，上个月，Rainbow曾接触Clanker探讨潜在收购事宜。经过一番讨论后，Clanker团队认为该合作不合适，并在上周四告知对方。 
-然而在上周五，Rainbow再次联系，威胁如果Clanker团队不回应就会公开发布一封信。当Clanker再次明确表示不会推进交易后，他们仍在未经同意的情况下，于今天发布了拟收购Clanker的公开信。Clanker对与Rainbow合作并不感兴趣，尤其是在经历了这种对待之后，因此不打算继续相关谈判。
-- [Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全](https://x.com/VitalikButerin/status/1970258498996048247) - 📰 null - 【Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全】金色财经报道，Vitalik于X平台发文表示，“Base正在以正确的方式运作：它是建立在以太坊之上的二层网络（L2），利用其中心化特性来提供更强的用户体验，同时依托以太坊去中心化的基础层来保障安全。Base并不托管用户资金，他们既无法盗取资金，也不能阻止用户提取资金（这符合L2beat的Stage 1定义）。 
-我感觉很多人因近期一些愤世嫉俗的声音而感到困惑，认为L2beat类似于某种“极客版的清规戒律机构”。事实并非如此。L2所提供的安全性，以及L2beat 所衡量的指标，反映的是一些具体的机制，这些机制能切实保护用户免遭“跑路”风险。 
-我们所说的L2非托管的含义：它们是以太坊的延伸，而不是仅仅提交哈希的“高级服务器”。在以太坊L1的智能合约逻辑中，已经实现了具体的通道，并且已经在实际案例中成功使用，确保了L2用户的资金最终受L1控制，L2运营方既不能盗取，也不能阻止用户提取资金。”
-- [Rainbow拟收购Clanker，承诺RNBW总量4%分配给CLANKER持有者](https://x.com/rainbowdotme/status/1970183714304032855) - 📰 null - 【Rainbow拟收购Clanker，承诺RNBW总量4%分配给CLANKER持有者】9月23日消息，Web3移动端钱包Rainbow发布收购Clanker提案公开信，并提议将CLANKER代币持有者纳入其收购Clanker的更广泛计划之中。 
-Rainbow基金会表示，若成功收购Clanker，则RNBW总量的4%将分配给CLANKER代币持有者，约占代币生成事件（TGE）时流通供应量的20%；Rainbow将管理自Clanker代币推出以来作为流动性提供（LP）费用累积的100% CLANKER代币；Rainbow基金会在接管Clanke后，将帮助社区把该协议打造成以太坊上最大的Launchpad平台。
-- [某巨鲸在HyperLiquid以5倍杠杆做多AVAX，仓位价值1771万美元](https://x.com/OnchainLens/status/1970283148845191463) - 📰 null - 【某巨鲸在HyperLiquid以5倍杠杆做多AVAX，仓位价值1771万美元】金色财经报道，据Onchain Lens监测，某巨鲸此前在 HyperLiquid 存入 329 万枚USDC，并开设 AVAX 的 5 倍杠杆多单，仓位价值约1771万美元。目前浮盈约140万美元，4 小时前，该巨鲸再次存入 700 万美元 USDC，用于追加该仓位的保证金。
-- [Solana金库Forward Industries将通过Superstate平台实现股权上链](https://www.theblock.co/post/371685/solana-treasury-forward-tokenize-stock-superstates-opening-bell) - 📰 null - 【Solana金库Forward Industries将通过Superstate平台实现股权上链】9月23日消息，Solana最大数字资产金库Forward Industries宣布将通过Superstate的Opening Bell平台对其FORD股票进行上链代币化。 
-Forward由Galaxy Digital、Jump Crypto和Multicoin Capital支持，曾完成16.5亿美元私募融资。Forward将与Solana生态借贷协议Drift、Kamino和Jupiter Lend合作，FORD代币将作为新抵押品选项。Forward还计划持有Superstate股权，推动双方产品开发。
-- [过去24小时全网爆仓17.96亿美元，主爆多单](https://www.coinglass.com/zh/LiquidationData) - 📰 null - 【过去24小时全网爆仓17.96亿美元，主爆多单】金色财经报道，数据显示，过去24小时全网爆仓17.96亿美元，其中多单爆仓16.51亿美元，空单爆仓1.45亿美元，主爆多单。其中ETH爆仓5.23亿美元，BTC爆仓3.01亿美元。
-- [今日恐慌与贪婪指数降至43，等级仍为恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至43，等级仍为恐慌】金色财经报道，今日恐慌与贪婪指数降至43，等级仍为恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [Coinbase将CFG、TROLL列入上币路线图](https://www.coinbase.com/zh-cn/blog/increasing-transparency-for-new-asset-listings-on-coinbase) - 📰 null - 【Coinbase将CFG、TROLL列入上币路线图】金色财经报道，据官方公告，Coinbase将CFG、TROLL列入上币路线图。
-- [美议员敦促SEC执行特朗普行政令，以允许401(k)养老金投资加密货币](https://x.com/CoinDesk/status/1970217824296554930) - 📰 null - 【美议员敦促SEC执行特朗普行政令，以允许401(k)养老金投资加密货币】9月23日消息，美国立法者敦促美国证券交易委员会（SEC）落实特朗普8月7日签署的行政命令，以允许401(k)养老金投资于比特币和加密货币。
-- [金色晨讯 | 9月23日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 9月23日隔夜重要动态一览】21:00-7:00关键词：Stable、GENIUS法案、AgriFORCE 
-1.Tether新增铸造10亿枚USDT； 
-2.68家以太坊财库实体总持仓突破500万枚 ETH； 
-3.21Shares狗狗币ETF已在DTCC列出，代码为TDOG； 
-4.Paypal宣布投资Tether旗下稳定币Layer 1项目Stable； 
-5.美联储米兰：联邦基金利率适当水平大约在2%至2.5%； 
-6.美联储官员：在实施GENIUS法案时必须遵守稳定币支付利息的限制； 
-7.纳斯达克上市公司AgriFORCE更名AVAX One，启动5.5亿美元Avalanche投资计划。
-- [ETH突破4200美元]() - 📰 null - 【ETH突破4200美元】金色财经报道，行情显示，ETH突破4200美元，现报4200.89美元，24小时跌幅达到5.6%，行情波动较大，请做好风险控制。
-- [数据：鲸鱼过去24小时内买入3000万枚XRP](https://x.com/ali_charts/status/1970262080227012949) - 📰 null - 【数据：鲸鱼过去24小时内买入3000万枚XRP】金色财经报道，据链上分析师@ali_charts监测，过去24小时内，鲸鱼买入了3000万枚XRP。
-- [美联储理事米兰：在大幅降息之后 预计2026年和2027年将进一步小幅降息](https://www.cls.cn/detail/2152625) - 📰 null - 【美联储理事米兰：在大幅降息之后 预计2026年和2027年将进一步小幅降息】金色财经报道，美联储理事米兰表示，最好迅速将政策调整至中性水平，但对当前政策状况并不“恐慌”；50 个基点的系列降息将 “重新调整” 政策。在大幅降息之后，预计2026年和2027年将进一步小幅降息。
-- [CleanSpark获Coinbase Prime 1亿美元比特币质押信贷](https://www.coindesk.com/business/2025/09/22/cleanspark-shares-rise-after-getting-usd100m-bitcoin-backed-credit-from-coinbase-prime) - 📰 null - 【CleanSpark获Coinbase Prime 1亿美元比特币质押信贷】金色财经报道，比特币矿业公司CleanSpark宣布与Coinbase Prime达成1亿美元比特币质押信用额度，可在不出售比特币的情况下获取资金。公司计划利用资金扩展能源业务、扩大比特币挖矿规模，并投资高性能计算（HPC）能力，以支持AI和计算密集型业务发展。CleanSpark强调通过非稀释性融资推动增长和股东价值，同时探索比特币挖矿之外的收入机会。消息公布后，公司股价盘后上涨近6%。
-- [Canary披露现货HBAR ETF的费用为1.95%](https://x.com/bwenews/status/1970176722768408713) - 📰 null - 【Canary披露现货HBAR ETF的费用为1.95%】金色财经报道，Canary 披露其现货 HBAR ETF 的费用为 1.95%。 
-此前 9 月 16 日，Canary 披露其现货莱特币 ETF 的管理费为 0.95%。
+- [南非知名资产管理公司：建议投资者比特币配置不宜超5%](https://www.bloomberg.com/news/articles/2025-09-22/a-20-billion-south-african-fund-warns-against-full-bitcoin-bet) - 📰 null - 【南非知名资产管理公司：建议投资者比特币配置不宜超5%】金色财经报道，9月23日消息，据彭博社报道，南非资产管理公司Sygnia（管理规模约200亿美元）首席执行官Magda Wierzycka表示，将劝阻投资者把全部资产转入比特币基金，并建议相关配置不超过5%。 
+她称比特币价格被高估，但已从投机品转向长期投资标的。Sygnia于6月推出Bitcoin Plus基金，资金流入显著，并计划在监管限制解除后在约翰内斯堡证交所发行更多加密ETF。
+- [Capital B增资120万欧元，以推进比特币财库公司战略](https://x.com/_ALCPB/status/1970369092101226744) - 📰 null - 【Capital B增资120万欧元，以推进比特币财库公司战略】金色财经报道，据官方消息，法国上市公司Capital B宣布增资120万欧元，以推进其比特币财库公司战略。
+- [凯投宏观：欧洲央行明年可能再次降息]() - 📰 null - 【凯投宏观：欧洲央行明年可能再次降息】金色财经报道，欧元区通胀下降很可能导致欧洲央行明年再次降息。在过去的几次政策会议上，欧洲央行一直维持其关键利率不变，欧元区经济显示出弹性，通胀基本得到控制。但凯投宏观欧元区副首席经济学家Jack Allen-Reynolds表示，工资增长放缓和大宗商品价格下跌可能会导致明年核心通胀率降至2%以下，随着能源价格走软，总体通胀率将进一步下降。这可能会促使欧洲央行的利率制定者降低借贷成本。(金十)
+- [The Smarter Web Company增持55枚比特币，总持仓量达2525枚](https://x.com/smarterwebuk/status/1970367949979476006) - 📰 null - 【The Smarter Web Company增持55枚比特币，总持仓量达2525枚】金色财经报道，据公告，英国上市公司The Smarter Web Company增持55枚比特币，总持仓量达2525枚。
+- [韩国央行委员HWANG：预计今年还会再降息一次]() - 📰 null - 【韩国央行委员HWANG：预计今年还会再降息一次】金色财经报道，韩国央行委员HWANG：预计今年还会再降息一次，很难说是这一次还是下一次。(金十)
+- [法国兴业银行选择Bullish欧洲为首个USDCV稳定币上市平台](https://www.coindesk.com/business/2025/09/23/societe-generale-selects-bullish-europe-to-debut-its-usd-stablecoin) - 📰 null - 【法国兴业银行选择Bullish欧洲为首个USDCV稳定币上市平台】金色财经报道，据CoinDesk报道，法国兴业银行加密货币子公司SG-FORGE宣布，选择Bullish欧洲作为其美元稳定币USDCV的首个上市交易平台。该稳定币此前已在以太坊和Solana网络推出，目前仅面向非美国投资者开放。值得注意的是，该行欧元稳定币EURCV目前日交易量已达4000万欧元。公司表示，待美国监管环境明确后将考虑向美国投资者开放服务。
+- [230亿美元的BTC和ETH期权合约将于周五到期]() - 📰 null - 【230亿美元的BTC和ETH期权合约将于周五到期】9月23日消息，Deribit数据显示，约有230亿美元的比特币和以太坊期权合约将于周五到期，这是有史以来最大规模的到期日之一。 
+本月末到期的期权合约中，最大的押注集中在两个极端：防范价格跌至9.5万美元以下的保护性期权，以及押注价格飙升至14万美元以上的看涨期权。短期押注变得流行，反映出市场观点认为突然的轧空或强制平仓将驱动下一步走势。
+- [白宫加密委员会成员：预计加密市场结构法案将在今年年底前通过](https://www.theblock.co/post/371778/white-house-patrick-witt-market-structure-bill?utm_source=twitter&utm_medium=social) - 📰 null - 【白宫加密委员会成员：预计加密市场结构法案将在今年年底前通过】金色财经报道，白宫数字资产顾问委员会执行主任Patrick Witt周二在2025年韩国区块链周（Korea Blockchain Week）的Impact大会上表示，他预计加密市场结构法案将在今年年底前通过。Witt称，该委员会正与众议院和参议院合作，力争尽快将该法案提交至美国总统 特朗普 桌前。所谓的加密市场结构法案，是指美国多项旨在为数字资产建立全面监管框架的立法集合。
+- [432,679枚SOL从未知钱包转入Coinbase Institutional，价值超9300万美元](https://x.com/whale_alert/status/1970356495117132019) - 📰 null - 【432,679枚SOL从未知钱包转入Coinbase Institutional，价值超9300万美元】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间下午1:16左右，432,679枚SOL（93,523,703美元）从未知钱包转入Coinbase Institutional。
+- [Binance HODLer空投上线Hemi (HEMI)](https://cache.bwe-ws.com/bn-231) - 📰 null - 【Binance HODLer空投上线Hemi (HEMI)】金色财经报道，据官方公告，Binance HODLer空投上线Hemi (HEMI)。
+- [Synthetix将在第四季度推出首个以太坊主网永续DEX](https://crypto.news/synthetix-first-perpletual-dex-ethereum-mainnet-2025/) - 📰 null - 【Synthetix将在第四季度推出首个以太坊主网永续DEX】金色财经报道，合成资产协议Synthetix将在2025年第四季度推出首个基于以太坊主网的永续去中心化交易所（DEX），交易者可以使用Ethena的sUSDe、Lido的wstETH和Coinbase的cbBTC等多种资产作为保证金进行交易，并在交易的同时获取收益。
+- [汇丰启动跨境代币化存款服务，首个客户为蚂蚁国际]() - 📰 null - 【汇丰启动跨境代币化存款服务，首个客户为蚂蚁国际】金色财经报道，据9月22日声明，汇丰控股已启动代币化存款服务，以支持其企业客户安全跨境转帐。 
+汇丰称，首个使用该服务的客户为蚂蚁国际。（金十）
+- [IREN股价飙升，其GPU集群规模翻倍至2.3万台](https://theminermag.com/news/2025-09-22/iren-gpu-stock) - 📰 null - 【IREN股价飙升，其GPU集群规模翻倍至2.3万台】金色财经报道，总部位于澳大利亚的比特币矿企于周一宣布IREN在获得额外12,400台GPU后，将其AI云算力容量翻倍至23,000台，并预计到2026年第一季度实现超过5亿美元的年化营收，其股价在盘前交易中上涨9%，接近42美元，延续了上周突破38美元创下历史新高的涨势。此次总额6.74亿美元的订单包括7,100台Nvidia B300、4,200台Nvidia B200和1,100台AMD MI350X GPU，使公司硬件阵容扩展至Nvidia以外的产品。 
+新一批设备将使IREN的GPU总量提升至约23,000台，其中包括1,900台Nvidia H100与H200、19,100台B200与B300、1,200台GB300以及1,100台AMD MI350X。IREN表示正在与客户洽谈数千台GPU集群的订单，并指出算力需求持续超过全球供应，客户越来越多地在交付前提前签订合同。
+- [美国加密矿企CleanSpark获得Coinbase的1亿美元信贷额度](https://www.theblock.co/post/371773/cleanspark-secures-100-million-credit-financing-coinbase) - 📰 null - 【美国加密矿企CleanSpark获得Coinbase的1亿美元信贷额度】金色财经报道，据The Block消息，美国比特币矿商CleanSpark周一宣布，已通过与Coinbase的机构部门Coinbase Prime达成扩大的比特币支持贷款协议，获得了额外的1亿美元信贷额度。 
+CleanSpark在周一发布的一份声明中表示，公司计划将新增资金用于三个关键领域的资本支出：扩大能源基础设施、扩大比特币挖矿业务以及在特定设施开发高性能计算能力。
+- [白宫数字资产顾问委员会官员：正加速美国数字资产立法，构建多部门协作保障加密政策延续性]() - 📰 null - 【白宫数字资产顾问委员会官员：正加速美国数字资产立法，构建多部门协作保障加密政策延续性】9月23日消息，美国总统数字资产顾问委员会副主任Harry Jung和执行董事Patrick Witt在韩国KBW 2025峰会现场分享了该委员会工作核心目标：加速《数字资产法案》通过、构建战略比特币储备、通过国税局和财政部提供明确加密税收指导，以及保护技术开发者权益。 
+二人表示，在白宫，他们正以一种“全政府”的方式进行协作，结合CFTC、商务部和财政部等等多部门力量推进加密政策。针对政府换届可能带来的政策逆转风险，他们表示正通过现行立法和监管框架“打下坚实基础”，确保未来政府难以推翻当前政策方向。他们相信，只要能让加密行业在美国蓬勃发展并深度扎根，美国加密战略将不可逆转。
+- [YZi Labs正考虑未来向外部投资者开放](https://www.ft.com/content/d6f8b57d-05fb-4142-9a2a-db50fdb04f5a) - 📰 null - 【YZi Labs正考虑未来向外部投资者开放】9月23日消息，据《金融时报》报道，YZi Labs正考虑未来向外部投资者开放。该机构目前主要投资加密货币、AI和生物科技领域，资金来源为赵长鹏及币安早期高管。 
+负责人Ella Zhang表示，待团队在AI和生物科技领域积累足够经验后，将考虑转型为对外开放基金。此前YZiLabs曾接受3亿美元外部投资，后部分退还。
+- [4E：BitMine定增3.65亿美元增持ETH，Strive收购比特币金库公司]() - 📰 null - 【4E：BitMine定增3.65亿美元增持ETH，Strive收购比特币金库公司】9月23日消息，据4E观察，美联储官员穆萨莱姆表示，在实施《GENIUS 法案》时，必须遵守稳定币支付利息的限制，强调稳定币应作为支付工具，而非储蓄工具。 
+市场情绪方面，Greeks.live 研究员 Adam 在社区简报中指出，交易员分歧明显，看空派预期 ETH 或跌破 4000 美元、BTC 或二次探底，而乐观派则视当前为牛市前的“最后一针”。期权隐含波动率上升、未平仓合约清算以及交易量缩减成为市场焦点。 
+产业动态上，特朗普盟友拉马斯瓦米旗下的 Strive 公司宣布收购比特币金库公司 Semler，两者合并后将共持有近 1.1 万枚比特币。本次交易为全股票收购，溢价逾 200%。 
+4E提醒投资者：机构频繁动作显示对 ETH 与 BTC 的强烈布局意愿，但市场仍存在较大分歧与波动，建议投资者在关注基本面与资金流向的同时，保持稳健仓位与灵活应对策略。
+- [金色午报 | 9月23日午间重要动态一览]() - 📰 null - 【金色午报 | 9月23日午间重要动态一览】7:00-12:00关键词：美联储、UXLINK、Aster 
+1.戴蒙：美联储进一步降息将面临困难； 
+2.UXLINK黑客通过DEX套现套现约6,732枚ETH； 
+3.Tether否认退出乌拉圭价值5亿美元加密挖矿项目； 
+4.韩国金融当局调查Bithumb与海外加密交易所订单共享情况； 
+5.Aster CEO：将在几周内公布代币回购计划，正确定具体方案； 
+6.Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全； 
+7.美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论监管协调优先事项。
+- [加密资产经历大幅调整，投资者押注新一轮波动]() - 📰 null - 【加密资产经历大幅调整，投资者押注新一轮波动】金色财经报道，在经历高达15亿美元的爆仓后，加密货币交易员正押注市场将迎来新一轮波动。在缺乏明确触发因素的情况下，此次大规模爆仓再次凸显了加密货币市场的脆弱性，而期权价格的走势也预示着未来波动可能加剧。这场抛售是今年以来规模最大的一次，发生在数月投机性上涨之后，迫使以太坊及其他代币的杠杆头寸被强制平仓，令交易员为后续更大波动做好准备。 
+目前，押注价格剧烈波动的期权合约需求旺盛，反映出整个数字资产市场情绪高度紧张。以太坊上一交易日一度暴跌9%，导致近5亿美元的看涨押注化为乌有。“市场在昨日急剧回调后正处于盘整状态，但整体情绪仍显得相当紧张，”Orbit Markets联合创始人卡罗琳·莫龙表示。如果比特币跌破11万美元、以太坊跌破4000美元，可能会引发进一步抛售。(金十)
+- [World Liberty Financial将推出加密借记卡，可接入Apple Pay](https://www.theblock.co/post/371766/world-liberty-financial-debit-card-very-soon?utm_source=twitter&utm_medium=social) - 📰 null - 【World Liberty Financial将推出加密借记卡，可接入Apple Pay】金色财经报道，据The Block报道，World Liberty Financial联合创始人Zak Folkman在韩国区块链周活动上宣布，该项目将"很快"推出支持Apple Pay的加密借记卡和零售应用程序。该应用被描述为"Venmo遇上Robinhood"的组合，将融合传统支付和交易功能。同时，该公司已与韩国大型加密货币交易所Bithumb签署合作谅解备忘录。
