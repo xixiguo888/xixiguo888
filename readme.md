@@ -1,38 +1,26 @@
-- [南非知名资产管理公司：建议投资者比特币配置不宜超5%](https://www.bloomberg.com/news/articles/2025-09-22/a-20-billion-south-african-fund-warns-against-full-bitcoin-bet) - 📰 null - 【南非知名资产管理公司：建议投资者比特币配置不宜超5%】金色财经报道，9月23日消息，据彭博社报道，南非资产管理公司Sygnia（管理规模约200亿美元）首席执行官Magda Wierzycka表示，将劝阻投资者把全部资产转入比特币基金，并建议相关配置不超过5%。 
-她称比特币价格被高估，但已从投机品转向长期投资标的。Sygnia于6月推出Bitcoin Plus基金，资金流入显著，并计划在监管限制解除后在约翰内斯堡证交所发行更多加密ETF。
-- [Capital B增资120万欧元，以推进比特币财库公司战略](https://x.com/_ALCPB/status/1970369092101226744) - 📰 null - 【Capital B增资120万欧元，以推进比特币财库公司战略】金色财经报道，据官方消息，法国上市公司Capital B宣布增资120万欧元，以推进其比特币财库公司战略。
-- [凯投宏观：欧洲央行明年可能再次降息]() - 📰 null - 【凯投宏观：欧洲央行明年可能再次降息】金色财经报道，欧元区通胀下降很可能导致欧洲央行明年再次降息。在过去的几次政策会议上，欧洲央行一直维持其关键利率不变，欧元区经济显示出弹性，通胀基本得到控制。但凯投宏观欧元区副首席经济学家Jack Allen-Reynolds表示，工资增长放缓和大宗商品价格下跌可能会导致明年核心通胀率降至2%以下，随着能源价格走软，总体通胀率将进一步下降。这可能会促使欧洲央行的利率制定者降低借贷成本。(金十)
-- [The Smarter Web Company增持55枚比特币，总持仓量达2525枚](https://x.com/smarterwebuk/status/1970367949979476006) - 📰 null - 【The Smarter Web Company增持55枚比特币，总持仓量达2525枚】金色财经报道，据公告，英国上市公司The Smarter Web Company增持55枚比特币，总持仓量达2525枚。
-- [韩国央行委员HWANG：预计今年还会再降息一次]() - 📰 null - 【韩国央行委员HWANG：预计今年还会再降息一次】金色财经报道，韩国央行委员HWANG：预计今年还会再降息一次，很难说是这一次还是下一次。(金十)
-- [法国兴业银行选择Bullish欧洲为首个USDCV稳定币上市平台](https://www.coindesk.com/business/2025/09/23/societe-generale-selects-bullish-europe-to-debut-its-usd-stablecoin) - 📰 null - 【法国兴业银行选择Bullish欧洲为首个USDCV稳定币上市平台】金色财经报道，据CoinDesk报道，法国兴业银行加密货币子公司SG-FORGE宣布，选择Bullish欧洲作为其美元稳定币USDCV的首个上市交易平台。该稳定币此前已在以太坊和Solana网络推出，目前仅面向非美国投资者开放。值得注意的是，该行欧元稳定币EURCV目前日交易量已达4000万欧元。公司表示，待美国监管环境明确后将考虑向美国投资者开放服务。
-- [230亿美元的BTC和ETH期权合约将于周五到期]() - 📰 null - 【230亿美元的BTC和ETH期权合约将于周五到期】9月23日消息，Deribit数据显示，约有230亿美元的比特币和以太坊期权合约将于周五到期，这是有史以来最大规模的到期日之一。 
-本月末到期的期权合约中，最大的押注集中在两个极端：防范价格跌至9.5万美元以下的保护性期权，以及押注价格飙升至14万美元以上的看涨期权。短期押注变得流行，反映出市场观点认为突然的轧空或强制平仓将驱动下一步走势。
-- [白宫加密委员会成员：预计加密市场结构法案将在今年年底前通过](https://www.theblock.co/post/371778/white-house-patrick-witt-market-structure-bill?utm_source=twitter&utm_medium=social) - 📰 null - 【白宫加密委员会成员：预计加密市场结构法案将在今年年底前通过】金色财经报道，白宫数字资产顾问委员会执行主任Patrick Witt周二在2025年韩国区块链周（Korea Blockchain Week）的Impact大会上表示，他预计加密市场结构法案将在今年年底前通过。Witt称，该委员会正与众议院和参议院合作，力争尽快将该法案提交至美国总统 特朗普 桌前。所谓的加密市场结构法案，是指美国多项旨在为数字资产建立全面监管框架的立法集合。
-- [432,679枚SOL从未知钱包转入Coinbase Institutional，价值超9300万美元](https://x.com/whale_alert/status/1970356495117132019) - 📰 null - 【432,679枚SOL从未知钱包转入Coinbase Institutional，价值超9300万美元】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间下午1:16左右，432,679枚SOL（93,523,703美元）从未知钱包转入Coinbase Institutional。
-- [Binance HODLer空投上线Hemi (HEMI)](https://cache.bwe-ws.com/bn-231) - 📰 null - 【Binance HODLer空投上线Hemi (HEMI)】金色财经报道，据官方公告，Binance HODLer空投上线Hemi (HEMI)。
-- [Synthetix将在第四季度推出首个以太坊主网永续DEX](https://crypto.news/synthetix-first-perpletual-dex-ethereum-mainnet-2025/) - 📰 null - 【Synthetix将在第四季度推出首个以太坊主网永续DEX】金色财经报道，合成资产协议Synthetix将在2025年第四季度推出首个基于以太坊主网的永续去中心化交易所（DEX），交易者可以使用Ethena的sUSDe、Lido的wstETH和Coinbase的cbBTC等多种资产作为保证金进行交易，并在交易的同时获取收益。
-- [汇丰启动跨境代币化存款服务，首个客户为蚂蚁国际]() - 📰 null - 【汇丰启动跨境代币化存款服务，首个客户为蚂蚁国际】金色财经报道，据9月22日声明，汇丰控股已启动代币化存款服务，以支持其企业客户安全跨境转帐。 
-汇丰称，首个使用该服务的客户为蚂蚁国际。（金十）
-- [IREN股价飙升，其GPU集群规模翻倍至2.3万台](https://theminermag.com/news/2025-09-22/iren-gpu-stock) - 📰 null - 【IREN股价飙升，其GPU集群规模翻倍至2.3万台】金色财经报道，总部位于澳大利亚的比特币矿企于周一宣布IREN在获得额外12,400台GPU后，将其AI云算力容量翻倍至23,000台，并预计到2026年第一季度实现超过5亿美元的年化营收，其股价在盘前交易中上涨9%，接近42美元，延续了上周突破38美元创下历史新高的涨势。此次总额6.74亿美元的订单包括7,100台Nvidia B300、4,200台Nvidia B200和1,100台AMD MI350X GPU，使公司硬件阵容扩展至Nvidia以外的产品。 
-新一批设备将使IREN的GPU总量提升至约23,000台，其中包括1,900台Nvidia H100与H200、19,100台B200与B300、1,200台GB300以及1,100台AMD MI350X。IREN表示正在与客户洽谈数千台GPU集群的订单，并指出算力需求持续超过全球供应，客户越来越多地在交付前提前签订合同。
-- [美国加密矿企CleanSpark获得Coinbase的1亿美元信贷额度](https://www.theblock.co/post/371773/cleanspark-secures-100-million-credit-financing-coinbase) - 📰 null - 【美国加密矿企CleanSpark获得Coinbase的1亿美元信贷额度】金色财经报道，据The Block消息，美国比特币矿商CleanSpark周一宣布，已通过与Coinbase的机构部门Coinbase Prime达成扩大的比特币支持贷款协议，获得了额外的1亿美元信贷额度。 
-CleanSpark在周一发布的一份声明中表示，公司计划将新增资金用于三个关键领域的资本支出：扩大能源基础设施、扩大比特币挖矿业务以及在特定设施开发高性能计算能力。
-- [白宫数字资产顾问委员会官员：正加速美国数字资产立法，构建多部门协作保障加密政策延续性]() - 📰 null - 【白宫数字资产顾问委员会官员：正加速美国数字资产立法，构建多部门协作保障加密政策延续性】9月23日消息，美国总统数字资产顾问委员会副主任Harry Jung和执行董事Patrick Witt在韩国KBW 2025峰会现场分享了该委员会工作核心目标：加速《数字资产法案》通过、构建战略比特币储备、通过国税局和财政部提供明确加密税收指导，以及保护技术开发者权益。 
-二人表示，在白宫，他们正以一种“全政府”的方式进行协作，结合CFTC、商务部和财政部等等多部门力量推进加密政策。针对政府换届可能带来的政策逆转风险，他们表示正通过现行立法和监管框架“打下坚实基础”，确保未来政府难以推翻当前政策方向。他们相信，只要能让加密行业在美国蓬勃发展并深度扎根，美国加密战略将不可逆转。
-- [YZi Labs正考虑未来向外部投资者开放](https://www.ft.com/content/d6f8b57d-05fb-4142-9a2a-db50fdb04f5a) - 📰 null - 【YZi Labs正考虑未来向外部投资者开放】9月23日消息，据《金融时报》报道，YZi Labs正考虑未来向外部投资者开放。该机构目前主要投资加密货币、AI和生物科技领域，资金来源为赵长鹏及币安早期高管。 
-负责人Ella Zhang表示，待团队在AI和生物科技领域积累足够经验后，将考虑转型为对外开放基金。此前YZiLabs曾接受3亿美元外部投资，后部分退还。
-- [4E：BitMine定增3.65亿美元增持ETH，Strive收购比特币金库公司]() - 📰 null - 【4E：BitMine定增3.65亿美元增持ETH，Strive收购比特币金库公司】9月23日消息，据4E观察，美联储官员穆萨莱姆表示，在实施《GENIUS 法案》时，必须遵守稳定币支付利息的限制，强调稳定币应作为支付工具，而非储蓄工具。 
-市场情绪方面，Greeks.live 研究员 Adam 在社区简报中指出，交易员分歧明显，看空派预期 ETH 或跌破 4000 美元、BTC 或二次探底，而乐观派则视当前为牛市前的“最后一针”。期权隐含波动率上升、未平仓合约清算以及交易量缩减成为市场焦点。 
-产业动态上，特朗普盟友拉马斯瓦米旗下的 Strive 公司宣布收购比特币金库公司 Semler，两者合并后将共持有近 1.1 万枚比特币。本次交易为全股票收购，溢价逾 200%。 
-4E提醒投资者：机构频繁动作显示对 ETH 与 BTC 的强烈布局意愿，但市场仍存在较大分歧与波动，建议投资者在关注基本面与资金流向的同时，保持稳健仓位与灵活应对策略。
-- [金色午报 | 9月23日午间重要动态一览]() - 📰 null - 【金色午报 | 9月23日午间重要动态一览】7:00-12:00关键词：美联储、UXLINK、Aster 
-1.戴蒙：美联储进一步降息将面临困难； 
-2.UXLINK黑客通过DEX套现套现约6,732枚ETH； 
-3.Tether否认退出乌拉圭价值5亿美元加密挖矿项目； 
-4.韩国金融当局调查Bithumb与海外加密交易所订单共享情况； 
-5.Aster CEO：将在几周内公布代币回购计划，正确定具体方案； 
-6.Vitalik称赞Base为以太坊正确扩展方式，其非托管特性确保用户资金安全； 
-7.美国SEC和CFTC将于9月29日联合举办圆桌会议，讨论监管协调优先事项。
-- [加密资产经历大幅调整，投资者押注新一轮波动]() - 📰 null - 【加密资产经历大幅调整，投资者押注新一轮波动】金色财经报道，在经历高达15亿美元的爆仓后，加密货币交易员正押注市场将迎来新一轮波动。在缺乏明确触发因素的情况下，此次大规模爆仓再次凸显了加密货币市场的脆弱性，而期权价格的走势也预示着未来波动可能加剧。这场抛售是今年以来规模最大的一次，发生在数月投机性上涨之后，迫使以太坊及其他代币的杠杆头寸被强制平仓，令交易员为后续更大波动做好准备。 
-目前，押注价格剧烈波动的期权合约需求旺盛，反映出整个数字资产市场情绪高度紧张。以太坊上一交易日一度暴跌9%，导致近5亿美元的看涨押注化为乌有。“市场在昨日急剧回调后正处于盘整状态，但整体情绪仍显得相当紧张，”Orbit Markets联合创始人卡罗琳·莫龙表示。如果比特币跌破11万美元、以太坊跌破4000美元，可能会引发进一步抛售。(金十)
-- [World Liberty Financial将推出加密借记卡，可接入Apple Pay](https://www.theblock.co/post/371766/world-liberty-financial-debit-card-very-soon?utm_source=twitter&utm_medium=social) - 📰 null - 【World Liberty Financial将推出加密借记卡，可接入Apple Pay】金色财经报道，据The Block报道，World Liberty Financial联合创始人Zak Folkman在韩国区块链周活动上宣布，该项目将"很快"推出支持Apple Pay的加密借记卡和零售应用程序。该应用被描述为"Venmo遇上Robinhood"的组合，将融合传统支付和交易功能。同时，该公司已与韩国大型加密货币交易所Bithumb签署合作谅解备忘录。
+- [摩根大通：美国未来两个季度的GDP增长预计将放缓至几乎停滞的水平]() - 📰 null - 【摩根大通：美国未来两个季度的GDP增长预计将放缓至几乎停滞的水平】金色财经报道，摩根大通表示，美国未来两个季度的GDP增长预计将放缓至几乎停滞的水平。
+- [区块链创企Fnality完成1.36亿美元C轮融资，Wisdom Tree等参投](https://www.theblock.co/post/371889/fnality-raises-136-million-series-c-to-expand-settlement-rails-for-tokenized-markets) - 📰 null - 【区块链创企Fnality完成1.36亿美元C轮融资，Wisdom Tree等参投】金色财经报道，区块链初创公司Fnality宣布完成1.36亿美元C轮融资，WisdomTree、美国银行、花旗、KBC集团、淡马锡和Tradeweb参投，以扩大其针对银行和代币化资产的全球结算网络，该公司运营受中央银行监管的批发支付系统，并于2023年12月推出了英镑Fnality支付系统(£FnPS)。Fnality的系统允许银行以英格兰银行资金1:1支持的数字资产结算交易，为代币化债券、股票和回购交易提供实时支付支持。
+- [“麻吉大哥”黄立成做多ASTER，建立18.5万美元3倍杠杆仓位](https://x.com/ai_9684xtpa/status/1970463655851639282) - 📰 null - 【“麻吉大哥”黄立成做多ASTER，建立18.5万美元3倍杠杆仓位】金色财经报道，据链上分析师Ai姨监测，“麻吉大哥”黄立成在1.7876美元价位开出10万枚ASTER3倍做多仓位，价值18.5万美元。这是该交易者首次对ASTER进行看多操作，此前持空头立场。该仓位建立于20分钟前。
+- [加密风投Archetype为其第3支基金筹集1亿美元](https://fortune.com/crypto/2025/09/23/new-york-focused-crypto-venture-firm-archetype-raises-100-million-for-third-fund/) - 📰 null - 【加密风投Archetype为其第3支基金筹集1亿美元】9月23日消息，据《财富》报道，加密风投Archetype为其第3支基金筹集1亿美元。据悉，Archetype在2021年筹集了首支5500万美元的基金，随后在2022年加密牛市高峰期筹集了第二支1.55亿美元的基金。 
+尽管Archetype的第三支基金规模较小，为1亿美元，Egan表示这是有意为之，选择合适的有限合伙人（LP），仅新增了一位LP。Archetype的投资者包括养老金、基金会、主权财富基金和其他机构投资者，如Accolade Partners和True Bridge Capital的基金，以及顶级风险投资公司Sapphire Ventures。Archetype的下一轮投资包括更注重消费者的公司，如Remix，一款结合加密货币和人工智能的应用，允许用户创建手机游戏。
+- [OKX将下架UXLINK U本位永续合约]() - 📰 null - 【OKX将下架UXLINK U本位永续合约】金色财经报道，据官方消息，欧易将于2025年9月23日22:00下线UXLINK USDT永续合约。合约下线时，将停止该合约交易，撤销所有用户挂单，并以下线前一小时的欧易指数算术平均值作为交割价格。合约下线后，持仓价值大于10,000美元的用户将被限制账户资产划转，30分钟后恢复正常。
+- [Arthur Hayes2小时内以37.5万USDC购入1,630枚AAVE](https://x.com/lookonchain/status/1970460704005394897) - 📰 null - 【Arthur Hayes2小时内以37.5万USDC购入1,630枚AAVE】金色财经报道，据链上分析平台Lookonchain监测，BitMEX联合创始人Arthur Hayes2小时内以374,999USDC购买了1,630枚AAVE，平均购买价格为230美元。
+- [HEMI于Binance开盘触及0.696美元，现报0.1677美元]() - 📰 null - 【HEMI于Binance开盘触及0.696美元，现报0.1677美元】金色财经报道，据Binance行情显示，HEMI于Binance开盘触及0.696美元，现报0.1677美元，最低跌至0.105美元，当前跌幅75.91%。
+- [1,218个BTC从Ceffu钱包转移到Binance钱包](https://x.com/whale_alert/status/1970456689129271389) - 📰 null - 【1,218个BTC从Ceffu钱包转移到Binance钱包】金色财经报道，据Whale Alert监测，1,218个BTC（约合137,622,396美元）从Ceffu钱包转移到Binance钱包。
+- [Piper Sandler因预测市场增长将Robinhood股票的目标价从120美元上调至140美元](https://x.com/DeItaone/status/1970455032228192331) - 📰 null - 【Piper Sandler因预测市场增长将Robinhood股票的目标价从120美元上调至140美元】金色财经报道，据彭博分析师*Walter Bloomberg发布市场消息，美国知名投资银行与金融服务公司派珀・桑德勒（Piper Sandler）因预测市场增长将Robinhood（$HOOD）的目标价从120美元上调至140美元。Robinhood通过与Kalshi的合作在预测市场中获得了强劲的增长。9月的事件合约交易量预计将达到26亿美元，其中Robinhood用户推动了25%到35%的交易活动。其年化收入超过2亿美元，这促使Piper Sandler上调了2025年至2027年的每股收益预期。
+- [FG Nexus披露其ETH持仓量已达到5万枚](https://www.globenewswire.com/news-release/2025/09/23/3154578/0/en/FG-NEXUS-REACHES-50-000-ETH-HOLDING-MILESTONE.html) - 📰 null - 【FG Nexus披露其ETH持仓量已达到5万枚】9月23日消息，据Globenewswire报道，FGNexus（纳斯达克股票代码：FGNX、FGNXP）宣布，其ETH持仓量达到5万枚。该公司于8月份实施了ETH财库战略，并在过去一个月持续增持ETH。该公司持有的50,000枚ETH仓位总价值约为2.1亿美元，该公司的平均ETH买入价格约为3,860美元。
+- [STBL 创始人：将于第四季度启动回购计划，100% 铸造费用将用于回购](https://x.com/avtarsehra/status/1970434890001743919) - 📰 null - 【STBL 创始人：将于第四季度启动回购计划，100% 铸造费用将用于回购】金色财经报道，据STBL创始人Avtar Sehra披露，STBL将于第四季度开始启动回购计划。届时100%的铸造费用将用于回购，从而推动$STBL的价值增长。Avtar Sehra称，随着STBL的推出，接下来将发布以下功能：1.多因子质押；2.回购启动；3.USST铸造启动；4.100%费用转向回购并提供链上日志记录。此前消息，Binance已上线STBL永续合约。
+- [LINK财库公司Caliber宣布由Coinbase Prime托管其财库资产](https://www.globenewswire.com/news-release/2025/09/23/3154556/0/en/Caliber-Selects-Coinbase-Prime-to-Power-Trading-and-Custody-for-LINK-Treasury.html) - 📰 null - 【LINK财库公司Caliber宣布由Coinbase Prime托管其财库资产】金色财经报道，纳斯达克上市的LINK财库公司Caliber宣布选择Coinbase Prime托管其提供交易和托管服务，以支持其数字资产财库战略。
+- [Zerohash以10亿美元估值完成1.04亿美元D轮融资，盈透领投，摩根士丹利等参投](https://www.cnbc.com/2025/09/23/startup-zerohash-raises-104million-morgan-stanley-sofi-apollo.html) - 📰 null - 【Zerohash以10亿美元估值完成1.04亿美元D轮融资，盈透领投，摩根士丹利等参投】金色财经报道，加密基础设施初创公司Zerohash以10亿美元估值完成1.04亿美元D轮融资，本轮融资由InteractiveBrokers领投，摩根士丹利、SoFi、Apollo等参投。 
+Zerohash成立于2017年，根据Woodford的说法，公司为银行和金融科技公司提供在三个主要领域提供基于区块链的产品：加密交易、稳定币和代币化。（CNBC）
+- [币安上线Hemi(HEMI)并开放多项功能]() - 📰 null - 【币安上线Hemi(HEMI)并开放多项功能】9月23日消息，币安将于2025年9月23日20:00上线Hemi(HEMI)的币安理财、闪兑、杠杆等功能。用户可通过币安理财申购HEMI保本赚币活期产品，并可在一键买币页面使用信用卡等方式购买HEMI。闪兑交易平台将支持HEMI兑换BTC、USDT等代币，且免手续费。同时，币安杠杆将新增HEMI可借资产及HEMI/USDT、HEMI/USDC杠杆交易对。
+- [CryptoQuant：比特币短期持有者现恐慌抛售，关键支撑位面临考验](https://x.com/cryptoquant_com/status/1970438274717020259) - 📰 null - 【CryptoQuant：比特币短期持有者现恐慌抛售，关键支撑位面临考验】9月23日消息，CryptoQuant 分析显示，比特币短期持有者的已实现支出产出利润率（STH SOPR）急剧跌破 1，表明短期持有者正实现亏损，这是该群体恐慌性抛售的典型迹象。短期持有者不仅持仓浮亏，还积极投降抛售，按 11.3 万美元/枚价格计算，此次恐慌抛售规模超 33.9 亿美元。不过，比特币价格仍在短期持有者已实现价格（平均链上成本价）附近波动，历史数据显示该价位在波动阶段常起支撑作用。 
+值得注意的是，巨鲸也显现承压迹象，新鲸鱼已实现亏损 1.846 亿美元，旧鲸鱼已实现亏损 2630 万美元，双方均在去风险化，对短期走势不利。此外，短期持有者 MVRV 约等于 1，意味着平均持仓处于盈亏平衡点，但 SOPR 1 表明许多人正在成本价以下抛售，反映出近期反弹行情中的高位买入者正恐慌性抛售。
+- [UXLINK：主要 CEX 合作伙伴均支持代币合约迁移，新智能合约正接受安全审计](https://twitter.com/UXLINKofficial/status/1970442198715113673) - 📰 null - 【UXLINK：主要 CEX 合作伙伴均支持代币合约迁移，新智能合约正接受安全审计】9月23日消息，UXLINK发布关于UXLINK代币合约迁移的最新进展：目前，UXLINK代币存在未经授权的增发行为，这既违背了UXLINK白皮书内容，也破坏了社区共识。已就计划中的代币置换事宜与主要CEX合作伙伴进行了沟通，他们均表示全力支持。一份新的智能合约已提交进行安全审计。该新合约将设定固定代币供应量，确保不会再增发任何额外代币。同时，取消了通常用于跨链解决方案、旨在保障社区利益的增发-销毁功能。 
+其还在回应韩国数字资产交易所协会DAXA的询问，并将与安全专家合作伙伴共同编写一份全面的事件报告。此前，UXLINK表示，多签钱包遭遇安全漏洞，资金被非法转移。
+- [哈萨克斯坦央行联合 Solana 和万事达卡推出坚戈稳定币 Evo (KZTE)](https://cointelegraph.com/news/kazakhstan-solana-mastercard-stablecoin-kzte) - 📰 null - 【哈萨克斯坦央行联合 Solana 和万事达卡推出坚戈稳定币 Evo (KZTE)】金色财经报道，据 Cointelegraph 报道，哈萨克斯坦国家银行宣布在其数字资产监管沙盒框架内启动稳定币试点项目。新推出的 Evo (KZTE) 稳定币与哈萨克斯坦坚戈挂钩，由沙盒参与者 Intebix 加密货币交易所和当地贷款机构欧亚银行发行，并得到 Solana 和万事达卡的协助。 
+该稳定币基于 Solana 区块链构建，已在央行监管沙盒内上线。万事达卡将负责连接 KZTE 与全球稳定币发行商。Intebix 创始人 Talgat Dossanov 表示，这是央行首次在稳定币发行中发挥主动作用。 
+KZTE 被定义为"国家稳定币"，旨在连接加密创新与传统金融，用例包括扩展加密货币-法币通道、支持加密货币交易和加密卡交易等。
+- [UXLINK在Binance合约触底反弹，近一小时涨超68%]() - 📰 null - 【UXLINK在Binance合约触底反弹，近一小时涨超68%】9月23日消息，据行情数据，UXLINK在Binance合约平台触底反弹，近一小时涨超68%，当前合约价格为0.1315美元，最高触及0.1554美元，资金费率现报-0.26%。此外，UXLINK在Arbitrum等多个链上价格仍维持最低位。UXLINK今日早前公告，将启动代币置换。
+- [比特币期货未平仓合约金额从448亿美元降至428亿美元](https://x.com/Cointelegraph/status/1970439854849737092) - 📰 null - 【比特币期货未平仓合约金额从448亿美元降至428亿美元】金色财经报道，据Glassnode数据显示，比特币期货未平仓合约金额从 448 亿美元降至 428 亿美元，这一变化反映出市场投机性敞口有所减少。
+- [Borse Stuttgart已将比特币及加密货币的买卖业务拓展至西班牙市场](https://x.com/pete_rizzo_/status/1970438071947837944) - 📰 null - 【Borse Stuttgart已将比特币及加密货币的买卖业务拓展至西班牙市场】金色财经报道，据市场消息，欧洲第六大交易所 —— 斯图加特证券交易所（Borse Stuttgart）已将比特币（BITCOIN）及加密货币的买卖业务拓展至西班牙市场。比特币正逐步渗透传统市场。
