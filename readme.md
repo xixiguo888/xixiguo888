@@ -1,41 +1,27 @@
-- [东欧最大的在线市场之一Wildberries在白俄罗斯试点加密货币支付](https://financefeeds.com/wildberries-pilots-crypto-payments-in-belarus/) - 📰 null - 【东欧最大的在线市场之一Wildberries在白俄罗斯试点加密货币支付】金色财经报道，东欧最大的在线市场之一 Wildberries正在白俄罗斯试行加密货币支付，此次合作伙伴为Whitebird，一家在白俄罗斯高科技园区（Hi-Tech Park）运营的金融科技公司，该园区负责监管该国的数字经济创新项目。 
-该试点项目获得了白俄罗斯高科技园区的授权，该园区是一个由政府支持的框架，Wildberries并未允许用户直接向商家支付加密货币，而是采用了混合模式：用户可以通过Whitebird平台将比特币、以太坊、TON等流行加密货币兑换为电子礼品券。礼品券以白俄罗斯卢布（BYN）发行，可在Wildberries网站和移动应用上兑换使用。 
-据公司声明，该服务目前处于测试阶段，仅向部分用户开放，支持桌面端和移动端访问。
-- [Binance Alpha将于26日上线MIRA和HANA](https://x.com/binancezh/status/1970730285831708857) - 📰 null - 【Binance Alpha将于26日上线MIRA和HANA】金色财经报道，据官方公告，Binance Alpha将于26日上线Mira Network(MIRA)和Hana Network(HANA)。 
-符合条件的用户可于Alpha交易开放后，前往Alpha活动页面使用Alpha积分领取空投。具体详情将另行公布。
-- [dYdX：今日将发布重大公告](https://x.com/dYdX/status/1970728036145471900) - 📰 null - 【dYdX：今日将发布重大公告】9月24日消息，dYdX发文表示今日将发布重大公告。
-- [Aptos Labs：共识升级Velociraptr可将出块时间缩短40%](https://aptoslabs.medium.com/velociraptr-towards-faster-block-time-for-the-global-trading-engine-b7579d27fd1a) - 📰 null - 【Aptos Labs：共识升级Velociraptr可将出块时间缩短40%】9月24日消息，Aptos Labs发文称，最新的共识升级Velociraptr(AIP131)引入一种新的区块提议机制，可将区块时间缩短最多40%，当前Aptos的出块时间约100毫秒。Velociraptr在Aptos验证器网络的初始部署预计于9月开始，全面部署预计将于10月完成。
-- [币安：Zerobase(ZBT)TGE活动门槛为218分](https://www.binance.com/zh-CN/support/announcement/detail/a1aebbface16420388f32b02b1ee55eb) - 📰 null - 【币安：Zerobase(ZBT)TGE活动门槛为218分】金色财经报道，据官方公告，币安Alpha积分大于等于218的用户，可以通过Alpha活动页面参与此次Zerobase(ZBT)TGE活动.参与本次TGE活动将消耗10积分。
-- [分析师：市场已进入修正性的区间震荡模式，目前的反弹更多是暂时性回升](https://x.com/AxelAdlerJr/status/1970720651783660018) - 📰 null - 【分析师：市场已进入修正性的区间震荡模式，目前的反弹更多是暂时性回升】金色财经报道，Cryptoquant分析师Axel Adler Jr发布市场分析表示市场结构已发生变化，综合指数跌破−0.4阈值，显示空头占优，同时快速–慢速EMA的差值为负，趋势和价格位于21日唐奇安通道 的下方区域。 
-市场已进入修正性的区间震荡模式，目前的反弹更多是暂时性回升，而非趋势重启。在通道内，关键支撑位于109,500美元。若守住该水平并将结构重新推回零以上，将恢复多头格局，并有望重测117,700美元。
-- [4E：SEC拟推“创新豁免”，BTC短期承压但ETF热度不减](https://x.com/4E_ZH/status/1970710656434479319) - 📰 null - 【4E：SEC拟推“创新豁免”，BTC短期承压但ETF热度不减】9月24日消息，据4E观察，美国证券交易委员会主席Paul Atkins表示，计划在年底前推出“创新豁免”，允许加密公司立即推出新产品，避免繁琐监管约束，并在未来数月内制定配套规则。他强调，美国IPO数量已跌至30年前的一半，新举措旨在提振资本市场活力。 
-市场方面，CryptoQuant数据显示，比特币短期持有者出现恐慌性抛售，规模超33.9亿美元，SOPR指标跌破1，反映出大量投资者在成本价以下割肉。BTC巨鲸亦出现浮亏，短线走势承压。与此同时，比特币期货未平仓合约由 448 亿美元降至428亿美元，投机性仓位有所回落。 
-传统金融巨头继续从加密市场获利。数据显示，贝莱德旗下比特币与以太坊 ETF 年收入已达2.6亿美元，其中BTC产品贡献2.18亿美元，AUM接近850亿美元，占美国现货比特币ETF市场份额的57.5%，稳居第一。与此同时，以太坊现货ETF交易量占比升至15%，显著高于去年同期的3%，推动ETH年内累计涨幅超过30%。 
-财富结构亦加速重塑。《2025年加密货币财富报告》显示，目前全球持有超百万美元加密资产的人数达24.17万人，较去年增长40%；其中持有超1亿美元加密资产的富翁已达450名。 
-4E提醒投资者：监管豁免与ETF发展推动加密市场进一步制度化，但短期波动仍由情绪与资金流向主导。建议投资者关注政策落地节奏与机构资金动向，保持稳健配置与风险分散。
-- [CZ：业内安全人员已追踪到SFUND跨链桥相关被盗资金并在HTX冻结20万美元](https://x.com/cz_binance/status/1970713203744121089) - 📰 null - 【CZ：业内安全人员已追踪到SFUND跨链桥相关被盗资金并在HTX冻结20万美元】金色财经报道，针对Web3孵化器和Launchpad平台Seedify创始人Meta Alchemis请求CZ协助冻结一条SFUND跨链桥被盗资金，CZ表示，“和业内几位安全人员聊过，我相信他们已经追踪到相关资金，并在HTX冻结了20万美元，剩余资金似乎还在链上。看起来像是 朝鲜（DPRK） 的动作。主要中心化交易所（CEX）现在大概率已经将这些地址列入黑名单。祝好运！”
-- [BNB Chain验证者提议降低Gas费用并加快交易速度](https://financefeeds.com/bnb-chain-validators-propose-gas-fee-reduction-and-faster-transaction-times/) - 📰 null - 【BNB Chain验证者提议降低Gas费用并加快交易速度】金色财经报道，BNB Chain验证者提出了一项提案，旨在大幅降低交易成本并加快处理速度，以使该区块链在与其他快速低成本网络的竞争中更具优势。该提案目前正在社区讨论，计划将Gas费用降低一半，同时缩短区块时间，以提升交易终结性。 
-根据新提案，BNB Chain的最低Gas价格将从0.1 Gwei降至0.05 Gwei，这意味着交易费用减少50%，平均成本可能接近 每笔交易0.001美元。验证者还建议将区块间隔从大约750毫秒缩短至450毫秒。
-- [数据：过去两个月流入加密市场的资金减少300亿美元](https://x.com/ali_charts/status/1970710283397337477) - 📰 null - 【数据：过去两个月流入加密市场的资金减少300亿美元】金色财经报道，据链上分析师@ali_charts监测，过去两个月流入加密市场的资金减少300亿美元。
-- [某鲸鱼从Bybit提取325.8万ASTER，约合674万美元](https://x.com/OnchainDataNerd/status/1970709057003774428) - 📰 null - 【某鲸鱼从Bybit提取325.8万ASTER，约合674万美元】金色财经报道，据The Data Nerd监测，2小时前，鲸鱼0x5bd从Bybit提取了325.8万ASTER(约674万美元)，在12小时内，他总共积累了671.8万枚ASTER，平均入场价约为1.98美元。
-- [VanEck：过去一年机构对BTC的总需求约为其产量的6.7 倍](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2025-bitcoin-chaincheck/) - 📰 null - 【VanEck：过去一年机构对BTC的总需求约为其产量的6.7 倍】金色财经报道，9月23日VanEck 发文指出，过去一年，企业增持了超过70.9 万枚比特币（约合 830 亿美元），目前超过 290 家公司持有价值超过 1630 亿美元的比特币。由于同期比特币开采量仅为27 万枚，目前企业需求增速约为比特币产量的4.3 倍。如果将 ETP、其他基金和政府持有的比特币纳入考量，机构总需求增速约为产量的6.7倍。机构投资者加速购买比特币，表明他们越来越认可其通货紧缩的供应，这赋予了比特币独特的价值存储属性。从现在到预计2028年4月的下一次减半，比特币产量将只有约43万枚。下个减半周期（2028-2032）的比特币产量将总计约33万枚。在2032年后的未来100多年里，比特币产量总共将只有约33万枚。
-- [UXLINK完成新合约审计，将启动代币迁移并提交至多家交易所](https://x.com/UXLINKofficial/status/1970703990548578595) - 📰 null - 【UXLINK完成新合约审计，将启动代币迁移并提交至多家交易所】金色财经报道，UXLINK团队发布最新安全公告称，其新代币合约已完成安全审计，即将在以太坊主网上部署。 
-新合约移除了铸烧功能，跨链特性将通过合作伙伴服务保留。代币符号继续沿用“UXLINK”，以确保平台间的统一性。团队将向多家中心化交易所提交新合约详情及迁移计划，并准备向韩国DAXA提交完整回应。同时，团队已冻结大量与黑客相关的钱包地址，正联合执法机构及第三方展开追讨，所有社区损失将以透明方式处理并用于社区发展和赔偿。
-- [过去1小时全网爆仓超1亿美元，主爆多单](https://www.coinglass.com/zh/LiquidationData) - 📰 null - 【过去1小时全网爆仓超1亿美元，主爆多单】金色财经报道，数据显示，过去1小时全网爆仓1.02亿美元，其中多单爆仓9888.65万美元，空单爆仓335.07万美元，主爆多单。其中ETH爆仓2706.25万美元，BTC爆仓2166.25万美元。
-- [ETH跌破4100美元]() - 📰 null - 【ETH跌破4100美元】金色财经报道，行情显示，ETH跌破4100美元，现报4095.59美元，24小时跌幅达到2%，行情波动较大，请做好风险控制。
-- [香港 OSL 集团收购印度尼西亚加密货币交易所Koinsayang](https://financefeeds.com/osl-enters-indonesia-with-koinsayang-buy-betting-on-tokenization-and-payfi/) - 📰 null - 【香港 OSL 集团收购印度尼西亚加密货币交易所Koinsayang】金色财经报道，香港 OSL 集团已完成对印度尼西亚加密货币交易所 Koinsayang 的收购。这项交易通过发行约 930 万股新股完成，使得 OSL 获得了该交易所的控制权，该交易所拥有加密货币现货和衍生品交易的许可证。
-- [Michael Saylor：年底比特币价格会再度上涨，当下比特币核心叙事在于机构囤积](https://x.com/saylor/status/1970596121878950177) - 📰 null - 【Michael Saylor：年底比特币价格会再度上涨，当下比特币核心叙事在于机构囤积】9月24日消息，Strategy创始人Michael Saylor今日在接受CNBC采访时表示，当下比特币真正的故事在于企业的接纳。大型ETF机构如贝莱德持续收购比特币，这占据了所有自然供应量，且他们代表的是机构投资者的利益。而那180家比特币储备公司，购买量甚至超过了矿工的供应量。我认为，随着我们克服近期阻力和一些宏观逆风因素，到年底比特币价格会开始再度上涨。 
-此外，在采访中，Michael Saylor再次强调比特币是数字黄金的观点。比特币是黄金的科技版，即数字黄金。依我之见，其规模将达黄金十倍。
-- [BNB跌破1000美元]() - 📰 null - 【BNB跌破1000美元】金色财经报道，行情显示，BNB跌破1000美元，现报999.55美元，24小时涨幅达到1.43%，行情波动较大，请做好风险控制。
-- [金色午报 | 9月24日午间重要动态一览]() - 📰 null - 【金色午报 | 9月24日午间重要动态一览】7:00-12:00关键词：特朗普、欧洲央行、Aster 
-1.特朗普：未来某一天比特币“将超过黄金”； 
-2.欧洲央行：数字欧元或于2029年中期推出； 
-3.SBF X账号再次发文：我是朋友，替SBF发帖； 
-4.Aster近24小时链上衍生品交易量达211亿美元； 
-5.美SEC在“通用上市”框架下批准了灰度的以太坊ETF； 
-6.Vitalik Buterin发文论证技术开放性与可验证性的重要性； 
-7.200亿美元财富管理公司本周投票批准通过Bitwise配置3%比特币。
-- [Galaxy Digital CEO：美国两项关键加密法案的通过将带来打破周期的投资者浪潮](https://cointelegraph.com/news/novogratz-predicts-cycle-cycle-breaking-new-wave-of-crypto-participation) - 📰 null - 【Galaxy Digital CEO：美国两项关键加密法案的通过将带来打破周期的投资者浪潮】金色财经报道，Galaxy Digital首席执行官Mike Novogratz表示，美国两项关键加密法案的通过将迎来新一波加密货币投资浪潮，这可能会打破传统的四年市场周期。 
-Novogratz周二表示，7月签署成为法律的《GENIUS法案》（旨在监管稳定币），以及界定监管机构对加密货币管辖权的《CLARITY法案》，将导致大量新投资者涌入，从而扰乱传统的四年周期模式。 
-“这是一件大事。有了这两项作为“书挡”的立法，它将释放出巨大的新力量，吸引大量新的参与者进入加密货币领域。” 
-许多加密投资者认为，加密市场遵循一种价格走势模式，与大约每四年发生一次的比特币减半事件相吻合。最近一次减半发生在2024年4月，因此一些人认为当前的牛市可能很快结束。
+- [稳定币总市值创下2910亿美元的历史新高](https://x.com/Cointelegraph/status/1970828184493953186) - 📰 null - 【稳定币总市值创下2910亿美元的历史新高】金色财经报道，据Cointelegraph发布图表称，稳定币总市值刚刚创下2910亿美元的历史新高（ATH）。
+- [Tether 任命 Benjamin Habbel 为首席商务官](https://tether.io/news/tether-appoints-benjamin-habbel-as-chief-business-officer-to-drive-next-phase-of-global-growth/) - 📰 null - 【Tether 任命 Benjamin Habbel 为首席商务官】金色财经报道，Tether 宣布任命 Benjamin Habbel 为新任首席商务官。Habbel 将领导公司发展、财务、投资和投资组合扩张。作为首席商务官，Habbel 还将专注于与 Tether 的投资组合公司和投资项目紧密合作，进一步扩大投资组合管理团队，并赋能创始人和团队实现其愿景。
+- [稳定币初创公司 Bastion 完成 1460 万美元融资轮，Coinbase Ventures 领投](https://fortune.com/crypto/2025/09/24/bastion-coinbase-sony-samsung-hashed-fundraise/) - 📰 null - 【稳定币初创公司 Bastion 完成 1460 万美元融资轮，Coinbase Ventures 领投】9月24日消息，据 Fortune 报道，稳定币初创公司 Bastion 宣布完成 1460 万美元融资，由 Coinbase Ventures 领投，本轮融资的其他参与方包括索尼风投部门、三星风投部门、Andreessen Horowitz 加密部门以及加密风投 Hashed。
+- [Binance 将下架 UXLINK USDT 永续合约]() - 📰 null - 【Binance 将下架 UXLINK USDT 永续合约】金色财经报道，据官方公告，Binance 将下架 UXLINK USDT 永续合约。
+- [贝森特：美联储主席鲍威尔应发出100至150个基点降息信号]() - 📰 null - 【贝森特：美联储主席鲍威尔应发出100至150个基点降息信号】金色财经报道，美国财长贝森特表示，美联储主席鲍威尔本应发出100至150个基点降息的信号。
+- [美国财长：美联储利率已过高太久，将进入宽松周期]() - 📰 null - 【美国财长：美联储利率已过高太久，将进入宽松周期】金色财经报道，美国财长贝森特表示，美联储利率已过高太久了；我们将进入宽松周期，对美联储主席鲍威尔尚未暗示利率目标感到惊讶。(金十)
+- [美国战略比特币储备审计已逾期172天](https://x.com/Protos/status/1970817730333860018) - 📰 null - 【美国战略比特币储备审计已逾期172天】金色财经报道，据市场消息，美国战略比特币储备（US Strategic Bitcoin Reserve）审计已逾期 172 天。
+- [USDH稳定币已在Hyperliquid平台上线](https://www.theblock.co/post/372128/hyperliquids-home-grown-stablecoin-usdh-goes-live-after-native-markets-winning-bid) - 📰 null - 【USDH稳定币已在Hyperliquid平台上线】金色财经报道，Native Markets 发行的 USDH 稳定币已在 Hyperliquid 平台上线，目前 USDH/USDC 交易对已开放交易。USDH 是首个基于 Hyperliquid 验证节点运行选择流程发行的美元挂钩代币。它是在 HyperEVM 上原生发行的稳定币，并可在 Hyperliquid 全生态中跨链流通。Native Markets 于本月早些时候中标，击败了包括 Paxos、Frax、Agora 等在内的多家公司的提案。该计划要求分阶段推出，并在投票通过后“数日内”上线首个 USDH/USDC 现货市场。
+- [1.74亿枚USDC从未知钱包转移至Coinbase](https://x.com/whale_alert/status/1970807923849695396) - 📰 null - 【1.74亿枚USDC从未知钱包转移至Coinbase】金色财经报道，据Whale Alert监测，1.74 亿枚USDC（1.74002777 亿美元）从未知钱包转移至 Coinbase交易所。
+- [Amplify ETFs向美SEC提交Solana和XRP期权收益ETF申请](https://www.globenewswire.com/news-release/2025/09/24/3155352/0/en/Amplify-ETFs-Files-for-Solana-XRP-Option-Income-ETFs.html) - 📰 null - 【Amplify ETFs向美SEC提交Solana和XRP期权收益ETF申请】金色财经报道，交易所交易基金解决方案提供商Amplify ETFs宣布已向美国证券交易委员会提交Solana和XRP期权收益ETF申请，寻求通过投资XRP、SOL的价格回报和备兑看涨期权策略来平衡收入和资本增值。
+- [蚂蚁集团支付宝体验技术部开源智能编程助手Neovate Code]() - 📰 null - 【蚂蚁集团支付宝体验技术部开源智能编程助手Neovate Code】金色财经报道，9月24日，蚂蚁集团宣布，支付宝体验技术部正式对外开源智能编程助手Neovate Code。据介绍，目前，Neovate Code以CLI工具的形态提供，但其架构设计高度灵活，未来将支持多种客户端形态，适配更多开发场景。
+- [九紫控股董事会批准允许部署高达10亿美元的加密资产投资政策](https://www.prnewswire.com/news-releases/following-the-appointment-of-dr-doug-buerger-as-coo-jiuzi-holdings-incs-board-endorses-crypto-asset-investment-policy-allowing-up-to-1-billion-deployment-302565700.html) - 📰 null - 【九紫控股董事会批准允许部署高达10亿美元的加密资产投资政策】金色财经报道，九紫控股有限公司（纳斯达克股票代码： JZXN）今日宣布，公司董事会已正式批准并采纳了一项加密资产投资政策。该政策授权公司在审慎的风险管理框架内，将部分现金储备配置到特定的加密资产中。经过彻底的研究和仔细的评估，这一战略举措是在最近任命业界知名的加密专家Doug Buerger博士为首席运营官 (COO) 之后采取的。 
+政策核心框架： 
+1. 明确的投资授权和上限：董事会已授权公司部署高达10 亿美元的资金用于购买加密资产，确保控制风险敞口。 
+2. 严格的资产选择标准：初始阶段，投资范围仅限于比特币（BTC）、以太坊（ETH）和币安币（BNB）。未来任何扩展至其他资产的计划，均须经过董事会风险委员会的重新评估和批准。 
+3. 最高级别的托管标准：公司不会自行托管所获得的加密资产。 
+4. 专业监督与治理架构：成立“加密资产风险委员会”，由首席财务官领导，负责监督各项政策的执行情况，并定期向董事会汇报。
+- [CZ：Perp DEX时代来临，优质项目长期将会胜出](https://x.com/cz_binance/status/1970805413387059703) - 📰 null - 【CZ：Perp DEX时代来临，优质项目长期将会胜出】金色财经报道，Binance创始人CZ表示，现在人人都想做Perp DEX。更多参与者会让市场规模更快扩大，水涨船高。长期来看，最优秀的建设者才会胜出。Perp DEX时代来了。
+- [BNB Chain（币安智能链）的稳定币供应量达到125亿美元 创历史新高](https://x.com/coinbureau/status/1970807722355356089) - 📰 null - 【BNB Chain（币安智能链）的稳定币供应量达到125亿美元 创历史新高】金色财经报道，据Coin Bureau发布图表称，BNB Chain（币安智能链）的稳定币供应量刚刚达到125亿美元，创下数年来的最高水平。
+- [BTC突破113000美元]() - 📰 null - 【BTC突破113000美元】金色财经报道，行情显示，BTC突破113000美元，现报113003.99美元，24小时涨幅达到0.1%，行情波动较大，请做好风险控制。
+- [CZ：早期就对加密钱包 SafePal 进行投资](https://x.com/cz_binance/status/1970802490989064405) - 📰 null - 【CZ：早期就对加密钱包 SafePal 进行投资】金色财经报道，据 CZ 社交媒体披露，加密钱包 SafePal 也是一个投资组合项目，他在很早期就进行了投资，时间点紧随对 Trust Wallet 的投资之后。
+- [DeFi Technologies旗下子公司Valour推出HYPE、PEPE等13只加密货币ETP](https://www.globenewswire.com/news-release/2025/09/24/3155264/0/en/Valour-Launches-Thirteen-New-ETPs-on-Spotlight-Stock-Market-Reaches-99-Listed-ETPs-and-Further-Bolsters-the-Largest-Digital-Asset-ETP-Selection-Globally.html) - 📰 null - 【DeFi Technologies旗下子公司Valour推出HYPE、PEPE等13只加密货币ETP】金色财经报道，纳斯达克上市企业DeFi Technologies子公司Valour宣布在瑞典Spotlight股票市场推出以瑞典克朗计价的13只加密货币ETP，覆盖PEPE (PEPE)、Flare (FLR)、Virtuals (VIRTUAL)、Optimism (OP)、Story (IP)、Immutable (IMX)、Quant (QNT)、The Graph (GRT)、Floki (FLOKI)、Theta (THETA)、Four (FORM)、IOTA (IOTA)、Hyperliquid (HYPE)，截至目前其数字资产ETP产品数量已达到99只。
+- [美元指数DXY日内涨超0.5%，现报97.72]() - 📰 null - 【美元指数DXY日内涨超0.5%，现报97.72】金色财经报道，美元指数DXY日内涨超0.5%，现报97.72。
+- [稳定币市值突破2945亿美元，再创历史新高](https://defillama.com/stablecoins) - 📰 null - 【稳定币市值突破2945亿美元，再创历史新高】金色财经报道，DefiLlama网站数据显示，稳定币整体市值已突破2,945亿美元，现报2,945.62亿美元，7日涨幅达1.4%。其中，USDT市场份额占比高达58.73%，USDT市值突破1,730亿美元，暂报1,730.09亿美元；USDC市值为736.01亿美元，USDe、DAI、USDS分列第三至五位。
+- [Kraken承诺向2个支持加密货币的政治组织共捐赠200万美元](https://cointelegraph.com/news/kraken-donates-2m-crypto-groups-fight-continues) - 📰 null - 【Kraken承诺向2个支持加密货币的政治组织共捐赠200万美元】金色财经报道，加密货币交易所 Kraken 承诺向两个政治团体捐赠 200 万美元，作为其所称的在美国捍卫核心加密货币自由持续斗争的一部分。 
+Kraken 联合首席执行官 Arjun Sethi 在 X 平台发文宣布，该交易所将向 Freedom Fund PAC 捐赠 100 万美元，并将其 2025 年对 America First Digital 的承诺增加至 100 万美元。 
+Sethi 表示，"在美国为加密货币而战远未结束"，并警告称自托管和去中心化访问等加密货币基础权利仍面临"监管不确定性"、隐私工具禁令和基础设施犯罪化努力的威胁。他将这些捐赠描述为"对将定义加密货币未来的法律和监管框架的战略投资"，强调 Kraken 支持的是隐私、自托管和创新等原则，而非政党。
