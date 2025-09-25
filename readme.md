@@ -1,25 +1,44 @@
-- [回购市场收紧信号显现 投资者涌入美联储利率期货](https://flash.jin10.com/detail/20250925010044539800) - 📰 null - 【回购市场收紧信号显现 投资者涌入美联储利率期货】金色财经报道，在季度末短期融资市场面临紧张风险之际，投资者正以创纪录的速度涌入与美联储基准隔夜利率挂钩的期货。数据显示，用于押注美联储基准隔夜利率走势的联邦基金期货9月合约成交量已接近50万份，超过了4月3日创下的首个通用合约纪录——当时特朗普宣布大规模关税政策，引发市场动荡。一些市场参与者担心，不断减少的储备可能会在月末和季末期间引发融资压力飙升，届时交易商为满足监管要求会削减回购业务并强化资产负债表，从而推高融资成本。随着交易员预期有效利率可能在月末前升至4.10%，美国早盘时段抛售再次加剧。
-- [上市公司Autris拟募资3000万美元并收购BitCorp Capital](https://www.newsfilecorp.com/release/267587/Autris-Acquires-BitCorp-Capital-Substantially-Bolstering-Its-Bitcoin-Reserve-Strategy-and-Undertakes-30-Million-Dollar-Capital-Raise) - 📰 null - 【上市公司Autris拟募资3000万美元并收购BitCorp Capital】金色财经报道，采用比特币策略的上市公司 Autris 宣布收购 BitCorp Capital，具体收购金额暂未披露，旨在大幅扩展其比特币财务战略。此外，Autris 还披露计划通过 D 506 (b)条例申请，向合格投资者募集最多 3000 万美元资金。
-- [Tether最新估值将使其董事长成为全球第五大富豪](https://x.com/BTC_Archive/status/1970890352820199827) - 📰 null - 【Tether最新估值将使其董事长成为全球第五大富豪】金色财经报道，据彭博社，Tether 的最新估值将使其董事长成为全球第五大富豪，净资产达 2240 亿美元。
-- [Athena Bitcoin被指控窃取AML的比特币ATM源代码](https://news.bloomberglaw.com/ip-law/athena-bitcoin-accused-of-stealing-atm-source-code-from-aml) - 📰 null - 【Athena Bitcoin被指控窃取AML的比特币ATM源代码】9月25日消息，AML 公司在一份联邦诉讼中指控称，比特币 ATM 运营商 Athena Bitcoin Inc. 涉嫌策划一项“欺诈计划”，窃取 AML Software Inc. 用于比特币 ATM 的计算机源代码，构成版权侵权并非法挪用商业机密。 
-根据在佛罗里达州南区联邦地区法院提交的诉状，Athena 通过一系列交易，与一些其明知正在向其转移 AML 源代码的实体签署了协议。 
-AML 称，该源代码的部分内容属于商业机密，仅有签署了保密协议的开发人员知情。
-- [Core DAO比特币质押ETP已在伦敦证券交易所上线](https://x.com/Cointelegraph/status/1970873487821578599) - 📰 null - 【Core DAO比特币质押ETP已在伦敦证券交易所上线】金色财经报道， Core DAO 推出的比特币质押交易所交易产品（ETP）已在伦敦证券交易所正式上线交易。
-- [分析：比特币已跌破通常标志着获利回吐区间的关键风险带](https://x.com/glassnode/status/1970877250414531040) - 📰 null - 【分析：比特币已跌破通常标志着获利回吐区间的关键风险带】金色财经报道，glassnode 发文表示，比特币已跌破通常标志着获利回吐区间的关键风险带。若能重回该区间，将显示市场重新走强；若未能回升，则有可能下行至约 90,000-105,000 美元的支撑区间。
-- [美SEC公布SEC-CFTC监管协调圆桌会议议程和参会成员](https://www.sec.gov/newsroom/press-releases/2025-124-sec-announces-agenda-panelists-sec-cftc-roundtable-regulatory-harmonization-efforts) - 📰 null - 【美SEC公布SEC-CFTC监管协调圆桌会议议程和参会成员】金色财经报道，美国证券交易委员会（SEC）公布和美国商品期货交易委员会（CFTC）9月29日监管协调工作联合圆桌会议的议程和参会成员，据悉主要议题包括讨论SEC和CFTC关系、讨论监管协调工作如何在继续保护投资者的同时释放平台的经济价值、以及讨论监管协调工作如何增加市场参与者的选择并降低投资者的成本，前CFTC主席J. Christopher Giancarlo、美国证券交易委员会交易和市场部主任Jamie Selway等人将参会。
-- [预测市场初创公司Melee完成350万美元融资](https://www.coindesk.com/business/2025/09/24/melee-raises-usd3-5m-to-launch-viral-prediction-markets-without-gatekeepers) - 📰 null - 【预测市场初创公司Melee完成350万美元融资】金色财经报道，预测市场初创公司 Melee 完成 350 万美元融资，由 Variant、DBA 及天使投资人共同投资，用于推出其首创的“病毒式预测市场”平台。
-- [特朗普助手参与巨额加密货币与芯片交易引发道德审查](https://www.nytimes.com/2025/09/24/us/politics/trump-witkoff-sacks-saudi-chips-crypto.html) - 📰 null - 【特朗普助手参与巨额加密货币与芯片交易引发道德审查】金色财经报道，据《纽约时报》，两名美国民主党参议员已要求商务部和国务院的监察长调查特朗普政府官员是否在涉及阿拉伯联合酋长国的两笔数十亿美元交易中违反道德规定。 
-其中一笔交易涉及美国计划允许阿联酋进口美国产人工智能设计芯片。另一笔交易则涉及一家由阿联酋政府支持的公司向特朗普家族及其顾问之一 Steve Witkoff 家族创建的加密货币公司汇出 20 亿美元。今年前六个月，Witkoff 以国务院员工身份正式任职，随后调任白宫工作。 
-马萨诸塞州民主党参议员 Elizabeth Warren 和密歇根州民主党参议员 Elissa Slotkin 在致美国国务院和商务部代理监察长及政府道德办公室的信中写道：“这些交易的模式令人极为担忧。”
-- [美议员Warren：呼吁对特朗普家族的海外加密货币交易展开调查](https://flash.jin10.com/detail/20250924235820263800) - 📰 null - 【美议员Warren：呼吁对特朗普家族的海外加密货币交易展开调查】金色财经报道，美国参议院民主党成员Warren：呼吁对特朗普家族的海外加密货币交易展开调查。
-- [Coinbase将上线Centrifuge (CFG)与TROLL (TROLL)现货交易](https://x.com/CoinbaseMarkets/status/1970879520480563300) - 📰 null - 【Coinbase将上线Centrifuge (CFG)与TROLL (TROLL)现货交易】金色财经报道，Coinbase将上线Centrifuge (CFG)与TROLL (TROLL)现货交易。如果满足流动性条件， CFG-USD 和 TROLL-USD 交易对将于太平洋时间 2025 年 9 月 25 日上午 9 点或之后在支持交易的地区开始开放。
-- [Bitwise：以太坊财库战略正在成为主流，ETH已不局限于对冲或投机工具](https://www.coindesk.com/markets/2025/09/24/ether-treasuries-are-going-mainstream-crypto-investment-firm-bitwise) - 📰 null - 【Bitwise：以太坊财库战略正在成为主流，ETH已不局限于对冲或投机工具】金色财经报道，Bitwise Asset Management 在最新财库中表示，此前数字资产财库战略主要以比特币为中心，但现在企业正在大规模配置 ETH。分析师 Max Shannon 指出，ETH 财库不再是一个边缘话题，而是正在成为加密货币资本市场的结构性支柱。ETH 不仅仅是一种对冲或投机工具，而是一种将企业融资与链上经济联系起来的可编程财务资产。
-- [以太坊链上USDT供应规模达到800亿美元，重夺主导地位](https://www.theblock.co/post/371697/ethereum-reclaims-usdt-lead-surpassing-tron) - 📰 null - 【以太坊链上USDT供应规模达到800亿美元，重夺主导地位】金色财经报道，以太坊已重新夺回其作为 USDT 供应主要网络的地位，供应规模达 800 亿美元，并在 3 月初落后于波场实现反超。以太坊的复苏表明，相较于波场较低的交易成本，用户更看重其成熟的 DeFi 生态系统和机构级基础设施。目前，以太坊上每日稳定币转账量已接近 100 万笔，这不仅表明 USDT 静态持有量可观，更体现了其在支付和结算领域的活跃应用。
-- [加密KOL Unipcs建仓324.1万枚ASTER](https://x.com/ai_9684xtpa/status/1970865031161295065) - 📰 null - 【加密KOL Unipcs建仓324.1万枚ASTER】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，曾交易 MAGA 获利 60 倍的聪明钱、加密 KOL Unipcs(@theunipcs) 建仓 ASTER。过去 1 小时地址 theunipcs.eth 从 Gate 提出 324.1 万枚 ASTER，价值 731.9 万美元，提出价格 2.25 美元。
-- [Solana的永续合约DEX BULK完成800万美元种子轮融资](https://solanafloor.com/news/bulk-raises-8m-seed-round-amidst-solana-perps-drought) - 📰 null - 【Solana的永续合约DEX BULK完成800万美元种子轮融资】金色财经报道，基于 Solana 的去中心化永续合约交易所 BULK 宣布完成 800 万美元种子轮融资，本轮融资由 6th Man Ventures 和 Robot Ventures 领投，Wintermute 和 Solana 联合创始人 Anatoly Yakovenko 等参投。
-- [美国公布了与欧盟关税协议的正式文件](https://flash.jin10.com/detail/20250924230246839800) - 📰 null - 【美国公布了与欧盟关税协议的正式文件】金色财经报道，市场消息：美国公布了与欧盟关税协议的正式文件。美国正式下调对欧盟汽车关税，自2025年8月1日起生效。
-- [微软与OpenAI的竞争对手Anthropic合作开发AI CEOPILOT](https://flash.jin10.com/detail/20250924230323523800) - 📰 null - 【微软与OpenAI的竞争对手Anthropic合作开发AI CEOPILOT】金色财经报道，市场消息：微软与OpenAI的竞争对手Anthropic合作开发AI CEOPILOT。
-- [META：Instagram将允许用户修改内容算法]() - 📰 null - 【META：Instagram将允许用户修改内容算法】金色财经报道，META：Instagram将允许用户修改内容算法。
-- [ETH突破4200美元]() - 📰 null - 【ETH突破4200美元】金色财经报道，行情显示，ETH突破4200美元，现报4200.7美元，24小时涨幅达到0.6%，行情波动较大，请做好风险控制。
-- [Galaxy Digital 关联地址再次提取 1300 万枚 ASTER 代币，价值 2912 万美元](https://x.com/ai_9684xtpa/status/1970860408903970926) - 📰 null - 【Galaxy Digital 关联地址再次提取 1300 万枚 ASTER 代币，价值 2912 万美元】金色财经报道，据链上分析师 Ai 姨监测，Galaxy Digital 关联地址再次提取 1300 万枚 ASTER 代币，价值 2912 万美元。 
-该地址目前持有的 ASTER 代币总量已增长至 4600 万枚，总价值 1.03 亿美元。过去 24 小时内该地址囤积的代币数量占 ASTER 流通量的 2.77%。
+- [UXLINK：CEX和链上合法持有用户将获得1:1的兑换](https://x.com/UXLINKofficial/status/1971017352058974395) - 📰 null - 【UXLINK：CEX和链上合法持有用户将获得1:1的兑换】金色财经报道，UXLINK团队发布最新安全公告称，“新的UXLINK智能合约已准备就绪，UXLINK事件报告已提交给DAXA和各大交易所，UXLINK迁移计划也已提交给各大交易所。 
+代币兑换原则与时间表 
+4.1交易所（CEX）和链上持有合法流通的UXLINK代币的用户将获得1:1的兑换，当前总流通量：479,713,462 UXLINK（基于白皮书）。 
+4.2被认定为非法发行的代币将不符合兑换资格。 
+4.3大部分被盗的、已解锁的UXLINK代币已被暂停交易。我们注意到其中一些代币仍在交易中，我们将为受影响的用户提供单独的赔偿方案。 
+4.4 由于每个交易所都有自己的内部流程和监管要求，因此兑换时间表在不同平台可能会有所差异。 
+4.5 面向链上用户的官方兑换门户将在5个工作日内上线。 
+我们正与新加坡、韩国和日本的监管机构以及顶尖安全专家密切合作，以冻结和监控与黑客相关的钱包。”
+- [Galaxy Digital关联地址6小时前再次提币400万枚ASTER，持仓总量增至5000万枚](https://x.com/ai_9684xtpa/status/1971014228166443492) - 📰 null - 【Galaxy Digital关联地址6小时前再次提币400万枚ASTER，持仓总量增至5000万枚】金色财经报道，据链上分析师@ai_9684xtpa监测，Galaxy Digital关联地址0xFB3...228336小时前又双叒提出了400万枚ASTER（920万美元），持仓代币总量增长至5000万枚，价值1.14亿美元。当前提出的代币价值已经超越过去两天向Gate充值的7395万枚USDT。
+- [某鲸鱼5小时前开多1.57万枚ETH，开仓价4178美元](https://x.com/EmberCN/status/1971012701947416841) - 📰 null - 【某鲸鱼5小时前开多1.57万枚ETH，开仓价4178美元】金色财经报道，据链上分析师余烬监测，做多ETH亏损3584万美元后转头做空BTC又亏750万美元的鲸鱼回归做多ETH了。他在5小时前开多了1.57万枚ETH(6540万美元)，开仓价4178美元，清算价4078美元。
+- [某巨鲸向HyperLiquid存入600万枚USDC以购买HYPE](https://x.com/OnchainLens/status/1971008802779693125) - 📰 null - 【某巨鲸向HyperLiquid存入600万枚USDC以购买HYPE】金色财经报道，据Onchain Lens监测，某巨鲸在9个月后，向HyperLiquid存入600万枚USDC以购买HYPE。该巨鲸目前持有285,466枚HYPE（价值1299万美元），浮动盈利为716万美元，并仍保留206万美元USDC用于进一步购买。
+- [昨日ARKB净流入3770万美元，BITB净流入2470万美元](https://farside.co.uk/btc/) - 📰 null - 【昨日ARKB净流入3770万美元，BITB净流入2470万美元】金色财经报道，据Farside Investors监测数据，昨日ARKB净流入3770万美元，BITB净流入2470万美元。
+- [某鲸鱼地址再次从Gate提币2600万枚ASTER，总持仓达5000万枚](https://x.com/OnchainLens/status/1971003000211845256) - 📰 null - 【某鲸鱼地址再次从Gate提币2600万枚ASTER，总持仓达5000万枚】9月25日消息，据Onchain Lens监测，某鲸鱼地址再次从Gate提币2600万枚ASTER，价值5900万美元。目前该地址持有5000万枚ASTER，价值1.15亿美元，获利992万美元。
+- [市场消息：Griffin AI项目方增发50多亿枚GAIN，目前已弃盘](https://x.com/marktowin8/status/1971002413239894266?t=C6JoAymW6Kpl2_DrXmDV8A&s=09) - 📰 null - 【市场消息：Griffin AI项目方增发50多亿枚GAIN，目前已弃盘】金色财经报道，据@marktowin8披露，Griffin AI（GAIN）项目方已弃盘，有无限增发权限，增发了50多亿，生命周期不到24小时。
+- [币安Alpha昨日上线代币GAIN跌破0.006美元，24小时跌幅达91.83%]() - 📰 null - 【币安Alpha昨日上线代币GAIN跌破0.006美元，24小时跌幅达91.83%】金色财经报道，币安Alpha昨日上线代币GAIN跌破0.006美元，现报价0.0060288美元，24小时跌幅达91.83%，行情波动较大，请做好风险控制。
+- [3个新建钱包地址总计从CEX提币5.83万枚ETH，价值2.42亿美元](https://x.com/OnchainLens/status/1970999714897400164) - 📰 null - 【3个新建钱包地址总计从CEX提币5.83万枚ETH，价值2.42亿美元】金色财经报道，据Onchain Lens监测，3个新创建的钱包地址在过去3小时中，收到了来自Kraken和BitGo的58,384枚ETH，价值2.42亿美元。
+- [黑客正以30枚比特币价格出售被窃取的马里兰州交通数据](https://decrypt.co/341183/hackers-selling-swiped-maryland-transit-data-millions-bitcoin) - 📰 null - 【黑客正以30枚比特币价格出售被窃取的马里兰州交通数据】金色财经报道，在马里兰州交通部发生的一起网络安全事件中被窃取的敏感数据，正被黑客组织Rhysida勒索软件团伙拍卖，售价为30枚比特币（约合340万美元）。 
+根据Dark Web Daily收集的拍卖信息，该黑客组织涉嫌窃取了敏感的个人数据和信息，包括社会安全号码、住址、出生日期及其他身份信息。 
+据称，这些数据将在接下来的7天内仅出售给单一买家。
+- [美国参议院金融委员会公布加密税务听证会人员名单](https://x.com/EleanorTerrett/status/1970952782212403581) - 📰 null - 【美国参议院金融委员会公布加密税务听证会人员名单】9月25日消息，美国参议院金融委员会宣布将于10月1日就加密税务举行听证会。证人包括CoinCenter政策总监Jason Somensatto、ASKramerLaw创始成员Andrea S.Kramer、Coinbase税务副总裁Lawrence Zlatkin及美国注册会计师协会数字资产税务工作组主席AnnetteNellen。
+- [澳大利亚起草法律以加强对数字资产平台的监管](https://decrypt.co/341217/australia-drafts-law-tighten-oversight-digital-asset-platforms) - 📰 null - 【澳大利亚起草法律以加强对数字资产平台的监管】金色财经报道，澳大利亚发布了监管数字资产平台的立法草案，该框架旨在将金融服务法扩展到加密货币业务，以加强消费者保护并为行业提供清晰度。助理财长Daniel Mulino于周三在澳大利亚全球数字资产监管峰会上宣布了这些改革。他将该法案描述为政府于三月发布的数字资产路线图的“基石”，并表示这将使澳大利亚与国际同行保持一致。
+- [Arthur Hayes家族办公室Maelstrom授予Spherostrat为期一年的比特币开发资助](https://x.com/MaelstromFund/status/1970884519059431823) - 📰 null - 【Arthur Hayes家族办公室Maelstrom授予Spherostrat为期一年的比特币开发资助】9月25日消息，Arthur Hayes家族办公室Maelstrom宣布授予Spherostrat为期一年的比特币开发资助，Spherostrat将专注于P2P网络隐私、区块验证优化及Silent Payment地址的DLEQ证明开发。
+- [金色晨讯 | 9月25日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 9月25日隔夜重要动态一览】21:00-7:00关键词：降息、征税、SOL Strategies 
+1.美联储戴利：可能需要进一步降息； 
+2.美联储10月降息25个基点的概率为91.9%； 
+3.美联储古尔斯比反对激进降息 称就业放缓不等于衰退； 
+4.美国参议院小组将于10月1日举行数字资产征税听证会； 
+5.美SEC公布SEC-CFTC监管协调圆桌会议议程和参会成员； 
+6.SOL Strategies 拟配股募资 2500 万美元以支持增持 SOL； 
+7.美议员Warren：呼吁对特朗普家族的海外加密货币交易展开调查。
+- [Vitalik：Fusaka正在开发核心功能PeerDAS，旨在实现无需下载完整数据的实时区块链](https://x.com/VitalikButerin/status/1970983281090085200) - 📰 null - 【Vitalik：Fusaka正在开发核心功能PeerDAS，旨在实现无需下载完整数据的实时区块链】金色财经报道，以太坊创始人Vitalik Buterin于X平台发文表示，对Fusaka来说，安全第一是重中之重。其核心功能PeerDAS正在尝试一件前所未有的事情：创建一个不需要任何单个节点下载全部数据的实时区块链。 
+PeerDAS的工作方式是，每个节点只请求少量“数据块”（chunk），以概率性地验证超过50%的数据块是可用的。如果超过50%的数据块可用，那么理论上节点可以下载这些数据块，并使用擦除码（erasure coding）来恢复其余的数据。 
+在第一个版本中，区块的完整数据仍然需要存在于一个地方，有两种情况： 
+(i)初始广播(initial broadcasting)：当数据首次发布时； 
+(ii)数据重建(reconstruction)：当发布者发布了50%到100%之间的数据块时。 
+但这些角色都是无需信任的：我们只需要一个诚实的参与者来执行这些任务，即使有100个不诚实的参与者，协议也会绕过他们。并且，不同的节点可以为不同的区块执行此任务。未来，单元级消息传递（cell-levelmessaging）和分布式区块构建（distributed block building）将使得这两个功能也可以被分布化。 
+这都是新技术，核心开发者们在测试上保持超级谨慎是明智的，即使他们已经为此工作多年。这也是为什么最初的blob数量会保守增加，然后随着时间的推移变得更加激进。但这是L2扩容的关键（最终也是L1扩容的关键，一旦L1gas限制高到我们必须将L1执行数据放入blobs中）。"
+- [数据：ETF储备目前持有676万枚以太坊，占总供应量的5.59%](ETF 储备目前持有 676 万枚以太坊，价值 282.5 亿美元，占总供应量的 5.59%) - 📰 null - 【数据：ETF储备目前持有676万枚以太坊，占总供应量的5.59%】金色财经报道，据Cointelegraph披露，ETF储备目前持有676万枚以太坊，价值282.5亿美元，占总供应量的5.59%。
+- [美联储戴利：目前经济衰退风险非常低](https://flash.jin10.com/detail/20250925044152314800) - 📰 null - 【美联储戴利：目前经济衰退风险非常低】金色财经报道，美联储戴利：不包括关税的通胀率约为2.4%至2.5%。目前经济衰退风险非常低。
+- [CleanSpark股东获准发起集体诉讼 公司比特币转型被指误导](https://news.bloomberglaw.com/litigation/cleanspark-investor-class-certified-in-suit-over-crypto-pivot) - 📰 null - 【CleanSpark股东获准发起集体诉讼 公司比特币转型被指误导】金色财经报道，美国纽约南区联邦法官Loretta A. Preska裁定，CleanSpark一名投资者可代表股东提起集体诉讼，指控公司在从清洁能源转向比特币挖矿过程中存在误导行为。
+- [全球加密百万富翁数量激增40%，比特币持有者成主力军](https://www.coindesk.com/business/2025/09/24/crypto-millionaires-surge-40-led-by-bitcoin-s-rise-as-market-hits-usd3-3-trillion) - 📰 null - 【全球加密百万富翁数量激增40%，比特币持有者成主力军】金色财经报道，根据亨氏咨询发布的《2025年加密财富报告》，全球加密资产超过100万美元的百万富翁人数已达24.17万，同比增长40%。其中比特币百万富翁数量增长尤为显著，达14.51万人，增幅70%。 
+报告显示，目前全球存在36位加密亿万富翁和450位资产超1亿美元的富豪。新加坡、香港和美国被评为最受加密投资者欢迎的司法管辖区。市场总市值也在今年6月达到3.3万亿美元，同比增长45%。 
+专家指出，比特币正逐渐成为平行金融系统的基石，其功能从投机工具转向价值存储和抵押品。
+- [Chainlink SVR回收超150万美元安全清算MEV](https://x.com/chainlink/status/1970973266421350532) - 📰 null - 【Chainlink SVR回收超150万美元安全清算MEV】金色财经报道，Chainlink 宣布，其 Smart Value Recapture（SVR） 机制已成功回收超过 150 万美元的安全可回收清算 MEV，其中约 40 万美元 来自过去一周。SVR 是一种新型预言机解决方案，可帮助 DeFi 协议回收预言机相关的 MEV（最大可提取价值），建立新的收入来源，同时支持 Chainlink 网络的长期经济可持续性。
