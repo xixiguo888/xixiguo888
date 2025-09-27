@@ -1,29 +1,20 @@
-- [XPL突破1.5美元，24小时涨幅达26.16%](https://www.coingecko.com/zh/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/plasma) - 📰 null - 【XPL突破1.5美元，24小时涨幅达26.16%】金色财经报道，行情显示，XPL突破1.5美元，现报价1.5285美元，24小时涨幅达26.16%，行情波动较大，请做好风险控制。
-- [某巨鲸从Bybit提取315万枚APEX并在Uniswap V3上提供流动性](https://x.com/OnchainLens/status/1971811396548772233) - 📰 null - 【某巨鲸从Bybit提取315万枚APEX并在Uniswap V3上提供流动性】金色财经报道，据Onchain Lens监测，两小时前，一个巨鲸从Bybit提取了315万枚APEX（价值570万美元），并在Uniswap V3上提供了流动性。 
-值得注意的是，APEX在过去24小时内已上涨了230%。
-- [Euphoria官推遭遇黑客攻击，请勿与其交互]() - 📰 null - 【Euphoria官推遭遇黑客攻击，请勿与其交互】9月27日消息，基于MegaETH的加密衍生品交易应用Euphoria官方X账号遭遇黑客攻击，现已发布钓鱼链接推文，目前账号主导权仍在黑客手中。
-- [本周美国现货比特币ETF净流出8.976亿美元，现货以太坊ETF净流出7.958亿亿美元]() - 📰 null - 【本周美国现货比特币ETF净流出8.976亿美元，现货以太坊ETF净流出7.958亿亿美元】金色财经报道，据Farside Investors监测数据，本周美国现货比特币ETF净流出8.976亿美元，现货以太坊ETF净流出7.958亿美元。
-- [Tom Lee：宏观牛市还没有结束](https://x.com/BitMNR/status/1971790552351064110) - 📰 null - 【Tom Lee：宏观牛市还没有结束】9月27日消息，Fundstrat联合创始人兼BitMine董事长Tom Lee在接受CNBC采访时表示，“宏观牛市还没有结束，在一个超级周期中看到回调总是非常健康的。”
-- [金色午报 | 9月27日午间重要动态一览]() - 📰 null - 【金色午报 | 9月27日午间重要动态一览】7:00-12:00关键词：Eric Trump、Stani.eth、.Galaxy Digital 
-1.特朗普次子Eric Trump再次发文“逢低买入”； 
-2.数据：超过20,000枚比特币在链上发生转移； 
-3.Tether Treasury于以太坊链新增铸造10亿枚USDT； 
-4.Aave创始人Stani.eth疑似已出售投资获得的400万枚ENA； 
-5.Bitwise披露本周其欧洲 Solana 质押 ETP 流入资金达 6000 万美元； 
-6.Galaxy Digital关联地址四小时前再次囤积634万枚ASTER，价值1294万美元； 
-7.The ETF Store总裁：Franklin等多家机构提交现货SOL ETF的S-1修正案，或两周内获批。
-- [印度执法局已对Raj Kundra提交起诉书，称其持有 285 枚比特币](https://x.com/simplykashif/status/1971781940098560412) - 📰 null - 【印度执法局已对Raj Kundra提交起诉书，称其持有 285 枚比特币】金色财经报道，Bitinning创始人Kashif Raza在X平台发文称，印度执法局（ED）已对宝莱坞明星Shilpa Shetty的丈夫Raj Kundra提交起诉书，称其持有285枚比特币，价值约15亿卢比（约合150 Crore）。该案件与已故Amit Bhardwaj的6606亿卢比加密庞氏骗局有关。
-- [158.3万枚UNI于10小时前转进做市商GSR地址最后进入币安](https://x.com/EmberCN/status/1971775149776175385) - 📰 null - 【158.3万枚UNI于10小时前转进做市商GSR地址最后进入币安】金色财经报道，据链上分析师余烬监测，半个月前从Uniswap的UNI时间锁合约中转出的158.3万枚UNI(1194万美元)，在10小时前转进了做市商GSR(@GSR_io)地址，然后进入了币安。
-- [巨鲸过去两日增持超43万枚ETH，价值17.3亿美元](https://x.com/lookonchain/status/1971773638954369034) - 📰 null - 【巨鲸过去两日增持超43万枚ETH，价值17.3亿美元】金色财经报道，据Lookonchain监测，巨鲸正持续增持ETH，在过去的2天内，16个钱包已经从Kraken、GalaxyDigital、BitGo、FalconX和OKX接收了431,018枚ETH（价值17.3亿美元）。
-- [数据：超过20,000枚比特币在链上发生转移](https://x.com/ali_charts/status/1971773037545484439) - 📰 null - 【数据：超过20,000枚比特币在链上发生转移】金色财经报道，据链上分析师@ali_charts监测，超过20,000枚比特币刚刚在链上发生转移。
-- [某巨鲸5小时前向交易平台充值1000枚ETH，若卖出将获利242.6万美元](https://x.com/ai_9684xtpa/status/1971770652740014259) - 📰 null - 【某巨鲸5小时前向交易平台充值1000枚ETH，若卖出将获利242.6万美元】金色财经报道，据AI姨监测，曾通过ETH获利1278万美元的巨鲸，底部1582美元建仓ETH五个月后5小时前向交易平台充值了1000枚ETH（401万美元），若卖出将获利242.6万美元，剩余5000枚仍浮盈1216万美元。04.18他曾从Kraken中提出6000ETH，期间一直坚定持有。
-- [法国巴黎银行和纽约梅隆银行开始与SWIFT测试以太坊L2链上消息传递](https://financefeeds.com/swift-tests-ethereum-layer-2-migration-with-bnp-paribas-bny/) - 📰 null - 【法国巴黎银行和纽约梅隆银行开始与SWIFT测试以太坊L2链上消息传递】金色财经报道，全球银行间金融电信协会（SWIFT）此前披露正在使用以太坊L2网络Linea测试链上消息传递功能，据最新消息称，法国巴黎银行（BNP Paribas）和纽约梅隆银行（BNY）已开始参与测试，该项目目前涉及“十多家金融机构”，一位不愿透露姓名的消息人士称预计全部测试工作将耗时数月才能实现，但将为国际银行间支付行业带来重要技术转型。
-- [向Hyperliquid充值3000万枚USDC并买入XPL的地址疑似归属于做市商团队Auros Global](https://x.com/ai_9684xtpa/status/1971763930822484393) - 📰 null - 【向Hyperliquid充值3000万枚USDC并买入XPL的地址疑似归属于做市商团队Auros Global】金色财经报道，据链上分析师@ai_9684xtpa监测，刚才向Hyperliquid充值3000万枚USDC并大量买入XPL的地址疑似归属于Auros Global，这是一个量化交易和做市商团队，也曾被Bybit评为优质做市商入选其推荐名单。 
-目前已经买到1725万美元的XPL，还在持续买入中，应该是打算用完这3000万美元。
-- [麻吉大哥平仓XPL多单后40倍做多比特币，目前账户仍浮亏超1500万美元](https://x.com/ai_9684xtpa/status/1971457358154146193) - 📰 null - 【麻吉大哥平仓XPL多单后40倍做多比特币，目前账户仍浮亏超1500万美元】金色财经报道，据Ai姨监测，麻吉大哥黄立成三小时前平仓XPL多单，赚取15.2万美元，随后他又新开了价值164万美元的BTC 40x多单，持仓15 BTC，开仓价109,277.7美元。目前其账户浮亏仍高达1500万美元，以太坊多单浮亏900万美元，PUMP多单浮亏600万美元。
-- [某新建钱包地址于过去2小时内买入1,087万枚XPL，约合1,360万美元](https://x.com/EmberCN/status/1971759358666317947) - 📰 null - 【某新建钱包地址于过去2小时内买入1,087万枚XPL，约合1,360万美元】金色财经报道，据链上分析师余烬监测，一个新钱包从交易所提出7152.4万USDC到链上，然后转了3000万USDC进到Hyperliquid去购买XPL。目前仅两个小时，就已经用1360万USDC购进了1087万枚XPL，均价1.25美元。并且仍在继续购买中。
-- [Galaxy Digital关联地址四小时前再次囤积634万枚ASTER，价值1294万美元](https://x.com/ai_9684xtpa/status/1971759717778403560) - 📰 null - 【Galaxy Digital关联地址四小时前再次囤积634万枚ASTER，价值1294万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，Galaxy Digital关联地址0xFB3...22833仍在囤积ASTER，四小时前再次从Gate提出634万枚代币，价值1294万美元；当前该地址共持有6134.4万美元ASTER，总价值1.22亿美元，占流动总量的3.7%。
-- [美国现货以太坊ETF昨日净流出2.4394亿美元](https://x.com/thepfund/status/1971757287900696955) - 📰 null - 【美国现货以太坊ETF昨日净流出2.4394亿美元】金色财经报道，据Trader T监测，美国现货以太坊ETF昨日净流出2.4394亿美元。
-- [美国现货比特币ETF昨日净流出4.1838亿美元](https://x.com/thepfund/status/1971756863718072827) - 📰 null - 【美国现货比特币ETF昨日净流出4.1838亿美元】金色财经报道，据Trader T监测，美国现货比特币ETF昨日净流出4.1838亿美元。
-- [Abstract核心贡献者：下周开始将为Abstract上的LP分发积分](https://x.com/0xCygaar/status/1971647573074075987) - 📰 null - 【Abstract核心贡献者：下周开始将为Abstract上的LP分发积分】9月27日消息，据Abstract核心贡献者cygaar于X平台发文，从下周开始，将为在Abstract上提供流动性的用户（LP）分发积分（XP）。符合条件的货币对将为主要货币（ETH、PENGU、USDC、USDT等），待观察流动性发展情况后将覆盖更多代币。
-- [Tether Treasury于以太坊链新增铸造10亿枚USDT](https://x.com/whale_alert/status/1971755614092038349) - 📰 null - 【Tether Treasury于以太坊链新增铸造10亿枚USDT】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间上午9:55左右，Tether Treasury于以太坊链上新增铸造10亿枚USDT。
+- [Anchorage Digital关联地址向币安转入200万枚ENA，过去3天已转移1000万枚](https://intel.arkm.com/explorer/address/0x5C8A4d04a7daFfE58e6d00adb78281CE29F7E295) - 📰 null - 【Anchorage Digital关联地址向币安转入200万枚ENA，过去3天已转移1000万枚】金色财经报道，据Arkham监测数据显示，大约三小时前，某个与Anchorage Digital关联的地址向币安转入200万枚ENA，价值116万美元，过去3天该地址已向币安转移总计1000万枚ENA，价值590万美元，目前该地址还持有大约1531.3万枚ENA（887万美元）。
+- [Bitlight Labs上线LIGHT空投查询页面]() - 📰 null - 【Bitlight Labs上线LIGHT空投查询页面】金色财经报道，据官网显示，Bitlight Labs上线LIGHT空投查询页面，用户现可连接钱包查询空投分配数量。
+- [ETH跌破4000美元]() - 📰 null - 【ETH跌破4000美元】金色财经报道，行情显示，ETH跌破4000美元，现报3999.7美元，24小时涨幅达到2.46%，行情波动较大，请做好风险控制。
+- [天风证券：AI存储革命已至 “以存代算”开启存储新纪元]() - 📰 null - 【天风证券：AI存储革命已至 “以存代算”开启存储新纪元】金色财经报道，天风证券研报指出，为突破算力瓶颈与“存储墙”制约，“以存代算”作为一种颠覆性技术范式应运而生。该技术通过将AI推理过程中的矢量数据（如KVCache）从昂贵的DRAM和HBM显存迁移至大容量、高性价比的SSD介质，实现存储层从内存向SSD的战略扩展，而非简单替代。其核心价值在于显著降低首Token时延、提升推理吞吐量，并大幅优化端到端的推理成本，为AI大规模落地提供可行路径。AI存储革命已至，“以存代算”催生核心机遇，显著节省算力消耗加速AI推理，带动SSD需求增速高于传统曲线。
+- [HyperLiquid生态应用Mercury疑似发布提案拟将Arthur Hayes钱包列入黑名单](https://x.com/MercuryappHL/status/1971595259793551578) - 📰 null - 【HyperLiquid生态应用Mercury疑似发布提案拟将Arthur Hayes钱包列入黑名单】金色财经报道，Arthur Hayes此前在市场顶部出售HYPE后引发HyperLiquid社区不满，HyperLiquid生态应用Mercury疑似发布提案（可能调侃）拟将Arthur Hayes钱包列入黑名单，其中形容Arthur Hayes是“著名的趋势线毁灭者、行情顶部信号的化身、兼职哲学家”，必须在他再抄底到任何HYPE代币之前进行阻止。据悉，Arthur Hayes此前曾表示对HYPE进行波段交易，并非离开HyperLiquid生态。
+- [Linea主网已桥接超100万枚ETH]() - 📰 null - 【Linea主网已桥接超100万枚ETH】金色财经报道，Dune数据显示，Linea主网已桥接转入1,014,583枚ETH，交易笔数达1,297,267笔，交互地址数达591,718个。
+- [Native Markets：已质押并锁定20万枚HYPE，锁定期为三年](https://x.com/nativemarkets/status/1971881607423578266) - 📰 null - 【Native Markets：已质押并锁定20万枚HYPE，锁定期为三年】金色财经报道，赢得Hyperliquid稳定币USDH发行竞标的Native Markets在X平台发文表示，已质押并锁定20万枚HYPE，锁定期为三年，旨在推动USDH成为第一个在Hyperliquid上添加的无需许可的现货报价资产。此外，Native Markets还在寻求合作推动更多实体铸造和兑换，以及集成USDH。
+- [「麻吉」加仓XPL多单头寸至1330万美元]() - 📰 null - 【「麻吉」加仓XPL多单头寸至1330万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，「麻吉大哥」黄立成将 5 倍杠杆 XPL 多单头寸加仓至1330 万美元（880 万枚），平均开仓价 1.55 美元，目前单币浮亏 38.1 万美元。
+- [Hyperliquid已上线HYPE/USDH现货交易对]() - 📰 null - 【Hyperliquid已上线HYPE/USDH现货交易对】9月27日消息，据官网显示，Hyperliquid 刚刚上线 HYPE/USDH 现货交易对，此前已上线 USDH/USDC。
+- [币安Alpha将上线Bitlight Labs (LIGHT)，空投门槛190个积分]() - 📰 null - 【币安Alpha将上线Bitlight Labs (LIGHT)，空投门槛190个积分】金色财经报道，币安 Alpha 是首个上线 Bitlight Labs (LIGHT) 的平台，Alpha 交易将于 2025 年 9 月 27 日 19:00（UTC+8）开始。交易开始后，持有至少 190 个币安 Alpha 积分的用户可申领 150 个 LIGHT 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。请注意，申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
+- [腾讯混元明日将发布新一代生图模型]() - 📰 null - 【腾讯混元明日将发布新一代生图模型】金色财经报道，9月27日，腾讯混元官微发布预告称，将于明日发布新一代生图模型。
+- [币安 Alpha 已上线 GOATED]() - 📰 null - 【币安 Alpha 已上线 GOATED】金色财经报道，据官方页面显示，币安Alpha已上线GOATED。
+- [萨尔瓦多比特币总持仓达 6,332.18 枚]() - 📰 null - 【萨尔瓦多比特币总持仓达 6,332.18 枚】金色财经报道，萨尔瓦多过去 7 日共增持 8 枚比特币，目前其比特币持仓达 6,332.18 枚，总价值达 6.93 亿美元。
+- [Crypto.com已获得CFTC的保证金衍生品牌照批准]() - 📰 null - 【Crypto.com已获得CFTC的保证金衍生品牌照批准】金色财经报道，据官方公告，Crypto.com 获得美国商品期货交易委员会 (CFTC) 的批准，可在美国获得保证金衍生品牌照。
+- [币安：持有至少190个Alpha积分方可申领375个GOATED空投]() - 📰 null - 【币安：持有至少190个Alpha积分方可申领375个GOATED空投】金色财经报道，币安 Alpha 将上线 GOAT Network（GOATED），Alpha 交易将于 2025 年 9 月 27 日 17:00（UTC+8）开始。交易开始后，持有至少 190 个币安 Alpha 积分的用户可申领 375 个 GOATED 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
+- [黄立成开出 470 万枚 XPL 的 5 倍多单，目前浮盈 14 万美元](https://x.com/ai_9684xtpa/status/1971841059572666573?s=61) - 📰 null - 【黄立成开出 470 万枚 XPL 的 5 倍多单，目前浮盈 14 万美元】金色财经报道，据链上分析师 @ai_9684xtpa 监测，黄立成当前开出了 470 万枚 XPL 的 5x 多单，价值 742 万美元，开仓价格 1.56 美元，已浮盈 14 万美元。
+- [某鲸鱼过去 1 小时买入 100 余万美元 APEX，目前浮盈超 20 万美元]() - 📰 null - 【某鲸鱼过去 1 小时买入 100 余万美元 APEX，目前浮盈超 20 万美元】金色财经报道，据 Onchain Lens 监测，过去1小时，一位巨鲸花费 102.9 万 USDT，以 2.1 美元的价格买入 489,376 枚 APEX，目前浮盈 20 多万美元。
+- [BNB突破970美元]() - 📰 null - 【BNB突破970美元】金色财经报道，行情显示，BNB突破970美元，现报970.11美元，24小时涨幅达到2.26%，行情波动较大，请做好风险控制。
+- [XPL合约持仓规模突破17亿美元创历史新高，24小时涨幅25.97%]() - 📰 null - 【XPL合约持仓规模突破17亿美元创历史新高，24小时涨幅25.97%】金色财经报道，据Coinglass最新数据显示，随着XPL短时走高，全网XPL合约持仓量已增至11.20亿枚，持仓市值突破17亿美元，现报17.22亿美元创历史新高，过去24小时增幅25.97%；其中币安XPL合L合约持仓量触及3.12亿枚，位列第一，持仓市值为4.80亿美元；Bybit的XPL合约持仓量触及1.12亿枚，持仓市值为1.72亿美元。
+- [分析：以太坊财库公司BitMine在近期市场下跌期间接收超20万枚ETH](https://intel.arkm.com/explorer/entity/bitmine) - 📰 null - 【分析：以太坊财库公司BitMine在近期市场下跌期间接收超20万枚ETH】金色财经报道，据Arkham监测数据显示，在最近几天市场下跌期间，“以太坊微策略”BitMine通过各场外和交易平台（比如Coinbase和FalconX）接收了大约23.252万枚，价值超9亿美元。根据此前披露的信息显示，BitMine公司上周一整周仅买入约26万枚ETH，而近期的市场下跌让该公司购买ETH的频率加速。
