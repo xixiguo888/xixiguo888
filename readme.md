@@ -1,41 +1,21 @@
-- [Aster过去24小时内产生手续费超2500万美元，位列所有协议之首](https://www.theblock.co/post/372676/aster-top-protocol-fees?utm_source=twitter&utm_medium=social) - 📰 null - 【Aster过去24小时内产生手续费超2500万美元，位列所有协议之首】金色财经报道，根据DefiLlama数据，Aster在过去24小时内产生了超过2500万美元的手续费，位列所有协议之首。其竞争对手Hyperliquid当日收入为317万美元，排名第五。DefiLlama数据还显示，Aster在过去一天的现货交易量为1.9996亿美元，在现货交易所中排名第13位。在交易量方面，Hyperliquid以4.773亿美元的成绩超过了Aster。 
-此外，Aster并未出现在该数据平台的日收入排行榜中。Aster获得了YZi Labs（前身为Binance Labs）的支持，重点发展多链支持，最初以BNB Chain为优先。该项目前身为APX Finance，并在今年3月与Astherus合并后完成品牌重塑。
-- [Aster：将调整BARDUSDT等37个永续期货合约的保证金等级和杠杆](https://medium.com/@AsterDEX/sep-29-updates-on-margin-tiers-leverage-for-37-aster-perpetual-contracts-260f99a5f1f2) - 📰 null - 【Aster：将调整BARDUSDT等37个永续期货合约的保证金等级和杠杆】金色财经报道，据官方消息，Aster宣布将于2025年9月29日07:00 (UTC)调整37 个永续期货合约的保证金等级和杠杆，包括AIAUSDT、BARDUSDT、FLOCKUSDT、HOLOUSDT、MITOUSDT、NEIROUSDT、TAKEUSDT、ZKCUSDT等。
-- [Capital B增持12枚BTC，总持仓量达2,812枚](https://x.com/_ALCPB/status/1972543068692705696) - 📰 null - 【Capital B增持12枚BTC，总持仓量达2,812枚】9月29日消息，据Capital B披露，该公司确认以120万欧元收购12枚BTC。 
-此次收购后，Capital B的BTC总持仓量达到2,812枚。
-- [Binance Alpha和合约将上线Swarm Network（TRUTH）](https://www.binance.com/zh-CN/support/announcement/detail/5559a6615fd9448bad12a1ceda130428) - 📰 null - 【Binance Alpha和合约将上线Swarm Network（TRUTH）】金色财经报道，据官方公告，币安Alpha将于2025年10月01日20:00（东八区时间）上线和开放Swarm Network (TRUTH) 的交易。此外，币安合约平台将于2025年10月01日20:30（东八区时间）上线TRUTHUSDT永续合约，最高杠杆可达50倍。 
-币安是首个公告开放Swarm Network (TRUTH) 合约交易以及在币安Alpha展示TRUTH代币的平台。作为上线福利，所有符合资格的币安用户将获得币安独家代币空投。符合资格的用户需要于2025年10月01日20:00（东八区时间）至2025年10月02日20:00（东八区时间）期间，使用币安Alpha积分通过币安Alpha活动页面领取空投。
-- [5,317枚WETH约4分钟前从Aave转出至某未知钱包，价值约2,184万美元](https://whale-alert.io/transaction/ethereum/0x9a08f0e54364f41ee79cac0b816216f871de111e135d1570bfa05cb11238e32c) - 📰 null - 【5,317枚WETH约4分钟前从Aave转出至某未知钱包，价值约2,184万美元】金色财经报道，据WhaleAlert监测，5,317枚WETH约4分钟前从Aave转出至某未知钱包，价值约2,184万美元。
-- [4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议]() - 📰 null - 【4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议】9月29日消息，据4E观察，美国政府关门危机再度逼近。9 月 30 日资金到期在即，特朗普将于 9 月 29 日与国会高层会面，若未能通过支出法案，数百万联邦雇员恐受影响。德银分析师警告，这是自 2018-19 年以来首次政府停摆的高风险窗口。特朗普此前甚至表示：“如果政府不得不关门，那就关门。” 
-加密市场方面，苹果 CEO 库克确认个人持有比特币和以太坊，并称其是投资组合中“合理的配置思路”，显示加密货币正逐步被更多主流科技领袖认可。与此同时，知名分析师 PlanB 认为，比特币牛熊分界点已于 2025 年 6 月出现，未来或进入长期平稳上涨周期。 
-机构观点方面，Cathie Wood 表示以太坊难以超越比特币，比特币的规模效应将持续扩大，但她透露近期已买入 BitMine 股票以间接布局 ETH 生态。 
-宏观层面，花旗最新报告将 2030 年稳定币市场规模预测上调至基线 1.9 万亿美元，乐观情景可达 4 万亿美元，对应交易量或突破 200 万亿美元。当前稳定币市值约 2968 亿美元，USDT 占比接近 59%，显示市场仍在早期阶段。 
-4E提醒投资者：宏观不确定性叠加加密市场逐步融入主流金融体系，短期风险与长期机遇并存。投资者需关注美国财政博弈与稳定币监管进展，把握结构性机会。
-- [某地址在20倍杠杆下看空ETH，目前已浮亏449万美元](https://x.com/ai_9684xtpa/status/1972538386000019532) - 📰 null - 【某地址在20倍杠杆下看空ETH，目前已浮亏449万美元】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，某地址在20倍杠杆下看空ETH，目前已浮亏449万美元。 
-该地址四小时前向Hyperliquid充值了320万枚 USDC 作为保证金，随后将ETH空单规模增加至8000枚（约3286万美元），平均开仓价为3547.73美元，清算价为4522美元。由于开仓时间较长，该地址已通过资金费获利169万美元。
-- [Aster CEO：曾任职Binance，推出Apollo X后持续深耕永续合约DEX](https://x.com/Mable_Jiang/status/1972489656735588696) - 📰 null - 【Aster CEO：曾任职Binance，推出Apollo X后持续深耕永续合约DEX】9月29日消息，Aster CEO Leonard在接受社交协议Trends创始人Mable（@Mable_Jiang）采访时表示：“自2019年起，我在Binance工作了几年，参与了多个产品的开发。然后当dYdX出现时，我们开始尝试在链上构建自己的东西，Aster的第一版出现了，也就是Apollo X。自那之后永续合约DEX经历了几个周期，出现了GMX等代表一个时代的项目，我们一直试图做出构建市场真正需要的东西，所以现在有了Aster。”
-- [Perena：部分用户遭遇应用程序宕机，团队正在解决](https://x.com/Perena__/status/1972526192222994843) - 📰 null - 【Perena：部分用户遭遇应用程序宕机，团队正在解决】金色财经报道，稳定币基础设施Perena发文表示，部分用户遭遇应用程序（桌面版+Seeker）宕机情况，iOS系统运行正常。目前团队正在努力尽快解决此问题，用户资金安全。
-- [WazirX：已向新加坡法院提交法律意见书寻求推动重组计划](https://x.com/WazirXIndia/status/1972523134965195078) - 📰 null - 【WazirX：已向新加坡法院提交法律意见书寻求推动重组计划】印度加密交易平台 WazirX 表示，已于星期五（2025 年 9 月 26 日）向新加坡法院提交法律意见书，寻求推动重组计划，正等待下一步指示。 
-此前 6 月 5 日报道，陷入困境的印度加密交易平台 WazirX 重组计划遭遇重大挫折，新加坡高等法院拒绝批准其向债权人偿还欠款的提案。这一决定将有效推迟原定最早于 2025 年 4 月开始的偿付进程。 
-WazirX 在发给债权人的邮件中表示：新加坡高等法院已正式下令，拒绝批准我们提出的重组计划。
-- [Aster CEO：初次创业项目是P2P网贷，自以太坊ICO时进入加密领域](https://x.com/Mable_Jiang/status/1972489656735588696) - 📰 null - 【Aster CEO：初次创业项目是P2P网贷，自以太坊ICO时进入加密领域】金色财经报道，Aster CEO Leonard 在接受社交协议 Trends 创始人 Mable（@Mable_Jiang）采访时表示： 
-我最初在香港的一家投资银行做技术人员，主要处理高频交易方面的工作，在工作 5 年后开始尝试创业，当时的叙事是「互联网+」，首次创业是一个 P2P 借贷项目，后来项目和整个赛道一起失败了，但我也从中学到了很多。 
-我初入加密领域是参与以太坊 ICO，当时赚钱后以为自己是天才，然后在接下来的三次交易中就亏光了，不过从此对区块链技术产生了兴趣，在 IBM Blockchain 旗下的 Hyperledger 生态开发了一个借贷平台项目。显然，我们选错了生态，应该在以太坊上大展身手。此后还为一家游戏平台做过 NFT、代币方案，当时过于超前，同样以失败告终。
-- [某钱包地址向Coinbase转入7018万枚ADA，约合5622万美元](https://x.com/whale_alert/status/1972528449332916391) - 📰 null - 【某钱包地址向Coinbase转入7018万枚ADA，约合5622万美元】金色财经报道，据链上数据追踪服务Whale Alert监测，某未知钱包约3分钟前向Coinbase转入70,187,366枚ADA，价值约56,216,885美元。
-- [某巨鲸过去两天内向多个CEX存入250,000枚SOL，价值5189万美元](https://x.com/OnchainLens/status/1972523240192143622) - 📰 null - 【某巨鲸过去两天内向多个CEX存入250,000枚SOL，价值5189万美元】金色财经报道，据Onchain Lens监测，巨鲸“CMJi”在过去两天内向多个CEX#Gate、#Bybit、#OKX和#Binance存入了250,000枚SOL，价值5189万美元。
-- [当前全球加密货币采用率排名前三国家为：阿联酋（25.3%）、新加坡（ 24.4%）、土耳其（19.3%）](https://x.com/beincrypto/status/1972517797981995454) - 📰 null - 【当前全球加密货币采用率排名前三国家为：阿联酋（25.3%）、新加坡（ 24.4%）、土耳其（19.3%）】9月29日消息，ApeX Protocol数据显示，阿联酋在全球加密货币采用率（拥有加密货币的人口占比）排名中位居第一，拥有率达25.3%。新加坡紧随其后，加密货币拥有率为24.4%。 
-土耳其以19.3%的拥有率排名第三，其他国家分别为阿根廷（18.9%）、美国（15.5%）、印度尼西亚（13.9%）、瑞士（11.5%）、加拿大（10.1%）、澳大利亚（9.6%）和德国（8.2%）。
-- [美SEC主席寻求最低限度监管，拟用半年报取代季度财报](https://www.ft.com/content/f9f9e796-b967-45f0-9d8d-78cd8c880073) - 📰 null - 【美SEC主席寻求最低限度监管，拟用半年报取代季度财报】金色财经报道，据英国《金融时报》披露，美国证券交易委员会（SEC）将寻求最低限度的监管并加快批准特朗普废除公司季度报告的提议。特朗普此前在社媒呼吁‘不应再强制企业发布季度报告’，而由他任命的SEC主席Paul Atkins周一表示，他将考虑用半年一次的公司报告取代目前上市公司每三个月报告一次的要求，并且应该提供最低限度的有效监管，以保护投资者，此外拟议中的放松上市公司规定，证实了该监管机构将在更大程度上放松对上市公司的管制。
-- [现货黄金历史性攻破3800美元]() - 📰 null - 【现货黄金历史性攻破3800美元】金色财经报道，现货黄金历史性突破3800美元/盎司，本月累涨约350美元，日内涨超1%。(金十)
-- [USDC Treasury在以太坊链上销毁5100万枚USDC](https://x.com/whale_alert/status/1972516585857339494) - 📰 null - 【USDC Treasury在以太坊链上销毁5100万枚USDC】金色财经报道，据链上数据追踪服务Whale Alert监测，USDC Treasury约2分钟前在以太坊链上销毁5100万枚USDC。
-- [Pastel Alpha创始人：再次买入8枚Hypurr NFT](https://x.com/CookerFlips/status/1972506584678084944) - 📰 null - 【Pastel Alpha创始人：再次买入8枚Hypurr NFT】金色财经报道，Pastel Alpha创始人Cooker发推表示，其再次买入8枚Hypurr NFT，其中包括Hypurr #4087、#236、#3181、#4258、#4324、#4216、#2755、#280，目前其总共持有16枚Hypurr NFT，总价值超100万美元。 
-此前报道，Cooker花费50万美元购入8枚Hypurr NFT。
-- [金色午报 | 9月29日午间重要动态一览]() - 📰 null - 【金色午报 | 9月29日午间重要动态一览】7:00-12:00关键词：黄金、USDe、Hyperdrive 
-1.黄金价格再创新高，降息预期升温至90%； 
-2.Binance平台上USDe存款大幅增长至约32亿枚； 
-3.美股加密货币概念股夜盘集体走高，BMNR涨超5%； 
-4.六万枚比特币洗钱案伦敦开庭在即 中国受害者远程作证； 
-5.Hyperdrive发布安全事件更新：所有市场均已全面恢复运营； 
-6.Aster过去24小时成交量达428.8亿美元，位居永续合约DEX榜首； 
-7.支持加密货币的纽约市长Eric Adams退出连任竞选，理由是财政困境。
-- [某鲸鱼1个小时前用500万枚USDC开空12,372枚ETH，仓位价值5082万美元](https://x.com/EmberCN/status/1972505577118154773) - 📰 null - 【某鲸鱼1个小时前用500万枚USDC开空12,372枚ETH，仓位价值5082万美元】金色财经报道，据链上分析师余烬监测，一个鲸鱼在一个小时前用500万枚USDC开空了12,372枚ETH，仓位价值5082万美元。开仓价4112美元，清算价4427美元。
+- [Binance将上线FF多项功能]() - 📰 null - 【Binance将上线FF多项功能】金色财经报道，币安将于 2025 年 9 月 29 日 21:00 上线 Falcon Finance (FF) 的保本赚币活期产品，并开放申购。同时，FF 将在币安现货上线后的一小时内支持一键买币、闪兑及杠杆交易。币安合约平台将上线 FFUSDT 永续合约，最高杠杆可达 75 倍。
+- [MetaMask将在APP中推出Perp Dex和积分奖励计划](https://x.com/yellowpantherx/status/1972629360499974236) - 📰 null - 【MetaMask将在APP中推出Perp Dex和积分奖励计划】9月29日消息，MetaMask 将在 APP 中推出 Perp Dex 和积分奖励计划。
+- [Coinshares：上周数字资产投资产品流出8.12亿美元](https://researchblog.coinshares.com/volume-253-digital-asset-fund-flows-weekly-report-f9d369f2898e) - 📰 null - 【Coinshares：上周数字资产投资产品流出8.12亿美元】金色财经报道，CoinShares发布最新周报显示，上周数字资产投资产品流出8.12亿美元。尽管如此，本月迄今流入量为40亿美元，年初至今流入量为396亿美元，保持着强劲势头，有可能追平去年486亿美元的纪录。本周，比特币的资金流出量为7.19亿美元。以太坊上周资金流出4.09亿美元，使其年初至今120亿美元的资金流入几乎停滞，9月份的资金流入目前仅为8620万美元。Solana表现突出，资金流入2.91亿美元，XRP资金流入9310万美元，这可能是因为市场对即将推出的美国ETF抱有强烈的预期。
+- [波兰通过严格加密货币监管法案，最高可处280万美元罚款](https://cointelegraph.com/news/poland-parliament-passes-crypto-bill-criticism) - 📰 null - 【波兰通过严格加密货币监管法案，最高可处280万美元罚款】金色财经报道，波兰议会下院已通过新版《加密资产市场法案》，该法案获230票支持、196票反对。法案规定所有加密资产服务提供商（CASP）必须向波兰金融监管局（KNF）申请许可，违规者将面临最高1000万兹罗提（约280万美元）罚款和最长两年监禁。法案实施后将给予6个月过渡期。该法案被批评者称为"欧盟最严格的加密货币法规"，引发行业强烈反对，认为可能会损害波兰300万加密货币持有者的利益。该法案目前已提交参议院审议。
+- [FalconX推出全天候期权交易平台，首发支持BTC、ETH、SOL与HYPE](https://www.theblock.co/post/372700/falconx-24-7-otc-crypto-options-trading-btc-eth-sol-hype?utm_source=browser&utm_medium=chrome&utm_campaign=notification) - 📰 null - 【FalconX推出全天候期权交易平台，首发支持BTC、ETH、SOL与HYPE】9月29日消息，机构级数字资产主经纪商 FalconX 周一宣布推出 7×24 小时运营的电子期权平台，旨在结合电子化执行的高效扩展性与场外加密期权交易的定制化特性。平台上线初期支持 BTC、ETH、SOL 与 HYPE 的期权交易，加密交易技术提供商 Talos 成为首批通过 API 集成该方案的合作伙伴。
+- [Strategy上周以约2210万美元购入196个比特币](https://x.com/Strategy/status/1972632876484264206) - 📰 null - 【Strategy上周以约2210万美元购入196个比特币】金色财经报道，Strategy上周以均价113,048美元购入196枚比特币，总投资约2,210万美元。截至9月28日，Strategy持仓量已达640,031枚比特币，总投资额约473.5亿美元，平均持仓成本为73,983美元/枚。
+- [FTX将向债权人偿付50亿美元资金](https://x.com/coinbureau/status/1972630767206551719) - 📰 null - 【FTX将向债权人偿付50亿美元资金】金色财经报道，据市场消息：FTX将启动首次大规模债权人偿付 —— 涉及超 50 亿美元的稳定币。
+- [CNBC的Mad Money节目主持人：买入加密货币](https://x.com/WatcherGuru/status/1972629798733439476) - 📰 null - 【CNBC的Mad Money节目主持人：买入加密货币】金色财经报道，CNBC的Mad Money节目主持人Jim Cramer发文表示购买加密货币。
+- [美SEC与CFTC将召开14年来首次联合圆桌会议](https://www.cryptoinamerica.com/p/sec-and-cftc-team-up-for-first-joint?utm_source=post-email-title&publication_id=4354746&post_id=174793993&utm_campaign=email-post-title&isFreemail=true&r=18jk6&triedRedirect=true&utm_medium=email) - 📰 null - 【美SEC与CFTC将召开14年来首次联合圆桌会议】金色财经报道，美国证券交易委员会（SEC）与商品期货交易委员会（CFTC）将于今日（9月29日）下午1点在SEC总部召开联合圆桌会议。这是14年来SEC和CFTC首次联合发起一项联合倡议，以协调加密货币和预测市场等共同优先事项的监管框架。上一次联合圆桌会议于2011年8月1日举行，重点讨论掉期监管的跨境问题。其次，这是华尔街主要交易所的领导人首次与他们的数字同行坐下来共同讨论市场运作。对于一个长期被视为边缘的行业来说，这是一个惊人的转变，也是一个明确的信号，表明加密货币现在在更广泛的金融体系中占有一席之地。 
+其中一场专题讨论将由洲际交易所（纽约证券交易所母公司）首席执行官Jeff Sprecher、芝加哥商品交易所集团首席执行官Terry Duffy和纳斯达克首席执行官Adena Friedman，以及 Kraken、Polymarket 和 Kalshi 等顶级加密货币和预测市场平台的高管共同参与。随后，摩根大通、美国银行和Citadel的代表将与Crypto.com、Robinhood和Jump Trading的高管展开对话。
+- [币安将于2025年10月3日下架HIFI和BAKEU本位永续合约]() - 📰 null - 【币安将于2025年10月3日下架HIFI和BAKEU本位永续合约】金色财经报道，据官方公告，币安合约将于2025年10月3日下架USDⓈ-MHIFIUSDT和BAKEUSDT永续合约。
+- [贝莱德地址于1小时前将4.96万枚ETH、340枚BTC存入Coinbase Prime](https://x.com/lookonchain/status/1972628523685990879) - 📰 null - 【贝莱德地址于1小时前将4.96万枚ETH、340枚BTC存入Coinbase Prime】金色财经报道，据Lookonchain监测，贝莱德地址于1小时前向CoinbasePrime存入了49,607.8枚ETH（价值2.0617亿美元）和340.5枚BTC（价值3818万美元）。
+- [沃勒：稳定币应纳入监管保护，增加支付选项]() - 📰 null - 【沃勒：稳定币应纳入监管保护，增加支付选项】金色财经报道，美联储理事沃勒表示，稳定币应纳入监管保护，并增加支付选项。
+- [美国黄金储备价值突破1万亿美元大关]() - 📰 null - 【美国黄金储备价值突破1万亿美元大关】金色财经报道，美国黄金储备在创纪录上涨后价值突破1万亿美元大关。
+- [现货黄金刚刚突破3820.00美元/盎司关口]() - 📰 null - 【现货黄金刚刚突破3820.00美元/盎司关口】金色财经报道，现货黄金刚刚突破3820.00美元/盎司关口，最新报3820.10美元/盎司，日内涨1.57%；COMEX黄金期货主力最新报3849.40美元/盎司，日内涨1.06%。
+- [币安钱包现已支持Plasma链原生交易]() - 📰 null - 【币安钱包现已支持Plasma链原生交易】金色财经报道，据官方公告，币安钱包App已全面支持Plasma网络功能，用户现可直接进行Plasma链原生交易、跨链操作，并可查看热门代币价格与K线。同时，钱包将自动显示用户资产与估值情况。
+- [Galaxy Digital对K Wave Media股权投资约100万美元](https://www.globenewswire.com/news-release/2025/09/29/3157581/0/en/K-Wave-Media-Announces-Plans-to-Launch-One-of-the-First-Entertainment-Tokenization-Platforms-with-Strategic-Investment-from-Galaxy-Digital-and-Backing-from-Korea-s-Leading-IP-Compa.html) - 📰 null - 【Galaxy Digital对K Wave Media股权投资约100万美元】金色财经报道，纳斯达克上市公司K Wave Media宣布已获得Galaxy Digital约100万美元的股权投资，以支持其推出娱乐代币化平台，包括开发收益共享代币、基于智能合约的自动版税分配等，据悉Galaxy Digital还获得了该公司的额外认股权证。
+- [BitMine上周增持23.48万枚ETH，总持仓达265万枚ETH](https://www.prnewswire.com/news-releases/bitmine-immersion-bmnr-announces-eth-holdings-exceeding-2-65-million-tokens-and-total-crypto-and-cash-holdings-of-11-6-billion-302569157.html) - 📰 null - 【BitMine上周增持23.48万枚ETH，总持仓达265万枚ETH】金色财经报道，纳斯达克上市的以太坊财库公司BitMine Immersion Technologies披露加密货币持仓更新数据，截至美国东部时间 9 月 28 日晚上 7 点，该公司持有的加密货币包括：2,650,900枚ETH（较上周公布时2416054枚ETH，增持234846枚）和192枚比特币，此外该公司还持有价值1.57亿美元的Eightco Holdings股份。
+- [高盛将全球股市评级上调至“增持”，看好经济前景]() - 📰 null - 【高盛将全球股市评级上调至“增持”，看好经济前景】金色财经报道，高盛将全球股市三个月前景的评级从“中性”上调至“增持”。高盛分析师指出，美国经济强劲、估值具有支撑作用，以及美联储立场更为鸽派是上调评级的主要理由。他们认为，良好的企业盈利增长、美联储在不出现衰退的情况下放松货币政策，以及全球财政政策宽松将继续支撑股市。
+- [币安Alpha上线FF]() - 📰 null - 【币安Alpha上线FF】金色财经报道，据官方页面显示，币安Alpha上线FF，当前报价0.46美元，BSC上市值3.67亿美元。
+- [DeepSeek-V3.2-Exp API价格官宣大幅下调]() - 📰 null - 【DeepSeek-V3.2-Exp API价格官宣大幅下调】金色财经报道，DeepSeek宣布官方App、网页端、小程序均已同步更新为DeepSeek-V3.2-Exp。DeepSeek介绍，得益于新模型服务成本的大幅降低，官方API价格也相应下调，新价格即刻生效。在新的价格政策下，开发者调用DeepSeek API的成本将降低50%以上。（金十）
