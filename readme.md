@@ -1,33 +1,26 @@
-- [韩国检方突击搜查加密货币交易所Coinone及相关嫌疑人住所](https://www.yna.co.kr/view/AKR20250930123051004?section=market-plus/cryptocurrency) - 📰 null - 【韩国检方突击搜查加密货币交易所Coinone及相关嫌疑人住所】金色财经报道，韩国首尔南部地方检察厅虚拟资产犯罪联合调查部（部长检察官李相赫）30日正在对位于首尔永登浦区的Coinone总部及相关嫌疑人住所进行搜查扣押。 
-据悉，此次搜查与金融监督院的举报有关。金监院指控Coinone前代表涉嫌将Coinone资金270亿韩元无担保借给控股公司，构成业务侵占。
-- [Hyperliquid 某用户持有 796.9 万枚 PUMP 空头仓位，当前浮亏 1361 万美元](https://x.com/ai_9684xtpa/status/1972909458771882075) - 📰 null - 【Hyperliquid 某用户持有 796.9 万枚 PUMP 空头仓位，当前浮亏 1361 万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，Hyperliquid 用户名为“btc@tuta.com”的地址持有当前最大的 PUMP 空头仓位，已浮亏 1361 万美元。 
-该地址共持有 796.9 万枚 PUMP（约 4420 万美元）的 5 倍空单，开仓价 0.003838 美元，清算价 0.007231 美元，资金费截至目前获得 144 万美元。尽管该笔交易出现大幅浮亏，但该账户自 2024 年 10 月至今累计盈利仍达 957 万美元。
-- [花旗：在周期性和结构性因素的推动下，金银可能延续上行趋势]() - 📰 null - 【花旗：在周期性和结构性因素的推动下，金银可能延续上行趋势】金色财经报道，花旗研究分析称，在周期性和结构性的推动下，黄金和白银可能会延续上涨趋势。结构性利好因素包括对美国债务、美元储备货币地位和美联储独立性的担忧。周期性的有利因素包括美国劳动力市场的持续疲软、对关税影响的担忧以及更广泛的全球经济增长担忧。由于太阳能光伏市场的强劲需求，白银仍处于持续的实物短缺状态。花旗将黄金三个月前的预期从每盎司3800美元上调至4000美元，白银从每盎司45.00美元上调至55.00美元。（金十）
-- [BTC突破114000美元]() - 📰 null - 【BTC突破114000美元】金色财经报道，行情显示，BTC突破114000美元，现报114007.24美元，24小时涨幅达到2.03%，行情波动较大，请做好风险控制。
-- [4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议]() - 📰 null - 【4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议】9月30日消息，据4E观察，美国政府关门危机再度逼近。9 月 30 日资金到期在即，特朗普将于 9 月 29 日与国会高层会面，若未能通过支出法案，数百万联邦雇员恐受影响。德银分析师警告，这是自 2018-19 年以来首次政府停摆的高风险窗口。特朗普此前甚至表示：“如果政府不得不关门，那就关门。” 
-加密市场方面，苹果 CEO 库克确认个人持有比特币和以太坊，并称其是投资组合中“合理的配置思路”，显示加密货币正逐步被更多主流科技领袖认可。与此同时，知名分析师 PlanB 认为，比特币牛熊分界点已于 2025 年 6 月出现，未来或进入长期平稳上涨周期。 
-机构观点方面，Cathie Wood 表示以太坊难以超越比特币，比特币的规模效应将持续扩大，但她透露近期已买入 BitMine 股票以间接布局 ETH 生态。 
-宏观层面，花旗最新报告将 2030 年稳定币市场规模预测上调至基线 1.9 万亿美元，乐观情景可达 4 万亿美元，对应交易量或突破 200 万亿美元。当前稳定币市值约 2968 亿美元，USDT 占比接近 59%，显示市场仍在早期阶段。 
-4E提醒投资者：宏观不确定性叠加加密市场逐步融入主流金融体系，短期风险与长期机遇并存。投资者需关注美国财政博弈与稳定币监管进展，把握结构性机会。
-- [Binance Alpha和合约将上线DoubleZero (2Z)](https://www.binance.com/zh-CN/support/announcement/detail/1e2c92555a9c4988b19b91add6516bab) - 📰 null - 【Binance Alpha和合约将上线DoubleZero (2Z)】金色财经报道，币安Alpha将于2025年10月02日20:00（东八区时间）上线和开放DoubleZero (2Z) 的交易。此外，币安合约平台将于2025年10月02日20:30（东八区时间）上线2ZUSDT永续合约，最高杠杆可达50倍。 
-所有符合资格的币安用户将获得币安独家代币空投。符合资格的用户需要于2025年10月02日20:00（东八区时间）至2025年10月03日20:00（东八区时间）期间，使用币安Alpha积分通过币安Alpha活动页面领取空投。
-- [Tether CEO发布钱包开发工具包Demo：即将开源且支持USDT、USDT0](https://x.com/paoloardoino/status/1972656886936715506) - 📰 null - 【Tether CEO发布钱包开发工具包Demo：即将开源且支持USDT、USDT0】金色财经报道，Tether首席执行官Paolo Ardoino在X平台发布钱包开发工具包WDK的Demo视频，其中展示了该产品的关键要点，包括：100%由Tether构建、封装UI组件可重复使用、即将开源、完全非托管、适用于任何平台/操作系统（包括移动端和桌面端）、支持USDT、USDT0，通过安全审核等。
-- [Starknet 在 BTCFi 扩展中推出比特币质押和收益产品](https://x.com/SkyEcosystem/status/1972893680299343884) - 📰 null - 【Starknet 在 BTCFi 扩展中推出比特币质押和收益产品】9月30日消息，据 The Block 报道，比特币质押已在 Starknet 上线，该项目称这是首次在 Layer2 网络实现无需信任的比特币质押。持币者保留资产保管权的同时可赚取奖励，助力网络共识，Starknet 称其为 “老牌比特币持有者的比特币战略”。 
-同时，Starknet 基金会将拨 1 亿枚 STRK（1200 万美元），推动 BTCFi 生态发展，包括激励比特币抵押借贷，让 Starknet 成为用比特币抵押并实施收益策略的最划算场所。
-- [SOL跌破210美元]() - 📰 null - 【SOL跌破210美元】金色财经报道，行情显示，SOL跌破210美元，现报209.99美元，24小时涨幅达到0.41%，行情波动较大，请做好风险控制。
-- [Sky生态最新“Star”项目Keel已上线](https://x.com/SkyEcosystem/status/1972893680299343884) - 📰 null - 【Sky生态最新“Star”项目Keel已上线】金色财经报道，Sky在X平台宣布，Sky生态最新“Star”项目Keel已上线，这是一个Solana的资本引擎。Keel正借助Sky的力量，在Solana网络上拓展流动性、信贷及代币化资产规模。 
-凭借25亿美元的流动性规划蓝图，Keel的资本引擎已准备好开启SolanaDeFi发展的下一阶段增长。
-- [某鲸鱼从币安提取3,629枚ETH，价值1,522万美元](https://x.com/OnchainLens/status/1972893950416716136) - 📰 null - 【某鲸鱼从币安提取3,629枚ETH，价值1,522万美元】金色财经报道，据链上分析师OnchainLens（@OnchainLens）监测，某鲸鱼一小时前从币安提取3,629枚ETH，价值1,522万美元。目前该鲸鱼持有3,666枚ETH，总价值1,536万美元。
-- [OKX新加坡在本地GrabPay商户上线稳定币支付服务](https://www.reuters.com/sustainability/boards-policy-regulation/okx-singapore-launches-stablecoin-payments-local-grabpay-merchants-2025-09-30/) - 📰 null - 【OKX新加坡在本地GrabPay商户上线稳定币支付服务】金色财经报道，加密货币交易所OKX周二表示，已在新加坡推出一项服务，允许其客户使用稳定币向网约车运营商Grab的支付平台上的商户付款。通过名为OKX Pay的服务，用户使用USDC或USDT稳定币付款时，会首先转换为StraitsX发行的新加坡元支持的稳定币XSGD，随后商户将以新加坡元收款。
-- [美国“政府敛财”ETF或将于本周推出](https://cointelegraph.com/news/government-grift-etf-could-launch-as-early-as-friday) - 📰 null - 【美国“政府敛财”ETF或将于本周推出】金色财经报道，一位分析师称，一只跟踪美国政客以及与美国总统关系密切的个人和公司的交易活动的交易所交易基金（ETF），最快可能在本周五推出。这只名为Tuttle Capital Government Grift ETF（代码：GRFT）的基金由Tuttle Capital Management于今年早些时候首次提出。 
-彭博ETF分析师Eric Balchunas指出，GRFT最早可能在本周五上线，因为美国证券交易委员会（SEC）周一将10月3日确定为Tuttle公司S-1注册声明生效的日期。该ETF将通过扫描《国会证券交易法案》（STOCKAct）的交易申报，追踪国会议员及其配偶的交易。 
-此外，该基金还将投资与总统影响力有明显联系的公司，这可能包括：其高管或董事与白宫有关系的公司，或是获得现任总统（目前为唐纳德·特朗普）公开称赞的企业。
-- [日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平]() - 📰 null - 【日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平】金色财经报道，日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平。(金十)
-- [某巨鲸以3,794美元均价增持2.98万枚ETH](https://x.com/OnchainDataNerd/status/1972873806214811929) - 📰 null - 【某巨鲸以3,794美元均价增持2.98万枚ETH】金色财经报道，据The Data Nerd监测，1小时前，巨鲸地址0x1fc再次从Binance提取了2,360枚ETH（约992万美元）。在过去4个月里，他累计买入了共计29,800枚ETH（约1.13亿美元），平均建仓价为3,794美元。
-- [OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%]() - 📰 null - 【OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%】金色财经报道，据The Information：OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%；现金消耗25亿美元，其中很大一部分为开发人工智能和运行ChatGPT的研发成本。(金十)
-- [澳洲联储如期维持利率不变]() - 📰 null - 【澳洲联储如期维持利率不变】金色财经报道，澳洲联储将基准利率维持在3.6%不变，符合市场预期，该行年内已累计降息三次。(金十)
-- [数据：韩国上半年虚拟资产市值降至95万亿韩元](https://www.yna.co.kr/view/AKR20250930092400002?section=market-plus/cryptocurrency) - 📰 null - 【数据：韩国上半年虚拟资产市值降至95万亿韩元】金色财经报道，韩国金融信息分析院和金融监督院于30日公布了对国内17家交易所及8家托管/钱包服务商共25家虚拟资产经营者进行的2025年上半年实态调查结果。数据显示，截至6月底，国内虚拟资产市值为95.1万亿韩元，较去年年底的107.7万亿韩元减少14.4万亿韩元（下降14%）。 
-分析认为，美国关税冲突、地缘政治紧张加剧等因素导致虚拟资产价格上涨势头放缓，同时波动性加大。
-- [某鲸鱼于1小时前再次从Binance提取2,360枚以太坊，约合992万美元](https://x.com/OnchainDataNerd/status/1972873806214811929) - 📰 null - 【某鲸鱼于1小时前再次从Binance提取2,360枚以太坊，约合992万美元】金色财经报道，据The Data Nerd监测，1小时前，一名鲸鱼地址0x1fc从Binance再次从Binance提取2,360枚以太坊（约992万美元）。在过去4个月内，他总共累计了29,800枚以太坊（约1.13亿美元），平均入场价为3,794美元。
-- [Opensea：所有NFT Strategy代币现已上线](https://x.com/opensea/status/1972801632229532005) - 📰 null - 【Opensea：所有NFT Strategy代币现已上线】9月30日消息，Opensea宣布所有NFT Strategy代币现已上线，并在奖励池中添加了20枚ETH。 
-NFT Strategy 代币结合了 NFT 和 DeFi，通过自动化交易策略来管理与特定 NFT 集合相关的资产，为持有者创造价值或收益。
+- [BTC Development拟通过首次公开募股募资2.2亿美元](https://www.globenewswire.com/news-release/2025/09/30/3158577/0/en/BTC-Development-Corp-Announces-Pricing-of-220-000-000-Initial-Public-Offering.html) - 📰 null - 【BTC Development拟通过首次公开募股募资2.2亿美元】金色财经报道，BTC Development Corp宣布首次公开募股（IPO）定价为每股10美元，发行22,000,000股，预计募资2.2亿美元，预计将在9月30日以股票代码为“BDCIU”开始交易。据悉，该公司将寻求在比特币生态系统中提供具有吸引力的经风险调整回报机会的公司进行股份交换、资产收购、股份购买、重组或类似的业务合并。
+- [Ronin 启动 450 万美元 RON 代币回购计划](https://blog.roninchain.com/p/ron-buybacks-have-begun) - 📰 null - 【Ronin 启动 450 万美元 RON 代币回购计划】金色财经报道，Ronin Network 今日宣布正式启动 RON 代币回购计划。Ronin Treasury 将使用约 890 枚 ETH 和 65 万 USDC（总值约 450 万美元）回购 RON 代币。为减少市场波动，回购将采用 TWAP 策略，以每分钟约 100 美元的速度在一个月内完成。预计回购完成后，Ronin Treasury 将持有约 900 万枚 RON，占流通供应量的 1.3%。
+- [美国总统特朗普：如果出现政府停摆，可能会解雇大量员工]() - 📰 null - 【美国总统特朗普：如果出现政府停摆，可能会解雇大量员工】金色财经报道，美国总统特朗普：如果出现政府停摆，可能会解雇大量员工。（金十）
+- [英国金融行为监管局批准IG集团获得加密资产牌照]() - 📰 null - 【英国金融行为监管局批准IG集团获得加密资产牌照】金色财经报道，英国金融行为监管局已批准IG集团获得加密资产牌照。（金十）
+- [某WLFI巨鲸将 2,000 枚ETH转入 Kraken 交易所进行套现](https://x.com/ai_9684xtpa/status/1972998982868836581) - 📰 null - 【某WLFI巨鲸将 2,000 枚ETH转入 Kraken 交易所进行套现】金色财经报道，据链上分析师Ai姨监测，某WLFI巨鲸在过去 2 小时内从 Lido 协议解质押了 6,845 枚 ETH，随后将其中 2,000 枚转入 Kraken 交易所进行套现，价值约 832 万美元。该地址目前仍持有 9,850 枚 ETH 和 stETH，以及价值 1,030 万美元的 WLFI 代币。
+- [450枚比特币从Coinbase转出](https://x.com/whale_alert/status/1972994389979828596) - 📰 null - 【450枚比特币从Coinbase转出】金色财经报道，据Whale Alert监测，450枚比特币（价值 50,886,006 美元）从 Coinbase平台转入未知钱包。
+- [Crypto.com将推出4亿美元的Solana Treasury](https://x.com/coinbureau/status/1972992972552860148) - 📰 null - 【Crypto.com将推出4亿美元的Solana Treasury】金色财经报道，加密货币交易所Crypto.com宣布将推出4亿美元的Solana Treasury，Crypto.com正与STSS合作，以增加SOL（Solana 原生代币）的市场曝光度、提升流动性，并推动机构投资者对其的长期采用。
+- [分析：Tether 的BTC储备地址是第六大BTC钱包](https://x.com/EmberCN/status/1972992145595494881) - 📰 null - 【分析：Tether 的BTC储备地址是第六大BTC钱包】金色财经报道，据链上分析师余烬监测，三季度的最后一天，Tether从Bitfinex提取8,888.8枚BTC(10亿美元)到他们的BTC储备地址。这可能是他们二、三季度(4-9月)所购买的BTC：Tether自2023年5月发布公告决定定期用公司利润的15%购买比特币进行储备，上次提出BTC是在一季度的最后一天。 
+目前他们的BTC储备地址拥有86,335枚BTC(97.5亿美元)，是第六大的BTC钱包。 
+以他们从Bitfinex提出时的价格计算的话，这些BTC的购买均价约在48,542美元，也就是说现在浮盈高达55亿美元。
+- [纳斯达克上市公司Sky Quarry宣布推出数字资产财库并拟募资1亿美元](https://www.globenewswire.com/news-release/2025/09/30/3158470/0/en/Sky-Quarry-Announces-Digital-Asset-Treasury-Strategy-Focused-on-Real-World-Tokenization-and-Future-Growth.html) - 📰 null - 【纳斯达克上市公司Sky Quarry宣布推出数字资产财库并拟募资1亿美元】金色财经报道，纳斯达克上市公司Sky Quarry宣布推出数字资产财库，旨在增强公司的资产负债表以推动业务增长，据悉该公司还披露其董事会已批准寻求募资1亿美元用于分阶段支持其数字资产财务战略，同时为运营业务保留充足的营运资金。
+- [摩根大通美债客户调查显示多头占比升至4月以来的新高]() - 📰 null - 【摩根大通美债客户调查显示多头占比升至4月以来的新高】金色财经报道，摩根大通美国国债客户调查显示，截至9月29日当周，多头占比上升2个百分点，至4月7日以来的最高水平。空头占比下降2个百分点，中性保持不变。净多头占比创8月18日以来的最高水平。相比之下，活跃客户近一年来首次净做空。
+- [比特币 ATM 服务提供商 Bitcoin Well 拟募资 1 亿美元以增持 BTC](https://x.com/BTCtreasuries/status/1972989849956389228) - 📰 null - 【比特币 ATM 服务提供商 Bitcoin Well 拟募资 1 亿美元以增持 BTC】金色财经报道，在加拿大上市的比特币 ATM 服务提供商 Bitcoin Well 宣布拟募资 1 亿美元，以支持其比特币财库增持比特币。
+- [法拉第未来宣布完成对Qualigen Therapeutics 4100万美元战略投资](https://www.globenewswire.com/news-release/2025/09/30/3158382/0/en/Faraday-Future-Announces-Closing-of-Strategic-41-Million-Investment-in-Qualigen-Therapeutics-NASDAQ-QLGN-to-Accelerate-its-Dual-Flywheel-Dual-Bridge-Eco-Strategy.html) - 📰 null - 【法拉第未来宣布完成对Qualigen Therapeutics 4100万美元战略投资】金色财经报道，法拉第未来智能电动汽车公司（纳斯达克股票代码：FFAI）今日宣布，已成功完成此前宣布的对 Qualigen Therapeutics 公司（纳斯达克股票代码：QLGN）的战略投资。Qualigen Therapeutics 是一家正开展加密货币及 Web3 相关新业务的上市公司。 
+此次投资总额约为 4100 万美元，其中法拉第未来牵头投资约 3000 万美元，FF 创始人兼全球联合首席执行官贾跃亭（YT Jia）额外投资 400 万美元；参与投资的还有其他机构，包括由Binance Labs、红杉资本（美国、印度、中国）、IDG 资本（IDG）及Circle公司支持的区块链技术企业SIGN基金会。 
+随着此次投资交易完成，法拉第未来目前持有 Qualigen Therapeutics（QLGN）经调整后普通股约 55% 的股份，贾跃亭持有约 7% 的股份。作为基石投资者，贾跃亭已自愿承诺将其所持股份锁定两年。
+- [xMoney完成2150万美元战略融资，Sui基金会领投](https://beincrypto.com/xmoney-funding-sui-foundation-led/) - 📰 null - 【xMoney完成2150万美元战略融资，Sui基金会领投】9月30日消息，连接稳定币与全球商业的支付公司 xMoney 今日宣布完成 2150 万美元战略融资，此轮融资由 Sui 基金会领投。
+- [Binance Wallet推出Turtle（TURTLE）Booster 活动](https://x.com/BinanceWallet/status/1972987559522205790) - 📰 null - 【Binance Wallet推出Turtle（TURTLE）Booster 活动】金色财经报道，据官方消息，Binance Wallet 将上线 Turtle（TURTLE）Booster 活动，通过完成阶段性任务，可分享总计 1500 万枚 TURTLE 空投，拥有超 61 Binance Alpha 积分的用户有资格参与。
+- [Republic计划在Solana链上推出Animoca Brands股权代币化解决方案](https://www.prnewswire.com/news-releases/republic-plans-to-tokenize-animoca-brands-equity-on-solana-302570541.html) - 📰 null - 【Republic计划在Solana链上推出Animoca Brands股权代币化解决方案】金色财经报道，投资平台Republic 今日宣布，计划将全球 Web3 领域领军企业 Animoca Brands 的股权进行代币化。这一举措将为全球投资者提供接触 Animoca Brands 的新途径。据悉，Animoca Brands 拥有超过 600 项 Web3 领域头部投资组合，并借助代币化技术与区块链，为消费者提供数字财产权服务。 
+目前，Animoca Brands 的股票尚未在公开交易所上市，投资者获取该公司股权的传统方式主要是通过场外二级市场。Republic 推出的股权代币化解决方案，将借助区块链技术打造更高效、更透明的投资方式，在遵守监管要求的同时，扩大投资者的参与渠道。 
+此次代币化的股权将在 Solana区块链上铸造，并分发至参与投资者的钱包中。代币交易将通过 Republic 的全球交易市场推进。有关代币化流程的更多细节，将在后续公布。
+- [Tether增持超8,888枚BTC，价值10亿美元](https://x.com/OnchainLens/status/1972984223889060230) - 📰 null - 【Tether增持超8,888枚BTC，价值10亿美元】金色财经报道，据OnchainLens监测，Tether(bc1qj...27a4)于2025年第二季度最后一日购买了8,888.889枚BTC，价值10亿美元。
+- [超9400万枚狗狗币转入Coinbase](https://x.com/whale_alert/status/1972980675885097275) - 📰 null - 【超9400万枚狗狗币转入Coinbase】金色财经报道，据Whale Alert监测，94,565,083 枚狗狗币（价值 21,714,279 美元）从未知钱包转入 Coinbase。
+- [OKX将上线 EDENUSDT永续合约]() - 📰 null - 【OKX将上线 EDENUSDT永续合约】金色财经报道，据官方公告，OKX将于 2025 年 9 月 30 日下午 7:30 (UTC+8) 在网页端、App 端及 API 正式上线 EDENUSDT永续合约。据悉，OpenEden 是一家完全合规的现实世界资产（RWA）协议，通过其两款产品 TBILL 和 USDO，将美国国债的收益分发给持有者。
+- [币安Alpha将在10月1日上线StrikeBit AI(STRIKE)]() - 📰 null - 【币安Alpha将在10月1日上线StrikeBit AI(STRIKE)】金色财经报道，据官方公告，币安Alpha将在10月1日上线StrikeBit AI(STRIKE)。符合条件的用户可于Alpha交易开放后，前往Alpha活动页面使用币安Alpha积分领取空投。具体详情将另行公布。
+- [欧盟监管机构因担忧崩盘而推动禁止多发行方稳定币]() - 📰 null - 【欧盟监管机构因担忧崩盘而推动禁止多发行方稳定币】金色财经报道，欧洲央行正在为禁止在欧盟与其他司法管辖区同时发行的稳定币争取支持，这为未来围绕 Circle和 Paxos等运营商如何跨境管理业务的冲突埋下伏笔。据知情人士透露，负责维护欧洲金融体系安全的欧洲系统风险理事会（ESRB）上周通过了一项建议，呼吁禁止所谓的“多方发行”（multi-issuance）稳定币。该指导意见由央行行长和欧盟官员组成的高级委员会批准，虽然不具法律约束力，但会对地区监管机构施加压力，要求其落实相关限制，或解释在缺乏限制的情况下如何维持金融稳定。(金十)
