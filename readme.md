@@ -1,31 +1,33 @@
-- [Core Scientific定于10月30日就与CoreWeave的合并案举行股东投票](https://theminermag.com/news/2025-09-29/core-scientific-coreweave-merger-vote) - 📰 null - 【Core Scientific定于10月30日就与CoreWeave的合并案举行股东投票】金色财经报道，Core Scientific已定于10月30日召开特别股东大会，就其与人工智能云计算公司CoreWeave的拟议合并案进行投票。根据上周五向美国证券交易委员会（SEC）提交的最终委托声明，该会议将以线上形式举行，会上将要求投资者就7月7日签署的合并协议进行表决——依据该协议，Core Scientific将成为CoreWeave的全资子公司。此外，股东们还将对一项与该交易相关的高管薪酬咨询提案进行投票。
-- [黄仁勋近5天出售22.5万股英伟达股票，套现超4000万美元]() - 📰 null - 【黄仁勋近5天出售22.5万股英伟达股票，套现超4000万美元】金色财经报道，英伟达(NVDA.O)当地时间9月29日提交至美国证券交易委员会（SEC）的文件显示，首席执行官黄仁勋于9月25日至29日共售出22.5万股英伟达股票，套现超4000万美元。（金十）
-- [比特币财库公司POP Culture完成普通股发行募资600万美元](https://www.prnewswire.com/news-releases/pop-culture-group-co-ltd-announces-closing-of-registered-direct-offering-302569913.html) - 📰 null - 【比特币财库公司POP Culture完成普通股发行募资600万美元】金色财经报道，纳斯达克上市的比特币财库公司POP Culture宣布已完成500万股A类普通股发行，每股发行价格为1.2美元，总计募资600万美元，FT Global Capital, Inc. 担任发行配售代理，该公司此前已买入300枚比特币并计划将比特币财库规模扩大至1000枚。
-- [九紫新能宣布正在进行550万美元融资，70%融资资金将投资加密货币资产](https://www.globenewswire.com/news-release/2025/09/29/3157821/0/en/Jiuzi-Holdings-Inc-Announces-Pricing-of-5-5-Million-Registered-Direct-Offering-and-Concurrent-Private-Placement.html) - 📰 null - 【九紫新能宣布正在进行550万美元融资，70%融资资金将投资加密货币资产】9月30日消息，九紫新能（Nasdaq:JZXN）宣布正在进行550万美元融资，包括注册直接发行和并行私募配售。融资预计于9月30日完成交割。公司计划将约70%的融资资金用于投资加密货币资产。
-- [加拿大上市公司LQWD以约156万美元增持14枚比特币，总持仓升至252.5枚](https://lqwdtech.com/2025/lqwd-acquires-additional-bitcoin-increasing-its-holdings-to-252-5-btc/) - 📰 null - 【加拿大上市公司LQWD以约156万美元增持14枚比特币，总持仓升至252.5枚】金色财经报道，加拿大上市公司LQWD Technologies披露，其以约156万美元额外购入14枚比特币，平均购入价格111,307美元。目前其比特币总持有量升至252.5枚。
-- [数据：CZ自出狱以来净资产平均每天增加5400万美元](https://protos.com/cz-net-worth-increase-20b-since-prison/) - 📰 null - 【数据：CZ自出狱以来净资产平均每天增加5400万美元】金色财经报道，自从币安创始人赵长鹏（CZ）因未能执行《银行保密法》服刑后在一年多前出狱以来，其净资产估值已增加约200亿美元。 
-根据Forbes网站的存档显示，赵长鹏出狱时的净资产估计约为610亿美元，如今，该媒体最新的估算显示他的财富已达806亿美元，增长接近200亿美元。与此同时，另一家维护富豪榜单的Bloomberg则估计，赵长鹏出狱时的净资产约为308亿美元，而目前约为521亿美元，增长同样超过200亿美元。 
-值得注意的是，Forbes之前对赵长鹏净资产的估算显示，在他服刑的四个月期间，他的财富平均每天可能增加高达2500万美元。Forbes在5月7日和7月12日的两次快照中分别将其财富列为330亿美元和578亿美元。
-- [白宫：美国总统特朗普签署公告，调整木材、木材制品及其衍生产品进口政策]() - 📰 null - 【白宫：美国总统特朗普签署公告，调整木材、木材制品及其衍生产品进口政策】金色财经报道，白宫：美国总统特朗普签署公告，调整木材、木材制品及其衍生产品进口政策。(金十)
-- [两个新建钱包从FalconX和OKX共收到30,354枚ETH，价值约1.28亿美元](https://x.com/OnchainLens/status/1972824552427377113) - 📰 null - 【两个新建钱包从FalconX和OKX共收到30,354枚ETH，价值约1.28亿美元】金色财经报道，据OnchainLens监测，两个新建钱包从FalconX和OKX共收到30,354枚ETH，价值1.2795亿美元。
-- [Burwick Law律师事务所要求在pump.fun诉讼案中撤销对Jito Labs的起诉](https://protos.com/jito-labs-dropped-from-burwick-laws-pump-fun-lawsuit/) - 📰 null - 【Burwick Law律师事务所要求在pump.fun诉讼案中撤销对Jito Labs的起诉】金色财经报道，Jito Labs及其两名高管将从BurwickLaw针对pump.fun的诉讼中被“无偏见撤诉”，此前双方在5,000条聊天记录泄露后达成了和解。 
-代表原告Diego Aguilar、Kendall Carnahan和Michael Okafor的律师事务所Burwick和Wolf Popper于周五告知法官Colleen McMahon，他们将撤回针对Jito Labs、Jito基金会、首席执行官兼首席运营官Lucas Bruder以及Brian Smith的指控。 
-信函中未说明原告与Jito Labs达成该协议的原因，而McMahon法官尚未批准该命令。不过，上周由法律顾问提交的二次修正诉讼请求表明，将会撤掉一名被告，以“进一步缩小案件范围”。
-- [美国移民局突击检查德克萨斯州比特币矿场，逮捕多名中国籍员工](https://blockspace.media/insight/ice-raids-bitcoin-mine-in-pyote-texas/) - 📰 null - 【美国移民局突击检查德克萨斯州比特币矿场，逮捕多名中国籍员工】金色财经报道，据Blockspace报道，美国移民和海关执法局（ICE）于9月29日对位于德克萨斯州Pyote的Lonestar Dream比特币挖矿站点进行突击检查，主要针对该站点内由比特大陆关联公司ADW Tech运营的ASIC维修中心。 
-执法行动涉及ICE、联邦调查局（FBI）、国土安全调查局（HSI）、德克萨斯州公共安全部（DPS）和美国海关边境保护局（CBP）等多个政府部门。现场目击者称，执法人员使用直升机、狙击手等装备，突袭行动中约有12至13人被带走，其中多数为持过期签证的中国公民。
-- [REX-Osprey SOL现货ETF昨日净流入320万美元](https://farside.co.uk/sol/) - 📰 null - 【REX-Osprey SOL现货ETF昨日净流入320万美元】金色财经报道，据Farside Investors监测，REX-Osprey SOL现货ETF昨日净流入320万美元。
-- [TalusNetwork获Sui和Walrus战略投资，累计融资额超1000万美元](https://decrypt.co/341976/talus-network-receives-investment-from-sui-and-walrus-to-accelerate-prediction-ai) - 📰 null - 【TalusNetwork获Sui和Walrus战略投资，累计融资额超1000万美元】金色财经报道，据Decrypt报道，去中心化AI代理基础设施Talus Network宣布获得Sui基金会和Walrus基金会的战略投资。加上此前由Polychain Capital领投的两轮融资，Talus总融资额已超过1000万美元。 
-Talus致力于打造去中心化AI代理基础设施，该平台的测试网已于上周上线，主网预计将于2026年第一季度上线。
-- [数据：自8月以来，Strategy 94%的比特币购入资金来源于稀释MSTR股票](https://protos.com/94-of-strategys-bitcoin-buys-since-august-were-from-diluting-mstr/) - 📰 null - 【数据：自8月以来，Strategy 94%的比特币购入资金来源于稀释MSTR股票】金色财经报道，9月29日早晨，Strategy创始人Michael Saylor宣布通过直接稀释MSTR股东的方式再次购买比特币（BTC）。尽管MSTR相对BTC的表现不佳，Saylor仍拒绝恢复7月31日关于禁止普通股稀释的规定。 
-2025年7月31日，Strategy曾向普通股股东明确承诺：“除用于支付利息和分红外，我们不会在低于2.5倍mNAV的情况下发行MSTR。”然而，仅仅两周后的8月18日，公司便修订了这一承诺，称将在“公司认为有利时”稀释MSTR。 
-在过去六周里，Strategy和Saylor充分利用了撤销后的新指引。具体而言，公司通过稀释3,278,660股MSTR普通股，花费约11.327亿美元购买了大约10,010枚比特币。
-- [疑似Bitmine地址从FalconX提出25369枚ETH，约合1.07亿美元](https://x.com/EmberCN/status/1972819375687376972) - 📰 null - 【疑似Bitmine地址从FalconX提出25369枚ETH，约合1.07亿美元】金色财经报道，据链上分析师余烬监测，一个新地址在2小时前从FalconX提取25,369枚ETH，价值约1.07亿美元。分析师称，根据该地址的ETH囤积方式分析，该地址应属于Bitmine。
-- [Phala Network拟停止平行链并迁移至以太坊L2](https://phala.subsquare.io/democracy/proposals/8) - 📰 null - 【Phala Network拟停止平行链并迁移至以太坊L2】9月30日消息，去中心化链下计算基础设施 Phala Network 发文表示，由于 Phala 的 Polkadot 平行链插槽将于 2025 年 11 月 20 日到期，现已提交提案要求停止该平行链并完全迁移至以太坊 L2，以符合英特尔的路线图（TDX + GPU 机密计算）和更广泛的 EVM 生态系统。
-- [做空5082万美元ETH的巨鲸割肉止损，亏损160万美元](https://x.com/EmberCN/status/1972808756640792811) - 📰 null - 【做空5082万美元ETH的巨鲸割肉止损，亏损160万美元】金色财经报道，据链上分析师余烬监测，昨日使用500万USDC开空12,372枚ETH，仓位价值5082万美元的巨鲸割肉止损。其开仓价4112美元，清算价4427美元，今晨于4225美元平空，亏损160万美元。
-- [土耳其计划允许监管机构冻结银行及加密货币账户](https://www.bloomberg.com/news/articles/2025-09-29/turkey-plans-to-let-watchdog-freeze-bank-and-crypto-accounts?srnd=phx-crypto) - 📰 null - 【土耳其计划允许监管机构冻结银行及加密货币账户】9月30日消息，土耳其正准备赋予其金融犯罪监管机构——金融犯罪调查局（Masak）更大权力，使其能够冻结并限制银行账户和加密货币账户的访问权限，以此作为打击洗钱和金融犯罪行动的一部分。 
-知情人士透露，拟议的措施符合金融行动特别工作组（FATF）制定的反洗钱标准，预计将通过一项提交议会的法案来推行。若新规获批，Masak 有权关闭涉嫌非法使用的账户，还能实施交易限额、暂停移动银行账户，黑名单与犯罪相关的加密货币地址。 
-仍在起草的法案主要针对“租用”账户行为，即犯罪分子付费使用他人账户进行非法博彩和欺诈。这些变更预计纳入第 11 项司法一揽子计划，新立法年度提交审议，法规可能修订，且不一定以当前形式通过。
-- [美SEC 暂停比特币、以太坊财库公司 QMMM 股票交易](https://decrypt.co/342044/sec-halts-trading-bitcoin-ethereum-treasury-qmmm-2000-stock-surge) - 📰 null - 【美SEC 暂停比特币、以太坊财库公司 QMMM 股票交易】金色财经报道，数字广告公司 QMMM Holdings 本月早些时候宣布正在购买比特币（Bitcoin）、以太坊（Ethereum）和 Solana。在该公司转向加密货币策略后，其股票在过去一个月内飙升了 2,100% 以上。美国证券交易委员会（SEC）现已暂停该股票的交易，并声称可能存在市场操纵行为。
-- [日本央行：一名委员表示，鉴于距离上次加息已超过六个月，现在或许可以考虑再次启动加息]() - 📰 null - 【日本央行：一名委员表示，鉴于距离上次加息已超过六个月，现在或许可以考虑再次启动加息】金色财经报道，日本央行：一名委员表示，鉴于距离上次加息已超过六个月，现在或许可以考虑再次启动加息。(金十)
-- [美国马萨诸塞州将举行听证会审议比特币储备法案](https://cointelegraph.com/news/massachusetts-hearing-bitcoin-reserve-bill) - 📰 null - 【美国马萨诸塞州将举行听证会审议比特币储备法案】金色财经报道，据 Cointelegraph 报道，美国马萨诸塞州立法机构的一个委员会计划就一项于 2 月首次提出的比特币战略储备法案展开讨论。在共和党州参议员 Peter Durant 提出的“关于比特币战略储备”法案于周五更新的信息中，马萨诸塞州联合税收委员会将举行听证会，对该法案进行审议。 
-目前尚不清楚任何由共和党主导的法案在马萨诸塞州立法机构通过的可能性有多大。民主党目前在州众议院和参议院拥有绝对多数席位，并掌控州长职位。该州所有在美国众议院和参议院的代表也均为民主党人。Durant 提出的法案将允许“马萨诸塞州查没的任何比特币或其他数字资产”存入储备，并授权州财政部门使用高达马萨诸塞州稳定基金 10% 的资金投资加密货币。
+- [韩国检方突击搜查加密货币交易所Coinone及相关嫌疑人住所](https://www.yna.co.kr/view/AKR20250930123051004?section=market-plus/cryptocurrency) - 📰 null - 【韩国检方突击搜查加密货币交易所Coinone及相关嫌疑人住所】金色财经报道，韩国首尔南部地方检察厅虚拟资产犯罪联合调查部（部长检察官李相赫）30日正在对位于首尔永登浦区的Coinone总部及相关嫌疑人住所进行搜查扣押。 
+据悉，此次搜查与金融监督院的举报有关。金监院指控Coinone前代表涉嫌将Coinone资金270亿韩元无担保借给控股公司，构成业务侵占。
+- [Hyperliquid 某用户持有 796.9 万枚 PUMP 空头仓位，当前浮亏 1361 万美元](https://x.com/ai_9684xtpa/status/1972909458771882075) - 📰 null - 【Hyperliquid 某用户持有 796.9 万枚 PUMP 空头仓位，当前浮亏 1361 万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，Hyperliquid 用户名为“btc@tuta.com”的地址持有当前最大的 PUMP 空头仓位，已浮亏 1361 万美元。 
+该地址共持有 796.9 万枚 PUMP（约 4420 万美元）的 5 倍空单，开仓价 0.003838 美元，清算价 0.007231 美元，资金费截至目前获得 144 万美元。尽管该笔交易出现大幅浮亏，但该账户自 2024 年 10 月至今累计盈利仍达 957 万美元。
+- [花旗：在周期性和结构性因素的推动下，金银可能延续上行趋势]() - 📰 null - 【花旗：在周期性和结构性因素的推动下，金银可能延续上行趋势】金色财经报道，花旗研究分析称，在周期性和结构性的推动下，黄金和白银可能会延续上涨趋势。结构性利好因素包括对美国债务、美元储备货币地位和美联储独立性的担忧。周期性的有利因素包括美国劳动力市场的持续疲软、对关税影响的担忧以及更广泛的全球经济增长担忧。由于太阳能光伏市场的强劲需求，白银仍处于持续的实物短缺状态。花旗将黄金三个月前的预期从每盎司3800美元上调至4000美元，白银从每盎司45.00美元上调至55.00美元。（金十）
+- [BTC突破114000美元]() - 📰 null - 【BTC突破114000美元】金色财经报道，行情显示，BTC突破114000美元，现报114007.24美元，24小时涨幅达到2.03%，行情波动较大，请做好风险控制。
+- [4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议]() - 📰 null - 【4E：政府关门风险逼近、库克承认持币、比特币长期逻辑再受热议】9月30日消息，据4E观察，美国政府关门危机再度逼近。9 月 30 日资金到期在即，特朗普将于 9 月 29 日与国会高层会面，若未能通过支出法案，数百万联邦雇员恐受影响。德银分析师警告，这是自 2018-19 年以来首次政府停摆的高风险窗口。特朗普此前甚至表示：“如果政府不得不关门，那就关门。” 
+加密市场方面，苹果 CEO 库克确认个人持有比特币和以太坊，并称其是投资组合中“合理的配置思路”，显示加密货币正逐步被更多主流科技领袖认可。与此同时，知名分析师 PlanB 认为，比特币牛熊分界点已于 2025 年 6 月出现，未来或进入长期平稳上涨周期。 
+机构观点方面，Cathie Wood 表示以太坊难以超越比特币，比特币的规模效应将持续扩大，但她透露近期已买入 BitMine 股票以间接布局 ETH 生态。 
+宏观层面，花旗最新报告将 2030 年稳定币市场规模预测上调至基线 1.9 万亿美元，乐观情景可达 4 万亿美元，对应交易量或突破 200 万亿美元。当前稳定币市值约 2968 亿美元，USDT 占比接近 59%，显示市场仍在早期阶段。 
+4E提醒投资者：宏观不确定性叠加加密市场逐步融入主流金融体系，短期风险与长期机遇并存。投资者需关注美国财政博弈与稳定币监管进展，把握结构性机会。
+- [Binance Alpha和合约将上线DoubleZero (2Z)](https://www.binance.com/zh-CN/support/announcement/detail/1e2c92555a9c4988b19b91add6516bab) - 📰 null - 【Binance Alpha和合约将上线DoubleZero (2Z)】金色财经报道，币安Alpha将于2025年10月02日20:00（东八区时间）上线和开放DoubleZero (2Z) 的交易。此外，币安合约平台将于2025年10月02日20:30（东八区时间）上线2ZUSDT永续合约，最高杠杆可达50倍。 
+所有符合资格的币安用户将获得币安独家代币空投。符合资格的用户需要于2025年10月02日20:00（东八区时间）至2025年10月03日20:00（东八区时间）期间，使用币安Alpha积分通过币安Alpha活动页面领取空投。
+- [Tether CEO发布钱包开发工具包Demo：即将开源且支持USDT、USDT0](https://x.com/paoloardoino/status/1972656886936715506) - 📰 null - 【Tether CEO发布钱包开发工具包Demo：即将开源且支持USDT、USDT0】金色财经报道，Tether首席执行官Paolo Ardoino在X平台发布钱包开发工具包WDK的Demo视频，其中展示了该产品的关键要点，包括：100%由Tether构建、封装UI组件可重复使用、即将开源、完全非托管、适用于任何平台/操作系统（包括移动端和桌面端）、支持USDT、USDT0，通过安全审核等。
+- [Starknet 在 BTCFi 扩展中推出比特币质押和收益产品](https://x.com/SkyEcosystem/status/1972893680299343884) - 📰 null - 【Starknet 在 BTCFi 扩展中推出比特币质押和收益产品】9月30日消息，据 The Block 报道，比特币质押已在 Starknet 上线，该项目称这是首次在 Layer2 网络实现无需信任的比特币质押。持币者保留资产保管权的同时可赚取奖励，助力网络共识，Starknet 称其为 “老牌比特币持有者的比特币战略”。 
+同时，Starknet 基金会将拨 1 亿枚 STRK（1200 万美元），推动 BTCFi 生态发展，包括激励比特币抵押借贷，让 Starknet 成为用比特币抵押并实施收益策略的最划算场所。
+- [SOL跌破210美元]() - 📰 null - 【SOL跌破210美元】金色财经报道，行情显示，SOL跌破210美元，现报209.99美元，24小时涨幅达到0.41%，行情波动较大，请做好风险控制。
+- [Sky生态最新“Star”项目Keel已上线](https://x.com/SkyEcosystem/status/1972893680299343884) - 📰 null - 【Sky生态最新“Star”项目Keel已上线】金色财经报道，Sky在X平台宣布，Sky生态最新“Star”项目Keel已上线，这是一个Solana的资本引擎。Keel正借助Sky的力量，在Solana网络上拓展流动性、信贷及代币化资产规模。 
+凭借25亿美元的流动性规划蓝图，Keel的资本引擎已准备好开启SolanaDeFi发展的下一阶段增长。
+- [某鲸鱼从币安提取3,629枚ETH，价值1,522万美元](https://x.com/OnchainLens/status/1972893950416716136) - 📰 null - 【某鲸鱼从币安提取3,629枚ETH，价值1,522万美元】金色财经报道，据链上分析师OnchainLens（@OnchainLens）监测，某鲸鱼一小时前从币安提取3,629枚ETH，价值1,522万美元。目前该鲸鱼持有3,666枚ETH，总价值1,536万美元。
+- [OKX新加坡在本地GrabPay商户上线稳定币支付服务](https://www.reuters.com/sustainability/boards-policy-regulation/okx-singapore-launches-stablecoin-payments-local-grabpay-merchants-2025-09-30/) - 📰 null - 【OKX新加坡在本地GrabPay商户上线稳定币支付服务】金色财经报道，加密货币交易所OKX周二表示，已在新加坡推出一项服务，允许其客户使用稳定币向网约车运营商Grab的支付平台上的商户付款。通过名为OKX Pay的服务，用户使用USDC或USDT稳定币付款时，会首先转换为StraitsX发行的新加坡元支持的稳定币XSGD，随后商户将以新加坡元收款。
+- [美国“政府敛财”ETF或将于本周推出](https://cointelegraph.com/news/government-grift-etf-could-launch-as-early-as-friday) - 📰 null - 【美国“政府敛财”ETF或将于本周推出】金色财经报道，一位分析师称，一只跟踪美国政客以及与美国总统关系密切的个人和公司的交易活动的交易所交易基金（ETF），最快可能在本周五推出。这只名为Tuttle Capital Government Grift ETF（代码：GRFT）的基金由Tuttle Capital Management于今年早些时候首次提出。 
+彭博ETF分析师Eric Balchunas指出，GRFT最早可能在本周五上线，因为美国证券交易委员会（SEC）周一将10月3日确定为Tuttle公司S-1注册声明生效的日期。该ETF将通过扫描《国会证券交易法案》（STOCKAct）的交易申报，追踪国会议员及其配偶的交易。 
+此外，该基金还将投资与总统影响力有明显联系的公司，这可能包括：其高管或董事与白宫有关系的公司，或是获得现任总统（目前为唐纳德·特朗普）公开称赞的企业。
+- [日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平]() - 📰 null - 【日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平】金色财经报道，日本2年期国债收益率上涨1个基点至0.935%，创2008年6月以来最高水平。(金十)
+- [某巨鲸以3,794美元均价增持2.98万枚ETH](https://x.com/OnchainDataNerd/status/1972873806214811929) - 📰 null - 【某巨鲸以3,794美元均价增持2.98万枚ETH】金色财经报道，据The Data Nerd监测，1小时前，巨鲸地址0x1fc再次从Binance提取了2,360枚ETH（约992万美元）。在过去4个月里，他累计买入了共计29,800枚ETH（约1.13亿美元），平均建仓价为3,794美元。
+- [OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%]() - 📰 null - 【OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%】金色财经报道，据The Information：OpenAI上半年业绩为营收43亿美元，较去年全年收入增长约16%；现金消耗25亿美元，其中很大一部分为开发人工智能和运行ChatGPT的研发成本。(金十)
+- [澳洲联储如期维持利率不变]() - 📰 null - 【澳洲联储如期维持利率不变】金色财经报道，澳洲联储将基准利率维持在3.6%不变，符合市场预期，该行年内已累计降息三次。(金十)
+- [数据：韩国上半年虚拟资产市值降至95万亿韩元](https://www.yna.co.kr/view/AKR20250930092400002?section=market-plus/cryptocurrency) - 📰 null - 【数据：韩国上半年虚拟资产市值降至95万亿韩元】金色财经报道，韩国金融信息分析院和金融监督院于30日公布了对国内17家交易所及8家托管/钱包服务商共25家虚拟资产经营者进行的2025年上半年实态调查结果。数据显示，截至6月底，国内虚拟资产市值为95.1万亿韩元，较去年年底的107.7万亿韩元减少14.4万亿韩元（下降14%）。 
+分析认为，美国关税冲突、地缘政治紧张加剧等因素导致虚拟资产价格上涨势头放缓，同时波动性加大。
+- [某鲸鱼于1小时前再次从Binance提取2,360枚以太坊，约合992万美元](https://x.com/OnchainDataNerd/status/1972873806214811929) - 📰 null - 【某鲸鱼于1小时前再次从Binance提取2,360枚以太坊，约合992万美元】金色财经报道，据The Data Nerd监测，1小时前，一名鲸鱼地址0x1fc从Binance再次从Binance提取2,360枚以太坊（约992万美元）。在过去4个月内，他总共累计了29,800枚以太坊（约1.13亿美元），平均入场价为3,794美元。
+- [Opensea：所有NFT Strategy代币现已上线](https://x.com/opensea/status/1972801632229532005) - 📰 null - 【Opensea：所有NFT Strategy代币现已上线】9月30日消息，Opensea宣布所有NFT Strategy代币现已上线，并在奖励池中添加了20枚ETH。 
+NFT Strategy 代币结合了 NFT 和 DeFi，通过自动化交易策略来管理与特定 NFT 集合相关的资产，为持有者创造价值或收益。
