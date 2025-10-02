@@ -1,29 +1,32 @@
-- [当前加密恐慌贪婪指数为 63，处于贪婪状态]() - 📰 null - 【当前加密恐慌贪婪指数为 63，处于贪婪状态】金色财经报道，据 Coinglass 数据显示，加密货币恐慌贪婪指数当前为 63，较昨日上涨 15 点。过去 7 天平均值为 44，过去 30 天平均值为 48。
-- [Coinbase上线AUDD和XSGD]() - 📰 null - 【Coinbase上线AUDD和XSGD】金色财经报道，据官方消息，澳大利亚稳定币 AUDD 和新加坡稳定币 XSGD 今日已上线 Coinbase。
-- [OpenAI以创纪录的5,000亿美元估值完成股票交易]() - 📰 null - 【OpenAI以创纪录的5,000亿美元估值完成股票交易】金色财经报道，据一位知情人士透露，OpenAI 已完成一项交易，允许现任及前任员工以 5000 亿美元的公司估值，出售价值约 66 亿美元的股份。此次二级交易使这家 ChatGPT 开发商的估值超越埃隆・马斯克（Elon Musk）旗下的太空探索技术公司（SpaceX），成为全球估值最高的初创企业。此前，在软银集团牵头的一轮 400 亿美元融资中，OpenAI 的估值为 3000 亿美元。该知情人士表示，作为交易的一部分，OpenAI 员工向一批投资者出售了股份，这些投资者包括思睿资本（Thrive Capital）、软银、Dragoneer 投资集团、阿布扎比的 MGX 以及普信集团（T. Rowe Price）。由于相关信息未公开，该人士要求匿名。
-- [Trend Researh再次从Aave提币16,698枚ETH存入Binance](https://x.com/ai_9684xtpa/status/1973605690016145515) - 📰 null - 【Trend Researh再次从Aave提币16,698枚ETH存入Binance】金色财经报道，据链上分析师 Ai 姨监测，易理华旗下 Trend Researh 于 5 分钟前再次从 Aave 提出 16698 枚 ETH，价值 7338 万美元。目前已有 6000 枚 ETH 充值进 Binance，昨天凌晨到现在，该机构已累计向交易平台转移价值 1.3 亿美元的 ETH。
-- [币安将支持 Flow（FLOW）网络升级及硬分叉]() - 📰 null - 【币安将支持 Flow（FLOW）网络升级及硬分叉】金色财经报道，币安预计将于 2025 年 10 月 22 日 20:00（东八区时间）暂停 Flow（FLOW）网络的代币充值、提现业务，以支持其网络升级及硬分叉。
-- [UPBIT 将下架 UXLINK (UXLINK) 相关交易对](https://upbit.com/service_center/notice?id=5608) - 📰 null - 【UPBIT 将下架 UXLINK (UXLINK) 相关交易对】金色财经报道，UPBIT 将于 2025 年 11 月 3 日 15:00 结束对 UXLINK (UXLINK) 的交易支持，受影响的交易对包括 UXLINK/KRW、UXLINK/BTC 和 UXLINK/USDT。请用户注意，交易支持结束后，之前请求的订单将被取消，且在此之后将不再支持该数字资产的空投、钱包升级及硬分叉等服务。用户需在 2025 年 12 月 3 日前完成出金操作。
-- [金色午报 | 10月2日午间重要动态一览]() - 📰 null - 【金色午报 | 10月2日午间重要动态一览】7:00-12:00关键词：Bullish、香港金管局、Robinhood、英国央行 
-1.Upbit将上线DoubleZero (2Z) 现货交易 
-2.Bullish将于10月8日推出加密货币期权交易 
-3.泰国加密货币 ETF 将推动扩大至比特币以外资产 
-4.香港金管局：截至 9 月底共收到 36 家机构提交的稳定币牌照申请 
-5.Robinhood CEO：第三季度业务增长强劲，目前年化收入已超 2 亿美元 
-6.英国央行行长：稳定币（市场）可能会培育出一个区别于信贷的资金系统
-- [泰国加密货币 ETF 将推动扩大至比特币以外资产]() - 📰 null - 【泰国加密货币 ETF 将推动扩大至比特币以外资产】10月2日消息，泰国正计划将其国内加密货币交易平台交易基金（ETF）计划从比特币扩展到其他数字代币，预计将在明年初推出。泰国证券交易委员会（SEC）秘书长 Pornanong Budsaratragoon 表示，SEC 及其他相关机构正在为由本地共同基金和机构提供的新 ETF 起草规则，并对今年早些时候公布的计划进行了进一步说明。
-- [DoraHacks与Merit Systems合作推出开发者激励支付方案]() - 📰 null - 【DoraHacks与Merit Systems合作推出开发者激励支付方案】10月2日消息，黑客运动平台DoraHacks与a16z孵化的开源支付协议Merit Systems合作，基于DoraHacks平台推出黑客马拉松奖金支付功能。该功能已经上线DoraHacks.io，所有的DoraHacks黑客马拉松组织者都可以通过Merit协议和Base网络进行黑客马拉松奖金和开发者激励支付。
-- [Base团队宣布新加坡元稳定币正式上线]() - 📰 null - 【Base团队宣布新加坡元稳定币正式上线】金色财经现场报道，2025年10月2日，在Token 2049活动现场，Base团队宣布新加坡元稳定币正式上线 。该稳定币将同步在 Base 以及 ocornba 平台落地运行，旨在推动新加坡经济融入 Base 链上生态，强化新加坡与全球的链上经济连通性。 
-Base 团队呼吁新加坡当地开发者充分利用本地稳定币的优势，开发出更多贴合市场需求的实用产品，接下来Base将持续推进全球货币上链计划。此前，Base 已成功上线多种本地稳定币，涵盖加拿大、尼日利亚、巴西等国家的货币。
-- [Binance HODLer空投上线DoubleZero（2Z）](https://x.com/bwenews/status/1973588375975370872) - 📰 null - 【Binance HODLer空投上线DoubleZero（2Z）】金色财经报道，Binance HODLer 空投现已上线第 48 期项目 – DoubleZero（2Z）。Binance 将于 2025 年 10 月 02 日 21:00（东八区时间）上市 2Z，并开通对 USDT、USDC、BNB、FDUSD 和 TRY 的交易对，适用种子标签交易规则。2Z 充值通道将于 2025 年 10 月 02 日 13:00（东八区时间）开放。
-- [Tornado Cash联创Roman Storm请求法官撤销定罪]() - 📰 null - 【Tornado Cash联创Roman Storm请求法官撤销定罪】10月2日消息，据 DL News 报道，Tornado Cash 联合创始人 Roman Storm 已向联邦法官提出请求，要求撤销自他备受关注的刑事审判于 8 月结束以来的指控。Storm 的无罪请求提交恰逢陪审团认定他在共谋经营未注册的资金传输业务一案中有罪整整八周后。该罪名最高可判五年监禁。但陪审团在最严重的指控上未能达成一致——共谋洗钱和规避制裁。这两项指控的累计最高刑期可达 40 年，检方尚未决定是否对 Storm 进行重审。Storm 的律师请求法官对三项指控全部判决无罪，理由是他三周审判期间提供的证据无法证明 Storm 存在犯罪意图，且案件本不应在纽约审理。
-- [内部人士：TikTok CEO副手Adam Presser或是领导美国 TikTok 合资公司的候选人](https://x.com/theinformation/status/1973527113291424164) - 📰 null - 【内部人士：TikTok CEO副手Adam Presser或是领导美国 TikTok 合资公司的候选人】金色财经报道，TikTok 内部人士认为，长期担任首席执行官Shou Zi Chew副手的Adam Presser很可能是领导新的美国 TikTok 合资公司的候选人。
-- [OpenAI宣布与日本数字厅达成战略合作]() - 📰 null - 【OpenAI宣布与日本数字厅达成战略合作】金色财经报道，OpenAI宣布与日本数字厅达成战略合作。OpenAI：日本数字厅将向政府雇员开放“源来”大模型。
-- [摩根大通将阿里巴巴H股目标价由165港元上调至240港元]() - 📰 null - 【摩根大通将阿里巴巴H股目标价由165港元上调至240港元】金色财经报道，摩根大通将阿里巴巴港股目标价大幅上调至240港元，称云计算和电商业务的增长料支撑其更高估值。分析师AlexYao等人在报告中表示，阿里云收入增速连续8个季度加快，2025年二季度同比增长26%，主要受互联网、自动驾驶和具身智能等领域的生成式AI需求驱动。预计中国生成式AI的普及速度可能会超过此前的软体即服务（SaaS）浪潮，因可提升效率的空间更广泛且部署门槛更低。预计未来12-36个月内，生成式AI将从工具试用阶段转向代理自动化，覆盖市场营销、服务、编码、财务运营和供应链，服务成本将稳步下降，大多数面向客户的渠道转化率/吞吐量将更高。将阿里巴巴美股目标价从170美元上调至245美元，港股目标价由165港元上调至240港元。
-- [Galaxy Digital：memecoin的波动性使其成为交易所和流动性提供商的可靠收入来源](https://www.coindesk.com/markets/2025/10/01/memecoins-are-no-longer-a-joke-galaxy-digital-says-in-new-report?term=organic&utm_campaign=CoinDesk&utm_content=General&utm_medium=social&utm_source=twitter) - 📰 null - 【Galaxy Digital：memecoin的波动性使其成为交易所和流动性提供商的可靠收入来源】金色财经报道，根据 Galaxy Digital 的最新研究，memecoin曾一度被视为网络笑话，如今已成为加密经济中不可或缺的一部分。研究分析师 Will Owens 在周三发布的一份报告中指出，该行业本身已经发展成为一股文化和经济力量。Galaxy 估计，与表情包相关的数字资产如今在交易活动和投资者兴趣中占据了相当大的份额，其范围远远超出了狗狗币和柴犬币。 
-Galaxy 的研究表明，越来越多的用户不仅作为交易者与模因币互动，还作为社区成员围绕这些代币构建叙事、模因和数字身份。在交易方面，Owens 指出，模因币持续产生业内最高的流动性和手续费，可与主流资产相媲美。他补充说，模因币的波动性使其成为交易所和流动性提供商的可靠收入来源。
-- [Metaplanet发布Q3业绩数据：比特币季度收入达24.38亿日元](https://x.com/gerovich/status/1973280622518083646) - 📰 null - 【Metaplanet发布Q3业绩数据：比特币季度收入达24.38亿日元】金色财经报道，日本比特币财库上市公司Metaplanet首席执行官Simon Gerovich在X平台发布三季度业绩表现数据，其中披露该公司三季度总收入为68亿日元（4600万美元）（涨幅100%），营业利润为47亿日元（3200万美元）（涨幅88%），此外比特币季度收入达24.38亿日元（1700万美元），较今年第二季度增长115.7%。
-- [某鲸鱼向 HyperLiquid 存入 1200 万枚 USDC 以避免被清算](https://x.com/lookonchain/status/1973562208274751880) - 📰 null - 【某鲸鱼向 HyperLiquid 存入 1200 万枚 USDC 以避免被清算】金色财经报道，据 Lookonchain 监测，在加密市场反弹后，某鲸鱼向 HyperLiquid 存入 1200 万枚 USDC 以避免被清算，仓位 2041 枚 BTC，价值 2.418 亿美元，清算价格为 123410 美元。
-- [Robinhood CEO：第三季度业务增长强劲，目前年化收入已超 2 亿美元]() - 📰 null - 【Robinhood CEO：第三季度业务增长强劲，目前年化收入已超 2 亿美元】金色财经现场报道，2025 年 10 月2日，在Token 2049活动现场，Robinhood CEO Vlad Tenev 表示，预测市场业务推出一年以来，事件合约交易量已突破 40 亿份，仅在刚刚过去的第三季度，这一数字就超过了 20 亿份，占总交易量近半，目前年化收入已超 2 亿美元，成为 Robinhood 增长最快的业务线之一。 
-未来，Robinhood 计划进一步深耕预测市场，不断丰富交易场景，挖掘更多潜在的可预测事件，吸引更多不同类型的投资者参与。同时，公司也在积极布局其他业务板块。一方面，持续拓展银行业务，推进 Robinhood Banking 服务，信用卡业务也已拥有超 45 万持卡人，后续将不断优化用户体验；另一方面，公司还着眼于全球市场，在已推出股票代币业务的欧盟地区，计划进一步扩大业务版图，并向其他地区拓展，旨在打造 “金融超级应用”。此外，Robinhood 正在通过引入更多投资选项、包括做空和社交交易平台等功能，来吸引更成熟的投资者。公司还宣布成立了 Robinhood Ventures Fund I，旨在为散户投资者提供参与上市前公司投资的机会。
-- [Tether Treasury 在以太坊链上铸造 10 亿枚 USDT](https://whale-alert.io/transaction/ethereum/0x44ad1a115b03b6e86be349099e626a970afe74c3d530969d1d8763cc17b97322) - 📰 null - 【Tether Treasury 在以太坊链上铸造 10 亿枚 USDT】金色财经报道，据 Whale Alert 监测，北京时间09:31:47，Tether Treasury 在以太坊链上铸造 10 亿枚 USDT。
+- [币安上线 DoubleZero (2Z) 并开放多项功能]() - 📰 null - 【币安上线 DoubleZero (2Z) 并开放多项功能】金色财经报道，币安将于 2025 年 10 月 2 日 21:00 上线 DoubleZero (2Z) 的币安理财、杠杆交易及一键买币功能。用户可通过一键买币使用信用卡/借记卡等方式购买 2Z，并在上线后一小时内进行交易。同时，币安杠杆将新增 2Z 可借资产及相关交易对。
+- [艾德金融推出RWA申赎功能并计划支持以USDT等稳定币认购及赎回](https://hk.finance.yahoo.com/news/eddid-one-%E5%85%A8%E6%B8%AF%E9%A6%96%E6%8E%A8-rwa-%E4%BA%A4%E6%98%93%E5%8A%9F%E8%83%BD-090943114.html) - 📰 null - 【艾德金融推出RWA申赎功能并计划支持以USDT等稳定币认购及赎回】金色财经报道，艾德金融宣布旗下交易平台Eddid ONE推出RWA申赎功能，据悉其平台RWA产品计划支持以USDT等稳定币认购及赎回。
+- [Polygon 和渣打银行加入 AlloyX 代币化货币市场基金]() - 📰 null - 【Polygon 和渣打银行加入 AlloyX 代币化货币市场基金】金色财经报道，稳定币基础设施公司 AlloyX 推出了一款名为 RYT 的代币化货币市场基金，该基金在以太坊扩容网络 Polygon 上首次亮相，并由渣打银行提供托管服务。
+- [美国财长贝森特：美联储下任主席面试进度过半]() - 📰 null - 【美国财长贝森特：美联储下任主席面试进度过半】金色财经报道，美国财长贝森特称，昨日已完成美联储下任主席面试的过半进度，预计首轮面试将于下周完成。
+- [SOL财库公司Sharps Technology宣布推出1亿美元股票回购计划](https://www.prnewswire.com/news-releases/sharps-technology-announces-100-million-stock-repurchase-program-302573596.html) - 📰 null - 【SOL财库公司Sharps Technology宣布推出1亿美元股票回购计划】金色财经报道，在纳斯达克上市的Solana财库公司Sharps Technology宣布推出一项高达1亿美元的股票回购计划，旨在通过公开市场和协商交易中回购其股票，该公司于今年八月宣布建立SOL数字资产财库，目前持仓量已超过200万枚。
+- [WisdomTree收购Ceres Partners拟拓展托管和代币化市场](https://www.businesswire.com/news/home/20251002251466/en/WisdomTree-Completes-Acquisition-of-Ceres-Partners-Premier-U.S.-Farmland-Investment-Manager-and-Family-Farmer-Partner) - 📰 null - 【WisdomTree收购Ceres Partners拟拓展托管和代币化市场】金色财经报道，加密ETF发行商WisdomTree宣布已完成对另类资产管理公司Ceres Partners的收购，这笔交易将使其业务拓展至交易所交易产品 (ETP)、托管、以及代币化市场领域，本次收购金额包括交易完成时支付的2.75亿美元现金和最高2.25亿美元的盈利对价。 
+（注：盈利对价是收购交易中常见的估值调整机制，买方在支付基本对价后可根据目标公司完成特定指标情况支付额外资金，与对赌协议不同，盈利对价调整更侧重可量化的客观数据，减少人为干预因素）
+- [西班牙银行业巨头 BBVA 在欧洲推出个人加密货币交易服务]() - 📰 null - 【西班牙银行业巨头 BBVA 在欧洲推出个人加密货币交易服务】金色财经报道，据外媒报道，西班牙银行业巨头 BBVA 宣布与新加坡 SGX FX 达成合作，将面向欧洲的个人客户推出加密货币交易服务。该服务将首先支持比特币（BTC）和以太坊（ETH），客户可通过 BBVA 的现有银行平台直接进行 24/7 的交易。BBVA 表示，该行是 EMEA（欧洲、中东和非洲）地区首家采用 SGX FX 加密交易基础设施的银行。
+- [Star 谈 X Layer建设蓝图：分三个阶段推进，已准备1亿美元“OKX愿景基金”支持优质项目]() - 📰 null - 【Star 谈 X Layer建设蓝图：分三个阶段推进，已准备1亿美元“OKX愿景基金”支持优质项目】10月2日，OKX 创始人兼 CEO Star Xu 在 X Layer 线下活动「建设 X Layer - 与DeFi巨头共启创世之夜」主题活动中发表了开场演讲。Star表示，非常感谢社区和嘉宾的热情支持，这也让团队深感肩上的责任重大。作为一家开放的公司，OKX将构建开放区块链网络视为最高战略优先级之一，并计划让X Layer成为OKX Wallet和交易所的重要基础设施。 
+Star 介绍了 X Layer建设将分三个阶段：第一阶段，聚焦将稳定币项目方接入X Layer，如Tether和USDG。不久的将来，用户可在OKX Wallet持有稳定币并享受4%-5%的年化收益（APY）。第二阶段，与行业顶尖项目方合作，包括Aave、Uniswap、Balancer、Chainlink等，使这些头部协议成为X Layer基础设施的一部分。第三阶段，通过系列激励活动奖励优秀项目。Star表示，OKX已准备1亿美元的“OKX愿景基金”，并将通过多轮活动支持最成功的项目，绝不让社区失望。此外，OKX计划在X Layer上建设链上衍生品市场和链上支付市场，未来几个月将陆续呈现成果。X Layer团队将专注于产品研发、技术优化和社区沟通，推动整个生态稳步发展。
+- [OKX Wallet现已接入Plasma主网]() - 📰 null - 【OKX Wallet现已接入Plasma主网】据官方消息，OKX Wallet现已接入Plasma主网。用户无需手动配置，可一键切换至Plasma主网，进行查看自己资产，交易链上代币，查看链上资产行情。 
+Plasma 是专为全球稳定币支付打造的 Layer 1 区块链。它融合了高吞吐量、稳定币原生功能以及完整的 EVM 兼容性，为开发者构建下一代支付和金融应用提供了基础架构。OKX Wallet作为行业领先的一站式 Web3 入口，已支持140+热门公链。
+- [Circle未冻结Coinbase被黑事件的资金，现已被黑客跨链转走]() - 📰 null - 【Circle未冻结Coinbase被黑事件的资金，现已被黑客跨链转走】10月2日消息，链上侦探 ZachXBT 披露，Coinbase 被黑事件中的攻击者将约 500 万枚 DAI 兑换成约 500 万枚 USDC，并将这笔资金以 USDC 形式停留了 35 分钟。由于 Circle 未进行合规冻结，这些资金随后被跨链转走。该黑客通过贿赂客服从 Coinbase 用户处盗取超 3 亿美元的资金。
+- [DASH 突破 30 USDT，24H涨幅超 30 %]() - 📰 null - 【DASH 突破 30 USDT，24H涨幅超 30 %】10月2日消息，MGBX永续合约行情数据显示，DASH 突破 30 USDT，现报 30.12 USDT，24H 涨幅超30%，流通市值超3.9亿美元。
+- [某巨鲸向 CEX 存入 1167 万枚 ENA，价值约 690 万美元]() - 📰 null - 【某巨鲸向 CEX 存入 1167 万枚 ENA，价值约 690 万美元】金色财经报道，据 OnchainDataNerd 监测，4 小时前，一巨鲸地址向 Binance 存入了共计 1167 万枚 ENA（约 690 万美元）。
+- [ZEC突破140 USDT，24H涨幅超50%]() - 📰 null - 【ZEC突破140 USDT，24H涨幅超50%】10月2日消息，MGBX现货行情数据显示，ZEC突破140 USDT，现报 140.12 USDT，24H 涨幅超50%，流通市值超 20亿 美元。 
+ ZCash 是一种隐私驱动的加密货币。它使用 Equihash 作为算法，这是一种基于广义生日问题的非对称内存硬性工作量证明算法。
+- [OKX“空投赚币”将上线 Pudgy Penguins（PENGU）](https://www.okx.com/zh-hans/help/okx-airdrop-earn-is-now-live-get-started-with-pudgy-penguins-pengu-and-share?pagesourcefrom=medianews) - 📰 null - 【OKX“空投赚币”将上线 Pudgy Penguins（PENGU）】据官方消息，OKX现已开启 Pudgy Penguins（PENGU）空投赚币活动，总奖池高达 81,000,000 枚 PENGU。在2025 年 10 月 2 日 21:00 至 10 月 9 日 21:00（UTC+8）期间，用户可使用 USDT、BTC 或 OKB 进行申购，分别对应三个奖池，每个奖池奖励总额均为 27,000,000 枚 PENGU。除获得基础币种的利息收益外，参与用户还可瓜分额外的 PENGU 空投奖励。 
+据悉，USDT 奖池个人申购上限为 20,000 USDT，BTC 奖池上限为 1 BTC，OKB 奖池上限为 200 OKB。参与者需完成身份认证，子账户及机构用户不可参与。
+- [比特币挖矿难度上调 5% 至 150.84 T，创历史新高]() - 📰 null - 【比特币挖矿难度上调 5% 至 150.84 T，创历史新高】金色财经报道，比特币于今日早些时候完成新一轮挖矿难度调整，挖矿难度上调 5% 至 150.84 T，创下历史新高。这也是自今年 7 月以来连续第七次上调挖矿难度。此次难度上调反映了比特币全网算力的持续增长，目前全网算力已超过 1.05 ZH/s。然而，算力的激增也导致矿工盈利能力持续承压。据 Luxor 数据，衡量矿工单位算力收入的“Hashprice”指标已跌破 50 美元/PH/s。
+- [韩国交易所 Upbit 宣布暂停 ETHF 提现]() - 📰 null - 【韩国交易所 Upbit 宣布暂停 ETHF 提现】金色财经报道，韩国加密货币交易所 Upbit 宣布，由于 EthereumFair（ETHF）网络出现区块生成延迟问题，已暂时停止 ETHF 的提现服务。提现服务将在网络稳定性确认后恢复，具体时间将通过更新公告另行通知。Upbit 同时指出，ETHF 是此前通过空投发放的资产，平台仅支持其提现服务。
+- [哈塞特：希望美联储继续积极降息]() - 📰 null - 【哈塞特：希望美联储继续积极降息】金色财经报道，美国白宫国家经济委员会主任哈塞特表示，希望美联储继续积极降息。
+- [MGBX将上线ORDER、SUPER现货交易](https://support.mgbx.com/hc/zh-cn/articles/13929169775375) - 📰 null - 【MGBX将上线ORDER、SUPER现货交易】据官方消息，MGBX将于2025年10月2日18:00（SGT）上线ORDER（OrderlyNetwork）、SUPER（SuperVerse）现货交易。 
+充值开放时间：2025年10月2日17:00（SGT） 
+交易开放时间：2025年10月2日18:00（SGT） 
+提现开放时间：2025年10月5日19:00（SGT）
+- [Consensys创始人：以太坊未来着重三大核心发展方向并重视AI融合]() - 📰 null - 【Consensys创始人：以太坊未来着重三大核心发展方向并重视AI融合】金色财经现场报道，2025 年 10 月 2 日，在 Token 2049 活动现场，Consensys 创始人兼 CEO、SharpLink 主席 Joseph Lubin 提出，以太坊未来发展的核心优先级为： 
+一、扩容，通过优化主网 Gas 上限提升处理效率，同时依托 Layer 2分担流量，目标实现 “百万级 TPS” 以支撑全球支付、AI 代理交易等主流应用； 
+二、优化用户体验，聚焦解决私钥管理复杂、Gas 费波动大等痛点，降低非技术用户使用门槛； 
+三、重视基础研发，重点投入零知识证明技术以保障交易隐私，同时升级 PoS 共识机制的抗攻击能力，防范交易回滚与灾难性故障。 
+此外，Lubin 提及 AI 与区块链的融合潜力，认为以太坊智能合约可解决 AI 推理结果 “不可验证” 的痛点，而 AI 能助力优化以太坊 Gas 费动态调整、共识节点筛选效率；他还呼吁生态开发者聚焦实体经济需求（如跨境汇款高成本、传统资产上链），而非短期投机场景，并强调以太坊需通过 “纵向（L1 节点分散）+ 横向（L2 分片运营）” 双重去中心化，构建无需中介的信任体系，推动全球信任机制重构。
+- [易理华：ETH未来1年目标依旧是1万美元以上](https://x.com/Jackyi_ld/status/1973672300848533655) - 📰 null - 【易理华：ETH未来1年目标依旧是1万美元以上】金色财经报道，LD Capital创始人易理华在X平台发文表示：“趋势投资属于Beta收益，适合大部分普通投资人，波动交易属于Alpha收益，只合适极少数专业人士。这并不冲突，都是为了拥有更多的ETH和最终收益。短期内的市场回调和震荡，就是给了抄底和交易机会，但随着10月降息临近，最近可能是最后的底部机会，长牛行情将继续，ETH未来1年目标依旧是1万美元以上，长期目标是4万美元以上。”
