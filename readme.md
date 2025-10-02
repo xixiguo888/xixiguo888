@@ -1,28 +1,30 @@
-- [CryptoQuant：若需求持续增长，比特币价格Q4或达16–20万美元](https://www.theblock.co/post/373121/bitcoin-price-160000-200000-q4-cryptoquant?utm_source=twitter&utm_medium=social) - 📰 null - 【CryptoQuant：若需求持续增长，比特币价格Q4或达16–20万美元】金色财经报道，CryptoQuant表示，自7月以来，比特币现货需求持续上升，明显需求每月增加超过62,000枚比特币。公司还指出，这种持续的需求在2020、2021和2024年的第四季度上涨行情之前也曾出现。 
-CryptoQuant表示，比特币鲸鱼和ETF需求也显示出强劲走势。鲸鱼持仓的年增长率为331,000枚BTC，相比2024年第四季度的255,000枚、2020年第四季度初的238,000枚，以及2021年的减少197,000枚。 
-另一方面，美国上市的比特币ETF在2024年第四季度购买了213,000枚BTC，环比增长71%，CryptoQuant研究主管Julio Moreno表示，本季度有可能出现类似增长。 
-从价格角度来看，CryptoQuant表示，比特币需要突破“交易者链上实现价格”116,000美元，才能回到其周期的“牛市”阶段。目前该门槛已被突破，比特币交易价格约为117,300美元，公司预计本季度价格可能在16万至20万美元区间。
-- [特斯拉(TSLA.O)美股日内涨超3%，市值达到1.5万亿美元]() - 📰 null - 【特斯拉(TSLA.O)美股日内涨超3%，市值达到1.5万亿美元】金色财经报道，特斯拉(TSLA.O)美股日内涨超3%，市值达到1.5万亿美元。(金十)
-- [Aleo与Paxos Labs合作推出稳定币USAD](https://www.ledgerinsights.com/aleo-to-launch-privacy-focused-usad-stablecoin-with-paxos-labs/) - 📰 null - 【Aleo与Paxos Labs合作推出稳定币USAD】金色财经报道，Aleo Network Foundation已与Paxos Labs合作，推出隐私聚焦的USAD稳定币。Aleo是一个使用零知识证明（zero-knowledge proofs）实现私密且合规支付的Layer1无许可区块链。Paxos Labs隶属于Paxos公司，是PayPal的PYUSD及Global Dollar稳定币的发行方。Aleo得到a16z、软银（Softbank）和Coinbase Ventures的支持，并参与Global Dollar Network合作。
-- [美国副总统万斯：不认为政府关门会持续很长时间]() - 📰 null - 【美国副总统万斯：不认为政府关门会持续很长时间】金色财经报道，美国副总统万斯：不认为政府关门会持续很长时间。(金十)
-- [Hyperscale Data将比特币国库配置额度提升至2420万美元](https://x.com/BitcoinNewsCom/status/1973440020569538692) - 📰 null - 【Hyperscale Data将比特币国库配置额度提升至2420万美元】金色财经报道，据Bitcoin News披露，纽交所旗下NYSE American上市公司Hyperscale Data将比特币国库配置额度提升至2420万美元，涵盖现有持仓与未来购买。
-- [白宫：正全力推动政府重新开放]() - 📰 null - 【白宫：正全力推动政府重新开放】金色财经报道，美国白宫表示，正在全力推动政府重新开放。
-- [阿布扎比农业监管机构禁止在农田进行加密货币挖矿](https://cointelegraph.com/news/abu-dhabi-agricultural-regulator-ban-farmland-crypto-mining) - 📰 null - 【阿布扎比农业监管机构禁止在农田进行加密货币挖矿】金色财经报道，阿拉伯联合酋长国（UAE）阿布扎比酋长国的农业监管机构——阿布扎比农业与食品安全管理局（ADAFSA）宣布，禁止在农田上进行加密货币挖矿。根据周二的公告，违规者将面临 10 万迪拉姆（约 27,229 美元）罚款，ADAFSA 还将暂停市政服务、没收挖矿设备，并将农田从电网中断开。 
-ADAFSA 表示，在农田进行加密挖矿活动与该地区的“可持续发展”政策相冲突，也破坏了现有的土地使用规定。“此类活动超出了管理局规定的允许经济用途范围，农田上不允许进行此类活动。”
-- [标普500指数盘中创历史新高，现涨0.2%]() - 📰 null - 【标普500指数盘中创历史新高，现涨0.2%】金色财经报道，标普500指数盘中创历史新高，现涨0.2%。(金十)
-- [欧盟检察官调查Northern Data 5亿欧元GPU采购案](https://www.bloomberg.com/news/articles/2025-10-01/european-prosecutors-probe-northern-data-s-500-million-gpu-buy?srnd=phx-crypto) - 📰 null - 【欧盟检察官调查Northern Data 5亿欧元GPU采购案】金色财经报道，知情人士透露，上周对Northern Data AG办公室的突袭，是一起刑事调查的一部分，重点在于该公司是否非法申报约5亿欧元（约5.86亿美元）的高性能计算芯片税收减免。 
-知情人士表示，欧洲检察官正在审查Northern Data为瑞典北部一处项目购买图形处理单元（GPU）的情况。他们正在调查，由稳定币发行公司Tether Holdings SA支持的Northern Data是否通过声称这些芯片用于人工智能而获得税收减免，而实际上这些芯片被用于加密货币挖矿。
-- [Circle将6.35亿美元代币化国库基金扩展至Solana](https://x.com/MessariCrypto/status/1973431707685793894) - 📰 null - 【Circle将6.35亿美元代币化国库基金扩展至Solana】金色财经报道，据Messari披露，Circle已将其规模达6.35亿美元的代币化国库基金进行扩容，并将Solana纳入其中，此次基金扩容是Circle整体战略的一部分，其核心目标是整合多个区块链网络，以实现国库资产的多元化配置。
-- [Coinbase CEO：公司推行远程优先模式，同时在纽约开设新办公中心强化线下协作](https://x.com/brian_armstrong/status/1973430378552770963) - 📰 null - 【Coinbase CEO：公司推行远程优先模式，同时在纽约开设新办公中心强化线下协作】金色财经报道，Coinbase首席执行官Brian Armstrong表示，“远程优先” 的工作模式是我们取得成功的重要因素之一，因为它能让我们吸引并携手全球各地的顶尖人才。而且说实话，漫长的通勤不仅让人糟心，还会影响工作效率。 
-但 “远程优先” 并不等同于 “只许远程”。团队定期进行线下相聚依然至关重要（我们每季度至少安排一周）。此外，许多员工也更倾向于每天到岗办公。 
-正因如此，我们持续在各大城市打造优质的 “办公中心”—— 既能承办团队线下会议，也能满足日常到岗办公人员的需求。线下办公的氛围确实非常棒。
-- [Injective推出IPO前永续期货](https://www.theblock.co/post/373105/injective-launches-pre-ipo-perp-futures-providing-exposure-to-openai-and-more-private-companies?utm_source=twitter&utm_medium=social) - 📰 null - 【Injective推出IPO前永续期货】金色财经报道，Injective已上线链上私募股权股票衍生品（即永续期货），投资者可通过该产品接触到OpenAI、太空探索技术公司（SpaceX）、Anthropic及Perplexity等IPO前企业。 
-今年8月，Injective与Republic达成集成合作，以提升两家公司推动散户投资者参与私有企业投资民主化的能力。该公司上周表示，其在30天内交易了价值10亿美元的现实世界资产（RWA）永续期货合约。
-- [美国众议院议长约翰逊宣布众议院将于下周复会]() - 📰 null - 【美国众议院议长约翰逊宣布众议院将于下周复会】金色财经报道，美国众议院议长约翰逊宣布众议院将于下周复会。(金十)
-- [BTC突破118000美元]() - 📰 null - 【BTC突破118000美元】金色财经报道，行情显示，BTC突破118000美元，现报118040美元，24小时涨幅达到4.46%，行情波动较大，请做好风险控制。
-- [数据：IBIT资产管理规模重回900亿美元以上，首次跻身ETF资产规模榜单前20名](https://x.com/EricBalchunas/status/1973421915189789029) - 📰 null - 【数据：IBIT资产管理规模重回900亿美元以上，首次跻身ETF资产规模榜单前20名】金色财经报道，彭博高级ETF分析师Eric Balchunas在X平台发文表示，IBIT资产管理规模重回900亿美元以上，首次跻身ETF资产规模榜单前20名。该基金刚刚超越了具有传奇色彩的XLK（科技行业ETF，代码\)XLK）。
-- [微软将人工智能服务融入Office以挑战ChatGPT]() - 📰 null - 【微软将人工智能服务融入Office以挑战ChatGPT】金色财经报道，微软公司将把其人工智能订阅服务整合进Office软件，以更好地与OpenAI的ChatGPT展开竞争。该公司宣布推出价格更高的Microsoft 365版本，该版本将包含集成聊天机器人和人工智能功能，如图像生成。新的Microsoft 365高级版每月费用为19.99美元，其中包括该公司的人工智能研究助手和生成更多图像的能力。
-- [美参议院再次否决民主党提出的临时拨款法案]() - 📰 null - 【美参议院再次否决民主党提出的临时拨款法案】金色财经报道，据央视新闻，当地时间10月1日上午，美国参议院就民主党提出的临时拨款法案进行投票，最终以47票赞成、53票反对的结果，再次未能推动该法案落地。目前，参议院正就共和党提出的短期拨款法案展开新一轮投票。据悉，这一法案已于9月30日晚间在众议院表决通过，且投票过程中获得了多名民主党议员的支持。
-- [比特币借贷平台Lava完成1750万美元融资，前Visa、Block高管参投](https://www.theblock.co/post/373096/bitcoin-lending-platform-lava-funding-new-yield-product) - 📰 null - 【比特币借贷平台Lava完成1750万美元融资，前Visa、Block高管参投】金色财经报道，专注于比特币抵押借贷的平台Lava宣布已完成1750万美元的A轮扩展融资，本轮融资由多位天使投资人支持，其中包括卡塔尔投资局的Peter Jurdjevic以及Visa和Block（原Square）的前高管。Lava此前的A轮融资由Peter Thiel的Founders Fund和Khosla Ventures领投。
-- [Avalanche链上9月DEX交易量达174亿美元，创近三年以来新高](https://x.com/avax/status/1973417629646819620) - 📰 null - 【Avalanche链上9月DEX交易量达174亿美元，创近三年以来新高】10月2日消息，据Avalanche官方X平台披露，Avalanche链上DEX在刚刚过去的交易量达到了174亿美元。官方表示，该月度交易量数据是近三年来的最高水平。
-- [比特币市值超越亚马逊](https://x.com/CoinDesk/status/1973417939815588143) - 📰 null - 【比特币市值超越亚马逊】10月2日消息，比特币的市值已超越全球科技巨头亚马逊（Amazon）。
+- [美国经纪交易商 Alpaca 推出可直接标记美国股票的网络](https://cointelegraph.com/news/alpaca-instant-tokenization-network-us-stocks) - 📰 null - 【美国经纪交易商 Alpaca 推出可直接标记美国股票的网络】金色财经报道，美国经纪交易商 Alpaca 推出了即时代币化网络 (ITN)，允许机构直接铸造和赎回代币化的美国股票，有助于提高代币化市场中仍受结构性障碍制约的领域的链上流动性。 
+Alpaca 于周三披露，ITN 使机构投资者能够通过单一 API 调用对投资组合进行代币化，并以实物代币兑换标的股票，且无需结算延迟。该服务在传统市场交易时间之外运营，提供全天候服务。
+- [Bullish将于10月8日推出加密货币期权交易](https://www.prnewswire.com/news-releases/bullish-to-launch-crypto-options-trading-with-top-tier-consortium-of-trading-partners-302573140.html) - 📰 null - 【Bullish将于10月8日推出加密货币期权交易】金色财经报道，数字资产平台Bullish将于10月8日推出加密货币期权交易，并将由领先的首日交易合作伙伴联盟提供支持。这项新产品将进一步增强 Bullish 的加密货币衍生品生态系统，为机构客户提供涵盖现货、保证金、永续期货、到期期货以及期权的全面产品套件。
+- [前 Susquehanna 高管 Bart Smith 出任 Avalanche 财库公司 CEO](https://fortune.com/crypto/2025/10/01/avalanche-treasury-co-susquehanna-ceo-bart-smith-dragonfly-parafi-pantera/) - 📰 null - 【前 Susquehanna 高管 Bart Smith 出任 Avalanche 财库公司 CEO】10月2日消息，华尔街量化交易巨头 Susquehanna 前加密部门负责人 Bart Smith 已离职，出任新成立的 Avalanche 财库公司（Avalanche Treasury Co.）CEO。该公司估值 6.71 亿美元，计划于 2026 年一季度通过 SPAC（Mountain Lake Acquisition Corp.）在纳斯达克上市。投资方包括 Dragonfly、ParaFi、Pantera Capital 及 VanEck，公司已以折扣价从 Avalanche 基金会购入 2 亿美元代币，并计划持有超 10 亿美元 AVAX。
+- [XRP财库公司VivoPower完成1900万美元股权融资](https://www.globenewswire.com/news-release/2025/10/01/3159782/0/en/VivoPower-Closes-Additional-19-Million-Equity-Raise-Priced-at-6-05-Per-Share-a-Premium-to-Market.html) - 📰 null - 【XRP财库公司VivoPower完成1900万美元股权融资】金色财经报道，纳斯达克上市的XRP财库公司VivoPower宣布，已通过额外普通股发行完成1900万美元股权融资，每股发行价格为6.05美元，新资金拟支持该公司的数字资产财库战略转型，包括收购、管理和长期持有XRP。
+- [Trend Research 过去 9 小时将 24,051 枚 ETH 转入币安](https://x.com/EmberCN/status/1973549977470378355) - 📰 null - 【Trend Research 过去 9 小时将 24,051 枚 ETH 转入币安】金色财经报道，据链上分析师余烬监测，Trend Research 在 ETH 反弹突破 4,300 美元后，在过去 9 个小时里将 24,051 枚 ETH（1.04 亿美元）进到币安。他们 10 天前有转过 16,800 枚 ETH 进入币安，不过当时应该是做了个波段随后又提回来了。他们在今天转出前一共是持有 152,000 枚的 ETH（6.6 亿美元），成本均价约 2,869 美元。
+- [高盛：黄金仍是最具信心的长期大宗商品配置]() - 📰 null - 【高盛：黄金仍是最具信心的长期大宗商品配置】金色财经报道，高盛：对2026年中旬4000美元/盎司及2026年12月4300美元/盎司的金价预测的上行风险已进一步加剧。黄金仍是最具信心的长期大宗商品配置。
+- [香港金管局：截至 9 月底共收到 36 家机构提交的稳定币牌照申请]() - 📰 null - 【香港金管局：截至 9 月底共收到 36 家机构提交的稳定币牌照申请】金色财经报道，香港金管局透露，截至9月30日已收到36家机构提交的稳定币牌照申请，包括银行、科技企业等多类机构。金管局将按《稳定币条例》审批，争取明年初公布首批牌照，且首阶段只发数个牌照。此前，金管局曾鼓励有意申请牌照的机构于8月31日或之前联系金管局，并于9月30日或之前提交申请。（每经网）
+- [Upbit将上线DoubleZero (2Z) 现货交易](https://x.com/bwenews/status/1973542329190588483) - 📰 null - 【Upbit将上线DoubleZero (2Z) 现货交易】金色财经报道，Upbit 上线 DoubleZero (2Z) 并支持 KRW、BTC、USDT 交易。
+- [加密友好银行Nubank宣布申请美国银行执照](https://www.businesswire.com/news/home/20250930317383/en/Nubank-Applies-for-U.S.-National-Bank-Charter) - 📰 null - 【加密友好银行Nubank宣布申请美国银行执照】金色财经报道，加密友好银行Nubank宣布已向美国货币监理署(OCC)申请银行牌照，拟探索美国银行业务，若获批将使得该行能在美国市场提供存款账户、信用卡、贷款和数字资产托管服务，据悉Nubank已于去年推出加密货币转账功能，允许用户通过钱包发送和接收加密资产，支持比特币、以太坊和Solana网络。
+- [BTC突破119000美元]() - 📰 null - 【BTC突破119000美元】金色财经报道，行情显示，BTC突破119000美元，现报119020美元，24小时涨幅达到4.25%，行情波动较大，请做好风险控制。
+- [鲸鱼在 48 小时内购买 2.5 亿枚 XRP](https://x.com/ali_charts/status/1973534644013506999) - 📰 null - 【鲸鱼在 48 小时内购买 2.5 亿枚 XRP】金色财经报道，据加密分析师Ali发布图表称，鲸鱼在 48 小时内购买了 2.5 亿枚 XRP。
+- [英国央行行长：稳定币（市场）可能会培育出一个区别于信贷的资金系统]() - 📰 null - 【英国央行行长：稳定币（市场）可能会培育出一个区别于信贷的资金系统】金色财经报道，英国央行行长贝利：稳定币（市场）可能会培育出一个区别于信贷的资金系统，进而削弱英国对商业银行的依赖程度。（英国金融时报）
+- [金色晨讯 | 10月2日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 10月2日隔夜重要动态一览】21:00-7:00关键词：Northern Data、Strategy、Polymarket 
+1.SUI Group与Ethena合作推出两种稳定币 
+2.以太坊基金会宣布为其隐私研究部门任命新领导层 
+3.欧盟检察官调查Northern Data 5亿欧元GPU采购案 
+4.Bitwise CEO：Solana在质押ETF方面或比以太坊更具优势 
+5.Strategy于2025年Q3买入42,706枚比特币，价值超50亿美元 
+6.预测市场平台Polymarket即将在美国重新上线，最早可能明天开放
+- [众议员贝吉奇推动比特币储备计划](https://www.theblock.co/post/373161/congressman-begich-pushes-plan-for-bitcoin-reserve-cites-need-to-diversify-us-balance-sheet?utm_source=twitter&utm_medium=social) - 📰 null - 【众议员贝吉奇推动比特币储备计划】金色财经报道，众议员贝吉奇与怀俄明州共和党参议员辛西娅·卢米斯去年共同提出了《通过优化投资全国法案促进创新、技术和竞争力》（简称“比特币法案”）。如果该法案获得通过，将确立比特币作为一种战略储备资产——此举建立在唐纳德·特朗普总统的行政命令之上，该命令旨在创建类似于国家黄金储备的永久比特币储备。 
+该法案概述了一项计划，计划在五年内使用“预算中性策略”收购一百万比特币。该法案扩展了特朗普的行政命令，该命令禁止出售通过刑事或民事诉讼没收给美国政府并存放在单独“储备”中的比特币和其他加密资产。
+- [标普：美政府停摆每周或拖累GDP0.1-0.2个百分点]() - 📰 null - 【标普：美政府停摆每周或拖累GDP0.1-0.2个百分点】金色财经报道，标普全球评级表示，美国联邦政府近期停摆可能只会对GDP增长造成轻微打击，但随着联邦政府可自由支配支出暂时缩减以及市场情绪低落，经济不确定性正在上升。经济部门估计，政府停摆每持续一周，经济增长就可能下降0.1-0.2个百分点。(金十)
+- [Marusho Hotta更名为“Bitcoin Japan Corporation”，并宣布计划推出比特币财库战略](https://x.com/BTCtreasuries/status/1973509945292361885) - 📰 null - 【Marusho Hotta更名为“Bitcoin Japan Corporation”，并宣布计划推出比特币财库战略】金色财经报道，据BitcoinTreasuries.NET披露，拥有150年历史的日本传统和服制造商Marusho Hotta更名为 “比特币日本公司”（#Bitcoin Japan Corporation），并宣布计划推出比特币财库战略。
+- [美联储10月降息25个基点的概率升至99.4%]() - 📰 null - 【美联储10月降息25个基点的概率升至99.4%】金色财经报道，据CME“美联储观察”：美联储10月维持利率不变的概率为0.6%，降息25个基点的概率为99.4%。美联储12月维持利率不变概率为0.1%，累计降息25个基点的概率为11.0%，累计降息50个基点的概率为89.0%。(金十)
+- [特朗普正式提名Travis Hill出任FDIC主席](https://www.coindesk.com/policy/2025/10/01/trump-makes-travis-hill-pick-official-as-choice-to-run-fdic) - 📰 null - 【特朗普正式提名Travis Hill出任FDIC主席】金色财经报道，美国总统唐纳德·特朗普正式提名联邦存款保险公司（FDIC）代理主席Travis Hill，担任该银行监管机构的正式主席。Hill仍需获得美国参议院的确认。他一直以来对加密货币政策持支持态度，并坚决反对此前在美国加密行业中盛行的“去银行化”（debanking）趋势。
+- [Bitwise CEO：Solana在质押ETF方面或比以太坊更具优势](https://cointelegraph.com/news/solana-ethereum-queue-staking-etfs-bitwise-ceo) - 📰 null - 【Bitwise CEO：Solana在质押ETF方面或比以太坊更具优势】金色财经报道，Bitwise首席执行官亨特・霍斯利（Hunter Horsley）表示，Solana在质押型交易所交易基金（ETF）市场可能比以太坊更具优势，其设计特点对投资者而言更友好。 
+霍斯利在新加坡Token2049大会上接受采访时指出，Solana更短的解除质押周期是其相对以太坊的一大优势。例如，以太坊的提款队列近期屡创新高，而Solana的提款队列通常能更快清算。霍斯利称，这一差异对ETF发行方至关重要，因为他们必须能够快速将资产返还给投资者。 
+“这是个大问题，” 霍斯利表示，“ETF需要能在极短时间内将资产返还给投资者，所以（以太坊的提款延迟）是个巨大挑战。”
+- [美联储古尔斯比：经济基本面相当强劲，可降息空间充足但需谨慎行事]() - 📰 null - 【美联储古尔斯比：经济基本面相当强劲，可降息空间充足但需谨慎行事】金色财经报道，美联储古尔斯比：经济基本面相当强劲，可降息空间充足但需谨慎行事。(金十)
