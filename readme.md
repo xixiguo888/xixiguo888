@@ -1,30 +1,22 @@
-- [BTC跌破124000美元]() - 📰 null - 【BTC跌破124000美元】金色财经报道，行情显示，BTC跌破124000美元，现报123950.01美元，24小时涨幅达到0.19%，行情波动较大，请做好风险控制。
-- [ETH跌破4700美元]() - 📰 null - 【ETH跌破4700美元】金色财经报道，行情显示，ETH跌破4700美元，现报4699.87美元，24小时涨幅达到3.35%，行情波动较大，请做好风险控制。
-- [币安：KLINK TGE 门槛为 211 个币安 Alpha 积分]() - 📰 null - 【币安：KLINK TGE 门槛为 211 个币安 Alpha 积分】金色财经报道，币安 Alpha 积分大于等于 211 的用户，可通过 Alpha 活动页面参与KLINK TGE 活动。参与该活动将消耗 15 积分，据悉本次TGE认购时间为2025年10月07号下午4点到6点 (UTC+8)。
-- [Polymarket 上预测 BTC 本月达到13万美元的可能性为 61%](https://x.com/Cointelegraph/status/1975426066563916222) - 📰 null - 【Polymarket 上预测 BTC 本月达到13万美元的可能性为 61%】金色财经报道，据官方页面显示，Polymarket 用户预测比特币本月达到 130,000 美元的可能性为 61%。
-- [币安：KGeN (KGEN) 空投首阶段门槛为 210 Alpha 积分](https://x.com/binancezh/status/1975436205560127915) - 📰 null - 【币安：KGeN (KGEN) 空投首阶段门槛为 210 Alpha 积分】金色财经报道，币安 Alpha 上线 KGeN (KGEN) 的平台，Alpha 交易将于 2025 年 10 月 7 日 22:00（UTC+8）开始。符合条件的币安用户可使用币安 Alpha 积分，在 Alpha 活动页面于交易开始后 24 小时内申领 100 枚 KGEN 代币空投。币安 Alpha 空投将分两个阶段发放： 
-第一阶段（前 18 小时）面向持有至少 210 个币安 Alpha 积分的用户； 
-第二阶段（后 6 小时）：持有至少 190 个 Alpha 积分的用户可参与第二阶段空投，先到先得。 
-若活动未结束，则分数门槛将每小时自动降低 15 分。
-- [BNB突破1260美元，续创历史新高]() - 📰 null - 【BNB突破1260美元，续创历史新高】金色财经报道，行情数据显示，BNB突破1260美元，现报价1254.65美元，24小时涨幅5.64%，续创历史新高。
-- [12 个地址累计投入 298.1 万美元追涨 PALU](https://x.com/ai_9684xtpa/status/1975432036157661409) - 📰 null - 【12 个地址累计投入 298.1 万美元追涨 PALU】金色财经报道，据 @ai_9684xtpa 监测，PALU 在上线 Alpha 后价格暴涨 20 倍，12 个地址累计投入 298.1 万美元追涨，推动币价快速上涨。与此同时，币安人生市值从此前的 8000 万美元回落至 5300 万美元。
-- [印度央行官员：资产代币化风险可控，可通过监管护栏加以应对]() - 📰 null - 【印度央行官员：资产代币化风险可控，可通过监管护栏加以应对】金色财经报道，印度央行官员：资产代币化风险可控，可通过监管护栏加以应对。
-- [Paypal CEO：PayPal希望打造一个所有数字钱包都能连接的平台]() - 📰 null - 【Paypal CEO：PayPal希望打造一个所有数字钱包都能连接的平台】金色财经报道，Paypal(PYPL.O)首席执行官：PayPal的全球愿景是打造一个所有数字钱包都能连接的平台。
-- [TAO突破350美元]() - 📰 null - 【TAO突破350美元】金色财经报道，行情显示，TAO突破350美元，现报350.1美元，24小时涨幅达到10.51%，行情波动较大，请做好风险控制。
-- [Binance Alpha上线PALU]() - 📰 null - 【Binance Alpha上线PALU】金色财经报道，据官方页面，Binance Alpha上线PALU。此次上币并未提前进行空投或预告。
-- [Upbit 将上线 DOOD 韩元 和 USDT 交易对](https://upbit.com/service_center/notice?id=5624) - 📰 null - 【Upbit 将上线 DOOD 韩元 和 USDT 交易对】金色财经报道，Upbit 将上线 DOOD 韩元 和 USDT 交易对。
-- [数据：99% 的比特币地址现已盈利](https://x.com/pete_rizzo_/status/1975418307407684077) - 📰 null - 【数据：99% 的比特币地址现已盈利】金色财经报道，据The Bitcoin Historian发布消息，99% 的比特币地址现已盈利。
-- [金色午报 | 10月7日午间重要动态一览]() - 📰 null - 【金色午报 | 10月7日午间重要动态一览】7:00-12:00关键词：DoubleZero、xAI、IBIT、灰度 
-1.黄金期货涨至4000美元整数大关 
-2.美国总统特朗普：政府停摆问题取得进展 
-3.COINBASE 今日新增DoubleZero（2Z）至路线图 
-4.马斯克任命前摩根士丹利银行家为xAI新任首席财务官 
-5.IBIT预计年收入达 2.45 亿美元，管理资产约为 978 亿美元 
-6.灰度管理的两支 ETH 现货 ETF 在过去 9 个小时里质押 3.2 万枚 ETH
-- [参议员Lummis：美国比特币储备基金“随时可以启动”](https://cointelegraph.com/news/senator-lummis-funding-us-bitcoin-reserve-start-anytime) - 📰 null - 【参议员Lummis：美国比特币储备基金“随时可以启动”】金色财经报道，对加密货币持友好态度的美国参议员Cynthia Lummis已确认，尽管立法繁文缛节阻碍了美国战略比特币储备 (SBR) 的资金筹集，但现在可以“随时开始”。 在周一的 X 帖子中，Lummis表示，尽管立法方面仍然“举步维艰”，但多亏了“特朗普总统，SBR 的资金获取可以随时开始”。  
-目前尚不清楚SBR的具体融资方式。根据政府官方情况说明书，该储备金最初将“以财政部持有的比特币作为资本”，这些比特币是通过民事或刑事诉讼程序扣押的。 然后它指出，可以通过预算中性的途径获得额外的 BTC，这些途径“不会给美国纳税人带来增量成本”。
-- [德银将 阿里巴巴 目标价从176.00美元上调至225.00美元]() - 📰 null - 【德银将 阿里巴巴 目标价从176.00美元上调至225.00美元】金色财经报道，德银将 阿里巴巴 目标价从176.00美元上调至225.00美元。
-- [马斯克任命前摩根士丹利银行家为xAI新任首席财务官]() - 📰 null - 【马斯克任命前摩根士丹利银行家为xAI新任首席财务官】金色财经报道，据英国金融时报：马斯克任命前摩根士丹利银行家Anthony Armstrong为xAI新任首席财务官。
-- [某巨鲸3小时前向 Daniel Larimer 的币安充值钱包转入 493 万枚 ASTER](https://x.com/lookonchain/status/1975395078383477209) - 📰 null - 【某巨鲸3小时前向 Daniel Larimer 的币安充值钱包转入 493 万枚 ASTER】金色财经报道，据 Lookonchain 监测，0xFB3B 开头巨鲸曾以均价 2.07 美元从 Gate 提取 6450 万枚 ASTER（价值约 1.34 亿美元），该地址 3 小时前向 Daniel Larimer 的币安充值钱包转入了 493 万枚 ASTER（价值约 1018 万美元）。
-- [Matrixport过去12小时从Binance提取14586枚ETH，价值6820万美元](https://x.com/OnchainLens/status/1975395315680473109) - 📰 null - 【Matrixport过去12小时从Binance提取14586枚ETH，价值6820万美元】金色财经报道，据 Onchain Lens 监测，过去 12 小时，Matrixport 从 Binance 提取了 14,586 枚 ETH，价值 6820 万美元。
-- [Alameda Research向BitGo转入500枚BTC](https://x.com/OnchainLens/status/1975392840323829938) - 📰 null - 【Alameda Research向BitGo转入500枚BTC】金色财经报道，据 Onchain Lens 监测，7 小时前，Alameda Research 向 BitGo 转入 500 枚 BTC，价值 6215 万美元。
+- [VanEck 数字资产研究主管：比特币下一次减半后市值将达到黄金的一半](https://x.com/BitcoinNewsCom/status/1975538849960100025) - 📰 null - 【VanEck 数字资产研究主管：比特币下一次减半后市值将达到黄金的一半】金色财经报道，VanEck 数字资产研究主管Matthew Sigel表示：“下一次减半后，比特币的市值应该会达到黄金的一半。”
+- [比特币人寿保险公司Meanwhile完成 8200 万美元融资](https://www.bloomberg.com/news/articles/2025-10-07/bitcoin-life-insurance-provider-meanwhile-raises-82-million) - 📰 null - 【比特币人寿保险公司Meanwhile完成 8200 万美元融资】10月7日消息，据彭博社报道，比特币人寿保险公司Meanwhile完成 8200 万美元融资，Apollo、Northwestern Mutual、Pantera Capital 和 Stillmark、贝恩资本和 Haun Ventures 等参投，该公司将利用这笔资金扩大团队的能力，以满足机构对比特币保险产品日益增长的需求。 
+Meanwhile是受百慕大监管的保险公司，提供完全以加密货币计价产品，于 2023 年开始提供保单。该公司通过向大型受监管金融机构借出比特币来投资投保人的保费。Meanwhile于今年 4 月完成 4000 万美元 A 轮融资，OpenAI 首席执行官 Sam Altman 领投。
+- [Strategy成为全球第 198 大上市公司](https://x.com/BTCtreasuries/status/1975535471028805903) - 📰 null - 【Strategy成为全球第 198 大上市公司】金色财经报道，据BitcoinTreasuries.NET消息，比特币财务公司 Strategy $MSTR 超越阿布扎比国家能源与水务公司 TAQA，成为全球第 198 大上市公司。
+- [CoinShares宣布推出 CoinShares Altcoins ETF](https://www.prnewswire.com/news-releases/coinshares-launches-etf-offering-access-to-altcoins-302576931.html) - 📰 null - 【CoinShares宣布推出 CoinShares Altcoins ETF】金色财经报道，CoinShares宣布推出 CoinShares Altcoins ETF（股票代码：DIME），这是一只创新的美国 ETF，旨在通过投资者现有的经纪账户抓住山寨币机会。 
+DIME 将投资平均分配到持有不同数字资产的多个 ETP 中，以降低依赖单一加密货币的风险。DIME 提供新兴 Layer 1 替代方案的可选性，*涵盖三个投资主题：高速区块链、互操作性协议**和成长型平台。DIME 通过投资在美国、加拿大、英国和欧盟的公开股票市场上市的交易所交易产品，提供对一篮子山寨币的等权重敞口。DIME 的初始投资将集中在投资于Solana (SOL)、Polkadot (DOT)、Cardano (ADA)、Cosmos (ATOM)、Sei (SEI)、Avalanche (AVAX)、Sui (SUI)、Aptos (APT)、Near Protocol (NEAR) 和 Toncoin (TON) 的 ETP。
+- [标普推出数字市场50加密货币指数](https://x.com/cryptounfolded/status/1975534248363806802) - 📰 null - 【标普推出数字市场50加密货币指数】金色财经报道，据巴伦周刊，标普推出数字市场50加密货币指数，实现多元化配置。
+- [CEA Industries：BNB持有量增至48万枚，价值超5.8亿美元](https://www.globenewswire.com/news-release/2025/10/07/3162400/0/en/CEA-Industries-BNC-Announces-BNB-Holdings-of-480-000-tokens-and-total-Crypto-and-Cash-holdings-of-663-Million.html) - 📰 null - 【CEA Industries：BNB持有量增至48万枚，价值超5.8亿美元】金色财经报道，纳斯达克上市公司CEA Industries发布数字资产财库更新信息，披露目前BNB持有量增至48万枚（较九月初增加约6万枚），目前BNB持仓价值约为5.855 亿美元，截至2025年10月6日该公司持有的加密货币和现金规模达6.63亿美元。
+- [BNB总市值突破1800亿美元]() - 📰 null - 【BNB总市值突破1800亿美元】金色财经报道，据CoinGecko数据，BNB现报价1,312.15美元，24小时交易量突破58亿美元。总市值突破1800亿美元，现报1829.02亿美元。
+- [日元兑美元汇率跌至3月以来最低水平]() - 📰 null - 【日元兑美元汇率跌至3月以来最低水平】金色财经报道，日元兑美元汇率跌至3月以来最低水平；美元/日元最新上涨0.4%，报150.935。
+- [BNB突破1300美元]() - 📰 null - 【BNB突破1300美元】金色财经报道，行情显示，BNB突破1300美元，现报1302.53美元，24小时涨幅达到6.72%，行情波动较大，请做好风险控制。
+- [洲际交易所和PolyMarket也已同意在未来的代币化项目上开展合作]() - 📰 null - 【洲际交易所和PolyMarket也已同意在未来的代币化项目上开展合作】金色财经报道，洲际交易所和PolyMarket也已同意在未来的代币化项目上开展合作。洲际交易所：该协议显示，PolyMarket在投资前的估值约为80亿美元。Polymarket 发文确认纽交所母公司洲际交易所将以 90 亿美元投后估值对其进行 20 亿美元战略投资。
+- [纽约梅隆银行正探索允许代币化存款和区块链支付](https://www.bloomberg.com/news/articles/2025-10-07/bny-explores-tokenized-deposits-as-blockchain-payments-catch-on?srnd=phx-crypto) - 📰 null - 【纽约梅隆银行正探索允许代币化存款和区块链支付】10月7日消息，据彭博社报道，全球最大托管银行纽约梅隆银行正在探索允许代币化存款和区块链支付。
+- [某地址花费5枚BNB买入1115万枚Meme币「币安人生」，目前价值已超160万美元](https://x.com/lookonchain/status/1975521885564883329) - 📰 null - 【某地址花费5枚BNB买入1115万枚Meme币「币安人生」，目前价值已超160万美元】金色财经报道，据 Lookonchain 监测，某地址（0x8844）两天前，花费 5 枚 BNB（约 5756 美元）购买了 1115 万枚Meme 币「币安人生」，现在价值已超过 160 万美元。
+- [比特币挖矿股美股盘前上涨]() - 📰 null - 【比特币挖矿股美股盘前上涨】金色财经报道，比特币挖矿股美股盘前上涨，Hive Digital Technologies涨6.82%，Iren涨11.60%，TeraWulf涨3.68%，CleanSpark涨1.55%，Bitfarms涨11.85%，BitFuFu涨2.02%。
+- [美联储戴利：AI泡沫暂不威胁金融稳定]() - 📰 null - 【美联储戴利：AI泡沫暂不威胁金融稳定】金色财经报道，旧金山联邦储备银行行长玛丽・戴利近日表示，股市中潜在的人工智能（AI）泡沫或不会威胁整体金融稳定。戴利强调：“我们应警惕将所有泡沫都归为金融类泡沫的想法，目前尚无太多迹象表明 AI 泡沫属于此类。” 她指出，从研究和经济学角度看，AI 领域的投资更像是 “有益泡沫”—— 即便投资者未获得早期热衷者预期的全部回报，也能留下富有成效的成果，而非一无所获。具体而言，戴利给出三点理由：一是 AI 资本支出热潮由财务稳健的大公司推动，而非高风险初创企业浪潮，不构成金融稳定威胁；二是即便投资者热情过高，也能助力这一变革性技术发展，类似互联网泡沫破裂后仍留下互联网技术；三是 AI 或如 iPhone 般具备变革力，释放未知机遇并提升整体经济生产率。（环球市场播报）
+- [渣打银行：稳定币未来三年内可能会从新兴市场银行吸走1万亿美元资金]() - 📰 null - 【渣打银行：稳定币未来三年内可能会从新兴市场银行吸走1万亿美元资金】金色财经报道，渣打银行估计，未来三年内，稳定币可能会从新兴市场银行吸走1万亿美元资金。
+- [Meme 币「币安人生」短时突破0.19美元，现报0.1425美元]() - 📰 null - 【Meme 币「币安人生」短时突破0.19美元，现报0.1425美元】金色财经报道，行情显示，Meme 币「币安人生」短时突破0.19美元，现报0.1425美元，市值突破1.4亿美元，行情波动较大，请做好风险控制。
+- [马斯克：xAI将于2026年底发布一款AI生成游戏]() - 📰 null - 【马斯克：xAI将于2026年底发布一款AI生成游戏】金色财经报道，马斯克表示，xAI将于2026年底发布一款AI生成游戏。
+- [AMBTS融资3510万美元用于购买比特币](https://x.com/BTCtreasuries/status/1975514179110117742) - 📰 null - 【AMBTS融资3510万美元用于购买比特币】金色财经报道，据BitcoinTreasuries.NET消息，Amdax公司旗下比特币财库公司AMBTS在首轮融资中筹集了3510万美元用于购买比特币。
+- [Binance Alpha 上线 Meme 币「币安人生」]() - 📰 null - 【Binance Alpha 上线 Meme 币「币安人生」】金色财经报道，据官方页面显示，Binance Alpha 上线 Meme 币「币安人生」。
+- [BNB市值超越XRP 升至加密货币市值第三位]() - 📰 null - 【BNB市值超越XRP 升至加密货币市值第三位】金色财经报道，据 CoinGecko 数据，BNB 市值升至 1783.5 亿美元，超越 XRP（1782.2 亿美元）升至全球加密货币市值第三位。
