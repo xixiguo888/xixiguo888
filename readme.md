@@ -1,45 +1,24 @@
-- [美元兑日元突破153，日内涨幅达0.21%]() - 📰 null - 【美元兑日元突破153，日内涨幅达0.21%】金色财经报道，美元兑日元（USD/JPY）站上153，日内涨幅达0.21%。（金十）
-- [稳定币基础设施公司BVNK获得花旗旗下风险投资公司的投资](https://www.cnbc.com/2025/10/09/biti-bvnk-stablecoin-banks-crypto.html) - 📰 null - 【稳定币基础设施公司BVNK获得花旗旗下风险投资公司的投资】金色财经报道，据市场消息，Citi Ventures（花旗风险投资）已向稳定币基础设施初创公司BVNK投资，金额未披露。 
-BVNK 提供稳定币支付轨，支持法币与加密资产的双向结算；联合创始人Chris Harmse称公司估值高于上一轮公开的7.5亿美元。其美国市场增长最快，受美国稳定币监管法案GENIUS Act推动。Citi正评估发行自有稳定币并拓展加密托管。过去12个月稳定币交易额近9万亿美元（Visa），总市值超3000亿美元（CoinMarketCap）。BVNK亦获Coinbase与Tiger Global支持。
-- [币安：今日下午3点将上线新空投，第一阶段门槛为210分](https://x.com/binancezh/status/1976166252768120961) - 📰 null - 【币安：今日下午3点将上线新空投，第一阶段门槛为210分】金色财经报道，据官方公告，币安 Alpha 将于今天下午15:00（UTC+8）上线新空投。 
-币安 Alpha 空投将分两阶段发放：  
-第一阶段（前 18 小时）：持有至少 210 个 Alpha 积分的用户可申领。  
-第二阶段（后 6 小时）：持有至少 195 个 Alpha 积分的用户可参与第二阶段空投，先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。  
-具体空投币种敬请关注币安官方渠道，及时获取活动最新动态。
-- [某新建地址从Binance提取1000枚比特币](https://x.com/OnchainLens/status/1976165991852998666) - 📰 null - 【某新建地址从Binance提取1000枚比特币】金色财经报道，据 Onchain Lens 监测，某新建地址从 Binance 提取 1000 枚比特币，价值约合 1.2198 亿美元。
-- [过去45天黄金总市值增加近4.5万亿美元 是BTC总市值的1.85倍](https://www.coingecko.com/) - 📰 null - 【过去45天黄金总市值增加近4.5万亿美元 是BTC总市值的1.85倍】金色财经报道，过去45天内黄金价格涨幅近20%，因此黄金总市值增加了近4.5万亿美元，这一增加值是目前比特币总市值的1.85倍，也超过所有加密货币总市值。
-- [Coinbase为美国用户集成Base网络的DEX交易功能](https://www.theblock.co/post/373940/coinbase-integrates-dex-trading-within-its-exchange-for-us-users-on-base-network?utm_source=twitter&utm_medium=social) - 📰 null - 【Coinbase为美国用户集成Base网络的DEX交易功能】金色财经报道，Coinbase为美国用户整合Base网络上的去中心化交易所（DEX）交易功能据该公司。 
-一篇博客文章显示，Coinbase早在8月就曾预告过这一功能，当时仅向部分选定用户开放；周三（注：原文未明确具体日期，此处保留“周三”以符合原文表述），该功能正式向公众全面推出。如今，Coinbase用户可在代币进入交易所传统上币流程前，就对其进行交易。
-- [PayPay将收购Binance Japan 40%股权]() - 📰 null - 【PayPay将收购Binance Japan 40%股权】金色财经报道，Binance Japan与PayPay签署商业PayPay将收购Binance Japan 40%股权联盟合作协议，由软银财团控制的PayPay将收购Binance Japan 40%股权；双方将接入PayPay余额用于在日本站购买加密资产与卖出出金，推进无现金支付与数字资产融合。
-- [何一预告新产品即将发布](https://x.com/heyibinance/status/1976157487733547299) - 📰 null - 【何一预告新产品即将发布】金色财经报道，何一于X平台预告新产品即将发布“大的要来了”。
-- [DeFi Development将以认股权证派发股息并寻求获得7350万美元资金以支持收购SOL](https://www.globenewswire.com/news-release/2025/10/08/3163339/0/en/DeFi-Development-Corp-Announces-Dividend-of-Warrant-to-Stockholders.html) - 📰 null - 【DeFi Development将以认股权证派发股息并寻求获得7350万美元资金以支持收购SOL】金色财经报道，纳斯达克上市公司DeFi Development（DFDV）宣布将以认股权证形式向截至2025年10月23日的普通股持有人派发特别股息，根据目前已发行的普通股和可转换优先票据的份额，该公司预计可分配最多约330万份认股权证，每份认股权证将赋予持有人以行使价22.50美元认购一股普通股的权利，假设股东全部行使认股权证，该公司将获得7350万美元资金，以用于收购SOL和营运资金。
-- [OKX“DEX交易”公测版现已支持 X Layer]() - 📰 null - 【OKX“DEX交易”公测版现已支持 X Layer】10月9日消息，据官方消息，OKX“DEX交易”公测版现已支持 X Layer。已激活公测白名单的用户可以第一时间进行体验，使用 USDT 和 OKB 交易链上代币等等，后续还将逐步开放更多名额。符合条件的用户需将 OKX App 升级至 6.138.0 及以上版本（公测版），在交易所首页底部点击“交易”—选择“DEX”，或通过OKX APP首页榜单、市场、搜索等入口进入。 
-据悉，OKX “DEX交易”是 OKX在中心化交易所推出的链上交易功能。用户无需切换钱包或跨链，即可直接使用交易所账户余额（USDT、USDC 或网络原生代币）交易已支持公链的链上代币，且资产存储于用户专属的自托管钱包中。
-- [Vitalik收到解锁的629万枚STRK分配，价值101万美元](https://x.com/ai_9684xtpa/status/1976146226136613201) - 📰 null - 【Vitalik收到解锁的629万枚STRK分配，价值101万美元】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，Vitalik时隔一年再次收到Starknet解锁的629万枚STRK空投，价值101万美元。Vitalik曾以个人身份参与StarkWare在2018年1月进行的600万美元种子轮融资，需要注意的是，一年前收到代币后Vitalik就充值到了Binance。
-- [美财长结束下任美联储主席人选面试 贝莱德CIO表现“非常好”]() - 📰 null - 【美财长结束下任美联储主席人选面试 贝莱德CIO表现“非常好”】金色财经报道，据英国金融时报报道，几位知情人士透露，美国财政部长贝森特已于周二结束了对11位美联储主席人选的长名单面试。特朗普正寻求接替现任主席鲍威尔。据称，候选人在长达两个小时的面试中被 贝森特、财政部官员Hunter McMaster和顾问Francis Browne亲自“拷问”。一些接受面试的人表示，贝森特询问了他们对他最近在一篇文章中提出的观点的看法。 
-该文章呼吁对美联储进行全面改革，并批评其量化宽松计划是“功能获得性货币政策实验”。据一位知情人士透露，贝莱德全球固定收益首席投资官Rick Rieder表现“非常好”。贝森特对整个过程一直守口如瓶，他在最近接受福克斯商业频道采访时表示，他希望找到一位“思想开放”且“向前看”的人。(金十)
-- [Coinbase将于10月9日上线0G永续合约](https://x.com/CoinbaseMarkets/status/1975954383969165638) - 📰 null - 【Coinbase将于10月9日上线0G永续合约】金色财经报道，据官方消息，Coinbase将于2025年10月9日9:30AM UTC上线0G(0G)永续合约。0G-PERP市场预计在UTC时间上午9:30或之后开放，具体时间取决于流动性条件，并仅限支持交易的地区。
-- [Arthur Hayes：BTC四年周期已经失效](https://www.jinse.cn/blockchain/3722393.html) - 📰 null - 【Arthur Hayes：BTC四年周期已经失效】金色财经报道，BitMEX创始人Arthur Hayes 10月9日发文表示，比特币/美元价格周期已经历了三个周期，每四年都会出现一次历史高点（ATH）。因此交易员们希望运用历史模式来预测本轮牛市周期的终结。Arthur Hayes回顾了美元等主要货币的价格（即利率）和数量与比特币历史上前几轮周期的关系，每次信贷扩张引发比特币牛市，信贷增放缓或收缩终结比特币牛市，而近期华盛顿明确表示货币将更廉价、更充裕，在对这一极有可能成为现实的未来的预期下，比特币将持续上涨。因此，比特币四年周期已经失效。
-- [美财长结束下任美联储主席人选面试 贝莱德CIO表现“非常好”]() - 📰 null - 【美财长结束下任美联储主席人选面试 贝莱德CIO表现“非常好”】金色财经报道，据英国金融时报报道，几位知情人士透露，美国财政部长贝森特已于周二结束了对11位美联储主席人选的长名单面试。特朗普正寻求接替现任主席鲍威尔。据称，候选人在长达两个小时的面试中被 贝森特、财政部官员Hunter McMaster和顾问Francis Browne亲自“拷问”。一些接受面试的人表示，贝森特询问了他们对他最近在一篇文章中提出的观点的看法。该文章呼吁对美联储进行全面改革，并批评其量化宽松计划是“功能获得性货币政策实验”。据一位知情人士透露，贝莱德全球固定收益首席投资官Rick Rieder表现“非常好”。贝森特对整个过程一直守口如瓶，他在最近接受福克斯商业频道采访时表示，他希望找到一位“思想开放”且“向前看”的人。(金十)
-- [Ocean Protocol退出ASI联盟，OCEAN代币或可解除锚定并重新在交易所上市](https://x.com/bwenews/status/1976138156761358636) - 📰 null - 【Ocean Protocol退出ASI联盟，OCEAN代币或可解除锚定并重新在交易所上市】金色财经报道，据官方消息，Ocean Protocol退出ASI联盟，OCEAN代币或可解除锚定并重新在交易所上市。
-- [金色午报 | 10月9日午间重要动态一览]() - 📰 null - 【金色午报 | 10月9日午间重要动态一览】7:00-12:00关键词：印度、贝莱德、Sei、ARK Invest 
-1.印度央行推出数字货币零售沙盒； 
-2.贝莱德比特币ETF持币量超80万枚； 
-3.币安将移除GPS和MBL的监控标签； 
-4.贝莱德与Brevan Howard的代币化基金在Sei链上线； 
-5.Binance Wallet：ZEROBASE Booster第二季已上线； 
-6.ARK Invest旗下基金已持仓约1,000万美元的Securitize股份； 
-7.Greeks.live：12万美元至14万美元的看涨期权仍是10月持仓最集中的合约。
-- [机构普遍预测美国政府关门至少持续10天，15日是关键节点]() - 📰 null - 【机构普遍预测美国政府关门至少持续10天，15日是关键节点】金色财经报道，华尔街机构针对美国政府关门持续时间做出分析观点如下： 
-摩根士丹利：美国国债期权显示，10月1日开始的美国政府关门至少会持续10天，最长则将达到29天。 
-高盛集团：美国政府关门不太可能延续到10月15日军队发薪日之后。如果届时关门仍在继续，现役军人将无法收到薪资，而这从未被允许发生。 
-而预测平台Polymarket数据显示，市场认为美国政府停摆在10月15日后才会结束的几率高达85%；美国国会在10月底前通过支出法案的几率为76%。(金十)
-- [4E：比特币十月强势开局，机构看好长期配置](https://x.com/4E_ZH/status/1976121622529704243) - 📰 null - 【4E：比特币十月强势开局，机构看好长期配置】10月9日消息，据4E观察，比特币十月表现强劲，创下历史新高。从历史数据看，10月平均涨幅约21%。Bitfinex Alpha报告指出，本轮上涨背后主要来自抛售压力减弱与宏观环境改善——巨鲸抛售明显放缓，美联储转鸽、通胀回落、ETF资金重新流入，均显示市场回调阶段或已结束。 
-比特币已恢复与黄金的高相关性，近期两者同创历史高点。黄金年内涨幅超50%，而比特币约为33.5%。分析人士认为，若比特币继续跟随黄金走势，年底或将迎来显著上行。Lightspark联合创始人David Marcus表示，若比特币市值与黄金持平，其价格将达130万美元，“突破七位数只是时间问题”。 
-德意志银行经济学家进一步预测，至2030年，比特币或将像黄金一样出现在央行资产负债表中。该行指出，比特币的稀缺性与抗通胀特征使其正从投机资产向储备资产转型。 
-同时，纽交所上市公司Hyperscale Data（NYSEAmerican:HSDT）宣布扩大其比特币财库至4100万美元，目前共持有90.6枚BTC，并计划继续在公开市场增持。 
-4E提醒投资者：比特币叙事正从“风险资产”向“储备资产”转变，宏观宽松与机构增持双重支撑下，四季度行情值得关注。
-- [Greeks.live：12万美元至14万美元的看涨期权仍是10月持仓最集中的合约](https://x.com/BTC__options/status/1976123624747827230) - 📰 null - 【Greeks.live：12万美元至14万美元的看涨期权仍是10月持仓最集中的合约】金色财经报道，Greeks.live宏观研究员Adam于X平台发表十月期权行情分析称，12万美元至14万美元的看涨期权仍是持仓最集中的合约，其中12万美元关键价位聚集了最高密度的比特币头寸。主要参与者正集中布局价外看涨期权及接近近期历史高点的行权价。 
-自9月以来，大宗交易异常活跃，主要集中于月度和周度合约。进入10月后，10月下旬到期的价外期权开始受到关注。 
-就做市商持仓而言，12万美元以下的头寸相对稀少，整体做市商伽马水平仍处于低位，意味着价格小幅波动影响有限。但若比特币跌破11万美元，做市商需增持空头头寸以降低风险敞口；反之若创出新高，则需买入比特币来对冲风险。 
-如前所述，11万美元与历史高点是两大关键观察位。个人仍认为十月市场环境将保持有利态势。多位资深机构交易员在交流中对四季度持乐观预期，机构整体持仓亦对十月行情展现看涨倾向。
+- [美国上周初请失业金人数等数据因美国政府停摆未能如期公布]() - 📰 null - 【美国上周初请失业金人数等数据因美国政府停摆未能如期公布】金色财经报道，【提示】因美国政府“停摆”进入第二周，美国上周初请失业金人数、初请失业金人数四周均值、续请失业金人数因美国政府停摆未能如期公布。
+- [全球上市公司 Q3 增持 19 万枚 BTC，价值 233.6 亿美元](https://x.com/BitcoinNewsCom/status/1976263374049783851) - 📰 null - 【全球上市公司 Q3 增持 19 万枚 BTC，价值 233.6 亿美元】金色财经报道，据 Bitcoin News 报道，全球上市公司在 2025 年第三季度共增持了 190,611 枚 BTC，价值 233.6 亿美元。
+- [现货白银首次上触50美元整数大关]() - 📰 null - 【现货白银首次上触50美元整数大关】金色财经报道，现货白银涨势凶猛，向上触及50美元/盎司整数关口，刷新历史高位，今年迄今累涨逾21美元，年内涨幅超过70%。
+- [现货白银价格突破14年高点 达49.8美元创记录新高]() - 📰 null - 【现货白银价格突破14年高点 达49.8美元创记录新高】金色财经报道，现货白银价格突破历史新高，达到49.8美元/盎司，日内大涨1.86%。现货白银此前的高点为49.79美元/盎司，在2011年4月创造。
+- [Binance Alpha上线PUP (PUP)]() - 📰 null - 【Binance Alpha上线PUP (PUP)】金色财经报道，Binance Alpha 现已上线 PUP (PUP)。
+- [Binance Alpha上线「客服小何」]() - 📰 null - 【Binance Alpha上线「客服小何」】金色财经报道，据官方页面，Binance Alpha 现已上线「客服小何」。
+- [币安决定给予“币安人生”最早提议者一笔奖金](https://x.com/jason_chen998/status/1976250975817171424?t=CouNeOSDgN64GjBxaMqhug&s=09) - 📰 null - 【币安决定给予“币安人生”最早提议者一笔奖金】金色财经报道，据加密KOL陈剑Jason透露，币安今天已经决定给予其一笔奖金。据悉，10月4日晚Jason发推向币安献计提及“币安人生”并得到何一回复，随后社区涌现“币安人生”Memecoin并上线币安alpha，其市值一度超过5亿美元。
+- [BTC突破123000美元]() - 📰 null - 【BTC突破123000美元】金色财经报道，行情显示，BTC突破123000美元，现报123003.63美元，24小时涨幅达到0.16%，行情波动较大，请做好风险控制。
+- [加密合规初创公司CipherOwl完成1500万美元种子轮融资](https://fortune.com/crypto/2025/10/09/cipherowl-crypto-compliance-seed-round-general-catalyst-flourish-ventures/) - 📰 null - 【加密合规初创公司CipherOwl完成1500万美元种子轮融资】金色财经报道，加密合规初创公司CipherOwl宣布完成1500万美元种子轮融资，General Catalyst 和 Flourish Ventures 领投，Coinbase Ventures 和 Enlight Capital 等参投，该公司联合创始人兼首席执行官 Leo Liang 拒绝透露本轮融资的估值。
+- [分析：日本新首相将推动加密经济，完善区块链监管](https://cointelegraph.com/news/japan-pm-boost-crypto-economy-refine-blockchain-regulations) - 📰 null - 【分析：日本新首相将推动加密经济，完善区块链监管】金色财经报道，日本新当选首相高市早苗可能会为制定更“完善”的监管法规打开大门，以促进该国的加密货币经济，该国可能成为下一个全球加密货币公司中心。专家表示，她的领导可能会在保持日本严格监管标准的同时，对包括区块链创新在内的技术实验采取更开放的立场。 
+代币化平台 Brickken 的总法律顾问 Elisenda Fabrega 表示，高市的当选可能会“对日本国内数字资产的认知和治理产生重大影响”。高市在此前的公共职位上曾表示支持“技术主权”，包括“战略性地发展包括区块链技术在内的数字基础设施”。“从法律角度来看，这表明她的政府可能采取一种不仅宽容，而且可能积极主动地推动数字经济的姿态。”
+- [币安：已对成功领取 KGEN 代币空投的用户追加 54.2 枚 KGEN 空投](https://x.com/BinanceWallet/status/1976250176030507215) - 📰 null - 【币安：已对成功领取 KGEN 代币空投的用户追加 54.2 枚 KGEN 空投】金色财经报道，据官方公告，币安已对成功领取 KGEN 代币空投的用户追加 54.2 枚 KGEN 空投。
+- [多链交易基础设施 LAB 宣布完成 500 万美元融资，将于 10 月 14 日 TGE](https://x.com/LABtrade_/status/1976226336021545224) - 📰 null - 【多链交易基础设施 LAB 宣布完成 500 万美元融资，将于 10 月 14 日 TGE】10月9日消息，多链交易基础设施 LAB 宣布完成 500 万美元融资，且其将于 10 月 14 日 TGE。 
+此轮融资 Selini Capital、Re7 Capital、Cypher Capital、RedBeard VC、Lemniscap、TVM Ventures、OKX Ventures、Mirana、KuCoin Ventures、Gate Ventures、GSR、Animoca Brands、Presto Labs、MEXC Ventures、Amber Group 等参投。
+- [Sharps Technology 与 Coinbase达成合作 扩充数字资产储备](https://x.com/Cointelegraph/status/1976248989776224691) - 📰 null - 【Sharps Technology 与 Coinbase达成合作 扩充数字资产储备】金色财经报道，据市场消息：Sharps Technology 与 Coinbase达成合作，以扩充其数字资产储备，目前该公司持有的 SOL已超过 200 万枚。
+- [CleanSpark CEO：美国战略比特币储备计划继续增持BTC](https://x.com/smatthewschultz/status/1975739775555453228) - 📰 null - 【CleanSpark CEO：美国战略比特币储备计划继续增持BTC】金色财经报道，美国比特币矿企CleanSpark CEO Matthew Schultz 10月8日在X发推表示，他当晚和美国财政部长Bessent和美国参议院银行委员会主席Tim Scott共进晚餐并讨论了市场结构法案，美联储主席候选人以及美国战略比特币储备等话题。Matthew Schultz文中透露，美国持有约170亿美元的比特币，“不会出售”，并计划继续增持。
+- [上市公司 DevvStream购入首批22.22枚比特币](https://x.com/BTCtreasuries/status/1976243338769727953) - 📰 null - 【上市公司 DevvStream购入首批22.22枚比特币】金色财经报道，据市场消息：加拿大上市公司 DevvStream（股票代码：DEVS）刚刚购入了其首批 22.22 枚比特币（BTC）。
+- [Leap Therapeutics完成5888万美元私募以启动数字资产财务战略](https://www.prnewswire.com/news-releases/leap-therapeutics-announces-closing-of-58-88-million-private-placement-in-cash-led-by-winklevoss-capital-to-initiate-a-digital-asset-treasury-strategy-302579240.html) - 📰 null - 【Leap Therapeutics完成5888万美元私募以启动数字资产财务战略】金色财经报道，生物技术公司 Leap Therapeutics（纳斯达克股票代码：LPTX）今天宣布，它已经完成之前宣布的由 Winklevoss Capital 领投的私募，筹集 58,888,888 美元现金，以启动数字资产财务战略。 
+Winklevoss Capital 将提供资金和战略支持，帮助 Leap 构建并执行其数字资产财务战略。根据牵头投资者协议，Leap 董事会成员增至 12 名，Winklevoss Capital 将有权提名两名个人进入 Leap 董事会，其中一人还将担任董事会主席。 Morgan, Lewis & Bockius LLP 担任 Leap 的法律顾问，Cooley LLP 担任 Winklevoss Capital 的法律顾问。
+- [PayPal与谷歌达成多年协议 共同开发AI支付体验]() - 📰 null - 【PayPal与谷歌达成多年协议 共同开发AI支付体验】金色财经报道，PayPal与谷歌达成多年协议，将其支付解决方案整合至谷歌全线产品并共同开发AI支付体验，此举预计将显著提升交易量。同时，PayPal推出联通全球支付系统与数字钱包的"PayPal World"平台，旨在实现无缝跨境资金流动。
+- [Ripple 与巴林金融科技湾合作以扩大中东地区的业务](https://www.coindesk.com/markets/2025/10/09/ripple-expands-into-bahrain-in-boost-for-rlusd?utm_source=twitter&utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_medium=social) - 📰 null - 【Ripple 与巴林金融科技湾合作以扩大中东地区的业务】金色财经报道，Ripple 正与巴林金融科技湾（该国主要的金融科技孵化器和生态系统平台）建立新的合作伙伴关系，以扩大其在中东地区的业务，这是其将区块链和稳定币基础设施融入受监管金融市场的努力的一部分。 
+此举以 Ripple 今年早些时候获得的迪拜金融服务管理局 (DFSA) 牌照为基础，凸显了海湾地区机构对在清晰监管框架下采用数字资产技术日益增长的需求。
+- [预测市场 Opinion 暗示将启动主网积分计划](https://x.com/opinionlabsxyz/status/1975828826195443730?s=46&t=lUsqsVIGdhNN-5sqHS-dFQ) - 📰 null - 【预测市场 Opinion 暗示将启动主网积分计划】10月9日消息，由 YZi Labs 投资的预测市场服务商 Opinion Labs 暗示将于近期启动主网积分计划。根据 Opinion 的推文，在主网交易激励启动前，用户可先加入 X-ray Army，并通过在社交媒体发布优质内容、积极互动等方式获得社交积分；亦或参与先锋计划，参与用户可根据贡献度完成角色升级，同时解锁积分及潜在主网激励。
+- [以太坊基金会公开以太坊隐私钱包项目Kohaku](https://x.com/ncsgy/status/1976200237929881848) - 📰 null - 【以太坊基金会公开以太坊隐私钱包项目Kohaku】金色财经报道，10月9日以太坊基金会协议协调员Nico发文公开以太坊隐私钱包项目Kohaku。Kohaku是一套为钱包提供安全性和隐私性的原语，旨在确保钱包安全并处理隐私交易，同时最大限度地减少对可信第三方的依赖。它首先是一个钱包 SDK，同时也是一个浏览器扩展的参考实现。Kohaku的核心目标是：一个提供强大隐私/安全原语的 SDK；一个面向高级用户的参考实现钱包；与其他钱包合作，实现他们关心的全部或部分 SDK。
