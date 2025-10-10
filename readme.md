@@ -1,45 +1,29 @@
-- [分析师：比特币跌至12.1万美元附近，但“十月上涨”情绪未受影响](https://www.theblock.co/post/374110/bitcoin-dips-uptober-still-intact?utm_source=twitter&utm_medium=social) - 📰 null - 【分析师：比特币跌至12.1万美元附近，但“十月上涨”情绪未受影响】金色财经报道，根据The Block的比特币价格页面显示，BTC过去24小时内下跌0.64%，当前交易价格为121,141美元。相较于本周一创下的126,080美元历史新高，跌幅已接近4%。 
-“比特币在创下历史新高后的回调更像是短暂休整，而非趋势转向，”Arctic Digital分析师兼合作关系负责人贾斯汀・达内森（Justin d'Anethan）表示，“短期持有者进行了获利了结，部分杠杆多头头寸被清算，但长期持仓并未出现变动。” 
-这位加密货币分析师还指出，现货加密货币交易所交易基金（ETF）的资金流入势头依然强劲，且交易所的比特币余额处于六年低位。达内森表示，当前市场受宏观不确定性因素影响，例如美元走强、收益率居高不下，以及美联储对未来利率决策的态度尚不明确。 
-美国目前还处于持续的政府部分停摆状态，分析师此前曾指出，这种情况会对黄金、比特币等 “避险” 资产形成利好支撑。尽管美联储主席杰罗姆・鲍威尔（Jerome Powell）就未来降息释放出复杂信号，但芝商所（CME）的 “美联储观察工具”（FedWatch Tool）显示，市场认为美国央行在本月底再次降息的概率高达94.6%。
-- [美联储停摆背景下 美债供给被市场良好吸收]() - 📰 null - 【美联储停摆背景下 美债供给被市场良好吸收】金色财经报道，法国兴业银行的利率策略师在一份报告中表示，尽管美国政府处于停摆状态，市场的焦点仍集中在美国国债的供给上，而市场对这部分供给的吸收情况良好。他们指出，美国国债收益率一直保持在狭窄的区间内交易，而掉期利差则持续扩大。根据Tradeweb的数据，美国国债收益率在亚洲交易时段有所下跌，其中两年期国债收益率下跌1.2个基点至3.586%；而十年期和三十年期国债收益率均下跌1.9个基点，分别至4.128%和4.714%。(金十)
-- [ZEC突破270美元，24小时涨幅达到55%]() - 📰 null - 【ZEC突破270美元，24小时涨幅达到55%】金色财经报道，行情显示，ZEC突破270美元，现报260.7美元，24小时涨幅达到55%，行情波动较大，请做好风险控制。
-- [Upbit将上线IN韩元交易对]() - 📰 null - 【Upbit将上线IN韩元交易对】金色财经报道，据官方公告，Upbit将上线IN韩元交易对。
-- [SEB：市场对美联储降息预期或过于激进]() - 📰 null - 【SEB：市场对美联储降息预期或过于激进】金色财经报道，SEB研究的首席策略师Jussi Hiljanen在一份报告中表示，货币市场目前定价美联储到2026年底将降息超过100个基点，考虑到通胀风险，这可能过于激进。他称，如果美联储确实满足这些市场预期，可能会为明年10年期美国国债收益率跌至3.8%铺平道路。（金十）
-- [达利欧：美国政府债务增长过快，局势堪比二战前](https://xnews.jin10.com/details/194877) - 📰 null - 【达利欧：美国政府债务增长过快，局势堪比二战前】金色财经报道，桥水基金（Bridgewater Associates）创始人瑞·达利欧（Ray Dalio）再次发出警告，称美国政府债务增长过快，当前局势与“二战前数年的情况极为相似”。 
-达利欧表示，当债务相对于收入不断攀升时，“就像动脉里的斑块，最终会挤压（经济中的）支出空间”。
-- [OKX将上线MON(Monad)、MET(Meteora)盘前交易]() - 📰 null - 【OKX将上线MON(Monad)、MET(Meteora)盘前交易】10月10日消息，据官方公告，OKX将上线MON(Monad)、MET(Meteora)盘前交易，具体时间安排如下：MON/USDT盘前交易开盘时间为2025年10月10日下午4:00(UTC+8)；MET/USDT盘前交易开盘时间为2025年10月10日下午4:15(UTC+8)。 
-据悉，Monad是一个以太坊虚拟机（EVM）兼容的Layer1区块链，旨在解决现有网络的可扩展性限制。Meteora是一家去中心化交易所，致力于为Solana生态系统和更广泛的DeFi领域提供安全、可持续且可组合的流动性基础设施。
-- [英国交易所计划新增稳定币交易对，9月交易量突破10亿美元]() - 📰 null - 【英国交易所计划新增稳定币交易对，9月交易量突破10亿美元】金色财经报道，英国交易商TP ICAP旗下的加密货币现货交易平台计划开始提供稳定币交易对，反映出数字资产领域的更广泛繁荣。 
-TP ICAP全球数字资产联席主管Simon Forster表示，Fusion Digital Assets目前为机构市场参与者提供比特币和以太币现货交易，计划在明年上半年增加这些额外资产。该交易所宣布其月交易量在9月份首次突破10亿美元，相当于一年前处理交易量的五倍，过去12个月名义交易量平均每月增长85%。（金十）
-- [Binance将调整多个合约杠杆及保证金层级](https://www.binance.com/zh-CN/support/announcement/detail/0260f3d6a2944997b3688567ae50f3d6) - 📰 null - 【Binance将调整多个合约杠杆及保证金层级】金色财经报道，据官方公告，Binance合约将于2025年10月11日14：30（北京时间）和2025年10月14日14：30（北京时间）调整多个USD-M永续合约的杠杆和保证金层级。涉及合约包括COAIUSDT、TAKEUSDT、NAORISUSDT、A2ZUSDT、ARIAUSDT、TSTUSDT、GUSDT、PUNDIXUSDT、1000CATUSDT、HYPERUSDT、PROMPTUSDT和ZECUSDT。
-- [某交易员清空544万枚BNBHolder，亏损43.6万美元](https://x.com/lookonchain/status/1976508722949259601) - 📰 null - 【某交易员清空544万枚BNBHolder，亏损43.6万美元】金色财经报道，据Lookonchain监测，交易员0x400a斥资459枚BNB（价值57.6万美元）购入544万枚BNBHolder代币，遗憾的是，他建仓后BNBHolder价格持续下跌——最终他以112枚BNB（价值14万美元）清空了全部544万枚BNBHolder，亏损达347枚BNB（价值43.6万美元）。
-- [CZ：GiggleFund已向Giggle Academy捐赠价值1100万美元BNB]() - 📰 null - 【CZ：GiggleFund已向Giggle Academy捐赠价值1100万美元BNB】金色财经报道，币安创始人CZ于X平台发文表示，不到20天内，GiggleFund已向Giggle Academy捐赠价值1100万美元BNB，助力向全球普及免费教育。 
-据悉，GiggleFund捐赠的资金来自GIGGLE代币交易所产生的5%交易税。
-- [数据：Solana每日交易量降至6400万笔，较7月份的峰值下降近50%](https://decrypt.co/343760/solana-daily-transactions-fall-ahead-of-etf-deadline) - 📰 null - 【数据：Solana每日交易量降至6400万笔，较7月份的峰值下降近50%】金色财经报道，尽管备受期待的交易所交易基金（ETF）截止日期即将到来，Solana的日交易量仍在稳步下降，一位分析师表示，该代币的价格走势可能会受到比特币方向偏差的影响。 
-根据CryptoQuant的数据，Solana网络上的日交易量已从2025年7月24日的峰值1.25亿笔暴跌至大约6400万笔。 
-根据Eric Balchunas汇编的彭博情报数据，美国证券交易委员会（SEC）对VanEck、21Shares、Bitwise和Franklin等发行商提交的现货Solana ETF申请做出裁决的最终截止日期为周五。
-- [自纳瓦尔推荐Zcash以来 Zcash已经上涨超2倍]() - 📰 null - 【自纳瓦尔推荐Zcash以来 Zcash已经上涨超2倍】金色财经报道，硅谷著名天使投资人纳瓦尔10月1日在X上发文“比特币是法币的保险，Zcash是比特币的保险”强烈推荐Zcash。自从其推荐Zcash以来，短短10天Zcash从70美元附近已上涨至240美元左右，涨幅已超过2倍。
-- [币安Alpha将在10月12日上线Coral Finance(CORL)](https://x.com/binancezh/status/1976499047973462190) - 📰 null - 【币安Alpha将在10月12日上线Coral Finance(CORL)】金色财经报道，据官方消息，币安Alpha将在10月12日成为首个上线Coral Finance(CORL)的平台。 
-符合条件的用户可于Alpha交易开放后，前往Alpha活动页面使用币安Alpha积分领取空投。具体详情将另行公布。
-- [金色午报 | 10月10日午间重要动态一览]() - 📰 null - 【金色午报 | 10月10日午间重要动态一览】7:00-12:00关键词：HashKey、新加坡、美联储 
-1.HashKey寻求在香港IPO，筹资不超过5亿美元； 
-2.美国共和党参议员提出新方案 拟使政府运行至12月中旬； 
-3.Vitalik：预测市场进步显著，Polymarket是关键推动力； 
-4.Tom Lee：预测市场结合代币化资产将创造金融"炼金术"； 
-5.新加坡拟推迟落实巴塞尔加密资产资本金新规至2027年； 
-6.美国政府停摆期间，SEC为陷入停滞的IPO公司提供缓解措施； 
-7.美联储戴利：劳动力市场疲软和通胀放缓 证明美联储降息合理； 
-8.Variant首席法务官：参议院民主党人正试图扼杀市场结构法案。
-- [隐私板块大涨 Railgun、Dash、ZEC等代币24小时涨幅超30％]() - 📰 null - 【隐私板块大涨 Railgun、Dash、ZEC等代币24小时涨幅超30％】金色财经报道，行情数据显示，隐私板块多个代币大涨，隐私币总市值24小时涨幅12.8%，突破126亿。其中： 
-Zcash（ZEC）24小时涨幅37.4%； 
-Dash（DASH）24小时涨幅37.0%； 
-Railgun（RAIL）24小时涨幅75.9%；  
-Verge（XVG）24小时涨幅19.0%。
-- [Vitalik：预测市场进步显著，Polymarket是关键推动力](https://x.com/VitalikButerin/status/1976490241704984717) - 📰 null - 【Vitalik：预测市场进步显著，Polymarket是关键推动力】金色财经报道，Vitalik Buterin表示，预测市场自2015年以来显著进步，Polymarket是实现这一目标的关键推动力。Vitalik称“很高兴看到Polymarket这些年来的进步”。 
-本周早些时候，Polymarket以90亿美元投后估值获纽交所母公司20亿美元战略投资。
-- [数据：Sui TVL达26亿美元，较一个月前增长37%](https://thedefiant.io/news/blockchains/sui-tvl-hits-record-usd2-6-billion-amid-defi-growth) - 📰 null - 【数据：Sui TVL达26亿美元，较一个月前增长37%】金色财经报道，Sui TVL达到26亿美元，较一个月前增长37%，较一年前增长160%，当时TVL约为10亿美元。 
-Suilend是Sui上最大的协议，TVL为7.45亿美元，较上月增长11%。Navi以7.23亿美元位居第二，月增长14%。Momentum排名第三，TVL为5.51亿美元，同期增长249%。 
-Sui近期的DEX交易量超过1560亿美元，按24小时交易量计算，它是第六大区块链。
-- [Binance：若代币存在疑似操纵币价或恶意刷分行为将取消Alpha积分资格](https://x.com/binancezh/status/1976485910054314441) - 📰 null - 【Binance：若代币存在疑似操纵币价或恶意刷分行为将取消Alpha积分资格】金色财经报道，据官方消息，Binance 表示，为保障用户权益，如发现代币存在疑似操纵币价或恶意刷分行为，将直接取消其相关 Alpha 积分资格，不另行公告，并保留采取进一步措施的权利。
-- [麻吉大哥将XPL 5倍多单加到 250 万枚](https://x.com/ai_9684xtpa/status/1976485265817632988) - 📰 null - 【麻吉大哥将XPL 5倍多单加到 250 万枚】金色财经报道，据链上分析师@ai_9684xtpa监测，麻吉大哥将XPL 5x 多单加到 250 万枚（183 万美元），ASTER 3x 多单目前开出 50 万枚（79.5 万美元）。
+- [Kalshi以50亿美元估值完成3亿美元融资](https://x.com/AggrNews/status/1976623568843657351) - 📰 null - 【Kalshi以50亿美元估值完成3亿美元融资】金色财经报道，据纽约时报报道，Kalshi 以 50 亿美元估值完成 3 亿美元融资。
+- [Cango：本周挖矿产出135.6枚BTC，比特币总持有量达到5985.4枚]() - 📰 null - 【Cango：本周挖矿产出135.6枚BTC，比特币总持有量达到5985.4枚】金色财经报道，Cango在X平台发文表示，本周挖矿产出135.6枚BTC，比特币总持有量达到5985.4枚。
+- [Prestige Wealth 完成约 1.5 亿美元融资以启动纳斯达克首个 XAUT 财库](https://www.globenewswire.com/news-release/2025/10/10/3164827/0/en/Prestige-Wealth-Inc-NASDAQ-PWM-Signs-and-Closes-Approx-150-Million-Financing-for-Aurelion-Treasury-Initiating-NASDAQ-s-First-Tether-Gold-Treasury-Prestige-Wealth-Inc-NASDAQ-PWM-Pla.html) - 📰 null - 【Prestige Wealth 完成约 1.5 亿美元融资以启动纳斯达克首个 XAUT 财库】金色财经报道，Prestige Wealth Inc.（纳斯达克股票代码：PWM；AURE）宣布，其已参与并完成了一系列协同交易，以启动纳斯达克首个 Tether Gold（XAUT）财库。这些交易包括来自 Antalpha Platform Holding Company 约 1 亿美元的私募股权投资（PIPE）融资，以及其他经认可的投资者，包括 Tether 和 Kiara Capital，以及一项为期三年、金额达 5000 万美元的优先债务融资。该公司打算将大部分净收益用于购买 Tether Gold（XAUT）作为资金储备资产。在获得相关批准后，该公司预计将更名为“Aurelion Inc.”，并自 2025 年 10 月 13 日起，以新股票代码（AURE）进行交易。
+- [币安：持有至少 200 个币安 Alpha 积分可申领新一期空投](https://x.com/binancezh/status/1976618488048562675) - 📰 null - 【币安：持有至少 200 个币安 Alpha 积分可申领新一期空投】金色财经报道，币安官方宣布将于今日 21:00（UTC+8）开始 Alpha 空投活动。持有至少 200 个币安 Alpha 积分的用户可申领代币空投，采取先到先得原则，直至空投池领取完毕或活动结束。具体空投币种信息尚未公布。
+- [俄罗斯央行已决定允许银行开展加密货币业务](https://www.cryptopolitan.com/russia-to-allow-banks-to-work-with-cryptocurrencies/) - 📰 null - 【俄罗斯央行已决定允许银行开展加密货币业务】10月10日消息，据Cryptopolitan报道，俄罗斯央行（CBR）第一副行长Vladimir Chistyukhin在Finopolis论坛上透露，俄罗斯央行已决定允许银行开展加密货币业务，但将引入严格的资本限额和准备金要求。 
+Chistyukhin还指出，俄罗斯央行希望明年通过一项全面规范加密货币投资的法律。这将使当局能够实施许可机制，其认为，首批获得许可的服务提供商可在当年年底前进入市场。Chistyukhin呼吁迅速批准适当的加密货币立法的提议得到了其上级、俄罗斯央行行长Elvira Nabiullina的支持。
+- [沃勒：对即将召开的会议上的25个基点降息持开放态度]() - 📰 null - 【沃勒：对即将召开的会议上的25个基点降息持开放态度】金色财经报道，美联储理事沃勒表示，美联储需要降息，但在实施时需保持谨慎。对即将召开的会议上的25个基点降息持开放态度。
+- [美联储理事沃勒：CPI数据将对即将召开的会议大有帮助]() - 📰 null - 【美联储理事沃勒：CPI数据将对即将召开的会议大有帮助】金色财经报道，美联储理事沃勒表示，目前各项数据都在传递同一个信号，即劳动力市场表现不佳；CPI数据将对即将召开的会议大有帮助。
+- [Polymarket提前11个小时押对诺贝尔和平奖得主](https://polymarket.com/event/nobel-peace-prize-winner-2025?tid=1760095936831) - 📰 null - 【Polymarket提前11个小时押对诺贝尔和平奖得主】金色财经报道，诺贝尔奖委员会10日宣布María Corina Machado获得诺贝尔和平奖。有交易员在诺贝尔奖委员会宣布正式获奖者11个小时前在Polymarket押注María Corina Machado，María Corina Machado获奖几率迅速从约4%上升至超过70%。Polymarket数据还显示，交易员对押注“谁获得2025年诺贝尔和平奖”的交易额达到2122万美元。
+- [某巨鲸/机构花费 3932.8 万美元购买 323.5 枚 BTC](https://x.com/EmberCN/status/1976610517176463819) - 📰 null - 【某巨鲸/机构花费 3932.8 万美元购买 323.5 枚 BTC】金色财经报道，据链上分析师余烬监测，某巨鲸/机构花费 3932.8 万 USDC 购买了 323.5 枚 BTC，均价 121,570 美元。该主体通过四个钱包将 3932.8 万 USDC 转入 Hyperliquid，购买 BTC 后提回至 BTC 链上。
+- [美国加密货币市场立法法案谈判因民主党DeFi提案泄露而陷入僵局](https://www.cryptoinamerica.com/p/crypto-market-structure-talks-stall) - 📰 null - 【美国加密货币市场立法法案谈判因民主党DeFi提案泄露而陷入僵局】金色财经报道，据Crypto In America报道，在民主党向共和党同行提交了一份新的 DeFi 监管提案并引发行业强烈反对后，参议院共和党人和民主党人之间关于加密货币市场结构立法法案的谈判陷入僵局。 
+周三晚间，民主党工作人员向参议院银行委员会的共和党工作人员发送了一份名为“防止通过去中心化金融平台进行非法融资和监管套利”的文件，其中列出了一些关于如何监管​​ DeFi 的建议。该文件很快被泄露给了业界，几个小时内，加密货币社区成员就开始疯狂地互相打电话，并致电共和党办公室，询问他们所读的内容是否属实。 
+该文件中的内容制定了监管 DeFi 的宽​​泛规则，将任何设计、部署、运营或从前端界面（网站）获利的人都归类为中介。业界称其范围过于宽泛，与 DeFi 的理念脱节，并可能扼杀美国的去中心化生态系统，迫使软件开发商转向海外，并将用户引流到中心化平台。 
+包括 Variant Fund 的 Jake Chervinsky 在内的批评人士表示，该提案赋予政府监管机构不受约束的权力，触及了《第一修正案》和《第四修正案》的问题，并可能引发无休止的诉讼浪潮。此外，该提案与上个月发布的共和党草案形成了鲜明对比。共和党草案包含保护自主保管权和软件开发者的条款，并赢得了 DeFi 社区的广泛支持。 
+双方互相指责，目前尚不清楚谁会先妥协：是民主党人同意设定标记日期，还是共和党人会重返谈判桌。僵局拖得越久，法案提交到特朗普总统的案头就越有可能拖延到2026年，届时国会将不可避免地把注意力转向中期选举，而加密货币政策则被搁置一旁。而且，法案还有一半内容尚未完成。
+- [机构：交易员押注美国政府停摆将拖至10月底]() - 📰 null - 【机构：交易员押注美国政府停摆将拖至10月底】金色财经报道，在Polymarket以及其他预测市场上，交易员越来越多地认为，美国政府的关门将持续到10月底或更长时间。根据Polymarket上交易价格的隐含概率，目前美国政府停摆持续30天以上的可能性为37%，高于10月1日停摆开始时的15%。美国历史上最长的一次政府关门发生在特朗普第一任期内，从2018年12月至2019年1月，持续了34天。另一预测平台Kalshi上，政府停摆持续30天以上的可能性目前则为39%，该平台交易员平均预期这次政府关门将持续24.7天。
+- [CNBC：美联储主席最终候选人可能在1月份之前被提名为美联储理事]() - 📰 null - 【CNBC：美联储主席最终候选人可能在1月份之前被提名为美联储理事】金色财经报道，CNBC：美联储主席最终候选人可能在1月份之前被提名为美联储理事。
+- [Hyperliquid上线MET永续合约](https://x.com/HyperliquidX/status/1976603377632149511) - 📰 null - 【Hyperliquid上线MET永续合约】金色财经报道，据官方公告，Hyperliquid上线MET永续合约，最高支持3倍杠杆。
+- [特朗普的美联储主席候选人名单已缩减至五人]() - 📰 null - 【特朗普的美联储主席候选人名单已缩减至五人】金色财经报道，据CNBC：特朗普的美联储主席候选人名单已缩减至五人。鲍曼、沃勒、哈塞特、沃什、Rick Rieder入围最终五强。
+- [Binance钱包推出Prime Sale预售代币发行（Pre-TGE） 首个项目21:30公布](https://x.com/binance/status/1976604576858984792?t=UN4H4Mk3C0PVVlf2_bC11g&s=09) - 📰 null - 【Binance钱包推出Prime Sale预售代币发行（Pre-TGE） 首个项目21:30公布】金色财经报道，据官方公告，Binance钱包推出Prime Sale预售代币发行（Pre-TGE）。与其他Pre-TGE相比，这一新模式旨在让用户提前接触产品相对更加成熟的项目。这些项目通常在代币生成事件（TGE）之前对大多数用户来说都比较难接触。 
+Prime Sale预售代币发行（Pre-TGE）在币安钱包Pre-TGE体验的基础上给更多用户提供了接触到该类项目的代币生成事件（TGE）的机会。首个采用Prime Sale预售代币发行（Pre-TGE）模式的项目预计将于2025年10月10日21:30（东八区时间）在Binance钱包X官方账户上公布。
+- [CZ：Hyperliquid 创始人曾是Binance Labs 孵化项目的成员，但 YZiLabs 未对 HL 进行任何投资](https://x.com/cz_binance/status/1976601829099119010) - 📰 null - 【CZ：Hyperliquid 创始人曾是Binance Labs 孵化项目的成员，但 YZiLabs 未对 HL 进行任何投资】金色财经报道，针对近期关于其与 Hyperliquid 创始人 Jeff 关系的传言，CZ 发文澄清相关情况。 
+CZ 表示，Jeff 曾是 2018 年 Binance Labs（当前名为 YZiLabs）第一期孵化项目的成员，但该项目最终失败，币安实验室未能收回任何投资。CZ 称当时与 Jeff 互动不多，直到今年早些时候才从 Ella 处得知此事。 
+CZ 进一步澄清，据其了解，币安实验室并未获得也不持有 Hyperliquid 的任何投资（股权或代币）。此前 CZ 曾计划与 Jeff 通话，但因日程安排错误错过了会议，之后也未能重新安排。CZ 最后表示，无论如何都支持所有建设者。
+- [Binance将赠予「币安人生」征文活动IDEA贡献者陈剑100枚BNB]() - 📰 null - 【Binance将赠予「币安人生」征文活动IDEA贡献者陈剑100枚BNB】10月10日消息，Binance客服sisi表示，官方将赠予「币安人生」征文活动的IDEA贡献者陈剑Jason100枚BNB。
+- [Four.meme：平台已恢复正常，此前导致宕机的问题均已全面解决](https://x.com/four_meme_/status/1976596559002501267) - 📰 null - 【Four.meme：平台已恢复正常，此前导致宕机的问题均已全面解决】金色财经报道，Four.meme官方表示，该平台已再次上线恢复正常，早前流量激增导致的所有数据访问问题均已全面解决。团队已经完成了紧急修复和优化，以确保未来的性能更加顺畅。
+- [Vitalik将630万枚STRK转移至Methuselah Foundation关联地址](https://x.com/ai_9684xtpa/status/1976594601487257988) - 📰 null - 【Vitalik将630万枚STRK转移至Methuselah Foundation关联地址】金色财经报道，据链上分析师@ai_9684xtpa监测，Vitalik此前收到的630万枚STRK（约109万美元）已转移至Methuselah Foundation关联地址，这是一个致力于延长人类寿命的非营利性志愿者组织。
+- [BIT Mining Limited 宣布更名及股票代码](https://www.prnewswire.com/news-releases/bit-mining-limited-announces-name-and-ticker-change-302580660.html) - 📰 null - 【BIT Mining Limited 宣布更名及股票代码】金色财经报道，加密货币基础设施公司 BIT Mining Limited (NYSE: BTCM)（“BIT Mining”或“公司”）今日宣布，公司名称更改为“SOLAI Limited”，股票代码更改为“SLAI”。 
+公司美国存托股票（“ADS”），每股代表100股A类普通股，面值0.00005美元，目前在纽约证券交易所上市，股票代码为“BTCM”。该公司的美国存托股票预计将于 2025 年 10 月 20 日星期一开市时以公司新的英文名称“SOLAI Limited”和新的股票代码“SLAI”开始交易。
