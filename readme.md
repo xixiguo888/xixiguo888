@@ -1,32 +1,32 @@
-- [40%的ETH处于非流通状态，ETH价格或将"核爆式"上涨](https://cointelegraph.com/news/ether-set-to-go-nuclear-with-3-active-supply-vacuums-analyst) - 📰 null - 【40%的ETH处于非流通状态，ETH价格或将"核爆式"上涨】据Cointelegraph报道，分析师Crypto Gucci表示，以太坊正经历史无前例的供应压力，40%的ETH已退出流通，在机构需求创纪录的背景下，价格预计将持续上涨。 
-该分析师指出，以太坊从未在一个市场周期中同时经历三个"供应真空"：首先，数字资产财库（DATs）已累积590万枚ETH，价值约240亿美元，占总供应量的4.9%；其次，美国现货以太坊交易所交易基金已购入684万枚ETH，价值280亿美元，占总供应量5.6%；最后，目前有3570万枚ETH处于质押状态，价值约1460亿美元，占总供应量近30%，由于退出队列长达40天，大部分资金缺乏流动性。 
-Crypto Gucci表示："当需求遇到如此收缩的供应时，价格不仅会上涨，还会呈现核爆式增长。"企业家TedPillows预测本轮周期ETH公允价值为8000-10000美元。
-- [Farcaster：共有超2000名活跃用户获得Monad空投]() - 📰 null - 【Farcaster：共有超2000名活跃用户获得Monad空投】金色财经报道，Farcaster宣布超过2000名活跃的Farcaster用户有资格获得Monad空投，其已向符合条件的用户发送了推送通知。
-- [Gemini调查：24%英国受访者持有加密资产，52%计划明年购买加密资产](https://www.crowdfundinsider.com/2025/10/254544-majority-of-uk-traders-are-likely-to-invest-in-digital-assets-in-the-next-year-report-claims/) - 📰 null - 【Gemini调查：24%英国受访者持有加密资产，52%计划明年购买加密资产】金色财经报道，据Gemini最新《加密货币现状报告》显示，英国24%的受访者目前持有加密资产，较2024年的18%显著增长。52%的英国受访者表示可能在明年购买加密货币，高于全球平均水平47%。 
-在产品需求方面，48%的英国加密货币持有者表示愿意投资加密货币永续期货，尽管英国法规目前仅允许专业交易者使用此类产品。51%的英国加密货币持有者了解交易所交易基金（ETF），为欧洲受访国家中最高。 
-此外，38%的英国非持有者表示监管担忧阻碍了他们购买加密货币，39%的持有者认为更全面的政府监管对该行业有积极作用。
-- [Web3游戏工作室Mythical Games宣布获得WLD财库公司Eightco Holdings战略投资](https://x.com/playmythical/status/1978231885571764544) - 📰 null - 【Web3游戏工作室Mythical Games宣布获得WLD财库公司Eightco Holdings战略投资】10月15日消息，Web3游戏工作室Mythical Games宣布获得WLD财库公司Eightco Holdings战略投资。公告称，此次合作将加速公司打造世界级娱乐生态系统的使命，并在后AGI时代将经过验证的人类身份带入游戏领域。 
-Mythical Games成立于2018年，累计获得2.81亿美元融资，参投机构包括a16z、Scytale Digital、WestCap以及YZi Labs。
-- [数据：Tether自5月以来发行超6亿美元黄金支持代币XAUT](https://x.com/emmettgallic/status/1978330993036546203) - 📰 null - 【数据：Tether自5月以来发行超6亿美元黄金支持代币XAUT】金色财经报道，据加密分析师Emmett Gallic监测，Tether自5月以来已发行超过6亿美元的黄金支持代币XAUT。
-- [香港持牌资产管理公司天图投资完成发行2亿元人民币公司债券](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/1014/2025101400602_c.pdf) - 📰 null - 【香港持牌资产管理公司天图投资完成发行2亿元人民币公司债券】金色财经报道，据港交所公告，香港持牌资产管理公司天图投资宣布已完成发行2025年面向专业投资者非公开发行公司债券(第一期)。总规模为2亿元人民币。 
-此前消息，天图投资今年八月宣布计划与HashKeyCapital联合设立虚拟资产投资基金，并探索更多合作形式。
-- [LD Capital创始人：降息预期未激发强反弹，市场短期风险仍然存在]() - 📰 null - 【LD Capital创始人：降息预期未激发强反弹，市场短期风险仍然存在】金色财经报道，LD Capital创始人JackYi在社交媒体上发文表示，依旧长期看好，短期风险并存，昨晚降息预期出来后，市场并没有强烈反弹，短期高杠杆多空都不合适，继续等待明朗后的大机会吧。希望经过这次极端洗礼，平台应该肩负更大的责任，采取更多举措平衡和保护用户，市场是残酷的，并没有那么多阴谋，提升认知和做好风控是你最好的核心竞争力。
-- [Solv Protocol向币安存入500枚BTC，价值5600万美元](https://x.com/lookonchain/status/1978330401304387929) - 📰 null - 【Solv Protocol向币安存入500枚BTC，价值5600万美元】金色财经报道，据Lookonchain监测，Solv Protocol大约30分钟前向币安存入了500枚BTC（价值5600万美元）
-- [何一回应“币安7日内外流217.5亿美元”：系统计逻辑导致，非真实资金流出](https://x.com/heyibinance/status/1978328183494652393) - 📰 null - 【何一回应“币安7日内外流217.5亿美元”：系统计逻辑导致，非真实资金流出】金色财经报道，何一回应“币安7日内外流217.5亿美元”的消息称，已向该数据平台了解统计逻辑，其指标为“7日前代币价格与今日代币价格”的浮盈浮亏差额，而非真实资金流动，因此所有平台显示结果均为“流出”。 
-此前消息，CoinGlass数据显示，过去一周中心化交易所出现大规模资产外流，其中币安外流金额最大，达217.5亿美元。
-- [Star：OKX已对Huione集团交易实施严格管控，或冻结资金/终止相关账户](https://x.com/star_okx/status/1978322846976729571) - 📰 null - 【Star：OKX已对Huione集团交易实施严格管控，或冻结资金/终止相关账户】金色财经报道，OKX CEO Star在X平台发文表示，Huione 集团（汇旺集团）在加密资产领域造成了严重的不良影响。鉴于其潜在风险，OKX已针对涉及该集团的交易实施严格的管控措施。凡与Huione相关的加密资产充值或提现交易，均将接受合规调查。根据调查结果，平台可能采取冻结资金或终止账户服务等措施。 
-据悉，美国财政部海外资产控制办公室（OFAC）与金融犯罪执法网络（FinCEN）今日联合英国外交发展部（FCDO），共同制裁了“Prince Group TCO”及其146名关联人员；与此同时，Huione Group被美国依据《爱国者法案》第311条款列入特别指定名单。此外，美国司法部（DOJ）还查获了创纪录的150亿美元比特币，这些资金与东南亚地区的大规模加密诈骗活动有关。
-- [Matrixport：稳定币激增，加密市场仍具较强韧性](https://x.com/Matrixport_CN/status/1978325381259366414) - 📰 null - 【Matrixport：稳定币激增，加密市场仍具较强韧性】金色财经报道，Matrixport发布每日图表分析称，近期市场波动有所加剧，但稳定币资金仍持续流入，反映出市场仍具较强的韧性。自年初以来，Tether新增发行约420亿美元，Circle则增发约320亿美元，合计约740亿美元的资金正不断为加密生态注入动能。 
-与美国财政部长 Bessent所预测的未来了万亿美元规模相比，目前水平虽仍偏低，但已充分体现出数字资产领域正在加速成熟与发展。 
-随着去美元化趋势的加速，市场对稳定币的需求进一步上升。稳定币既是资金进入高收益资产的重要渠道，也是对冲法币贬值风险的关键工具。总体来看，流动性仍在持续流入加密市场，只是路径变得更为成熟、多元。
-- [Forward Industries于15小时前向Coinbase Prime存入993,058枚SOL，价值1.92亿美元]() - 📰 null - 【Forward Industries于15小时前向Coinbase Prime存入993,058枚SOL，价值1.92亿美元】金色财经报道，据Lookonchain监测，Forward Industries此前曾以232美元均价购入682万枚SOL（价值13.8亿美元），其于15小时前向Coinbase Prime存入了993,058枚SOL（价值1.92亿美元）。其中25万枚SOL（价值5000万美元）已转入Galaxy Digital。
-- [Upbit上线Yield Guild Games(YGG)并支持KRW、USDT交易]() - 📰 null - 【Upbit上线Yield Guild Games(YGG)并支持KRW、USDT交易】金色财经报道，据官方消息，Upbit将于2025年10月15日14:30上线Yield Guild Games(YGG)的KRW和USDT交易。用户请注意，入金时需确认网络为YGG-Ethereum。
-- [Meteora：今晚21时召开社区会议，公布代币TGE信息](https://x.com/MeteoraAG/status/1978323061192462670) - 📰 null - 【Meteora：今晚21时召开社区会议，公布代币TGE信息】10月15日消息，Solana生态流动性协议Meteora公告称，将于今晚21时召开特别社区会议，会议议程包括：METTGE网站揭晓、空投检查器更新、（代币）起始价格范围详情等信息。
-- [资深交易员：比特币或将下周冲击历史高点，但在此之前将迎重大回调](https://cointelegraph.com/news/bitcoin-price-shakeout-all-time-highs-near-crypto-analyst) - 📰 null - 【资深交易员：比特币或将下周冲击历史高点，但在此之前将迎重大回调】10月15日消息，著名交易员和图表分析师Peter Brandt表示，比特币可能在下周重拾其历史高点125,100美元，但在此之前还将经历一次重大回调。同时他也不排除市场出现更加悲观的走势。“或许会跌破抛物线支撑，过去每次发生这种情况，价格都会下跌75%。我认为下跌80%的时代已经结束，但或许会回到5万到6万美元。”
-- [CryptoQuant创始人：目前比特币期货交易者以散户为主](https://x.com/ki_young_ju/status/1978318270529777931) - 📰 null - 【CryptoQuant创始人：目前比特币期货交易者以散户为主】金色财经报道，CryptoQuant创始人兼首席执行官KiYoungJu在X平台发文表示，目前比特币期货交易者以散户为主。平均订单规模已从今年早些时候的6000美元降至2000美元。
-- [开源AI提供商Inference完成1180万美元种子轮融资，Multicoin Capital和a16z CSX领投](https://inference.net/blog/seed-round) - 📰 null - 【开源AI提供商Inference完成1180万美元种子轮融资，Multicoin Capital和a16z CSX领投】金色财经报道，开源AI提供商Inference完成1180万美元种子轮融资，Multicoin Capital和a16z CSX领投，Topology Ventures、Founders,Inc.和天使投资人参投。该笔融资将把其研发工作扩展到模型和基础设施性能新领域，同时增强其为更多公司提供服务的能力。 
-Inference.net使企业能够训练和部署定制的AI模型，为全球AI原生公司训练并部署了定制语言模型。
-- [Uniswap创始人：DEX与AMM已实现免费上币与流动性支持，CEX高额上币费仅为营销手段](https://x.com/haydenzadams/status/1978311705433190721) - 📰 null - 【Uniswap创始人：DEX与AMM已实现免费上币与流动性支持，CEX高额上币费仅为营销手段】金色财经报道，Uniswap创始人Hayden Adams表示，”去中心化交易所（DEX）与自动化做市商（AMM）已实现为任意资产提供免费上币、交易及流动性支持的功能，若某项目愿意支付高额上币费，其目的在于营销推广，而非为了满足市场结构层面的需求。我们为能在实现这一目标的过程中发挥作用而感到自豪。“
-- [Arthur Hayes评鲍威尔讲话：量化紧缩结束，买入](https://x.com/CryptoHayes/status/1978215488229695874) - 📰 null - 【Arthur Hayes评鲍威尔讲话：量化紧缩结束，买入】金色财经报道，美联储主席鲍威尔昨晚表示，未来几个月资产负债表缩减或接近尾声。Arthur Hayes针对昨晚鲍威尔鸽派讲话发表评论称，量化紧缩结束，买入一切。 
-对此，TomLee回复评论，赞同这一观点。美联储主席鲍威尔昨晚表示，未来几个月资产负债表缩减或接近尾声。
-- [OpenAI制定五年商业计划，以实现1万亿美元支出承诺]() - 📰 null - 【OpenAI制定五年商业计划，以实现1万亿美元支出承诺】金色财经报道，据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。(金十)
+- [美国财长贝森特：人工智能热潮刚刚开始]() - 📰 null - 【美国财长贝森特：人工智能热潮刚刚开始】金色财经报道，美国财长贝森特表示，唯一拖累美国经济的因素是政府停摆，一些数据显示政府停摆每天给经济造成150亿美元的损失。美国投资热潮可持续，才刚刚起步；存在被压抑的需求，美国正敞开商业大门，人工智能热潮刚刚开始。
+- [LuBian 标记地址再次转移 2129 枚 BTC 至新地址，价值 2.386 亿美元]() - 📰 null - 【LuBian 标记地址再次转移 2129 枚 BTC 至新地址，价值 2.386 亿美元】金色财经报道，据 PeckShield 监测，LuBian 标记地址再次转移 2,129 枚 BTC 到一个新地址，价值 2.386 亿美元。
+- [纳指期货上涨 1%]() - 📰 null - 【纳指期货上涨 1%】金色财经报道，纳指期货上涨 1%。
+- [韩国上市公司 Parataxis 披露比特币持仓已超 150 枚]() - 📰 null - 【韩国上市公司 Parataxis 披露比特币持仓已超 150 枚】10月15日消息，韩国上市公司 Parataxis Holdings 宣布在市场回调期间增持了比特币，目前该公司的比特币持仓已超 150 枚。此外，该公司计划收购 1,150 台 ASIC 矿机并将建立一个垂直整合的 BTC 收益平台。
+- [OKX 已正式上线 YB 奖金活动，总奖池高达75万枚 YB 代币](https://www.okx.com/zh-hans/campaigns/yb-trading-competition%EF%BC%9Fpagesourcefrom=medianews) - 📰 null - 【OKX 已正式上线 YB 奖金活动，总奖池高达75万枚 YB 代币】10月15日消息，OKX 已正式上线 YB (YieldBasis) 奖金活动，总奖池高达 750,000 枚 YB 代币。在2025 年 10 月 15 日 19:00 至 11 月 5 日 8:00 (UTC+8)期间，用户只需向 OKX 账户充值并交易 YB，或者通过参与交易赛、邀请好友、现货网格交易等多种玩法获得奖励。活动面向新老用户开放。 
+据悉，本次活动共设四种参与方式，玩法灵活。新用户可以点击“立即参与”并完成指定任务，即可获得 10 枚 YB；邀请好友参与活动，每成功邀请一位新用户并完成任务，可再获 10 枚 YB。同时，交易用户可根据 BTC、ETH、SOL、YB 的总交易量排名获取奖励。此外，参与策略交易中的现货网格模式，充值不少于 100 USDT 等值代币并持有至少三天的用户可共同瓜分YB 奖池。
+- [Zeta Network达成以比特币支付的约2.3亿美元证券购买协议](https://www.prnewswire.com/in/news-releases/zeta-network-group-nasdaq-znb-strengthens-balance-sheet-with-usd-231-million-bitcoin-backed-investment-amid-market-turbulence-302584722.html) - 📰 null - 【Zeta Network达成以比特币支付的约2.3亿美元证券购买协议】金色财经报道，纳斯达克上市公司Zeta Network宣布已达成一项证券购买协议，通过出售A类普通股和认股权证募资230,837,060.2美元，这笔资金将以比特币或封装BTC代币SolvBTC形式支付，此次交易预计将于2025年10月16日完成，但需满足惯例成交条件，所得比特币将被纳入该公司资产负债表。
+- [Remixpoint增持2.85枚比特币，总持仓升至1,381.83枚](https://x.com/BTCtreasuries/status/1978424045650559455) - 📰 null - 【Remixpoint增持2.85枚比特币，总持仓升至1,381.83枚】金色财经报道，据市场消息：日本上市公司 Remixpoint 披露增持 2.85枚比特币，目前持有总量为 1,381.83 枚。
+- [贝莱德和英伟达斥资 400 亿美元收购数据中心]() - 📰 null - 【贝莱德和英伟达斥资 400 亿美元收购数据中心】金色财经报道，据英国金融时报，由贝莱德、英伟达、xAI、Microsoft等组成的财团宣布以约400亿美元收购美国数据中心巨头Aligned Data Centers，此举旨在满足全球AI算力快速增长的需求。财团还包括GIP、MGX、Temasek和科威特投资局，计划将Aligned在美洲的50个园区数量翻倍，并通过AIInfrastructure Partnership调动高达1000亿美元的资金池用于进一步收购与建设。
+- [贝莱德比特币 ETF 在今年所有 ETF 的流入量中排名第五](https://x.com/BitcoinNewsCom/status/1978420885707972898) - 📰 null - 【贝莱德比特币 ETF 在今年所有 ETF 的流入量中排名第五】金色财经报道，据Bitcoin News报道，2025 年 ETF 市场的总流入量刚刚达到 1 万亿美元。贝莱德的比特币 ETF 在今年所有 ETF 的流入量中排名第五。
+- [ETH跌破4100美元]() - 📰 null - 【ETH跌破4100美元】金色财经报道，行情显示，ETH跌破4100美元，现报4097.72美元，24小时涨幅达到3.22%，行情波动较大，请做好风险控制。
+- [Curve及Balancer 官宣与 X Layer 合作](https://x.com/okxchinese/status/1978392905976021383) - 📰 null - 【Curve及Balancer 官宣与 X Layer 合作】据官方消息，DeFi协议Curve宣布已在OKX 的高性能 Layer 2 网络X Layer部署，DeFi自动化做市协议Balancer也宣布即将于X Layer部署。随着顶级DeFi协议先后官宣与X Layer合作，全球用户能够X Layer内无缝体验各种DeFi玩法，并赚取收益。 
+据悉，Curve Finance是一种去中心化交易所，针对稳定币或类似资产（如wBTC/renBTC）之间的低滑点交易进行了优化。该协议采用了一个自动做市商，专门为DeFi用户提供低滑点交易和位流动性提供商稳定的费用收入。Balancer 是一种 DeFi 自动化做市协议，使用新颖的自平衡加权池。该协议允许任何人在池中创建具有预定义权重的资产池。 X Layer 专为高强度 DeFi 场景设计，具备约 5,000 TPS 的交易处理能力和接近零成本的优势，致力于打造“新金融链（The New Money Chain）”。通过与 Aave 的合作，X Layer 将进一步扩展生态流动性和资产效用，加速开发者构建金融原语与集成应用的可能性。
+- [MGBX将于10月18日上线COIN（CoinSwap）现货交易]() - 📰 null - 【MGBX将于10月18日上线COIN（CoinSwap）现货交易】10月15日，据官方消息，MGBX 将于 2025 年 10 月 18 日 20:18（SGT） 上线 COIN（CoinSwap）现货交易 
+充值开放时间：2025 年 10 月 17 日 20:00 （SGT） 
+交易开放时间：2025 年 10 月 18 日 20:18 （SGT） 
+提现开放时间：2025 年 10 月 19 日 20:00（SGT） 
+CoinSwap 致力于为全球用户提供安全、高效、多维度的 DeFi 一站式平台，集成多种创新金融工具与服务，推动去中心化生态的可持续发展。 
+如有疑问，请联系 MGBX 团队。
+- [美债收益率下滑，市场预期美联储将继续降息]() - 📰 null - 【美债收益率下滑，市场预期美联储将继续降息】金色财经报道，美债周三小幅走高，因市场预期美联储将继续降息，同时投资者买入避险资产。10 年期美债收益率若跌破 4% 下方，将创下自 4 月初以来最低水平；2 年期美债收益率接近三年前的水平。美联储主席鲍威尔表示，受经济疲软迹象影响，美联储本月可能再次降息。他还暗示，美联储可能很快结束资产负债表缩减操作，这也提振了美债走势。
+- [MGBX将于19:30（SGT）上线YB（YieldBasis）、LAB（LAB）现货交易]() - 📰 null - 【MGBX将于19:30（SGT）上线YB（YieldBasis）、LAB（LAB）现货交易】10月15日，据官方消息，MGBX 将于 2025 年 10 月 15 日  19:30 （SGT） 上线 YB（Yield Basis）、LAB（LAB）现货交易 
+ 充值开放时间：2025 年 10 月 15 日 18:00  （SGT）  
+ 交易开放时间：2025 年 10 月 15 日 19:30  （SGT）   
+提现开放时间：2025 年 10 月 18 日 19:00 （SGT）   
+如有疑问，请联系 MGBX 团队。
+- [币安上线Yield Basis(YB)及相关功能]() - 📰 null - 【币安上线Yield Basis(YB)及相关功能】10月15日消息，币安将于2025年10月15日19:00上线Yield Basis(YB)的保本赚币活期产品，并开放申购。同时，YB将在一键买币、闪兑交易平台、杠杆及合约交易中上线。用户可通过一键买币使用信用卡等方式购买YB，闪兑交易平台支持YB兑换BTC、USDT等代币，杠杆交易将新增YB可借资产及相关交易对，YBU本位永续合约也将于同日上线。
+- [Nano Labs 批准最高2,500万美元的股份回购计划](https://www.globenewswire.com/news-release/2025/10/15/3166882/0/en/Nano-Labs-Ltd-Announces-up-to-US-25-0-Million-Share-Repurchase-Program.html) - 📰 null - 【Nano Labs 批准最高2,500万美元的股份回购计划】金色财经报道，Nano Labs 董事会正式批准最高达2,500万美元的股份回购计划，计划将在未来12个月内分阶段实施。
+- [Cango Inc.终止ADR计划并直接在纽约证券交易所上市A类普通股](https://www.prnewswire.com/news-releases/cango-inc-to-terminate-adr-program-and-list-class-a-ordinary-shares-directly-on-nyse-302584507.html) - 📰 null - 【Cango Inc.终止ADR计划并直接在纽约证券交易所上市A类普通股】金色财经报道，Cango Inc.公司董事会已确定，终止ADR计划并直接上市A类普通股符合公司及其股东的最佳利益。此外，A类普通股在纽交所直接上市将允许美国投资者直接行使公司股东权利，而无需通过存托机构间接行使，并将免除ADS持有人承担的存托费用。 
+公司已指示存托机构于2025年10月15日向美国存托凭证持有人发出终止通知，该通知将提供有关终止美国存托凭证计划的更多信息。
+- [币安合约调整 COAIUSDT U本位永续合约杠杆及保证金阶梯]() - 📰 null - 【币安合约调整 COAIUSDT U本位永续合约杠杆及保证金阶梯】金色财经报道，币安合约将于 2025 年 10 月 16 日 14:30 和 20:30 更新 COAIUSDT U 本位永续合约的杠杆及保证金阶梯。此次调整将影响用户当前仓位，建议用户在变更前及时进行相应调整。
+- [做市商 Amber 在 3 小时前从项目方地址收到 825 万枚 YB 并陆续充入交易所](https://x.com/EmberCN/status/1978399813738881213) - 📰 null - 【做市商 Amber 在 3 小时前从项目方地址收到 825 万枚 YB 并陆续充入交易所】金色财经报道，据余烬监测，即将上线的项目 Yieldbasis 的做市商为 Amber group。Amber 在 3 小时前从项目方地址收到 825 万枚 YB，随后已陆续将代币充入多家交易所。
+- [Galaxy Digital向币安转入25万枚SOL，价值约5169万美元](https://x.com/lookonchain/status/1978399422867554681) - 📰 null - 【Galaxy Digital向币安转入25万枚SOL，价值约5169万美元】金色财经报道，据链上分析平台 Lookonchain 监测，Galaxy Digital 刚刚向币安转入了 25 万枚 SOL，价值约 5169 万美元。或为 Forward Industries 即将亏本出售他们一个月前购买的 SOL。
