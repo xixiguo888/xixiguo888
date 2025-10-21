@@ -1,34 +1,33 @@
-- [某新地址过去 8 小时囤积 7889 枚ETH ，价值 3141 万美元](https://x.com/ai_9684xtpa/status/1980441805826166916) - 📰 null - 【某新地址过去 8 小时囤积 7889 枚ETH ，价值 3141 万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，新地址 0x311...5FD1A 过去 8 小时囤积 7889 枚ETH ，总价值 3141 万美元，平均提出价格 3982美元，ETH 均从 Coinbase 提出，不排除是在整理钱包。
-- [Solana新提案SIMD-0266计划推出p-token，优化交易效率提升高达98%](https://x.com/anza_xyz/status/1980301099694539045) - 📰 null - 【Solana新提案SIMD-0266计划推出p-token，优化交易效率提升高达98%】金色财经报道，Solana基金会最新提案SIMD-0266计划推出p-token，作为当前SPLToken程序的高效替代方案。该优化版本通过零堆分配和零拷贝数据访问技术，可将Token程序的计算单元使用率降低高达98%，预计将释放约12%的区块空间用于其他交易。p-token完全向后兼容，用户无需修改代码即可直接替换。新增的Batch和UnwrapLamports指令进一步优化了DeFi常见操作流程。Neodyme已完成审计，确认p-token与现有SPLToken程序输出一致。该提案将与100MCU区块等其他网络优化措施协同工作，共同提升Solana网络的整体性能和交易吞吐量。
-- [Coinbase CEO创立的抗衰老公司NewLimit宣布完成4500万美元融资](https://x.com/brian_armstrong/status/1980438480070275311) - 📰 null - 【Coinbase CEO创立的抗衰老公司NewLimit宣布完成4500万美元融资】金色财经报道，由Coinbase CEO Brian Armstorng创立的抗衰老公司NewLimit宣布已从Eli Lilly and Company、杜克大学（Duke）、S32 风险投资公司S32及其他投资方处额外筹集4500万美元资金，用于研发抗衰老药物。
-- [某巨鲸昨晚通过三个钱包在Aave上抵押6.1亿枚USDC，并借出6.6万枚ETH转进币安](https://x.com/EmberCN/status/1980433536730690018) - 📰 null - 【某巨鲸昨晚通过三个钱包在Aave上抵押6.1亿枚USDC，并借出6.6万枚ETH转进币安】金色财经报道，据链上分析师余烬监测，某巨鲸在一周前从币安提了7亿USDC到四个链上钱包，昨晚用其中三个钱包在Aave上抵押了6.1亿USDC，然后借出6.6万枚ETH(2.62亿美元)转进币安。 
-这些去抵押借ETH的USDC都是在一周前从币安提出来的，其中有一个钱包目前还持有着9120万USDC没有去抵押借ETH。
-- [Andrew Kang关联地址目前共计持有6779万美元空单仓位](https://x.com/ai_9684xtpa/status/1980432141549990105) - 📰 null - 【Andrew Kang关联地址目前共计持有6779万美元空单仓位】金色财经报道，据链上分析师@ai_9684xtpa监测，BTC在跌，但Andrew Kang关联地址的空单却在浮亏，昨晚他一弄操作，将BTC和ETH的空单加上去了。 
-1.平掉了HYPE多单，亏损12.3万美元 
-2.减仓部分ENA多单，盈利161.5万美元 
-3.将BTC空单加仓至362.49枚，约3997万美元 
-4.将ETH空单加仓至6,995.72枚，约2781万美元 
-截止目前他共持有6779万美元的空单仓位，292万美元的多单仓位，账户共计浮亏60.5万美元
-- [加拿大BC省拟限制AI数据中心用电并永久禁止加密货币挖矿](https://www.bloomberg.com/news/articles/2025-10-20/british-columbia-moves-to-limit-ai-power-use-ban-crypto-mining?srnd=phx-crypto) - 📰 null - 【加拿大BC省拟限制AI数据中心用电并永久禁止加密货币挖矿】10月21日消息，加拿大不列颠哥伦比亚省政府周一宣布提出立法，将限制人工智能数据中心的电力使用，并计划永久禁止新的加密货币挖矿项目。该省能源部表示，将优先考虑为矿山和天然气设施等其他行业提供电网连接，因为这些行业能为BC省居民创造更多就业机会和收入。
-- [Solana Company允许早期投资者提前解锁PIPE融资轮股份，股价暴跌60%](https://www.coindesk.com/markets/2025/10/20/pantera-backed-solana-company-brings-forward-pipe-unlock-as-stock-price-plunges-60) - 📰 null - 【Solana Company允许早期投资者提前解锁PIPE融资轮股份，股价暴跌60%】金色财经报道，数字资产财库公司Solana Company (HSDT)周一宣布提前解锁9月份以每股6.881美元价格出售的5亿美元PIPE融资轮股份，允许早期投资者提前出售股票。该公司称此举为"撕掉创可贴"策略，旨在建立长期股东基础。消息公布后，HSDT股价已跌至约6.50美元，连续三个交易日累计暴跌近60%，仅周一一天就下跌17%。PIPE融资(私募投资公开股权)已成为新兴数字资产财库公司快速筹集资金购买加密货币的首选方式，但随着多家公司在解锁期股价崩盘，该模式在加密市场的可持续性受到质疑。
-- [Dogecoin基金商业部门收购意大利足球俱乐部控股权](https://decrypt.co/345076/dogecoin-firm-house-doge-acquires-controlling-share-italian-soccer-club) - 📰 null - 【Dogecoin基金商业部门收购意大利足球俱乐部控股权】金色财经报道，Dogecoin基金会的商业部门House of Doge宣布已收购意大利足球俱乐部U.S. Triestina Calcio 1918的控股权。该俱乐部目前在意大利第三级别联赛Serie C中排名垫底，近期因行政处罚被扣13分。 
-作为收购的一部分，House of Doge任命多伦多蓝鸟队副主席Roger Rai为其顾问委员会成员，协助体育运营。
-- [今日恐慌与贪婪指数升至34，等级仍为恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至34，等级仍为恐慌】金色财经报道，今日恐慌与贪婪指数升至34，等级仍为恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [疑似Bitmine新钱包从Bitgo和Kraken提取超6.3万枚ETH，价值约2.53亿美元](https://x.com/OnchainLens/status/1980420655175909525) - 📰 null - 【疑似Bitmine新钱包从Bitgo和Kraken提取超6.3万枚ETH，价值约2.53亿美元】金色财经报道，据OnchainLens报道，3个新创建的钱包从Bitgo和Kraken提取共计63,539枚ETH，按当前价格约合2.53亿美元，疑似归属Bitmine。
-- [Solana联创：即使 Cobie 并未制作任何剧集，这一 NFT 作为资产依然存在]() - 📰 null - 【Solana联创：即使 Cobie 并未制作任何剧集，这一 NFT 作为资产依然存在】金色财经报道，Solana联创toly于X平台发文表示，即使 Cobie 并未实际制作任何剧集，这一 NFT 作为资产依然存在。
-- [Coinbase CEO Brian Armstrong已确认Coinbase收购UpOnly TV的NFT](https://x.com/brian_armstrong/status/1980397986149744769) - 📰 null - 【Coinbase CEO Brian Armstrong已确认Coinbase收购UpOnly TV的NFT】金色财经报道，Coinbase 首席执行官布莱恩・阿姆斯特朗（Brian Armstrong）已确认Coinbase收购 UpOnly TV的NFT，并表示：“Up Only即将回归。”
-- [金色晨讯 | 10月21日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 10月21日隔夜重要动态一览】21:00-7:00关键词：INJ ETF、Limitless、Blockchain.com 
-1.CZ：比特币终将取代黄金； 
-2.21Shares已提交新的INJ ETF申请； 
-3.美联储10月降息25个基点的概率为99.4%； 
-4.预测市场 Limitless 完成 1,000 万美元种子轮融资； 
-5.Blockchain.com 正在就通过 SPAC 在美上市进行洽谈； 
-6.Coinbase呼吁美国财政部以AI与区块链创新改革反洗钱规则； 
-7.美参议院加密市场立法停滞，加密行业高管本周将会晤民主党推动进展。
-- [美参议院第11次表决拨款法案仍未通过 政府“停摆”持续](https://www.cls.cn/detail/2175106) - 📰 null - 【美参议院第11次表决拨款法案仍未通过 政府“停摆”持续】金色财经报道，美国参议院当地时间10月20日第11次就政府拨款法案进行投票表决，仍未获得通过，因此美国政府自10月1日开始的“停摆”继续。该法案原计划将政府资金延长至11月21日，最终以50票赞成、43票反对未达通过所需的60票门槛。 (央视新闻)
-- [美联储巴尔对比特币支持的稳定币表达担忧](https://www.ledgerinsights.com/fed-governor-barr-voices-concern-over-stablecoins-potentially-backed-by-bitcoin/) - 📰 null - 【美联储巴尔对比特币支持的稳定币表达担忧】金色财经报道，美联储理事 Michael Barr（迈克尔·巴尔）表示，他担忧根据新通过的 GENIUS 法案，稳定币可能会以比特币作为储备资产，这可能威胁这些数字支付工具的稳定性。Barr 认可稳定币在国际汇款、跨境贸易及企业财务管理中的潜在优势，但强调现行监管存在显著漏洞。虽然 GENIUS 法案并未直接支持以比特币作为储备，但允许持有“任何被外国政府授权或采纳的交换媒介”作为储备资产。Barr 指出，埃尔萨尔瓦多曾将比特币作为法定货币，目前仍允许自愿交易，因此发行方可能主张比特币回购可作为稳定币合格储备资产。
-- [Coinbase：平台部分功能仍可能不稳定，服务正在恢复](https://x.com/CoinbaseSupport/status/1980395932060643608) - 📰 null - 【Coinbase：平台部分功能仍可能不稳定，服务正在恢复】金色财经报道，Coinbase 支持团队表示，受今日 AWS 宕机影响，公司服务正在逐步恢复，但平台部分功能仍可能出现不稳定情况。Coinbase 将在有新进展时继续更新。
-- [coinbase.eth从Cobie处以2500万枚USDC买入UPONLY NFT](https://x.com/arkham/status/1980387391199440998) - 📰 null - 【coinbase.eth从Cobie处以2500万枚USDC买入UPONLY NFT】金色财经报道，据Arkham监测，coinbase.eth (0x17F) 从 Cobie: maniac.eth (0x2eB) 处以2500万枚USDC买入UPONLY NFT。
-- [美参议院加密市场立法停滞，加密行业高管本周将会晤民主党推动进展](https://www.coindesk.com/policy/2025/10/20/crypto-s-half-finished-legislative-agenda-teeters-as-ceos-set-meeting-with-democrats) - 📰 null - 【美参议院加密市场立法停滞，加密行业高管本周将会晤民主党推动进展】金色财经报道，美国加密行业最重要的市场结构立法进展缓慢，可能延至明年。Coinbase CEO Brian Armstrong、Chainlink 联合创始人 Sergey Nazarov、Uniswap 的 Hayden Adams 及 Solana Policy Institute 总裁 Kristin Smith 等，将本周会见多位民主党参议员，推动争议条款谈判并保持行业沟通。Kraken、Galaxy Digital、a16z Crypto 和 Circle 高管也将参与。参众两院曾对立法完成持乐观态度，但参议院谈判因争议和预算问题进展迟缓，业内普遍预计法案可能要到明年才能完成。
-- [美联储10月降息25个基点的概率为99.4%](https://flash.jin10.com/detail/20251021060234826800) - 📰 null - 【美联储10月降息25个基点的概率为99.4%】金色财经报道，据CME“美联储观察”：美联储10月降息25个基点的概率为99.4%，维持利率不变的概率为0.6%。美联储12月累计降息50个基点的概率为98.6%，累计降息75个基点的概率为0.9%。
-- [受AWS宕机影响，Coinbase Base App余额短时显示异常](https://www.theblock.co/post/375397/coinbases-base-app-says-users-may-see-zero-balances-for-some-coins-amid-aws-outage) - 📰 null - 【受AWS宕机影响，Coinbase Base App余额短时显示异常】金色财经报道，Coinbase Base App（测试版）因亚马逊AWS服务宕机，部分用户账户余额短时显示为零。Base App称这只是显示更新，并非资金丢失，AWS已于周一确认问题完全解决。
+- [沃尔玛拟通过OnePay Cash接受加密货币支付](https://x.com/Xaif_Crypto/status/1979985523008823760) - 📰 null - 【沃尔玛拟通过OnePay Cash接受加密货币支付】10 月 21 日消息，连锁超市沃尔玛拟通过 OnePay Cash 接受加密货币支付。 
+此前消息，沃尔玛控股的金融科技公司 OnePay 计划于今年晚些时候在其移动应用中推出加密货币交易和托管服务。用户将能够交易比特币和以太坊，该服务将与初创公司 Zerohash 合作开展。
+- [StarkWare CEO：若不接纳加密货币理念，“企业链” 终将走向失败](https://cointelegraph.com/news/corporate-blockchains-will-fail-starkware-ceo) - 📰 null - 【StarkWare CEO：若不接纳加密货币理念，“企业链” 终将走向失败】金色财经报道，StarkWare联合创始人兼 CEO 伊莱・本 - 萨森（Eli Ben-Sasson）表示，由企业创建并掌控的区块链（即 “企业链”）终将走向消亡，因为用户不会愿意使用一条由中心化实体控制的链。 
+本 - 萨森周一在 X 平台（原 Twitter）的一篇帖子中表示，他更加坚定了自己的观点：“企业链” 无法长久存在，因为这类链与区块链的一个核心理念相悖 —— 区块链要求 “摆脱自身作为中心化实体的定位”。 
+他指出：“区块链的核心要素在于它是一个摆脱了中心化实体的系统。要实现这一点需要付出代价：这是一项极为复杂的技术，不仅开发难度大，使用门槛也高。即便我们应用账户抽象（AA）技术来打造更简洁的用户体验（UX），其底层技术依然十分复杂。”
+- [4E∶美联储理事警告比特币储备稳定币风险；稳定币或成下一轮加密增长引擎](https://x.com/4E_Global/status/1980514562744156659) - 📰 null - 【4E∶美联储理事警告比特币储备稳定币风险；稳定币或成下一轮加密增长引擎】10月21日消息，据4E观察，美联储理事迈克尔·巴尔（Michael Barr）警告称，新通过的 GENIUS 法案可能允许稳定币以比特币作为储备资产，从而削弱其稳定性。巴尔指出，尽管该法案并未直接支持比特币储备，但“任何被外国政府采纳的交换媒介”或被视为合格资产，这可能令埃尔萨尔瓦多的案例成为潜在漏洞。 
+花旗银行最新报告则指出，稳定币可能成为加密市场下一个增长阶段的核心驱动力，其在高通胀或金融体系薄弱的新兴市场中具备“美元价值储存”功能。然而，这也可能引发部分国家限制美元化的政策反应。 
+此外，Strategy宣布再度购入168枚比特币，耗资约1880万美元，持仓总量升至 64.04 万枚BTC。 
+加密分析师Willy Woo表示，本轮行情由长期现货投资者推动，若其流动性开始衰减，市场情绪或将迅速转向看跌。 
+4E提醒投资者：监管导向与市场结构性资金流正成为行情关键变量，短线波动或受宏观信号与机构行为放大，建议持续关注监管动态与流动性结构变化。
+- [美国政府停摆后，比特币将迎来首次通胀数据考验](https://decrypt.co/345135/bitcoin-braces-for-first-inflation-test-since-us-shutdown) - 📰 null - 【美国政府停摆后，比特币将迎来首次通胀数据考验】金色财经报道，比特币及整体金融市场正为10月1日美国政府停摆后的首份通胀数据发布做准备，分析师预计市场将对此做出温和反应。原定于周五发布的消费者价格指数（CPI）数据，将对美联储下周的利率决策起到关键影响作用。 
+这份报告发布之际，美国经济正面临巨大不确定性：受政府停摆影响，官员与经济学家无法获取最新的劳动力市场数据。数字资产金融服务公司HashKey Group的高级研究员Tim Sun表示：“预计比特币及整体市场将对本周这一关键宏观事件做出温和反应。考虑到就业增长放缓、需求趋于平稳，即便CPI数据出现小幅超预期上涨，也不太可能对市场预期产生实质性改变。” 
+加密货币做市商Caladan的研究主管Derek Lim与Sun观点一致，他指出：若美国通胀数据符合预期且偏差较小，“最可能的结果是市场反应平淡”。
+- [The Smarter Web Company 增持10枚比特币，总持仓达2660枚](https://x.com/smarterwebuk/status/1980514698840740253) - 📰 null - 【The Smarter Web Company 增持10枚比特币，总持仓达2660枚】金色财经报道，据市场消息：英国上市公司 The Smarter Web Company 增持10枚比特币，总持仓达2660枚。
+- [Meme项目Slerf已完成全部用户退款](https://x.com/slerfsol/status/1980384665514193255) - 📰 null - 【Meme项目Slerf已完成全部用户退款】10月21日消息，Solana生态Meme项目Slerf已完成全部用户退款。退款总额为53359.62枚SOL，钱包总数为25444个。此前，Slerf创始人曾因误操作导致整个流动性池和空投预留代币被烧毁，同时铸币权也已撤销。此后团队承诺全额退款SOL。
+- [某鲸鱼清仓超38.1万枚HYPE，获利416万美元](https://x.com/OnchainLens/status/1980511274581839877) - 📰 null - 【某鲸鱼清仓超38.1万枚HYPE，获利416万美元】金色财经报道，据OnchainLens监测，一位鲸鱼以36.78美元的均价卖出了全部381,554枚HYPE，获利416万美元。10个月前，这位巨鲸最初以25.87美元的价格购买了这些HYPE，价值987万美元。如果鲸鱼在HYPE的巅峰时期将其出售，它就可以获利1280万美元。
+- [Matrixport：比特币触及21周均线，市场聚焦关键技术位]() - 📰 null - 【Matrixport：比特币触及21周均线，市场聚焦关键技术位】10月21日消息，Matrixport分享市场观点如下：21周均线再度成为比特币走势的关键观察点。该水平历来被视为牛熊转换的重要分界：价格位于其上方时往往意味着市场由空转多；而跌破则通常预示行情进入调整阶段。若比特币长时间未能重新站上该水平当前的盘整走势可能进一步演化为更深度的回调。目前回调幅度仍相对温和，在市场普遍预期美联储仍将降息的背景下，整体走势或将保持可控，除非美国经济出现明显走弱。从历史经验看，理想的入场时机往往出现在比特币短暂跌破该均线后，又重新站上并维持较长时间之际。在这一信号出现之前，投资者仍应保持谨慎。
+- [美元/日元延续涨势，最新上涨至151.42]() - 📰 null - 【美元/日元延续涨势，最新上涨至151.42】金色财经报道，美元/日元延续涨势，最新上涨0.44%，报151.42。
+- [Polymarket推出“15分钟涨跌”加密货币预测市场](https://x.com/Cointelegraph/status/1980507011214082470) - 📰 null - 【Polymarket推出“15分钟涨跌”加密货币预测市场】金色财经报道，据市场消息：Polymarket推出由Chainlink提供技术支持的“15分钟上涨/下跌”加密货币预测市场。
+- [某新建地址近3日从OKX提取超1万枚ETH，价值4580万美元](https://x.com/OnchainLens/status/1980506918058881433) - 📰 null - 【某新建地址近3日从OKX提取超1万枚ETH，价值4580万美元】金色财经报道，据OnchainLens监测，一个新创建的钱包在过去3天内从OKX中提取了11,860枚ETH，价值4580万美元。
+- [F 上涨突破 0.025 USDT，24H涨幅超 177%](https://www.mgbx.com/spot/trade/f_usdt) - 📰 null - 【F 上涨突破 0.025 USDT，24H涨幅超 177%】10月21日消息，MGBX现货行情数据显示，F 上涨突破 0.025 USDT，现报 0.023 USDT，24H 涨幅超 177%，流通市值超 2500万美元。 
+SynFutures 是一个去中心化衍生品协议，F 为其平台治理代币，支持社区驱动的资产上线与功能开发。
+- [日本央行官员据悉认为本月无须急于加息]() - 📰 null - 【日本央行官员据悉认为本月无须急于加息】金色财经报道，据知情人士透露， 日本央行官员认为，尽管日本经济正朝着实现价格目标的方向前进，但下周没有迫切需要提高基准利率。知情人士说，随着经济和通胀的发展基本符合预期，官员们认为实现他们的愿景的可能性继续逐渐上升。他们说，虽然他们不排除年底前再次加息的可能性，但迄今为止尚无确凿因素能够说服他们在10月30日制定政策时必须加息。无论如何，央行下周将仔细研究经济数据和其他因素，直到最后一刻做出最终决定。知情人士表示，这些因素将包括金融市场的发展，因为与过去相比，日元近期更有可能影响通胀。(金十)
+- [现货黄金跌破4330美元/盎司，较日高回落约45美元]() - 📰 null - 【现货黄金跌破4330美元/盎司，较日高回落约45美元】金色财经报道，现货黄金跌破4330美元/盎司，较日高回落约45美元。
+- [Crypto.com 与 Travel Wallet 合作推出预付卡并推进韩元稳定币应用](https://crypto.news/crypto-com-travel-wallet-card-krw-stablecoin-2025/) - 📰 null - 【Crypto.com 与 Travel Wallet 合作推出预付卡并推进韩元稳定币应用】金色财经报道，Crypto.com已与韩国金融科技企业 Travel Wallet 签署新合作协议，双方将共同打造一种韩元锚定稳定币，并为全球旅行者拓展加密货币支付选项。根据协议，Travel Wallet 将成为Crypto.com在韩国的主要发行合作伙伴。双方将推出一款联名预付卡，该卡片支持在全球范围内进行法定货币与加密货币支付。 
+此外，Travel Wallet 应用程序还将整合Crypto.com的 “加密即服务”（crypto-as-a-service）工具，用户可直接通过该平台进行数字资产交易。两家公司还将共同推广一款与韩元挂钩的稳定币，该稳定币旨在降低国际转账成本并提升交易速度。
+- [币安：SigmaDotMoney (SIGMA)空投门槛为245积分]() - 📰 null - 【币安：SigmaDotMoney (SIGMA)空投门槛为245积分】金色财经报道，据官方公告，币安 Alpha 将于 2025 年 10 月 21 日 15:00（UTC+8）上线 SigmaDotMoney (SIGMA) 。交易开始后，持有至少 245 个币安 Alpha 积分的用户可申领 640 个 SIGMA 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。 请注意，申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
+- [Upbit将上线F韩元和USDT交易对]() - 📰 null - 【Upbit将上线F韩元和USDT交易对】金色财经报道，据官方公告，Upbit将上线F韩元和USDT交易对。交易预计于当地时间10月21日下午4:00开放。
+- [华尔街分析师：美联储极有可能在下周的FOMC会议上宣布提前结束缩表]() - 📰 null - 【华尔街分析师：美联储极有可能在下周的FOMC会议上宣布提前结束缩表】金色财经报道，分析师们判断，在10月28-29日的联邦公开市场委员会（FOMC）会议上停止通过资产负债表缩减计划（QT）抽离流动性，将有助于确保货币政策技术层面的平稳运行。这些央行观察人士指出，由于货币市场摩擦加剧可能威胁美联储实现通胀与就业目标所需的利率调控能力，量化紧缩政策的基础已经发生动摇。“美联储传声筒”NickTimiraos也表示，美国银行准备金已降至临界水平，随着美国财政部重建其现金余额，银行准备金占银行资产的比例近期已降至13%以下。（金十）
+- [先锋集团在第三季度购入2100万美元Metaplanet的股票](https://x.com/pete_rizzo_/status/1980499537601909242) - 📰 null - 【先锋集团在第三季度购入2100万美元Metaplanet的股票】金色财经报道，据市场消息：管理着9万亿美元资产的先锋集团（Vanguard）刚刚披露，其在第三季度购入了价值 2100 万美元的比特币财库公司Metaplanet的股票。
+- [麻吉大哥向Hyperliquid追加10.5万枚USDC，仍在继续加仓ETH多单](https://x.com/lookonchain/status/1980497941308768296) - 📰 null - 【麻吉大哥向Hyperliquid追加10.5万枚USDC，仍在继续加仓ETH多单】金色财经报道，据Lookonchain监测，为避免被强平，麻吉大哥向Hyperliquid追加了10.5万枚USDC，并且他仍在继续加仓ETH多单。 
+当前持仓：2,600枚ETH（1,002万美元） 
+最新强平价：3,803.71美元
