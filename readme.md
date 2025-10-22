@@ -1,51 +1,26 @@
-- [香港首个Solana交易所交易基金获批](https://inews.hket.com/article/4025751/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%EF%BD%9C%E9%A6%99%E6%B8%AF%E9%A6%96%E5%AE%B6Solana%20ETF%E7%8D%B2%E6%89%B9%E3%80%80%E6%88%90%E6%AF%94%E7%89%B9%E5%B9%A3%E4%BB%A5%E5%A4%AA%E5%B9%A3%E5%A4%96%E5%8F%A6%E4%B8%80%E5%8A) - 📰 null - 【香港首个Solana交易所交易基金获批】金色财经报道，据香港经济日报报道，香港证监会正式批准首只Solana（SOL）现货ETF，由华夏基金（香港）发行，成为继比特币、以太坊之后第三个获批的加密货币现货ETF，也是亚洲首个同类产品。 
-该ETF（代码：03460）预计将于10月27日在港交所挂牌，设人民币柜台（83460）与美元柜台（9460），每手交易单位为100个，最低投资金额约100美元。其虚拟资产交易平台为OSLExchange，管理费率0.99%，全年经常性开支比率约1.99%。
-- [Seismic 推出具有原生隐私的区块链执行客户端 Seismic Reth，并开放源代码](https://x.com/SeismicSys/status/1980693556051190154) - 📰 null - 【Seismic 推出具有原生隐私的区块链执行客户端 Seismic Reth，并开放源代码】金色财经报道，隐私区块链项目 Seismic 宣布推出具有原生隐私的区块链执行客户端 Seismic Reth，并开放源代码。Seismic Reth 具有私有存储、加密交易和 TEE 集成等功能。
-- [Binance Alpha和合约将于10月24日上线Orochi(ON)](https://cache.bwe-ws.com/bn-393) - 📰 null - 【Binance Alpha和合约将于10月24日上线Orochi(ON)】金色财经报道，据官方消息，Binance Alpha和合约将于10月24日上线Orochi(ON)。
-- [交易员Peter Brandt：比特币走势图重现20世纪70年代大豆泡沫特征](https://cointelegraph.com/news/bitcoin-price-soybean-market-skeptical-crypto-analysts-peter-brandt) - 📰 null - 【交易员Peter Brandt：比特币走势图重现20世纪70年代大豆泡沫特征】金色财经报道，知名交易员Peter Brandt在社交媒体发文表示，比特币的价格走势图开始呈现出与约50年前的大豆市场类似的形态。当时大豆价格在触顶后因全球供过于求而暴跌50%。 
-Brandt表示：“比特币正在形成罕见的扩张顶部形态，这种形态通常出现在市场见顶时。”他补充说：“在20世纪70年代，大豆形成了类似顶部结构，随后价值下跌了50%。” 
-不过，也有其他比特币分析师认为，从技术面来看，比特币仍有进一步上涨的空间。
-- [贝莱德BUIDL基金新增5亿美元代币化资产部署至Aptos](https://x.com/Aptos/status/1980680520569893038) - 📰 null - 【贝莱德BUIDL基金新增5亿美元代币化资产部署至Aptos】10月22日消息，贝莱德数字流动基金BUIDL新增5亿美元代币化资产部署至Aptos，使其在BUIDL基金部署的采用度排名中升至第二位，仅次于以太坊。截至发文时，Aptos链上RWA代币化资产规模已突破12亿美元，位列全网第三。 
-BUIDL基金由贝莱德与代币化基础设施平台Securitize联合推出，底层资产涵盖现金、美国国债及回购协议等低风险高流动性资产，最初于2024年3月在以太坊上部署，并于2024年11月扩展至Aptos等链。 
-此举体现了传统金融巨头向区块链底层架构转移的加速趋势。Aptos凭借高性能、安全、低费用的技术优势，正成为机构资产链上化的重要入口。
-- [高盛首席经济学家：市场对美国GDP的预测过于乐观](https://xnews.jin10.com/details/196441) - 📰 null - 【高盛首席经济学家：市场对美国GDP的预测过于乐观】金色财经报道，高盛警告说，市场对美国GDP的估计值可能过于乐观，因为政府停摆期间的数据真空可能导致就业数据最终拖累原本乐观的前景。 
-高盛的首席经济学家哈祖斯（Jan Hatzius）强调，在政府停摆期间，美国GDP估计值急剧上升，第二季度预计为3.8%，第三季度预计为3.3%。根据一些估计，这个数字甚至更高：例如，亚特兰大联储在10月17日的更新中写道，第三季度GDP可能高达3.9%。 
-尽管股市持续上涨，但市场普遍预计美联储将在年底前至少再次降息一次。在增长轨迹看似积极的情况下，华尔街是否有充分理由庆祝呢？ 
-哈祖斯认为：“不完全是。”他警告说，就业问题可能会成为这一乐观前景的“眼中钉”，再加上企业对白宫政策变化做出反应而改变的商业行为。 
-因此，哈祖斯补充说：“由于就业市场指标通常比初步的GDP估计值更能提供有关当前经济增长的可靠信息，这种疲软更加坚定了我们的信念，即第二季度/第三季度的GDP信号过于积极。”
-- [Bithumb上线Clearpool(CPOOL)韩元交易对]() - 📰 null - 【Bithumb上线Clearpool(CPOOL)韩元交易对】金色财经报道，据官方公告，Bithumb新增上线Clearpool(CPOOL)韩元交易对。
-- [Upbit将上线ClearPool（CPOOL）的KRW、BTC、USDT交易对](https://x.com/bwenews/status/1980866715484581961) - 📰 null - 【Upbit将上线ClearPool（CPOOL）的KRW、BTC、USDT交易对】金色财经报道，据官方公告，Upbit将上线ClearPool（CPOOL）的KRW、BTC、USDT交易对。
-- [Infinex宣布即将暂停链上卡牌交易游戏Bullrun](https://x.com/infinex/status/1980862454478635288) - 📰 null - 【Infinex宣布即将暂停链上卡牌交易游戏Bullrun】10月22日消息，跨链聚合DeFi平台Infinex宣布链上卡牌交易游戏Bullrun即将暂停，第403轮将是目前的最后一轮每日轮次。Infinex将最终确定Bulls的分配方式，以确保真正的玩家获得奖励，而不是机器人。 
-Bulls将能够在即将推出的「宝箱」活动中兑换奖励，详情即将公布。Bullrun卡牌游戏也将在暂停后回归，并带来新游戏模式和奖励。
-- [比特币早期巨鲸Owen Gunden向Kraken存入364枚BTC，价值约4025万美元](https://x.com/lookonchain/status/1980862121148838337) - 📰 null - 【比特币早期巨鲸Owen Gunden向Kraken存入364枚BTC，价值约4025万美元】金色财经报道，据链上分析平台Lookonchain（@lookonchain）监测，比特币早期巨鲸Owen Gunden于7小时前向Kraken存入364枚BTC，价值约4025万美元。该地址仍持有10,959枚BTC，价值约11.9亿美元。
-- [Security Alliance启动全球实时网络钓鱼防御网络](https://x.com/_SEAL_Org/status/1980661021045059876) - 📰 null - 【Security Alliance启动全球实时网络钓鱼防御网络】金色财经报道，Security Alliance安全联盟宣布启动一个全球实时网络钓鱼防御网络，合作伙伴包括MetaMask、WalletConnect、Backpack和Phantom等。通过其可验证的网络钓鱼报告技术，任何持有有效报告的人员均可实时触发钓鱼警告，从而更快地应对新的网络钓鱼威胁，保护更多资金不受损害。 
-Security Alliance表示，正在开发钱包并希望加入网络的开发者可联系获取集成说明。安全研究员可使用其可验证的网络钓鱼报告客户端。
-- [BNB Chain：4500万美元“Reload 空投”第二批已完成发放](https://x.com/BNBCHAIN/status/1980851714711515206) - 📰 null - 【BNB Chain：4500万美元“Reload 空投”第二批已完成发放】金色财经报道，BNB Chain于X平台发文称，4500万美元“Reload 空投”第二批已完成，此次空投由Four.Meme合作发起，BNB奖励已发送至下一批钱包，以表彰推动BNB生态发展的建设者、交易者和创作者，同时获得PancakeSwap、Binance Wallet和Trust Wallet的支持。 
-Reload空投共分四批，每批奖励都透明公开，收件地址在链上公布，社区可自行验证。
-- [TRM Labs：全球零售加密交易连续两年增长125%，监管明确性成主要推动力](https://www.trmlabs.com/reports-and-whitepapers/2025-crypto-adoption-and-stablecoin-usage-report?utm_campaign=Brand-Global_2025-Crypto-Adoption-and-Stablecoin-Usage-Report_Whitepaper&utm_medium=media-outreach&utm_source=ari-redbord&utm_campaignname=Brand-) - 📰 null - 【TRM Labs：全球零售加密交易连续两年增长125%，监管明确性成主要推动力】金色财经报道，TRM Labs最新报告显示，2024-2025年间全球零售加密货币交易量连续第二年增长超125%。监管环境明朗化成为主要推动因素，特别是在美国，政策支持和监管清晰度带来市场双位数增长。报告指出，大部分加密活动集中在支付、汇款和保值等实用场景。 
-值得注意的是，即使在加密货币受限或被禁的国家，如孟加拉国和北非多国，采用率仍然较高，这表明草根需求可能超越正式限制。巴基斯坦在政府支持下，预计2026年加密用户将达2800万。 
-国际机构研究显示，全面禁令往往无效，反而可能增加人们使用加密货币的动机。
-- [特朗普向美国司法部索赔2.3亿美元：称调查对其造成重大损害](https://xnews.jin10.com/details/196408) - 📰 null - 【特朗普向美国司法部索赔2.3亿美元：称调查对其造成重大损害】金色财经报道，据《纽约时报》周二报道，美国总统特朗普已要求美国司法部为其在首个白宫任期前后遭到的刑事调查支付高达2.3亿美元的赔偿金。 
-《纽约时报》指出，任何潜在的和解方案都可能需要经过特朗普在第二任期任命的联邦官员批准。其中，副总检察长托德·布兰奇（Todd Blanche）在1月初重返白宫前，曾作为辩护律师在刑事案件中代表特朗普。 
-“就所有诉讼而言……没错，他们可能欠我很多钱，”特朗普周二晚些时候在白宫对记者表示。他承认，《纽约时报》报道中提及的2.3亿美元“有可能”是准确数字。 
-特朗普还表示，司法部支付赔偿的任何决定“都必须经过我的批准，而由我决定支付自己多少钱实在非常奇怪”。“换句话说，你遇到过需要自己决定该赔自己多少钱的情况吗？”特朗普说。但他补充道：“我确实遭受了巨大损害，而我获得的任何赔偿都将捐给慈善机构。”
-- [金色午报 | 10月22日午间重要动态一览]() - 📰 null - 【金色午报 | 10月22日午间重要动态一览】7:00-12:00关键词：USDT、黄金、加密货币ETF 
-1.Tether CEO：目前USDT触达全球6.25%人口； 
-2.高盛的基本预测仍是日本央行在2026年1月加息； 
-3.以太坊基金会：转移6.54亿美元ETH是例行钱包迁移； 
-4.现货黄金日内跌幅达1.00%，现报4084.05美元/盎司； 
-5.黄金全球总市值突破27万亿美元，成为第二大储备资产； 
-6.韩国关税厅厅长：考虑在首尔海关新设虚拟资产分析部门； 
-7.目前已有155份加密货币ETF申请，追踪35种不同的加密资产。
-- [以太坊开发者barry发布zkEVM私有智能合约新进展：支持私有用户状态，但不具备私有全局状态](https://x.com/oskarth/status/1980834961902170368) - 📰 null - 【以太坊开发者barry发布zkEVM私有智能合约新进展：支持私有用户状态，但不具备私有全局状态】金色财经报道，以太坊开发者barryWhiteHat发文称，随着零知识证明虚拟机（zkEVM）的商品化，出现了一个有趣的机遇：既能提供私有智能合约基础设施，又能保持与以太坊虚拟机（EVM）的兼容性。开发者可以编写 Solidity 代码，并通过特定版本的 Solidity 编译器或一些后处理工具进行编译，从而创建私有智能合约。 
-围绕私有全局状态与隐私存在一些重要的权衡，其核心原因在于：要进行证明，就必须知道自己要证明的内容。因此，无法存在这样一种私有智能合约 —— 它拥有你并不知晓的全局公开状态。由此可推，也无法存在带有全局私有状态的私有智能合约。例如，Uniswap这样的应用就无法以私有形式实现，因为证明者需要知晓两个资金池的余额，才能证明一笔 swap（交易）的执行是正确的。 
-因此，一些我们熟知且青睐的应用，目前无法以私有形式实现，除非我们拥有输入输出（IO）功能 —— 这正是 IO 至关重要的原因。它能让我们构建一个完全私有的以太坊，且其信任假设与原生以太坊完全一致。 
-不过，本文旨在探讨如何通过在 reth 中添加 pstore 和 pload 这两个操作码，将其编译到零知识证明虚拟机（zkEVM）中，从而实现一种私有智能合约 —— 这类合约拥有私有用户状态，但不具备私有全局状态。
-- [黄金全球总市值突破27万亿美元，成为第二大储备资产]() - 📰 null - 【黄金全球总市值突破27万亿美元，成为第二大储备资产】金色财经报道，香港交易所董事总经理巴曙松在2025香港交易所中国机遇论坛上表示，黄金全球总市值已突破27万亿美元，成为全球第二大储备资产。他指出，全球债务高速增长难以为继，传统安全资产面临重新定义，黄金和比特币价格上涨反映了对法定货币购买力下降的担忧。（金十）
-- [BTC突破108000美元]() - 📰 null - 【BTC突破108000美元】金色财经报道，行情显示，BTC突破108000美元，现报108002.13美元，24小时跌幅达到1.38%，行情波动较大，请做好风险控制。
-- [Vitalik：预测市场正成新型信息媒介，安全仍是AI Agent发展的关键问题]() - 📰 null - 【Vitalik：预测市场正成新型信息媒介，安全仍是AI Agent发展的关键问题】10月22日消息，在ETHShanghai 2025主论坛上，万向控股副董事长兼执行董事、万向区块链董事长、HashKey Group董事长兼CEO肖风和以太坊联合创始人Vitalik Buterin围绕 AI、预测市场和ZK ID三个话题展开深度对话。 
-Vitalik表示，美国大选期间，许多人通过Polymarket参与预测，这本身就是一种成功。传统媒体和社交媒体可能无法判断事件的重要性，而预测市场通过价格信号更快反映现实，它正在成为一种新的信息媒介。预测市场不仅适用于大型事件，在AI加持下，也能对小事件进行精准预测。未来AI与预测市场结合，将使预测更主流、更智能化。 
-对于AI赛道，Vitalik提出，区块链定义了游戏规则，AI可以成为参与者。随着AI Agent的兴起，它们能自主发币、参与应用与治理，开启大量实验空间，未来应进一步思考如何赋能生态发展。但他强调，AI不应替代人，而应成为人的工具。安全性仍是关键问题，包括Agent的黑客风险。 
-他进一步提到 ZK ID（零知识身份）在防范AI滥用方面的潜力。ZK ID可以帮助区分真人与机器人，在保护隐私的同时，可以支持例如低风险DeFi等赛道的发展。
-- [肖风：以太坊依旧是应用核心，凭先发优势和持续优化难以取代]() - 📰 null - 【肖风：以太坊依旧是应用核心，凭先发优势和持续优化难以取代】10月22日消息，在ETHShanghai 2025主论坛上，万向控股副董事长兼执行董事、万向区块链董事长、HashKey Group董事长兼CEO肖风表示，区块链可以大致分为两类，一类以比特币为代表，主要是货币发行系统，通过简单的数学公式实现高速运算，不允许进行复杂的外部部署，从而在全球范围内快速达成共识，因此被视为“数字黄金”；另一类以以太坊为代表，以应用为中心，沿着白皮书初衷逐步发展，目前占据了60%-70%的应用市场份额。肖风指出，不必试图取代以太坊，因为它具有先发优势并在持续改进，其他区块链项目需要证明自身战略定位与以太坊不同并提供差异化价值，挑战以太坊的可能性非常低。 
-肖风还强调，DeFi发展不可忽视，但需要兼顾KYC和反洗钱要求，其理念与传统金融不同。通过零知识身份认证（ZK ID），用户可以凭借证书、证明、工作经历等信息确认自身合格投资者身份，从而在全球范围内安全交易，让去中心化金融更好地服务全球金融体系。
+- [Forward Industries 组建 25 人加密货币顾问委员会，以推进 SOL 财库战略](https://in.investing.com/news/company-news/forward-industries-appoints-25member-crypto-advisory-board-for-solana-strategy-93CH-5057049) - 📰 null - 【Forward Industries 组建 25 人加密货币顾问委员会，以推进 SOL 财库战略】10月22日消息，据 Investing.com 报道，Forward Industries（纳斯达克：FORD）宣布成立加密货币顾问委员会，由 25 名在 Solana 生态系统、数字资产和金融服务领域具有丰富经验的成员组成。 
+顾问委员会包括 Helium 创始人兼 Nova Labs 首席执行官 Amir Haleem、Backpack 创始人兼首席执行官 Armani Ferrante、Superstate 首席执行官 Robert Leshner 等知名人士。该委员会将为 Forward Industries 推进以 Solana 为重点的数字资产库存战略提供战略建议。 
+据悉，Forward Industries 目前已累计持有 6,871,599.06 枚 Solana 代币，平均成本为每枚 232.08 美元，总投资约 15.9 亿美元，几乎所有代币都通过其验证器基础设施进行质押。
+- [美股上市公司Applied DNA Sciences宣布持有价值超1700万美元的BNB](https://www.businesswire.com/news/home/20251022240411/en/Applied-DNA-Sciences-Closes-up-to-%2458-Million-Private-Placement-Announces-Initial-BNB-Holdings-Valued-at-Over-%2417-Million) - 📰 null - 【美股上市公司Applied DNA Sciences宣布持有价值超1700万美元的BNB】10月22日消息，据BusinessWire报道，美股上市生物技术公司 Applied DNA Sciences（纳斯达克：BNBX）宣布成功完成此前公布的私募股权投资（PIPE）融资，总募资额约 2700 万美元，未来通过认股权证行权可能额外获得最高 3100 万美元。 
+该公司正式启动以收益为重点的数字资产国库策略。融资收益包括 1530 万美元现金和稳定币，以及价值 1171 万美元的 OBNB 信托单位。公司获得总计 435,638 个信托单位，代表 10,647 个 BNB 代币的底层所有权。此外，Applied DNA Sciences 还额外购买了 4,908 个 BNB 代币。 
+首席投资官 Patrick Horsman 表示，公司将 BNB 视为下一个机构级区块链。公司计划将净收益用于继续实施 BNB 财库策略、支持营运资金需求和承担交易相关费用。
+- [被盗矿池Lubian钱包转出近1.6万枚BTC](https://x.com/OnchainLens/status/1980971433615561170) - 📰 null - 【被盗矿池Lubian钱包转出近1.6万枚BTC】金色财经报道，据链上分析师 Onchain Lens 监测，Lubian 钱包再次出现大额转账活动，向 4 个不同钱包转移了 15,959 枚 BTC，总价值约 18.3 亿美元。
+- [市场消息：美联储提出计划，将大幅放宽大型银行的资本金上调要求]() - 📰 null - 【市场消息：美联储提出计划，将大幅放宽大型银行的资本金上调要求】金色财经报道，市场消息：美联储提出计划，将大幅放宽大型银行的资本金上调要求。(金十)
+- [Meta据称将从AI部门裁减数百个职位]() - 📰 null - 【Meta据称将从AI部门裁减数百个职位】金色财经报道，据AXIOS网站，Meta Platforms(META.US)将从其AI部门裁减数百个职位。Meta将在超级智能实验室裁减约600个职位。Meta仍在积极为TBD实验室招聘人员。
+- [Aave DAO提出“每年5000万美元的Aave回购计划”相关提案](https://x.com/coinotag/status/1980964041037070444) - 📰 null - 【Aave DAO提出“每年5000万美元的Aave回购计划”相关提案】金色财经报道，据市场消息：Aave DAO提出“每年5000万美元的Aave回购计划”相关提案以改进Aavenomics。
+- [美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投]() - 📰 null - 【美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投】金色财经报道，美国商业人工智能公司Uniphore宣布完成2.6亿美元F轮融资。本轮投资方包括英伟达、AMD、Snowflake和Databricks，同时获得NEA、March Capital、BNF Capital、National Grid Partners及Prosperity7 Ventures等金融与主权投资机构的参与。
+- [加密货币领袖齐聚国会山探讨市场结构立法](https://www.cryptoinamerica.com/p/crypto-leaders-descend-on-capitol?utm_source=post-email-title&publication_id=4354746&post_id=176791662&utm_campaign=email-post-title&isFreemail=true&r=18jk6&triedRedirect=true&utm_medium=email) - 📰 null - 【加密货币领袖齐聚国会山探讨市场结构立法】金色财经报道，据Crypto In America报道，加密货币领域各大公司高管以及特朗普加密货币“沙皇”David Sacks，将于今天上午齐聚国会山，与正在努力推进市场结构立法的参议院共和党人和民主党人会面。他们的目标是：重启两党谈判，并在中期选举成为优先事项之前将法案提交给特朗普总统。 
+约有十位行业高管出席，其中包括 Coinbase 首席执行官 Brian Armstrong、Galaxy Digital 首席执行官 Mike Novogratz、Kraken 首席执行官 Dave Ripley、Chainlink 首席执行官 Sergey Nazarov 和 Uniswap 首席执行官 Hayden Adams，以及 Circle 首席战略官 Dante Disparte、Ripple 首席法务官 Stuart Alderoty、Jito 首席法务官 Rebecca Rettig、a16z crypto 总法律顾问 Miles Jennings、Solana 政策研究所所长 Kristin Smith 和 Paradigm 监管事务副总裁 Justin Slaughter。 
+此次圆桌会议的目标是修复关系，重启成员之间的对话。两周前，民主党工作人员向共和党同行泄露了一份关于监管去中心化金融的提案，此举激怒了大部分行业人士。这份提案暴露了双方在这项本已错综复杂的法案中最棘手的部分上仍然存在巨大分歧。谈判随后破裂，共和党拒绝继续讨论，除非民主党同意设定一个最终日期，而民主党则坚称他们需要更多时间来征求意见，使该法案成为两党共同的成果。两党助手都声称，他们希望圆桌会议能够重启谈判​​，并在 DeFi 领域培养新的对话精神。
+- [纳斯达克100指数期货扩大跌幅，跌至盘中低点]() - 📰 null - 【纳斯达克100指数期货扩大跌幅，跌至盘中低点】金色财经报道，纳斯达克100指数期货扩大跌势，跌幅达0.3%，至盘中低点。
+- [日本比特币财库公司Remixpoint被纳入Bitwise比特币标准企业ETF](https://x.com/BTCtreasuries/status/1980961355219025983) - 📰 null - 【日本比特币财库公司Remixpoint被纳入Bitwise比特币标准企业ETF】金色财经报道，据市场消息：日本比特币财库公司 Remixpoint（股票代码：3825）被纳入 Bitwise 比特币标准企业交易所交易基金（ETF），该 ETF 交易代码为 $OWNB。
+- [Coinbase CEO今日将与参议院民主党人、共和党人以及白宫就加密货币市场结构展开讨论](https://x.com/BitcoinMagazine/status/1980960389740298596) - 📰 null - 【Coinbase CEO今日将与参议院民主党人、共和党人以及白宫就加密货币市场结构展开讨论】金色财经报道，据市场消息：Coinbase首席执行官布莱恩・阿姆斯特朗（Brian Armstrong）今日将前往华盛顿特区，与参议院民主党人、共和党人以及白宫就加密货币市场结构展开讨论。
+- [AI Web3 初创公司 Bluwhale 完成 1000 万美元 A 轮融资](https://www.globenewswire.com/news-release/2025/10/22/3170933/0/en/Bluwhale-Secures-10-Million-Strategic-Series-A-in-Institutional-Funding.html) - 📰 null - 【AI Web3 初创公司 Bluwhale 完成 1000 万美元 A 轮融资】金色财经报道，AI Web3 初创公司 Bluwhale 宣布完成 1000 万美元 A 轮融资，该轮融资由 UOB Venture Management 领投，许多现有投资者参与了此轮融资，而新的支持者包括 PAID Network、Sublime Ventures、High Cosmos Capital、CMY Ventures、DataSpike、NewHeritage 和亚马逊人工智能主管等。
+- [BTC突破108000美元]() - 📰 null - 【BTC突破108000美元】金色财经报道，行情显示，BTC突破108000美元，现报108010.99美元，24小时跌幅达到0.39%，行情波动较大，请做好风险控制。
+- [稳定币支付提供商 Cybrid 完成 1000 万美元 A 轮融资](https://www.axios.com/pro/fintech-deals/2025/10/22/cybrid-10m-stablecoin-fiat-rails) - 📰 null - 【稳定币支付提供商 Cybrid 完成 1000 万美元 A 轮融资】金色财经报道，据 Axios 报道，提供稳定币和法币支付基础设施的 Cybrid 完成 1000 万美元 A 轮融资。
+- [吉姆·克拉默：加密货币正处于“2000年投机泡沫的水平”](https://x.com/Cointelegraph/status/1980952526561120301) - 📰 null - 【吉姆·克拉默：加密货币正处于“2000年投机泡沫的水平”】金色财经报道，据市场消息：美国知名财经媒体人、股市评论员 Jim Cramer（吉姆·克拉默）警告称，加密货币正处于“2000年投机泡沫的水平”，敦促投资者在可能的回调之前削减仓位。
+- [美国国家冰球联盟与Polymarket达成授权协议](https://x.com/cryptounfolded/status/1980952760213254323) - 📰 null - 【美国国家冰球联盟与Polymarket达成授权协议】金色财经报道，据市场消息：美国国家冰球联盟与Polymarket达成授权协议。（华尔街日报）
+- [ETH跌破3800美元]() - 📰 null - 【ETH跌破3800美元】金色财经报道，行情显示，ETH跌破3800美元，现报3796.9美元，24小时跌幅达到2.1%，行情波动较大，请做好风险控制。
+- [BTC跌破107000美元]() - 📰 null - 【BTC跌破107000美元】金色财经报道，行情显示，BTC跌破107000美元，现报106990美元，24小时跌幅达到1.26%，行情波动较大，请做好风险控制。
+- [币安钱包将于 10 月 23 日上线 aPriori (APR) 独家 TGE](https://x.com/binancezh/status/1980952324303704438) - 📰 null - 【币安钱包将于 10 月 23 日上线 aPriori (APR) 独家 TGE】金色财经报道，币安钱包将于 2025 年 10 月 23 日下午 4 点至 6 点独家上线 aPriori (APR) 代币生成活动（TGE）。符合资格的用户需使用币安 Alpha 积分参与认购。此外，2500 万枚 APR 将用于未来活动，具体细节将另行公布。TGE 详情及活动页面即将发布。
+- [Moonbirds 母公司 CEO：团队正在进行Moonbirds历史上最大交易之一](https://x.com/spencer/status/1980836064689549548) - 📰 null - 【Moonbirds 母公司 CEO：团队正在进行Moonbirds历史上最大交易之一】金色财经报道，Moonbirds 母公司 Orange Cap Games CEO Spencer 发文表示，团队目前正在推进 Moonbirds 历史上规模最大的交易之一。
