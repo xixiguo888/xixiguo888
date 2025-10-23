@@ -1,39 +1,22 @@
-- [美国9月CPI年率或接近3%，美联储对通胀变化方向担忧]() - 📰 null - 【美国9月CPI年率或接近3%，美联储对通胀变化方向担忧】金色财经报道，英国研究机构CEPR首席经济学家Dean Baker表示，美国9月CPI数据可能显示与8月类似的增长率，整体和核心CPI年率预计接近3%，高于美联储2%的目标。通胀水平的变化方向可能令美联储感到担忧，尤其是在关税影响尚未完全转嫁给消费者的情况下。（金十）
-- [BTC突破110000美元]() - 📰 null - 【BTC突破110000美元】金色财经报道，行情显示，BTC突破110000美元，现报110024.73美元，24小时涨幅达到1.75%，行情波动较大，请做好风险控制。
-- [Paxos误铸300万亿美元稳定币后销毁，CEO称透明是区块链优势](https://decrypt.co/345584/paxos-co-founder-transparency-silver-lining-300t-stablecoin-snafu) - 📰 null - 【Paxos误铸300万亿美元稳定币后销毁，CEO称透明是区块链优势】金色财经报道，据Decrypt报道，Paxos首席执行官Charles Cascarilla周三在美联储加密货币圆桌会议上表示，公司上周意外铸造价值300万亿美元的PayPal稳定币(PYUSD)是因"内部技术错误"，并将其在24分钟内全部销毁。这一金额超过全球GDP的两倍。Cascarilla试图将此事件重新定义为区块链透明性的优势体现，称"这实际上展示了区块链能立即提供的透明度"。
-- [美国国债收益率下跌，预示美联储将降息]() - 📰 null - 【美国国债收益率下跌，预示美联储将降息】金色财经报道，美国投资者Louis Navellier在一份报告中表示，近期美国国债收益率的全面下跌预示着美联储将降息。Navellier预计美联储将在10月29日和12月10日的会议上降息，市场预期10月降息25个基点的可能性接近97%，12月再次降息25个基点的可能性为94%。（金十）
-- [基于Hyperliquid的流动质押平台Kinetiq推出治理代币KNTQ](https://thedefiant.io/news/defi/hyperliquid-based-kinetiq-unveils-kntq-governance-token) - 📰 null - 【基于Hyperliquid的流动质押平台Kinetiq推出治理代币KNTQ】金色财经报道，周三，Kinetiq基金会正式推出协议官方治理代币KNTQ。作为Hyperliquid公链Layer1（HyperEVM）生态中规模最大的流动性质押平台，Kinetiq当前TVL已超16亿美元。 
-该代币总供应量上限为10亿枚，符合条件的空投领取者需在协调世界时11月21日20:00前同意《Kinetiq基金会使用条款》方可获得代币。 
-从代币分配方案看，30%的KNTQ将用于协议发展与奖励发放；25%用于初始空投，其中1%分配给Hypurr持有者，24%归属kPoints积分持有者——这一积分体系自7月中旬启动，用户通过质押HYPE的数量与时长等维度累积积分，为空投做准备；23.5%分配给核心贡献者，10%由Kinetiq基金会持有，7.5%面向投资者，剩余4%用于流动性支持。
-- [VanEck：比特币回调属周期性调整 全球流动性仍主导价格走势](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-october-2025-bitcoin-chaincheck/) - 📰 null - 【VanEck：比特币回调属周期性调整 全球流动性仍主导价格走势】金色财经报道，VanEck发布2025年10月中旬比特币链上报告，9月中旬至10月中旬的三大核心要点如下： 
-流动性驱动市场周期 
-全球M2货币供应增长仍能解释超过一半的比特币价格波动，再次强化比特币作为“对抗货币滥发”资产的角色。过去一年，亚洲交易时段主导价格发现，这表明区域性流动性收紧正推动近期市场波动。 
-杠杆清洗创造机会 
-比特币期货未平仓合约在10月初达到520亿美元高位，随后连续性爆仓导致比特币在10月初下跌约18%。目前杠杆已回落至第61百分位，且比特币相对黄金的价格接近一年低位，我们认为这属于周期中期调整而非熊市开启。 
-链上数据反映市场成熟 
-各主流公链（L1）的收入与价格呈现强关联，比特币Treasury持续被机构增持，这显示比特币生态正在成熟，并强化其在资产配置模型中的重要地位。
-- [Binance：至少拥有240分的用户可参与本次aPriori（APR）TGE活动](https://x.com/binancezh/status/1981233425114943795) - 📰 null - 【Binance：至少拥有240分的用户可参与本次aPriori（APR）TGE活动】金色财经报道，Binance发步公告称，BinanceAlpha积分大于等于240的用户，可通过Alpha活动页面参与本次aPriori（APR）的独家TGE活动。参与该活动将消耗15积分。
-- [Ark Invest昨日增持约2130万美元Robinhood股票](https://x.com/ArkkDaily/status/1981153336004071714) - 📰 null - 【Ark Invest昨日增持约2130万美元Robinhood股票】金色财经报道，据Ark Invest Tracker报道，Cathie Wood旗下Ark Invest于昨日增持167489股Robinhood股票（约2130万美元）。
-- [Multicoin Capital合伙人Kyle Samani：相比TEE和ZKP 更看好FHE](https://x.com/KyleSamani/status/1981036820516225425) - 📰 null - 【Multicoin Capital合伙人Kyle Samani：相比TEE和ZKP 更看好FHE】金色财经报道，10月23日，Multicoin Capital合伙人Kyle Samani在X发文加入加密社区最近热议的隐私讨论表示，资产比隐私更重要，对于99%的人来说，波动的风险远远超过隐私带来的好处。实现链上隐私主要有 3 种方法：可信执行环境 (TEE)、零知识证明 (ZKP)、全同态加密 (FHE)。在思考哪种方法最优时，有三个变量很重要：A、无需许可；B、能够执行任意DeFi；C、算法 + 芯片的扩展性能。但TEE在非许可环境下不起作用，B正是ZKP失败的地方，他以最近大涨的隐私项目Zcash为例，当你提交一笔匿名的Zcash交易时，这笔交易实际上无法看到或无法与任何其他人的资产进行交互，无法进行DeFi。而FHE允许对加密数据进行计算，采用FHE 结构的隐私DeFi很简单。因此他表示，他更看好FHE。
-- [观点：韩国稳定币业务有可能以 “银行联盟为核心” 进行重组](https://www.sedaily.com/NewsView/2GZAF8AQGI) - 📰 null - 【观点：韩国稳定币业务有可能以 “银行联盟为核心” 进行重组】金色财经报道，据韩国银行（韩国央行）的香港当地信息显示，香港金融管理局（HKMA）自今年 8 月起受理的稳定币发行方牌照申请数量，低于预期水平。香港金融管理局表示，截至 9 月末，申请机构仅 36 家。这一数量甚至不足初期表现出兴趣的 77 家机构的一半。 
-韩国银行也在密切关注香港的案例。因为即便在资本流动管制宽松、且无金融与产业分离原则（“金产分离原则”）的香港，也需在严格监管框架下管理稳定币，这一情况将为韩国银行的政策提供更充分的依据。 
-与此相呼应，有观点预测，韩国国内稳定币业务也极有可能以 “银行联盟为核心” 进行重组。20 日，在韩国国会国政监察会议上，韩国金融委员会与韩国银行共同表明立场，认为韩元稳定币的发行主体应是以银行业为核心的联盟。 
-针对共同民主党议员柳东洙 “兼顾创新与稳定时，由银行参与的联盟形式是否更为合适” 的质询，韩国金融委员会副委员长权大英回应称 “同意这一观点”。韩国银行也在业务报告中强调 “原则上表示支持”，并指出 “有必要通过以银行为核心的联盟来发行（稳定币）”。
-- [日本拟禁止银行、保险公司销售虚拟货币，证券公司或获许可](https://www.yna.co.kr/view/AKR20251023091200073?section=market-plus/cryptocurrency) - 📰 null - 【日本拟禁止银行、保险公司销售虚拟货币，证券公司或获许可】金色财经报道，日本金融厅正推进一项金融产品监管方案，拟禁止银行与保险公司销售虚拟货币，同时允许证券公司等机构开展虚拟货币销售业务。 
-此前，日本金融厅已将虚拟货币视为投资标的，并一直在探讨依据《金融商品交易法》对其实施监管的方案。金融厅认为，虚拟货币价格波动剧烈，且存在因网络攻击导致资产泄露的风险，因此需保护存款人及保险合同持有人的利益。 
-不过，鉴于互联网证券公司等机构已在开展虚拟货币销售业务，从公平竞争的角度出发，日本金融厅初步决定允许银行或保险公司旗下的证券子公司销售虚拟货币。 
-该报道还指出，“预计只有在风险管理措施完善后，日本金融厅才可能认可银行或保险公司持有并运作虚拟货币的行为”。 
-日本金融厅计划在明年的例行国会上提交相关法律修正案。
-- [Sonic：主网和测试网所有节点必须立即升级到2.1.2版本，以免断开连接](https://x.com/SonicLabs/status/1981103007443145066) - 📰 null - 【Sonic：主网和测试网所有节点必须立即升级到2.1.2版本，以免断开连接】金色财经报道，Sonic在X平台发布通知称：主网和测试网上的所有节点必须立即升级到2.1.2版本，以免断开连接，此版本引入了原生费用补贴和关键安全改进，在Sonic主网全面升级到Pectra兼容性之前取代了早期的v2.1，适用于验证者、RPC提供方、存档节点、交易所、其他节点运营商，升级后节点将继续在当前主网上运行，直到2025年11月3日完全过渡。
-- [瑞典北欧思安银行推出以欧元计价的稳定币]() - 📰 null - 【瑞典北欧思安银行推出以欧元计价的稳定币】金色财经报道，瑞典北欧思安银行加入了由九家欧洲主要银行组成的联盟，推出了一种以欧元计价的稳定币。（金十）
-- [英国金融行为监管局在加密货币整治行动中对HTX提起诉讼](https://financefeeds.com/uks-fca-files-lawsuit-against-htx-in-crypto-crackdown/) - 📰 null - 【英国金融行为监管局在加密货币整治行动中对HTX提起诉讼】金色财经报道，英国金融行为监管局（FCA）已加大对未注册加密货币交易所的执法力度，不仅向数百家企业发出警告，还对该领域最大的离岸平台之一提起诉讼。此次整治行动的背景是，该监管机构近几个月来多次警告称，许多企业在未获得适当授权的情况下向英国客户提供服务。 
-今年10月，英国金融行为监管局（FCA）将数十个平台列为重点关注对象，其中包括Elite Bit Markets、Nexure Gainbit、Plux Crypto以及此前名为火币（Huobi）的交易所HTX。该机构表示，这些被盯上的企业中，多数在未依据英国反洗钱法规完成注册的情况下，向英国居民推广加密货币产品或服务。 
-本周二，英国金融行为监管局（FCA）证实，已因HTX向英国用户推广加密货币交易业务对其提起诉讼。该机构发言人称：“我们看到许多加密货币企业对我们的金融推广法规做出了积极回应；但如果发现仍有企业存在违规操作，我们会毫不犹豫地采取行动。”
-- [东京上市公司Quantum Solutions 7天购入2365枚ETH，成为日本最大以太坊持仓公司](https://x.com/Cointelegraph/status/1981216706279166361) - 📰 null - 【东京上市公司Quantum Solutions 7天购入2365枚ETH，成为日本最大以太坊持仓公司】金色财经报道，在东京证券交易所上市的Quantum Solutions公司宣布，其仅用7天时间便购入了2365枚以太坊。此举使其成为日本规模最大的以太坊持仓公司，且该公司得到了方舟投资（Ark Invest）的支持。
-- [Radiant Capital漏洞利用者已将2834.6枚ETH存入Tornado Cash](https://x.com/CertiKAlert/status/1981215744361996338) - 📰 null - 【Radiant Capital漏洞利用者已将2834.6枚ETH存入Tornado Cash】金色财经报道，据CertiKAlert监测，Radiant Capital漏洞利用者已将2834.6枚ETH（约合1080万美元）存入混币器Tornado Cash。其中2213.8枚ETH由EOA0x4afb地址于2024年10月通过Arbitrum桥接转入，其余资金系通过DAI兑换所得。 
-2024年10月16日，Radiant借贷池在BNB链与Arbitrum上遭遇攻击，损失约5300万美元。攻击者通过控制11个多签钱包签名者中的3个权限，替换了Radiant借贷池的实现合约从而盗取资金。
-- [Jupiter计划2026年前全面推出全新预测市场](https://cointelegraph.com/news/dex-aggregator-jupiter-q4-full-launch-new-predictions-market) - 📰 null - 【Jupiter计划2026年前全面推出全新预测市场】金色财经报道，基于Solana的去中心化交易所聚合器Jupiter正计划在第四季度，全面推出其与Kalshi合作开发的原生预测市场产品。 
-Jupiter于周三宣布，其Jupiter Prediction Market的测试版（beta version）已正式上线。Kalshi将为Jupiter这一新产品提供流动性支持，该产品允许用户对各类事件的结果进行投注。
-- [Coinbase CEO：正在Base上构建隐私交易](https://x.com/brian_armstrong/status/1980732855014813712) - 📰 null - 【Coinbase CEO：正在Base上构建隐私交易】金色财经报道，Coinbase CEO Brian Armstrong在X发文表示，正在Base上构建隐私交易，Coinbase于2025年3月收购了Iron Fish团队后就开始着手这项工作。
-- [某新建钱包两小时内从OKX提取8491枚ETH，价值3247万美元](https://x.com/EmberCN/status/1981209202564747373) - 📰 null - 【某新建钱包两小时内从OKX提取8491枚ETH，价值3247万美元】金色财经报道，据加密分析师余烬监测，一个新创建的钱包在过去两小时内从OKX提取了8491枚ETH，价值约3247万美元，提取均价为3824美元。
-- [易理华：每天那么多新项目上线 交易所等是最大受益和推动方](https://x.com/Jackyi_ld/status/1981191408561389778) - 📰 null - 【易理华：每天那么多新项目上线 交易所等是最大受益和推动方】金色财经报道，LD Capital创始人23日在X发文表示，认知是最好的核心竞争力，全世界每个人都想赢，但是往往只有极少数人能够成，比如每天那么多新项目上线（明知大部分最后归零），交易所/项目方/做市商是最大受益和推动方，市场满屏却在嘲笑VC。某个大空头在下跌阶段性做空，市场满屏却在酸是内幕哥。要在嘈杂无用的信息中保持思考和进步，提升认知和知行合一，才是能拿到结果的途径，CZ和马云都是在38岁才开始，不用急时间并不是问题。
+- [渣打银行：今年年底比特币价格可能达到 20 万美元](https://x.com/BitcoinNewsCom/status/1981336301132566578) - 📰 null - 【渣打银行：今年年底比特币价格可能达到 20 万美元】金色财经报道，据Bitcoin News报道，据渣打银行预测，到今年年底，比特币价格可能达到 20 万美元。
+- [以太坊财库公司ETHZilla对Satschel投资1500万美元](https://www.prnewswire.com/news-releases/ethzilla-announces-strategic-partnership-with-liquidityio-302591992.html) - 📰 null - 【以太坊财库公司ETHZilla对Satschel投资1500万美元】金色财经报道，以太坊财库公司ETHZilla宣布与受监管的经纪自营商和数字另类交易系统 (ATS) 运营商Liquidity.io建立战略合作伙伴关系，并对其全资子公司Satschel投资1500万美元（500万美元现金和1000万美元股权投资），旨在探索RWA证券化战略和提升ETHZilla机构级代币化能力。
+- [Robinhood 上线 HYPE 现货交易]() - 📰 null - 【Robinhood 上线 HYPE 现货交易】金色财经报道，官方页面显示，Robinhood 上线 HYPE 现货交易。
+- [aPriori宣布APR空投领取现已开放](https://x.com/aPriori/status/1981330167172911252) - 📰 null - 【aPriori宣布APR空投领取现已开放】10月23日消息，Monad 生态流动性质押协议 aPriori 宣布 APR 空投领取现已开放。用户有 21 天的时间进行选择，提前领取较小份额，或等待 Monad 主网稍后解锁大部分份额。
+- [BTC跌破109000美元]() - 📰 null - 【BTC跌破109000美元】金色财经报道，行情显示，BTC跌破109000美元，现报108975.16美元，24小时涨幅达到1.26%，行情波动较大，请做好风险控制。
+- [前Coinbase工程师创立的Fal.ai完成2.5亿美元融资，红杉资本等参投](https://techfundingnews.com/ex-coinbase-amazon-engineers-fal-ai-raises-250m-to-power-next-gen-multimedia-tools-valuation-tops-4b/) - 📰 null - 【前Coinbase工程师创立的Fal.ai完成2.5亿美元融资，红杉资本等参投】金色财经报道，前Coinbase工程师Burkay Gur等创立的数字内容托管平台Fal.ai宣布完成2.5亿美元融资，凯鹏华盈、红杉资本等参投，截至目前其融资总额达到4.5亿美元，早期投资方还包括Andreessen Horowitz、Bessemer Venture Partners和First Round Capital。Fal.ai是一个托管平台，目前主要托管图像、视频和音频等数字内容，新资金拟用于弥合复杂模型基础设施与现实世界可扩展应用之间的差距。
+- [付费聊天平台ReachMe宣布停止运营]() - 📰 null - 【付费聊天平台ReachMe宣布停止运营】10月23日消息，BNB Chain 生态付费聊天平台 ReachMe 宣布停止运营，所有服务已永久关闭，用户数据已根据隐私政策得到安全处理，无法进行进一步的交易或消息传递。 
+此前 Binance 创始人 CZ 通过 ReachMe 接收私信，每条消息收费 1 BNB，并在 4 月 8 日将私信价格由 1 BNB 下调至 0.8 BNB。
+- [Binance将下架币本位GMT与DOGS永续合约]() - 📰 null - 【Binance将下架币本位GMT与DOGS永续合约】金色财经报道，Binance 合约将于 10 月 28 日 09:00（北京时间）对币本位 GMT USD 和 DOGS USD 永续合约进行平仓并自动结算。结算完成后，合约将被下架。
+- [1亿枚USDT从Aave转出](https://x.com/whale_alert/status/1981319412398387314) - 📰 null - 【1亿枚USDT从Aave转出】金色财经报道，据Whale Alert监测，100,000,000枚USDT（约合100,004,750美元）从Aave转移到一个未知的钱包。
+- [摩根大通：预计到2028年金价将达到6000美元]() - 📰 null - 【摩根大通：预计到2028年金价将达到6000美元】金色财经报道，摩根大通：黄金是我们今年最看好的长期投资标的，不过随着美联储降息周期的开启，我们仍认为金价有进一步上涨空间。我们预计到2028年金价将达到6000美元。
+- [Monochrome 现货比特币 ETF 的 BTC 持仓已突破 1100 枚](https://x.com/MonochromeAsset/status/1981316038764744908) - 📰 null - 【Monochrome 现货比特币 ETF 的 BTC 持仓已突破 1100 枚】金色财经报道，据官方公告，Monochrome现货比特币ETF（IBTC）披露截至10月22日持仓量已达到1101枚比特币，持仓市值已超过1.83亿澳元。
+- [美元兑日元日内涨超0.5%，现报152.73]() - 📰 null - 【美元兑日元日内涨超0.5%，现报152.73】金色财经报道，美元兑日元（USD/JPY）日内涨幅超过0.5%，当前报价为152.73。（金十）
+- [英国政府与OpenAI达成协议，以扩大数据托管范围]() - 📰 null - 【英国政府与OpenAI达成协议，以扩大数据托管范围】金色财经报道，市场消息：英国政府与OpenAI达成协议，以扩大数据托管范围。(金十)
+- [道富集团：投资者对风险资产的乐观情绪恐已过度]() - 📰 null - 【道富集团：投资者对风险资产的乐观情绪恐已过度】金色财经报道，道富环球市场公司亚太宏观策略主管Dwyfor Evans指出，投资者对高风险资产的信心可能已经过度。他在新加坡举行的亚洲证券业与金融市场协会资产管理会议上表示，当前投资者正在买入美股，同时对冲美元风险敞口并抛售美国国债。Evans预计，随着进口商品和本土商品价格双双上涨，美国通胀将逐步回升，并称“3%已成为新的2%”。他补充道，这一点对美联储至关重要——若降息次数减少，美元可能反弹。鉴于政策不确定性持续高企，Evans警告当前的市场风险仓位可能过于乐观。(金十)
+- [BNB突破1100美元]() - 📰 null - 【BNB突破1100美元】金色财经报道，行情显示，BNB突破1100美元，现报1100.16美元，24小时涨幅达到3.57%，行情波动较大，请做好风险控制。
+- [WazirX 将于 10 月 24 日恢复运营](https://www.coindesk.com/markets/2025/10/23/wazirx-to-restart-trading-on-friday-after-usd230m-hack-caused-year-long-shutdown) - 📰 null - 【WazirX 将于 10 月 24 日恢复运营】金色财经报道，根据发给债权人的电子邮件，印度加密货币交易所 WazirX 将于 10 月 24 日恢复运营。数千名债权人陷入了长达一年多的不确定状态，此次崩溃导致价值超过 2.3 亿美元的各种代币从交易所被盗。 
+此次重启是在新加坡高等法院批准 WazirX 母公司 Zettai Pte. Ltd. 进行重组之后进行的，该重组于今年早些时候获得了债权人的几乎一致支持。
+- [Binance alpha 已上线 APR]() - 📰 null - 【Binance alpha 已上线 APR】金色财经报道，官方页面显示，Binance alpha 已上线 APR。
+- [Web3基础设施提供商Entry完成100万美元融资](https://www.finsmes.com/2025/10/entry-raises-1m-in-pre-seed-funding.html) - 📰 null - 【Web3基础设施提供商Entry完成100万美元融资】金色财经报道，Web3 基础设施提供商 Entry 宣布完成 100 万美元的 Pre-Seed 轮融资，由 Modern Niagara 领投，Qrecendo 和 Perrfin 参投。此次融资结合了股权与未来代币简单协议（SAFT）要素，种子期 FDV 约为 2500 万美元，TGE 预计约为 5000 万美元。
+- [OKX将上线 BLUAIUSDT永续合约](https://www.okx.com/zh-hans/help/okx-to-list-perpetual-futures-for-bluai-crypto) - 📰 null - 【OKX将上线 BLUAIUSDT永续合约】据官方消息，OKX将于 2025 年 10 月 23 日下午 6:00 (UTC+8) 在网页端、App 端及 API 正式上线 BLUAIUSDT永续合约。据悉，Bluwhale 是 Web3 的智能层，通过利用消费者的移动设备，协同去中心化的数据、存储和算力。
+- [某巨鲸增持851.5万枚PROVE，价值684万美元](https://x.com/OnchainLens/status/1981293262662226192) - 📰 null - 【某巨鲸增持851.5万枚PROVE，价值684万美元】金色财经报道，据OnchainLens监测，某巨鲸进一步从Binance和Bybit提取了851.5万枚PROVE，价值684万美元。该巨鲸现持有2597万枚PROVE，价值2114万美元。
