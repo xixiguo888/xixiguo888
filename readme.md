@@ -1,37 +1,25 @@
-- [某鲸鱼转移11,942枚ETH至Coinbase Institutional，价值约5,047万美元](https://whale-alert.io/transaction/ethereum/0xedd38c1c492e7522d864d67c284545002dc203bf20fff3c83bc52bf4524c6319) - 📰 null - 【某鲸鱼转移11,942枚ETH至Coinbase Institutional，价值约5,047万美元】金色财经报道，据Whale Alert监测，某鲸鱼约2分钟前将11,942枚ETH（价值约50,466,314美元）转移至Coinbase Institutional。
-- [币安 Alpha：SnapX (XNAP) 空投申领门槛为230 Alpha 积分]() - 📰 null - 【币安 Alpha：SnapX (XNAP) 空投申领门槛为230 Alpha 积分】金色财经报道，据官方公告，币安 Alpha 是首个上线 SnapX (XNAP) 的平台，Alpha 交易将于 2025 年 10 月 27 日 15:00（UTC+8）开始。 
-交易开始后，持有至少 230 个币安 Alpha 积分的用户可申领 500 个 XNAP 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。 
-请注意，申领空投将消耗 15 个币安 Alpha 积分。用户需在 Alpha 活动页面于 24 小时内确认申领，否则视为放弃领取空投。
-- [印度法院裁定加密货币为财产，禁止 WazirX 重新分配用户的 XRP 资产](https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis) - 📰 null - 【印度法院裁定加密货币为财产，禁止 WazirX 重新分配用户的 XRP 资产】金色财经报道，据 Decrypt 报道，印度马德拉斯高等法院周五裁定加密货币构成受宪法保护的财产，阻止 WazirX 在其新加坡重组计划下重新分配用户资产。 
-法官 N. Anand Venkatesh 颁布禁令保护 3,532 枚 XRP 代币，拒绝了该交易所在 2024 年 7 月遭受 2.34 亿美元黑客攻击后提出的"损失社会化"方案。法官表示，虽然加密货币"既不是有形财产也不是货币"，但"它是一种财产，能够以有益的形式被享有和拥有"。 
-该裁决确立了加密资产作为财产的法律地位，并规定交易所托管的资产必须被视为客户信托财产。法院还拒绝了 WazirX 关于其新加坡法院批准的重组自动约束印度用户的论点。目前用户仅收到了预期资金的 30%。
-- [火币HTX已上线币安人生/USDT永续合约]() - 📰 null - 【火币HTX已上线币安人生/USDT永续合约】10月27日消息，据官方公告，火币HTX已于10月27日上线币安人生/USDT永续合约，最高杠杆20倍。此前，火币HTX已上线币安人生现货交易。
-- [某钱包从币安再次提取49万枚LINK，持仓总价值达1400万美元](https://x.com/OnchainLens/status/1982680679113736267) - 📰 null - 【某钱包从币安再次提取49万枚LINK，持仓总价值达1400万美元】金色财经报道，据链上分析师OnchainLens（@OnchainLens）监测，一个新创建的钱包再次从币安提取490,188枚LINK代币，价值约900万美元。该钱包目前持有771,095枚LINK，总价值约1400万美元，预计将继续进行提取操作。
-- [某鲸鱼过去6小时卖出4550万枚TRX换仓以太坊](https://x.com/OnchainLens/status/1982672294406451493) - 📰 null - 【某鲸鱼过去6小时卖出4550万枚TRX换仓以太坊】金色财经报道，据OnchainLens监测，过去6小时内，一位鲸鱼卖出了4550万枚TRX（价值1360万美元），以4084美元的价格买入了3332.6枚ETH。过去3个月，这位鲸鱼卖出了6.2927亿枚TRX（价值2.173亿美元），以4490美元的均价买入了48,390枚ETH。据悉，这位鲸鱼是从Binance提现的这些TRX。
-- [阿根廷总统Javier Milei领导的支持加密货币政党"自由前进党"在中期选举中获胜](https://cointelegraph.com/news/javier-mileis-party-wins-argentinas-midterms) - 📰 null - 【阿根廷总统Javier Milei领导的支持加密货币政党"自由前进党"在中期选举中获胜】10月27日消息，据Cointelegraph报道，阿根廷总统 Javier Milei 领导的支持加密货币政党"自由前进党"（La Libertad Avanza）在中期选举中获胜，获得 40.68% 的选票，击败庇隆主义政党，为 Milei 在 2027 年 10 月总统选举中的竞选地位奠定基础。 
-据报道称，尽管 Milei 此前因 LIBRA 代币丑闻受到争议，该代币在他提及后市值飙升至 46 亿美元后暴跌 94%，但阿根廷反腐监管机构已澄清 Milei 无任何不当行为。
-- [Opinion 10月25日单日成交额达1.692亿美元，超越Polymarket]() - 📰 null - 【Opinion 10月25日单日成交额达1.692亿美元，超越Polymarket】10月27日消息，据Dune数据显示，预测市场Opinion在10月25日短暂开放后当日成交额达1.692亿美元，超越Polymarket（约1.637亿美元），位列链上预测市场单日交易榜首位。Limitless和Myriad的交易额分别为130万美元和47万美元。 
-此外，Opinion当日仅开放约2小时，首批参与用户将获得week0激励分配。
-- [Pieverse将推出x402b协议，支持BNB Chain免Gas费支付和合规收据](https://x.com/pieverse_io/status/1982448242739818662) - 📰 null - 【Pieverse将推出x402b协议，支持BNB Chain免Gas费支付和合规收据】金色财经报道，Web3支付和合规基础设施Pieverse发推表示，其将推出x402b协议，利用Pieverse Facilitator扩展x402协议至BNB Chain，支持EIP-3009免Gas费支付和可审计收据。x402b通过引入pieUSD解决免Gas费问题，用户仅需签名消息即可完成支付；同时自定义Facilitator在支付结算时生成符合司法管辖区的收据，并不可变存储于BNB Greenfield。
-- [金色午报 | 10月27日午间重要动态一览]() - 📰 null - 【金色午报 | 10月27日午间重要动态一览】7:00-12:00关键词：CZ、蚂蚁集团、x402 
-1.CZ：未来会把精力用在 YZi Labs 投资业务，同时受邀担任了多国政府首脑的加密行业顾问； 
-2.蚂蚁集团在香港申请注册“ANTCOIN”等多项 Web3 相关商标； 
-3.本周 SUI、GRASS、EIGEN 等代币将迎来大额解锁，总价值超 3 亿美元； 
-4.Solana联创转发x402相关文章并表示“x402真是太棒了”； 
-5.过去24小时全网爆仓4.30亿美元，主爆空单； 
-6.稳定币总市值达3087.83亿美元，近1周增长13.05亿美元。
-- [两新建地址从CEX提取820枚BTC，价值9432万美元](https://x.com/lookonchain/status/1982657283411923107) - 📰 null - 【两新建地址从CEX提取820枚BTC，价值9432万美元】金色财经报道，据Lookonchain监测，两个新建钱包从币安和OKX交易所提取了820枚BTC，价值约9432万美元。
-- [4E：比特币非流动性供应下降或压制价格反弹]() - 📰 null - 【4E：比特币非流动性供应下降或压制价格反弹】10月27日消息，据4E观察，SharpLink Gaming 此前于10月17日配售股票筹集7650万美元，并以均价3892美元购入19,271枚ETH，而非近期再度买入。该公司目前共持有859,853枚ETH，总价值约35.8亿美元，成本均价为3609美元，浮盈约4.8亿美元。 
-另一方面，据 Glassnode 数据显示，自10月中旬以来，约有6.2万枚BTC（约70亿美元）从长期不活跃钱包流出，为今年下半年最大规模。非流动性供应减少可能削弱比特币价格上行动能。报告指出，巨鲸近期仍在增持，但中型持币者持续抛售，动量买盘已减弱，现货需求不足可能令价格承压。 
-市场情绪方面，BitMine董事长Tom Lee 表示ETH仍处于“超级周期”，以太坊的基本面强劲，稳定币需求与链上交易量创新高或将成为新一轮上涨驱动力。 
-此外，Michael Saylor 再度发文暗示Strategy或将于下周披露比特币增持数据；美国财长贝森特则称自特朗普上任以来美国总体通胀率已下降。 
-4E提醒投资者：资金流与链上供需正在重塑行情结构，ETH基本面强化与BTC流动性下降呈现分化，短期关注巨鲸持仓与机构增持信号的延续性。
-- [PING市值跌破3000万美元，24H跌幅40.72%]() - 📰 null - 【PING市值跌破3000万美元，24H跌幅40.72%】10月27日消息，据GMGN数据，PING市值跌破3000万美元，现报2876万美元，24H跌幅40.72%，Meme币价格波动较大，请投资者谨慎参与。
-- [稳定币总市值达3087.83亿美元，近1周增长13.05亿美元](https://defillama.com/stablecoins) - 📰 null - 【稳定币总市值达3087.83亿美元，近1周增长13.05亿美元】金色财经报道，据DeFiLlama数据，目前加密市场稳定币总市值为3087.83亿美元，较7日前增加了13.05亿美元，环比增长0.42%，其中USDT市值占比率为59.29%。
-- [Coinbase Facilitator在x402累积处理的支付交易量已超100万美元](https://www.x402scan.com/) - 📰 null - 【Coinbase Facilitator在x402累积处理的支付交易量已超100万美元】金色财经报道，据 x402scan 浏览器数据，Coinbase Facilitator在x402累积处理的支付交易量已超100万美元，累积交易笔数超100万笔；第二大Facilitator PayAI累积处理超18万美元支付交易量和超14万笔交易。
-- [RWA茶叶产品Mulan Tea Story线下体验馆正式上线]() - 📰 null - 【RWA茶叶产品Mulan Tea Story线下体验馆正式上线】10月27日消息，RWA茶叶产品兑付权项Mulan Tea Story（木兰茶故事）于10月26日杭州旗舰店开业，3层独栋2500平方米，是全球大型的RWA产品体验馆。全球店于10月份同时在欧洲7家兑付店开业，东欧和东南亚6家商超上架。木兰茶故事需求链产品兑付权发行，成功入选CCcoin.com公链首批发行，目前发起方为香港Web3 Group Limited 已完成原材料审计和合规意见报告。
-- [美股三大股指期货延续涨势，纳指期货涨 1%]() - 📰 null - 【美股三大股指期货延续涨势，纳指期货涨 1%】金色财经报道，美股三大股指期货延续涨势，其中纳指期货涨幅达 1%，标普 500 指数期货涨 0.8%，道指期货现涨 0.6%。
-- [黄立成减持ETH、HYPE多单，5天将46万本金滚至192万美元]() - 📰 null - 【黄立成减持ETH、HYPE多单，5天将46万本金滚至192万美元】10月27日消息，据HyperInsight监测，过去7小时内，黄立成于4068至4200美元区间分批平仓ETH多单，已累计减持100万美元，现ETH多头头寸仍有926万美元，浮动回报率一度超240%。同时，其HYPE多单今日已减持超5000枚，现浮动回报率超150%。该地址现总持仓价值约1166万美元，本金由23日时的46万升至现192万美元。 
-此前消息，黄立成于23日以3785美元均价开设ETH多单，持仓名义价值超960万美元，清算价为3711美元。随后以38.5美元均价建立HYPE多仓，持仓名义价值约100万美元。
-- [比特币与黄金的相关性目前正在显现](https://x.com/Delphi_Digital/status/1982641474815799758) - 📰 null - 【比特币与黄金的相关性目前正在显现】金色财经报道，加密研究机构Delphi Digital发布图表称，比特币与黄金的相关性目前正在显现。
-- [Helius Labs CEO：正为Zcash组建新的独立核心团队，专注于扩展性与安全性](https://x.com/0xMert_/status/1982426631340957767) - 📰 null - 【Helius Labs CEO：正为Zcash组建新的独立核心团队，专注于扩展性与安全性】金色财经报道，Helius Labs CEO Mert在X平台发文称，正在为Zcash组建一个新的独立核心团队，该团队专注于扩展性（规模提升）与安全性，以打造隐私货币的“曼哈顿计划”。目前该团队正在招聘首席执行官、首席工程师和研究人员。
+- [Chijet Motor汽车公司完成3亿美元加密货币私募](https://www.globenewswire.com/news-release/2025/10/27/3174422/0/en/Chijet-Motor-Company-Announces-Closing-of-300-Million-Private-Placement-in-Cryptocurrency.html) - 📰 null - 【Chijet Motor汽车公司完成3亿美元加密货币私募】金色财经报道，纳斯达克上市公司Chijet Motor Company, Inc.（股票代码：CJET）今日宣布成功完成一项私募融资，筹集了相当于3亿美元的加密货币资金。此次发行面向非美国机构投资者，每单位包含一股普通股（价格相当于0.10美元）和三份认股权证（行使价相当于0.12美元）。
+- [特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案]() - 📰 null - 【特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案】金色财经报道，特斯拉(TSLA.O)董事会主席罗宾·登霍姆在周一的一封信中呼吁股东在年度股东大会前投票支持CEO马斯克近1万亿美元的薪酬方案。“如果我们未能营造一个通过公平的绩效薪酬计划激励埃隆实现伟大成就的环境，我们将面临他辞去高管职务的风险，特斯拉可能会失去他的时间、才能和愿景，而这些对提供卓越的股东回报至关重要。”登霍姆表示，随着特斯拉正致力于超越“只是一家汽车公司”的定为，将重心放在全自动驾驶和人形机器人Optimus上，马斯克对公司的未来至关重要。特斯拉年度股东大会定于美东时间11月6日举行，股东投票将于11月5日晚上11:59结束。
+- [BitMine上周增持7.7万枚ETH，总持仓达331万枚ETH](https://www.prnewswire.com/news-releases/bitmine-immersion-bmnr-announces-eth-holdings-exceeding-3-31-million-tokens-and-total-crypto-and-cash-holdings-of-14-2-billion-302594857.html) - 📰 null - 【BitMine上周增持7.7万枚ETH，总持仓达331万枚ETH】金色财经报道，截至美国东部时间10月26日晚上7点，BitMine的加密货币持有量包括3,313,069枚ETH（较上周增持77,055枚ETH），占ETH供应量的2.8%，192枚BTC、8800万美元的Eightco Holdings（纳斯达克股票代码：ORBS）股份（“moonshots”）和3.05亿美元的无支配现金。
+- [Binance：通过「Meme Rush-Fair Mode」创建的代币交易量将不计入Alpha积分](https://x.com/BinanceWallet/status/1982785796122759419) - 📰 null - 【Binance：通过「Meme Rush-Fair Mode」创建的代币交易量将不计入Alpha积分】10月27日消息，币安官方今日发布公告，自2025年10月28日08:00（UTC+8）起，通过Four.Meme "Meme Rush - 公平模式"平台创建的代币，其从创建至上线币安Alpha前的买入交易量将不再计入Alpha积分统计。若该类代币成功上线币安Alpha，其交易量将按正常标准的1倍计入积分。 
+同时，币安提醒用户务必将App更新至3.4.0及以上版本，以确保Alpha活动的功能正常使用。
+- [代币化证券市场 tZero 准备于 2026 年进行 IPO](https://www.bloomberg.com/news/articles/2025-10-27/tokenized-securities-market-tzero-is-readying-2026-ipo?srnd=phx-crypto) - 📰 null - 【代币化证券市场 tZero 准备于 2026 年进行 IPO】金色财经报道，代币化证券市场tZero Group Inc.首席执行官 Alan Konevsky 在接受采访时表示，该公司计划于 2026 年进行首次公开​​募股 (IPO)。 
+Konevsky 表示，该公司的投资者包括洲际交易所 (Intercontinental Exchange Inc.)。该公司一直在与银行家洽谈，但尚未确定 IPO 的合作对象。他还表示，该公司同时还在探索进行 IPO 前的融资。Konevsky表示，该公司拥有 50 多名员工，但尚未盈利。
+- [特斯拉董事会主席：如果不批准价值1万亿美元的薪酬方案，特斯拉或失去马斯克]() - 📰 null - 【特斯拉董事会主席：如果不批准价值1万亿美元的薪酬方案，特斯拉或失去马斯克】金色财经报道，据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。
+- [证监会：推动上市公司增强投资者回报]() - 📰 null - 【证监会：推动上市公司增强投资者回报】金色财经报道，证监会发布《关于加强资本市场中小投资者保护的若干意见》。其中提到，推动上市公司增强投资者回报。大力倡导上市公司采用“注销式回购”等方式回报投资者。多措并举引导上市公司在确保可持续发展的前提下实施一年多次分红，增强分红的稳定性、持续性和可预期性。
+- [IBM推出数字资产运营平台IBM Digital Asset Haven](https://www.prnewswire.com/news-releases/ibm-announces-new-platform-for-financial-institutions-and-regulated-enterprises-entering-the-digital-asset-economy-302594751.html) - 📰 null - 【IBM推出数字资产运营平台IBM Digital Asset Haven】金色财经报道，科技巨头IBM宣布推出数字资产运营平台IBM Digital Asset Haven，据悉这是一个面向金融机构、政府和企业的安全管理和扩展其数字资产运营的综合平台，允许银行、行政机构通过单一解决方案管理其数字资产生命周期，包括托管和结算等。
+- [中国证监会出台保护中小投资者政策措施，进一步健全资本市场中小投资者保护机制]() - 📰 null - 【中国证监会出台保护中小投资者政策措施，进一步健全资本市场中小投资者保护机制】金色财经报道，在广泛征求各方面意见基础上，中国证监会研究起草了《关于加强资本市场中小投资者保护的若干意见》，并于今天正式发布。《若干意见》按照“针对核心关切、力求务实管用、于法有据”的思路，聚焦中小投资者关注的重点问题，围绕强化发行上市过程中的中小投资者保护、营造有利于中小投资者公平交易的制度环境、压实经营机构中小投资者保护责任、严厉打击侵害中小投资者利益的违法行为、深入推进证券期货纠纷多元化解机制建设、更好发挥投资者保护机构职能作用、健全终止上市过程中的中小投资者保护制度机制、强化中小投资者保护的法治保障等八个方面，提出了二十三项具体措施。相关措施有利于健全投资者保护机制，增强资本市场内在稳定性，有效保护中小投资者合法权益，有力提振市场信心。
+- [Strategy上周以总价4340万美元购买390个比特币](https://x.com/saylor/status/1982779998609293775) - 📰 null - 【Strategy上周以总价4340万美元购买390个比特币】金色财经报道，Strategy(MSTR.O)在10月20日至10月26日以约4340万美元收购了390个BTC，价格约为每比特币111,053美元，并实现了2025年迄今26.0%的BTC收益率。截至2025年10月26日，Strategy持有640,808个BTC，以约474.4亿美元收购，价格约为每比特币74,032美元。
+- [白宫任命Mike Selig出任商品期货交易委员会主席，焦点转向委员会人选](https://www.cryptoinamerica.com/p/white-house-names-mike-selig-to-lead?utm_source=post-email-title&publication_id=4354746&post_id=177227825&utm_campaign=email-post-title&isFreemail=true&r=18jk6&triedRedirect=true&utm_medium=email) - 📰 null - 【白宫任命Mike Selig出任商品期货交易委员会主席，焦点转向委员会人选】金色财经报道，据Crypto In America报道，白宫正式宣布美国证券交易委员会（SEC）加密货币特别工作组首席法律顾问Mike Selig已被提名担任商品期货交易委员会（CFTC）主席。 
+此次人选的确定正值华盛顿加密货币政策的关键时刻，参议院议员正在加紧努力通过市场结构立法，赋予商品期货交易委员会更广泛的数字资产监管权。长期以来，业界一直迫切希望由一位精通加密货币的领导者来领导该机构，上周末数十位业内人士纷纷通过X表达了他们的支持。 
+参议院农业委员会正在商讨Selig确认听证会的日期，而白宫则正在考虑潜在候选人，以重建目前由五人组成的委员会，该委员会目前由代理主席卡罗琳·范（Caroline Pham）独自领导。
+- [某鲸鱼地址过去12小时买入806万枚ASTER](https://x.com/OnchainLens/status/1982776032597102828) - 📰 null - 【某鲸鱼地址过去12小时买入806万枚ASTER】金色财经报道，据 Onchain Lens 监测，过去 12 小时内，某鲸鱼地址以 1.13 美元的价格通过 Aster 平台购买了 806 万枚 ASTER，价值 914 万美元。
+- [BTQ 和 ICTK 签署 1500 万美元量子安全芯片开发和联合投资协议](https://www.prnewswire.com/news-releases/btq-and-ictk-sign-usd-15m-quantum-secure-chip-development-and-joint-investment-agreement-to-advance-global-quantum-safe-hardware-302595200.html) - 📰 null - 【BTQ 和 ICTK 签署 1500 万美元量子安全芯片开发和联合投资协议】金色财经报道，BTQ 与 ICTK 签署了一份价值 1500 万美元的开发和联合投资协议，共同开发量子安全元件芯片“内存量子计算”（QCIM）。两项协议涵盖通过认证进行的联合设计和 BTQ 的股权投资，ICTK 将提供实物成本分摊和优先制造能力。 
+此次合作旨在应对量子计算时代日益严峻的网络安全威胁，尤其注重保护数字资产和稳定币市场。此外，此次合作也与韩国在国防、金融和通信领域加速部署量子安全技术的努力相辅相成，增强了量子安全技术的商业化速度和战略自主能力。
+- [现货黄金失守4020美元/盎司]() - 📰 null - 【现货黄金失守4020美元/盎司】金色财经报道，现货黄金失守4020美元/盎司，日内跌幅2.26%。
+- [American Bitcoin增持1414枚BTC，总持仓达到3865枚](https://www.prnewswire.com/news-releases/american-bitcoin-acquires-1-414-bitcoin-and-increases-strategic-reserve-to-3-865-bitcoin-302594818.html) - 📰 null - 【American Bitcoin增持1414枚BTC，总持仓达到3865枚】金色财经报道，专注于构建比特币基础设施的纳斯达克上市公司American Bitcoin宣布增持1414枚BTC，比特币战略储备总持仓达到3865枚，据悉这些比特币是通过该公司比特币挖矿和战略性购买所获得。
+- [路透调查：预计2026年黄金均价为每盎司4,275美元]() - 📰 null - 【路透调查：预计2026年黄金均价为每盎司4,275美元】金色财经报道，路透调查：预计2025年黄金均价将达到每盎司3400美元，高于此前调查的每盎司3220美元。预计2025年白银均价将达到每盎司38.45美元，此前为每盎司34.52美元。预计2026年黄金均价为每盎司4,275美元，白银均价为每盎司50美元。
+- [人工智能模型训练初创公司Mercor计划以100亿美元估值融资3.5亿美元]() - 📰 null - 【人工智能模型训练初创公司Mercor计划以100亿美元估值融资3.5亿美元】金色财经报道，据华尔街日报：人工智能模型训练初创公司Mercor计划以100亿美元估值融资3.5亿美元。
+- [Semantic Layer：42空投已开放领取](https://x.com/SemanticLayer/status/1982765077939024294) - 📰 null - 【Semantic Layer：42空投已开放领取】10月27日消息，Semantic Layer 官方在社交媒体上发文表示，其项目代币 42 的空投已开放领取，用户需通过官方渠道领取。
+- [某巨鲸在Hyperliquid上开启价值4800万美元的BTC和ETH多头仓位](https://x.com/lookonchain/status/1982761356890894461) - 📰 null - 【某巨鲸在Hyperliquid上开启价值4800万美元的BTC和ETH多头仓位】金色财经报道，据 Lookonchain 监测，巨鲸“0x960B”在过去 9 小时内向 Hyperliquid 存入 372 万枚 USDC，随后以 15 倍杠杆开立了 240 枚 BTC（价值 2770 万美元）和 4874 枚 ETH（价值 2030 万美元）的多头头寸。
+- [贝莱德将1021枚BTC与25,707枚ETH存入Coinbase Prime](https://x.com/lookonchain/status/1982758673719116152) - 📰 null - 【贝莱德将1021枚BTC与25,707枚ETH存入Coinbase Prime】金色财经报道，据Lookonchain监测，贝莱德刚刚向Coinbase Prime存入1,021枚比特币（约1.18亿美元）和25,707枚以太坊（约1.07亿美元）。
