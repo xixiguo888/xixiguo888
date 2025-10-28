@@ -1,28 +1,23 @@
-- [IBM 宣布推出数字资产平台 Digital Asset Haven](https://cryptobriefing.com/ibm-regulated-digital-asset-economy-platform/) - 📰 null - 【IBM 宣布推出数字资产平台 Digital Asset Haven】金色财经报道，IBM 宣布推出新的数字资产平台 Digital Asset Haven，旨在帮助金融机构和高度监管的企业安全进入数字资产经济。该平台与 Dfns 合作开发，支持超过 40 个区块链网络，提供安全托管、交易生命周期管理和基于策略的治理功能。平台集成了合规工具、量子安全加密技术和硬件支持的密钥安全机制，使机构能够在满足严格监管要求的同时参与区块链生态系统。
-- [花旗集团与 Coinbase 合作探索稳定币支付解决方案](https://cryptobriefing.com/citigroup-coinbase-stablecoin-payment-collaboration/) - 📰 null - 【花旗集团与 Coinbase 合作探索稳定币支付解决方案】金色财经报道，美国主要银行花旗集团与加密货币交易所 Coinbase 宣布合作，共同探索面向机构客户的稳定币支付解决方案。据称，此次合作旨在利用稳定币来增强跨境和企业支付系统，提升交易效率。
-- [GMGN回应被盗传闻，平台安全，用户资金无损](https://x.com/gmgnai/status/1982902187241115803) - 📰 null - 【GMGN回应被盗传闻，平台安全，用户资金无损】10月28日消息，GMGN表示，针对近期有关平台遭黑客攻击并导致用户资金损失的虚假传闻，团队已立即展开全面安全审计，确认平台不存在任何安全问题，用户资金完全安全。GMGN 强调始终将用户安全放在首位，并表示如有疑问可通过官方客服渠道咨询。
-- [美股上市公司Streamex与Chainlink达成战略合作](https://www.globenewswire.com/news-release/2025/10/28/3175062/22558/en/Streamex-Corp-NASDAQ-STEX-Enters-Strategic-Partnership-with-Chainlink-as-Its-Official-Oracle-Provider-to-Strengthen-Tokenization-Infrastructure.html) - 📰 null - 【美股上市公司Streamex与Chainlink达成战略合作】金色财经报道，纳斯达克上市公司 Streamex Corp.（NASDAQ: STEX）宣布与 Chainlink 达成战略合作，后者将作为其官方预言机和链上透明度提供商。 
-此次合作将通过集成 Chainlink 储备证明、价格预言机和跨链互操作性协议（CCIP）来增强 GLDY 的跨链功能、透明度和信任度。GLDY 是一种黄金支持的稳定币资产，旨在为实物黄金持有提供机构级现金管理和收益。
-- [美国参议员：国会需在明年1月或2月前通过加密立法，否则选举政治将阻碍立法进程](https://x.com/Cointelegraph/status/1982968117895561413) - 📰 null - 【美国参议员：国会需在明年1月或2月前通过加密立法，否则选举政治将阻碍立法进程】金色财经报道，美国共和党参议员 Thom Tillis 警告称，国会需在明年 1 月或 2 月之前通过加密货币立法，否则选举政治将阻碍立法进程。
-- [机构：美联储降息与缩表组合拳或提振市场风险偏好]() - 📰 null - 【机构：美联储降息与缩表组合拳或提振市场风险偏好】金色财经报道，美联储政策委员会可能在周三同时采取两大决定性的鸽派举措：实施 25 个基点降息并释放进一步宽松信号，同时宣布结束缩表计划（此举或对国债收益率构成下行压力）。美联储观察机构 LHMeyer 分析师 Derek Tang 指出：降息（叠加后续宽松预期）与提前停止缩表的双重行动，将对市场风险偏好形成显著支撑。他补充称，尽管本周是否终止缩表仍存变数，但近期融资市场紧缩状况使这一决策可能性显著提升。(金十)
-- [GalaxyDigital宣布发售10亿美元可转换债券后，其股价暴跌](https://www.bloomberg.com/news/articles/2025-10-27/galaxy-digital-sinks-after-1-billion-exchangeable-bond-offer?srnd=phx-crypto) - 📰 null - 【GalaxyDigital宣布发售10亿美元可转换债券后，其股价暴跌】10月28日消息，据彭博社报道，Galaxy Digital Inc. 的运营合伙企业宣布发售 10 亿美元可转换债券后，其盘后股价暴跌。知情人士透露，Galaxy Digital Holdings LP 正在发售期限为 5.5 年的债券，该债券可转换为 Galaxy Digital 的普通股，票面利率为 0.5% 至 1%。周一盘后，受债券发售消息影响，截至当地时间下午 5 点 43 分，该公司在美国的股价下跌 10.3%，跌至每股 36.45 美元。而在周一收盘前，其股价在纽约市场已累计上涨 134%。早前的一份声明显示，这些债券将于 2031 年到期。声明称，债券发行方计划将此次债券发售的净收益用于支持核心运营业务的增长，并可能用于偿还将于 2026 年到期的现有可交换优先票据。
-- [MegaETH公售目前已募集4.05亿美元，超额认购8.1倍]() - 📰 null - 【MegaETH公售目前已募集4.05亿美元，超额认购8.1倍】10月28日消息，据官方数据显示，MegaETH公售目前募集资金已达4.05亿美元（投标需求，实际上限为5000万美元），超额认购8.1倍，公售将于2天12小时后结束。
-- [Monad：空投分配结果将于明日公布](https://x.com/monad/status/1982845926193631282) - 📰 null - 【Monad：空投分配结果将于明日公布】金色财经报道，据官方公告，Monad表示，“空投分配结果将于明日公布。”
-- [ZetaChain 宣布达成欧盟 MiCAR 合规要求并获迪拜金融服务管理局认可](https://www.zetachain.com/blog/zetachain-achieves-micar-compliance-and-dfsa-recognition-expanding-zeta) - 📰 null - 【ZetaChain 宣布达成欧盟 MiCAR 合规要求并获迪拜金融服务管理局认可】10月28日消息，通用区块链 ZetaChain 宣布，其根据欧盟法规（EU）2023/1114，正式发布了其加密资产市场监管（MiCAR）白皮书。这使 ZETA 成为首批符合 MiCAR 合规性的 Layer 1 网络代币之一，增强了欧洲经济区（EEA）用户和机构的可访问性。除在欧洲实现 MiCAR 合规外，ZetaChain 还已获迪拜金融服务管理局（DFSA）根据其加密代币制度正式认可。这一认可授权在迪拜国际金融中心（DIFC）内使用 ZETA。
-- [金色晨讯 | 10月28日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 10月28日隔夜重要动态一览】21:00-7:00关键词：美股、降息、Mercor 
-1.美股三大指数均续创新高； 
-2.灰度Solana Trust ETF计划于10月29日上市； 
-3.Bitwise确认其Solana质押ETF将于今晚开盘，代码BSOL； 
-4.美联储10月降息25个基点的概率为97.3%； 
-5.Canary Capital确认其LTC、HBAR ETF将于今晚在纳斯达克开盘； 
-6.AI初创公司Mercor按100亿美元估值融资3.5亿美元。
-- [AI初创公司Mercor按100亿美元估值融资3.5亿美元](https://www.cls.cn/detail/2182660) - 📰 null - 【AI初创公司Mercor按100亿美元估值融资3.5亿美元】金色财经报道，Mercor在一篇博客文章中表示，此次融资共筹集3.5亿美元，由Felicis领投——该机构此前也曾领投Mercor规模1亿美元的B轮融资；此外，Benchmark、General Catalyst以及新投资方Robinhood Ventures也参与了本轮融资。这笔新融资将用于三个核心领域：扩大公司的人才网络、升级 “专家与培训机会” 的匹配系统，以及提升服务交付速度。
-- [BTC跌破114000美元]() - 📰 null - 【BTC跌破114000美元】金色财经报道，行情显示，BTC跌破114000美元，现报113986.88美元，24小时跌幅达到0.6%，行情波动较大，请做好风险控制。
-- [英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心](https://flash.jin10.com/detail/20251028034031282800) - 📰 null - 【英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心】金色财经报道，据知情人士透露，英伟达(NVDA.O)与德国电信正计划宣布在德国联合建设价值10亿欧元（约合12亿美元）的数据中心，这是双方为推动欧洲人工智能系统基础设施发展的重要布局。根据规划，两家企业将共同承担该项目投资。欧洲最大软件公司SAP已确定成为该数据中心的首批客户。据悉，各方预计将于下月在柏林共同宣布这一计划。该项目将配备约1万块先进图形处理器（GPU）。然而与全球同类项目相比仍显逊色——软银集团、OpenAI与甲骨文公司在得州联合开发的数据中心预计将部署50万块GPU。
-- [灰度Solana Trust ETF计划于10月29日上市](https://www.theblock.co/post/376428/solana-etfs-in-the-spotlight-bitwises-bsol-to-debut-on-nyse-on-tuesday) - 📰 null - 【灰度Solana Trust ETF计划于10月29日上市】金色财经报道，一位知情人士表示，灰度Solana Trust ETF计划于10月29日上市。
-- [Bitwise确认其Solana质押ETF将于今晚开盘，代码BSOL](https://x.com/BitwiseInvest/status/1982927182901993968) - 📰 null - 【Bitwise确认其Solana质押ETF将于今晚开盘，代码BSOL】金色财经报道，资产管理公司 Bitwise 表示，将于 10 月 28 日（北京时间 28 日晚美股周二开盘时）推出其 Solana 质押 ETF，股票代码为 BSOL。 该 ETF 持有的 SOL 通过 Bitwise Onchain Solutions 进行质押，由 Helius 提供支持。
-- [Metamask关闭了疑似为申领Metamask代币的二级域名页面，目前自动跳转至首页](https://www.theblock.co/post/376307/metamask-mask-token-claim-portal-polymarket) - 📰 null - 【Metamask关闭了疑似为申领Metamask代币的二级域名页面，目前自动跳转至首页】金色财经报道，Metamask关闭了疑似为申领Metamask代币的相关二级域名的页面，截至发稿时，访问相关二级域名后显示自动跳转至其官网首页。 
-此前报道，Metamask注册了疑似为申领Metamask代币的相关二级域名，该二级域名指向页面显示已启用“受密码保护”的功能，该功能通常用于隐藏敏感或暂存内容。
-- [OpenAI呼吁白宫扩大美国能源容量](https://www.cls.cn/detail/2182671) - 📰 null - 【OpenAI呼吁白宫扩大美国能源容量】金色财经报道，OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。
-- [加拿大金融公司Wealthsimple宣布完成7.5亿美元股权融资](https://www.cls.cn/detail/2182673) - 📰 null - 【加拿大金融公司Wealthsimple宣布完成7.5亿美元股权融资】金色财经报道，加拿大金融公司Wealthsimple宣布完成7.5亿美元股权融资，投后估值达100亿美元。
-- [美联储10月降息25个基点的概率为97.3%]() - 📰 null - 【美联储10月降息25个基点的概率为97.3%】金色财经报道，据CME“美联储观察”：美联储10月降息25个基点的概率为97.3%，维持利率不变的概率为2.7%。美联储12月累计降息50个基点的概率为95.3%。
+- [巴西上市公司OranjeBTC新增购入7枚比特币 目前总持有量达3708枚](https://x.com/BTCtreasuries/status/1982821773671596484) - 📰 null - 【巴西上市公司OranjeBTC新增购入7枚比特币 目前总持有量达3708枚】金色财经报道，据市场消息：巴西上市公司 OranjeBTC（股票代码：OBTC3）新增购入 7 枚比特币（Bitcoin），目前比特币总持有量达3708枚。
+- [当前353家比特币财库实体持有比特币超404万枚](https://x.com/BTCtreasuries/status/1982847292341195096) - 📰 null - 【当前353家比特币财库实体持有比特币超404万枚】金色财经报道，据BitcoinTreasuries.NET发布数据显示，当前比特币财库实体数量353家，持有比特币数量404.5376万枚，价值4665.5 亿美元。
+- [Binance Alpha将于10月29日上线BitcoinOS(BOS)]() - 📰 null - 【Binance Alpha将于10月29日上线BitcoinOS(BOS)】金色财经报道，据官方消息，Binance Alpha 将于 10 月 29 日上线 BitcoinOS (BOS)，符合条件的用户可在 Alpha 活动页面使用 Binance Alpha 积分领取空投，交易开放后即可领取。
+- [贝莱德现货以太坊ETF昨日买入17440枚以太坊](https://x.com/Cointelegraph/status/1983028521904554368) - 📰 null - 【贝莱德现货以太坊ETF昨日买入17440枚以太坊】金色财经报道，据市场消息：贝莱德现货以太坊ETF于10月27日买入17440枚以太坊，价值7250万美元。
+- [CZ：YZi Labs仅为Opinion少数投资者，但会尽力帮助增加战略价值](https://x.com/cz_binance/status/1983045161111138498) - 📰 null - 【CZ：YZi Labs仅为Opinion少数投资者，但会尽力帮助增加战略价值】金色财经报道，CZ在社交媒体表示，YZi Labs仅为预测市场Opinion少数投资者，但会尽力帮助增加战略价值。
+- [美联储预计本周结束量化紧缩]() - 📰 null - 【美联储预计本周结束量化紧缩】金色财经报道，美联储本周预计将结束为期三年的量化紧缩阶段，缓解银行压力。部分银行贷款机构本月早些时候动用了联邦后备融资机制，其规模达到疫情期间的水平。自 2022 年 6 月启动量化紧缩计划以来，美联储已允许超过 2 万亿美元的美国国债和抵押贷款支持证券从其资产负债表上滚出。Evercore ISI 副总裁 Krishna Guha 表示，市场已基本达成共识，美联储将在本月结束量化紧缩。前美联储副主席克拉里达指出，即便没有正式决议，也将获得强烈信号表明，美联储将在 12 月终止量化紧缩。（金十）
+- [GMGN将全额赔付因钓鱼攻击受损用户](https://x.com/haze0x/status/1983042747406651440) - 📰 null - 【GMGN将全额赔付因钓鱼攻击受损用户】金色财经报道，GMGN联创Haze(@haze0x)在X平台发文表示，GMGN近期遭遇一次外部钓鱼攻击，攻击者通过伪造第三方代币网站诱导用户点击并触发非本人授权交易。目前该问题已彻底解决，受影响账号已恢复安全，类似钓鱼攻击已被完全阻断。 
+本次事件共影响约107位用户，GMGN将对相关损失进行100%全额赔付，并于今日内发放至用户GMGN账户。
+- [402bridge：团队自有测试钱包及主钱包同样受损，目前已向执法部门报告](https://x.com/402bridge/status/1983042581190853022) - 📰 null - 【402bridge：团队自有测试钱包及主钱包同样受损，目前已向执法部门报告】金色财经报道，402bridge官方在社交媒体上发文表示，由于此次私钥泄露，团队的十几个测试钱包和主钱包也遭到入侵，目前已及时向执法部门报告了这一事件，并将随着调查的进展及时向社区通报最新情况。
+- [某鲸鱼向Coinbase Institutional转入441枚BTC](https://whale-alert.io/transaction/bitcoin/a66b7d1b6627c974af9b600ff91f6bca54a8cde255c384eeff69848b479225d1) - 📰 null - 【某鲸鱼向Coinbase Institutional转入441枚BTC】金色财经报道，据WhaleAlert监测，某鲸鱼约6分钟前向Coinbase Institutional转入441枚BTC，价值约5028.5万美元。
+- [英国加密货币公司KR1计划在伦敦证券交易所上市](https://www.ft.com/content/59c67f2d-90a5-453d-bf3c-416493d60372) - 📰 null - 【英国加密货币公司KR1计划在伦敦证券交易所上市】金色财经报道，据《金融时报》报道，英国加密货币公司KR1计划在伦敦证券交易所上市，这是近年来英国对数字资产行业热情高涨之际，数字资产企业首次采取此类行动。
+- [美股本周进入财报季，5家科技巨头成为市场焦点，COIN、MSTR财报将于周四收盘后发布]() - 📰 null - 【美股本周进入财报季，5家科技巨头成为市场焦点，COIN、MSTR财报将于周四收盘后发布】10月28日消息，据最新市场数据，本周是美股财报季的高峰期，预计超过 800 家公司公布 Q3 业绩。其中，科技巨头（Magnificent 7 中的五家）将是焦点，微软 (MSFT.O)、Alphabet(GOOGL.O)、Meta Platforms(META.O) 将于周三盘后公布，亚马逊 (AMZN.O) 及苹果 (AAPL.O) 将于周四盘后公布。 
+加密领域方面，Coinbase（COIN）和 Strategy（MSTR）也将于周四收盘后公布 Q3 业绩。
+- [CZ以1900亿元财富位居胡润2025百富榜第13位，财富增长约41%]() - 📰 null - 【CZ以1900亿元财富位居胡润2025百富榜第13位，财富增长约41%】金色财经报道，据胡润研究院发布的《2025衡昌烧坊·胡润百富榜》数据，币安创始人CZ以1900亿元人民币的财富位居该榜单第13位。相较去年，CZ的排名提升了3位，财富增长约41%。
+- [某巨鲸近5日共从Kraken积累894枚BTC，价值约1.02亿美元](https://x.com/OnchainLens/status/1983034340016783360) - 📰 null - 【某巨鲸近5日共从Kraken积累894枚BTC，价值约1.02亿美元】金色财经报道，据OnchainLens监测，过去5天内，一巨鲸从Kraken累计积累了894枚BTC（价值1.0182亿美元）。
+- [Metaplanet：当mNAV低于1倍时考虑实施股票回购]() - 📰 null - 【Metaplanet：当mNAV低于1倍时考虑实施股票回购】金色财经报道，据Metaplanet官方公告，Metaplanet发布新资本配置政策。该公司持有30823枚BTC，为全球第四、亚洲最大BTC财库企业。政策三大原则：推动永续优先股尽早上市；mNAV 低于 1 倍原则不发普通股，超 1 倍且合理时择机发行；mNAV 低于 1 倍或价值低估时回购股票。同步设股票回购授权，目标最大化企业价值、BTC 收益率及 mNAV。优先股上市需经东证审核，进展将及时披露。
+- [美元兑日元日内跌幅达0.5%，现报152.11]() - 📰 null - 【美元兑日元日内跌幅达0.5%，现报152.11】金色财经报道，美元兑日元USD/JPY日内跌幅达0.5%，现报152.11。（金十）
+- [韩国央行即将开始购买黄金](https://x.com/zerohedge/status/1983015470740488455) - 📰 null - 【韩国央行即将开始购买黄金】金色财经报道，据市场消息：韩国央行储备投资部负责人郑兴顺表示，韩国银行计划从中期到长期的角度考虑额外购买黄金。
+- [Metaplanet已制定股票回购计划，以提高资本效率并最大化BTC收益](https://x.com/gerovich/status/1983026585746690476) - 📰 null - 【Metaplanet已制定股票回购计划，以提高资本效率并最大化BTC收益】金色财经报道，日本比特币财库公司 Metaplanet CEO Simon Gerovich 在社交媒体上发文表示，Metaplanet 已制定股票回购计划，以提高资本效率并最大化 BTC 收益。董事会还批准了一项信贷安排，以实现公司资本配置策略的灵活执行。
+- [慢雾余弦：402Bridge攻击源于私钥泄露，不排除内部人员作案可能](https://x.com/evilcos/status/1983024261339173155) - 📰 null - 【慢雾余弦：402Bridge攻击源于私钥泄露，不排除内部人员作案可能】金色财经报道，据慢雾余弦分析，跨链桥项目402Bridge攻击源于私钥泄露，不排除内部人员作案可能。402bridge.fun域名仅注册两天便停止服务，目前被盗资金尚未出现进一步异动。这是402协议相关服务的首个公开安全事件，慢雾余弦表示此次事件并非典型的项目方集体作恶行为。
+- [摩根士丹利预计美联储将降息25个基点至3.75%-4%]() - 📰 null - 【摩根士丹利预计美联储将降息25个基点至3.75%-4%】金色财经报道，摩根士丹利预计本周美联储将连续第二次降息25个基点，使联邦基金利率降至3.75%-4%。（金十）
+- [链上交易所的永续合约交易总量在Q3达到约2万亿美元](https://x.com/cryptounfolded/status/1982897132987134019?s=19) - 📰 null - 【链上交易所的永续合约交易总量在Q3达到约2万亿美元】金色财经报道，据cryptounfolded发布图表称，2025年第三季度，链上交易所的永续合约交易总量达到了约2万亿美元。 
+Hyperliquid以47%的市场份额位居第一，而Lighter和Aster合计占据了36%的市场份额。
