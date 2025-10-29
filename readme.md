@@ -1,49 +1,20 @@
-- [Bithumb将上线ENSO韩元交易对]() - 📰 null - 【Bithumb将上线ENSO韩元交易对】金色财经报道，据官方公告，Bithumb将上线ENSO韩元交易对。
-- [美联储10月降息预期强烈，多家机构预测12月再降息]() - 📰 null - 【美联储10月降息预期强烈，多家机构预测12月再降息】金色财经报道，多家机构对美联储的降息预期达成一致。美国银行预计美联储10月将降息25个基点，并是唯一预测今年仅降息一次的主要券商。花旗、富国、摩根大通等均预测10月降息25个基点，12月再降息25个基点。高盛则认为12月降息可能性很大，并预测2026年将进行两次降息。（金十）
-- [特朗普批评鲍威尔，要求美联储迅速降息]() - 📰 null - 【特朗普批评鲍威尔，要求美联储迅速降息】金色财经报道，美国总统特朗普周四对美联储提出批评，再次将矛头指向美联储主席鲍威尔，指责其在降息问题上行动迟缓。特朗普在韩国的演讲中提到“杰罗姆·‘太迟’·鲍威尔”，并表示不会让美联储因担心三年后的通胀而加息。他预计美国经济将在2026年第一季度实现4%的增长，远高于经济学家的预测。此言论突显了特朗普与美联储之间的紧张关系。（金十）
-- [Santiment：散户在本周市场反弹期间关注抄底机会，该情况通常预示市场将面临更大下行压力](https://x.com/santimentfeed/status/1983292715304353975) - 📰 null - 【Santiment：散户在本周市场反弹期间关注抄底机会，该情况通常预示市场将面临更大下行压力】10月29日消息，加密市场分析机构Santiment在社交媒体上发文表示，在周二市场小幅回调后，散户投资者提及「逢低买入」的讨论热度显著攀升。但历史数据显示，当“抄底”呼声如此高涨时，市场往往会出现短期小幅反弹，但随后将面临更大的下行压力。真正理想的抄底时机，其实是在大众普遍不期待市场反弹之时。而当散户认为市场已充分释放风险时，往往会被后续更猛烈的跌势教育。唯有当他们的乐观情绪（FOMO）彻底转化为恐慌（FUD），真正的强势反弹才会悄然启动。对耐心型交易者而言，这才是真正的抄底信号。
-- [报告：近期加密市场暴跌致 10 亿美元 sUSDe 循环交易面临风险](https://www.coindesk.com/markets/2025/10/29/recent-bitcoin-crash-has-put-usd1b-in-susde-loop-trades-at-risk-research-firm-says) - 📰 null - 【报告：近期加密市场暴跌致 10 亿美元 sUSDe 循环交易面临风险】10月29日消息，Sentora Research 报告称，加密市场暴跌后，涉及 Ethena 质押的 USDe（sUSDe）的近 10 亿美元 DeFi 头寸面临风险。 
-暴跌致 DeFi 市场利率大降，sUSDe 循环交易等杠杆策略收益缩水。在 Aave v3 核心版，USDT/USDC 借贷利率分别比 sUSDe 收益高约 2% 和 1.5%，借稳定币杠杆做多 sUSDe 的用户收益为负，借稳定币买 sUSDe 的循环头寸开始亏损。若此情况持续，Aave v3 核心版约 10 亿美元暴露于负利差的头寸或平仓。负利差可能迫使抵押品抛售或去杠杆化，削弱交易场所流动性，引发连锁反应。Sentora 提醒，交易者要关注 Aave 借贷年化收益率与 sUSDe 收益的利差，尤其是持续为负时，以及 USDT 和 USDC 借贷池利用率。目前越来越多循环头寸接近清算，未来，交易者要留意 USDT 和 USDC 借贷池利用率飙升，这可能推高借贷成本，在利差为负时加剧市场压力。
-- [K33：现货Solana ETF将吸引资金流入，小型山寨币基金可能“逐渐失去影响力”](https://www.fxstreet.com/cryptocurrencies/news/solana-etfs-set-to-attract-inflows-smaller-altcoin-funds-could-fade-into-irrelevance-k33-202510282316) - 📰 null - 【K33：现货Solana ETF将吸引资金流入，小型山寨币基金可能“逐渐失去影响力”】金色财经报道，根据 K33 的最新报告，Solana ETF在上市后可能会出现强劲需求，而其他山寨币 ETF 在缺少贝莱德参与的情况下，可能面临更弱的资金流入。 
-K33 的分析师团队（由 Vetle Lunde 领衔）在周二发布的报告中表示，现货 SOL ETF 预计将吸引大量资金流入，并且投资者需求迹象已经非常明显。 
-分析师指出，Solana 基金的潜在资金流入已经可以从 VolatilityShares 推出的 2倍做多 SOL 杠杆ETF 的持续需求中看出——该基金目前拥有约228万枚 SOL 的等值敞口。 
-与此同时，其他发行方也在准备推出更多山寨币 ETF。例如，Canary 推出的 莱特币（LTC） 和 Hedera（HBAR） 相关 ETF 已于周二上市。 
-Lunde提醒称，在日益拥挤的市场中，这些规模较小、知名度较低的山寨币 ETF 可能难以吸引足够关注。“我们预计不同 ETF 的需求将出现分化，” 分析师在报告中写道，并补充表示，在数十只其他山寨币 ETF 陆续推出的竞争环境下，部分山寨币基金可能会 “沦为无关紧要的存在”。
-- [BTC突破113000美元]() - 📰 null - 【BTC突破113000美元】金色财经报道，行情显示，BTC突破113000美元，现报113000.86美元，24小时跌幅达到0.77%，行情波动较大，请做好风险控制。
-- [某以太坊ICO参与者首次向Kraken存入1,500枚ETH，价值602万美元](https://x.com/OnchainLens/status/1983402509629796830) - 📰 null - 【某以太坊ICO参与者首次向Kraken存入1,500枚ETH，价值602万美元】金色财经报道，据OnchainLens监测，一名以太坊ICO参与者首次向Kraken交易所存入1,500枚ETH，价值602万美元。该参与者在ICO期间以6,220美元的价格获得20,000枚ETH，按当前价格计算价值8,030万美元，投资回报率达12,914倍。
-- [Canary已为其现货Solana ETF提交S-1文件更新版本，费率设定为0.5%](https://www.sec.gov/Archives/edgar/data/2041869/000199937125016304/0001999371-25-016304-index.htm) - 📰 null - 【Canary已为其现货Solana ETF提交S-1文件更新版本，费率设定为0.5%】金色财经报道，据SEC官网消息，Canary提交了其现货Solana ETF S-1申请文件的更新版本，费率设定为0.5%。
-- [OKX将上线PIGGYUSDT永续合约](https://www.okx.com/zh-hans/help/okx-to-list-perpetual-futures-for-piggy-crypto) - 📰 null - 【OKX将上线PIGGYUSDT永续合约】据官方公告，OKX将于2025年10月29日下午4:00(UTC+8)在网页端、App端及API正式上线PIGGYUSDT永续合约。 
-据悉，Piggycell，韩国头部充电宝网络，作为领先的RWA与DePIN协议，将现实世界的充电行为转化为链上代币化活动。
-- [Glassnode：市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情的强度](https://x.com/glassnode/status/1983396736967061878) - 📰 null - 【Glassnode：市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情的强度】金色财经报道，Glassnode于X平台发文称，比特币从10.7万美元价位反弹的时机，恰逢美国现货ETF（交易所交易基金）资金净流入由负转正。不过，目前该类ETF的日净流入量仍不足1000枚比特币，远低于本轮行情中此前大型上涨行情启动时超2500枚比特币/日的水平。 
-市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情时的强度。
-- [Stable第二阶段预存款活动将于下周开放](https://x.com/stable/status/1983385757432881352) - 📰 null - 【Stable第二阶段预存款活动将于下周开放】金色财经报道，据Stable发布公告称第二阶段预存款活动将于下周开放，本次活动将包括24小时倒计时、固定存款总额上限、单钱包的存款限额、个人钱包要求等限制。
-- [“胜率 100% 巨鲸”持仓 2.65 亿美元多单扭亏为盈，浮盈 106 万美元](https://x.com/ai_9684xtpa/status/1983391731354878386) - 📰 null - 【“胜率 100% 巨鲸”持仓 2.65 亿美元多单扭亏为盈，浮盈 106 万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，此前胜率 100% 的某巨鲸持有的价值 2.65 亿美元多单头寸已扭亏为盈，目前浮盈 106 万美元。 
-该巨鲸当前持仓包括： 
-以太坊多单 47,548.42 枚 ETH，价值 1.91 亿美元，开仓价 3,965.94 美元； 
-Solana 多单 382,611.22 枚 SOL，价值 7,452 万美元，开仓价 198.37 美元。其中以太坊头寸贡献浮盈 243 万美元。
-- [特朗普：不会让美联储加息]() - 📰 null - 【特朗普：不会让美联储加息】金色财经报道，美国总统特朗普表示，他不会让美联储加息。（金十）
-- [BNBChain完成第三批“重生支持”空投](https://x.com/BNBCHAINZH/status/1983384834174267799) - 📰 null - 【BNBChain完成第三批“重生支持”空投】金色财经报道，据BNBChain华语官方披露，其4500万美元"重生支持"计划第三批BNB空投已完成。目前仍有一批空投待发放，预计将于2025年11月上旬完成全部分发。 
-BNBChain提醒，本次空投没有任何申领网站或表单，奖励将自动发送至符合条件的钱包地址。
-- [4E：机构持续增配BTC与ETH]() - 📰 null - 【4E：机构持续增配BTC与ETH】10月29日消息，据4E观察，美股上市公司 ZOOZ Strategy Ltd.（ZOOZ） 以每枚 11.2 万美元的均价增持 94 枚比特币，累计持仓已达 1036 枚，总价值约 1.15 亿美元，延续其比特币储备战略。链上数据显示，疑似 Bitmine 地址从 BitGo 接收 27,316 枚 ETH（约 1.09 亿美元），为该机构近月最大单笔入账。 
-灰度Solana Trust ETF（GSOL） 今日在纽约证交所 Arca 正式上市，成为本周第二只 Solana ETF，为美股投资者提供直接敞口与潜在质押收益。与此同时，比特币财务公司 Sequans 被发现向 Coinbase 地址转移 970 枚 BTC，或为其首次出售行为。 
-政策方面，法国议员 Éric Ciotti 提议未来七年内国家购入 42 万枚 BTC，以核电盈余挖矿及储蓄计划资金作为来源；若获通过，法国将成为首个将比特币纳入国家储备的欧洲国家。 
-4E提醒投资者：机构增持与金融巨头的基础设施布局正强化主流采纳逻辑，但链上流动性仍受宏观风险制约。短期需警惕政策信号与机构仓位变化对市场预期的放大效应。
-- [过去24小时CEX净流出12,254.12枚BTC]() - 📰 null - 【过去24小时CEX净流出12,254.12枚BTC】10月29日消息，据Coinglass数据，过去24小时CEX累计净流出12,254.12枚BTC，其中流出量排在前三位的CEX如下： 
-·CoinbasePro，流出13,709.19枚BTC； 
-·Bitfinex，流出474.86枚BTC； 
-·OKX，流出167.63枚BTC。 
-此外，Binance流入2,531.36枚BTC，位列流入榜第一。
-- [金色午报 | 10月29日午间重要动态一览]() - 📰 null - 【金色午报 | 10月29日午间重要动态一览】7:00-12:00关键词：Visa、WLFI、Truth Social、澳大利亚 
-1.Visa正在为四种不同区块链上的四种稳定币提供支持； 
-2.WLFI：计划向USD1积分计划参与者分发840万枚WLFI； 
-3.疑似Bitmine地址增持27,316枚ETH，价值1.0892亿美元； 
-4.Bitwise：目前正发生着BTC从散户到机构投资者的大规模转移； 
-5.澳大利亚金融监管机构发布更新指引，拟扩大对加密货币的监管范围； 
-6.英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局； 
-7.Semler Scientific战略主管：比特币融入传统信贷体系的进程尚处于早期阶段； 
-8.特朗普旗下Truth Social将与Crypto.com合作推出全球首个社交媒体预测市场平台。
-- [英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局](https://financefeeds.com/brokers-must-notify-fca-before-offering-crypto-etns-to-retail-clients/) - 📰 null - 【英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局】金色财经报道，英国已结束对加密货币交易所交易票据（ETN）长达四年的禁令，自2021年以来首次为零售投资者提供了一条合规的比特币与以太坊投资渠道。英国金融行为监管局（FCA）于10月8日解除了针对零售客户的这一禁令，允许销售加密货币交易所交易票据（即cETN），但前提是这些产品需列入该监管机构的 “官方清单”，并在伦敦证券交易所等经认可的交易所进行交易。 
-相关机构必须遵守针对 “限制性大众市场投资产品” 的新监管体系，包括强制发布风险提示、设置冷静期以及开展投资者适当性审核。这一决定标志着英国金融行为监管局完成了政策转向 ——2021年，出于对加密货币波动性、估值问题及欺诈风险的担忧，该机构曾禁止向零售投资者提供与加密货币相关的衍生品及交易所交易票据；此后，监管局逐步构建了消费者保护框架，推出了营销宣传行为规则手册，并在整个行业推行 “消费者责任” 标准。
-- [美国Hedera现货ETF和Litecoin现货ETF上市首日均无净流入流出](https://sosovalue.com/zh/assets/etf/us-hbar-spot) - 📰 null - 【美国Hedera现货ETF和Litecoin现货ETF上市首日均无净流入流出】金色财经报道，美国Canary HBARETF（股票代码HBR）、Canary LitecoinETF（股票代码LTCC）在纳斯达克上市，均为该币种首只美国现货ETF。从上市第一天资产规模来看，远小于同日上市Solana现货ETF2.9亿美元的资产规模，低于市场预期。 
-据SoSoValue数据，HBR上市首日无净流入流出，交易额863万美元，总资产净值109万美元，HBAR净资产比率（市值较HBAR总市值占比）达0.01%；LTCC上市首日无净流入流出，交易额138万美元，总资产净值96.9万美元，LTC净资产比率（市值较LTC总市值占比）达0.01%。 
-Canary HBARETF支持现金和实物申赎，不支持HBAR通过质押提供额外收益，管理费率0.95%；CanaryLitecoinETF仅支持现金申赎，管理费率0.95%。
+- [贝莱德：已对Treasure NFT进行战略投资为不实消息](https://x.com/BlackRockFact/status/1983510578032181341) - 📰 null - 【贝莱德：已对Treasure NFT进行战略投资为不实消息】金色财经报道，据市场消息：近期出现一系列不实帖子，声称贝莱德（BlackRock）已对 TreasureNFT 进行战略投资。此消息不实。贝莱德与 TreasureNFT 无任何关联。
+- [美联储决议前瞻：市场焦点位于鲍威尔新闻发布会]() - 📰 null - 【美联储决议前瞻：市场焦点位于鲍威尔新闻发布会】金色财经报道，市场普遍预期美联储将降息25个基点，将政策利率调整至3.75-4.00%。同时预期央行将宣布结束量化紧缩（QT）。本次会议不会公布季度经济预期报告，因此焦点将主要放在鲍威尔的新闻发布会上，预计美联储主席鲍威尔将再次将降息定性为风险管理举措，并在缺乏关键经济数据的情况下，不透露过多信息以维持市场预期稳定。当前市场预期美联储10月降息板上钉钉，12月降息的概率也接近100%，2026年将累计降息117个基点，高于美联储预计的75个基点。（金十）
+- [OKX将上线 KITE (Kite AI) 盘前交易](https://www.ouchyi.support/zh-hans/help/okx-to-list-pre-market-perpetual-futures-for-kite-kite-ai-crypto) - 📰 null - 【OKX将上线 KITE (Kite AI) 盘前交易】据官方公告，OKX即将于2025 年 10 月 29 日下午 8:30 (UTC+8)上线 KITE (Kite AI) 盘前交易。据悉，Kite AI 是首个专为代理互联网（agentic internet）设计的 Layer 1 区块链，支持 AI 代理以可验证身份、可编程规则及安全链上结算进行交易、协作与清算。
+- [稳定币公司Hercle完成1000万美元股权融资，F-Prime领投](https://fortune.com/crypto/2025/10/29/startup-hercle-raises-10-million-to-build-out-stablecoin-based-global-money-transfers/) - 📰 null - 【稳定币公司Hercle完成1000万美元股权融资，F-Prime领投】金色财经报道，稳定币公司Hercle宣布完成1000万美元股权融资，全球风险投资公司F-Prime领投，估值信息暂未披露，该公司利用稳定币技术提高全球汇款交易效率，新资金将用于支持其全球扩展。
+- [Yala宣布9月14日黑客事件嫌疑人已在曼谷被捕，大部分资金已追回](https://x.com/yalaorg/status/1983477284368703675) - 📰 null - 【Yala宣布9月14日黑客事件嫌疑人已在曼谷被捕，大部分资金已追回】10月29日消息，Yala官方宣布，9月14日发生的平台安全漏洞利用事件的责任人已被泰国曼谷执法机构成功逮捕。据官方消息，大部分被盗资金已成功追回，所有用户的索赔请求已全部得到解决。
+- [Grayscale Solana信托ETF（GSOL）在纽交所Arca上市](https://www.globenewswire.com/news-release/2025/10/29/3176258/0/en/Grayscale-Solana-Trust-ETF-Ticker-GSOL-Launches-on-NYSE-Arca-with-Staking.html) - 📰 null - 【Grayscale Solana信托ETF（GSOL）在纽交所Arca上市】金色财经报道，Grayscale投资公司于2025年10月29日宣布，其Solana信托ETF（代码：GSOL）已在纽约证券交易所Arca正式上市交易，成为首个根据美国证券交易委员会新批准的通用上市标准而升级的质押产品。该ETF将77%的质押回报分配给投资者，使其成为美国首批支持质押的现货Solana交易所交易产品之一。
+- [2025年代币回购总额已超14亿美元 HYPE回购规模位居榜首](https://x.com/cryptounfolded/status/1983498242412228791) - 📰 null - 【2025年代币回购总额已超14亿美元 HYPE回购规模位居榜首】金色财经报道，据市场消息： 2025年截至目前，代币回购总额已超14亿美元，其中 HYPE（HYPE 代币）以 6.446 亿美元的回购规模位居榜首，紧随其后的是 ZRO（ZRO 代币）（1.5 亿美元）和 PUMP（PUMP 代币）（1.382 亿美元）。
+- [西联汇款：稳定币名为USDPT，将推出数字资产网络](https://www.businesswire.com/news/home/20251028647920/en/Western-Union-Announces-USDPT-Stablecoin-on-Solana-and-Digital-Asset-Network) - 📰 null - 【西联汇款：稳定币名为USDPT，将推出数字资产网络】金色财经报道，纽交所上市支付巨头西联汇款宣布其稳定币名为 U.S. Dollar Payment Token (USDPT)，此外该公司宣布还将推出一个数字资产网络，旨在连接数字世界和法币世界，实现数字资产在现实世界中的实用性。西联汇款预计 USDPT 将于 2026 年上半年上市，该公司计划让用户通过合作交易所访问 USDPT，从而实现广泛的可访问性和易用性。（Businesswire）
+- [Phoenix Group发布Q3季报：持有682枚BTC和64.2万枚SOL](https://www.businesswire.com/news/home/20251028473307/en/Phoenix-Group-Delivers-Strong-Q3-Results-with-Rising-Revenue-and-Ongoing-Expansion-across-Key-Markets) - 📰 null - 【Phoenix Group发布Q3季报：持有682枚BTC和64.2万枚SOL】金色财经报道，阿布扎比比特币矿企Phoenix Group发布2025年第三季度报告，其中披露三季度挖矿产出305.5枚BTC，较二季度挖矿产出增长31%，截至九月末持有682枚BTC和64.2万枚SOL，营收环比增长10%至3200万美元。
+- [比特币矿企TeraWulf将通过发行可转换优先票据额外募资5亿美元](https://www.globenewswire.com/news-release/2025/10/29/3176281/0/en/TeraWulf-Inc-Announces-Proposed-Private-Offering-of-500-million-of-Convertible-Notes.html) - 📰 null - 【比特币矿企TeraWulf将通过发行可转换优先票据额外募资5亿美元】金色财经报道，纳斯达克上市比特币矿企TeraWulf宣布将通过可转换优先票据发行额外募资5亿美元，并且还想初始购买者提供了一项购买至多7500万美元可转换债券的选择权，新资金将用于建设数据中心和一般公司用途。
+- [QCP：美联储今夜预计降息25基点，数据缺失下政策前景不明](https://x.com/QCPgroup/status/1983481271394476505) - 📰 null - 【QCP：美联储今夜预计降息25基点，数据缺失下政策前景不明】金色财经报道，QCP表示，美联储今晚FOMC会议预计将降息25个基点，但缺乏官方数据支撑。美国政府停摆导致美联储"盲飞"，无法获取通胀和就业数据，限制了政策调整空间。AI领域继续推动股市乐观情绪，尽管存在泡沫风险。加密货币市场则因10月闪崩后流动性不足而表现低迷，数字资产国债(DATs)折价交易加剧卖压，市场面临进一步下行风险。
+- [KITE于Binance盘前交易价暂报0.165美元，全流通估值达16.5亿美元]() - 📰 null - 【KITE于Binance盘前交易价暂报0.165美元，全流通估值达16.5亿美元】10月29日消息，据行情数据显示，KiteAI（KITE）于Binance盘前交易价暂报0.165美元。Binance官方公告显示，KITE代币总供应量为100亿枚，对应全流通估值达16.5亿美元。
+- [21Shares向SEC提交Hyperliquid ETF的S-1申请文件](https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/ea0262697-s1_21shares.htm) - 📰 null - 【21Shares向SEC提交Hyperliquid ETF的S-1申请文件】金色财经报道，据官方文件显示，21Shares US LLC提交名为“21Shares Hyperliquid ETF”的S-1注册声明。该ETF拟追踪Hyperliquid网络原生代币HYPE的美元价格表现及质押收益，扣除相关费用后反映整体回报。基金结构为特拉华法定信托形式，托管方包括Coinbase Custody与BitGo Trust。
+- [Binance钱包第二期Prime Sale Pre-TGE上线Momentum(MMT)](https://x.com/binancezh/status/1983481791907598388) - 📰 null - 【Binance钱包第二期Prime Sale Pre-TGE上线Momentum(MMT)】金色财经报道，Binance钱包第二期Prime Sale Pre-TGE上线Momentum(MMT)。·认购时间：2025年10月31号下午5点到7点(UTC+8)；·认购资格：符合资格的用户须使用Alpha积分参与。
+- [韩国上市公司Bitplanet增持9枚比特币 共持有110.67枚比特币](https://x.com/BTCtreasuries/status/1983480492809965887) - 📰 null - 【韩国上市公司Bitplanet增持9枚比特币 共持有110.67枚比特币】金色财经报道，据市场消息：韩国上市公司Bitplanet（049470.KQ）增持9枚比特币，目前总共持有110.67枚比特币。
+- [美国民主党参议员要求特朗普对赦免币安创始人CZ做出解释](https://cointelegraph.com/news/senate-democrats-demand-answers-on-trump-cz-pardon) - 📰 null - 【美国民主党参议员要求特朗普对赦免币安创始人CZ做出解释】金色财经报道，七名美国民主党参议员向司法部长潘姆·邦迪和司法部发出公开信，要求解释特朗普总统对币安创始人 CZ 的赦免决定。参议员们指责这一赦免向加密货币行业传递了“可以肆无忌惮地犯罪”的信号，并质疑特朗普与币安之间存在财务关联。信中提到特朗普家族的去中心化金融平台 World Liberty Financial 与币安有业务往来，且有报道称币安曾向特朗普相关游说者支付大额资金。CZ 此前已承认违反《美国银行保密法》，参议员担忧此次赦免将削弱联邦执法部门打击加密货币犯罪的能力。（Cointelegraph）
+- [币安合约将上线 KITEUSDT 永续合约盘前交易](https://twitter.com/bwenews/status/1983477541282415097) - 📰 null - 【币安合约将上线 KITEUSDT 永续合约盘前交易】金色财经报道，币安合约平台将于 2025 年 10 月 29 日 18:30 上线 KITEUSDT 永续合约盘前交易，最高杠杆可达 5 倍。该合约标的资产为 Kite AI (KITE)，用户可留意后续公告以获取更多信息。
+- [443枚比特币转至Coinbase 机构账户](https://x.com/cryptounfolded/status/1983472937798647857) - 📰 null - 【443枚比特币转至Coinbase 机构账户】金色财经报道，据Whale Alert监测，443枚比特币（价值 5014.4061 万美元）从未知钱包转移至Coinbase 机构账户（Coinbase Institutional）。
+- [易理华：目前行情处于深度调整趋势，等待确定性底部再投资](https://x.com/Jackyi_ld/status/1983474772173574337) - 📰 null - 【易理华：目前行情处于深度调整趋势，等待确定性底部再投资】金色财经报道，Liquid Capital创始人易理华发文表示，目前行情处于深度调整趋势，AI 和黄金等热度不减，大资金短期很难流入加密，导致 DAT 大部分低于 1，持续融资能力消失，所以暂时我们选择休息，当然行情随时在变化，每个人根据自己认知和趋势进行判断，但是我们选择等待确定性底部再投资。
+- [Bitwise现货Solana ETF在首日发行实现6950万美元资金流入](https://x.com/cryptounfolded/status/1983472937798647857) - 📰 null - 【Bitwise现货Solana ETF在首日发行实现6950万美元资金流入】金色财经报道，据市场消息：Bitwise现货Solana ETF在首日发行中吸引6950万美元资金流入，而新推出的HBAR和莱特币基金则没有资金流入。
