@@ -1,31 +1,49 @@
-- [Tether 考虑在美国设立实体，CEO对Fairshake感到不满]() - 📰 null - 【Tether 考虑在美国设立实体，CEO对Fairshake感到不满】金色财经报道，Tether 正在考虑在美国设立实体，并参与 2026 年美国选举相关政治捐赠。CEO Paolo Ardoino 表示，公司对加密行业主要政治行动委员会（PAC）Fairshake 感到不满，称其最终“服务于某一家公司利益”。 
-据悉，Fairshake 是一个加密货币政治行动委员会，在 2024 年选举期间通过为支持加密货币的候选人投入 1.33 亿美元而声名鹊起。
-- [WLFI：计划向USD1积分计划参与者分发840万枚WLFI](https://x.com/worldlibertyfi/status/1983336255002738904) - 📰 null - 【WLFI：计划向USD1积分计划参与者分发840万枚WLFI】金色财经报道，特朗普家族加密项目WLFI官方表示，其CEX合作伙伴将向USD1积分计划的参与者分发840万枚WLFI。WLFI积分计划将随着USD1持续扩展，包括推出更多赚取积分的方式、新的交易对和USD1的使用场景、即将推出的DeFi集成，以及更广泛的奖励机会，用以促进USD1的使用和推广。
-- [数据：Hyperliquid 和 BNB Chain 在主流 Layer 1 产生的手续费占比升至 40% 和 20%]() - 📰 null - 【数据：Hyperliquid 和 BNB Chain 在主流 Layer 1 产生的手续费占比升至 40% 和 20%】金色财经报道，今年，主流 Layer 1 区块链产生的手续费格局发生了巨大变化。 
-年初时，Solana 在主流 Layer 1 区块链中产生的手续费占比超过 50%，而如今占比已降至仅 9%。这一降幅部分归因于 Hyperliquid 和 BNB Chain 的激烈竞争。年初，Hyperliquid 和 BNB Chain 合计产生的手续费在主流 Layer 1 区块链总手续费中占比约为 10%。截至上周，它们各自占比已分别超过 40% 和 20%。这一转变可能是由市场需求、用户偏好及结构性变化等多重因素导致的，这些因素对资金流向产生了重大影响。
-- [Bitwise现货Solana ETF首日资金净流入达6950万美元]() - 📰 null - 【Bitwise现货Solana ETF首日资金净流入达6950万美元】金色财经报道，据SolanaFloor报道，Bitwise现货Solana交易所交易基金（ETF）BSOL首日录得6950万美元资金净流入，较SSK首日的1200万美元流入高出近480%。
-- [麻吉大哥向HyperLiquid存入64.4万枚USDC，增加ETH、HYPE多头仓位](https://x.com/OnchainLens/status/1983336567495373258) - 📰 null - 【麻吉大哥向HyperLiquid存入64.4万枚USDC，增加ETH、HYPE多头仓位】金色财经报道，据Onchain Lens监测，“麻吉大哥”黄立成（@machibigbrother）在过去17小时内向HyperLiquid存入643,939美元USDC，用于进一步增加其ETH（25倍杠杆）和HYPE（10倍杠杆）多头仓位。
-- [CZ考虑起诉美参议员Elizabeth Warren诽谤，后者称CZ曾“因洗钱被定罪”](https://nypost.com/2025/10/28/business/crypto-mogul-changpeng-zhao-mulls-suing-elizabeth-warren-for-libel-after-trumps-pardon/) - 📰 null - 【CZ考虑起诉美参议员Elizabeth Warren诽谤，后者称CZ曾“因洗钱被定罪”】金色财经报道，CZ正考虑起诉美国参议员Elizabeth Warren诽谤，起因是后者在特朗普发布赦免令后于社交平台X上发文称CZ曾“因洗钱被定罪”。CZ方面认为该说法严重失实，强调其于2023年仅因违反《银行保密法》达成认罪协议，未被控洗钱罪名，并因此支付5,000万美元罚款并辞去币安职务。
-- [灰度GSOL不受《40 Act》注册的 ETF 和共同基金所享有的相同监管和保护](https://x.com/Grayscale/status/1983334431827079231) - 📰 null - 【灰度GSOL不受《40 Act》注册的 ETF 和共同基金所享有的相同监管和保护】金色财经报道，Grayscale于官网表示，灰度 Solana 信托 ETF（"GSOL" 或 “本基金”）是一种交易所交易产品（Exchange Traded Product, ETP），未根据 1940 年《投资公司法》（"40 Act"）进行注册，因此不受《40 Act》注册的 ETF 和共同基金所享有的相同监管和保护。 
-投资涉及风险，包括可能损失本金。投资于 GSOL 具有高度的风险和波动性。对于无法承受全部投资损失的投资者而言，GSOL 是不合适的。
-- [OpenAl宣布完成资本重组，或将准备上市](https://openai.com/index/built-to-benefit-everyone/) - 📰 null - 【OpenAl宣布完成资本重组，或将准备上市】10月29日消息，OpenAl周二宣布已完成资本重组，简化了公司架构，非营利组织仍然控制着营利性组织，该协议将使OpenAl有能力摆脱非营利组织的根基，并可能上市。OpenAl首席执行官Sam Altman表示：“考虑到公司未来的资本需求，IPO是最有可能的途径。”
-- [慢雾余弦：朝鲜黑客恶意软件SilentSiphon可窃取苹果备忘录、Telegram等应用数据](https://x.com/evilcos/status/1983328551899414721) - 📰 null - 【慢雾余弦：朝鲜黑客恶意软件SilentSiphon可窃取苹果备忘录、Telegram等应用数据】金色财经报道，慢雾余弦于X平台发文称，，“朝鲜黑客有关的木马程序SilentSiphon能够从苹果备忘录、Telegram、浏览器扩展程序中获取数据，还能从浏览器和密码管理器中获取凭证，以及从与众多服务相关的配置文件中获取机密信息。” 
-用户应提高安全防范意识，定期更新软件版本，避免下载来源不明的应用程序，并使用可靠的安全软件进行防护。
-- [早期比特币投资者Owen Gunden向Kraken存入1,447.56枚BTC，价值1.63亿美元](https://x.com/OnchainLens/status/1983329771582009655) - 📰 null - 【早期比特币投资者Owen Gunden向Kraken存入1,447.56枚BTC，价值1.63亿美元】金色财经报道，据Onchain Lens监测，早期比特币投资者Owen Gunden（@bitbitrage）向Kraken交易所存入1,447.56枚BTC，价值1.63亿美元，同时将2,361.73枚BTC（价值2.66亿美元）转移至新钱包地址。
-- [特朗普长子4月创立“Executive Branch”私人俱乐部，入会费高达50万美元](https://www.cnbc.com/2025/04/28/donald-trump-jr-private-members-club-executive-branch.html) - 📰 null - 【特朗普长子4月创立“Executive Branch”私人俱乐部，入会费高达50万美元】10月29日消息，据CNBC披露，特朗普长子Donald Trump Jr今年4月在华盛顿创立了名为“Executive Branch”（行政部门）的私人俱乐部，入会费高达50万美元，创始会员包括白宫加密顾问David Sacks、加密交易平台Gemini联创Winklevoss兄弟，以及科技投资人Chamath Palihapitiya等。俱乐部仅接受创始人推荐与严格筛选入会申请。“Executive Branch”由Donald Trump Jr与1789 Capital高管共同创立，后者是去年小特朗普成为合伙人的投资公司。 
-知情人士披露，除50万美元会员费外，该俱乐部还将收取年费，具体金额尚未披露。“Executive Branch”在华盛顿社会政治圈中扮演的角色可能与特朗普第一任政府时期华盛顿特区的特朗普国际酒店类似。特朗普酒店曾是政府官员、共和党国会领袖以及外国政要、说客和商界领袖的热门聚会场所。该俱乐部的潜在成员必须经过创始人的严格审查和批准，尽管一些潜在成员愿意支付100万美元加入，但会员资格仍然需要推荐和严格筛选。
-- [某鲸鱼以3,983美元价格抛售6,000枚ETH，获利1,443万美元](https://x.com/EmberCN/status/1983328993320608085) - 📰 null - 【某鲸鱼以3,983美元价格抛售6,000枚ETH，获利1,443万美元】金色财经报道，据链上分析师余烬监测，某鲸鱼在一小时前以3,983美元价格卖出6,000枚ETH，获利1,443万美元。该鲸鱼于今年4月以1,582美元价格购入这批ETH。数据显示，该鲸鱼近期在ETH交易中累计获利2,892万美元。此前，该鲸鱼于2022年底以1,195美元价格购入8,240枚ETH，并于2024年7月以2,961美元价格卖出，获利1,449万美元。
-- [比特币财库公司Sequans转移970枚BTC，疑似为首次出售](https://x.com/emmettgallic/status/1983226491950297331) - 📰 null - 【比特币财库公司Sequans转移970枚BTC，疑似为首次出售】金色财经报道，据Emmett Gallic监测，持有超过3200枚比特币的比特币财库公司Sequans转移了970枚BTC。该公司将比特币发送至一个地址，该地址随后测试了一个未使用的地址，该地址疑似为Coinbase存款地址。分析师称，如果确认，这将是Sequans自成立以来首次出售比特币。
-- [今日恐慌与贪婪指数升至51，等级仍为中性](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至51，等级仍为中性】金色财经报道，今日恐慌与贪婪指数升至51，等级仍为中性。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
-- [澳大利亚金融监管机构发布更新指引，拟扩大对加密货币的监管范围](https://decrypt.co/346511/australia-financial-regulator-oversight-crypto-updated-guidance) - 📰 null - 【澳大利亚金融监管机构发布更新指引，拟扩大对加密货币的监管范围】金色财经报道，澳大利亚证券投资委员会（Australian Securities and Investments Commission，简称 ASIC）于周二发布了《信息说明书 225 号》（Info Sheet 225）的修订版，明确了在《公司法》（Corporations Act）框架下，哪些数字资产产品及服务或将被认定为金融产品。 
-此次最新更新用范围更广的 “数字资产”（digital assets）一词取代了此前的 “加密资产”（crypto-asset）术语，旨在全面涵盖虚拟资产、代币化资产及基于代币的产品，不设遗漏。尽管该指引不具备新法律的效力，但 ASIC 表示，其目的是在澳大利亚财政部计划推出《数字资产平台及支付服务提供商法案》（Digital Asset Platforms and Payment Service Providers bills）之前，为企业提供更强的监管确定性。该法案将为加密货币交易所、托管平台及特定稳定币发行方引入正式的许可制度。 
-此外，ASIC 还重申，根据现行法律，包括收益型代币（yield-bearing tokens）、质押计划（staking programs）及资产参照型稳定币（asset-referenced stablecoins）在内的诸多数字资产，或将需要申请澳大利亚金融服务牌照（Australian Financial Services license）。 
-这份最终版指引以 ASIC 2024 年 12 月开展的咨询工作为基础，将实务案例从 13 个扩充至 18 个，并新增了有关托管、基金管理及过渡性豁免的章节。 
-这些实务案例涵盖的范围广泛，包括交易所发行的代币、游戏类非同质化代币（NFT）、收益型稳定币、封装代币（wrapped tokens）以及质押即服务平台（staking-as-a-service platforms）等。
-- [Neutron：比特币夏季金库将于11月1日关闭](https://x.com/neutron_org/status/1983255279157555454) - 📰 null - 【Neutron：比特币夏季金库将于11月1日关闭】10月29日消息，Cosmos 跨链智能合约平台 Neutron 官方表示，基于以太坊的比特币夏季金库将于 11 月 1 日关闭，存款者剩余 4 天时间可以提取资金。
-- [Coinbase将下架MASK-USDT、MINA-USDT、GMT-USDT等交易对](https://x.com/CoinbaseMarkets/status/1983248939429044566) - 📰 null - 【Coinbase将下架MASK-USDT、MINA-USDT、GMT-USDT等交易对】金色财经报道，Coinbase将下架MASK-USDT、MASK-EUR、MINA-USDT、GMT-USDT、AXS-BTC和SNX-BTC交易对。
-- [ENS宣布推出ENS App和ENS浏览器](https://x.com/ensdomains/status/1983232008353612268) - 📰 null - 【ENS宣布推出ENS App和ENS浏览器】10月29日消息，以太坊域名项目ENS宣布推出ENS App和ENS浏览器。ENSApp为日常用户提供无缝的域名注册和身份管理，ENS浏览器则为生态系统构建者提供所有权功能和精准的控制。 
-ENS官方表示其如今已发展成为Web3的身份基础设施。
-- [胜率100%的巨鲸已完全平仓其比特币13倍杠杆多单，获利140万美元](https://x.com/OnchainLens/status/1983323750629269620) - 📰 null - 【胜率100%的巨鲸已完全平仓其比特币13倍杠杆多单，获利140万美元】金色财经报道，据Onchain Lens监测，胜率100%的巨鲸已完全平仓其比特币（BTC）13倍杠杆多单，获利140万美元。 
-目前，该巨鲸仍持有以太坊（ETH）5倍杠杆多单和索拉纳币（SOL）10倍杠杆多单，持仓价值达2.63亿美元，浮亏130万美元。
-- [疑似Bitmine地址增持27,316枚ETH，价值1.0892亿美元](https://x.com/OnchainLens/status/1983319372128288839) - 📰 null - 【疑似Bitmine地址增持27,316枚ETH，价值1.0892亿美元】金色财经报道，据Onchain Lens监测，或属于以太坊第一持仓机构Bitmine的新建地址「0xDc8」从BitGo收到27,316枚ETH，价值1.0892亿美元。
+- [Bithumb将上线ENSO韩元交易对]() - 📰 null - 【Bithumb将上线ENSO韩元交易对】金色财经报道，据官方公告，Bithumb将上线ENSO韩元交易对。
+- [美联储10月降息预期强烈，多家机构预测12月再降息]() - 📰 null - 【美联储10月降息预期强烈，多家机构预测12月再降息】金色财经报道，多家机构对美联储的降息预期达成一致。美国银行预计美联储10月将降息25个基点，并是唯一预测今年仅降息一次的主要券商。花旗、富国、摩根大通等均预测10月降息25个基点，12月再降息25个基点。高盛则认为12月降息可能性很大，并预测2026年将进行两次降息。（金十）
+- [特朗普批评鲍威尔，要求美联储迅速降息]() - 📰 null - 【特朗普批评鲍威尔，要求美联储迅速降息】金色财经报道，美国总统特朗普周四对美联储提出批评，再次将矛头指向美联储主席鲍威尔，指责其在降息问题上行动迟缓。特朗普在韩国的演讲中提到“杰罗姆·‘太迟’·鲍威尔”，并表示不会让美联储因担心三年后的通胀而加息。他预计美国经济将在2026年第一季度实现4%的增长，远高于经济学家的预测。此言论突显了特朗普与美联储之间的紧张关系。（金十）
+- [Santiment：散户在本周市场反弹期间关注抄底机会，该情况通常预示市场将面临更大下行压力](https://x.com/santimentfeed/status/1983292715304353975) - 📰 null - 【Santiment：散户在本周市场反弹期间关注抄底机会，该情况通常预示市场将面临更大下行压力】10月29日消息，加密市场分析机构Santiment在社交媒体上发文表示，在周二市场小幅回调后，散户投资者提及「逢低买入」的讨论热度显著攀升。但历史数据显示，当“抄底”呼声如此高涨时，市场往往会出现短期小幅反弹，但随后将面临更大的下行压力。真正理想的抄底时机，其实是在大众普遍不期待市场反弹之时。而当散户认为市场已充分释放风险时，往往会被后续更猛烈的跌势教育。唯有当他们的乐观情绪（FOMO）彻底转化为恐慌（FUD），真正的强势反弹才会悄然启动。对耐心型交易者而言，这才是真正的抄底信号。
+- [报告：近期加密市场暴跌致 10 亿美元 sUSDe 循环交易面临风险](https://www.coindesk.com/markets/2025/10/29/recent-bitcoin-crash-has-put-usd1b-in-susde-loop-trades-at-risk-research-firm-says) - 📰 null - 【报告：近期加密市场暴跌致 10 亿美元 sUSDe 循环交易面临风险】10月29日消息，Sentora Research 报告称，加密市场暴跌后，涉及 Ethena 质押的 USDe（sUSDe）的近 10 亿美元 DeFi 头寸面临风险。 
+暴跌致 DeFi 市场利率大降，sUSDe 循环交易等杠杆策略收益缩水。在 Aave v3 核心版，USDT/USDC 借贷利率分别比 sUSDe 收益高约 2% 和 1.5%，借稳定币杠杆做多 sUSDe 的用户收益为负，借稳定币买 sUSDe 的循环头寸开始亏损。若此情况持续，Aave v3 核心版约 10 亿美元暴露于负利差的头寸或平仓。负利差可能迫使抵押品抛售或去杠杆化，削弱交易场所流动性，引发连锁反应。Sentora 提醒，交易者要关注 Aave 借贷年化收益率与 sUSDe 收益的利差，尤其是持续为负时，以及 USDT 和 USDC 借贷池利用率。目前越来越多循环头寸接近清算，未来，交易者要留意 USDT 和 USDC 借贷池利用率飙升，这可能推高借贷成本，在利差为负时加剧市场压力。
+- [K33：现货Solana ETF将吸引资金流入，小型山寨币基金可能“逐渐失去影响力”](https://www.fxstreet.com/cryptocurrencies/news/solana-etfs-set-to-attract-inflows-smaller-altcoin-funds-could-fade-into-irrelevance-k33-202510282316) - 📰 null - 【K33：现货Solana ETF将吸引资金流入，小型山寨币基金可能“逐渐失去影响力”】金色财经报道，根据 K33 的最新报告，Solana ETF在上市后可能会出现强劲需求，而其他山寨币 ETF 在缺少贝莱德参与的情况下，可能面临更弱的资金流入。 
+K33 的分析师团队（由 Vetle Lunde 领衔）在周二发布的报告中表示，现货 SOL ETF 预计将吸引大量资金流入，并且投资者需求迹象已经非常明显。 
+分析师指出，Solana 基金的潜在资金流入已经可以从 VolatilityShares 推出的 2倍做多 SOL 杠杆ETF 的持续需求中看出——该基金目前拥有约228万枚 SOL 的等值敞口。 
+与此同时，其他发行方也在准备推出更多山寨币 ETF。例如，Canary 推出的 莱特币（LTC） 和 Hedera（HBAR） 相关 ETF 已于周二上市。 
+Lunde提醒称，在日益拥挤的市场中，这些规模较小、知名度较低的山寨币 ETF 可能难以吸引足够关注。“我们预计不同 ETF 的需求将出现分化，” 分析师在报告中写道，并补充表示，在数十只其他山寨币 ETF 陆续推出的竞争环境下，部分山寨币基金可能会 “沦为无关紧要的存在”。
+- [BTC突破113000美元]() - 📰 null - 【BTC突破113000美元】金色财经报道，行情显示，BTC突破113000美元，现报113000.86美元，24小时跌幅达到0.77%，行情波动较大，请做好风险控制。
+- [某以太坊ICO参与者首次向Kraken存入1,500枚ETH，价值602万美元](https://x.com/OnchainLens/status/1983402509629796830) - 📰 null - 【某以太坊ICO参与者首次向Kraken存入1,500枚ETH，价值602万美元】金色财经报道，据OnchainLens监测，一名以太坊ICO参与者首次向Kraken交易所存入1,500枚ETH，价值602万美元。该参与者在ICO期间以6,220美元的价格获得20,000枚ETH，按当前价格计算价值8,030万美元，投资回报率达12,914倍。
+- [Canary已为其现货Solana ETF提交S-1文件更新版本，费率设定为0.5%](https://www.sec.gov/Archives/edgar/data/2041869/000199937125016304/0001999371-25-016304-index.htm) - 📰 null - 【Canary已为其现货Solana ETF提交S-1文件更新版本，费率设定为0.5%】金色财经报道，据SEC官网消息，Canary提交了其现货Solana ETF S-1申请文件的更新版本，费率设定为0.5%。
+- [OKX将上线PIGGYUSDT永续合约](https://www.okx.com/zh-hans/help/okx-to-list-perpetual-futures-for-piggy-crypto) - 📰 null - 【OKX将上线PIGGYUSDT永续合约】据官方公告，OKX将于2025年10月29日下午4:00(UTC+8)在网页端、App端及API正式上线PIGGYUSDT永续合约。 
+据悉，Piggycell，韩国头部充电宝网络，作为领先的RWA与DePIN协议，将现实世界的充电行为转化为链上代币化活动。
+- [Glassnode：市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情的强度](https://x.com/glassnode/status/1983396736967061878) - 📰 null - 【Glassnode：市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情的强度】金色财经报道，Glassnode于X平台发文称，比特币从10.7万美元价位反弹的时机，恰逢美国现货ETF（交易所交易基金）资金净流入由负转正。不过，目前该类ETF的日净流入量仍不足1000枚比特币，远低于本轮行情中此前大型上涨行情启动时超2500枚比特币/日的水平。 
+市场需求正逐步回升，但回升力度尚未达到近期几轮上涨行情时的强度。
+- [Stable第二阶段预存款活动将于下周开放](https://x.com/stable/status/1983385757432881352) - 📰 null - 【Stable第二阶段预存款活动将于下周开放】金色财经报道，据Stable发布公告称第二阶段预存款活动将于下周开放，本次活动将包括24小时倒计时、固定存款总额上限、单钱包的存款限额、个人钱包要求等限制。
+- [“胜率 100% 巨鲸”持仓 2.65 亿美元多单扭亏为盈，浮盈 106 万美元](https://x.com/ai_9684xtpa/status/1983391731354878386) - 📰 null - 【“胜率 100% 巨鲸”持仓 2.65 亿美元多单扭亏为盈，浮盈 106 万美元】金色财经报道，据链上分析师 Ai 姨（@ai_9684xtpa）监测，此前胜率 100% 的某巨鲸持有的价值 2.65 亿美元多单头寸已扭亏为盈，目前浮盈 106 万美元。 
+该巨鲸当前持仓包括： 
+以太坊多单 47,548.42 枚 ETH，价值 1.91 亿美元，开仓价 3,965.94 美元； 
+Solana 多单 382,611.22 枚 SOL，价值 7,452 万美元，开仓价 198.37 美元。其中以太坊头寸贡献浮盈 243 万美元。
+- [特朗普：不会让美联储加息]() - 📰 null - 【特朗普：不会让美联储加息】金色财经报道，美国总统特朗普表示，他不会让美联储加息。（金十）
+- [BNBChain完成第三批“重生支持”空投](https://x.com/BNBCHAINZH/status/1983384834174267799) - 📰 null - 【BNBChain完成第三批“重生支持”空投】金色财经报道，据BNBChain华语官方披露，其4500万美元"重生支持"计划第三批BNB空投已完成。目前仍有一批空投待发放，预计将于2025年11月上旬完成全部分发。 
+BNBChain提醒，本次空投没有任何申领网站或表单，奖励将自动发送至符合条件的钱包地址。
+- [4E：机构持续增配BTC与ETH]() - 📰 null - 【4E：机构持续增配BTC与ETH】10月29日消息，据4E观察，美股上市公司 ZOOZ Strategy Ltd.（ZOOZ） 以每枚 11.2 万美元的均价增持 94 枚比特币，累计持仓已达 1036 枚，总价值约 1.15 亿美元，延续其比特币储备战略。链上数据显示，疑似 Bitmine 地址从 BitGo 接收 27,316 枚 ETH（约 1.09 亿美元），为该机构近月最大单笔入账。 
+灰度Solana Trust ETF（GSOL） 今日在纽约证交所 Arca 正式上市，成为本周第二只 Solana ETF，为美股投资者提供直接敞口与潜在质押收益。与此同时，比特币财务公司 Sequans 被发现向 Coinbase 地址转移 970 枚 BTC，或为其首次出售行为。 
+政策方面，法国议员 Éric Ciotti 提议未来七年内国家购入 42 万枚 BTC，以核电盈余挖矿及储蓄计划资金作为来源；若获通过，法国将成为首个将比特币纳入国家储备的欧洲国家。 
+4E提醒投资者：机构增持与金融巨头的基础设施布局正强化主流采纳逻辑，但链上流动性仍受宏观风险制约。短期需警惕政策信号与机构仓位变化对市场预期的放大效应。
+- [过去24小时CEX净流出12,254.12枚BTC]() - 📰 null - 【过去24小时CEX净流出12,254.12枚BTC】10月29日消息，据Coinglass数据，过去24小时CEX累计净流出12,254.12枚BTC，其中流出量排在前三位的CEX如下： 
+·CoinbasePro，流出13,709.19枚BTC； 
+·Bitfinex，流出474.86枚BTC； 
+·OKX，流出167.63枚BTC。 
+此外，Binance流入2,531.36枚BTC，位列流入榜第一。
+- [金色午报 | 10月29日午间重要动态一览]() - 📰 null - 【金色午报 | 10月29日午间重要动态一览】7:00-12:00关键词：Visa、WLFI、Truth Social、澳大利亚 
+1.Visa正在为四种不同区块链上的四种稳定币提供支持； 
+2.WLFI：计划向USD1积分计划参与者分发840万枚WLFI； 
+3.疑似Bitmine地址增持27,316枚ETH，价值1.0892亿美元； 
+4.Bitwise：目前正发生着BTC从散户到机构投资者的大规模转移； 
+5.澳大利亚金融监管机构发布更新指引，拟扩大对加密货币的监管范围； 
+6.英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局； 
+7.Semler Scientific战略主管：比特币融入传统信贷体系的进程尚处于早期阶段； 
+8.特朗普旗下Truth Social将与Crypto.com合作推出全球首个社交媒体预测市场平台。
+- [英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局](https://financefeeds.com/brokers-must-notify-fca-before-offering-crypto-etns-to-retail-clients/) - 📰 null - 【英国要求经纪商在向零售客户提供加密ETN前须通知英国金融行为监管局】金色财经报道，英国已结束对加密货币交易所交易票据（ETN）长达四年的禁令，自2021年以来首次为零售投资者提供了一条合规的比特币与以太坊投资渠道。英国金融行为监管局（FCA）于10月8日解除了针对零售客户的这一禁令，允许销售加密货币交易所交易票据（即cETN），但前提是这些产品需列入该监管机构的 “官方清单”，并在伦敦证券交易所等经认可的交易所进行交易。 
+相关机构必须遵守针对 “限制性大众市场投资产品” 的新监管体系，包括强制发布风险提示、设置冷静期以及开展投资者适当性审核。这一决定标志着英国金融行为监管局完成了政策转向 ——2021年，出于对加密货币波动性、估值问题及欺诈风险的担忧，该机构曾禁止向零售投资者提供与加密货币相关的衍生品及交易所交易票据；此后，监管局逐步构建了消费者保护框架，推出了营销宣传行为规则手册，并在整个行业推行 “消费者责任” 标准。
+- [美国Hedera现货ETF和Litecoin现货ETF上市首日均无净流入流出](https://sosovalue.com/zh/assets/etf/us-hbar-spot) - 📰 null - 【美国Hedera现货ETF和Litecoin现货ETF上市首日均无净流入流出】金色财经报道，美国Canary HBARETF（股票代码HBR）、Canary LitecoinETF（股票代码LTCC）在纳斯达克上市，均为该币种首只美国现货ETF。从上市第一天资产规模来看，远小于同日上市Solana现货ETF2.9亿美元的资产规模，低于市场预期。 
+据SoSoValue数据，HBR上市首日无净流入流出，交易额863万美元，总资产净值109万美元，HBAR净资产比率（市值较HBAR总市值占比）达0.01%；LTCC上市首日无净流入流出，交易额138万美元，总资产净值96.9万美元，LTC净资产比率（市值较LTC总市值占比）达0.01%。 
+Canary HBARETF支持现金和实物申赎，不支持HBAR通过质押提供额外收益，管理费率0.95%；CanaryLitecoinETF仅支持现金申赎，管理费率0.95%。
