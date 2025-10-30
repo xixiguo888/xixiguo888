@@ -1,23 +1,24 @@
-- [Meta Platforms(META.O)计划通过债券发行筹集至少250亿美元]() - 📰 null - 【Meta Platforms(META.O)计划通过债券发行筹集至少250亿美元】金色财经报道，Meta Platforms(META.O)计划通过债券发行筹集至少250亿美元。(金十)
-- [BNB跌破1100美元]() - 📰 null - 【BNB跌破1100美元】金色财经报道，行情显示，BNB跌破1100美元，现报1099.43美元，24小时跌幅达到1.14%，行情波动较大，请做好风险控制。
-- [BTC跌破109000美元]() - 📰 null - 【BTC跌破109000美元】金色财经报道，行情显示，BTC跌破109000美元，现报108982.47美元，24小时跌幅达到3.71%，行情波动较大，请做好风险控制。
-- [Michael Saylor的比特币目前拥有17.7亿美元的未实现利润](https://x.com/BTCtreasuries/status/1983869021293572609) - 📰 null - 【Michael Saylor的比特币目前拥有17.7亿美元的未实现利润】金色财经报道，据BitcoinTreasuries.NET数据，Strategy创始人Michael Saylor个人持有17,732枚比特币，目前拥有17.7亿美元的未实现利润。
-- [拥有至少 240 个Alpha积分的用户可领取 354 枚 BANK 代币]() - 📰 null - 【拥有至少 240 个Alpha积分的用户可领取 354 枚 BANK 代币】金色财经报道，Binance Alpha 宣布 Lorenzo Protocol（BANK）第二波空投奖励已开放领取。拥有至少 240 个 Binance Alpha Points 的用户可以按先到先得的原则领取 354 枚 BANK 代币。如果奖励池未完全分配，积分门槛将会调整。
-- [摩根大通在自有区块链上完成私募股权基金代币化]() - 📰 null - 【摩根大通在自有区块链上完成私募股权基金代币化】金色财经报道，据《华尔街日报》报道，摩根大通（JPMorgan）已在其自有区块链网络上完成一支私募股权基金的代币化试点，这是该行推进区块链金融基础设施的重要一步。该项目旨在实现基金份额的链上表示与结算，以提升流动性与透明度。 
-摩根大通表示，计划于2026年正式推出“另类投资基金代币化平台”，为机构客户提供私募股权、信贷与其他非公开市场资产的链上发行与交易服务。
-- [贝森特：美联储还活在过去 预测模型已经失灵]() - 📰 null - 【贝森特：美联储还活在过去 预测模型已经失灵】金色财经报道，美国财长贝森特对美联储将降息25个基点的决定表示赞赏，但同时指出，美联储对今年是否再次降息的怀疑性言论表明该机构亟需重大改革。贝森特表示，他将在12月上旬对美联储主席候选人进行第二轮面试，以接替鲍威尔，从而特朗普能够在圣诞节前做出任命。贝森特说：“现在的美联储停留在过去。他们今年以来的通胀预测非常糟糕，他们的模型已经失灵。”(金十)
-- [某巨鲸时隔11个月后再次买入5,580枚ETH，价值约2175万美元](https://x.com/lookonchain/status/1983859808358035604) - 📰 null - 【某巨鲸时隔11个月后再次买入5,580枚ETH，价值约2175万美元】金色财经报道，据lookonchain监测，时隔11个月，某巨鲸地址0x1b57再次买入5,580枚ETH（约2175万美元）。
-- [贝森特：可能会在圣诞节前确定下一任美联储主席候选人]() - 📰 null - 【贝森特：可能会在圣诞节前确定下一任美联储主席候选人】金色财经报道，美国财长贝森特：可能会在圣诞节前确定下一任美联储主席候选人。对美联储降息25个基点表示赞赏，但对措辞并不满意。
-- [贝莱德IBIT向Coinbase存入794.43枚BTC和48.36枚ETH]() - 📰 null - 【贝莱德IBIT向Coinbase存入794.43枚BTC和48.36枚ETH】金色财经报道，据 OnchainLens 监测，贝莱德 IBIT 地址在过去一小时内向 Coinbase 存入了 794.43 枚比特币（约 8744 万美元）和 48.36 枚以太坊（约 18.88 万美元）。
-- [美国财长贝森特：美国政府停摆已开始影响美国经济]() - 📰 null - 【美国财长贝森特：美国政府停摆已开始影响美国经济】金色财经报道，美国财长贝森特：美国政府停摆已开始影响美国经济。
-- [比特币矿企 TeraWulf 将私募发行规模扩大至 9 亿美元](https://x.com/TheBlock__/status/1983852043321155771) - 📰 null - 【比特币矿企 TeraWulf 将私募发行规模扩大至 9 亿美元】金色财经报道，比特币矿企 TeraWulf 宣布将其私募发行规模扩大至 9 亿美元，并确定发行条款。此次发行为 0% 可转换优先票据，设有 1.25 亿美元超额配售额度，发行到期时间为 2032 年。该发行是公司此前披露的 5 亿美元融资计划的延伸，初始购买者可在 13 天内行使额外认购权。公司表示，这些零息票据的转换溢价为 37.5%，以周三 14.5 美元的收盘价计算，初始转换价约为每股 19.94 美元。如超额配售权全部行使，融资总额将达到约 9.997 亿美元，资金将用于德克萨斯州阿伯纳西数据中心园区建设及其他公司用途。
-- [Aster已累计回购19天，日均回购额约125万美元至140万美元之间](https://x.com/Aster_DEX/status/1983141743379054936) - 📰 null - 【Aster已累计回购19天，日均回购额约125万美元至140万美元之间】10月30日消息，据Aster官方公告，S3 回购完全透明并 100% 在链上执行，并按日从公开市场买入代币，直至累计金额达到 S3 期间交易手续费的 70%–80% 目标区间。ASTER 的 S3 阶段将持续 35 天，截至 11 月 9 日。此外，S3 空投将在全部回购完成之后启动，届时将优先使用该回购地址中的代币进行分发；不足部分从空投分配池解锁以确保足额发放。 
-据链上监测，Aster 相关地址已累计回购 19 天。据 Deflama 数据，Aster 当前 TVL 为 16.9 亿美元，近七日日均手续费约 175 万美元，据此计算，日均回购额度在 125 万美元至 140 万美元。
-- [dYdX提议三个月试验将100%交易费用用于代币回购](https://dydx.forum/t/drc-three-month-experimental-trial-allocate-100-of-net-protocol-fees-to-dydx-buybacks-and-fund-validators-from-community-treasury/4670) - 📰 null - 【dYdX提议三个月试验将100%交易费用用于代币回购】10月30日消息，dYdX社区论坛出现一项新拟议提案，内容包括将dYdX的100%净交易费用于DYDX代币回购，以提升代币价值累积，计划进行为期三个月的实验性试验。 
-当前dYdX Chain将净交易手续费按以下方式分配：25%用于DYDX回购，40%用于验证者和质押者的质押奖励，25%用于Megavault流动性，10%进入国库。提案将于11月3日进行正式提交。
-- [币安钱包将举办Momentum(MMT)的Pre-TGE Prime Sale活动](https://www.binance.com/en/events/primesale-mmt) - 📰 null - 【币安钱包将举办Momentum(MMT)的Pre-TGE Prime Sale活动】金色财经报道，币安钱包将于2025年10月31日17:00-19:00(UTC+8)举办Momentum(MMT)的Pre-TGE Prime Sale活动。本次活动总筹资额为150万美元，提供1500万MMT代币(总供应量的1.5%)，单价为0.1美元。参与者需持有足够的Binance Alpha积分，每用户最多可投入7 BNB。订阅采用超额认购模式，分配比例基于用户存入的BNB总量。活动结束后，用户将在BSC链上获得代表订阅成功的Key，而实际MMT代币将于11月4日18:00(UTC+8)空投至用户的Binance Alpha账户。Momentum是基于Sui网络的DeFi项目，其MMT代币主要用于治理和投票功能。
-- [印度央行副行长：推出稳定币将带来大量本可避免的政策问题]() - 📰 null - 【印度央行副行长：推出稳定币将带来大量本可避免的政策问题】金色财经报道，印度央行副行长表示，推出稳定币将带来大量本可避免的政策问题。
-- [欧洲央行希望在2027年启动数字欧元试点]() - 📰 null - 【欧洲央行希望在2027年启动数字欧元试点】金色财经报道，欧洲央行周四表示，如果能够及时获得立法者的批准，它可能会在2027年启动其数字货币试点项目。欧洲央行认为，该项目对欧元区的金融自主权至关重要。欧洲央行将其作为信用卡和稳定币等美国主导的私人支付手段的战略替代方案。欧洲央行表示，在地缘政治摩擦加剧的时代，这一举措越来越重要，因为金融自主和弹性被视为维护欧洲经济主权的关键。经过四年的研究和准备，欧洲央行表示，目前正在考虑进行试点，这意味着一些数字欧元交易可能最早在2027年年中进行，两年后全面启动。
-- [BTC跌破110000美元]() - 📰 null - 【BTC跌破110000美元】金色财经报道，行情显示，BTC跌破110000美元，现报109993.74美元，24小时跌幅达到2.62%，行情波动较大，请做好风险控制。
-- [ETH跌破3900美元]() - 📰 null - 【ETH跌破3900美元】金色财经报道，行情显示，ETH跌破3900美元，现报3899.89美元，24小时跌幅达到2.5%，行情波动较大，请做好风险控制。
-- [DRW Holdings和Liberty City Ventures正在为Canton网络代币财库筹集5亿美元](https://x.com/Cointelegraph/status/1983832542194065694) - 📰 null - 【DRW Holdings和Liberty City Ventures正在为Canton网络代币财库筹集5亿美元】金色财经报道，据市场消息：DRW Holdings和Liberty City Ventures正在为Canton网络代币财库筹集5亿美元。
+- [观点：美元流动性对投资活动具有极端重要性](https://flash.jin10.com/detail/20251031020942085800) - 📰 null - 【观点：美元流动性对投资活动具有极端重要性】金色财经报道，瑞士央行管委会成员Tschudin：美元流动性对投资活动具有极端重要性。
+- [Bernstein给予SharpLink“跑赢大盘”评级并看涨75%](https://www.theblock.co/post/376969/bernstein-ethereum-treasury-firm-sharplink-eth-price-prediction?utm_source=browser&utm_medium=chrome&utm_campaign=notification) - 📰 null - 【Bernstein给予SharpLink“跑赢大盘”评级并看涨75%】金色财经报道，研究机构 Bernstein 于 10 月 30 日正式启动对 SharpLink Gaming（NASDAQ: SBET） 的分析覆盖，给予“跑赢大盘（Outperform）”评级，并设定 2026 年底目标价 24 美元，相较当前股价约 75%上涨空间。
+- [Jump Crypto疑似正将大量SOL换仓为BTC，已向OTC平台存入110万枚SOL](https://x.com/lookonchain/status/1983934415505125667) - 📰 null - 【Jump Crypto疑似正将大量SOL换仓为BTC，已向OTC平台存入110万枚SOL】金色财经报道，据 lookonchain 监测，Jump Crypto 似乎正在将大量 SOL 兑换为 BTC，在过去的 15 分钟内，Jump Crypto 将已解押的 110 万枚 SOL（约 2.05 亿美元）转移至 Galaxy Digital，并获得了 2,455 枚 BTC（约 2.65 亿美元）作为回报。
+- [麻吉过去3小时内被清算3次，损失超1438万美元](https://x.com/lookonchain/status/1983931901560705195) - 📰 null - 【麻吉过去3小时内被清算3次，损失超1438万美元】金色财经报道，据 Lookonchain 监测，麻吉大哥在过去 3 小时内被清算 3 次，总损失已超过 1438 万美元。
+- [报告：社交工程诈骗仍是2025年加密货币用户面临的最大威胁](https://www.coindesk.com/web3/2025/10/30/social-engineering-scams-top-crypto-threats-in-2025-whitebit) - 📰 null - 【报告：社交工程诈骗仍是2025年加密货币用户面临的最大威胁】金色财经报道，WhiteBIT 发布报告称，社交工程诈骗仍然是加密用户面临的首要威胁。报告显示，今年 40.8% 的加密安全事件涉及诈骗者通过虚假投资机会或冒充手段欺骗受害者。技术性钱包攻击（如钓鱼、恶意软件或键盘记录器）占 33.7%。
+- [Lombard Finance收购Avalanche跨链比特币资产BTC.b](https://www.theblock.co/post/376974/lombard-finance-acquires-btc-b-avalanche-bridged-bitcoin-asset-ava-labs) - 📰 null - 【Lombard Finance收购Avalanche跨链比特币资产BTC.b】金色财经报道，比特币 DeFi 协议 Lombard Finance 宣布收购 Avalanche（AVAX）的跨链比特币资产 BTC.b 及其相关基础设施，交易来自 Ava Labs。 BTC.b 市值约 5.02 亿美元，将继续在 Avalanche 上运行，合约和名称保持不变。
+- [美国数据中心运营商Core Scientific涨超6%]() - 📰 null - 【美国数据中心运营商Core Scientific涨超6%】金色财经报道，美国数据中心运营商Core Scientific涨超6%。消息面上，Core Scientific股东在特别股东大会上否决了CoreWeave提出的收购要约。
+- [Nordea银行将于12月推出比特币ETP交易服务，响应欧盟MiCA监管框架](https://www.nordea.com/en/news/nordea-to-offer-customers-access-to-an-exchange-traded-product-tracking-bitcoin) - 📰 null - 【Nordea银行将于12月推出比特币ETP交易服务，响应欧盟MiCA监管框架】金色财经报道，Nordea宣布将于2025年12月起向客户提供比特币追踪交易所交易产品(ETP)服务，此举标志着北欧最大银行之一正式进入加密资产领域。该产品由CoinShares International Limited制造，属于合成ETP类别，以比特币为基础资产，专为寻求另类资产敞口的经验丰富投资者设计。 
+Nordea此前对加密货币持谨慎态度，但随着欧盟2023年通过MiCA法规（加密资产市场法规）并于2024年12月全面实施，欧洲监管环境日趋成熟，加之北欧地区虚拟货币需求增长，促使银行调整策略。该产品将仅作为执行服务提供，银行不会就此提供投资建议。 
+Nordea表示，将持续关注区块链技术发展，并随市场成熟度提高而扩展相关服务，以满足客户需求。
+- [银行与金融科技公司加速数字资产并购，Citizens银行预测行业整合加剧](https://www.coindesk.com/business/2025/10/30/crypto-m-and-a-heats-up-as-big-banks-and-fintechs-race-to-scale-citizens) - 📰 null - 【银行与金融科技公司加速数字资产并购，Citizens银行预测行业整合加剧】金色财经报道，美国Citizens银行最新研究报告显示，数字资产行业并购活动正在加速，预计将进一步提速。随着GENIUS法案(稳定币规则)通过和CLARITY法案(市场结构)的预期出台，美国监管环境已从"敌对"转向支持，推动银行、支付处理商和资产管理公司积极整合区块链基础设施。 
+报告指出，Mastercard正在洽谈以高达20亿美元收购ZeroHash，Coinbase也接近完成对伦敦公司BVNK的类似规模收购。技术复杂性、人才短缺和合规要求使得收购成为传统机构最实用的扩张路径。 
+稳定币市值已从年中的2500亿美元增至约3150亿美元，预计将超过1万亿美元。Citizens银行预测，到2030年，代币化市场每年可产生近1000亿美元收入，包括交易、托管和数据服务。
+- [美联储自12月起将所有到期国债本金进行“展期”]() - 📰 null - 【美联储自12月起将所有到期国债本金进行“展期”】金色财经报道，美联储在FOMC声明中提及，自12月1日起，将对所有到期的美国国债本金支付进行“展期”（rollover）。这意味着美联储将把到期国债的本金再投资于新的美国国债中，维持资产规模不变，结束缩表。这一举措通常被视为货币政策转向宽松或至少是结束紧缩周期的信号。（金十）
+- [Ondo与Chainlink合作为100多种代币化股票提供数据支持](https://www.coindesk.com/business/2025/10/30/ondo-taps-chainlink-to-power-data-feeds-for-100-tokenized-equities) - 📰 null - 【Ondo与Chainlink合作为100多种代币化股票提供数据支持】金色财经报道，Ondo宣布与Chainlink合作，为100多种代币化股票提供数据支持。此次合作还涉及Chainlink的跨链互操作协议(CCIP)以及通过Ondo Global Market Alliance的协作。
+- [市场消息：Core Scientific未能获得足够的票数通过CoreWeave交易]() - 📰 null - 【市场消息：Core Scientific未能获得足够的票数通过CoreWeave交易】金色财经报道，市场消息：Core Scientific未能获得足够的票数通过CoreWeave交易。Core Scientific股价上涨2.7%，达到盘中高点。（金十）
+- [BTC跌破108000美元]() - 📰 null - 【BTC跌破108000美元】金色财经报道，行情显示，BTC跌破108000美元，现报107969.89美元，24小时跌幅达到4.16%，行情波动较大，请做好风险控制。
+- [Meta：WhatsApp逐步推出滚动式密码加密聊天备份功能]() - 📰 null - 【Meta：WhatsApp逐步推出滚动式密码加密聊天备份功能】金色财经报道，Meta Platforms(META.O)：WhatsApp上的端到端加密聊天备份功能将在未来数周和数月内逐步推出。
+- [美国财政部：众议院拟议削减开支以实现节省]() - 📰 null - 【美国财政部：众议院拟议削减开支以实现节省】金色财经报道，美国财政部：众议院拟议削减开支以实现节省。众议院措施将在2025年节省100亿美元，2026年节省100亿美元。(金十)
+- [美股三大股指低开，加密货币概念股普跌]() - 📰 null - 【美股三大股指低开，加密货币概念股普跌】金色财经报道，美股三大股指低开，道指跌0.5%，标普500指数跌0.5%，纳指跌0.7%。加密货币概念股方面，MSTR跌2.19%，CRCL跌2.52%，COIN跌1.71%，SBET跌2.68%，BMNR跌4.01%。
+- [币安Alpha将于11月3日上线Kite(KITE）]() - 📰 null - 【币安Alpha将于11月3日上线Kite(KITE）】金色财经报道，据官方公告，币安Alpha将于11月3日上线Kite(KITE)，合格用户可在交易开启后，通过Alpha Events页面使用BinanceAlpha Points领取空投。
+- [纳指盘初跌幅扩大至 1%]() - 📰 null - 【纳指盘初跌幅扩大至 1%】金色财经报道，行情显示，纳指盘初跌幅扩大至1%。
+- [Meta Platforms(META.O)下跌12%，创2024年4月以来最大跌幅]() - 📰 null - 【Meta Platforms(META.O)下跌12%，创2024年4月以来最大跌幅】金色财经报道，Meta Platforms(META.O)下跌12%，创2024年4月以来最大跌幅。
+- [富国银行上调黄金价格预期]() - 📰 null - 【富国银行上调黄金价格预期】金色财经报道，富国银行投资研究：将黄金2026年底的目标价格区间从此前预测的每盎司3,900至4,100美元上调至每盎司4,500至4,700美元。
