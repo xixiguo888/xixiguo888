@@ -1,26 +1,26 @@
-- [贝莱德再次向 Coinbase 转入 900 枚 BTC，价值 7759 万美元](https://x.com/OnchainLens/status/1992933480704155673) - 📰 null - 【贝莱德再次向 Coinbase 转入 900 枚 BTC，价值 7759 万美元】金色财经报道，据 Onchain Lens 监测，贝莱德再次向 Coinbase 转入 900 枚 BTC，价值 7759 万美元，总计转入 3722 枚 BTC 和 36283 枚 ETH。
-- [摩根大通已出售逾 77.24 万股 Strategy 股票](https://x.com/BTCtreasuries/status/1992923990923620795) - 📰 null - 【摩根大通已出售逾 77.24 万股 Strategy 股票】金色财经报道，据 BitcoinTreasuries.NET 披露，资产规模达 4.6 万亿美元摩根大通披露已出售 772453 股 Strategy 股票，价值 1.34 亿美元。
-- [OKX将转换 MON/USDT 盘前交易合约为标准永续合约](https://www.okx.com/zh-hans/help/okx-to-convert-pre-market-futures-to-standard-perpetual-futures-for-mon) - 📰 null - 【OKX将转换 MON/USDT 盘前交易合约为标准永续合约】据官方公告，OKX将于 2025 年 11 月 24 日 23:00 ~ 11 月 25 日 02:00 (UTC+8) 正式转换 MON/USDT 盘前交易合约为标准永续合约，支持0.01 ~ 50x杠杆。 
-据悉，Monad 是一个以太坊虚拟机（EVM）兼容的 Layer 1 区块链，旨在解决现有网络的可扩展性限制。
-- [贝莱德向Coinbase Prime转入2,822枚BTC和3.62万枚ETH](https://x.com/lookonchain/status/1992925053768671276) - 📰 null - 【贝莱德向Coinbase Prime转入2,822枚BTC和3.62万枚ETH】金色财经报道，据Lookonchain监测，贝莱德向Coinbase Prime转入了2,822枚BTC（约2.44亿美元）和36,283枚ETH（约1.02亿美元）。
-- [花旗研究：比特币 ETF 每 10 亿美元赎回将拖累价格约 3.4%](https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion?srnd=homepage-americas) - 📰 null - 【花旗研究：比特币 ETF 每 10 亿美元赎回将拖累价格约 3.4%】金色财经报道，美国上市比特币 ETF 本月累计流出资金达 35 亿美元，接近 2024 年 2 月创下的单月流出纪录 36 亿美元。其中贝莱德旗下 IBIT 基金赎回额高达 22 亿美元，占比 60%，恐创该基金自推出以来最差单月表现。资金撤离加剧比特币下行压力，价格一度跌至 80,553 美元。花旗研究估算每 10 亿美元赎回将拖累（现货）价格约 3.4%，反之亦然。
-- [美国参议员呼吁 FTC 和 SEC 对 Meta 平台上的诈骗广告进行调查]() - 📰 null - 【美国参议员呼吁 FTC 和 SEC 对 Meta 平台上的诈骗广告进行调查】金色财经报道，市场消息：美国参议员呼吁联邦贸易委员会（FTC）和证券交易委员会（SEC）对 Meta 平台上的诈骗广告进行调查。
-- [Hyperscale Data当前BTC总持仓量达382枚](https://www.prnewswire.com/news-releases/hyperscale-data-joins-the-global-top-100-public-bitcoin-treasury-companies-with-current-holdings-of-approximately-382-bitcoin-302624214.html) - 📰 null - 【Hyperscale Data当前BTC总持仓量达382枚】金色财经报道，纽交所旗下NYSE American上市公司Hyperscale Data披露目前其比特币总持仓量达382枚，跻身全球前75家比特币财库上市公司之列。
-- [Arthur Hayes：BTC应该能守住8万美元关口](https://x.com/CryptoHayes/status/1992913719165419752) - 📰 null - 【Arthur Hayes：BTC应该能守住8万美元关口】金色财经报道，Arthur Hayes 在社交媒体上发文表示，当前市场流动性出现小幅改善迹象： 
-· 美联储量化紧缩将于 12 月 1 日停止，本周三可能是最后一次资产负债表收缩 
-· 美国银行业十一月份信贷规模有所扩大 
-目前市场在 9 万美元下方震荡盘整，或许会再次下探 8 万美元低区，但我认为 8 万关口应该能守住。可能会开始小规模建仓，但重仓出击要等到新年之后。
-- [特朗普的医保计划将把《平价医疗法案》的补贴延长两年]() - 📰 null - 【特朗普的医保计划将把《平价医疗法案》的补贴延长两年】金色财经报道，市场消息：特朗普的医保计划将把《平价医疗法案》的补贴延长两年。
-- [CoinShares：上周数字资产投资产品净流出19.4亿美元](https://researchblog.coinshares.com/volume-261-digital-asset-fund-flows-weekly-report-923c757ffe92) - 📰 null - 【CoinShares：上周数字资产投资产品净流出19.4亿美元】金色财经报道，CoinShares发布最新周报表示，上周数字资产投资产品遭遇19.4亿美元的资金流出，这是连续第四周出现资金流出，累计流出金额已达49.2亿美元，占总资产管理规模（AuM）的2.9%。 
-上周比特币遭遇了高达12.7亿美元的资金流出，但周五也出现了最大幅度的反弹，资金流入达2.25亿美元。做空比特币依然热门，资金流入达1900万美元，过去三周累计流入4000万美元，占其资产管理规模的23%，使其资产管理规模飙升了惊人的119%。以太坊上周资金流出总额达 5.89 亿美元。此前一周，以太坊的资金流出量占其资产管理规模 (AuM) 的 7.3%，跌幅更大。不过，上周五以太坊也出现小幅反弹，资金流入 5750 万美元。Solana 的资金流出量为 1.56 亿美元，而 XRP 则逆势而上，上周资金流入 8930 万美元。
-- [新泽西州养老基金增持MicroStrategy持仓至1600万美元](https://x.com/BTCtreasuries/status/1992896932163764318?s=20) - 📰 null - 【新泽西州养老基金增持MicroStrategy持仓至1600万美元】金色财经报道，据 BitcoinTreasuries.NET 监测，规模达 950 亿美元的美国新泽西州养老基金增持 MicroStrategy（MSTR）股票，将持仓金额提升至 1600 万美元。
-- [Michael Saylor：「28亿美元流出」警告危言耸听，MSTR股价已过度反应]() - 📰 null - 【Michael Saylor：「28亿美元流出」警告危言耸听，MSTR股价已过度反应】金色财经报道，Strategy 创始人 Michael Saylor 在接受 CoinDesk 采访时回应摩根大通「MSTR 面临 28 亿美元资金流出」一事表示，这一警告有些危言耸听，实际数字会远小于 28 亿美元，而且 MSTR 的股价表现也对这一事件做出了过度反应。 
-此外，Michael Saylor 表示「我不认为 MSCI 的决策与纳斯达克 100 或标普 500 指数配置者之间有任何关系」。
-- [韩国STO法案通过国会初审，明年上半年或迎代币证券流通市场](https://n.news.naver.com/article/030/0003373432?sid=101) - 📰 null - 【韩国STO法案通过国会初审，明年上半年或迎代币证券流通市场】金色财经报道，韩国推进代币证券发行（STO）制度化的电子证券法与资本市场法修正案已通过国会政务委员会法案审议小委员会，为明年上半年 STO 流通市场开市奠定基础。修正案拟将区块链分布式账本技术正式纳入电子登记体系，使发行人可将基于分布式账本的代币证券作为电子证券进行登记和管理；同时，将投资合同证券及非金钱信托收益证券等小规模场外交易平台纳入监管，为碎片化投资交易所的合法运营提供依据。若法案下月在国会全体会议最终通过，房地产、艺术品、音乐版权等多类实物资产的代币化与流通将可在监管框架内展开。
-- [何一确认Binance追缴Alpha违规操作用户的不当获利](https://x.com/heyibinance/status/1992895699944350180?s=20) - 📰 null - 【何一确认Binance追缴Alpha违规操作用户的不当获利】11月24日消息，针对社区提及的「Binance 开始追缴违规操作 Alpha 空投的不当获利。疑似工作室的多位 Alpha 空投猎人账户被冻结超过 1 万美元的资产。」何一回应确认这一事件，并表示普通用户不受影响。
-- [Generali经济学家：明年1月再降息是合理的]() - 📰 null - 【Generali经济学家：明年1月再降息是合理的】金色财经报道，Generali Investments资深经济学家Paolo Zanghieri表示，他和他的团队认为，市场反映的降息幅度超过了美联储可能实施的降息幅度。“我们认为下个月降息的可能性是50%。鉴于新数据有限，美联储等到明年1月再降息是合理的，同时发出宽松倾向的信号。更重要的是，基于对通胀快速回落的希望，市场预计明年将降息近四次，这似乎过于乐观。我们预计到夏季只会降息50个基点。”
-- [Bithumb 将上线 MON 韩元交易对]() - 📰 null - 【Bithumb 将上线 MON 韩元交易对】金色财经报道，据官方公告，Bithumb 将上线 MON 韩元交易对。
-- [Revolut 以 750 亿美元估值完成新一轮融资](https://www.bloomberg.com/news/articles/2025-11-24/revolut-notches-75-billion-valuation-in-long-running-share-sale?srnd=phx-crypto) - 📰 null - 【Revolut 以 750 亿美元估值完成新一轮融资】金色财经报道，金融科技公司 Revolut Ltd. 在最新一轮股票销售中估值达到 750 亿美元，较去年的 450 亿美元大幅增长。此轮融资由 Coatue、Greenoaks、Dragoneer 和 Fidelity Management & Research Company 领投，Nvidia 的风投部门 NVentures、Andreessen Horowitz、Franklin Templeton 以及 T. Rowe Price 管理的账户也参与其中。Revolut 提供支票和储蓄账户、国际汇款、加密货币和股票交易等服务。
-- [BTC跌破86000美元]() - 📰 null - 【BTC跌破86000美元】金色财经报道，行情显示，BTC跌破86000美元，现报85990美元，24小时跌幅达到0.29%，行情波动较大，请做好风险控制。
-- [ETH跌破2800美元]() - 📰 null - 【ETH跌破2800美元】金色财经报道，行情显示，ETH跌破2800美元，现报2797.06美元，24小时跌幅达到0.53%，行情波动较大，请做好风险控制。
-- [韩国交易所 Upbit 拟在合并后赴纳斯达克上市]() - 📰 null - 【韩国交易所 Upbit 拟在合并后赴纳斯达克上市】金色财经报道，据彭博社报道，韩国最大加密交易所 Upbit 计划在合并完成后寻求在纳斯达克上市。
+- [美国经济分析局取消发布第三季度GDP初值报告](https://www.cls.cn/detail/2209542) - 📰 null - 【美国经济分析局取消发布第三季度GDP初值报告】金色财经报道，美国经济分析局宣布取消第三季度美国国内生产总值(GDP)预估值的发布计划。该数据原定于10月30日发布，但由于联邦政府停摆而被推迟。美联储看重的通胀指标PCE价格指数，以及收入和支出报告将于华盛顿当地时间12月5日上午10点发布。
+- [美国联邦法官驳回了针对特朗普政治对手的起诉](https://flash.jin10.com/detail/20251125015856912800) - 📰 null - 【美国联邦法官驳回了针对特朗普政治对手的起诉】金色财经报道，周一，一名联邦法官驳回了针对特朗普政治对手前联邦调查局局长詹姆斯·科米和纽约州总检察长莱蒂蒂娅·詹姆斯的起诉。法官认定，位于弗吉尼亚州亚历山大市的代理美国检察官林赛·哈利根的任命无效。
+- [四男子入室抢劫价值160万美元加密货币](https://nypost.com/2025/11/24/business/crypto-thieves-waterboarded-sexually-assaulted-family-in-1-6m-heist/) - 📰 null - 【四男子入室抢劫价值160万美元加密货币】金色财经报道，据《纽约邮报》消息，一名香港男子在加拿大被判 7 年监禁，因参与一起极度残暴的入室抢劫案：四名袭击者伪装成邮递员闯入不列颠哥伦比亚省一户人家，对一家三口施以 13.5 小时的殴打、水刑与性侵威胁，并最终抢走价值 160 万美元的比特币。 
+法院称这是“精心策划的长期暴力犯罪”。袭击者提前数周踩点、监视受害者，并在屋外布置摄像头，锁定其加密资产。劫匪在折磨过程中逼迫夫妇交出加密货币。
+- [摩根大通上调Cipher、CleanSpark评级，下调MARA与Riot目标价](https://www.theblock.co/post/380175/jpmorgan-upgrades-cipher-cleanspark-trims-marathon-riot-targets-bitcoin-miner-reset) - 📰 null - 【摩根大通上调Cipher、CleanSpark评级，下调MARA与Riot目标价】金色财经报道，摩根大通最新发布行业报告，对比特币矿企及向高性能计算（HPC）转型的数据中心运营商进行了全面评级调整，显示该行业正进入“HPC/云计算转型的高确定性阶段”。 
+自9月底以来，矿企已签下超过600 MW的长期AI/HPC合同，其中包括与AWS、谷歌支持的Fluidstack、微软等巨头的合作。JPMorgan预计至2026年底，矿企将再公布约1.7 GW的关键IT负载建设计划，占批准电力产能的约35%。 
+评级变动如下：Cipher Mining上调至增持，目标价由12美元上调至18美元；CleanSpark维持增持，目标价14美元；IREN目标价由28美元上调至39美元，但仍维持减持；MARA目标价由20美元下调至13美元；Riot目标价由19美元下调至17美元。
+- [分析：亚马逊500亿美元AI基础设施投资提振加密市场情绪](https://www.coindesk.com/markets/2025/11/24/bitcoin-miners-surge-as-amazon-pours-usd50b-into-ai-infrastructure) - 📰 null - 【分析：亚马逊500亿美元AI基础设施投资提振加密市场情绪】金色财经报道，上周市场（尤其是加密市场）出现大幅下挫，而本周一情绪出现至少短暂的反转——投资者受到亚马逊（AMZN）宣布将为美国政府扩建人工智能与超级计算基础设施、最高投资 500 亿美元的计划所提振。 
+这一消息推动纳斯达克在美国东部时间中午上涨 2.3%，标普 500 上涨 1.4%。风险偏好情绪也蔓延至加密市场，比特币价格回升至 87,300 美元，此前周五一度跌破 80,000 美元。尽管如此，比特币周环比仍下跌超过 7%。 
+在亚马逊消息带来的利好下，受益最大的群体是那些已调整商业模式、专注 AI 基础设施及高性能计算的比特币矿企：Cipher Mining（CIFR）大涨 18%； CleanSpark（CLSK）与 IREN（IREN）均上涨 13%；Hut 8（HUT）上涨 9%。 
+其他加密相关公司也普遍走高，包括 Coinbase（COIN）、Galaxy Digital（GLXY）与 Bullish（BLSH），涨幅均超4%。
+- [BTC突破88000美元]() - 📰 null - 【BTC突破88000美元】金色财经报道，行情显示，BTC突破88000美元，现报88009.08美元，24小时涨幅达到1.3%，行情波动较大，请做好风险控制。
+- [ETH突破2900美元]() - 📰 null - 【ETH突破2900美元】金色财经报道，行情显示，ETH突破2900美元，现报2901.91美元，24小时涨幅达到4.03%，行情波动较大，请做好风险控制。
+- [美联储发布美国工业生产和产能利用率数据的年度基准修订](https://flash.jin10.com/detail/20251125010443082800) - 📰 null - 【美联储发布美国工业生产和产能利用率数据的年度基准修订】金色财经报道，美联储发布美国工业生产和产能利用率数据的年度基准修订。美国8月工业产出修正为下降0.1%（前值为增长0.1%），8月份产能利用率修正为75.8%（此前为77.4%），8月制造业产出修正为增长0.1%（前值为增长0.2%）。
+- [Berachain隐私条款曝光：Brevan Howard的2500万美元投资可在TGE后退款](https://unchainedcrypto.com/berachain-documents-show-brevan-howard-offered-25-million-refund-right/) - 📰 null - 【Berachain隐私条款曝光：Brevan Howard的2500万美元投资可在TGE后退款】11月25日消息，Berachain 在其他投资方不知情的情况下，授予了其 B 轮融资领投方之一的 Brevan Howard “在 TGE 后无风险被退还投资款” 的权利。据文件显示，Berachain 授予该基金在 2025 年 2 月 6 日代币生成事件后最长一年内，对其 2500 万美元 B 轮投资行使退款的权利。
+- [Coinbase将上线FLUID和WMTX]() - 📰 null - 【Coinbase将上线FLUID和WMTX】金色财经报道，Coinbase 上的 Fluid (FLUID) 和 World Mobile Token (WMTX) 现货交易将于 2025 年 11 月 25 日上线。如果流动性条件满足，在支持交易的地区，其 FLUID-USD 和 WMTX-USD 交易对将于太平洋时间上午 9 点或之后开始开放。
+- [芝商所美国国债未平仓合约创3,500万份历史新高](https://flash.jin10.com/detail/20251125004845020800) - 📰 null - 【芝商所美国国债未平仓合约创3,500万份历史新高】金色财经报道，芝商所（CME Group） 今日宣布，其高流动性的美国国债期货与期权产品在11月20日的未平仓合约量（OI）创下35,120,066份的历史新高。与此同时，芝商所利率类期货与期权产品在11月21日的交易量达到44,839,732份，为有史以来第二高的单日成交量。芝商所全球利率与场外（OTC）产品负责人 Agha Mirza表示：“在经济增长及美联储降息节奏不确定的背景下，市场参与者正转向我们的市场，以获取跨收益率曲线无可比拟的交易效率和流动性。”
+- [亚马逊将投资500亿美元，为美国政府机构扩展人工智能和超级计算基础设施](https://www.cls.cn/detail/2209523) - 📰 null - 【亚马逊将投资500亿美元，为美国政府机构扩展人工智能和超级计算基础设施】金色财经报道，亚马逊公司将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。投资计划将于2026年动工。
+- [BTC突破87000美元]() - 📰 null - 【BTC突破87000美元】金色财经报道，行情显示，BTC突破87000美元，现报87012.55美元，24小时跌幅收窄至0.11%，行情波动较大，请做好风险控制。
+- [Coinbase：MON发送和接收功能已启用](https://x.com/CoinbaseMarkets/status/1992983503810572456) - 📰 null - 【Coinbase：MON发送和接收功能已启用】金色财经报道， Coinbase 宣布 Monad (MON) 的代币发送和接收功能现已启用，平台最低存款额为 1.5 MON。
+- [Circle在以太坊链上新铸造1亿枚USDC](https://whale-alert.io/transaction/ethereum/0xd4ee60578339584cc16e68893945357def6feaef3b2a758bdcd4469144ba6c90) - 📰 null - 【Circle在以太坊链上新铸造1亿枚USDC】金色财经报道，据 Whale Alert 监测，USDC 发行方 Circle 刚刚在以太坊链上新增铸造 1 亿枚 USDC。
+- [“麻吉”再次向HyperLiquid存入约50万USDC，并加仓做多ETH](https://x.com/OnchainLens/status/1992975905015373988) - 📰 null - 【“麻吉”再次向HyperLiquid存入约50万USDC，并加仓做多ETH】金色财经报道，据链上分析师 Onchain Lens 监测，“麻吉大哥”再次向 HyperLiquid 存入了 499,680 枚 USDC，并增加了 ETH（25 倍杠杆）的做多仓位，同时开设了 HYPE（10 倍杠杆）的做多仓位。总体而言，麻吉大哥已亏损约 2034 万美元。
+- [Coinbase将上线Monad（MON）永续合约](https://x.com/CoinbaseMarkets/status/1992975611355095350) - 📰 null - 【Coinbase将上线Monad（MON）永续合约】金色财经报道， Coinbase 宣布将上线 Monad（MON）永续合约，如果流动性条件满足，且在支持交易的地区， MON-PERP 市场将开放。
+- [Sky Protocol上周斥资190万枚USDS回购4050万枚SKY代币](https://x.com/SkyEcosystem/status/1992971594009051243) - 📰 null - 【Sky Protocol上周斥资190万枚USDS回购4050万枚SKY代币】金色财经报道，Sky Protocol 上周斥资 190 万枚 USDS 回购 4050 万枚 SKY 代币，自回购计划启动以来，截至目前回购总金额已超过 8600 万枚 USDS。
+- [现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%]() - 📰 null - 【现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%】金色财经报道，现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。
+- [Binance上MON盘前合约将转换为标准合约]() - 📰 null - 【Binance上MON盘前合约将转换为标准合约】金色财经报道，Binance 上 Monad（MON）盘前合约将转换为标准永续合约，过渡期可能长达 3 小时。过渡时长取决于价格波动和指数价格的稳定性。在过渡期间，交易功能不受影响，未成交委托及仓位不会被取消。
