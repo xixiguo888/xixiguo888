@@ -1,32 +1,33 @@
-- [World被勒令删除在泰国收集的超120万条虹膜扫描数据](https://www.dlnews.com/articles/regulation/sam-altman-world-ordered-to-delete-over-1-million-iris-scans/) - 📰 null - 【World被勒令删除在泰国收集的超120万条虹膜扫描数据】金色财经报道，据DLNews报道，泰国数据监管机构已下令由SamAltman推动的虹膜扫描项目World删除其在泰国收集的超过120万条记录。 
-泰国数字经济与社会部长ChaichanokChidchob表示，个人数据保护委员会（PDPC）还在周一下令该公司暂停其在泰国的所有运营。 
-在泰国，一个受委托调查World是否违反该国数据保护法的专家小组得出结论：以加密货币作为交换而收集生物识别数据，属于违法行为。World公司已在泰国停止其虹膜扫描业务。
-- [Amber Q3 营收达 1630 万美元并启动 5000 万美元回购计划]() - 📰 null - 【Amber Q3 营收达 1630 万美元并启动 5000 万美元回购计划】11月26日消息，据 PR Newswire 报道，纳斯达克上市数字财富管理平台 Amber International 董事会批准最高 5,000 万美元的 12 个月股票回购计划，同时公布 2025 年第三季度未经审计业绩：营收 1,630 万美元，同比增长 1,934.6%；毛利 1,180 万美元，毛利率达 72.3%；持续经营净利润 215 万美元；Adjusted EBITDA 为 290 万美元；平台客户资产达 18.42 亿美元，同比增长 69.8%。
-- [玻利维亚拟将稳定币纳入该国金融体系]() - 📰 null - 【玻利维亚拟将稳定币纳入该国金融体系】金色财经报道，据Solid Intel报道，玻利维亚经济部长宣布计划将稳定币整合进国家正式金融系统。
-- [交易员加大押注英国央行降息幅度，预计到2026年底将累计降息68个基点]() - 📰 null - 【交易员加大押注英国央行降息幅度，预计到2026年底将累计降息68个基点】金色财经报道，英国两年期国债收益率下跌 7.1 个基点，降至 2024 年 8 月以来最低水平，报 3.693%。 
-交易员加大押注英国央行降息幅度，预计到 2026 年底将累计降息 68 个基点。(金十)
-- [OKX交易账户自动赚币新增支持DOT和TRX](https://www.okx.com/zh-hans/help/dot-and-trx-launching-on-trading-account-auto-earn) - 📰 null - 【OKX交易账户自动赚币新增支持DOT和TRX】据官方消息，OKX现已上线 DOT 交易账户自动赚币产品和 TRX 交易账户自动赚币产品。该产品基于链上质押收益机制，支持用户在不影响资产作为质押与交易保证金的前提下，将交易账户中持有的 DOT、TRX（币种全仓正权益）自动投入链上质押，赚取收益。该产品面向 VIP 1 及以上用户开放，主账户限额分别为 50,000 DOT 与 500,000 TRX。 
-据悉，OKX交易账户自动赚产品在体验与效率上进一步强化，自动赚币资产始终留在交易账户，不影响任何交易操作；全仓保证金与挂单占用的资产同样可计入可赚币额度，全面提升资产利用率；同时，开启后无需手动申购，全仓权益变化将实时同步至赚币资产。
-- [CryptoQuant CEO：MSTR似乎处于超卖状态](https://x.com/ki_young_ju/status/1993640184005767663) - 📰 null - 【CryptoQuant CEO：MSTR似乎处于超卖状态】金色财经报道，CryptoQuant 创始人兼首席执行官 Ki Young Ju 在社交媒体发文表示，Strategy（MSTR）相对于其持有的比特币数量和历史溢价水平来看，似乎处于超卖状态。
-- [Scilex完成对Datavault AI第二笔规模约5.8亿美元比特币投资](https://www.globenewswire.com/news-release/2025/11/26/3194964/0/en/Scilex-Holding-Company-Announces-Closing-of-Previously-Announced-Second-Tranche-Investment-in-Datavault-AI-Inc-Completing-Its-Two-Tranche-Equity-Financing-in-Datavault-AI-Inc.html) - 📰 null - 【Scilex完成对Datavault AI第二笔规模约5.8亿美元比特币投资】金色财经报道，纳斯达克上市公司Scilex Holding宣布已完成对Datavault AI公司的第二笔投资，这笔投资将以比特币形式支付（基于签署该战略投资协议时的比特币现货价格），据悉本次投资使其获得263,914,094股Datavault AI公司普通股，按照11月25日2.21美元收盘价计算，约合5.833亿美元。
-- [471.06枚BTC从匿名地址转入OKX，价值约3.58亿美元](https://intel.arkm.com/explorer/token/bitcoin) - 📰 null - 【471.06枚BTC从匿名地址转入OKX，价值约3.58亿美元】金色财经报道，据Arkham数据，在18:42，471.06枚BTC（价值约3.58亿美元）从一匿名地址（bc1qcpf0n...开头）转入OKX。
-- [Bernstein：维持对 Robinhood 的"优于大盘"评级，目标价 160 美元](https://www.theblock.co/post/380526/bernstein-robinhood-prediction-market-share-coinbase) - 📰 null - 【Bernstein：维持对 Robinhood 的"优于大盘"评级，目标价 160 美元】金色财经报道，Bernstein 分析师报告称，预测市场已成为 Robinhood 增长最快的业务线，拥有超过 100 万用户，年化营收超 3 亿美元，目前已占据 Kalshi 57% 的市场份额。Bernstein 维持对 Robinhood 的"优于大盘"评级，目标价 160 美元，较当前股价有 38% 上行空间。
-- [泰国对通过国家交易所交易的比特币实行 0% 资本利得税](https://x.com/pete_rizzo_/status/1993627488682230220) - 📰 null - 【泰国对通过国家交易所交易的比特币实行 0% 资本利得税】金色财经报道，The Bitcoin Historian 在 X 平台发文表示，泰国目前对通过国家交易所交易的比特币实行 0% 的资本利得税。
-- [Binance推出面向超高净值加密投资者的专属服务Binance Prestige](https://www.coindesk.com/business/2025/11/26/binance-introduces-bespoke-service-for-ultra-high-net-worth-crypto-investors) - 📰 null - 【Binance推出面向超高净值加密投资者的专属服务Binance Prestige】金色财经报道，Binance 周三宣布，推出面向超高净值（UHNW）市场的全新 VIP 服务，命名为 Binance Prestige。Binance Prestige 针对家族办公室、私人基金及其他资产配置方，提供高水准、专业化的数字资产管理服务。 
-这项专为超高净值客户设计的新服务，补充了 Binance 在一年前推出的 Binance Wealth，后者主要面向高净值客户的顾问和财富经理。根据 Avaloq 的一项调查，超过一半的财富管理专业人士认为数字资产在客户互动中扮演关键角色，高于去年的 44%。 
-目前，Binance 为 VIP 用户提供特别账户，投资者需在交易平台持有超过 50 万美元可交易资金及一定数量的 BNB 代币方可申请。VIP Holder 账户分为四个等级，其中四级为最高净值等级。Binance Prestige 并未设定硬性资产门槛，但服务主要面向资产在 1000 万美元左右的投资者，与开设私人银行账户的资金水平大致相当。
-- [Polygon支付交易一半为10-100美元小额转账，11月量突破50万笔环比增 23%](https://x.com/LeonWaidmann/status/1993619851911323849) - 📰 null - 【Polygon支付交易一半为10-100美元小额转账，11月量突破50万笔环比增 23%】金色财经报道，Leon Waidmann在X平台发文表示，Polygon上所有支付交易中有一半是价值10至100美元的小额转账。根据Polygon上主要支付提供商（包括Coinbase Commerce、Moonpay、Revolut、Rain、Transak、Paxos、NOWPayments等）的数据，仅小额支付交易量在2025年11月就超过了50万笔，相较10月增长了23%。
-- [BIS任命央行数字货币倡导者担任创新中心新负责人](https://cointelegraph.com/news/bis-appoints-tommaso-mancini-griffoli-to-lead-innovation-hub) - 📰 null - 【BIS任命央行数字货币倡导者担任创新中心新负责人】金色财经报道，国际清算银行（BIS）已任命全球最具影响力的数字货币经济学家之一托马索·曼奇尼-格里福利为BIS创新中心下一任负责人，该任命将于2026年3月生效。国际清算银行周二表示，曼奇尼-格里福利将“领导央行界探索创新技术解决方案的工作”。预计他的职责将包括持续推进央行数字货币（CBDC）、代币化资产和新型市场基础设施等相关工作。 
-曼奇尼-格里福利目前担任国际货币基金组织货币与资本市场部助理主任，负责支付和货币方面的工作。他是国际货币基金组织内部倡导受监管且由公共资金支持的数字货币模式的最重要人物之一，此前曾就不受监管的稳定币的风险 发出警告。 
-此次任命正值国际清算银行创新中心加速推进重大项目、扩大其在全球各中心的影响力之际。该中心已成为测试基于区块链的结算系统和数字货币原型的重要场所。
-- [15万枚比特币期权本周五到期，最大痛点价格为10.1万美元](https://x.com/cryptounfolded/status/1993617162288898371) - 📰 null - 【15万枚比特币期权本周五到期，最大痛点价格为10.1万美元】金色财经报道，据unfolded报道，Deribit平台上将有15万枚比特币期权在本周五16:00到期，名义价值为131.9亿美元。当前最大痛点价格为10.1万美元，看跌/看涨比率为0.61。以太坊期权最大痛点价格为3,400美元，名义价值为16.6亿美元，看跌/看涨比率为0.50。
-- [Michael Saylor：全球 99% 的资金被强制配置于股票和信贷，即使想买也无法购买比特币](https://x.com/BTCtreasuries/status/1993617815455273182) - 📰 null - 【Michael Saylor：全球 99% 的资金被强制配置于股票和信贷，即使想买也无法购买比特币】金色财经报道，据 BitcoinTreasuries.NET 监测，Michael Saylor 表示，“全球 99%的资金被强制配置于股票和信贷，即使他们想买，也无法购买比特币这种基础商品。”
-- [Jump Crypto 成为 USD1 第一大链上持仓实体](https://x.com/ai_9684xtpa/status/1993619000362930583) - 📰 null - 【Jump Crypto 成为 USD1 第一大链上持仓实体】金色财经报道，据 @ai_9684xtpa 监测，Jump Crypto 已超越 Wintermute 和 DWF Labs 成为 USD1 第一大链上持仓实体（除交易所和项目方）。目前 Jump Crypto 在链上共持有 2616 万枚 USD1，最近一笔大额转账是 2 小时前从 OKX 提出 114 万枚 USD1。
-- [CNBC：英伟达——戴王冠者，难有安枕]() - 📰 null - 【CNBC：英伟达——戴王冠者，难有安枕】金色财经报道，英伟达“帝国”内部的不安迹象持续蔓延。近一个月来，英伟达一直面临市场对其高估值的质疑。“大空头”投资者Michael Burry更指出，企业可能高估了英伟达芯片的使用寿命，并指控这种会计方式虚增利润。而谷歌的存在使压力骤然加剧。谷歌发布Gemini 3本身对英伟达并无威胁，毕竟后者并不开发大语言模型；但问题在于，该模型由谷歌自研的AI芯片驱动。更令英伟达不安的是， 
-有消息称，Meta正考虑将谷歌AI芯片部署于自家数据中心。随后英伟达回应称，其芯片相比所谓的ASIC芯片（如谷歌的TPU）更灵活、更强大。 
-此外，英伟达还向华尔街分发备忘录，驳斥Burry的指控。无论在政坛还是半导体行业，权力都需微妙平衡。沉默可披上不可撼动的神秘外衣，彰显权威自信，但也可能被解读为傲慢疏离；主动回应虽可平息疑虑，却也可能反向暴露不安。如今，王冠戴在英伟达头上。而这份沉重，亦由它独自承担。(金十)
-- [Vitalik转移1,009枚ETH，价值约294万美元](https://x.com/lookonchain/status/1993613947879260207) - 📰 null - 【Vitalik转移1,009枚ETH，价值约294万美元】金色财经报道，据链上分析平台Lookonchain监测，Vitalik Buterin转移了1,009枚ETH，价值约294万美元。
-- [BTC跌破87000美元]() - 📰 null - 【BTC跌破87000美元】金色财经报道，行情显示，BTC跌破87000美元，现报86973.72美元，24小时涨幅达到0.2%，行情波动较大，请做好风险控制。
-- [德意志交易所引入第三种欧元稳定币，扩大欧元稳定币布局](https://cointelegraph.com/news/deutsche-borse-allunity-eurau-stablecoin-integration-mica) - 📰 null - 【德意志交易所引入第三种欧元稳定币，扩大欧元稳定币布局】金色财经报道，德意志交易所（Deutsche Börse）将整合由 AllUnity 发行的欧元稳定币 EURAU，这将进一步扩展其数字资产战略。双方已签署谅解备忘录（MoU），但尚未公布新功能的上线时间。此前，德意志交易所已与 Circle 的 Euro Coin（EURC）及法兴银行链上部门 Societe Generale-Forge 的 EUR CoinVertible（EURCV）开展合作。 
-根据 11 月 26 日的公告，德意志交易所计划将 EURAU 纳入其金融市场基础设施，首先是通过旗下中央证券托管机构 Clearstream 为机构客户提供托管服务。公告还透露，未来将推动「将该欧元稳定币整合到整个服务产品组合中」。 
-这将把该稳定币纳入一个规模庞大且不断扩张的市场。根据世界交易所联合会（WFE）数据，德意志交易所的本土股票市场市值约 2.23 万亿美元，有 474 家上市公司。
+- [Ondo推出的超100种代币化股票和ETF已上线Binance Wallet](https://x.com/OndoFinance/status/1993729366312763443) - 📰 null - 【Ondo推出的超100种代币化股票和ETF已上线Binance Wallet】金色财经报道，由 Ondo 推出的超过 100 种代币化股票和 ETF 已基于 BNB Chain 正式上线 Binance Wallet。
+- [亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%](https://flash.jin10.com/detail/20251127011555573800) - 📰 null - 【亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%】金色财经报道，亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%，此前预计为4.0%。
+- [ETH突破3000美元]() - 📰 null - 【ETH突破3000美元】金色财经报道，行情显示，ETH突破3000美元，现报3003.15美元，24小时涨幅达到2.15%，行情波动较大，请做好风险控制。
+- [BTC突破89000美元]() - 📰 null - 【BTC突破89000美元】金色财经报道，行情显示，BTC突破89000美元，现报89008.58美元，24小时涨幅达到1.46%，行情波动较大，请做好风险控制。
+- [BTC突破88000美元]() - 📰 null - 【BTC突破88000美元】金色财经报道，行情显示，BTC突破88000美元，现报88012.81美元，24小时涨幅达到0.56%，行情波动较大，请做好风险控制。
+- [CleanSpark：2025财年营收翻倍至7.66亿美元，净利润达3.65亿美元](https://investors.cleanspark.com/news/news-details/2025/CleanSpark-Reports-Transformative-FY-2025-Results/default.aspx) - 📰 null - 【CleanSpark：2025财年营收翻倍至7.66亿美元，净利润达3.65亿美元】金色财经报道，上市比特币矿企CleanSpark公布2025财年（截至9月30日）营收达7.66亿美元，同比大增102%，净利润达3.65亿美元，扭转去年1.46亿美元亏损。CEO Matt Schultz表示公司已实现运营杠杆，正将其能源资产布局转向AI数据中心发展。CleanSpark持有比特币超1.3万枚，并于年内完成11.5亿美元可转债融资，部分资金用于回购股票及支持AI基建扩张。
+- [Vitalik回应“是否计划经济”：Gas使用仍由市场决定](https://x.com/VitalikButerin/status/1993704170294264303) - 📰 null - 【Vitalik回应“是否计划经济”：Gas使用仍由市场决定】金色财经报道，Vitalik回应X平台用户nikete时表示，以太坊网络虽计划提升Gas上限与低效操作的成本，但区块中交易的实际选择仍完全由市场机制决定，“不是搞比特币那一套”。他强调，区块Gas总量由验证者投票设定，许多验证者会参考核心开发者建议，但最终交易选择仍由自由市场决定。
+- [彭博分析师：纳斯达克ISE提议将IBIT期权持仓上限升至100万份](https://x.com/EricBalchunas/status/1993711162266177861) - 📰 null - 【彭博分析师：纳斯达克ISE提议将IBIT期权持仓上限升至100万份】金色财经报道，彭博高级 ETF 分析师 Eric Balchunas 在 X 平台发文表示，纳斯达克 ISE 已提议将贝莱德旗下比特币现货 ETF IBIT 的期权持仓上限从 25 万张提升至 100 万份，此前该上限已于 2025 年 7 月从 2.5 万份提高至 25 万份。
+- [Avail推出Nexus主网，旨在实现跨链统一流动性](https://www.theblock.co/post/380548/avail-nexus-mainnet-live) - 📰 null - 【Avail推出Nexus主网，旨在实现跨链统一流动性】金色财经报道，Avail 推出 Nexus 主网，这是一个跨链系统，旨在将 rollups、应用链和去中心化应用整合到单一的操作环境中，使资产、流动性和用户能在各条链之间更加顺畅地流动。 
+这家模块化区块链基础设施提供商表示，Nexus 已在多个生态系统上线，包括以太坊（Ethereum）、Tron、Polygon、Base、Arbitrum、Optimism、BNB Chain、Monad、Kaia、HyperEVM 和 Scroll，Solana 也将很快接入。 
+Avail 联合创始人 Anurag Arjun 表示，目前区块链的碎片化和「高风险桥接」限制了开发者和用户的体验。
+- [麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度](https://flash.jin10.com/detail/20251127004128098800) - 📰 null - 【麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度】金色财经报道，人工智能驱动的增长可能会使美国经济保持强劲势头，从而抑制美联储明年预期中的降息幅度。尽管市场预期美联储降息可能高达三次，但麦肯锡公司的达斯汀·里德表示，人工智能带来的更快增长可能需要更紧缩的政策，从而使得美国国债收益率走高。他预计，到2026年年中，美国10年期国债收益率将从目前的4%升至4.4%。
+- [观点：比特币本轮下跌暴露市场旧规律的破裂，波动性却依旧温和](https://www.bloomberg.com/news/articles/2025-11-26/bitcoin-s-drawdown-breaks-old-rule-as-volatility-stays-tame) - 📰 null - 【观点：比特币本轮下跌暴露市场旧规律的破裂，波动性却依旧温和】金色财经报道，据彭博社，比特币最新一轮的下跌正在揭示一种根本性的变化：过去那种吸引散户冒险者的大幅波动正在减弱，这反映了华尔街对加密市场基础结构影响力的不断增强。 
+尽管自 10 月初创下历史新高以来，比特币已回落最多 36%，但隐含波动率依然受到抑制。这种变化表明，机构化进程正在重塑该代币的风险传导方式。 
+而在早期，比特币的价值主要由投机驱动——交易者希望从其频繁的大幅价格波动中获利。
+- [贝莱德从Coinbase Prime提取953枚BTC和15722枚ETH](https://x.com/lookonchain/status/1993719578875380122) - 📰 null - 【贝莱德从Coinbase Prime提取953枚BTC和15722枚ETH】金色财经报道，据 Lookonchain 监测，贝莱德 20 分钟前从 Coinbase Prime 提取 953 枚 BTC （8343 万美元）和 15722 枚 ETH（4624 万美元）。
+- [Bithumb将暂停USDT市场Beta测试服务，重新开放时间另行通知](https://www.dlnews.com/articles/markets/bithumb-to-halt-tether-powered-order-book-sharing/) - 📰 null - 【Bithumb将暂停USDT市场Beta测试服务，重新开放时间另行通知】金色财经报道，韩国金融监管机构已敦促 Bithumb 暂停其 Tether 市场服务，该服务允许客户使用 USDT 买卖比特币及九种市值较高的山寨币，但这 10 种资产均可在韩元（KRW）市场继续交易。 
+该加密交易平台表示，该服务仍处于 Beta 测试阶段，并涉及与 Stellar 的订单簿共享协议。 
+Bithumb 称，由于系统维护，该服务将于韩国时间 11 月 28 日上午 11 点关闭，并将重新整合，以“提供更稳定、更先进的交易环境。我们将另行提供有关服务重新开放时间表的更新。”
+- [加密做市商Portofino Technologies再遭员工离职潮](https://www.coindesk.com/business/2025/11/24/crypto-market-maker-portofino-said-to-be-hit-by-another-wave-of-staff-departures) - 📰 null - 【加密做市商Portofino Technologies再遭员工离职潮】金色财经报道，据 CoinDesk 援引知情人士报道，加密做市商 Portofino Technologies 在几个月前首席财务官和总法律顾问离职后，又遭遇了一波高层员工离职潮。 
+该人士表示，首席营收官 Melchior de Villeneuve 最近离开了这家瑞士公司。因事宜涉及私人信息，该人士要求匿名。办公事务主管 Olivia Thurman 已确认辞职。 
+此外，据称还有两名高级开发人员 Olivier Ravanas 和 Mike Tryhorn 以及两名初级开发人员也已离开这家加密做市商公司。根据 LinkedIn 资料，De Villeneuve 于今年一月加入公司，但他未立即回应置评请求。Ravanas 和 Tryhorn 亦未回应。 
+截至发稿时，Portofino 对多次邮件置评请求仍未作出回应。
+- [标普全球：下调USDT锚定美元能力至最低评级](https://www.bloomberg.com/news/articles/2025-11-26/tether-stablecoin-stability-rating-reduced-to-weak-at-s-p?taid=69271e8877bd84000157eb20&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) - 📰 null - 【标普全球：下调USDT锚定美元能力至最低评级】金色财经报道，标普全球评级（S&P Global Ratings）将 Tether 的 USDT 稳定币维持与美元挂钩的能力下调至最低评级，并警告称，比特币价格下跌可能导致该稳定币出现抵押不足的风险。 
+周三，评级公司分析师将 USDT 的稳定性评级由此前的“受限”下调至“弱”。标普表示，此次评估“反映了过去一年 USDT 储备中高风险资产敞口的增加”，这些资产包括比特币、黄金、担保贷款和公司债券，同时也考虑了披露信息的有限性。
+- [Bitwise在纽交所推出DOGE现货ETF，代码BWOW](https://www.theblock.co/post/380569/bitwise-rolls-out-dogecoin-etf-on-nyse-against-the-odds-kept-its-relevance?utm_source=browser&utm_medium=chrome&utm_campaign=notification) - 📰 null - 【Bitwise在纽交所推出DOGE现货ETF，代码BWOW】金色财经报道，Bitwise 正式在纽约证券交易所推出 Bitwise Dogecoin ETF（代码：BWOW），为狗狗币（DOGE）持有者提供合规投资通道。
+- [SOL财库公司Upexi宣布2300万美元私募发行计划](https://ir.upexi.com/news-events/press-releases/detail/142/upexi-inc-announces-pricing-of-up-to-23-million-private) - 📰 null - 【SOL财库公司Upexi宣布2300万美元私募发行计划】金色财经报道，Upexi, Inc. (NASDAQ: UPXI) 于2025年11月26日宣布与单一机构投资者签订证券购买协议，将以每股3.04美元的价格发行约329万股普通股及同等数量的认股权证，认股权证行使价为4.00美元，有效期48个月。此次私募发行价格高于纳斯达克市场规则下的市场价格。 
+公司预计初步募集约1000万美元，若认股权证全部行使，将额外获得1300万美元。交易预计于12月1日完成，募集资金将用于流动资金、一般企业用途及Solana最大回报策略。 
+作为专注于Solana的数字资产公司，Upexi目前持有超过200万SOL，并通过智能资本发行、质押和折扣锁定代币购买三大机制创造价值。
+- [Naver同意以约103亿美元收购Upbit母公司Dunamu](https://www.bloomberg.com/news/articles/2025-11-26/naver-to-acquire-crypto-exchange-upbit-s-parent-dunamu?srnd=phx-technology&embedded-checkout=true) - 📰 null - 【Naver同意以约103亿美元收购Upbit母公司Dunamu】金色财经报道，韩国最大的门户网站 Naver 公司同意以全股票交易方式收购 Dunamu 公司——韩国最大加密货币交易平台 Upbit 的运营方，交易估值约为 103 亿美元。 
+根据周三通过监管文件披露的交易方案，Naver 的金融科技子公司 Naver Financial Corp. 将以每持有 1 股 Dunamu 股票，发行 2.54 股 Naver 新股的方式完成收购。
+- [CleanSpark结清Coinbase信贷额度，净利润率接近盈亏平衡点](https://theminermag.com/home/2025-11-26/cleanspark-coinbase-bitcoin) - 📰 null - 【CleanSpark结清Coinbase信贷额度，净利润率接近盈亏平衡点】金色财经报道，CleanSpark 在 Coinbase 和 Two Prime 两家信贷机构的所有未偿余额已于 11 月结清，目前公司在其已承诺的信贷额度中仍有约 4 亿美元的未提取借款额度。CleanSpark 的还款情况凸显近期比特币算力价格下跌（目前徘徊在35美元/PH/s附近）压缩了整个行业的盈利能力。即使公司现金算力成本较低，但在比特币价格近期回调后，其净利润率也已接近盈亏平衡点。
+- [美股加密货币概念股走强，Robinhood大涨近8%]() - 📰 null - 【美股加密货币概念股走强，Robinhood大涨近8%】金色财经报道，美股加密货币概念股走强，Robinhood大涨近8%，Cipher Mining涨超5%，BMNR涨超4%，IREN涨近3%，Coinbase涨近2%。
