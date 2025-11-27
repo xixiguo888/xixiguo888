@@ -1,26 +1,29 @@
-- [Tether和Circle已累计铸造价值172.5亿美元的稳定币](https://x.com/lookonchain/status/1994021531597590999) - 📰 null - 【Tether和Circle已累计铸造价值172.5亿美元的稳定币】金色财经报道，据Lookonchain监测，Circle再次铸造12.5亿枚USDC，Tether和Circle已铸造价值172.5亿美元的稳定币。
-- [BNB Chain任命Nina Rong担任增长执行总监](https://x.com/BNBCHAINZH/status/1994014331504107609) - 📰 null - 【BNB Chain任命Nina Rong担任增长执行总监】金色财经报道，据官方消息，BNB Chain 任命 Nina Rong 担任增长执行总监。Nina 多年来始终致力于扩展全球 Web3 生态，并建立推动生态进步的合作关系。在 BNB Chain，她将主要负责生态发展，加强开发者支持，并拓展我们的全球布局。共同使命是引领下一个十亿用户进入链上世界，让每个人都能更轻松地发现流动性。
-- [USDC Treasury在Solana链上新增铸造5亿枚USDC]() - 📰 null - 【USDC Treasury在Solana链上新增铸造5亿枚USDC】金色财经报道，据 Whale Alert 监测，USDC Treasury 在 Solana 链上新增铸造 5 亿枚 USDC。
-- [Alliance DAO联创：未来最看好的DeFi币是积极支持传统金融资产的项目]() - 📰 null - 【Alliance DAO联创：未来最看好的DeFi币是积极支持传统金融资产的项目】金色财经报道，Alliance DAO 联合创始人 QwQiao 在社交媒体发文表示，我对未来几年最看好的 DeFi 币，是那些积极致力于支持传统金融（TradFi）资产的项目。无论是交易还是以传统金融资产为抵押的借贷，这类项目的潜在市场规模可能远远超过只专注于加密原生资产的项目。 
-这有助于我们摆脱自身的反射性牛熊周期（即加密资产价格下跌导致基本面恶化的情况）。过去最大的障碍实际上是监管问题，但这一情况似乎正在发生变化。
-- [韩国金融业遭大规模勒索软件攻击，28家机构数据被盗](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html?utm_source=chatgpt.com) - 📰 null - 【韩国金融业遭大规模勒索软件攻击，28家机构数据被盗】金色财经报道，韩国金融部门近期遭遇严重网络安全事件，Qilin勒索软件组织通过攻击一家管理服务提供商(MSP)，成功入侵28家金融机构系统，窃取超过100万份文件和2TB数据。该事件被攻击者命名为"Korean Leaks"，分三波实施，主要针对韩国资产管理公司。 
-安全专家怀疑此次攻击可能与北韩黑客组织Moonstone Sleet有关联。攻击者在数据泄露网站上发布信息时，不仅要求赎金，还声称要揭露"系统性腐败"和"股市操纵证据"，试图制造韩国金融市场恐慌。
-- [某巨鲸从Wintermute接收340万枚ENA，目前浮亏297万美元](https://x.com/OnchainDataNerd/status/1994012508433338565) - 📰 null - 【某巨鲸从Wintermute接收340万枚ENA，目前浮亏297万美元】金色财经报道，据 The Data Nerd 监测，1 小时前，巨鲸 (0xaf3...AAAc) 从 Wintermute 接收了 340 万枚 ENA，价值约 95.3 万美元。在过去的 10 个月里，该巨鲸累计囤积了 1059 万枚 ENA，价值约 650 万美元，平均成本为 0.614 美元。目前其未实现亏损约为 297 万美元。
-- [Solana ETF 结束连续 22 日净流入]() - 📰 null - 【Solana ETF 结束连续 22 日净流入】金色财经报道，据 SolanaFloor 监测，Solana ETF 结束了连续 22 日的净流入，昨日录得首次单日净流出，净流出额为 820 万美元，其中 21Shares 流出额最高。Bitwise Invest 则延续净流入趋势，新增 1,330 万美元资金流入。
-- [韩国上市公司Bitplanet增持17枚比特币 共持有245.5枚BTC](https://x.com/BTCtreasuries/status/1994001711254655262) - 📰 null - 【韩国上市公司Bitplanet增持17枚比特币 共持有245.5枚BTC】金色财经报道，据市场消息：韩国上市公司Bitplanet（股票代码：049470.KQ）增持17枚比特币，目前共持有245.5枚BTC。 
-🔸比特币百大持仓排名：第83位 🪜🔸
-- [某鲸鱼时隔18个月重开5670万美元BTC多单，当前浮盈439万美元](https://x.com/OnchainLens/status/1994004246975664409) - 📰 null - 【某鲸鱼时隔18个月重开5670万美元BTC多单，当前浮盈439万美元】金色财经报道，据 Onchain Lens 监测，某鲸鱼时隔 18 个月再次开设 18 倍 BTC 多单，目前该仓位浮盈约 439 万美元。其多单名义规模为 5670 万美元，开仓价为 84306 美元，清算价为 78642 美元。
-- [以太坊将区块Gas上限从4500万提高至6000万]() - 📰 null - 【以太坊将区块Gas上限从4500万提高至6000万】11月27日消息，据 The Block 报道，根据 GasLimit.pics 的数据，在用户和开发者呼吁扩大容量后，以太坊的区块 Gas 上限已从 4,500 万提高至 6,000 万。以太坊基金会研究员 Toni Wahrstätter 在 X 平台上宣布了这一调整，并称这是社区历时一年的努力成果，旨在提升以太坊基础层的处理能力。
-- [英国财政大臣秋季声明未增加加密税，但监管趋严](https://www.theblock.co/post/380688/crypto-industry-uk-budget-statement?utm_source=twitter&utm_medium=social) - 📰 null - 【英国财政大臣秋季声明未增加加密税，但监管趋严】金色财经报道，英国财政大臣Rachel Reeves在最新秋季声明中未对加密货币提出新的税收增加，保持了加密资产与其他资产类别相同的税收待遇。然而，政府正推进更严格的报告和监管措施，包括即将于2026年实施的Crypto-Asset Reporting Framework (CARF)全球税收透明系统。 
-行业人士对创业支持措施表示欢迎，但警告称英国整体税收和监管环境可能削弱其在金融科技和数字资产领域的全球竞争力。专家担忧，缺乏足够激励措施可能导致高增长的金融科技、AI和Web3企业选择在其他司法管辖区发展，进一步加剧英国近期观察到的人才外流现象。
-- [美联储12月降息25个基点的概率维持在85.1%](https://www.cmegroup.com/cn-s/markets/interest-rates/cme-fedwatch-tool.html) - 📰 null - 【美联储12月降息25个基点的概率维持在85.1%】金色财经报道，据CME“美联储观察”：美联储12月降息25个基点的概率为85.1%，维持利率不变的概率为14.9%。
-- [不丹王国政府向Figment转移320枚ETH用于ETH2.0质押](https://x.com/OnchainLens/status/1993992999706267793) - 📰 null - 【不丹王国政府向Figment转移320枚ETH用于ETH2.0质押】金色财经报道，据Onchain Lens链上数据显示，不丹王国政府发送320枚ETH至Figment平台进行ETH2.0质押，总价值约92.08万美元，资金流向明确为质押用途。
-- [币安Alpha现已支持Arbitrum网络](https://x.com/BinanceWallet/status/1993991183585178078) - 📰 null - 【币安Alpha现已支持Arbitrum网络】金色财经报道，据官方公告，币安钱包宣布币安Alpha已支持Arbitrum网络，用户现可在发现和交易Arbitrum上最新的Alpha代币。币安将为Arbitrum网络上的活跃交易者举办交易竞赛，详细信息将另行公布。同时，新一批币安Alpha代币也即将推出。
-- [OKX“闪赚”本期将上线 Sei (SEI)](https://www.okx.com/zh-hans/help/okx-flash-earn-is-now-live-get-started-with-sei-sei-and-share-7-319-915-sei) - 📰 null - 【OKX“闪赚”本期将上线 Sei (SEI)】据官方消息，OKX“闪赚”本期将上线 Sei (SEI)，并新增 ETH 奖池。在2025 年 11 月 27 日下午 7:00 至 2025 年 12 月 2 日下午 7:00 (UTC+8)期间，用户可通过 OKB、USDT、BTC 或 ETH 进行申购，最低申购分别为 1 OKB、100 USDT、0.0012 BTC 和 0.033 ETH，即可瓜分总量 7,319,915 个 SEI 奖励，奖励由新币空投与赚币利息组成。 
-本期活动四个奖池总额均为 1,829,979 SEI，各资产申购上限按普通用户到 VIP3 及以上等级分层设置，例如 OKB 普通用户上限 100 OKB、VIP3 及以上上限 10,000 OKB，USDT 普通用户上限 10,000 USDT、VIP3 及以上上限 1,000,000 USDT，BTC 普通用户上限 0.1 BTC、VIP3 及以上上限 10 BTC，ETH 普通用户上限 3 ETH、VIP3 及以上上限 300 ETH，用户可根据持币量和等级灵活参与。点击OKX APP左上角，选择赚币与奖励板块，即可进入闪赚页面。
-- [Lista RWA产品上线BNB Chain，收益锚定美债与AAA级公司债](https://x.com/lista_dao/status/1993974527521337706) - 📰 null - 【Lista RWA产品上线BNB Chain，收益锚定美债与AAA级公司债】金色财经报道，11月27日，Lista DAO推出RWA产品并上线BNB Chain。该产品通过Centrifuae整合现实世界资产，由Chainlink提供价格支持，用户存入USDT即可持有锚定美债与AAA级公司债的链上收益资产。目前仅对白名单用户开放申请通道已同步开启
-- [在收到Monad空投的76,021个钱包中仅有35.7%仍完整持有](https://x.com/Cointelegraph/status/1993975845694685302) - 📰 null - 【在收到Monad空投的76,021个钱包中仅有35.7%仍完整持有】金色财经报道，根据Adam的数据，在收到Monad空投的76,021个钱包中，52.4%已全部卖出或转出其代币，仅有35.7%仍完整持有所有空投代币。
-- [韩国Upbit交易所修正被盗金额为445亿韩元](https://www.blockmedia.co.kr/archives/1012003?utm_source=telegram&utm_medium=social%EF%BC%89%20%20https://upbit.com/service_center/notice?id=5800&view=share) - 📰 null - 【韩国Upbit交易所修正被盗金额为445亿韩元】金色财经报道，韩国数字资产交易所Upbit今日(11月27日)遭遇黑客攻击，约445亿韩元（约3000万美元）资产被盗，主要涉及Solana网络上的数字资产。Upbit已于当日4时41分发现异常转账并向监管机构报告。韩国警方和金融监管部门已对运营商两脑木公司展开现场调查，预计持续至下月5日。Upbit方面表示将以公司资产全额补偿客户损失，确保用户零损失。 
-此前消息，Upbit 披露遭遇攻击，约 540 亿韩元代币被转移至未知钱包。
-- [Strategy市值超过EA](https://x.com/BTCtreasuries/status/1993975478756209014) - 📰 null - 【Strategy市值超过EA】金色财经报道，据市场消息：Strategy（$MSTR）市值刚刚超过EA，现已成为美国第213大上市公司。
-- [鲸鱼过去24小时从Gate提取7336万MON，价值约300万美元](https://x.com/lookonchain/status/1993975447110271478) - 📰 null - 【鲸鱼过去24小时从Gate提取7336万MON，价值约300万美元】金色财经报道，据 Lookonchain 监测，鲸鱼在过去 24 小时内从 Gate.com 提取了 7336 万枚 MON，价值约 300 万美元。
+- [Wormhole基金会已购入500万美元W代币，计入其资产负债表](https://x.com/wormhole/status/1994088962982596622) - 📰 null - 【Wormhole基金会已购入500万美元W代币，计入其资产负债表】金色财经报道，Wormhole 基金会已购入 500 万美元的 W 代币，计入其资产负债表。
+- [某新建钱包向HyperLiquid存入250万枚USDC，并以10倍杠杆做空HYPE]() - 📰 null - 【某新建钱包向HyperLiquid存入250万枚USDC，并以10倍杠杆做空HYPE】金色财经报道，据 Onchain Lens 监测，某新建钱包向 HyperLiquid 存入 250 万枚 USDC，并以 10 倍杠杆开立 HYPE 空头头寸。该鲸鱼还挂单进一步增持空单。
+- [Hyperliquid上盈利超1060万美元巨鲸以3倍杠杆做空1000枚BTC](https://x.com/lookonchain/status/1994078808073490898) - 📰 null - 【Hyperliquid上盈利超1060万美元巨鲸以3倍杠杆做空1000枚BTC】金色财经报道，据 Lookonchain 监测，Hyperliquid 上盈利超过 1,060 万美元的巨鲸地址 0x0ddf9，以 3 倍杠杆开设了 1,000 枚 BTC（约 9,100 万美元）空单，均价 89,765.6 美元。 
+此外，新建地址 0x2c26 以 20 倍杠杆开设了 563.68 枚 BTC（约 5,140 万美元）多单，均价 90,278.7 美元。
+- [VanEck今日再次质押12,600枚ETH](https://x.com/lookonchain/status/1994074881689026774) - 📰 null - 【VanEck今日再次质押12,600枚ETH】金色财经报道，据 Lookonchain 监测，VanEck 今日再次质押 12,600 枚 ETH（约 3790 万美元）。
+- [DWF Labs联创：如今的DAT就像2017年末的ICO](https://x.com/ag_dwf/status/1994063136945561657) - 📰 null - 【DWF Labs联创：如今的DAT就像2017年末的ICO】金色财经报道， DWF Labs联创 Andrei Grachev 在 X 平台发文表示，如今的 DAT 就像 2017 年末的 ICO。
+- [Polymarket上预测“比特币今年再次涨至10万美元”概率升至50%]() - 📰 null - 【Polymarket上预测“比特币今年再次涨至10万美元”概率升至50%】金色财经报道，Polymarket 上预测“比特币今年再次涨至 10 万美元”概率升至 50%。此外，预测其再次涨至 11 万美元概率暂报 18%，跌破 8 万美元暂报 37%。
+- [机构：美元可能在2026年因美联储的降息而下跌](https://flash.jin10.com/detail/20251127233316773800) - 📰 null - 【机构：美元可能在2026年因美联储的降息而下跌】金色财经报道，Pictet Asset Management策略师Luca Paolini表示，随着经济增长放缓为美联储进一步降息铺平道路，美元明年将面临新一轮疲软。他指出，美元的利率差正在显著收窄。“我们预计美国经济会变得稍微疲软，这将使通胀压力慢慢消失。”相对而言，世界其他地区的经济增长可能会改善，尤其是欧洲和日本。除此之外，美元估值仍显偏高。Pictet预计，到2026年底，美元指数将从目前的99.55附近跌至95。
+- [观点：比特币在感恩节期间成交量低、波动性高，并非是结构性趋势信号](https://x.com/swissblock__/status/1994043542260322460) - 📰 null - 【观点：比特币在感恩节期间成交量低、波动性高，并非是结构性趋势信号】金色财经报道，财富管理公司 Swissblock 发文表示，比特币在感恩节期间成交量低、波动性高，是战术性操作的好机会，而非结构性趋势。当宏观流动性和资金流仍然疲软时，应将这些波动视为“噪音”，而非市场信号。
+- [Uniswap“UNIfication”提案以压倒性优势通过初步投票，启动1550万美元漏洞赏金计划](https://www.theblock.co/post/380704/uniswap-unification-proposal-clears-temp-check-bounty-phase) - 📰 null - 【Uniswap“UNIfication”提案以压倒性优势通过初步投票，启动1550万美元漏洞赏金计划】金色财经报道，Uniswap的“UNIfication”治理提案已在初步Snapshot投票中获得超过6300万UNI代币支持，几乎无人反对。该提案旨在将Uniswap Labs和Uniswap Foundation统一在协调的治理框架下，同时激活协议级费用机制。目前，一项价值1550万美元的Cantina漏洞赏金计划已经启动，覆盖新的费用切换智能合约，为预计下周进行的完整链上投票做准备。
+- [Solana ETF今日净流入达238,037枚SOL]() - 📰 null - 【Solana ETF今日净流入达238,037枚SOL】金色财经报道，据Lookonchain数据，11月27日加密ETF资金流向显示：比特币ETF单日净流出25枚BTC（约230万美元），过去7日累计流出达7,233枚（约6.56亿美元）；以太坊ETF当日净流入11,484枚ETH（约3434万美元），但一周仍净流出1,917枚；Solana ETF表现最强，单日净流入达238,037枚SOL，约合3356万美元，成为当日主力增仓对象。
+- [Binance将向香港捐款1000万港币支持宏福苑火灾救援重建](https://x.com/binancezh/status/1994050872045666614?s=20) - 📰 null - 【Binance将向香港捐款1000万港币支持宏福苑火灾救援重建】金色财经报道，据官方消息，Binance将向香港捐款1000万港币支持宏福苑火灾救援重建。为切实协助救灾及后续重建工作，Binance将通过相关渠道向灾区进行捐赠，支持宏福苑居民重建家园。币安表示将通过相关渠道落实捐助，并向受灾民众致以慰问。
+- [前 100 家上市公司共持有 1,058,581 枚 BTC](https://x.com/BTCtreasuries/status/1994051124983185748) - 📰 null - 【前 100 家上市公司共持有 1,058,581 枚 BTC】金色财经报道，据 BitcoinTreasuries.NET 监测，截至 2025 年，前 100 家上市公司共计持有 1,058,581 枚 BTC。在过去 7 天内，有 9 家公司增持了 BTC，1 家公司减持了 BTC。
+- [网络安全公司Socket：恶意Chrome扩展程序暗中窃取Solana交易资金](https://cointelegraph.com/news/malicious-solana-chrome-extension-skims-sol-rather-than-emptying-the-wallet) - 📰 null - 【网络安全公司Socket：恶意Chrome扩展程序暗中窃取Solana交易资金】金色财经报道，网络安全公司Socket发现一款名为"Crypto Copilot"的恶意Chrome扩展程序正在暗中从用户的Solana交易中窃取资金。该扩展程序允许用户直接从X社交媒体平台进行Solana交易，但会在每笔交易中注入额外指令，抽取至少0.0013 SOL或交易额的0.05%。 
+与典型的钱包清空恶意软件不同，Crypto Copilot使用Raydium去中心化交易所执行交易，同时添加第二条指令将SOL转移到攻击者钱包，而用户界面仅显示交易概要，隐藏了单独的操作指令。
+- [Infinex将推出Sonar代币销售，目标筹资1500万美元](https://www.theblock.co/post/380545/kain-warwicks-infinex-builds-on-67-7m-patron-nft-round-with-sonar-sale-ahead-of-inxs-2026-tge) - 📰 null - 【Infinex将推出Sonar代币销售，目标筹资1500万美元】金色财经报道，Infinex宣布将开启Sonar代币销售，计划在2026年1月INX代币生成事件(TGE)前分发5%的代币供应，目标筹资1500万美元，完全稀释估值为3亿美元。 
+此次销售建立在去年成功筹集6770万美元的Patron NFT销售基础上，旨在扩大代币持有者范围。销售分为两条路径：Patron NFT持有者可根据持有量获得最高50万美元的分配额度，非持有者则通过彩票机制参与，上限为每人5000美元。
+- [DeepSeek推出DeepSeekMath‑V2模型]() - 📰 null - 【DeepSeek推出DeepSeekMath‑V2模型】金色财经报道，DeepSeek推出新型数学推理模型DeepSeekMath-V2，采用可自我验证的训练框架。该模型基于DeepSeek-V3.2-Exp-Base构建，通过LLM验证器自动审查生成的数学证明，并利用高难度样本持续优化性能。（证券时报）
+- [CZ：长期来看BNB价格和生态建设成正比](https://x.com/cz_binance/status/1994039126245671402) - 📰 null - 【CZ：长期来看BNB价格和生态建设成正比】金色财经报道，CZ 在评论 BNB 价格与生态之间关系的帖子时表示，短期内价格与生态建设并非总是成正比，但长期来看却确实如此。
+- [Visa与Aquanow合作扩大CEMEA地区稳定币结算业务](https://cointelegraph.com/news/visa-doubles-down-on-stablecoins-in-europe-middle-east-and-africa-with-new-partnership) - 📰 null - 【Visa与Aquanow合作扩大CEMEA地区稳定币结算业务】金色财经报道，据Cointelegraph报道，Visa宣布与加密基础设施公司Aquanow建立新合作伙伴关系，将在中东欧、中东和非洲(CEMEA)地区扩大稳定币结算业务。该合作将利用USDC等获批准的稳定币进行交易结算，旨在降低跨境支付成本、减少操作摩擦并缩短结算时间。Visa CEMEA地区产品和解决方案负责人Godfrey Sullivan表示，此举将使该地区机构"体验更快速、更简便的结算"，并减少对传统多中介系统的依赖。
+- [Binance理财、一键买币、闪兑、杠杆上线APRO（AT）]() - 📰 null - 【Binance理财、一键买币、闪兑、杠杆上线APRO（AT）】金色财经报道，据官方消息，Binance 理财、一键买币、闪兑、杠杆上线 APRO（AT）。
+- [某巨鲸累计买入超14万枚HYPE，约 491 万美元]() - 📰 null - 【某巨鲸累计买入超14万枚HYPE，约 491 万美元】金色财经报道，据链上分析师 The Data Nerd 监测，巨鲸 gtrove_hl 开仓 TWAT 策略，累计买入 141,000 枚 HYPE 代币，总价值约 491 万美元。
+- [金色晚报 | 11月27日晚间重要动态一览]() - 📰 null - 【金色晚报 | 11月27日晚间重要动态一览】12:00-21:00关键词：Do Kwon、Upbit、Ark Invest 
+1.Solana ETF 结束连续 22 日净流入 
+2.Do Kwon请求美国法院判处不超过五年监禁 
+3.韩国Upbit交易所修正被盗金额为445亿韩元 
+4.Ark Invest：流动性正在恢复 可能为年底市场反弹奠定基础 
+5.加州公务员退休基金持仓价值约8000万美元的Strategy股票 
+6.Naver和Upbit母公司Dunamu将共同投资68亿美元于AI和区块链领域
