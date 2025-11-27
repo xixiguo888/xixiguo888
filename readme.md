@@ -1,33 +1,39 @@
-- [Ondo推出的超100种代币化股票和ETF已上线Binance Wallet](https://x.com/OndoFinance/status/1993729366312763443) - 📰 null - 【Ondo推出的超100种代币化股票和ETF已上线Binance Wallet】金色财经报道，由 Ondo 推出的超过 100 种代币化股票和 ETF 已基于 BNB Chain 正式上线 Binance Wallet。
-- [亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%](https://flash.jin10.com/detail/20251127011555573800) - 📰 null - 【亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%】金色财经报道，亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.9%，此前预计为4.0%。
-- [ETH突破3000美元]() - 📰 null - 【ETH突破3000美元】金色财经报道，行情显示，ETH突破3000美元，现报3003.15美元，24小时涨幅达到2.15%，行情波动较大，请做好风险控制。
-- [BTC突破89000美元]() - 📰 null - 【BTC突破89000美元】金色财经报道，行情显示，BTC突破89000美元，现报89008.58美元，24小时涨幅达到1.46%，行情波动较大，请做好风险控制。
-- [BTC突破88000美元]() - 📰 null - 【BTC突破88000美元】金色财经报道，行情显示，BTC突破88000美元，现报88012.81美元，24小时涨幅达到0.56%，行情波动较大，请做好风险控制。
-- [CleanSpark：2025财年营收翻倍至7.66亿美元，净利润达3.65亿美元](https://investors.cleanspark.com/news/news-details/2025/CleanSpark-Reports-Transformative-FY-2025-Results/default.aspx) - 📰 null - 【CleanSpark：2025财年营收翻倍至7.66亿美元，净利润达3.65亿美元】金色财经报道，上市比特币矿企CleanSpark公布2025财年（截至9月30日）营收达7.66亿美元，同比大增102%，净利润达3.65亿美元，扭转去年1.46亿美元亏损。CEO Matt Schultz表示公司已实现运营杠杆，正将其能源资产布局转向AI数据中心发展。CleanSpark持有比特币超1.3万枚，并于年内完成11.5亿美元可转债融资，部分资金用于回购股票及支持AI基建扩张。
-- [Vitalik回应“是否计划经济”：Gas使用仍由市场决定](https://x.com/VitalikButerin/status/1993704170294264303) - 📰 null - 【Vitalik回应“是否计划经济”：Gas使用仍由市场决定】金色财经报道，Vitalik回应X平台用户nikete时表示，以太坊网络虽计划提升Gas上限与低效操作的成本，但区块中交易的实际选择仍完全由市场机制决定，“不是搞比特币那一套”。他强调，区块Gas总量由验证者投票设定，许多验证者会参考核心开发者建议，但最终交易选择仍由自由市场决定。
-- [彭博分析师：纳斯达克ISE提议将IBIT期权持仓上限升至100万份](https://x.com/EricBalchunas/status/1993711162266177861) - 📰 null - 【彭博分析师：纳斯达克ISE提议将IBIT期权持仓上限升至100万份】金色财经报道，彭博高级 ETF 分析师 Eric Balchunas 在 X 平台发文表示，纳斯达克 ISE 已提议将贝莱德旗下比特币现货 ETF IBIT 的期权持仓上限从 25 万张提升至 100 万份，此前该上限已于 2025 年 7 月从 2.5 万份提高至 25 万份。
-- [Avail推出Nexus主网，旨在实现跨链统一流动性](https://www.theblock.co/post/380548/avail-nexus-mainnet-live) - 📰 null - 【Avail推出Nexus主网，旨在实现跨链统一流动性】金色财经报道，Avail 推出 Nexus 主网，这是一个跨链系统，旨在将 rollups、应用链和去中心化应用整合到单一的操作环境中，使资产、流动性和用户能在各条链之间更加顺畅地流动。 
-这家模块化区块链基础设施提供商表示，Nexus 已在多个生态系统上线，包括以太坊（Ethereum）、Tron、Polygon、Base、Arbitrum、Optimism、BNB Chain、Monad、Kaia、HyperEVM 和 Scroll，Solana 也将很快接入。 
-Avail 联合创始人 Anurag Arjun 表示，目前区块链的碎片化和「高风险桥接」限制了开发者和用户的体验。
-- [麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度](https://flash.jin10.com/detail/20251127004128098800) - 📰 null - 【麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度】金色财经报道，人工智能驱动的增长可能会使美国经济保持强劲势头，从而抑制美联储明年预期中的降息幅度。尽管市场预期美联储降息可能高达三次，但麦肯锡公司的达斯汀·里德表示，人工智能带来的更快增长可能需要更紧缩的政策，从而使得美国国债收益率走高。他预计，到2026年年中，美国10年期国债收益率将从目前的4%升至4.4%。
-- [观点：比特币本轮下跌暴露市场旧规律的破裂，波动性却依旧温和](https://www.bloomberg.com/news/articles/2025-11-26/bitcoin-s-drawdown-breaks-old-rule-as-volatility-stays-tame) - 📰 null - 【观点：比特币本轮下跌暴露市场旧规律的破裂，波动性却依旧温和】金色财经报道，据彭博社，比特币最新一轮的下跌正在揭示一种根本性的变化：过去那种吸引散户冒险者的大幅波动正在减弱，这反映了华尔街对加密市场基础结构影响力的不断增强。 
-尽管自 10 月初创下历史新高以来，比特币已回落最多 36%，但隐含波动率依然受到抑制。这种变化表明，机构化进程正在重塑该代币的风险传导方式。 
-而在早期，比特币的价值主要由投机驱动——交易者希望从其频繁的大幅价格波动中获利。
-- [贝莱德从Coinbase Prime提取953枚BTC和15722枚ETH](https://x.com/lookonchain/status/1993719578875380122) - 📰 null - 【贝莱德从Coinbase Prime提取953枚BTC和15722枚ETH】金色财经报道，据 Lookonchain 监测，贝莱德 20 分钟前从 Coinbase Prime 提取 953 枚 BTC （8343 万美元）和 15722 枚 ETH（4624 万美元）。
-- [Bithumb将暂停USDT市场Beta测试服务，重新开放时间另行通知](https://www.dlnews.com/articles/markets/bithumb-to-halt-tether-powered-order-book-sharing/) - 📰 null - 【Bithumb将暂停USDT市场Beta测试服务，重新开放时间另行通知】金色财经报道，韩国金融监管机构已敦促 Bithumb 暂停其 Tether 市场服务，该服务允许客户使用 USDT 买卖比特币及九种市值较高的山寨币，但这 10 种资产均可在韩元（KRW）市场继续交易。 
-该加密交易平台表示，该服务仍处于 Beta 测试阶段，并涉及与 Stellar 的订单簿共享协议。 
-Bithumb 称，由于系统维护，该服务将于韩国时间 11 月 28 日上午 11 点关闭，并将重新整合，以“提供更稳定、更先进的交易环境。我们将另行提供有关服务重新开放时间表的更新。”
-- [加密做市商Portofino Technologies再遭员工离职潮](https://www.coindesk.com/business/2025/11/24/crypto-market-maker-portofino-said-to-be-hit-by-another-wave-of-staff-departures) - 📰 null - 【加密做市商Portofino Technologies再遭员工离职潮】金色财经报道，据 CoinDesk 援引知情人士报道，加密做市商 Portofino Technologies 在几个月前首席财务官和总法律顾问离职后，又遭遇了一波高层员工离职潮。 
-该人士表示，首席营收官 Melchior de Villeneuve 最近离开了这家瑞士公司。因事宜涉及私人信息，该人士要求匿名。办公事务主管 Olivia Thurman 已确认辞职。 
-此外，据称还有两名高级开发人员 Olivier Ravanas 和 Mike Tryhorn 以及两名初级开发人员也已离开这家加密做市商公司。根据 LinkedIn 资料，De Villeneuve 于今年一月加入公司，但他未立即回应置评请求。Ravanas 和 Tryhorn 亦未回应。 
-截至发稿时，Portofino 对多次邮件置评请求仍未作出回应。
-- [标普全球：下调USDT锚定美元能力至最低评级](https://www.bloomberg.com/news/articles/2025-11-26/tether-stablecoin-stability-rating-reduced-to-weak-at-s-p?taid=69271e8877bd84000157eb20&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) - 📰 null - 【标普全球：下调USDT锚定美元能力至最低评级】金色财经报道，标普全球评级（S&P Global Ratings）将 Tether 的 USDT 稳定币维持与美元挂钩的能力下调至最低评级，并警告称，比特币价格下跌可能导致该稳定币出现抵押不足的风险。 
-周三，评级公司分析师将 USDT 的稳定性评级由此前的“受限”下调至“弱”。标普表示，此次评估“反映了过去一年 USDT 储备中高风险资产敞口的增加”，这些资产包括比特币、黄金、担保贷款和公司债券，同时也考虑了披露信息的有限性。
-- [Bitwise在纽交所推出DOGE现货ETF，代码BWOW](https://www.theblock.co/post/380569/bitwise-rolls-out-dogecoin-etf-on-nyse-against-the-odds-kept-its-relevance?utm_source=browser&utm_medium=chrome&utm_campaign=notification) - 📰 null - 【Bitwise在纽交所推出DOGE现货ETF，代码BWOW】金色财经报道，Bitwise 正式在纽约证券交易所推出 Bitwise Dogecoin ETF（代码：BWOW），为狗狗币（DOGE）持有者提供合规投资通道。
-- [SOL财库公司Upexi宣布2300万美元私募发行计划](https://ir.upexi.com/news-events/press-releases/detail/142/upexi-inc-announces-pricing-of-up-to-23-million-private) - 📰 null - 【SOL财库公司Upexi宣布2300万美元私募发行计划】金色财经报道，Upexi, Inc. (NASDAQ: UPXI) 于2025年11月26日宣布与单一机构投资者签订证券购买协议，将以每股3.04美元的价格发行约329万股普通股及同等数量的认股权证，认股权证行使价为4.00美元，有效期48个月。此次私募发行价格高于纳斯达克市场规则下的市场价格。 
-公司预计初步募集约1000万美元，若认股权证全部行使，将额外获得1300万美元。交易预计于12月1日完成，募集资金将用于流动资金、一般企业用途及Solana最大回报策略。 
-作为专注于Solana的数字资产公司，Upexi目前持有超过200万SOL，并通过智能资本发行、质押和折扣锁定代币购买三大机制创造价值。
-- [Naver同意以约103亿美元收购Upbit母公司Dunamu](https://www.bloomberg.com/news/articles/2025-11-26/naver-to-acquire-crypto-exchange-upbit-s-parent-dunamu?srnd=phx-technology&embedded-checkout=true) - 📰 null - 【Naver同意以约103亿美元收购Upbit母公司Dunamu】金色财经报道，韩国最大的门户网站 Naver 公司同意以全股票交易方式收购 Dunamu 公司——韩国最大加密货币交易平台 Upbit 的运营方，交易估值约为 103 亿美元。 
-根据周三通过监管文件披露的交易方案，Naver 的金融科技子公司 Naver Financial Corp. 将以每持有 1 股 Dunamu 股票，发行 2.54 股 Naver 新股的方式完成收购。
-- [CleanSpark结清Coinbase信贷额度，净利润率接近盈亏平衡点](https://theminermag.com/home/2025-11-26/cleanspark-coinbase-bitcoin) - 📰 null - 【CleanSpark结清Coinbase信贷额度，净利润率接近盈亏平衡点】金色财经报道，CleanSpark 在 Coinbase 和 Two Prime 两家信贷机构的所有未偿余额已于 11 月结清，目前公司在其已承诺的信贷额度中仍有约 4 亿美元的未提取借款额度。CleanSpark 的还款情况凸显近期比特币算力价格下跌（目前徘徊在35美元/PH/s附近）压缩了整个行业的盈利能力。即使公司现金算力成本较低，但在比特币价格近期回调后，其净利润率也已接近盈亏平衡点。
-- [美股加密货币概念股走强，Robinhood大涨近8%]() - 📰 null - 【美股加密货币概念股走强，Robinhood大涨近8%】金色财经报道，美股加密货币概念股走强，Robinhood大涨近8%，Cipher Mining涨超5%，BMNR涨超4%，IREN涨近3%，Coinbase涨近2%。
+- [预告：因感恩节假期，美股今日休市]() - 📰 null - 【预告：因感恩节假期，美股今日休市】11月27日消息，因感恩节假期，纽约证券交易所（NYSE）和纳斯达克（Nasdaq）等主要交易所将全天关闭，无正常交易活动。债券市场也将休市。交易将于周五（11月28日，黑五）恢复，但仅为半天交易（美东时间上午9:30至下午1:00）。
+- [易理华：ETH重返3000美元，极度恐慌情绪已过](https://x.com/Jackyi_ld/status/1993849576735035679) - 📰 null - 【易理华：ETH重返3000美元，极度恐慌情绪已过】金色财经报道，LiquidCapital（前LDCapital）创始人易理华在社交媒体上发文表示：ETH重返3000，极度恐慌情绪已过，持续看好后续行情趋势。从4月以来才短短7个月，经历了抄底，逃顶，再抄底。币圈一日，人间十年，波动性极大的市场，时刻都在考验人性的弱点贪婪和恐惧，这是一个美好的行业，也是一个糟糕的行业，充满了信仰与怀疑，智慧与愚昧，光明与黑暗，希望与绝望。
+- [特朗普赦免CZ后，币安又面临10亿美元诉讼](https://beincrypto.com/binance-lawsuit-trump-pardon-terror-finance/) - 📰 null - 【特朗普赦免CZ后，币安又面临10亿美元诉讼】金色财经报道，据beincrypto报道，超过300名2023年10月7日哈马斯袭击以色列事件的受害者及家属，依据《反恐怖主义法》向北达科他州联邦法院起诉币安及创始人赵长鹏，指控其故意协助恐怖组织进行加密货币交易。 
+这份284页诉状称，币安为哈马斯、真主党等美国指定恐怖组织处理超过10亿美元交易，在明知账户由恐怖组织控制下仍提供服务。诉状详列多个涉恐数字钱包，包括委内瑞拉黄金走私网络案例：一名26岁女性接收1.77亿美元加密货币并提取4300万美元现金资助恐怖活动。 
+此案发生在币安2023年认罪并支付43亿美元罚款后不到两年，也是赵长鹏获特朗普赦免后首月。根据《反恐怖主义法》，如被认定协助国际恐怖主义，币安可能面临三倍惩罚性赔偿。 
+纽约联邦法官2月已裁定，原告合理指控币安故意且实质性地协助袭击。币安目前在美国面临四起相关诉讼。
+- [“1011开空内幕巨鲸”的ETH 5倍多单浮盈113.9万美元，目前持仓15000枚ETH](https://x.com/ai_9684xtpa/status/1993843785160376659) - 📰 null - 【“1011开空内幕巨鲸”的ETH 5倍多单浮盈113.9万美元，目前持仓15000枚ETH】金色财经报道，据链上分析师Ai姨（@ai_9684xtpa）监测，“1011开空内幕巨鲸”的ETH 5倍多单目前浮盈113.9万美元。该巨鲸持仓15000枚ETH，价值约4532万美元，开仓价格为2945.83美元。
+- [SpaceX转移1163枚比特币](https://x.com/OnchainLens/status/1993838250331684976) - 📰 null - 【SpaceX转移1163枚比特币】金色财经报道，据 Onchain Lens 监测，SpaceX 已将价值 1.0523 亿美元的 1163 枚比特币转移到新的地址。
+- [pump.fun项目方于8小时前继续把7500万枚USDC转入Kraken，高度疑似出金](https://x.com/EmberCN/status/1993836471963529282) - 📰 null - 【pump.fun项目方于8小时前继续把7500万枚USDC转入Kraken，高度疑似出金】金色财经报道，据余烬监测，pump.fun在8小时前继续把7500万枚USDC转进了Kraken，他们从11/15以来12天时间一共向Kraken转移了4.8亿枚ICO销售获得的USDC。 
+前几天pump.fun团队的人说他们并没有进行出金，只是把这些ICO销售获得的USDC进行了分散，以便公司重新投入业务。不过今天凌晨他们这7500万枚USDC一进入Kraken，随后就有6926万枚USDC从Kraken转到了Circle(USDC发行方)。
+- [美国将部分对华关税豁免期延长至2026年11月10日]() - 📰 null - 【美国将部分对华关税豁免期延长至2026年11月10日】金色财经报道，当地时间11月26日，美国贸易代表办公室宣布，将把针对中国技术转让和知识产权问题、依据301条款调查所设立的关税的豁免延长至2026年11月10日。现有豁免条款原定于今年的11月29日到期。
+- [SpaceComputer获1000万美元融资，由Maven11和Lattice共同领投](https://thedefiant.io/news/infrastructure/spacecomputer-raises-usd10-million-seed-round) - 📰 null - 【SpaceComputer获1000万美元融资，由Maven11和Lattice共同领投】金色财经报道，据 The Defiant 报道，基于卫星技术的区块链验证层SpaceComputer完成1000万美元种子轮融资。本轮由Maven11和Lattice共同领投，Superscrypt、Arbitrum基金会、Nascent、Offchain Labs、Hashkey和Chorus One等参投。个人投资者包括Marc Weinstein、Jason Yanowitz和Ameen Soleimani。 
+资金将用于建造和发射首批卫星及其搭载的安全计算硬件。这些名为SpaceTEE的卫星单元将从太空运行安全的区块链和密码学任务，并开发网络软件、卫星协同系统，以及提供私密计算和安全记录服务。
+- [今日恐慌与贪婪指数升至22，等级仍为极度恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至22，等级仍为极度恐慌】金色财经报道，今日恐慌与贪婪指数升至22（昨日为15），等级仍为极度恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [世界交易所联合会呼吁美SEC不要放任加密公司绕过规则]() - 📰 null - 【世界交易所联合会呼吁美SEC不要放任加密公司绕过规则】金色财经报道，据路透社报道，世界交易所联合会（WFE）是全球主要证券交易所的国际性非营利组织，其于本周在致美国证券交易委员会（SEC）的信函中表示，该监管机构拟允许加密公司免受监管、出售“代币化”股票的计划，可能会损害投资者利益。 
+多家加密公司计划出售与上市股票挂钩的加密代币，然而，要在美国销售此类产品，未注册为经纪交易商的加密公司需获得SEC出具的不采取行动函或豁免许可。SEC主席Paul Atkins表示，该机构正致力于制定一项证券法“创新豁免”条款，使加密企业能够尝试新的商业模式。 
+WFE在信函中指出，豁免可能会带来市场完整性风险，并削弱投资者保护。WFE 首席执行官Nandini Sukumar表示：“SEC应避免向试图绕过数十年来一直保护市场的监管原则的公司授予豁免。”SEC在其网站上公布了WFE的信函，但拒绝置评。 
+WFE技术工作组负责人James Auliffe表示：“我们和加密货币平台应在公平的竞争环境中竞争，我们应受相同规则约束。”
+- [某鲸鱼再度花费1282万枚DAI买入4234枚ETH](https://x.com/OnchainLens/status/1993830526470475814) - 📰 null - 【某鲸鱼再度花费1282万枚DAI买入4234枚ETH】金色财经报道，据Onchain Lens监测，某鲸鱼地址进一步花费1282万枚DAI，购入4234枚ETH。截至目前，该鲸鱼累计耗资1608万枚DAI，以3010美元的均价买入5343枚ETH，当前仍持有5500万枚DAI。
+- [贝莱德旗下SIO基金持有IBIT增至239万份，季度增幅约14%](https://www.sec.gov/edgar/search/#/q=Bitcoin&dateRange=custom&entityName=BlackRock%2520Funds%2520V&startdt=2025-11-26&enddt=2025-11-26) - 📰 null - 【贝莱德旗下SIO基金持有IBIT增至239万份，季度增幅约14%】金色财经报道，据SEC文件显示，贝莱德旗下Strategic Income Opportunities截至9月30日持有2,397,423份IBIT份额，按当时价格计约1.558亿美元，较6月份申报的2,096,447份增加约14%。
+- [Vitalik向Session和SimpleX各捐赠128枚ETH，以支持隐私通讯发展]() - 📰 null - 【Vitalik向Session和SimpleX各捐赠128枚ETH，以支持隐私通讯发展】11月27日消息，Vitalik Buterin发文表示端到端加密通讯对隐私保护至关重要，强调该领域下一步关键是支持无许可账户创建和元数据隐私，并称Session和SimpleX正在推进这些方向。他向两者各捐赠128ETH，同时指出去中心化、元数据保护、多设备支持和Sybil/DoS抵抗等仍是难题，需要更多开发者投入改进这类隐私通讯工具。
+- [德意志银行预测：金价2026年逼近5000美元，2027年将再破历史性关口](https://xnews.jin10.com/details/201199) - 📰 null - 【德意志银行预测：金价2026年逼近5000美元，2027年将再破历史性关口】金色财经报道，德意志银行预测，金价可能在2026年逼近每盎司5000美元，并在2027年突破这一关键心理关口。 
+该行分析师迈克尔·薛（Michael Hsueh）指出，在市场完成仓位出清后，各国央行的购金需求将持续存在，加之交易所交易基金（ETF）重新入场，预计2026年金价有望攀升至每盎司4950美元的高位。 
+在周三发布的报告中，迈克尔已将明年黄金均价预测从每盎司4000美元上调至4450美元。对于2027年，他给出了每盎司5150美元的预期目标。 
+尽管金价一度从10月峰值回落约10%，但目前已收复半数失地。这位分析师观察到，“黄金正在打破历史规律”——2025年的价格波动幅度创下1980年以来最高水平。当时市场对通胀、法币贬值和全球债务螺旋上升的持续担忧，曾推动金价屡创新高。 
+他特别强调，本轮金价的卓越表现并非单纯源于美元贬值，因而更显难得。
+- [金色晨讯 | 11月27日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 11月27日隔夜重要动态一览】21:00-7:00关键词：Vitalik、Zcash ETF、Securitize、Dunamu 
+1.灰度向SEC提交Zcash ETF的S-3申请文件； 
+2.小摩预计美联储12月降息 推翻其一周前的预测； 
+3.Securitize获欧盟批准开展代币化交易与结算系统； 
+4.Vitalik回应“是否计划经济”：Gas使用仍由市场决定； 
+5.Naver同意以约103亿美元收购Upbit母公司Dunamu； 
+6.Vitalik提出以太坊未来将实施有针对性的gas调整策略； 
+7.Tether CEO回应标普评级：S&P传统模型失效，Tether资本充足。
+- [美SEC修订后的2025年计划拟以更清晰规则简化加密监管](https://x.com/Cointelegraph/status/1993817305705275769) - 📰 null - 【美SEC修订后的2025年计划拟以更清晰规则简化加密监管】金色财经报道，美国证券交易委员会 (SEC) 修订后的 2025 年计划提出了更清晰的规则、更安全的市场惯例和更强有力的监管，有意构建一个更加灵活、结构化的框架，以适应数字资产的发展。该计划的成功取决于各机构间的协调以及监管机构之间的国际合作。该计划可能导致豁免、安全港条款、分布式账本技术（DLT）专属的过户代理规则以及加密货币市场结构的修订。这些措施有助于将数字资产融入传统市场基础设施。
+- [汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利](https://flash.jin10.com/detail/20251127064701943800) - 📰 null - 【汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利】金色财经报道，汇丰银行发布分析报告称，预计OpenAI至少在2030年前难以实现盈利，并警告这家明星AI企业需要额外2070亿美元资金来支撑其快速扩张的算力规模。尽管该行分析师预测OpenAI年度营收有望在2030年前突破2130亿美元，但他们指出其基础设施投入需求将远超现金创造能力。汇丰银行估算，到2033年OpenAI的算力建设支出可能飙升至1.4万亿美元。该报告指出，从现在到2030年间，OpenAI预计将产生约7920亿美元的云服务与AI基础设施成本，其中仅数据中心租赁费用就高达约6200亿美元。汇丰研究团队表示，OpenAI的增长轨迹正面临“基础设施成本飙升”、“竞争白热化”以及“超越科技史所有趋势的资本密集度”三重挑战。
+- [纽约联储：无需许可区块链在支付可及性方面表现更优](https://www.ledgerinsights.com/ny-fed-permissionless-blockchains-win-on-payment-accessibility/) - 📰 null - 【纽约联储：无需许可区块链在支付可及性方面表现更优】金色财经报道，纽约联邦储备银行的分析指出，尽管功能类似，但无需许可的区块链在支付便捷性方面具有中心化即时支付系统无法比拟的优势。这一结论是在2025年7月通过的《GENIUS法案》之后得出的，该法案为稳定币的监管提供了明确的指导。
+- [Xapo向更广泛的用户群体开放其比特币借贷产品](https://www.theblock.co/post/380636/xapo-bank-expands-bitcoin-credit-fund-develops-suite-of-btc-wealth-products) - 📰 null - 【Xapo向更广泛的用户群体开放其比特币借贷产品】金色财经报道，Xapo Bank 正向更广泛的用户群体开放其比特币借贷产品。该公司表示，Xapo比特币信贷基金在初期阶段已吸引了1亿美元的成员认购资金。根据周三发布的一份声明，Xapo Byzantine BTC Credit Fund 于 2024 年首次推出，是通过与 Hilbert Group 的战略合作实现的，Hilbert Group 担任该产品的独立投资管理人。
+- [富兰克林邓普顿：多元化的加密组合ETF将是下一个热门趋势](https://www.theblock.co/post/380622/post-xrp-etf-launch-franklin-templeton-sees-diversified-crypto-portfolios-as-the-next-big-thing) - 📰 null - 【富兰克林邓普顿：多元化的加密组合ETF将是下一个热门趋势】金色财经报道，富兰克林邓普顿数字资产主管预计，继这波单一资产 ETF 之后，一系列多元化的加密货币投资组合 ETF 也将涌现，该公司本周推出了XRP ETF。彭博社预测，未来六个月将有超过100只新的加密货币ETF推出。
