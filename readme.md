@@ -1,29 +1,41 @@
-- [Wormhole基金会已购入500万美元W代币，计入其资产负债表](https://x.com/wormhole/status/1994088962982596622) - 📰 null - 【Wormhole基金会已购入500万美元W代币，计入其资产负债表】金色财经报道，Wormhole 基金会已购入 500 万美元的 W 代币，计入其资产负债表。
-- [某新建钱包向HyperLiquid存入250万枚USDC，并以10倍杠杆做空HYPE]() - 📰 null - 【某新建钱包向HyperLiquid存入250万枚USDC，并以10倍杠杆做空HYPE】金色财经报道，据 Onchain Lens 监测，某新建钱包向 HyperLiquid 存入 250 万枚 USDC，并以 10 倍杠杆开立 HYPE 空头头寸。该鲸鱼还挂单进一步增持空单。
-- [Hyperliquid上盈利超1060万美元巨鲸以3倍杠杆做空1000枚BTC](https://x.com/lookonchain/status/1994078808073490898) - 📰 null - 【Hyperliquid上盈利超1060万美元巨鲸以3倍杠杆做空1000枚BTC】金色财经报道，据 Lookonchain 监测，Hyperliquid 上盈利超过 1,060 万美元的巨鲸地址 0x0ddf9，以 3 倍杠杆开设了 1,000 枚 BTC（约 9,100 万美元）空单，均价 89,765.6 美元。 
-此外，新建地址 0x2c26 以 20 倍杠杆开设了 563.68 枚 BTC（约 5,140 万美元）多单，均价 90,278.7 美元。
-- [VanEck今日再次质押12,600枚ETH](https://x.com/lookonchain/status/1994074881689026774) - 📰 null - 【VanEck今日再次质押12,600枚ETH】金色财经报道，据 Lookonchain 监测，VanEck 今日再次质押 12,600 枚 ETH（约 3790 万美元）。
-- [DWF Labs联创：如今的DAT就像2017年末的ICO](https://x.com/ag_dwf/status/1994063136945561657) - 📰 null - 【DWF Labs联创：如今的DAT就像2017年末的ICO】金色财经报道， DWF Labs联创 Andrei Grachev 在 X 平台发文表示，如今的 DAT 就像 2017 年末的 ICO。
-- [Polymarket上预测“比特币今年再次涨至10万美元”概率升至50%]() - 📰 null - 【Polymarket上预测“比特币今年再次涨至10万美元”概率升至50%】金色财经报道，Polymarket 上预测“比特币今年再次涨至 10 万美元”概率升至 50%。此外，预测其再次涨至 11 万美元概率暂报 18%，跌破 8 万美元暂报 37%。
-- [机构：美元可能在2026年因美联储的降息而下跌](https://flash.jin10.com/detail/20251127233316773800) - 📰 null - 【机构：美元可能在2026年因美联储的降息而下跌】金色财经报道，Pictet Asset Management策略师Luca Paolini表示，随着经济增长放缓为美联储进一步降息铺平道路，美元明年将面临新一轮疲软。他指出，美元的利率差正在显著收窄。“我们预计美国经济会变得稍微疲软，这将使通胀压力慢慢消失。”相对而言，世界其他地区的经济增长可能会改善，尤其是欧洲和日本。除此之外，美元估值仍显偏高。Pictet预计，到2026年底，美元指数将从目前的99.55附近跌至95。
-- [观点：比特币在感恩节期间成交量低、波动性高，并非是结构性趋势信号](https://x.com/swissblock__/status/1994043542260322460) - 📰 null - 【观点：比特币在感恩节期间成交量低、波动性高，并非是结构性趋势信号】金色财经报道，财富管理公司 Swissblock 发文表示，比特币在感恩节期间成交量低、波动性高，是战术性操作的好机会，而非结构性趋势。当宏观流动性和资金流仍然疲软时，应将这些波动视为“噪音”，而非市场信号。
-- [Uniswap“UNIfication”提案以压倒性优势通过初步投票，启动1550万美元漏洞赏金计划](https://www.theblock.co/post/380704/uniswap-unification-proposal-clears-temp-check-bounty-phase) - 📰 null - 【Uniswap“UNIfication”提案以压倒性优势通过初步投票，启动1550万美元漏洞赏金计划】金色财经报道，Uniswap的“UNIfication”治理提案已在初步Snapshot投票中获得超过6300万UNI代币支持，几乎无人反对。该提案旨在将Uniswap Labs和Uniswap Foundation统一在协调的治理框架下，同时激活协议级费用机制。目前，一项价值1550万美元的Cantina漏洞赏金计划已经启动，覆盖新的费用切换智能合约，为预计下周进行的完整链上投票做准备。
-- [Solana ETF今日净流入达238,037枚SOL]() - 📰 null - 【Solana ETF今日净流入达238,037枚SOL】金色财经报道，据Lookonchain数据，11月27日加密ETF资金流向显示：比特币ETF单日净流出25枚BTC（约230万美元），过去7日累计流出达7,233枚（约6.56亿美元）；以太坊ETF当日净流入11,484枚ETH（约3434万美元），但一周仍净流出1,917枚；Solana ETF表现最强，单日净流入达238,037枚SOL，约合3356万美元，成为当日主力增仓对象。
-- [Binance将向香港捐款1000万港币支持宏福苑火灾救援重建](https://x.com/binancezh/status/1994050872045666614?s=20) - 📰 null - 【Binance将向香港捐款1000万港币支持宏福苑火灾救援重建】金色财经报道，据官方消息，Binance将向香港捐款1000万港币支持宏福苑火灾救援重建。为切实协助救灾及后续重建工作，Binance将通过相关渠道向灾区进行捐赠，支持宏福苑居民重建家园。币安表示将通过相关渠道落实捐助，并向受灾民众致以慰问。
-- [前 100 家上市公司共持有 1,058,581 枚 BTC](https://x.com/BTCtreasuries/status/1994051124983185748) - 📰 null - 【前 100 家上市公司共持有 1,058,581 枚 BTC】金色财经报道，据 BitcoinTreasuries.NET 监测，截至 2025 年，前 100 家上市公司共计持有 1,058,581 枚 BTC。在过去 7 天内，有 9 家公司增持了 BTC，1 家公司减持了 BTC。
-- [网络安全公司Socket：恶意Chrome扩展程序暗中窃取Solana交易资金](https://cointelegraph.com/news/malicious-solana-chrome-extension-skims-sol-rather-than-emptying-the-wallet) - 📰 null - 【网络安全公司Socket：恶意Chrome扩展程序暗中窃取Solana交易资金】金色财经报道，网络安全公司Socket发现一款名为"Crypto Copilot"的恶意Chrome扩展程序正在暗中从用户的Solana交易中窃取资金。该扩展程序允许用户直接从X社交媒体平台进行Solana交易，但会在每笔交易中注入额外指令，抽取至少0.0013 SOL或交易额的0.05%。 
-与典型的钱包清空恶意软件不同，Crypto Copilot使用Raydium去中心化交易所执行交易，同时添加第二条指令将SOL转移到攻击者钱包，而用户界面仅显示交易概要，隐藏了单独的操作指令。
-- [Infinex将推出Sonar代币销售，目标筹资1500万美元](https://www.theblock.co/post/380545/kain-warwicks-infinex-builds-on-67-7m-patron-nft-round-with-sonar-sale-ahead-of-inxs-2026-tge) - 📰 null - 【Infinex将推出Sonar代币销售，目标筹资1500万美元】金色财经报道，Infinex宣布将开启Sonar代币销售，计划在2026年1月INX代币生成事件(TGE)前分发5%的代币供应，目标筹资1500万美元，完全稀释估值为3亿美元。 
-此次销售建立在去年成功筹集6770万美元的Patron NFT销售基础上，旨在扩大代币持有者范围。销售分为两条路径：Patron NFT持有者可根据持有量获得最高50万美元的分配额度，非持有者则通过彩票机制参与，上限为每人5000美元。
-- [DeepSeek推出DeepSeekMath‑V2模型]() - 📰 null - 【DeepSeek推出DeepSeekMath‑V2模型】金色财经报道，DeepSeek推出新型数学推理模型DeepSeekMath-V2，采用可自我验证的训练框架。该模型基于DeepSeek-V3.2-Exp-Base构建，通过LLM验证器自动审查生成的数学证明，并利用高难度样本持续优化性能。（证券时报）
-- [CZ：长期来看BNB价格和生态建设成正比](https://x.com/cz_binance/status/1994039126245671402) - 📰 null - 【CZ：长期来看BNB价格和生态建设成正比】金色财经报道，CZ 在评论 BNB 价格与生态之间关系的帖子时表示，短期内价格与生态建设并非总是成正比，但长期来看却确实如此。
-- [Visa与Aquanow合作扩大CEMEA地区稳定币结算业务](https://cointelegraph.com/news/visa-doubles-down-on-stablecoins-in-europe-middle-east-and-africa-with-new-partnership) - 📰 null - 【Visa与Aquanow合作扩大CEMEA地区稳定币结算业务】金色财经报道，据Cointelegraph报道，Visa宣布与加密基础设施公司Aquanow建立新合作伙伴关系，将在中东欧、中东和非洲(CEMEA)地区扩大稳定币结算业务。该合作将利用USDC等获批准的稳定币进行交易结算，旨在降低跨境支付成本、减少操作摩擦并缩短结算时间。Visa CEMEA地区产品和解决方案负责人Godfrey Sullivan表示，此举将使该地区机构"体验更快速、更简便的结算"，并减少对传统多中介系统的依赖。
-- [Binance理财、一键买币、闪兑、杠杆上线APRO（AT）]() - 📰 null - 【Binance理财、一键买币、闪兑、杠杆上线APRO（AT）】金色财经报道，据官方消息，Binance 理财、一键买币、闪兑、杠杆上线 APRO（AT）。
-- [某巨鲸累计买入超14万枚HYPE，约 491 万美元]() - 📰 null - 【某巨鲸累计买入超14万枚HYPE，约 491 万美元】金色财经报道，据链上分析师 The Data Nerd 监测，巨鲸 gtrove_hl 开仓 TWAT 策略，累计买入 141,000 枚 HYPE 代币，总价值约 491 万美元。
-- [金色晚报 | 11月27日晚间重要动态一览]() - 📰 null - 【金色晚报 | 11月27日晚间重要动态一览】12:00-21:00关键词：Do Kwon、Upbit、Ark Invest 
-1.Solana ETF 结束连续 22 日净流入 
-2.Do Kwon请求美国法院判处不超过五年监禁 
-3.韩国Upbit交易所修正被盗金额为445亿韩元 
-4.Ark Invest：流动性正在恢复 可能为年底市场反弹奠定基础 
-5.加州公务员退休基金持仓价值约8000万美元的Strategy股票 
-6.Naver和Upbit母公司Dunamu将共同投资68亿美元于AI和区块链领域
+- [Bitmine再度买入14,618枚以太坊，价值4434万美元](https://x.com/OnchainLens/status/1994213922694656021) - 📰 null - 【Bitmine再度买入14,618枚以太坊，价值4434万美元】金色财经报道，据Onchain Lens监测，Bitmine从BitGo购入14,618枚ETH，价值4434万美元。
+- [摩根大通：看好中国股市，将A股评级上调至“超配”]() - 📰 null - 【摩根大通：看好中国股市，将A股评级上调至“超配”】金色财经报道，摩根大通：看好中国股市，将A股评级上调至“超配”。(金十)
+- [SOL跌破140美元]() - 📰 null - 【SOL跌破140美元】金色财经报道，行情显示，SOL跌破140美元，现报139.95美元，24小时跌幅达到2.24%，行情波动较大，请做好风险控制。
+- [BTC跌破91000美元]() - 📰 null - 【BTC跌破91000美元】金色财经报道，行情显示，BTC跌破91000美元，现报90970.24美元，24小时涨幅达到0.19%，行情波动较大，请做好风险控制。
+- [ETH跌破3000美元]() - 📰 null - 【ETH跌破3000美元】金色财经报道，行情显示，ETH跌破3000美元，现报2999.5美元，24小时跌幅达到1.46%，行情波动较大，请做好风险控制。
+- [Alliance DAO联创：很难说服自己长期持有L1代币，因为没有“护城河”](https://x.com/QwQiao/status/1994150717784035410) - 📰 null - 【Alliance DAO联创：很难说服自己长期持有L1代币，因为没有“护城河”】11月28日消息，Alliance DAO联合创始人Qw Qiao在社交媒体发文表示，“我之所以难以说服自己长期持有L1公链代币，并不是因为它们的市盈率(P/E)很高，而是因为它们没有护城河。缺乏护城河，它们就会被商品化，无法捕获有意义的价值。 
+如今用户可以很轻易地跨链转移。除了少数复杂智能合约外，大多数应用开发者也能快速从一条链迁移到另一条链。而且现在启动一条新链比以往任何时候都容易。区块链的切换成本远不及AWS之类的基础设施。 
+我目前能看到的链强化自身护城河的唯一方式，就是垂直化并掌控应用层。我的观察是，Solana、Base和Hyperliquid等链已经得出这个结论，并正在积极推进。当然，像Tempo这样的新兴企业级链也同样如此。 
+相信加密行业的指数级增长几乎是毫无疑问的，但对这一观点最好的表达方式，是押注应用层。”
+- [俄罗斯立法者提议为使用非法进口设备的加密矿工实施特赦政策](https://www.cryptopolitan.com/amnesty-for-crypto-miners-proposed-in-russia/) - 📰 null - 【俄罗斯立法者提议为使用非法进口设备的加密矿工实施特赦政策】金色财经报道，俄罗斯国家杜马加密法规工作组成员OlegOgienko在近日举行的Digital Almaz论坛上提议，应为使用非法进口设备的加密货币矿工实施特赦政策，以将这批占全国矿工总数60%的地下从业者转为合法经营。 
+Ogienko指出，尽管俄罗斯今年已通过立法将挖矿合法化，但缺乏对违规进口设备的特赦条款，阻碍了矿工向联邦税务局登记。目前全国仅约150家矿场和1300个挖矿实体完成注册，西伯利亚等电力充裕地区因矿场过度集中已出现供电紧张，十余个地区今年相继颁布挖矿禁令。 
+俄罗斯执法部门与电力公司正联合开展全国范围突击检查，利用技术手段定位非法矿场。此次特赦建议旨在将地下矿工纳入监管体系，缓解执法压力并增加税收。
+- [OKX向香港捐款1000万港币，支持紧急救援与恢复工作](https://x.com/okx/status/1994083397699039491?s=20) - 📰 null - 【OKX向香港捐款1000万港币，支持紧急救援与恢复工作】据官方消息，OKX表示向香港捐款1,000万港币，用于支持当地紧急救援和灾后恢复相关工作。
+- [随着加密货币欺诈蔓延，国际刑警组织将诈骗窝点网络提升为全球威胁](https://decrypt.co/350295/interpol-scam-compound-network-global-threat-crypto-fraud) - 📰 null - 【随着加密货币欺诈蔓延，国际刑警组织将诈骗窝点网络提升为全球威胁】金色财经报道，据Decrypt报道，国际刑警组织本周在马拉喀什举行的全体大会上通过了一项决议，正式认定与加密货币相关的欺诈行为已成为庞大诈骗产业的核心，并将该网络列为跨国犯罪威胁，目前全球执法机构正加强对其资金流动的协调管控。 
+这些犯罪网络依靠人口贩运、网络诈骗和强迫劳动等手段作案，受害者来自六十多个国家。犯罪分子常以海外高薪工作为诱饵，将受害者骗至非法场所，强迫他们从事语音钓鱼、爱情骗局、投资诈骗和加密货币诈骗等非法活动。诈骗团伙利用虚假工作机会招募受害者，将其运至非法场所后强迫实施犯罪。他们运用先进技术“欺骗受害者、掩盖犯罪行径”，且这些跨境犯罪网络具有“高度适应性”。
+- [127.5枚BTC从匿名地址转出，经中转后流入Bitstamp](https://intel.arkm.com/explorer/token/bitcoin) - 📰 null - 【127.5枚BTC从匿名地址转出，经中转后流入Bitstamp】金色财经报道，据Arkham数据，在08:11，127.5枚BTC（价值约1163万美元）从一匿名地址（bc1qfyrf...开头）转出至多个地址，其中包括一匿名地址（3G5EsqY...开头）和Bitstamp。随后，Bitstamp收到25枚BTC。
+- [加密矿企Bitfury斥资1200万美元战略投资去中心化AI算力网络Gonka AI](https://www.forbes.ru/tekhnologii/550815-bitfury-vstupaet-v-gonka-kompania-vlozila-12-mln-v-proekt-brat-ev-libermanov) - 📰 null - 【加密矿企Bitfury斥资1200万美元战略投资去中心化AI算力网络Gonka AI】金色财经报道，全球头部加密矿企Bitfury集团近日完成对去中心化AI计算网络Gonka.ai的1200万美元战略投资，以0.6美元/枚的价格认购2000万枚GNK代币。Gonka.ai由连续创业者利伯曼兄弟创立，旨在构建基于区块链的分布式GPU算力市场。此次投资是Bitfury设立10亿美元伦理AI基金后的首笔公开投资，预示传统矿企正系统性布局去中心化AI基础设施赛道。 
+据此前报道，Gonka曾于2023 年完成 1800 万美元融资，投资方包括 OpenAI 投资方 Coatue Management、Solana 投资方 Slow Ventures、K5、Insight 与 Benchmark 的多位合伙人等。早期建设者还包括 6 Block、Hard Yaka、Gcore、Hyperfusion等多家行业知名机构。
+- [某循环贷巨鲸持续减仓350枚WBTC，亏损1016万美元](https://x.com/EmberCN/status/1994196512457601183) - 📰 null - 【某循环贷巨鲸持续减仓350枚WBTC，亏损1016万美元】金色财经报道，据余烬监测，某个以循环贷方式高位囤积WBTC及ETH的巨鲸在割肉清仓18,517枚ETH亏损2529万美元后，正陆续减仓WBTC。过去一周时间内，其以87,732美元的均价割肉卖出350枚WBTC兑换为3070万枚USDT，成本均价116,762美元，割肉部分WBTC亏损1016万美元。该巨鲸仍持有的1210枚WBTC则浮亏3090万美元。
+- [今日恐慌与贪婪指数升至25，等级仍为极度恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至25，等级仍为极度恐慌】金色财经报道，今日恐慌与贪婪指数升至25（昨日为22），等级仍为极度恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [Bonk与Bitcoin Capital合作在欧洲推出ETP](https://decrypt.co/350215/bonk-teams-up-with-bitcoin-capital-to-launch-etp-in-europe) - 📰 null - 【Bonk与Bitcoin Capital合作在欧洲推出ETP】金色财经报道，由Bitcoin Capital发行的BonkETP已在瑞士SIX证券交易所开始交易。该产品允许零售和机构投资者通过标准券商平台投资基于Solana的迷因币BONK。 
+根据CoinGecko数据，BONK目前是市值排名第七大的迷因币。
+- [特朗普：股市将继续创新高]() - 📰 null - 【特朗普：股市将继续创新高】金色财经报道，美国总统特朗普表示，股市将继续创新高。我们可能会因为关税收入而几乎完全取消所得税。(金十)
+- [英国提出对DeFi采用“无收益则无税负”税收规则](https://www.coindesk.com/policy/2025/11/27/uk-proposes-no-gain-no-loss-tax-rule-for-defi-in-major-win-for-users) - 📰 null - 【英国提出对DeFi采用“无收益则无税负”税收规则】金色财经报道，英国政府针对加密货币借贷及流动性池安排，提出 “无收益则无税负”（No Gain, No Loss）税收方案，将资本利得税的缴纳时点推迟至实现真实经济处置时。 
+该提案得到业内主要机构支持，旨在使税收规则与DeFi实际运作机制保持一致，减轻用户的行政负担，避免出现与经济实质不符的税务结果。 
+英国政府将继续与业内各方磋商以完善规则，最终方案可能排除代币化现实世界资产（RWAs）及传统证券，并可能要求用户对大额交易进行申报。
+- [Amundi在以太坊推出其用于欧元货币市场基金的代币化份额类别](https://cointelegraph.com/news/amundi-tokenized-euro-money-market-fund-ethereum) - 📰 null - 【Amundi在以太坊推出其用于欧元货币市场基金的代币化份额类别】金色财经报道，欧洲最大的资产管理公司Amundi推出了其首个用于欧元货币市场基金的代币化份额类别。该基金现在以混合结构提供，允许投资者在传统版本和基于区块链的新版本之间进行选择。 
+首笔交易已于11月4日在以太坊网络上记录。此次产品推出是与欧洲资产服务集团CACEIS合作完成的，该集团提供了代币化基础设施、投资者钱包以及用于处理申购与赎回的数字化订单系统。 
+据两家公司表示，将基金代币化能简化订单处理流程、拓宽新的投资者渠道，并实现24/7全天候交易。
+- [Bitwise更新其现货Avalanche ETF的申请文件，拟加入质押功能](https://www.coindesk.com/business/2025/11/27/avalanche-etf-race-heats-up-as-bitwise-becomes-first-to-add-staking) - 📰 null - 【Bitwise更新其现货Avalanche ETF的申请文件，拟加入质押功能】金色财经报道，Bitwise向美国证券交易委员会（SEC）更新了其现货Avalanche ETF的申请文件，这一修订将Avalanche ETF的代码变更为BAVA，并将赞助费费率设定为0.34%，目前在同类产品中最低。相比之下，VanEck的Avalanche ETF费率为0.4%，灰度的则为0.5%。 
+更新版S-1申请文件还表示，将允许该信托在Avalanche的权益证明网络上质押其持有的多达70%的AVAX，以赚取额外的代币。不过发行方考虑将收益产生的12%作为费用扣除，其余部分则分配给股东。由于竞争对手尚未开展质押业务，目前他们的费用仅限于赞助费。 
+Bitwise还针对首批5亿美元资产在第一个月提供全额费用减免，旨在将BAVA定位为传统投资者获取Avalanche敞口和质押收入的成本最低的方式。
+- [数据：Solana 已连续四个月占据代币化股票交易的主导地位，市场份额超 95%]() - 📰 null - 【数据：Solana 已连续四个月占据代币化股票交易的主导地位，市场份额超 95%】金色财经报道，Solana 已连续四个月占据代币化股票交易的主导地位，市场份额超 95%，10 月份峰值达 99%。
+- [金色晨讯 | 11月28日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 11月28日隔夜重要动态一览】21:00-7:00关键词：DAT、Sonar、Wormhole、Uniswap 
+1.美联储12月降息25个基点的概率升至86.9%； 
+2.机构：美元可能在2026年因美联储的降息而下跌； 
+3.DWF Labs联创：如今的DAT就像2017年末的ICO； 
+4.Infinex将推出Sonar代币销售，目标筹资1500万美元； 
+5.Wormhole基金会已购入500万美元W代币，计入其资产负债表； 
+6.网络安全公司Socket：恶意Chrome扩展程序暗中窃取Solana交易资金； 
+7.Uniswap“UNIfication”提案以压倒性优势通过初步投票，启动1550万美元漏洞赏金计划。
