@@ -1,26 +1,39 @@
-- [BTC突破92000美元]() - 📰 null - 【BTC突破92000美元】金色财经报道，行情显示，BTC突破92000美元，现报92011.99美元，24小时涨幅达到7.77%，行情波动较大，请做好风险控制。
-- [美国财长：美国将实现低通胀增长，通胀明年将会持续下去](https://flash.jin10.com/detail/20251203015547669800) - 📰 null - 【美国财长：美国将实现低通胀增长，通胀明年将会持续下去】金色财经报道，美国财长贝森特：美国将实现低通胀增长，通胀明年将会持续下去。
-- [Strategy未来将考虑借出比特币](https://x.com/DeItaone/status/1995904341421552012) - 📰 null - 【Strategy未来将考虑借出比特币】金色财经报道，据市场消息，Strategy未来将考虑借出比特币。
-- [亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势](https://flash.jin10.com/detail/20251203001212473800) - 📰 null - 【亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势】金色财经报道，亚马逊云计算服务宣布公开推出其定制人工智能芯片Trainium3，该公司表示，该芯片的运算速度是上一代人工智能芯片的四倍。与使用同等GPU的系统相比，由AWS旗下Annapurna Labs定制芯片设计业务生产的Trainium3可以将训练和操作人工智能模型的成本降低多达50%。这些芯片旨在为人工智能视频初创公司Decart的联合创始人兼首席执行官迪恩·莱特斯多夫等软件开发人员提供更强大的算力。莱特斯多夫说，在试用了包括英伟达处理器在内的其他几个竞争对手的芯片后，他的公司在Trainium3上取得了突破。推出Trainium3是对主导GPU市场的英伟达发起的最新攻势，越来越多的人工智能公司正在寻求通过从英伟达以外的公司购买芯片和其他硬件来实现供应商的多元化。
-- [Coinbase将上线DASH永续期货交易](https://x.com/CoinbaseMarkets/status/1995900842042380326) - 📰 null - 【Coinbase将上线DASH永续期货交易】金色财经报道，Coinbase宣布将上线DASH永续期货交易，如果流动性条件满足，且在支持交易的地区，DASH-PERP交易将开放。
-- [特朗普重申美联储主席应该降息](https://flash.jin10.com/detail/20251203005821190800) - 📰 null - 【特朗普重申美联储主席应该降息】金色财经报道，美国总统特朗普：美联储主席应该降息。 
-特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。
-- [特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作](https://flash.jin10.com/detail/20251203005722605800) - 📰 null - 【特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作】金色财经报道，美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。
-- [美SEC主席：美国对加密货币的“抵制”已经“太久了”](https://x.com/DegenerateNews/status/1995849599941218726) - 📰 null - 【美SEC主席：美国对加密货币的“抵制”已经“太久了”】金色财经报道，在接受CNBC采访时，美国证券交易委员会（SEC）主席保罗·阿特金斯声称，美国对加密货币的“抵制”已经“太久了”。
-- [UXLINK攻击者2小时前买入702.5枚ETH和38.2枚WBTC](https://x.com/i/web/status/1995886766633709691) - 📰 null - 【UXLINK攻击者2小时前买入702.5枚ETH和38.2枚WBTC】金色财经报道，据 Lookonchain 监测，UXLINK 攻击者（0x521...9309）在 2 小时前以 2847 美元的均价买入 702.5 枚 ETH（价值 200 万美元），并以 88530 美元的均价买入 38.2 枚 WBTC（价值 338 万美元）。
-- [特朗普家族支持的加密矿企American Bitcoin股价在30分钟内“腰斩”](https://www.bloomberg.com/news/articles/2025-12-02/trump-family-linked-american-bitcoin-sinks-on-crypto-downturn?taid=692f0da81378850001764dba&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter) - 📰 null - 【特朗普家族支持的加密矿企American Bitcoin股价在30分钟内“腰斩”】金色财经报道，据彭博社，过去一个月比特币价格的急剧回调，正在对加密货币市场的投机板块产生影响。 
-最新的受害者是 American Bitcoin Corp（ABTC）。由特朗普次子 Eric Trump 共同创立的这家加密矿企的股价在周二不到 30 分钟内就蒸发了超过一半，尽管交易因剧烈波动多次被暂停。该股一度下跌多达 51%。 
-据行情数据，American Bitcoin 股价现报 2.07 美元，跌幅达 42.18%。
-- [波兰总统否决《加密资产市场法》，称该法案篇幅远超欧盟MiCA规定](https://financefeeds.com/polish-president-blocks-strict-crypto-act-sparking-government-backlash/) - 📰 null - 【波兰总统否决《加密资产市场法》，称该法案篇幅远超欧盟MiCA规定】金色财经报道，波兰总统 Karol Nawrocki 已否决旨在为该国加密行业引入严格规则的《加密资产市场法》（Crypto-Asset Market Act）提案。总统办公室于周一发表声明确认，他不会签署该法案。Karol Nawrocki 总统拒绝该法案的理由是其“真正威胁到波兰人的自由、财产和国家稳定”，并指出该法案的篇幅（超过 100 页）远超欧盟 MiCA 规定的要求。
-- [Uniswap与欧洲金融应用Revolut达成合作](https://blog.uniswap.org/revolut-onramp-now-live) - 📰 null - 【Uniswap与欧洲金融应用Revolut达成合作】金色财经报道，Uniswap Labs 宣布与欧洲金融应用 Revolut 达成合作，为 Uniswap 网页应用和钱包用户提供加密货币购买服务。 
-用户现可直接在 Uniswap 应用内使用 Revolut 余额或借记卡购买加密货币，享受快速无缝的入金体验。该合作将服务扩展至 28 个国家的用户。
-- [BTC突破91000美元]() - 📰 null - 【BTC突破91000美元】金色财经报道，行情显示，BTC突破91000美元，现报91080.99美元，24小时涨幅达到7.77%，行情波动较大，请做好风险控制。
-- [ETH突破3000美元]() - 📰 null - 【ETH突破3000美元】金色财经报道，行情显示，ETH突破3000美元，现报3005.55美元，24小时涨幅达到10.12%，行情波动较大，请做好风险控制。
-- [美元指数DXY短线回落十余点，现报99.38]() - 📰 null - 【美元指数DXY短线回落十余点，现报99.38】金色财经报道，美元指数DXY短线回落十余点，现报99.38。
-- [Tether新增铸造10亿枚USDT](https://whale-alert.io/transaction/tron/3dad33c71f455a23ad8cc71131caa089188f77cf67ab343f9148107a67b80724) - 📰 null - 【Tether新增铸造10亿枚USDT】金色财经报道，据 Whale Alert 监测，北京时间今日 23:34，Tether Treasury 在 Tron 网络新增铸造 10 亿枚 USDT。
-- [美国证交会拟放宽小型企业上市规则以提振IPO市场](https://flash.jin10.com/detail/20251202231650397800) - 📰 null - 【美国证交会拟放宽小型企业上市规则以提振IPO市场】金色财经报道，美国证交会正计划通过削减强制性披露要求，并根据企业规模缩减合规标准，为小型公司上市提供便利。美国证交会主席保罗·阿特金斯在为周二纽约证券交易所活动准备的讲话中表示，此举可能增加IPO储备，重振上市公司阵容。修订内容包括为企业提供至少两年（而非仅一年）的“过渡期”，逐步满足上市规则要求，例如分阶段向投资者披露信息及提交其他报告。该机构还将重新审定小型企业的界定标准以减轻其负担。阿特金斯指出，上一次大规模调整企业规模界定标准已是二十年前，并感叹当前上市公司数量比三十年前减少约一半。“我们的监管框架应为所有成长阶段、所有行业的公司提供IPO机会，”他表示，并指出合规成本“可能对部分公司造成不成比例的影响”。
-- [比特币在Vanguard解除比特币ETF禁令后首日，美股开盘时上涨6%](https://x.com/EricBalchunas/status/1995877852105904434) - 📰 null - 【比特币在Vanguard解除比特币ETF禁令后首日，美股开盘时上涨6%】金色财经报道，彭博 ETF 分析师 Eric Balchunas 在 X 平台发文表示，在 Vanguard 解除比特币 ETF 禁令后的首个交易日，比特币于美股开盘时上涨 6%。此外，IBIT 在开盘 30 分钟内交易量达 10 亿美元。 
-其表示：“我就知道先锋集团的人骨子里有点儿冒险精神，即使是最保守的投资者也喜欢在投资组合里加点儿刺激。”
-- [九连胜交易员首尝败绩，平仓亏损超178万美元空单](https://x.com/lookonchain/status/1995875087103525206) - 📰 null - 【九连胜交易员首尝败绩，平仓亏损超178万美元空单】金色财经报道，据 Lookonchian 监测，连续 9 笔盈利的交易员刚刚止损，以超过 178 万美元的亏损平仓 40 倍杠杆 500 枚 BTC 空单。 
-其在连续 9 笔获胜交易中累计盈利 212 万美元，但本次做空单笔交易就亏损超过 178 万美元，几乎抹去了之前的大部分收益。
-- [美国货币市场资产规模首次突破8万亿美元](https://flash.jin10.com/detail/20251202231946668800) - 📰 null - 【美国货币市场资产规模首次突破8万亿美元】金色财经报道，Crane Data数据显示，美国货币市场资产规模首次突破8万亿美元。
+- [pump.fun 2小时前继续将7500万枚USDC存入Kraken](https://x.com/EmberCN/status/1996025767931904200) - 📰 null - 【pump.fun 2小时前继续将7500万枚USDC存入Kraken】金色财经报道，据链上分析师余烬监测，pump.fun在2小时前继续把7500万枚USDC转进了Kraken，他们从11/15以来在半个月时间一共向Kraken转移了5.55亿枚ICO销售获得的USDC。
+- [Taurus与Everstake合作为银行和机构提供加密质押服务](https://www.theblock.co/post/381119/taurus-everstake-expand-crypto-staking-options-banks-institutions?utm_source=twitter&utm_medium=social) - 📰 null - 【Taurus与Everstake合作为银行和机构提供加密质押服务】金色财经报道，瑞士加密托管公司Taurus宣布与非托管质押服务提供商Everstake建立合作伙伴关系，将后者的验证节点基础设施整合到Taurus-PROTECT平台，为全球20多家银行和受监管客户提供新的质押网络服务。该合作初期将支持Solana、NEAR、Cardano和Tezos质押，但暂不包括以太坊。Everstake目前在80多个网络上运行验证节点，支持约70亿美元的质押资产。 
+双方表示，此次合作旨在简化银行的合规质押流程，客户可在保持资产直接控制权的同时进行质押。Taurus于10月在纽约开设首个美国办事处，此前在2023年获得由瑞士信贷领投的6500万美元B轮融资，以加速其业务扩张。
+- [Anthropic启动IPO筹备工作 最早或于2026年上市]() - 📰 null - 【Anthropic启动IPO筹备工作 最早或于2026年上市】金色财经报道，人工智能初创公司Anthropic已聘请律师事务所Wilson Sonsini，开始筹备有史以来规模最大的IPO之一，最早或于2026年进行。据知情人士透露，该公司正在就一轮私人融资进行谈判，估值将超过3000亿美元。据多位人士透露，该公司也已与多家大型投行讨论了潜在的IPO计划。不过，相关讨论仍处于初步和非正式阶段，该公司尚未接近选定IPO承销商。Anthropic发言人表示：“对于我们这样规模和收入水平的公司来说，像上市公司一样有效地运营是相当标准的做法。”“我们还没有就何时上市甚至是否上市做出任何决定，目前也没有任何消息要分享。”(金十)
+- [比特币市值超越Broadcom，全球资产市值排名升至第8位](https://x.com/Cointelegraph/status/1996014051608887452) - 📰 null - 【比特币市值超越Broadcom，全球资产市值排名升至第8位】金色财经报道，据8market数据显示，比特币市值超越Broadcom，达到1.829万亿美元，全球资产市值排名升至第8位。
+- [疑似Ethena关联巨鲸从Bybit接收4679万枚ENA，累计持仓超4.5亿枚](https://x.com/OnchainLens/status/1996016550315524118) - 📰 null - 【疑似Ethena关联巨鲸从Bybit接收4679万枚ENA，累计持仓超4.5亿枚】金色财经报道，据Onchain Lens监测，疑似与Ethena Labs关联的巨鲸近日从Bybit接收4679万枚ENA，按当前价格约1278万美元。 
+其中2179万枚ENA（约523万美元）来自该主体3个半月前从Coinbase提取的资金。目前该巨鲸累计持有约4.5194亿枚ENA，按市值估算约1.218亿美元。
+- [WLFI储备公司Alt5 Sigma因未提交季报被纳斯达克列为未合规公司](https://www.forbes.com/sites/zacheverson/2025/12/02/nasdaq-tells-trump-crypto-partner-alt5-sigma-it-no-longer-meets-listing-requirements-after-missed-report/) - 📰 null - 【WLFI储备公司Alt5 Sigma因未提交季报被纳斯达克列为未合规公司】金色财经报道，纳斯达克已正式通知Alt5 Sigma——特朗普家族World Liberty Financial加密货币项目的合作伙伴，该公司因未能提交2025年第三季度财务报告而"不再满足持续上市要求"，被列入未合规公司名单。根据纳斯达克规定，Alt5 Sigma需在2026年1月20日前提交重新达标计划，若获批准可获最多180天的延期。 
+该公司表示此通知"在预料之中"，目前不会立即影响其股票在纳斯达克的上市或交易状态。Alt5 Sigma曾于今年8月与World Liberty Financial达成15亿美元的加密货币合作，为特朗普关联实体带来超过5亿美元收益。公司延迟提交报告的原因涉及审计师变更、公司治理问题以及前首席财务官的个人破产等多项因素。
+- [Aave DAO考虑收缩 “多链战略”，逐步停用 zkSync、Metis 及 Soneium 实例](https://www.theblock.co/post/381157/aave-dao-multichain-strategy-deprecating-zksync-metis-soneium?utm_source=twitter&utm_medium=social) - 📰 null - 【Aave DAO考虑收缩 “多链战略”，逐步停用 zkSync、Metis 及 Soneium 实例】金色财经报道，“Aave 目前维持着多个 V3 实例，每个实例均产生运营成本并存在风险敞口。据认为，其中多个实例产生的收入不足以抵消其带来的成本与风险，”Aave Chan 计划（Aave Chan Initiative）的一名代表于 11 月下旬在 “临时意见征询”（Temp Check）中表示。 
+尽管这尚未进入正式治理流程，但这场热烈的讨论可能预示着这家最大的去中心化借贷协议将出现战略转向 —— 该协议在历史上对新区块链的部署一直秉持 “最大化覆盖” 理念。 
+Aave 于 2018 年推出，是目前全球规模最大的去中心化借贷协议。根据 The Block 的数据，其在以太坊网络上的未偿债务占比超 81%。 
+该项目目前已在至少 18 条区块链上部署，包括众多以太坊 Layer 2 网络，以及 Aptos、Sonic 等另类 Layer 1 网络。如今，作为 Aave DAO 的主要代表平台，Aave Chan 计划（ACI）似乎有意收缩部分此类扩张，并为未来的部署设定更严格的要求。
+- [SBF赞扬特朗普决定赦免前洪都拉斯总统，并公开寻求自身获赦](https://www.theblock.co/post/381133/former-ftx-sam-bankman-fried-praises-trump-pardon-ex-honduran-president-seeks-clemency?utm_source=twitter&utm_medium=social) - 📰 null - 【SBF赞扬特朗普决定赦免前洪都拉斯总统，并公开寻求自身获赦】金色财经报道，前 FTX 首席执行官 Sam Bankman-Fried（SBF）周二在社交平台赞扬特朗普决定赦免前洪都拉斯总统 Juan Orlando Hernández，称“很少有人比他更值得获得自由”。Hernández 此前因涉毒被判 45 年监禁。 
+SBF 本人因诈骗与共谋等罪名挪用数十亿美元客户资金，正服 25 年刑期，并希望获得特朗普赦免。但分析指出，由于 SBF 在 2020 年曾向拜登竞选团队捐助 520 万美元，其获赦可能性极低。目前 SBF 的上诉案仍在美国第二巡回上诉法院审理，预计需至明年才会有结果。
+- [某巨鲸过去24小时内花费300万美元买入299.6万枚ASTER](https://x.com/OnchainLens/status/1996008486678003940) - 📰 null - 【某巨鲸过去24小时内花费300万美元买入299.6万枚ASTER】金色财经报道，据Onchain Lens监测，过去24小时内，一位加密货币巨鲸花费300万枚稳定币（USDC/USDT），以1美元的单价从Aster购入299.6万枚ASTER代币。
+- [今日恐慌与贪婪指数升至28，等级由极度恐慌转为恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数升至28，等级由极度恐慌转为恐慌】金色财经报道，今日恐慌与贪婪指数升至28（昨日为23），等级由极度恐慌转为恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [YieldBasis宣布上线费用转换机制](https://x.com/yieldbasis/status/1995962614522765405) - 📰 null - 【YieldBasis宣布上线费用转换机制】12月3日消息，YieldBasis在X平台发文宣布，上线费用转换机制，将已收取的17.13BTC（约合157.8万美元）手续费分配给veYB持有者。 
+此外，引入费用转换机制使YieldBasis将对YieldBasis DAO、Curve DAO和crvUSD产生协同效应。
+- [BitMine新建钱包从BitGo接收18,345枚ETH，约合5,525万美元](https://x.com/OnchainLens/status/1996002903962910781?s=20) - 📰 null - 【BitMine新建钱包从BitGo接收18,345枚ETH，约合5,525万美元】金色财经报道，据Onchain Lens监测，BitMine新创建的钱包从BitGo接收18,345枚ETH，按当前价格估算约5,525万美元。
+- [“美联储传声筒”：特朗普政府取消原定于本周与一组美联储主席候选人进行的系列面试](https://x.com/NickTimiraos/status/1996003620240712158) - 📰 null - 【“美联储传声筒”：特朗普政府取消原定于本周与一组美联储主席候选人进行的系列面试】金色财经报道，“美联储传声筒”Nick Timiraos表示，特朗普政府取消了原定于本周与一组美联储主席候选人进行的系列面试，特朗普再次暗示他已做出人选决定。
+- [金色晨讯 | 12月3日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 12月3日隔夜重要动态一览】21:00-7:00关键词：Strategy、Kalshi、Backed Finance 
+1.Strategy未来将考虑借出比特币； 
+2.特朗普重申美联储主席应该降息； 
+3.Kalshi以110亿美元估值完成10亿美元融资； 
+4.Kraken宣布收购代币化资产平台 Backed Finance； 
+5.摩根大通：比特币已成为整个美国市场的领先指标； 
+6.美国议员敦促监管机构在2026年7月期限前落实稳定币法规； 
+7.Strategy CEO：Strategy通过售股设14亿美元储备金，缓解比特币抛售压力。
+- [基于Celestia的共享排序器项目Astria Network关停运营](https://www.theblock.co/post/381138/celestia-based-astria-network-sunsets-sequencer-network-after-raising-18-million) - 📰 null - 【基于Celestia的共享排序器项目Astria Network关停运营】金色财经报道，基于Celestia的Layer 2共享排序器项目Astria Network已正式停止运营。该项目主网运行约一年后，开发团队于周一在区块高度15,360,577处主动中止网络，并将其定义为“实验性基础设施项目”的结束。 
+Astria于2023年推出，旨在为Layer 2网络提供去中心化的共享排序器服务，曾完成由Maven 11领投的550万美元种子轮融资，并于2024年获得由dba与Placeholder VC领投的1250万美元战略融资。 
+今年以来，项目相继停止了其EVM Rollup产品Flame的开发，并关闭了Celestia验证器节点，最终决定全面关停。团队未公开说明具体原因。
+- [马斯克X Money招募支付平台技术负责人，Solana生态积极回应](https://www.theblock.co/post/381113/elon-musks-x-money-searches-payments-platform-tech-lead-solana-eager-help) - 📰 null - 【马斯克X Money招募支付平台技术负责人，Solana生态积极回应】金色财经报道，埃隆·马斯克旗下X平台近日为“X Money”业务公开招聘支付平台技术负责人，计划为超6亿月活用户搭建全新支付基础设施。职位要求虽未明确提及加密货币，但强调需具备分布式系统与高可用架构能力，暗示其或自建支付体系。 
+值得注意的是，Solana官方账号在X平台主动转发该职位信息，称“这是影响数亿人金融服务的机会”。今年6月，Solana顾问Nikita Bier已加入X担任产品负责人。行业人士认为，这或为后续加密支付功能整合埋下伏笔。
+- [芝加哥商品交易所（CME）推出比特币波动率指数](https://cointelegraph.com/news/cme-bitcoin-volatility-index-institutional-crypto-trading) - 📰 null - 【芝加哥商品交易所（CME）推出比特币波动率指数】金色财经报道，芝加哥商品交易所集团（CME）推出一系列加密货币基准指标，包括比特币波动率指数，旨在为机构投资者提供标准化的价格与波动率数据。这些新基准涵盖比特币、以太坊、Solana 和 XRP 等多种数字资产，为期权定价、风险管理及波动率策略提供参考。
+- [美国议员敦促监管机构在2026年7月期限前落实稳定币法规](https://www.theblock.co/post/381148/get-done-on-time-rep-steil-presses-regulators-stablecoin-law-july-2026-deadline) - 📰 null - 【美国议员敦促监管机构在2026年7月期限前落实稳定币法规】金色财经报道，美国今年夏天通过的《GENIUS 稳定币法》进入实施阶段，联邦监管机构正推进配套规则制定，目标是在 2026 年 7 月 18 日前完成。众议员 Bryan Steil 在听证会上敦促监管机构“按时完成”，避免法规长期延迟出台。FDIC 表示本月将提出 GENIUS 相关规则草案，NCUA 称首个规则可能是稳定币发行人申请流程。GENIUS 要求稳定币必须完全由美元或高流动性资产支持，并要求市值超过 500 亿美元的发行方进行年度审计。听证会中，民主党议员 Maxine Waters 还质疑总统 Donald Trump 参与加密项目的潜在利益冲突。
+- [美股上市公司Upexi宣布完成1000万美元私募配售](https://www.globenewswire.com/news-release/2025/12/02/3197883/0/en/Upexi-Inc-Announces-Closing-of-up-to-23-Million-Private-Placement-Common-Stock-and-Warrants-Offering.html) - 📰 null - 【美股上市公司Upexi宣布完成1000万美元私募配售】金色财经报道，纳斯达克上市公司 Upexi（UPXI）宣布已完成一项私募配售，共发行 3,289,474 股普通股及认购权证，认购权证可按每股合计 3.04 美元的购买价格购买最多 3,289,474 股普通股。 
+本次配售的募集资金总额约为 1000 万美元，若认购权证以现金方式全部行权，预计还将募集约 1300 万美元。公司计划将本次配售所得净资金用于营运资金、一般企业用途及其内部管理的 SOL 最大回报策略。
+- [美联储12月降息25个基点的概率为89.2%]() - 📰 null - 【美联储12月降息25个基点的概率为89.2%】金色财经报道，据CME“美联储观察”：美联储12月降息25个基点的概率为89.2%，维持利率不变的概率为10.8%。美联储到明年1月累计降息25个基点的概率为66.6%，维持利率不变的概率为7.7%，累计降息50个基点的概率为25.7%。
