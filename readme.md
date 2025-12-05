@@ -1,27 +1,44 @@
-- [交易员通过SOFR期权对冲美联储到2026年中期多次降息的风险](https://wap.cj.sina.cn/pc/7x24/4537944) - 📰 null - 【交易员通过SOFR期权对冲美联储到2026年中期多次降息的风险】金色财经报道，12月4日，SOFR期权市场继续出现近期主题：交易员正在关注明年头两个季度的多种结构性交易，以对冲美联储多次降息，甚至（单次）降息50个基点的可能性。美联储挂钩的隔夜指数掉期（Fed-dated OIS）目前定价明年6月会议的有效利率约为3.30%，比美联储目前的有效利率低约60个基点。过去几个交易日持续的主题是买入1月、3月和6月SOFR期权中的看涨结构（upside structures），旨在对冲比掉期市场当前定价更多的降息溢价。
-- [BNB跌破900美元]() - 📰 null - 【BNB跌破900美元】金色财经报道，行情显示，BNB跌破900美元，现报899.65美元，24小时跌幅达到0.85%，行情波动较大，请做好风险控制。
-- [美国抵押贷款利率跌至去年10月以来新低，但买家开始逢低入场](https://flash.jin10.com/detail/20251205011735072800) - 📰 null - 【美国抵押贷款利率跌至去年10月以来新低，但买家开始逢低入场】金色财经报道，房地美周四表示，上周美国30年期固定贷款的平均利率为6.19%，连续第二周下降，达到去年10月底以来的最低水平。前一周为6.23%，一年前的一平均值为6.69%。由于经济压力给购房者带来压力，购房活动依然疲软。但随着利率降至接近6%的水平，一些人表现出了更大的兴趣。美国抵押贷款银行家协会的数据显示，截至11月28日的一周，抵押贷款购买申请增长了2.5%，达到自2023年初以来的最高水平。该协会副首席经济学家Joel Kan表示，“尽管房价增长降温，待售库存增加，令一些买家重返市场，但由于整体经济前景仍不明朗，每周的结果都是喜忧参半。”
-- [BTC跌破92000美元]() - 📰 null - 【BTC跌破92000美元】金色财经报道，行情显示，BTC跌破92000美元，现报91965.88美元，24小时跌幅达到0.62%，行情波动较大，请做好风险控制。
-- [Hyperliquid 11月收入超9000万美元，环比下降13.8%](https://defillama.com/protocol/fees/hyperliquid) - 📰 null - 【Hyperliquid 11月收入超9000万美元，环比下降13.8%】金色财经报道，根据 DefiLlama 的数据，Hyperliquid 11 月收入达到 9060 万美元，较 10 月份的 1.0509 亿美元环比下降 13.8%。
-- [某鲸鱼休眠2年后从Kraken提取1320枚ETH，目前共持有3500枚ETH](https://x.com/OnchainLens/status/1996626414184157275) - 📰 null - 【某鲸鱼休眠2年后从Kraken提取1320枚ETH，目前共持有3500枚ETH】金色财经报道，据 Onchain Lens 监测，某鲸鱼休眠 2 年后从 Kraken 提取 1320 枚 ETH（约 424.1 万美元）。目前，该鲸鱼总共持有 3500 枚 ETH（约 1114 万美元）。
-- [Tom Lee：VC开始计算价值储存资产市销率系底部信号](https://x.com/fundstrat/status/1996569975792742499) - 📰 null - 【Tom Lee：VC开始计算价值储存资产市销率系底部信号】金色财经报道，Bankless 联合创始人 Ryan Sean Adams 发文表示，“市场情绪极度低迷，以至于 VC 开始对价值储存资产进行市销率计算。” 
-以太坊财库公司 BitMine 董事长 Tom Lee 回应表示，“这是底部的信号。”
-- [Jupiter：HumidiFi预售遭机器人狙击，将制定方案确保公平分发](https://x.com/JupiterExchange/status/1996605475849416863) - 📰 null - 【Jupiter：HumidiFi预售遭机器人狙击，将制定方案确保公平分发】金色财经报道，Jupiter 发文表示，“少数机器人通过捆绑交易在几秒内狙击了大量 HumidiFi（WET）代币供应。在与 HumidiFi 团队讨论后，将寻求解决方案，确保更公平的分发，具体细节即将公布。”
-- [分析：超25%的比特币供应处于浮亏，当前比特币仍对宏观冲击高度敏感](https://x.com/glassnode/status/1996618082505101327) - 📰 null - 【分析：超25%的比特币供应处于浮亏，当前比特币仍对宏观冲击高度敏感】金色财经报道，glassnode 发文表示，自 11 月中旬以来，比特币已跌破 0.75 分位线，这意味着超过 25% 的供应量处于浮亏状态。这使得市场处在一个脆弱的平衡中：一方面是高位买入者的止损/投降风险，另一方面是卖方力量耗尽、形成阶段性底部的可能性。 
-在 93,000 美元附近，比特币价格在重新站回 0.75 分位线（约 95,800 美元），并进一步收复 0.85 分位线（约 106,200 美元）之前，仍将对宏观冲击高度敏感。
-- [Polymarket已在MetaMask移动端App上线](https://x.com/Polymarket/status/1996610457977966999) - 📰 null - 【Polymarket已在MetaMask移动端App上线】金色财经报道，Polymarket 宣布已正式在 MetaMask 移动端 App 上线。
-- [富达国际看好新兴市场资产明年走势 称大规模资金尚未进场](https://www.cls.cn/detail/2220186) - 📰 null - 【富达国际看好新兴市场资产明年走势 称大规模资金尚未进场】金色财经报道，富达国际表示，如果说2025年对新兴市场来说似乎已经是强劲的一年，那么2026年更会有好戏登场。富达战略债券基金的投资组合经理Mike Riddell表示，美国降息提升了那些利率更高、且本币仍有升值空间的新兴经济体资产的吸引力。“虽然今年一整年市场都在谈新兴市场交易，但大规模资金尚未进场，”Riddell说。“这为2026年奠定了基础，我们认为届时对新兴市场债的配置有可能大幅增加。”Riddell称，美元走软是一场“才刚刚开始发挥作用的结构性变化”。
-- [美CFTC代理主席：现货加密货币现在可以在CFTC注册的交易所进行交易](https://www.cftc.gov/PressRoom/PressReleases/9145-25) - 📰 null - 【美CFTC代理主席：现货加密货币现在可以在CFTC注册的交易所进行交易】金色财经报道，美国商品期货交易委员会（CFTC）代理主席 Caroline D.Pham 今日宣布，上市现货加密货币产品将首次在 CFTC 注册的期货交易所的美国联邦监管市场启动交易。今日的公告遵循了总统数字资产市场工作组的建议，并采纳了 CFTC “加密冲刺”计划中利益相关方的见解，以及与美国证券交易委员会的合作成果。 
-“加密冲刺”计划还就总统数字资产市场工作组报告中与 CFTC 相关的所有其他建议启动了公开咨询。该计划的其他内容还包括：在衍生品市场启用代币化抵押品（包括稳定币），以及对 CFTC 关于抵押品、保证金、清算、结算、报告和记录保存的监管规定进行技术性修订的规则制定，以便在我们的市场中运用区块链技术和市场基础设施，包括代币化技术。
-- [Mario Nawfal披露SBF曾帮助洪都拉斯前总统进行庭审准备，后者已获特朗普特赦](https://x.com/MarioNawfal/status/1996483499096690939) - 📰 null - 【Mario Nawfal披露SBF曾帮助洪都拉斯前总统进行庭审准备，后者已获特朗普特赦】金色财经报道，迪拜风投公司 IBC Group 创始人兼 CEO Mario Nawfal 在社交媒体发文表示，当我与 SBF 聊 FTX 倒闭时（采访即将发布），他跟我分享了一个意想不到的故事。SBF 的前狱友洪都拉斯前总统 Juan Orlando Hernández，刚刚被特朗普特赦。他去年 6 月因贩毒和非法持有枪支罪，在美国被判处 45 年监禁。 
-SBF 表示：“我在同一监区和 Juan Orlando 一起生活了一年半。我对他相当了解。我愿意相信我们成为了朋友。我想不出有哪位囚犯更值得获得特赦，他是被陷害的。” 
-SBF 花了大量时间帮助 Hernández 做庭审准备，并审查了相关证据。SBF 表示：“他不仅不是毒枭，他可能是世界上最有效的反贩毒集团领导人。Juan Orlando 是我见过的最无辜的囚犯，包括我自己在内。” 这次特赦发生在洪都拉斯 11 月 30 日大选前几天，特朗普支持 Hernández 所属的国家党候选人 Nasry Asfura。
-- [美元指数跌至5周新低，现跌0.12%，报98.77]() - 📰 null - 【美元指数跌至5周新低，现跌0.12%，报98.77】金色财经报道，美元指数跌至5周新低，现跌0.12%，报98.77。
-- [Polymarket正招募新员工组建内部做市团队](https://www.bloomberg.com/news/articles/2025-12-04/polymarket-builds-in-house-trading-team-as-it-re-enters-the-us?embedded-checkout=true) - 📰 null - 【Polymarket正招募新员工组建内部做市团队】金色财经报道，Polymarket 正在招聘新的团队成员，组建一支内部做市团队，该团队可能会在该公司交易平台上与客户进行交易。尽管类似的功能曾让其主要竞争对手遭受批评。消息人士透露，该公司近期已与包括体育博彩交易员在内的多位交易员进行了洽谈，以邀请他们加入这个新部门。Polymarket 拒绝对此发表评论。 
-然而，Kalshi 已经运营了一个名为 Kalshi Trading 的部门，在交易平台进行报价，实际上是充当了部分客户交易的对手盘。尽管 Kalshi 高管称该部门是为了增加流动性和改善客户体验，但批评者认为其做市努力与客户存在利益冲突，使其看起来像一个传统体育博彩公司。上个月提交的一份拟议集体诉讼称，Kalshi Trading 设定的赔率对客户不利。
-- [Matrixport过去8小时从Binance提取2805枚BTC](https://x.com/OnchainLens/status/1996598710072140098) - 📰 null - 【Matrixport过去8小时从Binance提取2805枚BTC】金色财经报道，据 Onchain Lens 监测，过去 8 小时，Matrixport 从 Binance 提取了 2805 枚 BTC，价值 2.6011 亿美元。
-- [专注金融领域的区块链公司Digital Asset Holdings完成5000万美元新一轮融资](https://www.bloomberg.com/news/articles/2025-12-04/bny-nasdaq-join-50-million-digital-asset-fresh-funding-in-bet-on-blockchain?srnd=phx-crypto) - 📰 null - 【专注金融领域的区块链公司Digital Asset Holdings完成5000万美元新一轮融资】金色财经报道，在华尔街巨头纷纷押注加密货币底层技术以处理传统资产之际，专注金融领域的区块链公司Digital Asset Holdings LLC再获融资，本轮投资者包括纽约梅隆银行与纳斯达克等机构。据知情人士透露，本轮融资规模达5000万美元，标普全球及iCapital共同参与投资，这也是该公司继今年早些时候完成1.35亿美元融资后的新一轮募资。彭博社6月曾报道，前轮融资由DRW Venture Capital和Tradeweb Markets领投，做市商Citadel Securities、IMC及Optiver跟投。
-- [Meme币PEPE官网遭攻击，用户被重定向至恶意链接](https://cointelegraph.com/news/pepe-memecoin-site-hacked) - 📰 null - 【Meme币PEPE官网遭攻击，用户被重定向至恶意链接】金色财经报道，Meme 币 PEPE 官方网站遭攻击，目前正将用户重定向至恶意链接。 
-网络安全公司 Blockaid 表示：“系统检测到 Pepe 官方网站遭遇前端攻击，该网站包含 Inferno Drainer 恶意代码。” Inferno Drainer 是一套由威胁行为者使用的诈骗工具组合，包括钓鱼网站模板、钱包盗取程序及社会工程学工具。
-- [Lighter 宣布推出现货交易功能](https://x.com/Lighter_xyz/status/1996590661437456623) - 📰 null - 【Lighter 宣布推出现货交易功能】金色财经报道，据去中心化交易所 Lighter 披露，正式推出现货功能。用户现可在该平台进行 ETH 的存款、提款和转账操作。
-- [21shares在纳斯达克推出2倍杠杆SUI ETF TXXS](https://blog.sui.io/21shares-sui-etf-txxs-nasdaq/) - 📰 null - 【21shares在纳斯达克推出2倍杠杆SUI ETF TXXS】金色财经报道，据Sui Foundation披露，21shares在获得美国证券交易委员会（SEC）批准后，于纳斯达克推出首只杠杆SUI ETF（TXXS）。21shares将为投资者提供一个受监管的上市工具，旨在提供 SUI 表现的双倍直接敞口，而无需直接持有底层资产。
+- [Bitmine疑似再度增持41,946枚ETH，价值约1.3亿美元](https://x.com/lookonchain/status/1996751155909861700) - 📰 null - 【Bitmine疑似再度增持41,946枚ETH，价值约1.3亿美元】金色财经报道，据Lookonchain称，疑似TomLee旗下机构Bitmine再次买入41,946枚ETH，交易价值约1.3078亿美元。
+- [代币化借贷池存款协议PRIME上线Kamino](https://x.com/kamino/status/1996707704002216197) - 📰 null - 【代币化借贷池存款协议PRIME上线Kamino】金色财经报道，Kamino于X平台发文称，代币化借贷池存款协议PRIME已在Kamino上线，PRIME由Figure与Provenance Foundation联合打造，HastraFi担任发行方，提供以房地产为抵押的收益产品，年化收益率（APY）最高可达8%。 
+Figure是美国最大的非银行房屋净值信贷额度（HELOC）发起机构，已释放超过190亿美元的房屋净值，且已在纳斯达克上市，构建了 PRIME 背后的信贷基础设施，包括持牌抵押贷款发起、贷款服务，以及支持 “Democratized Prime”的链上系统。 
+通过这一基础设施，Demo Prime将真实的美国房屋净值信贷额度（HELOC）借贷业务上链。房屋净值信贷额度（HELOC）是房主以其房产为抵押获得的信贷额度，PRIME 将这类借贷活动代币化，让用户可在 Solana 去中心化金融（DeFi）生态中直接获取机构级信贷服务。
+- [Strategy的日交易量现已超过科技巨头英特尔](https://x.com/BTCtreasuries/status/1996582164213969157) - 📰 null - 【Strategy的日交易量现已超过科技巨头英特尔】金色财经报道，据BitcoinTreasuries.NET披露，比特币财库公司Strategy（$MSTR）的日交易量现已超过科技巨头英特尔（Intel）。
+- [云计算初创公司Fluidstack正在洽谈筹集约7亿美元新一轮融资](https://www.bloomberg.com/news/articles/2025-12-04/data-center-startup-fluidstack-in-talks-for-7-billion-valuation?srnd=phx-crypto) - 📰 null - 【云计算初创公司Fluidstack正在洽谈筹集约7亿美元新一轮融资】金色财经报道，据彭博社援引知情人士，云计算初创公司Fluidstack正在洽谈筹集约7亿美元的新一轮融资，这将使公司估值达到70亿美元。前OpenAI研究员Leopold Aschenbrenner创立的投资公司Situational Awareness有望领投此轮融资。 
+消息人士表示，谷歌母公司Alphabet Inc.也正在考虑参与此次投资，而高盛集团则担任此次融资的银行顾问。由于相关信息尚未公开，知情人士要求不具名。
+- [Sui：xBTC已接入Sui DeFi生态，支持借贷、流动性挖矿等多场景]() - 📰 null - 【Sui：xBTC已接入Sui DeFi生态，支持借贷、流动性挖矿等多场景】金色财经报道，Sui于X平台发文称，xBTC现已接入Sui DeFi生态：NAVI Protocol、Bluefin、MomentumⓂ️Ⓜ️T、Suilend、Volo、AlphaFi& STEAMM，支持借贷、做LP、加杠杆、挖矿场景。
+- [美SEC就代币化监管问题展开讨论，传统金融与加密行业在去中心化议题上分歧明显](https://www.theblock.co/post/381443/tokenization-debate-perspectives-tradefi-crypto-decentralization-sec-panel?utm_source=twitter&utm_medium=social) - 📰 null - 【美SEC就代币化监管问题展开讨论，传统金融与加密行业在去中心化议题上分歧明显】金色财经报道，美国证券交易委员会(SEC)投资者咨询委员会于周四举行会议，来自Citadel Securities、Coinbase和Galaxy等公司的高管就资产代币化监管问题展开讨论，会议揭示了传统金融与加密行业在去中心化问题上的明显分歧。 
+Citadel Securities在周三提交的信函中建议SEC对代币化证券实施更严格规则，要求完全识别交易中涉及的中介机构，包括去中心化交易协议，这一提议立即引发加密行业的强烈反对。 
+Coinbase监管政策副总裁Scott Bauguess在会上表示，不能对去中心化交易所(DEX)施加与经纪商相同的监管义务，因为这将引入当前环境中不存在的风险。 
+SEC主席Paul Atkins强调，为推动美国创新、投资和就业，必须提供合规路径让市场参与者利用新技术的独特能力。而即将离任的民主党专员Caroline Crenshaw则对“包装证券”等代币化产品可能对投资者带来的风险表示担忧。
+- [ASTER团队销毁回购钱包中8000万美元代币](https://x.com/AggrNews/status/1996732425125195960) - 📰 null - 【ASTER团队销毁回购钱包中8000万美元代币】金色财经报道，链上数据显示，ASTER团队销毁回购钱包中8000万美元代币。
+- [摩根大通：Strategy抗压能力对近期比特币价格影响比矿工抛售压力更关键](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook?utm_source=twitter&utm_medium=social) - 📰 null - 【摩根大通：Strategy抗压能力对近期比特币价格影响比矿工抛售压力更关键】金色财经报道，摩根大通分析师认为，对于比特币的近期价格走势而言，Strategy（股票代码MSTR）的抗压能力比矿工活动更为重要。尽管这家全球最大的比特币持有者尚未开始抛售，但比特币矿工似乎正面临越来越大的卖出压力。 
+摩根大通董事总经理Nikolaos Panigirtzoglou及其团队在周三的一份报告中指出，近期比特币价格持续承压主要源于两大因素：一是比特币网络算力和挖矿难度的近期下降，二是围绕Strategy的最新动态。 
+分析师表示，算力与挖矿难度的下降反映了两股力量的作用：中国在私人挖矿活动激增后重申对比特币挖矿的禁令，以及比特币价格走低和能源成本高企挤压利润，导致中国以外的高成本矿工退出市场。 
+分析师指出，虽然通常算力下降会提升矿工收入，但“比特币价格目前仍持续徘徊在其生产成本之下”，这比特币市场带来了抛售压力。 
+摩根大通分析师目前将比特币的生产成本预估下调至9万美元，低于上个月的9.4万美元。据分析师估计，此次更新基于0.05美元/千瓦时的电价假设，对于高成本生产商而言，每上涨0.01美元/千瓦时，其生产成本将增加1.8万美元。 
+摩根大通的报告称：“在电价高企和比特币价格走低挤压利润的背景下，部分高成本矿工近几周已被迫抛售比特币。”
+- [数据：Coinbase Coin50指数11月下跌18.47%](https://x.com/CoinbaseInsto/status/1996725757671100724) - 📰 null - 【数据：Coinbase Coin50指数11月下跌18.47%】金色财经报道，据Coinbase Institutional披露，广义加密货币市场（以COIN50指数为代表）11月下跌18.47%。90天趋势显示市场呈下行态势，全球流动性出现下行拐点，同时美联储鹰派言论进一步强化了避险情绪。
+- [某巨鲸持有的20倍BTC多单现浮亏449万美元]() - 📰 null - 【某巨鲸持有的20倍BTC多单现浮亏449万美元】金色财经报道，据Oncha inlens监测，某巨鲸目前持有537.83枚BTC的20倍多头仓位，价值4910万美元，已持续24天处于浮亏状态，当前浮亏449万美元。三天前，其浮亏曾一度高达950万美元，目前正在逐步缩小中。
+- [贝莱德地址于5小时前从Coinbase处收到153.83枚BTC和16,930枚ETH]() - 📰 null - 【贝莱德地址于5小时前从Coinbase处收到153.83枚BTC和16,930枚ETH】金色财经报道，据Onchain lens监测，贝莱德地址于5小时前从Coinbase接收153.83枚BTC（价值1422万美元），以及16,930枚ETH（价值5326万美元），总流入金额达6748万美元。
+- [国际货币基金组织警告：稳定币普及或削弱央行控制权](https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns) - 📰 null - 【国际货币基金组织警告：稳定币普及或削弱央行控制权】金色财经报道，国际货币基金组织（IMF）表示，稳定币有望拓宽个人获取金融服务的渠道，但这可能会以牺牲各国央行为代价。 
+在周四发布的一份56页报告中，该国际组织指出 “货币替代” 是稳定币带来的潜在风险，并称这一趋势可能会逐步侵蚀各国的金融主权。 
+历史上，若个人希望持有美元，通常需要持有实物现金或开设特定类型的银行账户。然而，IMF强调，“稳定币可通过互联网和智能手机迅速渗透至一国经济体系”。 
+该组织补充称：“尤其是在跨境场景下，使用外币计价的稳定币可能导致货币替代，进而潜在削弱货币主权，在存在无托管钱包的情况下尤为如此。” 
+IMF表示，若大量经济活动不再依赖本国货币进行，央行将难以有效控制国内流动性与利率水平。 
+报告指出，若外币计价稳定币通过支付服务站稳脚跟，央行数字货币（CBDC）等本土替代方案可能面临竞争压力。与私人发行的稳定币不同，CBDC是由央行发行、监管并管理的主权货币数字形式。
+- [金色晨讯 | 12月5日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 12月5日隔夜重要动态一览】21:00-7:00关键词：AERO、Base、Polymarket、CFTC 
+1.Robinhood 上线 AERO； 
+2.Polymarket正招募新员工组建内部做市团队； 
+3.Coinbase孵化的以太坊L2 Base推出Solana资产桥； 
+4.美国财政部债务突破30万亿美元大关，较2018年翻倍； 
+5.美联储预计2026年将联邦基金利率下调至3.25%-3.5%区间； 
+6.哈塞特：美联储下次会议可能会降息，预计将降息约25个基点； 
+7.美CFTC代理主席：现货加密货币现在可以在CFTC注册的交易所进行交易。
+- [Michael Saylor：20年后比特币市值将达到200万亿美元](https://x.com/BitcoinArchive/status/1996713973165469788) - 📰 null - 【Michael Saylor：20年后比特币市值将达到200万亿美元】金色财经报道，Michael Saylor表示，比特币将在4-8年内市值达到20万亿美元，20年后将达到200万亿美元。
+- [SoFi计划通过配股融资15亿美元，以拓展更多产品线](https://www.bloomberg.com/news/articles/2025-12-04/sofi-technologies-seeks-to-raise-1-5-billion-in-share-sale?srnd=phx-crypto) - 📰 null - 【SoFi计划通过配股融资15亿美元，以拓展更多产品线】金色财经报道，金融科技公司 SoFi Technologies 正寻求通过发行新股融资 15 亿美元，以在贷款业务之外拓展更多产品线。 
+声明显示，公司正与高盛集团合作推进此次配股。知情人士透露，发行价格区间为每股 27.50 至 28.50 美元，较周四收盘价 29.60 美元最高折价约 7.1%。
+- [加密投资者Harborne向英国Reform党捐赠约1200万美元](https://www.coindesk.com/policy/2025/12/04/crypto-investor-donates-usd12m-to-uk-political-party-reform) - 📰 null - 【加密投资者Harborne向英国Reform党捐赠约1200万美元】金色财经报道，英国选举委员会披露，加密投资者 Christopher Harborne 向英国 Reform 党捐赠 900 万英镑（约 1200 万美元），为英国在世人士对政党最大单笔捐款纪录。Harborne 曾投资稳定币发行方 Tether 和交易所 Bitfinex，并在 2019 年已向该党（当时名为 Brexit Party）捐款。此次捐赠使 Reform 党成为 2025 年三季度获捐最多的英国政党。党魁 Nigel Farage 此前积极争取加密选民，接受加密货币捐款，并承诺若执政将建立比特币储备。值得注意的是，Harborne 本次捐款为现金而非加密货币。
+- [Solmate拟全股收购RockawayX打造20亿美元Solana机构巨头](https://www.coindesk.com/business/2025/12/04/solmate-to-buy-rockawayx-in-all-stock-deal-to-build-usd2b-institutional-solana-giant) - 📰 null - 【Solmate拟全股收购RockawayX打造20亿美元Solana机构巨头】金色财经报道，Solmate 将以全股票方式收购 RockawayX，合并后资产规模超20亿美元，并整合其基础设施、流动性与资产管理业务。交易预计2026年上半年完成，目标是支持 Solana 生态高频交易与日常链上支付服务。
+- [JD Vance：不久之后，将有1亿美国人拥有比特币](https://x.com/BitcoinArchive/status/1996693684520157663) - 📰 null - 【JD Vance：不久之后，将有1亿美国人拥有比特币】金色财经报道，美国副总统JD Vance：“不久之后，将有1亿美国人拥有比特币。”
+- [美国国会女议员Greene透露她一直在买比特币](https://x.com/pete_rizzo_/status/1996698114741199132) - 📰 null - 【美国国会女议员Greene透露她一直在买比特币】金色财经报道，美国国会女议员玛乔丽·泰勒·格林（Marjorie Taylor Greene）刚刚透露她一直在买比特币。
+- [美联储12月降息25个基点的概率为87%]() - 📰 null - 【美联储12月降息25个基点的概率为87%】金色财经报道，据CME“美联储观察”：美联储12月降息25个基点的概率为87%，维持利率不变的概率为13%。美联储到明年1月累计降息25个基点的概率为64.1%，维持利率不变的概率为9%，累计降息50个基点的概率为27%。
