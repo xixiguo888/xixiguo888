@@ -1,44 +1,31 @@
-- [Bitmine疑似再度增持41,946枚ETH，价值约1.3亿美元](https://x.com/lookonchain/status/1996751155909861700) - 📰 null - 【Bitmine疑似再度增持41,946枚ETH，价值约1.3亿美元】金色财经报道，据Lookonchain称，疑似TomLee旗下机构Bitmine再次买入41,946枚ETH，交易价值约1.3078亿美元。
-- [代币化借贷池存款协议PRIME上线Kamino](https://x.com/kamino/status/1996707704002216197) - 📰 null - 【代币化借贷池存款协议PRIME上线Kamino】金色财经报道，Kamino于X平台发文称，代币化借贷池存款协议PRIME已在Kamino上线，PRIME由Figure与Provenance Foundation联合打造，HastraFi担任发行方，提供以房地产为抵押的收益产品，年化收益率（APY）最高可达8%。 
-Figure是美国最大的非银行房屋净值信贷额度（HELOC）发起机构，已释放超过190亿美元的房屋净值，且已在纳斯达克上市，构建了 PRIME 背后的信贷基础设施，包括持牌抵押贷款发起、贷款服务，以及支持 “Democratized Prime”的链上系统。 
-通过这一基础设施，Demo Prime将真实的美国房屋净值信贷额度（HELOC）借贷业务上链。房屋净值信贷额度（HELOC）是房主以其房产为抵押获得的信贷额度，PRIME 将这类借贷活动代币化，让用户可在 Solana 去中心化金融（DeFi）生态中直接获取机构级信贷服务。
-- [Strategy的日交易量现已超过科技巨头英特尔](https://x.com/BTCtreasuries/status/1996582164213969157) - 📰 null - 【Strategy的日交易量现已超过科技巨头英特尔】金色财经报道，据BitcoinTreasuries.NET披露，比特币财库公司Strategy（$MSTR）的日交易量现已超过科技巨头英特尔（Intel）。
-- [云计算初创公司Fluidstack正在洽谈筹集约7亿美元新一轮融资](https://www.bloomberg.com/news/articles/2025-12-04/data-center-startup-fluidstack-in-talks-for-7-billion-valuation?srnd=phx-crypto) - 📰 null - 【云计算初创公司Fluidstack正在洽谈筹集约7亿美元新一轮融资】金色财经报道，据彭博社援引知情人士，云计算初创公司Fluidstack正在洽谈筹集约7亿美元的新一轮融资，这将使公司估值达到70亿美元。前OpenAI研究员Leopold Aschenbrenner创立的投资公司Situational Awareness有望领投此轮融资。 
-消息人士表示，谷歌母公司Alphabet Inc.也正在考虑参与此次投资，而高盛集团则担任此次融资的银行顾问。由于相关信息尚未公开，知情人士要求不具名。
-- [Sui：xBTC已接入Sui DeFi生态，支持借贷、流动性挖矿等多场景]() - 📰 null - 【Sui：xBTC已接入Sui DeFi生态，支持借贷、流动性挖矿等多场景】金色财经报道，Sui于X平台发文称，xBTC现已接入Sui DeFi生态：NAVI Protocol、Bluefin、MomentumⓂ️Ⓜ️T、Suilend、Volo、AlphaFi& STEAMM，支持借贷、做LP、加杠杆、挖矿场景。
-- [美SEC就代币化监管问题展开讨论，传统金融与加密行业在去中心化议题上分歧明显](https://www.theblock.co/post/381443/tokenization-debate-perspectives-tradefi-crypto-decentralization-sec-panel?utm_source=twitter&utm_medium=social) - 📰 null - 【美SEC就代币化监管问题展开讨论，传统金融与加密行业在去中心化议题上分歧明显】金色财经报道，美国证券交易委员会(SEC)投资者咨询委员会于周四举行会议，来自Citadel Securities、Coinbase和Galaxy等公司的高管就资产代币化监管问题展开讨论，会议揭示了传统金融与加密行业在去中心化问题上的明显分歧。 
-Citadel Securities在周三提交的信函中建议SEC对代币化证券实施更严格规则，要求完全识别交易中涉及的中介机构，包括去中心化交易协议，这一提议立即引发加密行业的强烈反对。 
-Coinbase监管政策副总裁Scott Bauguess在会上表示，不能对去中心化交易所(DEX)施加与经纪商相同的监管义务，因为这将引入当前环境中不存在的风险。 
-SEC主席Paul Atkins强调，为推动美国创新、投资和就业，必须提供合规路径让市场参与者利用新技术的独特能力。而即将离任的民主党专员Caroline Crenshaw则对“包装证券”等代币化产品可能对投资者带来的风险表示担忧。
-- [ASTER团队销毁回购钱包中8000万美元代币](https://x.com/AggrNews/status/1996732425125195960) - 📰 null - 【ASTER团队销毁回购钱包中8000万美元代币】金色财经报道，链上数据显示，ASTER团队销毁回购钱包中8000万美元代币。
-- [摩根大通：Strategy抗压能力对近期比特币价格影响比矿工抛售压力更关键](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook?utm_source=twitter&utm_medium=social) - 📰 null - 【摩根大通：Strategy抗压能力对近期比特币价格影响比矿工抛售压力更关键】金色财经报道，摩根大通分析师认为，对于比特币的近期价格走势而言，Strategy（股票代码MSTR）的抗压能力比矿工活动更为重要。尽管这家全球最大的比特币持有者尚未开始抛售，但比特币矿工似乎正面临越来越大的卖出压力。 
-摩根大通董事总经理Nikolaos Panigirtzoglou及其团队在周三的一份报告中指出，近期比特币价格持续承压主要源于两大因素：一是比特币网络算力和挖矿难度的近期下降，二是围绕Strategy的最新动态。 
-分析师表示，算力与挖矿难度的下降反映了两股力量的作用：中国在私人挖矿活动激增后重申对比特币挖矿的禁令，以及比特币价格走低和能源成本高企挤压利润，导致中国以外的高成本矿工退出市场。 
-分析师指出，虽然通常算力下降会提升矿工收入，但“比特币价格目前仍持续徘徊在其生产成本之下”，这比特币市场带来了抛售压力。 
-摩根大通分析师目前将比特币的生产成本预估下调至9万美元，低于上个月的9.4万美元。据分析师估计，此次更新基于0.05美元/千瓦时的电价假设，对于高成本生产商而言，每上涨0.01美元/千瓦时，其生产成本将增加1.8万美元。 
-摩根大通的报告称：“在电价高企和比特币价格走低挤压利润的背景下，部分高成本矿工近几周已被迫抛售比特币。”
-- [数据：Coinbase Coin50指数11月下跌18.47%](https://x.com/CoinbaseInsto/status/1996725757671100724) - 📰 null - 【数据：Coinbase Coin50指数11月下跌18.47%】金色财经报道，据Coinbase Institutional披露，广义加密货币市场（以COIN50指数为代表）11月下跌18.47%。90天趋势显示市场呈下行态势，全球流动性出现下行拐点，同时美联储鹰派言论进一步强化了避险情绪。
-- [某巨鲸持有的20倍BTC多单现浮亏449万美元]() - 📰 null - 【某巨鲸持有的20倍BTC多单现浮亏449万美元】金色财经报道，据Oncha inlens监测，某巨鲸目前持有537.83枚BTC的20倍多头仓位，价值4910万美元，已持续24天处于浮亏状态，当前浮亏449万美元。三天前，其浮亏曾一度高达950万美元，目前正在逐步缩小中。
-- [贝莱德地址于5小时前从Coinbase处收到153.83枚BTC和16,930枚ETH]() - 📰 null - 【贝莱德地址于5小时前从Coinbase处收到153.83枚BTC和16,930枚ETH】金色财经报道，据Onchain lens监测，贝莱德地址于5小时前从Coinbase接收153.83枚BTC（价值1422万美元），以及16,930枚ETH（价值5326万美元），总流入金额达6748万美元。
-- [国际货币基金组织警告：稳定币普及或削弱央行控制权](https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns) - 📰 null - 【国际货币基金组织警告：稳定币普及或削弱央行控制权】金色财经报道，国际货币基金组织（IMF）表示，稳定币有望拓宽个人获取金融服务的渠道，但这可能会以牺牲各国央行为代价。 
-在周四发布的一份56页报告中，该国际组织指出 “货币替代” 是稳定币带来的潜在风险，并称这一趋势可能会逐步侵蚀各国的金融主权。 
-历史上，若个人希望持有美元，通常需要持有实物现金或开设特定类型的银行账户。然而，IMF强调，“稳定币可通过互联网和智能手机迅速渗透至一国经济体系”。 
-该组织补充称：“尤其是在跨境场景下，使用外币计价的稳定币可能导致货币替代，进而潜在削弱货币主权，在存在无托管钱包的情况下尤为如此。” 
-IMF表示，若大量经济活动不再依赖本国货币进行，央行将难以有效控制国内流动性与利率水平。 
-报告指出，若外币计价稳定币通过支付服务站稳脚跟，央行数字货币（CBDC）等本土替代方案可能面临竞争压力。与私人发行的稳定币不同，CBDC是由央行发行、监管并管理的主权货币数字形式。
-- [金色晨讯 | 12月5日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 12月5日隔夜重要动态一览】21:00-7:00关键词：AERO、Base、Polymarket、CFTC 
-1.Robinhood 上线 AERO； 
-2.Polymarket正招募新员工组建内部做市团队； 
-3.Coinbase孵化的以太坊L2 Base推出Solana资产桥； 
-4.美国财政部债务突破30万亿美元大关，较2018年翻倍； 
-5.美联储预计2026年将联邦基金利率下调至3.25%-3.5%区间； 
-6.哈塞特：美联储下次会议可能会降息，预计将降息约25个基点； 
-7.美CFTC代理主席：现货加密货币现在可以在CFTC注册的交易所进行交易。
-- [Michael Saylor：20年后比特币市值将达到200万亿美元](https://x.com/BitcoinArchive/status/1996713973165469788) - 📰 null - 【Michael Saylor：20年后比特币市值将达到200万亿美元】金色财经报道，Michael Saylor表示，比特币将在4-8年内市值达到20万亿美元，20年后将达到200万亿美元。
-- [SoFi计划通过配股融资15亿美元，以拓展更多产品线](https://www.bloomberg.com/news/articles/2025-12-04/sofi-technologies-seeks-to-raise-1-5-billion-in-share-sale?srnd=phx-crypto) - 📰 null - 【SoFi计划通过配股融资15亿美元，以拓展更多产品线】金色财经报道，金融科技公司 SoFi Technologies 正寻求通过发行新股融资 15 亿美元，以在贷款业务之外拓展更多产品线。 
-声明显示，公司正与高盛集团合作推进此次配股。知情人士透露，发行价格区间为每股 27.50 至 28.50 美元，较周四收盘价 29.60 美元最高折价约 7.1%。
-- [加密投资者Harborne向英国Reform党捐赠约1200万美元](https://www.coindesk.com/policy/2025/12/04/crypto-investor-donates-usd12m-to-uk-political-party-reform) - 📰 null - 【加密投资者Harborne向英国Reform党捐赠约1200万美元】金色财经报道，英国选举委员会披露，加密投资者 Christopher Harborne 向英国 Reform 党捐赠 900 万英镑（约 1200 万美元），为英国在世人士对政党最大单笔捐款纪录。Harborne 曾投资稳定币发行方 Tether 和交易所 Bitfinex，并在 2019 年已向该党（当时名为 Brexit Party）捐款。此次捐赠使 Reform 党成为 2025 年三季度获捐最多的英国政党。党魁 Nigel Farage 此前积极争取加密选民，接受加密货币捐款，并承诺若执政将建立比特币储备。值得注意的是，Harborne 本次捐款为现金而非加密货币。
-- [Solmate拟全股收购RockawayX打造20亿美元Solana机构巨头](https://www.coindesk.com/business/2025/12/04/solmate-to-buy-rockawayx-in-all-stock-deal-to-build-usd2b-institutional-solana-giant) - 📰 null - 【Solmate拟全股收购RockawayX打造20亿美元Solana机构巨头】金色财经报道，Solmate 将以全股票方式收购 RockawayX，合并后资产规模超20亿美元，并整合其基础设施、流动性与资产管理业务。交易预计2026年上半年完成，目标是支持 Solana 生态高频交易与日常链上支付服务。
-- [JD Vance：不久之后，将有1亿美国人拥有比特币](https://x.com/BitcoinArchive/status/1996693684520157663) - 📰 null - 【JD Vance：不久之后，将有1亿美国人拥有比特币】金色财经报道，美国副总统JD Vance：“不久之后，将有1亿美国人拥有比特币。”
-- [美国国会女议员Greene透露她一直在买比特币](https://x.com/pete_rizzo_/status/1996698114741199132) - 📰 null - 【美国国会女议员Greene透露她一直在买比特币】金色财经报道，美国国会女议员玛乔丽·泰勒·格林（Marjorie Taylor Greene）刚刚透露她一直在买比特币。
-- [美联储12月降息25个基点的概率为87%]() - 📰 null - 【美联储12月降息25个基点的概率为87%】金色财经报道，据CME“美联储观察”：美联储12月降息25个基点的概率为87%，维持利率不变的概率为13%。美联储到明年1月累计降息25个基点的概率为64.1%，维持利率不变的概率为9%，累计降息50个基点的概率为27%。
+- [吉隆坡发展中国家世界工程与技术研究院同AB慈善基金会签署合作备忘录]() - 📰 null - 【吉隆坡发展中国家世界工程与技术研究院同AB慈善基金会签署合作备忘录】12月5日消息，据官方消息，11月22日，在吉隆坡发展中国家世界工程与技术研究院（AETDEW）总部，AETDEW与AB慈善基金会X AB DAO签署合作备忘录。本次合作备忘录的签署，标志着 AETDEW 与 AB 慈善基金会 x AB DAO 将在推动工程与技术进步、智慧电网技术以及可再生能源系统等领域开展合作，共同应对发展中国家所面临的能源挑战。 
+AETDEW执行董事黄志辉博士工程师（Dr. Ir. Ts. Wong Chee Fui）以及AB慈善基金会高级顾问莫尼夫·R·邹比博士（Dr Moneef R. Zou’bi）共同见证本次合作备忘录的签署。出席签署仪式的嘉宾还包括：AETDEW荣誉院士、前任会长李耀翔院士拿督工程师（Academician Dato Ir. Lee Yee Cheong）、AETDEW 司库 Lawrence Tan 先生（Mr Lawrence Tan），以及AETDEW执行秘书叶建联博士（Dr. Yap Kian Lian）。
+- [Matrixport：以太坊或重演5月行情，轻仓格局或推动价格快速上涨]() - 📰 null - 【Matrixport：以太坊或重演5月行情，轻仓格局或推动价格快速上涨】金色财经报道，据Matrixport最新周度报告显示，当前加密市场处于“仓位真空”状态，ETH和BTC的整体仓位已回落至低位区间。分析师指出，类似的轻仓格局曾在今年早些时候推动价格在数日内上涨约38%，任何新增敞口都可能导致价格上行速度超出预期。报告强调，以太坊的重要升级已实质性改变了其经济结构，但市场反应仍偏保守。 
+数据显示，5月以来ETH表现强劲，期货未平仓量从80亿美元迅速翻倍至160亿美元，上周约35.8%的期权成交为看涨期权买入，交易者正悄悄增加看涨仓位。不过，分析师也提醒，国债相关买盘不如此前稳定，以太坊能否重演上一轮升级期间的强势上涨仍有待观察。
+- [现货白银日内涨幅扩大至2.00%，现报58.27美元/盎司]() - 📰 null - 【现货白银日内涨幅扩大至2.00%，现报58.27美元/盎司】金色财经报道，现货白银日内涨幅扩大至2.00%，现报58.27美元/盎司。(金十)
+- [ZachXBT：英国黑客Danny疑似已被捕，1858万美元加密资产遭到查扣]() - 📰 null - 【ZachXBT：英国黑客Danny疑似已被捕，1858万美元加密资产遭到查扣】12月5日消息，链上侦探ZachXBT在个人频道披露，英国黑客Danny/Meech（又名Danish Zulfiqar/Khan）疑似已被执法机构逮捕，其加密资产遭到查扣。 
+此前一直在追踪并锁定其身份，他涉嫌与2024年8月发生的Genesis债权人2.43亿美元加密资产被盗案有关，涉案人员还包括Malone、Veer、Chen和Jeandiel。 
+Danny也参与了2023年8月的KrollSIM卡交换攻击事件，该事件泄露BlockFi、Genesis与FTX债权人的个人信息，此后由此引发的定向社工诈骗已造成超过3亿美元损失。 
+数小时前，ZachXBT追踪的多个与其关联的地址将1858万美元加密资产合并转移至0xb37d开头地址，其模式与以往的执法机构资产查扣行为类似。
+- [Messari发布Talus研究报告，指出Talus将成为数字经济的基础](https://x.com/messaricrypto/status/1996639462932299914?s=46) - 📰 null - 【Messari发布Talus研究报告，指出Talus将成为数字经济的基础】金色财经报道，Messari发布Talus研究报告，报告中提到Talus是一家去中心化的人工智能基础设施公司，其使命是“建立一个更民主、更高效的数字经济”。 
+Talus旨在提供缺失的基础设施，为链上的自主人工智能代理带来信任、透明度和经济激励，并将成为数字经济的基础。
+- [分析师：市场正等待12月FOMC会议前的关键美国经济数据，聚焦延迟发布的9月PCE报告](https://x.com/AxelAdlerJr/status/1996816054635401601) - 📰 null - 【分析师：市场正等待12月FOMC会议前的关键美国经济数据，聚焦延迟发布的9月PCE报告】金色财经报道，Cryptoquant分析师Axel Adler Jr发布市场分析表示，黄金价格维持在每盎司4218美元左右，市场正等待下周美联储联邦公开市场委员会（FOMC）会议前的关键美国经济数据。焦点集中在延迟发布的9月个人消费支出（PCE）报告 —— 这是美联储青睐的通胀指标。该报告定于今日发布，可能会为未来货币宽松政策的时点与节奏提供线索。
+- [BNB跌破900美元]() - 📰 null - 【BNB跌破900美元】金色财经报道，行情显示，BNB跌破900美元，现报899.76美元，24小时跌幅达到1.04%，行情波动较大，请做好风险控制。
+- [数据：以太坊Fusaka升级后买卖比创4个月新高](https://cryptoquant.com/insights/quicktake/69320ae1160b570d64bc4068-Ethereums-Post-Fusaka-Surge-Taker-BuySell-Ratio-Hits-4-Month-High-autorenew-thum) - 📰 null - 【数据：以太坊Fusaka升级后买卖比创4个月新高】金色财经报道，根据Cryptoquant数据，币安以太坊Taker买卖比率数据显示市场情绪明显转向。该指标在12月3日Fusaka网络升级后立即攀升至0.998，创下8月初以来最高水平，显示买方积极入场。 
+该比率从低点0.945强劲反弹，表明期货交易者将Fusaka升级视为看涨催化剂，正主动建立多头仓位。尽管ETH价格仍徘徊在3130美元附近，但买卖比率上升速度已超越价格本身，形成领先指标。 
+分析师指出，若该比率突破1.0关口，将确认11月调整结束，并可能推动价格向3500美元和4000美元目标迈进。此次Fusaka升级带来的积极市场反应，反映出投资者对以太坊网络改进的信心增强。
+- [意大利证券交易委员会：加密资产服务商须在12月30日前获MiCAR授权否则将停止运营](https://www.consob.it/web/consob-and-its-activities/news-in-detail/-/asset_publisher/kcxlUuOyjO9x/content/press-release-of-4-december-2025/718268) - 📰 null - 【意大利证券交易委员会：加密资产服务商须在12月30日前获MiCAR授权否则将停止运营】金色财经报道，意大利证券市场监管局（Consob）发布公告提醒：根据欧盟《加密资产市场监管条例》（MiCAR），当前注册于意大利OAM的虚拟资产服务商（VASP）如欲继续运营，必须在2025年12月30日前提交申请，转型为受监管的加密资产服务商（CASP）。否则，自该日起将不得继续提供相关服务，最晚不得超过2026年6月30日。 
+Consob特别提醒投资者：必须确认当前合作的VASP是否计划申请CASP牌照；检查该服务商是否在ESMA（欧盟证券市场管理局）或OAM注册名录中；若服务商未获授权，投资者有权要求返还其资产。Consob还再次敦促VASP：未申请CASP授权者需在12月30日前终止运营，关闭所有合约并退还用户资金；向用户明确披露未来运营计划或退出安排。此次公告为配合MiCAR在欧盟的全面实施，确保市场平稳有序过渡。
+- [Figure成立RWA联盟，月均10亿美元链上贷款拓展至Solana](https://investors.figure.com/news-releases/news-release-details/figure-and-leading-crypto-partners-launch-rwa-consortium-onchain) - 📰 null - 【Figure成立RWA联盟，月均10亿美元链上贷款拓展至Solana】12月5日消息，信贷协议Figure(纳斯达克代码：FIGR)宣布成立RWA联盟，将其月均超10亿美元的链上贷款业务扩展至Solana。该联盟旨在推广PRIME流动性质押代币，普通DeFi用户首次获得此前仅限银行和合格投资者的机构级收益。 
+联盟成员包括Kamino Finance、Chainlink、Raydium、CASH、Privy与Gauntlet等机构，共同推动基于Hastra协议的流动性质押代币PRIME在Solana上的应用。
+- [湖北公安通告处理190万枚USDT无主虚拟资产，所有人需在六个月内前往认领](https://mp.weixin.qq.com/s/ldHI0hgRkllT7irLFpCLog) - 📰 null - 【湖北公安通告处理190万枚USDT无主虚拟资产，所有人需在六个月内前往认领】金色财经报道，湖北省咸宁市嘉鱼县公安局12月3日发布公告称，在侦办一起敲诈勒索及侵犯公民个人信息案件中，从涉案嫌疑人曾某住所及租住房屋内查获大量涉案物品，其中包括一个虚拟货币钱包，钱包内含约190万枚USDT。因该资产目前无明确权属人，警方依法公告处理，该资产所有人需在六个月内携合法证件认领，逾期将依法上缴国库。
+- [美国现货以太坊ETF昨日净流出4150万美元](https://x.com/FarsideUK/status/1996803177560068587) - 📰 null - 【美国现货以太坊ETF昨日净流出4150万美元】金色财经报道，据Farside Investors监测数据，美国现货以太坊ETF昨日净流出4150万美元。
+- [某新地址8小时前从FalconX提出13308枚ETH，价值4147万美元](https://x.com/ai_9684xtpa/status/1996805019040207190) - 📰 null - 【某新地址8小时前从FalconX提出13308枚ETH，价值4147万美元】金色财经报道，据链上分析师@ai_9684xtpa监测，新地址0x4E6...B67Af8小时前从FalconX提出13308枚ETH，价值4147万美元，提出价格3116.08美元。
+- [美国现货比特币ETF昨日净流出1.946亿美元]() - 📰 null - 【美国现货比特币ETF昨日净流出1.946亿美元】金色财经报道，据TraderT监测，美国现货比特币ETF昨日净流出1.946亿美元。
+- [知情人士：日本央行倾向于在12月的会议上加息]() - 📰 null - 【知情人士：日本央行倾向于在12月的会议上加息】金色财经报道，知情人士称，日本央行据悉倾向于在12月的会议上加息，同时保留进一步收紧政策的可能性。美元兑日元USD/JPY短线一度下挫约30个基点，最新报154.96。(金十)
+- [意大利已下令对现行加密货币风险防范措施开展深入审查](https://www.reuters.com/business/future-of-money/) - 📰 null - 【意大利已下令对现行加密货币风险防范措施开展深入审查】金色财经报道，意大利央行及其他金融监管机构周四表示，意大利经济部已下令对现行加密货币风险防范措施开展深入审查，此类风险被认为可能持续上升。 
+监管机构在声明中称：“针对零售投资者加密资产直接及间接投资的现行保障措施是否充分，我们已启动深入审查。”
+- [Strategy今年已累计购入203,600枚比特币](https://x.com/Strategy/status/1996793716892413996) - 📰 null - 【Strategy今年已累计购入203,600枚比特币】金色财经报道，据官方公告，Strategy宣布其今年迄今已累计购入("stacked")203,600枚比特币。该公司在公告中简短表示"Onwards"（继续前进），暗示将保持比特币增持策略。
+- [Coinbase CEO：代币化将重塑金融业](https://x.com/brian_armstrong/status/1996648024240697539) - 📰 null - 【Coinbase CEO：代币化将重塑金融业】金色财经报道，息，Coinbase首席执行官Brian Armstrong发推表示，“代币化将重塑金融业。所有可以代币化的事物都将被代币化。这对终端用户来说要好得多。核心优势在于实时结算（消除交易对手风险）、提升流动性/可及性、通过减少官僚主义/摩擦实现更高效率。”
+- [法院命令OpenAI向《纽约时报》提交2000万条ChatGPT用户日志](https://decrypt.co/351000/openai-ordered-20m-chatgpt-logs-nyt-copyright-case) - 📰 null - 【法院命令OpenAI向《纽约时报》提交2000万条ChatGPT用户日志】金色财经报道，据Decrypt报道，美国联邦法官Ona T. Wang驳回了OpenAI限制证据披露的请求，要求该公司向《纽约时报》提供约2000万条去身份化的ChatGPT用户对话记录。法院认为这些数据对于证明ChatGPT是否复制了《纽约时报》受版权保护的内容至关重要，且"与案件需求成比例"。尽管OpenAI表示担忧用户隐私问题，但法官指出隐私考量"只是比例分析中的一个因素，在存在明确相关性和最小负担的情况下不能占主导地位"。
+- [Matrixport过去24小时从币安提取3805枚BTC，价值3.525亿美元](https://x.com/lookonchain/status/1996791314026057866) - 📰 null - 【Matrixport过去24小时从币安提取3805枚BTC，价值3.525亿美元】金色财经报道，据Lookonchain监测，Matrixport在过去24小时内从币安提取了3805枚BTC，价值3.525亿美元。
