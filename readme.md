@@ -1,25 +1,39 @@
-- [预测市场押注比特币在年底前不会达到10万美元](https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end) - 📰 null - 【预测市场押注比特币在年底前不会达到10万美元】金色财经报道，Polymarket 和 Kalshi 上的大多数交易员预计，未来 21 天内比特币价格将保持在 10 万美元以下。 截至 12 月 11 日，Kalshi 的投注者认为比特币在 12 月 31 日之前突破 10 万美元的概率约为 34%。Polymarket 则认为比特币在 2025 年底之前达到 10 万美元的概率为 29%。
-- [美商务部长预测特朗普执政期间经济增长率将达6%，痛斥鲍威尔维持高息](https://x.com/EricLDaugh/status/1999109262409163040?s=20) - 📰 null - 【美商务部长预测特朗普执政期间经济增长率将达6%，痛斥鲍威尔维持高息】金色财经报道，美国商务部长 Howard Lutnick 在接受 CNBC 采访时再次痛斥美联储主席杰罗姆·鲍威尔，指责其维持利率过高。 
-Lutnick 表示，“利率应该更低，杰伊·鲍威尔行动太迟了，他或许太害怕——太害怕领导这个全球最大的 30 万亿美元经济体。我们应该积极主动，而不是畏首畏尾，好像出了什么坏事似的。我们做得很好，伟大正在发生。我们的 GDP 增长了 4%。” 
-同时，他还预测特朗普执政期间经济增长率将达到 6%。“降低利率，降低能源消耗，就能实现经济增长，就能拯救美国。”
-- [迪士尼CEO：对OpenAI的10亿美元股权投资是进入人工智能的“切入点”](https://www.yicai.com/brief/102954510.html) - 📰 null - 【迪士尼CEO：对OpenAI的10亿美元股权投资是进入人工智能的“切入点”】金色财经报道，迪士尼公司首席执行官Bob Iger表示，迪士尼对OpenAI的10亿美元股权投资是进入人工智能的“切入点”，Sora将帮助触及更年轻的观众。
-- [美SEC主席：加密工作组将于15日举办圆桌会议，讨论与金融监控和隐私相关的政策](https://x.com/SECPaulSAtkins/status/1999142798235176967) - 📰 null - 【美SEC主席：加密工作组将于15日举办圆桌会议，讨论与金融监控和隐私相关的政策】金色财经报道，美 SEC 主席 Paul Atkins 发文表示，加密货币工作组将于 12 月 15 日星期一举办圆桌会议，讨论与金融监控和隐私相关的政策问题。 
-本次活动将以线下形式举办，并在 SEC 官网进行直播。
-- [美国劳工统计局：将于1月30日发布美国12月PPI数据](https://flash.jin10.com/detail/20251212004341043800) - 📰 null - 【美国劳工统计局：将于1月30日发布美国12月PPI数据】金色财经报道，美国劳工统计局：将于1月30日发布美国12月PPI数据。
-- [摩根大通在Solana网络发行Galaxy短期债券](https://www.bloomberg.com/news/articles/2025-12-11/jpmorgan-arranges-galaxy-bond-issuance-on-solana-blockchain) - 📰 null - 【摩根大通在Solana网络发行Galaxy短期债券】金色财经报道，摩根大通安排并在 Solana 区块链上为 Galaxy Digital Holdings LP 创建、分销并结算了一笔短期债券，这是利用加密货币底层技术提升金融市场效率的一部分举措。 
-这笔 5000 万美元的美国商业票据由 Coinbase 和资产管理公司 Franklin Templeton 购买，支付手段为 Circle Internet Group Inc. 发行的 USDC 稳定币，相关公司在周四的声明中表示。票据到期时的赎回款项也将以 USDC 支付。
-- [xAI与萨尔瓦多政府合作，推出全国性AI教育计划](https://x.com/elonmusk/status/1999132456083918967) - 📰 null - 【xAI与萨尔瓦多政府合作，推出全国性AI教育计划】金色财经报道，马斯克的人工智能公司xAI宣布与萨尔瓦多政府达成战略合作，将在未来两年内将AI模型Grok部署至全国逾5,000所公立学校，为超过100万名学生与数千名教师提供个性化AI学习支持，打造全球首个国家级AI教育系统。 
-该计划旨在实现因材施教，提供贴合课程内容、因应学生节奏与程度的AI辅导服务。xAI与萨尔瓦多将共同开发AI课堂的安全标准、数据集与应用框架，推动全球教育科技革新。Elon Musk表示，这项合作将“把最先进AI直接交到一整代学生手中”，并重塑教育未来。
-- [特朗普称赞股市再创新高](https://flash.jin10.com/detail/20251211234650410800) - 📰 null - 【特朗普称赞股市再创新高】金色财经报道，美国总统特朗普发文称，“股市刚刚创下历史新高！！！假民调什么时候才能显示我在经济方面表现出色，以及其他方面的成就？？？”
-- [比特币挖矿难度下调0.74%至148.2 T](https://explorer.cloverpool.com/zh-CN/btc/insights-difficulty) - 📰 null - 【比特币挖矿难度下调0.74%至148.2 T】金色财经报道，据CloverPool数据，比特币挖矿难度于12月11日11:47在区块高度927,360处迎来挖矿难度调整，挖矿难度下调0.74%至148.2 T。
-- [21Shares在CBOE推出21Shares XRP ETF，股票代码为TOXR](https://x.com/coinbureau/status/1999113187938144590) - 📰 null - 【21Shares在CBOE推出21Shares XRP ETF，股票代码为TOXR】金色财经报道，21Shares在芝加哥期权交易所（CBOE）推出21Shares XRP ETF，股票代码为TOXR。
-- [币安API更新暗示将推出股票永续合约](https://www.theblock.co/post/382209/binance-api-update-hints-at-stock-perpetual-contracts-as-exchanges-eye-tradfi-markets?utm_source=twitter&utm_medium=social) - 📰 null - 【币安API更新暗示将推出股票永续合约】金色财经报道，据The Block消息，根据币安交易所 12 月 11 日对其衍生品 API 文档的更新信息显示，币安期货 API 新增了一个用于签署“TradFi-Perps 协议合约”的端点，暗示着股票永续期货的筹备工作正在进行中，该交易所尚未正式宣布上线，也尚未正式宣布推出股票永续合约，目前尚不清楚该工具何时推出，以及是否会推出，不过其提供的专用股票永续合约接口表明，相关基础设施正在幕后准备中。
-- [币安上线首个传统资产永续合约品种XAU（现货黄金）]() - 📰 null - 【币安上线首个传统资产永续合约品种XAU（现货黄金）】金色财经报道，据官方页面信息，币安合约已新增上线传统资产 XAU（现货黄金）永续合约交易。
-- [现货白银站上63美元/盎司，再创新高]() - 📰 null - 【现货白银站上63美元/盎司，再创新高】金色财经报道，现货白银站上63美元/盎司，再创新高，日内涨超2%。纽约期银日内大涨4.00%，现报63.48美元/盎司。
-- [某鲸鱼质押2.5万枚ETH，价值7948万美元](https://x.com/OnchainLens/status/1999137713044516899) - 📰 null - 【某鲸鱼质押2.5万枚ETH，价值7948万美元】金色财经报道，据 Onchain Lens 监测，某鲸鱼质押 2.5 万枚 ETH，价值 7948 万美元，据悉该鲸鱼一个月前从 Kraken 提取了这些 ETH，当时价值 8481 万美元。
-- [橡树资本联合创始人：不认为美联储需大幅降息 质疑AI债务融资逻辑](https://flash.jin10.com/detail/20251211224828014800) - 📰 null - 【橡树资本联合创始人：不认为美联储需大幅降息 质疑AI债务融资逻辑】金色财经报道，橡树资本管理公司联合创始人霍华德·马克斯警告称，美联储对资金成本的“干预”将在回报环境趋缓之际，推动人们转向风险更高的投资。他称自己并不认为利率有必要大幅低于现有水平。马克斯说：“我认为美联储大多数时候应保持被动，只有在经济严重过热、趋向恶性通胀，或严重低迷、无法创造就业时才出手救助。我认为目前并非这种情况。”本周早些时候，马克斯在一篇博客文章中写道，他对人工智能对就业的影响感到“恐惧”，还质疑超大规模企业在AI需求仍不确定的情况下，以极低收益率大量发债为AI部署融资的做法。
-- [某巨鲸加仓做多ETH，当前仓位约4.42亿美元](https://x.com/lookonchain/status/1999133026484465751) - 📰 null - 【某巨鲸加仓做多ETH，当前仓位约4.42亿美元】金色财经报道，据链上分析平台 Lookonchain 监测，随着市场下跌，某比特币巨鲸（1011short）加仓做多 20,000 枚 ETH（约 6,330 万美元）。该地址当前持仓 140,094 枚 ETH（约 4.42 亿美元），清算价格为 2,387.28 美元。此交易已从超过 2,600 万美元的盈利转为超过 240 万美元的亏损。
-- [“麻吉”的25倍ETH多头仓位被部分清算，总亏损超2000万美元](https://x.com/OnchainLens/status/1999132710288376166) - 📰 null - 【“麻吉”的25倍ETH多头仓位被部分清算，总亏损超2000万美元】金色财经报道，据链上分析师 Onchain Lens 监测，随着市场下跌，“麻吉”在 ETH 的 25 倍做多仓位部分被清算，并在 11 小时前亏损平仓了部分仓位，目前仍持有的仓位浮亏约 48 万美元。总体而言，Machi 目前已亏损超过 2,160 万美元。
-- [Coinbase选择Chainlink CCIP作为独家跨链基础设施](https://x.com/chainlink/status/1999132796380471484) - 📰 null - 【Coinbase选择Chainlink CCIP作为独家跨链基础设施】金色财经报道，Coinbase 已正式选择 Chainlink CCIP 作为其所有 Coinbase Wrapped Assets 的独家互操作性提供商。Coinbase Wrapped Assets（包括 cbBTC、cbETH、cbDOGE、cbLTC、cbADA 和 cbXRP）目前的总市值约为 70 亿美元。
-- [加密货币初创公司LI.FI完成2900万美元融资](https://fortune.com/2025/12/11/exclusive-crypto-startup-li-fi-raises-29-million/) - 📰 null - 【加密货币初创公司LI.FI完成2900万美元融资】金色财经报道，加密货币初创公司 LI.FI 完成 2900 万美元融资，Multicoin 和 CoinFund 领投，使其总融资额达到约 5200 万美元。LI.FI 计划拓展至不同的交易领域，包括永续期货、收益机会、预测市场和借贷市场，还计划利用这笔新资金招聘更多员工。
-- [加密记者：美官员今日将就《加密货币市场结构法案》进行关键磋商](https://x.com/EleanorTerrett/status/1999130704412619019) - 📰 null - 【加密记者：美官员今日将就《加密货币市场结构法案》进行关键磋商】金色财经报道，据加密记者 Eleanor Terrett，美国参议员今日将继续就《加密货币市场结构法案》进行磋商。今天下午，几家行业头部公司的代表将前往白宫参加另一场关于市场结构的会议。之后，美银、花旗和 Wells Fargo 的首席执行官将与参议员会面，讨论限制稳定币发行方关联公司支付利息的问题，以及其他悬而未决的问题。
+- [glassnode：现货以太坊ETF资金出现初步回暖迹象，年末需求可能正在改善](https://x.com/glassnode/status/1999151637680562399) - 📰 null - 【glassnode：现货以太坊ETF资金出现初步回暖迹象，年末需求可能正在改善】金色财经报道，glassnode发文分析称，现货以太坊ETF在连续数周的稳定净流出后，终于出现了初步回暖迹象。小幅资金开始重新流入，显示赎回压力正在缓解。若能持续转为净流入，将意味着年末需求正在改善。
+- [Coinbase将停止向免费用户提供USDC奖励，奖励仅限付费会员](https://decrypt.co/351946/coinbase-ending-usdc-rewards-free-users-only-paid-members) - 📰 null - 【Coinbase将停止向免费用户提供USDC奖励，奖励仅限付费会员】金色财经报道，加密交易所Coinbase证实，其下周将停止向非付费用户支付USDC奖励，只有Coinbase One高级订阅用户才有资格从其持有的稳定币中获得4%的收益。 
+该交易所周四首先通过一封发送给Coinbase客户的电子邮件宣布了这一消息，称该变更将于12月15日生效。Coinbase发言人证实，USDC奖励如今已成为Coinbase One会员专属福利。
+- [某新地址近3日从OTC平台增持1900枚比特币，价值约1.76亿美元](https://x.com/OnchainLens/status/1998913142248833100) - 📰 null - 【某新地址近3日从OTC平台增持1900枚比特币，价值约1.76亿美元】金色财经报道，据Onchain Lens监测，某新创建的钱包地址从Galaxy Digital收到700枚比特币，价值6480万美元。 
+目前，该钱包总共持有1900枚比特币，总价值约1.76亿美元，此持仓是自12月9日以来陆续从OTC平台购入。
+- [Hex Trust将发行并托管封装瑞波币wXRP，以扩展其在多条区块链上的DeFi适用性](https://www.theblock.co/post/382211/hex-trust-issue-custody-wrapped-xrp-defi-utility-multiple-blockchains?utm_source=twitter&utm_medium=social) - 📰 null - 【Hex Trust将发行并托管封装瑞波币wXRP，以扩展其在多条区块链上的DeFi适用性】金色财经报道，Hex Trust计划发行并托管封装瑞波币wXRP，这是一种与XRP 1:1锚定的代币，旨在拓展该资产在去中心化金融（DeFi）和跨链应用场景中的使用范围。 
+作为受监管的机构托管方，该公司表示，此举将打破XRP仅能在XRP Ledger中流通的限制；在以太坊等已上线Ripple稳定币RLUSD的公链上，wXRP可与RLUSD组成交易对，为市场提供流动性。 
+Hex Trust指出，授权商户可在安全、自动化且完全合规的环境中铸造和赎回wXRP。该公司强调，wXRP与由其合规托管的原生XRP完全挂钩，支持全额赎回；同时用户还可通过合作的DeFi平台获取收益机会。 
+wXRP上线时的总锁仓价值（TVL）将超1亿美元。Hex Trust称，这一规模将为代币提供坚实的初始流动性基础，保障交易流畅度与价格稳定性。
+- [ETH跌破3200美元]() - 📰 null - 【ETH跌破3200美元】金色财经报道，行情显示，ETH跌破3200美元，现报3199.55美元，24小时跌幅达到2.22%，行情波动较大，请做好风险控制。
+- [特朗普下令SEC审查代理咨询机构规则]() - 📰 null - 【特朗普下令SEC审查代理咨询机构规则】金色财经报道，美国总统特朗普发布行政命令，试图限制代理咨询机构的影响力，这是其削弱第三方机构影响上市公司决策能力行动的一部分。这项于周四发布的行政命令指示美国证交会（SEC）主席审查与代理咨询机构相关的规则和法规，并考虑修订或撤销那些与本命令目的不一致的规则、法规、指导文件、公告和备忘录，尤其是在涉及“多元化、公平与包容（DEI）”以及“环境、社会与治理（ESG）”政策的部分。(金十)
+- [BTC跌破92000美元]() - 📰 null - 【BTC跌破92000美元】金色财经报道，行情显示，BTC跌破92000美元，现报91998.47美元，24小时涨幅达到0.72%，行情波动较大，请做好风险控制。
+- [Coinbase计划在12月17日公布其预测市场和代币化股票产品](https://www.bloomberg.com/news/articles/2025-12-11/coinbase-ready-to-launch-prediction-markets-tokenized-stocks?srnd=phx-crypto&embedded-checkout=true) - 📰 null - 【Coinbase计划在12月17日公布其预测市场和代币化股票产品】金色财经报道，加密货币交易所Coinbase Global Inc.计划于下周宣布推出预测市场和代币化股票两项产品。据知情人士透露，Coinbase将在12月17日的展示活动中正式公布这两项产品。值得注意的是，其代币化股票产品将通过内部开发推出，而非通过合作伙伴。
+- [加密货币钱包Tangem集成Aave协议](https://x.com/aave/status/1999134157037822183) - 📰 null - 【加密货币钱包Tangem集成Aave协议】金色财经报道，Aave于X平台发文称，加密货币钱包公司Tangem集成Aave协议，Tangem钱包用户现已可将稳定币存入 Aave 的流动性资金池，获取收益回报。
+- [加密投资公司Blockstream计划收购TradFi对冲基金Corbiere Capital](https://www.coindesk.com/business/2025/12/11/crypto-investment-firm-blockstream-to-acquire-tradfi-hedge-fund-corbiere-capital) - 📰 null - 【加密投资公司Blockstream计划收购TradFi对冲基金Corbiere Capital】金色财经报道，加密投资公司Blockstream Capital Partners（BCP）周四在新闻稿中表示，计划收购Corbiere Capital Management。Corbiere Capital Management是一家总部位于泽西岛的股票对冲基金，由Rodrigo Rodriguez于2023年创立。 
+此次收购的财务细节未予披露。BCP表示，收购Corbiere Capital Management后，将为其现有的比特币相关产品增添股票及事件驱动型策略，构建一个面向机构投资者的多策略平台，此次合并旨在打造更多元化的投资组合，将传统证券与比特币相关投资敞口相结合。Rodriguez将出任BCP旗下新成立的资产管理实体——Blockstream Capital Management的首席投资官。
+- [FTX/Alameda赎回19.48万枚SOL并分发至26个地址，价值2552万美元](https://x.com/EmberCN/status/1999272903742013538) - 📰 null - 【FTX/Alameda赎回19.48万枚SOL并分发至26个地址，价值2552万美元】金色财经报道，据链上分析师余烬监测，FTX/Alameda从质押中赎回了19.48万枚SOL（价值2552万美元），并在4小时前分发转移给26个地址。这些接收SOL的地址多数后续会将代币转入Coinbase或Binance。 
+数据显示，自2023年11月以来，FTX/Alameda质押地址已通过此方式累计赎回并转出956.2万枚SOL（价值12.98亿美元），转出均价为135.8美元。目前该质押地址仍持有407万枚SOL（价值5.55亿美元）处于质押状态。
+- [1011内幕巨鲸增持958枚BTC多单及10万枚SOL多单，总仓位浮盈超1000万美元](https://x.com/OnchainLens/status/1999263829818323254) - 📰 null - 【1011内幕巨鲸增持958枚BTC多单及10万枚SOL多单，总仓位浮盈超1000万美元】金色财经报道，据OnchainLens监测，1011内幕巨鲸再次向HyperLiquid存入1.1亿枚USDC（累计总额：2.3亿美元），并开立新的多头仓位： 
+BTC：5倍做多 
+SOL：20倍做多 
+同时，他仍持有此前的ETH 5倍多头仓位。目前，其所有持仓的合计价值约为5.56亿美元，浮动收益约1000万美元。
+- [某新建钱包再度从Galaxy Digital收到700枚BTC，价值6480万美元](https://x.com/OnchainLens/status/1999269669765841032) - 📰 null - 【某新建钱包再度从Galaxy Digital收到700枚BTC，价值6480万美元】金色财经报道，据Onchain Lens监测，这个新创建的钱包刚刚又从Galaxy Digital收到700枚BTC，价值6480万美元。 
+目前，该钱包共持有1900枚BTC，价值约1.76亿美元。
+- [ether.fi：LiquidUSD还款功能已上线](https://x.com/ether_fi/status/1999266031739764981) - 📰 null - 【ether.fi：LiquidUSD还款功能已上线】金色财经报道，ether.fi于X平台发文称，使用LiquidUSD还款现已上线，可以直接使用LiquidUSD余额即时偿还欠款，无需额外充值。
+- [美国OCC代理审计长Michael Hsu担任风投公司Core Innovation Capital风险合伙人](https://x.com/Yueqi_Yang/status/1999263180858753387) - 📰 null - 【美国OCC代理审计长Michael Hsu担任风投公司Core Innovation Capital风险合伙人】金色财经报道，据The Information加密记者YueqiYang披露，美国货币监理署（OCC）代理审计长Michael Hsu已加入风投公司Core Innovation Capital，担任风险合伙人一职，将为初创企业创始人提供监管合规与政策对接相关支持。
+- [金色晨讯 | 12月12日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 12月12日隔夜重要动态一览】21:00-7:00关键词：OpenAI、FSOC、Galaxy、Movement Labs 
+1.迪士尼将对OpenAI进行10亿美元股权投资； 
+2.美国FSOC年度报告移除加密货币风险警示； 
+3.摩根大通在Solana网络发行Galaxy短期债券； 
+4.白宫：特朗普今天稍晚时候将签署法案和行政令； 
+5.Movement Labs 前联合创始人推出1亿美元加密投资计划； 
+6.彭博分析师：美国市场共有 124 个加密资产 ETF 正在注册中； 
+7.加密记者：美官员今日将就《加密货币市场结构法案》进行关键磋商； 
+8.美SEC主席：加密工作组将于15日举办圆桌会议，讨论与金融监控和隐私相关的政策。
+- [美国总统特朗普：将签署一项与人工智能相关的重要文件]() - 📰 null - 【美国总统特朗普：将签署一项与人工智能相关的重要文件】金色财经报道，美国总统特朗普：将签署一项与人工智能相关的重要文件。人工智能领域可能只有一个赢家。不需要再费劲去争取50个不同的州的批准了。(金十)
+- [美SEC批准DTCC将股票、债券和国债代币化的计划](https://x.com/WatcherGuru/status/1999253197441929297) - 📰 null - 【美SEC批准DTCC将股票、债券和国债代币化的计划】金色财经报道，美国SEC已批准美国存管信托结算公司（DTCC）将股票、债券及国债进行代币化的计划。
+- [美SEC主席：美国金融市场正在转向“链上”运行](https://x.com/WatcherGuru/status/1999250026808127848) - 📰 null - 【美SEC主席：美国金融市场正在转向“链上”运行】金色财经报道，美国证券交易委员会（SEC）主席 Paul Atkins 表示，“美国金融市场正在转向“链上”运行。SEC 优先考虑创新，并积极采用新技术，以实现链上未来。”
+- [美CFTC放宽预测市场平台数据记录要求](https://www.coindesk.com/policy/2025/12/11/cftc-gives-no-action-leeway-to-polymarket-gemini-predictit-ledgerx-over-data-rules) - 📰 null - 【美CFTC放宽预测市场平台数据记录要求】金色财经报道，美国商品期货交易委员会（CFTC）向Polymarket、PredictIt、Gemini和LedgerX/MIAX发出“无执法行动”函，允许它们在满足特定条件下免除部分衍生品数据记录要求。
