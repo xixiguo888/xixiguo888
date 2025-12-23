@@ -1,26 +1,34 @@
-- [花旗集团股价创17年多新高，最新涨幅3%]() - 📰 null - 【花旗集团股价创17年多新高，最新涨幅3%】金色财经报道，花旗集团股价创17年多新高，最新涨幅3%。
-- [美CFTC：Wolf Capital以3.5%的每日加密货币回报误导了3000名投资者](https://financefeeds.com/cftc-says-wolf-capital-misled-3000-investors-with-3-5-daily-crypto-returns/) - 📰 null - 【美CFTC：Wolf Capital以3.5%的每日加密货币回报误导了3000名投资者】金色财经报道，美国商品期货交易委员会（CFTC）已对 Wolf Capital Crypto Trading LLC 及其创始人 Travis Ford 提起民事强制执行诉讼，指控他们运营一个欺诈性投资计划，从散户投资者手中募集了超过 1000 万美元。 
-该诉讼已提交至俄克拉荷马州北区联邦地区法院，诉状称该公司采用庞氏骗局式结构，承诺的每日收益并无实际交易活动作为依据。根据提交的文件，Wolf Capital 在 2022 年 10 月至 2024 年 12 月期间，通过宣传高达 3.5% 的每日稳定收益，吸引了超过 3000 名投资者。美国商品期货交易委员会（CFTC）认为，这些说法在数学上站不住脚，也没有任何可验证的商品相关加密货币交易策略支持。监管机构指控，新投资者的资金被用于支付早期参与者的回报，这是庞氏骗局的典型模式。
-- [特朗普旗下Trump Media再次买入300枚BTC，总持仓量增至11542枚](https://intel.arkm.com/explorer/entity/trump-media) - 📰 null - 【特朗普旗下Trump Media再次买入300枚BTC，总持仓量增至11542枚】金色财经报道，据 Arkham 监测，特朗普旗下 Trump Media 在斥资 1344 万美元买入 150 枚 BTC 后，再次斥资 2688 万美元买入 300 枚 BTC，目前其总持仓量已增至 11542 枚，价值约合 10.3 亿美元。
-- [特朗普或在明年1月第一周任命新的美联储主席](https://flash.jin10.com/detail/20251223000806217800) - 📰 null - 【特朗普或在明年1月第一周任命新的美联储主席】金色财经报道，据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。
-- [Alphabet以47.5亿美元收购数据中心合作伙伴Intersect](https://flash.jin10.com/detail/20251223001328608800) - 📰 null - 【Alphabet以47.5亿美元收购数据中心合作伙伴Intersect】金色财经报道，谷歌母公司Alphabet(GOOG.O)已同意以47.5亿美元现金加承担现有债务的方式，收购清洁能源开发商Intersect Power LLC。这是该公司为显著扩展其数据中心规模以支持人工智能业务而进行的最大交易之一。当前，美国老旧电网难以满足因AI发展、新工厂建设及经济电气化带来的数十年来首次用电激增。此项收购旨在为谷歌的数据中心获取更多电力保障。据媒体此前报道，谷歌去年通过与Intersect合作在数据中心园区附近建设大型发电厂，已持有这家能源供应商的少数股权。谷歌和Alphabet首席执行官桑达尔·皮查伊在一份声明中表示：“Intersect将帮助我们扩大产能，在建设新发电设施以适应新数据中心负载方面更灵活地运作，并重新构想能源解决方案，以推动美国的创新和领导地位。”
-- [标普500指数抹去本月以来的跌幅，有望创2018年以来最长月度连涨]() - 📰 null - 【标普500指数抹去本月以来的跌幅，有望创2018年以来最长月度连涨】金色财经报道，标普500指数抹去本月以来的跌幅，有望创2018年以来最长月度连涨。
-- [Hyperliquid已上线LIT盘前合约，最高支持3倍杠杆](https://app.hyperliquid.xyz/trade/LIT) - 📰 null - 【Hyperliquid已上线LIT盘前合约，最高支持3倍杠杆】金色财经报道，据官方页面显示，Hyperliquid已上线Lighter（LIT）盘前合约，最高支持3倍杠杆。
-- [Trump Media斥资1344万美元增持150枚BTC](https://intel.arkm.com/explorer/entity/trump-media) - 📰 null - 【Trump Media斥资1344万美元增持150枚BTC】金色财经报道，据Arkham监测数据显示，大约9分钟前，特朗普旗下Trump Media斥资1344万美元增持150枚BTC，目前Trump Media的比特币持有量达到11,241枚，价值约合10亿美元。
-- [立陶宛银行敦促加密资产服务商确保平稳退出市场](https://www.lb.lt/en/news/lietuvos-bankas-crypto-asset-service-providers-that-do-not-intend-to-continue-their-operations-must-ensure-smooth-winding-down) - 📰 null - 【立陶宛银行敦促加密资产服务商确保平稳退出市场】金色财经报道，立陶宛银行发布通知，敦促不打算申请加密资产服务提供商许可证的虚拟货币交易运营商立即采取行动，确保业务平稳关闭。根据欧盟加密资产市场法规(MiCA)，立陶宛的过渡期将于2025年12月31日结束，此后未获许可的加密资产服务将被视为非法金融活动，可能面临最高四年监禁的处罚。 
-监管机构强调，相关企业应积极开展沟通，确保客户及时获知关闭时间表及资产转移指南，并在过渡期结束前归还客户资产。目前约有30家公司已向立陶宛银行申请加密资产服务提供商许可证，其中10个申请正在接受评估。
-- [Sky Protocol上周回购3230万枚SKY](https://x.com/SkyEcosystem/status/2003127101583720502) - 📰 null - 【Sky Protocol上周回购3230万枚SKY】金色财经报道，Sky Protocol 在社交媒体上发文表示，其上周已使用 190 万 USDS 回购了 3230 万 SKY。 
-自计划启动以来，累计回购总额现已超过 9400 万 USDS。
-- [某鲸鱼向HyperLiquid存入109万USDC，开设20倍XYZ100空头仓位](https://x.com/OnchainLens/status/2003128162830688449) - 📰 null - 【某鲸鱼向HyperLiquid存入109万USDC，开设20倍XYZ100空头仓位】金色财经报道，据 Onchain Lens 监测，一位巨鲸向 HyperLiquid 存入 109 万 USDC，并以 20 倍杠杆开立了 XYZ100 的空头头寸。 
-这位巨鲸还持有 BTC 的空头头寸和 FARTCOIN 的多头头寸。 
-注：XYZ100 本质上追踪纳斯达克 100 指数（Nasdaq 100）的表现，类似于链上版本的 Nasdaq 100 期货，允许用户 24/7 交易美国科技股指数的涨跌（包括杠杆）。
-- [ETHZilla出售2.4万枚ETH筹资7450万美元，将专注于RWA代币化业务](https://x.com/ETHZilla_ETHZ/status/2003096385021759668) - 📰 null - 【ETHZilla出售2.4万枚ETH筹资7450万美元，将专注于RWA代币化业务】金色财经报道，ETHZilla官方宣布，公司已出售24,291枚ETH，筹集约7450万美元资金，计划将全部或大部分收益用于赎回公司的高级担保可转换票据。赎回将于12月24日和30日完成。同时，ETHZilla表示将停止在官网提供mNAV仪表板，转而专注于RWA代币化业务的收入和现金流增长，但承诺继续通过SEC文件和社交媒体提供资产负债表更新及ETH库存重大变化信息。
-- [Kalshi与BNB Chain达成合作，支持通过BSC存入BNB和稳定币参与预测交易](https://www.bnbchain.org/en/blog/kalshi-enables-deposits-for-bsc) - 📰 null - 【Kalshi与BNB Chain达成合作，支持通过BSC存入BNB和稳定币参与预测交易】金色财经报道，BNB Chain 现已获得预测市场平台 Kalshi 支持。这意味着用户可以直接使用在 BSC 上持有的 BNB 和稳定币，来交易现实世界事件的预测。美国境内 Kalshi 账户可使用 BSC 上的原生 BNB 和 USDT 进行存取；国际 Kalshi 账户可通过关联的交易平台，使用 BSC 上的 BNB、USDT 和 USDC。
-- [英伟达持仓概念股集体拉升]() - 📰 null - 【英伟达持仓概念股集体拉升】金色财经报道，英伟达持仓概念股集体拉升，NEBIUS涨超6%，Applied Digital、Recursion Pharmaceuticals涨超4%，CoreWeave涨超3%。
-- [Coinbase收购预测市场初创公司The Clearing Company](https://www.theblock.co/post/383497/coinbase-to-acquire-prediction-markets-startup-the-clearing-company?utm_source=twitter&utm_medium=social) - 📰 null - 【Coinbase收购预测市场初创公司The Clearing Company】金色财经报道，Coinbase 已达成协议收购预测市场初创公司 The Clearing Company，交易预计将于 2026 年 1 月完成。 
-此次收购是 Coinbase “全能交易所”战略的一部分，旨在深化其在事件交易领域的布局。The Clearing Company 团队将加入 Coinbase，帮助扩展其预测市场产品。该初创公司成立于今年，曾在 8 月获得 1,500 万美元种子轮融资，投资方包括 Coinbase Ventures。
-- [特斯拉股价创下历史新高，最新上涨2.5%]() - 📰 null - 【特斯拉股价创下历史新高，最新上涨2.5%】金色财经报道，特斯拉(TSLA.O)股价创下历史新高，最新上涨2.5%。
-- [美元指数DXY日内下跌0.50%]() - 📰 null - 【美元指数DXY日内下跌0.50%】金色财经报道，美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。
-- [美股三大指数集体高开]() - 📰 null - 【美股三大指数集体高开】金色财经报道，美股三大指数集体高开，纳指涨0.62%，道指涨0.14%，标普500指数涨0.44%。第一联合涨超25%，此前有报道称CINTAS已提交另一份收购要约。华纳兄弟探索涨超3%。有报道称拉里·埃里森将为派拉蒙对华纳兄弟探索的收购交易提供404亿美元的担保。美光科技涨超4%，该公司上个交易日收涨近7%。
-- [稳定币支付基础设施Coinbax完成420万美元种子轮融资](https://www.globenewswire.com/news-release/2025/12/22/3209148/0/en/Coinbax-Raises-4-2M-to-Bring-Institutional-Controls-to-Stablecoin-Payments.html) - 📰 null - 【稳定币支付基础设施Coinbax完成420万美元种子轮融资】金色财经报道，基于Base和Solana构建的稳定币支付基础设施Coinbax宣布完成420万美元种子轮融资，BankTech Ventures领投，Connecticut Innovations、Paxos、SpringTime Ventures等参投，新资金将支持其为数字资产开发托管、政策执行和可编程结算功能，以及与托管和钱包基础设施提供商的集成。
-- [美联储理事米兰：支持降息50个基点的必要性有所减弱]() - 📰 null - 【美联储理事米兰：支持降息50个基点的必要性有所减弱】金色财经报道，美联储理事米兰表示，随着近期货币政策调整的推进，他此前主张降息50个基点的必要性已有所减弱。米兰指出，此前通胀数据中出现了一些异常波动，部分与政府停摆有关。这些异常信号表明，美联储政策立场应朝更宽松的方向调整。他强调，目前并未看到经济在短期内陷入衰退的风险，但认为中性利率水平已明显下移，货币政策必须反映这一结构性变化。若政策利率未能持续下调以贴近新的中性水平，反而可能增加经济陷入衰退的风险。此外，对于自身任期问题，米兰坦言尚不确定是否会留任。他表示：如果到1月底仍未有继任者获得确认，我将默认自己将继续履职。
+- [Lighter：将移除女巫地址、自成交以及刷量交易所获得的积分，并重新分配给社区]() - 📰 null - 【Lighter：将移除女巫地址、自成交以及刷量交易所获得的积分，并重新分配给社区】12 月 23 日消息，Lighter 在 Discord 发布公告表示，“已进入第二季积分活动的最后阶段，目前正在进行数据分析，以移除女巫地址、自成交以及刷量交易所获得的积分。所有被削减的积分（包括已经被移除的部分）都将重新分配给社区。”
+- [比特币财库公司Matador Technologies获批募资8000万加元以增持BTC](https://www.globenewswire.com/news-release/2025/12/22/3209569/0/en/Matador-Technologies-Announces-Approval-of-CAD-80-Million-Base-Shelf-Prospectus-to-Support-Strategic-Bitcoin-Accumulation.html) - 📰 null - 【比特币财库公司Matador Technologies获批募资8000万加元以增持BTC】金色财经报道，加拿大上市比特币财库公司Matador Technologies宣布已获得安大略省证券委员会获批配股募资，预计将在25个月内通过发行普通股、认股权证、认购收据、债券等募资8000万加元，新资金将用于一般公司用途和增持比特币，目前该公司持有175枚比特币，计划在2026年底将比特币总持有量增加到1000枚。
+- [Lighter宣布选择Chainlink作为官方预言机提供商](https://x.com/chainlink/status/2003271084658033015) - 📰 null - 【Lighter宣布选择Chainlink作为官方预言机提供商】12月23日消息，据Chainlink官方消息，在SmartCon 2025大会上，Lighter创始人Vladimir Novakovski宣布选择Chainlink作为其官方预言机提供商。
+- [某巨鲸将38亿枚PUMP存入FalconX，浮亏达1222万美元](https://x.com/OnchainLens/status/2003264319719633012) - 📰 null - 【某巨鲸将38亿枚PUMP存入FalconX，浮亏达1222万美元】金色财经报道，据Onchain Lens监测，某巨鲸在持有PUMP3个月后，将38亿枚PUMP存入FalconX，价值757万美元，浮亏1222万美元。该巨鲸最初从Binance提取这些PUMP，价值1953万美元。
+- [VanEck：比特币矿工近期大规模“投降”或预示市场底部临近](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action) - 📰 null - 【VanEck：比特币矿工近期大规模“投降”或预示市场底部临近】金色财经报道，VanEck分析师表示，截至12月15日的一个月内，比特币算力（Hashrate）下降了4%。这一现象在未来数月内可能对比特币价格构成利好，因为矿工投降在历史上往往是一个看涨的反向指标。 
+VanEck加密研究主管Matt Sigel和高级投资分析师Patrick Bush在周一发布的报告中指出：“当算力压缩在较长时间内持续存在时，未来获得正收益的概率更高，且涨幅通常更大。” 
+他们进一步指出，自2014年以来，当比特币网络算力在此前30天出现下降时，其未来90天的收益有65%的时间为正；相比之下，在算力上升的情况下，这一比例仅为54%。即使将观察周期拉长，这一规律依然成立：当90天算力增长为负时，随后180天比特币价格上涨的概率达到77%，平均涨幅约72%，明显优于算力上升情况下61%的正收益概率。
+- [Bubblemaps：Justin Sun地址仍在WLFI黑名单中，其WLFI代币三个月内缩水约6000万美元](https://www.theblock.co/post/383577/justin-suns-locked-world-liberty-tokens) - 📰 null - 【Bubblemaps：Justin Sun地址仍在WLFI黑名单中，其WLFI代币三个月内缩水约6000万美元】12月23日消息，据区块链分析平台Bubblemaps监测，Justin Sun地址仍在WLFI黑名单中，其锁定的WLFI代币价值在三个月内缩水约6000万美元。 
+今年9月，Justin Sun在转移约900万美元WLFI代币后被该项目列入黑名单，导致其持有的代币被冻结。尽管Justin Sun曾投入大量资源支持这个由美国总统特朗普支持的Defi项目，包括承诺购买价值1亿美元的TRUMP迷因币和投资7500万美元的WLFI代币，但仍遭到封禁。
+- [Espresso已上线空投注册页面](https://x.com/espressoFNDN/status/2003183253331804650) - 📰 null - 【Espresso已上线空投注册页面】金色财经报道，区块链基础设施Espresso基金会发文表示，“已上线ESP空投注册页面，用户可查询是否符合Espresso空投资格。代币申领页面将于2026年初开放。从现在起到2026年初开放申领之前，计划新增更多空投资格条件。”
+- [分析：Strategy上周暂停购买比特币，反映出其在高波动的市场环境下的谨慎态度](https://x.com/DeItaone/status/2003144172535001249) - 📰 null - 【分析：Strategy上周暂停购买比特币，反映出其在高波动的市场环境下的谨慎态度】金色财经报道，Strategy Inc.在截至12月21日的一周内暂停了比特币买入操作，同时将现金储备提升至21.9亿美元。该公司通过出售股票筹集了7.48亿美元，为12月初设立的美元储备金增资，以覆盖股息发放及债务偿付需求。此次暂停买入发生在该公司近期一系列比特币增持操作之后，且正值比特币价格较10月历史高点下跌约30%的市场背景下。 
+目前Strategy持有671,268枚比特币，总价值超600亿美元，其每股净资产调整值（mNAV）约为1.1，这一数据也凸显出公司在动荡市场环境下的审慎态度。
+- [美CFTC 代理主席 Caroline Pham 正式卸任，Michael Selig 宣誓就任第 16 任主席](https://www.cftc.gov/PressRoom/PressReleases/9164-25) - 📰 null - 【美CFTC 代理主席 Caroline Pham 正式卸任，Michael Selig 宣誓就任第 16 任主席】金色财经报道，据 CFTC 官网公告，美国商品期货交易委员会（CFTC）代理主席 Caroline D.Pham 正式卸任，由 Michael Selig 接任第 16 任主席。 
+Selig 此前任职于 SEC 加密资产特别小组，积极推动数字资产市场结构立法，并主张“结束监管即执法”做法。他表示将引领 CFTC 在美国金融创新新时代中制定“常识性”规则，助力美国成为全球加密资本中心。
+- [某巨鲸增持BTC、ETH及SOL，总持仓达2.43亿美元](https://x.com/OnchainLens/status/2003256875085889985) - 📰 null - 【某巨鲸增持BTC、ETH及SOL，总持仓达2.43亿美元】金色财经报道，据Onchain Lens监测，一位此前通过出售255个BTC开设空头头寸的巨鲸已进一步增加了其在多种加密资产上的持仓。该巨鲸分别将BTC、ETH和SOL的持仓量提高了10倍、15倍和20倍。目前，该巨鲸的综合持仓价值达2.43亿美元，具体包括：1,899个BTC（约1.68亿美元）、18,527.5298个ETH（约5600万美元）以及151,209.08个SOL（约1900万美元）。
+- [卡巴斯基警告：Stealka恶意软件通过游戏模组攻击加密钱包](https://financefeeds.com/kaspersky-stealka-malware-crypto-wallet-game-mods/) - 📰 null - 【卡巴斯基警告：Stealka恶意软件通过游戏模组攻击加密钱包】金色财经报道，网络安全公司卡巴斯基发现了一种名为Stealka的高级信息窃取型恶意软件，对加密货币用户构成重大威胁。该恶意软件最早于2025年11月被发现，通常伪装成游戏模组和盗版软件，通过包括GitHub、SourceForge以及Google Sites在内的可信平台传播。 
+Stealka会冒充Roblox、《侠盗猎车手 V》（GTA V） 等热门游戏的外挂和模组，同时也伪装成Microsoft Visio等正版软件的破解版本。攻击者还搭建了外观专业的虚假网站用于分发该恶意软件，使用户在缺乏完善安全防护的情况下很难识别这一威胁。
+- [今日恐慌与贪婪指数降至24，等级仍为极度恐慌](https://alternative.me/crypto/fear-and-greed-index/#google_vignette) - 📰 null - 【今日恐慌与贪婪指数降至24，等级仍为极度恐慌】金色财经报道，今日恐慌与贪婪指数降至24（昨日为25），等级仍为极度恐慌。注：恐慌指数阈值为0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。
+- [Aave创始人以均价157.78美元买入32,660枚AAVE](https://x.com/OnchainLens/status/2003252549852495977) - 📰 null - 【Aave创始人以均价157.78美元买入32,660枚AAVE】金色财经报道，据Onchain Lens监测，Aave创始人Stani Kulechov花费1699枚ETH（515万美元）买入32,660枚AAVE，均价157.78美元。他目前持有84,033枚AAVE，价值1260万美元，浮亏229万美元。
+- [Bitwise顾问：没有波动率提升，比特币不可能真正上涨](https://x.com/dgt10011/status/2003104906916622802) - 📰 null - 【Bitwise顾问：没有波动率提升，比特币不可能真正上涨】金色财经报道，Bitwise顾问JeffPark在社交媒体上发文表示，“随着2025年即将结束，比特币的价格表现令不少人感到失望。再次提醒：如果没有自身波动率的上升，比特币价格就不可能出现真正有意义的上涨。”
+- [金色晨讯 | 12月23日隔夜重要动态一览]() - 📰 null - 【金色晨讯 | 12月23日隔夜重要动态一览】21:00-7:00关键词：Erebor、Strategy、BitMine、Trump Media 
+1.特朗普或在明年1月第一周任命新的美联储主席； 
+2.美联储理事米兰：我们认为最终会下调政策利率； 
+3.银行初创公司Erebor获FDIC批准后融资3.5亿美元； 
+4.Strategy：上周未增持比特币，已增加7.48亿美元储备； 
+5.Coinbase收购预测市场初创公司The Clearing Company； 
+6.BitMine上周增持约9.88万枚ETH，总持仓超400万枚ETH； 
+7.知情人士：摩根大通考虑向机构客户提供加密货币交易服务； 
+8.特朗普旗下Trump Media再次买入300枚BTC，总持仓量增至11542枚。
+- [USDC Treasury在以太坊上销毁5000万枚USDC](https://x.com/whale_alert/status/2003242273882898886) - 📰 null - 【USDC Treasury在以太坊上销毁5000万枚USDC】金色财经报道，据链上数据追踪服务Whale Alert监测，北京时间上午7:12左右，USDC Treasury在以太坊上销毁5000万枚USDC。
+- [现货黄金站上4450美元/盎司，再创历史新高]() - 📰 null - 【现货黄金站上4450美元/盎司，再创历史新高】金色财经报道，现货黄金站上4450美元/盎司，再创历史新高，日内涨0.15%。
+- [美联储明年1月维持利率不变的概率为80.1%]() - 📰 null - 【美联储明年1月维持利率不变的概率为80.1%】金色财经报道，据CME“美联储观察”：美联储明年1月降息25个基点的概率为19.9%，维持利率不变的概率为80.1%。到明年3月累计降息25个基点的概率为44.7%，维持利率不变的概率为47.1%，累计降息50个基点的概率为8.2%。
+- [离岸人民币兑美元较上周五纽约尾盘涨31点](https://www.cls.cn/detail/2237039) - 📰 null - 【离岸人民币兑美元较上周五纽约尾盘涨31点】金色财经报道，周一（12月22日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0311元，较上周五纽约尾盘涨31点，日内整体交投于7.0369-7.0298元区间。
+- [美银CEO：人工智能的经济效益正加速显现](https://flash.jin10.com/detail/20251223033826278800) - 📰 null - 【美银CEO：人工智能的经济效益正加速显现】金色财经报道，美国银行CEO莫伊尼汉表示，人工智能正开始对美国经济产生更大影响。莫伊尼汉周一接受电视采访时表示：“今年AI投资持续积累，明年及未来几年可能会成为更重要的增长动力。AI的影响正日益凸显，虽然不能将所有增长归因于AI，但其边际效应已相当显著。”执掌该行近15年的莫伊尼汉称，美银预测美国明年经济将保持强劲，预计增长2.4%，高于2025年约2%的预期。他表示，尽管劳动力市场开始趋软，但这更像是就业市场的正常化调整。莫伊尼汉指出，鉴于AI产业由少数公司主导，即使行业过热后出现回调，美银认为其对经济（包括消费者影响和失业风险）构成的威胁相对有限。
